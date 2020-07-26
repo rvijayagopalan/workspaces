@@ -1,0 +1,162 @@
+{'52WeekChange': -0.37443048,
+ 'SandP52WeekChange': None,
+ 'address1': '3111 C Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 26287,
+ 'averageVolume': 31263,
+ 'averageVolume10days': 26287,
+ 'beta': 0.60168,
+ 'beta3Year': None,
+ 'bid': 22.99,
+ 'bidSize': 900,
+ 'bookValue': 31.059,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Anchorage',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.35,
+ 'dayLow': 22.98,
+ 'dividendRate': 1.36,
+ 'dividendYield': 0.0583,
+ 'earningsQuarterlyGrowth': -0.76,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.249,
+ 'enterpriseValue': 124390640,
+ 'exDividendDate': 1591747200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 23.593714,
+ 'fiftyTwoWeekHigh': 42.28,
+ 'fiftyTwoWeekLow': 17.32,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.96,
+ 'floatShares': 6241452,
+ 'forwardEps': 1.6,
+ 'forwardPE': 14.36875,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 431,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01816,
+ 'heldPercentInstitutions': 0.77769995,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1190160000,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/northrim.com',
+ 'longBusinessSummary': 'Northrim BanCorp, Inc. operates as the bank holding '
+                        'company for Northrim Bank that provides commercial '
+                        'banking products and services to businesses and '
+                        'professional individuals in Alaska. It operates in '
+                        'two segments, Community Banking and Home Mortgage '
+                        'Lending. The company offers noninterest-bearing '
+                        'checking accounts and interest-bearing time deposits, '
+                        'checking and savings accounts, money market deposit '
+                        'accounts, certificates of deposit, and courier '
+                        'noncash deposits. It also provides family residential '
+                        'mortgages; commercial loans, such as secured and '
+                        'unsecured loans for working capital and expansion; '
+                        'commercial real estate loans; construction loans for '
+                        'commercial real estate projects, and land development '
+                        'and residential subdivision construction loans; and '
+                        'loans for automobiles, recreational vehicles, boats, '
+                        'and other consumer purchases, as well as home equity '
+                        'and commercial credit lines, and factoring services. '
+                        'In addition, the company offers other services that '
+                        'include consumer online banking, mobile app and '
+                        'mobile deposit, mobile Web and text banking, business '
+                        'online banking, personal finance, online documents, '
+                        'consumer and business debit cards, home equity '
+                        'advantage access cards, and telebanking and automated '
+                        'teller services. Further, it provides personalized '
+                        'checks, overdraft protection for savings accounts, '
+                        'commercial drive-up banking services, automatic '
+                        'transfers and payments, People Pay services, external '
+                        'and wire transfers, bill pay services, direct payroll '
+                        'deposits, electronic tax payments, automated clearing '
+                        'house origination and receipt services, remote '
+                        'deposit capture services, account reconciliation and '
+                        'positive pay services, merchant and cash management '
+                        'programs, annuity products, and long term investment '
+                        'portfolios. As of January 27, 2020, the company '
+                        'operated 16 branches in Anchorage, the Matanuska '
+                        'Valley, Juneau, Fairbanks, Ketchikan, and Sitka. '
+                        'Northrim BanCorp, Inc. was founded in 1990 and is '
+                        'headquartered in Anchorage, Alaska.',
+ 'longName': 'Northrim BanCorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 146356640,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_333352',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 17412000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 23.07,
+ 'openInterest': None,
+ 'payoutRatio': 0.5039,
+ 'pegRatio': None,
+ 'phone': '907-562-0062',
+ 'previousClose': 23.34,
+ 'priceHint': 2,
+ 'priceToBook': 0.7402041,
+ 'priceToSalesTrailing12Months': 1.4699903,
+ 'profitMargins': 0.17488001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.35,
+ 'regularMarketDayLow': 22.98,
+ 'regularMarketOpen': 23.07,
+ 'regularMarketPreviousClose': 23.34,
+ 'regularMarketPrice': 23.07,
+ 'regularMarketVolume': 13392,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 6366100,
+ 'sharesPercentSharesOut': 0.019,
+ 'sharesShort': 120882,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 45366,
+ 'shortName': 'Northrim BanCorp Inc',
+ 'shortPercentOfFloat': 0.019299999,
+ 'shortRatio': 3.51,
+ 'startDate': None,
+ 'state': 'AK',
+ 'strikePrice': None,
+ 'symbol': 'NRIM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.34,
+ 'trailingAnnualDividendYield': 0.05741217,
+ 'trailingEps': 2.599,
+ 'trailingPE': 8.84571,
+ 'twoHundredDayAverage': 27.881943,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'd6439bf6-261c-3cd1-a053-2d168b8a7f8d',
+ 'volume': 13392,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.northrim.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '99503'}

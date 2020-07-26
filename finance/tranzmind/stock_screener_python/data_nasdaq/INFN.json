@@ -1,0 +1,161 @@
+{'52WeekChange': 1.108108,
+ 'SandP52WeekChange': None,
+ 'address1': '140 Caspian Court',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 7.76,
+ 'askSize': 4000,
+ 'averageDailyVolume10Day': 3902250,
+ 'averageVolume': 3365460,
+ 'averageVolume10days': 3902250,
+ 'beta': 0.973669,
+ 'beta3Year': None,
+ 'bid': 7.63,
+ 'bidSize': 1400,
+ 'bookValue': 1.974,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Sunnyvale',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 7.79,
+ 'dayLow': 7.575,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -19.399,
+ 'enterpriseToRevenue': 1.348,
+ 'enterpriseValue': 1801096960,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 6.0694284,
+ 'fiftyTwoWeekHigh': 8.35,
+ 'fiftyTwoWeekLow': 3.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 156686977,
+ 'forwardEps': 0.11,
+ 'forwardPE': 70,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3302,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.02329,
+ 'heldPercentInstitutions': 0.92181,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/infinera.com',
+ 'longBusinessSummary': 'Infinera Corporation provides optical transport '
+                        'networking equipment, software, and services '
+                        "worldwide. The company's product portfolio includes "
+                        'Infinera Groove series of modular and sled-based '
+                        'platforms to support a variety of transport network '
+                        'applications; 7300 series, an SDN-ready coherent '
+                        'optical transport system; FlexILS open line system '
+                        'platform that connects various Infinera and '
+                        'third-party terminal equipment platforms over '
+                        'long-distance fiber optic cable providing switching, '
+                        'multiplexing, amplification, and management channels; '
+                        'and 7090 and 7100 series packet transport platforms. '
+                        'It also offers Infinera XTM series packet-optical '
+                        'transport platform that enables high performance '
+                        'metro networks with service-aware, '
+                        'application-specific capabilities; XTC series '
+                        'multi-terabit packet optical transport platforms that '
+                        'integrate digital OTN switching and optical WDM '
+                        'transmission; mTera series universal transport '
+                        'platform; and XT series for long-haul and subsea '
+                        'applications. In addition, the company Infinera Cloud '
+                        'Xpress Family designed to meet the varying needs of '
+                        'ICPs, communication service providers, internet '
+                        'exchange service providers, enterprises, and other '
+                        'large-scale data center operators; DRX series of '
+                        'routers; and 8600 series of SDN-ready Internet '
+                        'Protocol/MPLS routers. Further, it provides transcend '
+                        'software suite; Infinera CNOS, a hardware-independent '
+                        'network operating system; and a range of support '
+                        'services for all hardware and software products. The '
+                        'company also serves telecommunications service '
+                        'providers, internet content providers, cable '
+                        'providers, wholesale carriers, research and education '
+                        'institutions, large enterprises, and government '
+                        'entities. It markets and sells its products and '
+                        'related support services primarily through its direct '
+                        'sales force. The company was formerly known as Zepton '
+                        'Networks. Infinera Corporation was founded in 2000 '
+                        'and is headquartered in Sunnyvale, California.',
+ 'longName': 'Infinera Corporation',
+ 'market': 'us_market',
+ 'marketCap': 1439106816,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2527714',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': -364284992,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 7.7,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -3.55,
+ 'phone': '408 572 5200',
+ 'previousClose': 7.8,
+ 'priceHint': 2,
+ 'priceToBook': 3.9007092,
+ 'priceToSalesTrailing12Months': 1.0768284,
+ 'profitMargins': -0.27258,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 7.79,
+ 'regularMarketDayLow': 7.575,
+ 'regularMarketOpen': 7.7,
+ 'regularMarketPreviousClose': 7.8,
+ 'regularMarketPrice': 7.7,
+ 'regularMarketVolume': 3392418,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 183198000,
+ 'sharesPercentSharesOut': 0.1451,
+ 'sharesShort': 27113353,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 26780917,
+ 'shortName': 'Infinera Corporation',
+ 'shortPercentOfFloat': 0.20729999,
+ 'shortRatio': 8.32,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'INFN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.023,
+ 'twoHundredDayAverage': 6.1643167,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '244338c8-3119-3533-90d6-1022544a1e0f',
+ 'volume': 3392418,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.infinera.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94089'}

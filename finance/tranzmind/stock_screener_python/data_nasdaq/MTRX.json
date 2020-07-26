@@ -1,0 +1,163 @@
+{'52WeekChange': -0.48004377,
+ 'SandP52WeekChange': None,
+ 'address1': '5100 East Skelly Drive',
+ 'address2': 'Suite 500',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 9.18,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 100337,
+ 'averageVolume': 207266,
+ 'averageVolume10days': 100337,
+ 'beta': 1.419607,
+ 'beta3Year': None,
+ 'bid': 9.15,
+ 'bidSize': 800,
+ 'bookValue': 11.918,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Tulsa',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9.72,
+ 'dayLow': 9.14,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 3.637,
+ 'enterpriseToRevenue': 0.147,
+ 'enterpriseValue': 191862816,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 9.827143,
+ 'fiftyTwoWeekHigh': 24.36,
+ 'fiftyTwoWeekLow': 7.11,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 25623501,
+ 'forwardEps': 0.57,
+ 'forwardPE': 16.052631,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01928,
+ 'heldPercentInstitutions': 1.0093399,
+ 'industry': 'Oil & Gas Equipment & Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1069632000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/matrixservicecompany.com',
+ 'longBusinessSummary': 'Matrix Service Company provides engineering, '
+                        'fabrication, infrastructure, construction, and '
+                        'maintenance services primarily to the oil, gas, '
+                        'power, petrochemical, industrial, agricultural, '
+                        'mining, and minerals markets in the United States, '
+                        "Canada, and internationally. The company's Electrical "
+                        'Infrastructure segment offers power delivery '
+                        'services, including construction of new substations, '
+                        'upgrades of existing substations, short-run '
+                        'transmission line installations, distribution '
+                        'upgrades, and maintenance; and emergency and storm '
+                        'restoration services. It also provides construction '
+                        'and maintenance services to combined cycle plants and '
+                        "other natural gas fired power stations. The company's "
+                        'Oil Gas & Chemical segment offers plant maintenance, '
+                        'turnarounds, engineering, and capital construction '
+                        'services; and hydro-blasting and excavating, advanced '
+                        'chemical cleaning, and vacuum services, as well as '
+                        'performs work in the petrochemical, upstream '
+                        'petroleum, sulfur extraction, and recovery and '
+                        'processing markets. Its Storage Solutions segment '
+                        'undertakes work related to aboveground storage tanks '
+                        'and terminals; and liquefied natural gas, liquid '
+                        'nitrogen/liquid oxygen, liquid petroleum, and other '
+                        'specialty vessels, which comprise spheres, as well as '
+                        'marine structures and truck and rail '
+                        'loading/offloading facilities. Its services include '
+                        'engineering, fabrication and construction, and '
+                        'maintenance and repair, including planned and '
+                        'emergency services, as well as geodesic domes, '
+                        'aluminum internal floating roofs, floating suction '
+                        'and skimmer systems, roof drain systems, and floating '
+                        "roof seals. The company's Industrial segment offers "
+                        'engineering, fabrication and construction, and '
+                        'maintenance and repair, which include planned and '
+                        'emergency services; designs instrumentation and '
+                        'control systems; and offer specialized expertise in '
+                        'the design and construction of bulk material handling '
+                        'systems. The company was founded in 1984 and is '
+                        'headquartered in Tulsa, Oklahoma.',
+ 'longName': 'Matrix Service Company',
+ 'market': 'us_market',
+ 'marketCap': 239179168,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_31193',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -14540000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 9.52,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.07,
+ 'phone': '918-838-8822',
+ 'previousClose': 9.51,
+ 'priceHint': 2,
+ 'priceToBook': 0.7677462,
+ 'priceToSalesTrailing12Months': 0.18344563,
+ 'profitMargins': -0.01115,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9.72,
+ 'regularMarketDayLow': 9.14,
+ 'regularMarketOpen': 9.52,
+ 'regularMarketPreviousClose': 9.51,
+ 'regularMarketPrice': 9.52,
+ 'regularMarketVolume': 67146,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Energy',
+ 'sharesOutstanding': 26139800,
+ 'sharesPercentSharesOut': 0.0163,
+ 'sharesShort': 426716,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 438124,
+ 'shortName': 'Matrix Service Company',
+ 'shortPercentOfFloat': 0.0198,
+ 'shortRatio': 1.68,
+ 'startDate': None,
+ 'state': 'OK',
+ 'strikePrice': None,
+ 'symbol': 'MTRX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.546,
+ 'twoHundredDayAverage': 11.92554,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'bc5e34bc-4479-36f4-8e33-681ec69aed40',
+ 'volume': 67146,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.matrixservicecompany.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '74135'}

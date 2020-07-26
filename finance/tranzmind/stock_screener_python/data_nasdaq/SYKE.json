@@ -1,0 +1,157 @@
+{'52WeekChange': -0.058394194,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '400 North Ashley Drive',
+ 'address2': 'Suite 2800',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27.12,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 164062,
+ 'averageVolume': 241252,
+ 'averageVolume10days': 164062,
+ 'beta': 0.835294,
+ 'beta3Year': None,
+ 'bid': 27.09,
+ 'bidSize': 800,
+ 'bookValue': 20.895,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Tampa',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 27.69,
+ 'dayLow': 26.985,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.191,
+ 'enterpriseToEbitda': 7.666,
+ 'enterpriseToRevenue': 0.778,
+ 'enterpriseValue': 1262794752,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 27.148857,
+ 'fiftyTwoWeekHigh': 38.24,
+ 'fiftyTwoWeekLow': 22.12,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 37318629,
+ 'forwardEps': 2.41,
+ 'forwardPE': 11.240664,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 54900,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.07476,
+ 'heldPercentInstitutions': 0.94074,
+ 'industry': 'Information Technology Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 864950400,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sykes.com',
+ 'longBusinessSummary': 'Sykes Enterprises, Incorporated, together with its '
+                        'subsidiaries, provides multichannel demand generation '
+                        'and customer engagement solutions and services. The '
+                        "company's customer care services include handling "
+                        'billing inquiries and claims, activating customer '
+                        'accounts, resolving complaints, '
+                        'cross-selling/up-selling, and prequalifying and '
+                        'warranty management, as well as offers health '
+                        'information and dispatching roadside assistance. Its '
+                        'technical support services comprise support around '
+                        'complex networks, hardware and software, '
+                        'communications equipment, Internet access technology, '
+                        'and Internet portal usage. The company also provides '
+                        'customer acquisition services, which focuses around '
+                        'digital marketing, multichannel demand generation, '
+                        'and inbound up-selling and sales conversion, as well '
+                        "as outbound selling of its clients' products and "
+                        'services. In addition, it offers consulting, '
+                        'implementation, hosting, and managed services that '
+                        'help clients in back-office workflow; fulfillment '
+                        'services, such as order processing, inventory '
+                        'control, product delivery, and product returns '
+                        'handling; and enterprise support services comprising '
+                        'technical staffing services and outsourced corporate '
+                        'help desk solutions. The company provides its '
+                        'services through phone, email, social media, text '
+                        'messaging, chat, and digital self-service support. It '
+                        'serves corporations, medium-sized businesses, and '
+                        'public institutions in the financial services, '
+                        'communications, technology, transportation and '
+                        'leisure, healthcare, and other industries. The '
+                        'company operates in the United States, Canada, Latin '
+                        'America, Australia, the Asia Pacific Rim, Europe, the '
+                        'Middle East, and Africa. Sykes Enterprises, '
+                        'Incorporated was founded in 1977 and is headquartered '
+                        'in Tampa, Florida.',
+ 'longName': 'Sykes Enterprises, Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 1061155968,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_347271',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 66312000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 27.4,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.47,
+ 'phone': '813 274 1000',
+ 'previousClose': 27.42,
+ 'priceHint': 2,
+ 'priceToBook': 1.2964824,
+ 'priceToSalesTrailing12Months': 0.65382254,
+ 'profitMargins': 0.04086,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 27.69,
+ 'regularMarketDayLow': 26.985,
+ 'regularMarketOpen': 27.4,
+ 'regularMarketPreviousClose': 27.42,
+ 'regularMarketPrice': 27.4,
+ 'regularMarketVolume': 240822,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 40503700,
+ 'sharesPercentSharesOut': 0.0239,
+ 'sharesShort': 967091,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1008906,
+ 'shortName': 'Sykes Enterprises, Incorporated',
+ 'shortPercentOfFloat': 0.034,
+ 'shortRatio': 4.03,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'SYKE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.592,
+ 'trailingPE': 17.01633,
+ 'twoHundredDayAverage': 29.090431,
+ 'volume': 240822,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sykes.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '33602'}

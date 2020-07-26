@@ -1,0 +1,167 @@
+{'52WeekChange': -0.47791618,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '150 Almaden Boulevard',
+ 'address2': 'Suite 1250',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 5.2,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 52500,
+ 'averageVolume': 105600,
+ 'averageVolume10days': 52500,
+ 'beta': 1.280112,
+ 'beta3Year': None,
+ 'bid': 4.8,
+ 'bidSize': 1000,
+ 'bookValue': 11.583,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Jose',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.67,
+ 'dayLow': 4.56,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 18.177,
+ 'enterpriseValue': 31756610,
+ 'exDividendDate': 1544572800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '408-247-0524',
+ 'fiftyDayAverage': 4.266286,
+ 'fiftyTwoWeekHigh': 8.96,
+ 'fiftyTwoWeekLow': 2.72,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': None,
+ 'forwardEps': 0.89,
+ 'forwardPE': 5.1685395,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.14147,
+ 'heldPercentInstitutions': 0.09119,
+ 'industry': 'Asset Management',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/firsthandtvf.com',
+ 'longBusinessSummary': 'Firsthand Technology Value Fund, Inc. is a business '
+                        'development company specializes in investments in '
+                        'start-up, late, development stage, and PIPEs. It '
+                        'seeks to invest in pre-IPO companies. The fund also '
+                        'seeks to make investments in companies with operating '
+                        'histories that are unprofitable or marginally '
+                        'profitable, that have negative net worth, or that are '
+                        'involved in bankruptcy or reorganization proceedings. '
+                        'In addition, it also makes investments in connection '
+                        'with the acquisition or divestiture of companies or '
+                        'divisions of companies. The fund seeks to invest '
+                        'through direct investments in private companies, '
+                        'negotiations with selling shareholders, and in '
+                        'organized secondary marketplaces for private '
+                        'securities. It may also invest in micro-cap publicly '
+                        'traded companies and also make investments in '
+                        'securities of public companies. The fund seeks to '
+                        'invest in private technology, information technology, '
+                        'cleantech sector, and companies that possess patents '
+                        'and other defensible intellectual property rights '
+                        'with a focus on Internet, consumer electronics, '
+                        'computer hardware, computer software, social '
+                        'networking, computer peripherals, solar photovoltaic, '
+                        'energy efficiency, solid-state lighting, water '
+                        'purification, wind-generated electricity, fuel cells, '
+                        'bio-fuels, electronic components, semiconductors, '
+                        'telecommunications, and advanced materials. Cleantech '
+                        'companies include those engaged in the sale of goods '
+                        'and services designed to harness renewable energy and '
+                        'materials, eliminate emissions and waste, and reduce '
+                        'the use of natural resources. It invests primarily in '
+                        'equity securities of private companies in the United '
+                        'States. However the fund also invests in securities '
+                        'of public companies located outside of the United '
+                        'States. It seeks to invest between $1 million and $10 '
+                        'million each in its investee companies. The fund '
+                        'structures its equity investments as preferred stock, '
+                        'common stock, warrants, limited partnership '
+                        'interests, options, other beneficial ownership '
+                        'interests, convertible debt, short term debt '
+                        'investments, high-yield bonds, and distressed debt. '
+                        'It prefers to control, be represented on, or have '
+                        'observer rights on the board of directors of a '
+                        'portfolio company. The fund seeks to exit its '
+                        'investments through strategic acquisition by other '
+                        'industry participants, initial public offering of '
+                        'common stock, or other capital market transaction.',
+ 'longName': 'Firsthand Technology Value Fund, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 31708076,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_8183941',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -106941600,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 4.58,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '408-886-7096',
+ 'previousClose': 4.58,
+ 'priceHint': 4,
+ 'priceToBook': 0.3971337,
+ 'priceToSalesTrailing12Months': 18.149433,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.67,
+ 'regularMarketDayLow': 4.56,
+ 'regularMarketOpen': 4.58,
+ 'regularMarketPreviousClose': 4.58,
+ 'regularMarketPrice': 4.58,
+ 'regularMarketVolume': 147799,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 6893060,
+ 'sharesPercentSharesOut': 0.0064999997,
+ 'sharesShort': 45004,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6840,
+ 'shortName': 'Firsthand Technology Value Fund',
+ 'shortPercentOfFloat': 0.0072000003,
+ 'shortRatio': 0.39,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'SVVC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 5.86,
+ 'trailingAnnualDividendYield': 1.279476,
+ 'trailingEps': -14.922,
+ 'twoHundredDayAverage': 4.6184893,
+ 'volume': 147799,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.firsthandtvf.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95113'}

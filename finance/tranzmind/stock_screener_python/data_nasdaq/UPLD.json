@@ -1,0 +1,160 @@
+{'52WeekChange': -0.20604652,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Frost Bank Tower',
+ 'address2': 'Suite 1850 401 Congress Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 34.14,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 152625,
+ 'averageVolume': 212266,
+ 'averageVolume10days': 152625,
+ 'beta': 1.00224,
+ 'beta3Year': None,
+ 'bid': 34.1,
+ 'bidSize': 1100,
+ 'bookValue': 6.287,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Austin',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 35.15,
+ 'dayLow': 33.92,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 27.22,
+ 'enterpriseToRevenue': 5.507,
+ 'enterpriseValue': 1333763328,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 34.42843,
+ 'fiftyTwoWeekHigh': 48.57,
+ 'fiftyTwoWeekLow': 20.75,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 19694455,
+ 'forwardEps': 2.08,
+ 'forwardPE': 16.413462,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 832,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.16153999,
+ 'heldPercentInstitutions': 0.84089994,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/uplandsoftware.com',
+ 'longBusinessSummary': 'Upland Software, Inc. provides cloud-based enterprise '
+                        'work management software in the United States, the '
+                        'United Kingdom, Canada, and internationally. The '
+                        'company offers a family of software applications '
+                        'under the Upland brand in the areas of information '
+                        'technology, digital marketing, ecommerce, customer '
+                        'service and support, project management, business '
+                        'operations, human resources and legal departments, '
+                        'and sales and marketing. Its software applications '
+                        'address enterprise work challenges in various '
+                        'categories comprising customer experience management '
+                        'that enables organizations to manage customer '
+                        'lifecycle, which include awareness, acquisition, and '
+                        'advocacy across multiple channels consisting of '
+                        'email, short and multimedia messaging services, web, '
+                        'social, and mobile apps; and enterprise sales '
+                        'enablement solutions to optimize sales activities, '
+                        'digital content production, automate key proposal and '
+                        'reference processes, and track key metrics. The '
+                        'company also provides professional services '
+                        'automation solution for proposal automation, customer '
+                        'reference management, voice of the customer, and '
+                        'insights-driven business intelligence; project and '
+                        'financial management solution that provide a '
+                        'centralized framework for demand management, resource '
+                        'optimization, project delivery, and financial '
+                        'oversight; enterprise knowledge management solution '
+                        'suite that enables knowledge sharing across different '
+                        'departments within an organization; secure document '
+                        'services; and document lifecycle automation solution, '
+                        'which enables enterprises to manage and automate '
+                        'document intensive business processes with data '
+                        'security. It sells its products through direct and '
+                        'indirect sales organization to financial services, '
+                        'retail, manufacturing, legal, consumer goods, media, '
+                        'and other industries. The company was formerly known '
+                        'as Silverback Enterprise Group, Inc. and changed its '
+                        'name to Upland Software, Inc. in November 2013. '
+                        'Upland Software, Inc. was founded in 2010 and is '
+                        'headquartered in Austin, Texas.',
+ 'longName': 'Upland Software, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 863926336,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1265495',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -57622000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 34.57,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.47,
+ 'phone': '512-960-1010',
+ 'previousClose': 34.61,
+ 'priceHint': 2,
+ 'priceToBook': 5.4302526,
+ 'priceToSalesTrailing12Months': 3.5673492,
+ 'profitMargins': -0.23793,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 35.15,
+ 'regularMarketDayLow': 33.92,
+ 'regularMarketOpen': 34.57,
+ 'regularMarketPreviousClose': 34.61,
+ 'regularMarketPrice': 34.57,
+ 'regularMarketVolume': 104176,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 25305400,
+ 'sharesPercentSharesOut': 0.1365,
+ 'sharesShort': 3455204,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3678055,
+ 'shortName': 'Upland Software, Inc.',
+ 'shortPercentOfFloat': 0.152,
+ 'shortRatio': 17.98,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'UPLD',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.38,
+ 'twoHundredDayAverage': 33.659748,
+ 'volume': 104176,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://uplandsoftware.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '78701-3788'}

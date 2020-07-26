@@ -1,0 +1,173 @@
+{'52WeekChange': -0.22099179,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '500 Park Avenue',
+ 'address2': '3rd Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 16.72,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 80650,
+ 'averageVolume': 160014,
+ 'averageVolume10days': 80650,
+ 'beta': 1.336694,
+ 'beta3Year': None,
+ 'bid': 16.17,
+ 'bidSize': 1000,
+ 'bookValue': 19.24,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 16.7,
+ 'dayLow': 16.14,
+ 'dividendRate': 1.64,
+ 'dividendYield': 0.0986,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.726,
+ 'enterpriseValue': 701149184,
+ 'exDividendDate': 1592352000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '212-994-8545',
+ 'fiftyDayAverage': 16.392286,
+ 'fiftyTwoWeekHigh': 21.24,
+ 'fiftyTwoWeekLow': 7.42,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 8.27,
+ 'floatShares': None,
+ 'forwardEps': 1.66,
+ 'forwardPE': 9.746988,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.06366,
+ 'heldPercentInstitutions': 0.6071,
+ 'industry': 'Asset Management',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/solarcapltd.com',
+ 'longBusinessSummary': 'Solar Capital Ltd. is a business development company '
+                        'specializing in secured debt (first lien unitranche '
+                        'and second lien), subordinated (unsecured) debt, '
+                        'minority equity, and strategic income-oriented '
+                        'control equity investments in leveraged middle market '
+                        'companies. The fund invests in aerospace and defense; '
+                        'air freight & logistics; asset management; '
+                        'automotive; banking; beverage, food and tobacco; '
+                        'building products; buildings and real estate; '
+                        'broadcasting and entertainment; cargo transport; '
+                        'commercial services and supplies; communications '
+                        'equipment; chemicals, plastics and rubber; '
+                        'containers, packaging and glass; construction & '
+                        'engineering; diversified/conglomerate manufacturing; '
+                        'consumer Finance; distributors; '
+                        'diversified/conglomerate services; diversified '
+                        'financial services; diversified real estate '
+                        'sctivities; food products; Footwear; Education '
+                        'Services; diversified telecommunications services; '
+                        'electronics; farming and agriculture; finance; '
+                        'grocery; health care equipment and supplies; health '
+                        'care facilities; education and childcare; home and '
+                        'office furnishing, durable consumer products; hotels, '
+                        'motels, inns and gaming; insurance; restaurants, '
+                        'leisure, amusement, and entertainment; leisure '
+                        'equipment tolls and services, media, multiline '
+                        'retail, multi sector holdings; paper and forest '
+                        'products; personal products; professional services, '
+                        'research and consulting services, software; specialty '
+                        'retail; textiles apparel and luxury goods, thrifts '
+                        'and mortgage finance, trading companies and '
+                        'distributors, utilities, and wireless '
+                        'telecommunication services; industrial conglomerates; '
+                        'internet software and services, IT services, '
+                        'machinery; mining, steel, iron, and non precious '
+                        'metals; oil and gas; personal, food and miscellaneous '
+                        'services; printing and publishing; retail stores; '
+                        'telecommunications; textiles and leather; and '
+                        'utilities. It also invests in life sciences with '
+                        'focus on specialty pharmaceuticals, medical devices, '
+                        'biotech, health Care Providers and services; health '
+                        'Care technology, enabling technologies and tools. The '
+                        "fund primarily invests in United States. The fund's "
+                        'investments generally range between $5 million and '
+                        '$100 million. The fund invests in companies with '
+                        'revenues between $50 million and $1 billion and '
+                        'EBITDA between $15 million and $100 million. It '
+                        'invests in the form of senior secured loans, '
+                        'mezzanine loans, and equity securities. It may also '
+                        'seek investments in thinly traded public companies '
+                        'and also make secondary investments. The fund makes '
+                        'non-control equity investments. It primarily exits '
+                        'within three years of the initial capital commitment.',
+ 'longName': 'Solar Capital Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 683779776,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_36113932',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -44285000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 16.7,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': -2.42,
+ 'phone': '212-993-1670',
+ 'previousClose': 16.64,
+ 'priceHint': 2,
+ 'priceToBook': 0.8409564,
+ 'priceToSalesTrailing12Months': 4.609047,
+ 'profitMargins': -0.2985,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 16.7,
+ 'regularMarketDayLow': 16.14,
+ 'regularMarketOpen': 16.7,
+ 'regularMarketPreviousClose': 16.64,
+ 'regularMarketPrice': 16.7,
+ 'regularMarketVolume': 68293,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 42260800,
+ 'sharesPercentSharesOut': 0.004,
+ 'sharesShort': 171088,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 120885,
+ 'shortName': 'Solar Capital Ltd.',
+ 'shortPercentOfFloat': 0.0049,
+ 'shortRatio': 1.08,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'SLRC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.64,
+ 'trailingAnnualDividendYield': 0.098557696,
+ 'trailingEps': -1.048,
+ 'twoHundredDayAverage': 16.535755,
+ 'volume': 68293,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.solarcapltd.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10022'}

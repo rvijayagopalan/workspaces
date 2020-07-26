@@ -1,0 +1,164 @@
+{'52WeekChange': 0.35566723,
+ 'SandP52WeekChange': None,
+ 'address1': '5433 Westheimer Road',
+ 'address2': 'Suite 500',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.47,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 38512,
+ 'averageVolume': 41098,
+ 'averageVolume10days': 38512,
+ 'beta': 0.908123,
+ 'beta3Year': None,
+ 'bid': 23.39,
+ 'bidSize': 900,
+ 'bookValue': 12.473,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Houston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 24.17,
+ 'dayLow': 23.38,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.135,
+ 'enterpriseToEbitda': 9.106,
+ 'enterpriseToRevenue': 0.444,
+ 'enterpriseValue': 507456320,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 22.402287,
+ 'fiftyTwoWeekHigh': 27.78,
+ 'fiftyTwoWeekLow': 13.73,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 8215517,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5389,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.040760003,
+ 'heldPercentInstitutions': 0.81463,
+ 'industry': 'Engineering & Construction',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1147651200,
+ 'lastSplitFactor': '1000:17092',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ies-co.com',
+ 'longBusinessSummary': 'IES Holdings, Inc. engages in communications, '
+                        'commercial and industrial, infrastructure solutions, '
+                        'and residential businesses in the United States. Its '
+                        'Commercial & Industrial segment offers electrical and '
+                        'mechanical design, construction, and maintenance '
+                        'services for office buildings, manufacturing '
+                        'facilities, data centers, chemical plants, '
+                        'refineries, wind farms, solar facilities, municipal '
+                        'infrastructures, and health care facilities. Its '
+                        'Communications segment offers network infrastructure '
+                        'services for data centers and other mission critical '
+                        'environments. This segment designs, installs, and '
+                        'maintains network infrastructure for corporate, '
+                        'educational, financial, hospitality and healthcare '
+                        'building, e-commerce distribution center, and '
+                        'high-tech manufacturing facility industries, as well '
+                        'as colocation and managed hosting customers; designs '
+                        'and installs audio/visual, telephone, fire, wireless '
+                        'access, and intrusion alarm systems; and '
+                        'designs/builds, services, and maintains data network '
+                        'systems. Its Infrastructure Solutions segment '
+                        'maintains and repairs alternating and direct current '
+                        'electric motors and generators, and power generating '
+                        'and distribution equipment; manufactures '
+                        'custom-engineered metal enclosed bus duct solutions '
+                        'used in power distribution; manufactures custom '
+                        'commercial and industrial generator enclosures; '
+                        'manufactures, remanufactures, and repairs industrial '
+                        'lifting magnets; and maintains and repairs railroad '
+                        'main and auxiliary generators, main alternators, and '
+                        'traction motors. Its Residential segment offers '
+                        'electrical installations to single-family housing and '
+                        'multi-family apartments; and cable television '
+                        'installations to residential and light commercial '
+                        'applications, as well as installs residential solar '
+                        'power for new construction and existing residences. '
+                        'The company was formerly known as Integrated '
+                        'Electrical Services, Inc. and changed its name to IES '
+                        'Holdings, Inc. in May 2016. The company was founded '
+                        'in 1997 and is headquartered in Houston, Texas.',
+ 'longName': 'IES Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 493335328,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_377023',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 35112000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 24.17,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '713-860-1500',
+ 'previousClose': 24.28,
+ 'priceHint': 2,
+ 'priceToBook': 1.8768541,
+ 'priceToSalesTrailing12Months': 0.43140313,
+ 'profitMargins': 0.0311,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 24.17,
+ 'regularMarketDayLow': 23.38,
+ 'regularMarketOpen': 24.17,
+ 'regularMarketPreviousClose': 24.28,
+ 'regularMarketPrice': 24.17,
+ 'regularMarketVolume': 24135,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 21073700,
+ 'sharesPercentSharesOut': 0.0092,
+ 'sharesShort': 193652,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 177461,
+ 'shortName': 'IES Holdings, Inc.',
+ 'shortPercentOfFloat': 0.023599999,
+ 'shortRatio': 5.71,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'IESC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.662,
+ 'trailingPE': 14.08544,
+ 'twoHundredDayAverage': 22.072302,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f4986165-9956-3ad9-b929-9ca43180cfd6',
+ 'volume': 24135,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ies-co.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '77056'}

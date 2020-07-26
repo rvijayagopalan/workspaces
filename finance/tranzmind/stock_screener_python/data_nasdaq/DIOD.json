@@ -1,0 +1,163 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '4949 Hedgcoxe Road',
+ 'address2': 'Suite 200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 50.73,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 178412,
+ 'averageVolume': 268330,
+ 'averageVolume10days': 178412,
+ 'beta': 1.302521,
+ 'beta3Year': None,
+ 'bid': 50.67,
+ 'bidSize': 1800,
+ 'bookValue': 21.866,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Plano',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 50.86,
+ 'dayLow': 49.67,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.364,
+ 'enterpriseToEbitda': 9.309,
+ 'enterpriseToRevenue': 2.059,
+ 'enterpriseValue': 2528052224,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '972 731 3510',
+ 'fiftyDayAverage': 50.392857,
+ 'fiftyTwoWeekHigh': 59.7,
+ 'fiftyTwoWeekLow': 31.51,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 41478183,
+ 'forwardEps': 2.67,
+ 'forwardPE': 19,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6605,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.19448,
+ 'heldPercentInstitutions': 0.84702003,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1185840000,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/diodes.com',
+ 'longBusinessSummary': 'Diodes Incorporated, together with its subsidiaries, '
+                        'designs, manufactures, and supplies '
+                        'application-specific standard products in the '
+                        'discrete, logic, and analog and mixed-signal '
+                        'semiconductor markets in Asia, North America, and '
+                        'Europe. It primarily focuses on low pin count '
+                        'semiconductor devices with one or more active or '
+                        'passive components. The company offers discrete '
+                        'semiconductor products, such as performance Schottky '
+                        'rectifiers and diodes; Zener and performance Zener '
+                        'diodes, including tight tolerance and low operating '
+                        'current type; standard, fast, super-fast, and '
+                        'ultra-fast recovery rectifiers; bridge rectifiers; '
+                        'switching diodes; small signal bipolar and pre-biased '
+                        'transistors; MOSFETs; thyristor surge protection '
+                        'devices; and transient voltage suppressors. It also '
+                        'provides analog products comprising power management '
+                        'devices consisting of AC-DC and DC-DC converters, USB '
+                        'power switches, and low dropout and linear voltage '
+                        'regulators; linear devices, such as operational '
+                        'amplifiers and comparators, current monitors, voltage '
+                        'references, and reset generators; LED lighting '
+                        'drivers; audio amplifiers; and sensor products, '
+                        'including hall-effect sensors and motor drivers. In '
+                        'addition, the company offers standard logic products '
+                        'comprising low-voltage complementary '
+                        'metalÂ\x96oxideÂ\x96semiconductor (CMOS) and '
+                        'high-speed CMOS devices; ultra-low power CMOS logic '
+                        'products and analog switches; multichip products and '
+                        'co-packaged discrete, analog, and mixed-signal '
+                        'silicon in miniature packages; silicon and silicon '
+                        'epitaxial wafers; and crystals and oscillators. It '
+                        'sells its products to the consumer electronics, '
+                        'computing, communications, industrial, and automotive '
+                        'markets through direct sales and marketing personnel, '
+                        'independent sales representatives, and distributors. '
+                        'Diodes Incorporated was founded in 1959 and is '
+                        'headquartered in Plano, Texas.',
+ 'longName': 'Diodes Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 2611920384,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_266907',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 141702000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 50.69,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.57,
+ 'phone': '972 987 3900',
+ 'previousClose': 50.87,
+ 'priceHint': 2,
+ 'priceToBook': 2.3200402,
+ 'priceToSalesTrailing12Months': 2.1277437,
+ 'profitMargins': 0.115430005,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 50.86,
+ 'regularMarketDayLow': 49.67,
+ 'regularMarketOpen': 50.69,
+ 'regularMarketPreviousClose': 50.87,
+ 'regularMarketPrice': 50.69,
+ 'regularMarketVolume': 184975,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 51486700,
+ 'sharesPercentSharesOut': 0.028299998,
+ 'sharesShort': 1456695,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1274900,
+ 'shortName': 'Diodes Incorporated',
+ 'shortPercentOfFloat': 0.041199997,
+ 'shortRatio': 5.24,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'DIOD',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.716,
+ 'trailingPE': 18.678202,
+ 'twoHundredDayAverage': 48.060646,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '1887ba9c-eaf2-3c99-b47c-b82c4305f2b3',
+ 'volume': 184975,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.diodes.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75024'}

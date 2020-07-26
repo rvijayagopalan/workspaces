@@ -1,0 +1,162 @@
+{'52WeekChange': 0.023601055,
+ 'SandP52WeekChange': None,
+ 'address1': '310 Littleton Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27.61,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 395150,
+ 'averageVolume': 478712,
+ 'averageVolume10days': 395150,
+ 'beta': 1.07731,
+ 'beta3Year': None,
+ 'bid': 26.39,
+ 'bidSize': 1300,
+ 'bookValue': 26.833,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Westford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 26.93,
+ 'dayLow': 26.33,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.618,
+ 'enterpriseToEbitda': 15.118,
+ 'enterpriseToRevenue': 2.304,
+ 'enterpriseValue': 2054779904,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '978 614 4004',
+ 'fiftyDayAverage': 25.903143,
+ 'fiftyTwoWeekHigh': 29.62,
+ 'fiftyTwoWeekLow': 19.11,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 68377309,
+ 'forwardEps': 1.77,
+ 'forwardPE': 14.943503,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2502,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04101,
+ 'heldPercentInstitutions': 1.0298101,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/netscout.com',
+ 'longBusinessSummary': 'NetScout Systems, Inc. provides service assurance, '
+                        'security, and business analytics for digital business '
+                        'services against disruptions in availability, '
+                        'performance, and security. The company offers '
+                        'nGeniusONE management software that enables customers '
+                        'to predict, preempt, and resolve network and service '
+                        'delivery problems, as well as facilitate the '
+                        'optimization and capacity planning of their network '
+                        'infrastructures; and specialized platforms and '
+                        'analytic modules that enable its customers to analyze '
+                        'and troubleshoot traffic in radio access and Wi-Fi '
+                        'networks. It also provides nGeniusPULSE, an active '
+                        'testing tool that enables enterprises to identify '
+                        'infrastructure performance issues and determine '
+                        'application availability, reliability, and '
+                        'performance; and nGenius Business Analytics solution, '
+                        'which enables service providers to analyze their '
+                        'network traffic. In addition, the company offers '
+                        'ISNG, an advanced passive network probe; packet flow '
+                        'systems that deliver targeted network traffic access '
+                        'to various monitoring and security tools and systems; '
+                        'and a suite of test access points that enable '
+                        'non-disruptive access to network traffic. Further, it '
+                        'provides security solutions that enable service '
+                        'providers and enterprises to protect their networks '
+                        'against distributed denial of service attacks under '
+                        'the Arbor brand; and threat detection solutions to '
+                        'identify and investigate potential advanced network '
+                        'threats. The company serves enterprise customers in '
+                        'industries, including financial services, technology, '
+                        'manufacturing, healthcare, utilities, education, '
+                        'transportation, and retail; mobile operators, '
+                        'wireline operators, cable operators, Internet service '
+                        'providers, and cloud providers; and governmental '
+                        'agencies through a direct sales force, and indirect '
+                        'reseller and distribution channels. It has operations '
+                        'in the United States, Asia, Europe, and '
+                        'internationally. The company was founded in 1984 and '
+                        'is headquartered in Westford, Massachusetts.',
+ 'longName': 'NetScout Systems, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1916440064,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_32039',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -2754000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 26.93,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 9.5,
+ 'phone': '978 614 4000',
+ 'previousClose': 26.89,
+ 'priceHint': 2,
+ 'priceToBook': 0.98572654,
+ 'priceToSalesTrailing12Months': 2.1489089,
+ 'profitMargins': -0.0030899998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 26.93,
+ 'regularMarketDayLow': 26.33,
+ 'regularMarketOpen': 26.93,
+ 'regularMarketPreviousClose': 26.89,
+ 'regularMarketPrice': 26.93,
+ 'regularMarketVolume': 262230,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 72455200,
+ 'sharesPercentSharesOut': 0.0557,
+ 'sharesShort': 4023120,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4786823,
+ 'shortName': 'NetScout Systems, Inc.',
+ 'shortPercentOfFloat': 0.0675,
+ 'shortRatio': 7.11,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'NTCT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.04,
+ 'twoHundredDayAverage': 25.67633,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '06c1a410-7890-32c4-956e-388e2cbb138c',
+ 'volume': 262230,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.netscout.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01886'}

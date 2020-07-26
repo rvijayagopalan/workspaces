@@ -1,0 +1,158 @@
+{'52WeekChange': -0.320284,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '23 Broad Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 34.39,
+ 'askSize': 3000,
+ 'averageDailyVolume10Day': 100337,
+ 'averageVolume': 123055,
+ 'averageVolume10days': 100337,
+ 'beta': 0.62745,
+ 'beta3Year': None,
+ 'bid': 33.26,
+ 'bidSize': 1400,
+ 'bookValue': 30.137,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Westerly',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 34.6,
+ 'dayLow': 33.47,
+ 'dividendRate': 2.04,
+ 'dividendYield': 0.059499998,
+ 'earningsQuarterlyGrowth': 0.218,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 7.095,
+ 'enterpriseValue': 1419638656,
+ 'exDividendDate': 1593475200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 32.247143,
+ 'fiftyTwoWeekHigh': 54.96,
+ 'fiftyTwoWeekLow': 25.86,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.48,
+ 'floatShares': 15780818,
+ 'forwardEps': 2.95,
+ 'forwardPE': 11.359322,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 598,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.13437,
+ 'heldPercentInstitutions': 0.72699,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 902188800,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/washtrust.com',
+ 'longBusinessSummary': 'Washington Trust Bancorp, Inc. operates as the bank '
+                        'holding company for The Washington Trust Company, of '
+                        'Westerly that offers various financial services to '
+                        'individuals and businesses. The company operates in '
+                        'two segments, Commercial Banking and Wealth '
+                        'Management Services. The Commercial Banking segment '
+                        'provides various commercial and retail lending '
+                        'products, which include commercial real estate loans '
+                        'consisting of commercial mortgages and construction '
+                        'loans; commercial and industrial loans; residential '
+                        'real estate loans consists of mortgage and homeowner '
+                        'construction loans; and consumer loans comprising '
+                        'home equity loans and lines of credit, personal '
+                        'installment loans, and loans to individuals secured '
+                        'by general aviation aircraft. This segment also '
+                        'offers deposit accounts, including interest-bearing '
+                        'and noninterest-bearing demand deposits, NOW and '
+                        'savings accounts, money market and retirement deposit '
+                        'accounts, and time deposits, as well as debit card, '
+                        'automated teller machines, telephone, internet, '
+                        'mobile banking, remote deposit capture, and other '
+                        'cash management services. The Wealth Management '
+                        'Services segment provides investment management; '
+                        'financial planning; personal trust and estate '
+                        'services, such as trustee, personal representative, '
+                        "custodian, and guardian; and settlement of decedents' "
+                        'estates, as well as institutional trust services '
+                        'comprising custody and fiduciary services. This '
+                        'segment serves personal and institutional clients. '
+                        'The company also operates as a licensed broker-dealer '
+                        'that offers variable annuities and college savings '
+                        'plans. As of December 31, 2019, it had 10 branch '
+                        'offices located in southern Rhode Island; 12 branch '
+                        'offices located in the greater Providence area in '
+                        'Rhode Island; and one branch office located in '
+                        'southeastern Connecticut. Washington Trust Bancorp, '
+                        'Inc. was founded in 1800 and is headquartered in '
+                        'Westerly, Rhode Island.',
+ 'longName': 'Washington Trust Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 578332288,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_312897',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 67149000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 34.26,
+ 'openInterest': None,
+ 'payoutRatio': 0.52849996,
+ 'pegRatio': 2.26,
+ 'phone': '401-348-1200',
+ 'previousClose': 34.31,
+ 'priceHint': 2,
+ 'priceToBook': 1.1119221,
+ 'priceToSalesTrailing12Months': 2.8903608,
+ 'profitMargins': 0.33630002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 34.6,
+ 'regularMarketDayLow': 33.47,
+ 'regularMarketOpen': 34.26,
+ 'regularMarketPreviousClose': 34.31,
+ 'regularMarketPrice': 34.26,
+ 'regularMarketVolume': 82751,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 17258500,
+ 'sharesPercentSharesOut': 0.0178,
+ 'sharesShort': 306446,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 183456,
+ 'shortName': 'Washington Trust Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0207,
+ 'shortRatio': 2.07,
+ 'startDate': None,
+ 'state': 'RI',
+ 'strikePrice': None,
+ 'symbol': 'WASH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.04,
+ 'trailingAnnualDividendYield': 0.05945788,
+ 'trailingEps': 3.86,
+ 'trailingPE': 8.681347,
+ 'twoHundredDayAverage': 37.705612,
+ 'volume': 82751,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.washtrust.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02891'}

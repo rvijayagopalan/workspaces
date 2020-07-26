@@ -1,0 +1,160 @@
+{'52WeekChange': 1.0716765,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '85 Wells Avenue',
+ 'address2': '2nd Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.88,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1542262,
+ 'averageVolume': 1884969,
+ 'averageVolume10days': 1542262,
+ 'beta': 1.50028,
+ 'beta3Year': None,
+ 'bid': 17.6,
+ 'bidSize': 1200,
+ 'bookValue': 2.273,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Newton',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 18.43,
+ 'dayLow': 17.62,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -6.351,
+ 'enterpriseToRevenue': 18.419,
+ 'enterpriseValue': 1084439680,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 18.662,
+ 'fiftyTwoWeekHigh': 29.61,
+ 'fiftyTwoWeekLow': 7.55,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 43798564,
+ 'forwardEps': -1.4,
+ 'forwardPE': -12.8,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 347,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.12782,
+ 'heldPercentInstitutions': 0.91033995,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/karyopharm.com',
+ 'longBusinessSummary': 'Karyopharm Therapeutics Inc., a pharmaceutical '
+                        'company, engages in the discovery, development, and '
+                        'commercialization of various drugs directed against '
+                        'nuclear export and related targets for the treatment '
+                        'of cancer and other diseases. The company is '
+                        'developing small molecule selective inhibitor of '
+                        'nuclear export (SINE) compounds that inhibit the '
+                        'nuclear export protein exportin 1. Its lead compound '
+                        'is XPOVIO (selinexor) tablets for the treatment of '
+                        'patients with heavily pretreated multiple myeloma. '
+                        'The company develops BOSTON, which is in Phase 3 '
+                        'clinical trial for the treatment of patients with '
+                        'multiple myeloma; STORM, which is in Phase 2b '
+                        'single-arm clinical trial for evaluating oral '
+                        'selinexor in combination with standard, low-dose '
+                        'dexamethasone in heavily pretreated patients, '
+                        'relapsed or refractory myeloma; STOMP, which is in '
+                        'Phase 1b/2 multi-arm clinical trial for the treatment '
+                        'of ow-dose dexamethasone plus standard therapies, '
+                        'including Velcade, Kyprolis, Revlimid, and Pomalyst '
+                        'or Darzalex; and SADAL, which is in Phase 2b clinical '
+                        'trial for the treatment of patients with relapsed or '
+                        'refractory diffuse large B-cell lymphoma. It also '
+                        'develops SEAL, which is in Phase 3 clinical trial for '
+                        'the treartment of liposarcoma; SIENDO, which is in '
+                        'Phase 2/3 clinical trial for treatment of endometrial '
+                        'cancer; and KING, which is in Phase 2 for the '
+                        'treatment of glioblastoma multiforme brain tumor. In '
+                        'addition, the company has various investigational '
+                        'programs in clinical or preclinical development, such '
+                        'as Eltanexor (KPT-8602), KPT-9274, and Verdinexor '
+                        '(KPT-335). The company has collaboration with '
+                        'PROMETRIKA, LLC to conduct the first randomized '
+                        'clinical trial for low-dose selinexor (XPOVIOÃ\x82), '
+                        'an XPO1 inhibitor for hospitalized patients with '
+                        'COVID-19; and a cooperative research and development '
+                        'agreement with the National Cancer Institute for '
+                        'cancer therapy evaluation program. Karyopharm '
+                        'Therapeutics Inc. was founded in 2008 and is '
+                        'headquartered in Newton, Massachusetts.',
+ 'longName': 'Karyopharm Therapeutics Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1310344576,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_115373285',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -186360000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 18.41,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.25,
+ 'phone': '617 658 0600',
+ 'previousClose': 18.62,
+ 'priceHint': 2,
+ 'priceToBook': 7.883854,
+ 'priceToSalesTrailing12Months': 22.256006,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.43,
+ 'regularMarketDayLow': 17.62,
+ 'regularMarketOpen': 18.41,
+ 'regularMarketPreviousClose': 18.62,
+ 'regularMarketPrice': 18.41,
+ 'regularMarketVolume': 1282981,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 73121904,
+ 'sharesPercentSharesOut': 0.213,
+ 'sharesShort': 15578637,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 13856804,
+ 'shortName': 'Karyopharm Therapeutics Inc.',
+ 'shortPercentOfFloat': 0.2243,
+ 'shortRatio': 7,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'KPTI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.928,
+ 'twoHundredDayAverage': 19.066978,
+ 'volume': 1282981,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.karyopharm.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02459'}

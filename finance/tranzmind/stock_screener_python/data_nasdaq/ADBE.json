@@ -1,0 +1,163 @@
+{'52WeekChange': 0.40065753,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '345 Park Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 433,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 2370900,
+ 'averageVolume': 2983107,
+ 'averageVolume10days': 2370900,
+ 'beta': 0.928291,
+ 'beta3Year': None,
+ 'bid': 427.16,
+ 'bidSize': 1000,
+ 'bookValue': 22.669,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Jose',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 434.99,
+ 'dayLow': 423.4406,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.738,
+ 'enterpriseToEbitda': 47.574,
+ 'enterpriseToRevenue': 17.164,
+ 'enterpriseValue': 206750744576,
+ 'exDividendDate': 1111622400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '408-537-6000',
+ 'fiftyDayAverage': 429.77542,
+ 'fiftyTwoWeekHigh': 470.61,
+ 'fiftyTwoWeekLow': 255.13,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 477861698,
+ 'forwardEps': 11.11,
+ 'forwardPE': 38.731773,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 22634,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00294,
+ 'heldPercentInstitutions': 0.891,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1574985600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1116892800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/adobe.com',
+ 'longBusinessSummary': 'Adobe Inc. operates as a diversified software company '
+                        'worldwide. Its Digital Media segment provides tools '
+                        'and solutions that enable individuals, small and '
+                        'medium businesses, and enterprises to create, '
+                        'publish, promote, and monetize their digital content. '
+                        'Its flagship product is Creative Cloud, a '
+                        'subscription service that allows customer to download '
+                        'and access the latest versions of its creative '
+                        'products. This segment serves traditional content '
+                        'creators, Web application developers, and digital '
+                        'media professionals, as well as their management in '
+                        'marketing departments and agencies, companies, and '
+                        "publishers. The company's Digital Experience segment "
+                        'offers solutions for how digital advertising and '
+                        'marketing are created, managed, executed, measured, '
+                        'and optimized. This segment provides analytics, '
+                        'social marketing, targeting, media optimization, '
+                        'digital experience management, cross-channel campaign '
+                        'management, marketing automation, audience '
+                        'management, and video delivery and monetization '
+                        'solutions to digital marketers, advertisers, '
+                        'publishers, merchandisers, Web analysts, chief '
+                        'marketing officers, chief information officers, and '
+                        'chief revenue officers. Its Publishing segment offers '
+                        'products and services, such as e-learning solutions, '
+                        'technical document publishing, Web application '
+                        'development, and high-end printing, as well as '
+                        'publishing needs of technical and business, and '
+                        'original equipment manufacturers (OEMs) printing '
+                        'businesses. The company offers its products and '
+                        'services directly to enterprise customers through its '
+                        'sales force, as well as to end-users through app '
+                        'stores and through its Website at adobe.com. It also '
+                        'distributes products and services through a network '
+                        'of distributors, value-added resellers, systems '
+                        'integrators, software vendors and developers, '
+                        'retailers, and OEMs. Adobe Inc. has a strategic '
+                        'partnership with Walgreens Boots Alliance, Inc. The '
+                        'company was formerly known as Adobe Systems '
+                        'Incorporated and changed its name to Adobe Inc. in '
+                        'October 2018. The company was founded in 1982 and is '
+                        'headquartered in San Jose, California.',
+ 'longName': 'Adobe Inc.',
+ 'market': 'us_market',
+ 'marketCap': 206404648960,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_24321',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1590710400,
+ 'navPrice': None,
+ 'netIncomeToCommon': 3699458048,
+ 'nextFiscalYearEnd': 1638144000,
+ 'open': 425,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.95,
+ 'phone': '408-536-6000',
+ 'previousClose': 431.74,
+ 'priceHint': 2,
+ 'priceToBook': 18.98231,
+ 'priceToSalesTrailing12Months': 17.135704,
+ 'profitMargins': 0.30712998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 434.99,
+ 'regularMarketDayLow': 423.4406,
+ 'regularMarketOpen': 425,
+ 'regularMarketPreviousClose': 431.74,
+ 'regularMarketPrice': 425,
+ 'regularMarketVolume': 1882003,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 479664992,
+ 'sharesPercentSharesOut': 0.010199999,
+ 'sharesShort': 4877621,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4688129,
+ 'shortName': 'Adobe Inc.',
+ 'shortPercentOfFloat': 0.010199999,
+ 'shortRatio': 1.52,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'ADBE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 7.579,
+ 'trailingPE': 56.77662,
+ 'twoHundredDayAverage': 367.58633,
+ 'volume': 1882003,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.adobe.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95110'}

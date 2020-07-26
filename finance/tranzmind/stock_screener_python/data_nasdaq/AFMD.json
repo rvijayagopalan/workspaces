@@ -1,0 +1,155 @@
+{'52WeekChange': 0.33108103,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Technologiepark',
+ 'address2': 'Im Neuenheimer Feld 582',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.94,
+ 'askSize': 4000,
+ 'averageDailyVolume10Day': 1284200,
+ 'averageVolume': 1584604,
+ 'averageVolume10days': 1284200,
+ 'beta': 2.881792,
+ 'beta3Year': None,
+ 'bid': 3.94,
+ 'bidSize': 4000,
+ 'bookValue': 0.669,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Heidelberg',
+ 'companyOfficers': [],
+ 'country': 'Germany',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.18,
+ 'dayLow': 3.925,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 300424608,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '49 6221 6743 649',
+ 'fiftyDayAverage': 4.084429,
+ 'fiftyTwoWeekHigh': 4.91,
+ 'fiftyTwoWeekLow': 1.42,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 60769646,
+ 'forwardEps': -0.4,
+ 'forwardPE': -9.85,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 137,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.07497,
+ 'heldPercentInstitutions': 0.59174,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/affimed.com',
+ 'longBusinessSummary': 'Affimed N.V., a clinical-stage biopharmaceutical '
+                        'company, focuses on discovering and developing cancer '
+                        'immunotherapies in the United States, Europe, and '
+                        'Germany. Its lead product candidate is AFM13, a '
+                        'natural killer cell (NK-cell) TandAb, which has '
+                        'completed Phase 2a clinical study of relapsed '
+                        'CD30-positive lymphoma and Phase 1b clinical study of '
+                        'anti-PD-1 antibody Keytruda (pembrolizumab) in '
+                        'patients with relapsed Hodgkin lymphoma. The company '
+                        'is also developing AFM24, a tetravalent, bispecific '
+                        'epidermal growth factor receptor, and CD16A-binding '
+                        'innate cell engager for the treatment of advanced '
+                        'cancer patients; AFM26, an innate cell-engaging '
+                        'bispecific antibody targeting B cell maturation '
+                        'antigen (BCMA) for the treatment of multiple myeloma; '
+                        'and Trispecific antibodies for the treatment of '
+                        'multiple myeloma. In addition, it is developing '
+                        'AFM11, a T cell engager for the treatment of CD19+ B '
+                        'cell malignancies, including non-Hodgkin Lymphoma and '
+                        'acute lymphocytic leukemia (AML); and AMV564, a '
+                        'CD33/CD3-specific T-cell TandAb that is in Phase 1 '
+                        'clinical study of refractory AML. The company has '
+                        'license agreements with Amphivena Therapeutics, Inc., '
+                        'Deutsches Krebsforschungszentrum, and Xoma '
+                        'Corporation; research funding agreement with The '
+                        'Leukemia & Lymphoma Society; and collaboration with '
+                        'Merck Sharp & Dohme B.V. It also has a clinical '
+                        'development and commercialization collaboration with '
+                        'The University of Texas MD Anderson Cancer Center to '
+                        "evaluate AFM13 in combination with MD Anderson's "
+                        'NK-cell product; and Genentech. The company was '
+                        'formerly known as Affimed Therapeutics B.V. and '
+                        'changed its name to Affimed N.V. in October 2014. '
+                        'Affimed N.V. was founded in 2000 and is headquartered '
+                        'in Heidelberg, Germany.',
+ 'longName': 'Affimed N.V.',
+ 'market': 'us_market',
+ 'marketCap': 300424640,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_849883',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 4.07,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '49 6221 6743 60',
+ 'previousClose': 4.11,
+ 'priceHint': 4,
+ 'priceToBook': 5.889387,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': -2.79792,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.18,
+ 'regularMarketDayLow': 3.925,
+ 'regularMarketOpen': 4.07,
+ 'regularMarketPreviousClose': 4.11,
+ 'regularMarketPrice': 4.07,
+ 'regularMarketVolume': 1307734,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 76249904,
+ 'sharesPercentSharesOut': 0.0641,
+ 'sharesShort': 4887185,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2141503,
+ 'shortName': 'Affimed N.V.',
+ 'shortPercentOfFloat': 0.0672,
+ 'shortRatio': 2.43,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'AFMD',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.717,
+ 'twoHundredDayAverage': 2.8042445,
+ 'volume': 1307734,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.affimed.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '69120'}

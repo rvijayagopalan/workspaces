@@ -1,0 +1,161 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '100 Benefitfocus Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 10.94,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 349137,
+ 'averageVolume': 557904,
+ 'averageVolume10days': 349137,
+ 'beta': 1.618487,
+ 'beta3Year': None,
+ 'bid': 6.61,
+ 'bidSize': 800,
+ 'bookValue': -1.337,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Charleston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.025,
+ 'dayLow': 10.1,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -42.699,
+ 'enterpriseToRevenue': 1.722,
+ 'enterpriseValue': 505508064,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 11.335428,
+ 'fiftyTwoWeekHigh': 28.25,
+ 'fiftyTwoWeekLow': 6.09,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 25731236,
+ 'forwardEps': -0.2,
+ 'forwardPE': -51.149998,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1560,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.11201999,
+ 'heldPercentInstitutions': 0.81417,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/benefitfocus.com',
+ 'longBusinessSummary': 'Benefitfocus, Inc. provides cloud-based benefits '
+                        'management platform for consumers, employers, '
+                        'insurance carriers, suppliers, and brokers in the '
+                        "United States. The company's products for insurance "
+                        'carriers include MarketPlace Enroll for carriers to '
+                        'automate enrollment to various commercial group '
+                        'business; MarketPlace Bill, an electronic invoice '
+                        'presentment and payment solution; MarketPlace '
+                        'Exchange, a solution that bridges the integration gap '
+                        'between carrier and employer systems; and MarketPlace '
+                        'Quote for carriers and brokers tools to organize and '
+                        'manage accounts, track leads, generate quotes, and '
+                        'create proposals for various products. Its products '
+                        'for employers include Benefitfocus Marketplace that '
+                        'streamlines online enrollment, employee '
+                        'communication, and benefit administration; Insights, '
+                        'a data analytics solution; ACA Management and '
+                        'Reporting, a solution for employers to manage ACA '
+                        'compliance; MarketPlace Billing & Payments, an '
+                        'application that synchronizes enrollment and billing '
+                        'information to streamline the monthly billing '
+                        'process, automate adjustments, and enhance accuracy '
+                        'of payments; and COBRA Administration, a solution '
+                        'that simplifies management of Consolidated Omnibus '
+                        'Budget Reconciliation Act, benefits. The company also '
+                        'provides BenefitSAIGE Analytics that aggregates '
+                        'benefit cost and claims data from relevant sources, '
+                        'identifies cost drivers, recognizes trends, and '
+                        'predicts future risks and costs; and BenefitsPlace, a '
+                        'transaction-oriented, marketplace solution which '
+                        'connects employers, brokers, insurance carriers, '
+                        'suppliers, and consumers on a single platform. In '
+                        'addition, it provides professional services, such as '
+                        'discovery, configuration and deployment, integration, '
+                        'testing, training, and technical support; and '
+                        'fulfillment, dependent verification, and HR '
+                        'administration services. The company was founded in '
+                        '2000 and is headquartered in Charleston, South '
+                        'Carolina.',
+ 'longName': 'Benefitfocus, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 328452544,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_7664925',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -42442000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 10.97,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -1.11,
+ 'phone': '843-849-7476',
+ 'previousClose': 11.08,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 1.1189325,
+ 'profitMargins': -0.14458999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.025,
+ 'regularMarketDayLow': 10.1,
+ 'regularMarketOpen': 10.97,
+ 'regularMarketPreviousClose': 11.08,
+ 'regularMarketPrice': 10.97,
+ 'regularMarketVolume': 434578,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 32106800,
+ 'sharesPercentSharesOut': 0.0947,
+ 'sharesShort': 3039519,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3384999,
+ 'shortName': 'Benefitfocus, Inc.',
+ 'shortPercentOfFloat': 0.1241,
+ 'shortRatio': 3.7,
+ 'startDate': None,
+ 'state': 'SC',
+ 'strikePrice': None,
+ 'symbol': 'BNFT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.299,
+ 'twoHundredDayAverage': 12.605683,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '923f86b8-7d92-36cc-b034-f85586988f00',
+ 'volume': 434578,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.benefitfocus.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '29492'}

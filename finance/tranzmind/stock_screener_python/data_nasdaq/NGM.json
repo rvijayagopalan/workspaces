@@ -1,0 +1,151 @@
+{'52WeekChange': 0.32546115,
+ 'SandP52WeekChange': None,
+ 'address1': '333 Oyster Point Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.93,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 155975,
+ 'averageVolume': 295244,
+ 'averageVolume10days': 155975,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 17.9,
+ 'bidSize': 1200,
+ 'bookValue': 4.699,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'South San Francisco',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 18.21,
+ 'dayLow': 17.535,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -16.719,
+ 'enterpriseToRevenue': 8.705,
+ 'enterpriseValue': 890994816,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 20.32257,
+ 'fiftyTwoWeekHigh': 23.95,
+ 'fiftyTwoWeekLow': 8.81,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 19575424,
+ 'forwardEps': -1.43,
+ 'forwardPE': -12.524476,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 186,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.2831,
+ 'heldPercentInstitutions': 0.57357,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ngmbio.com',
+ 'longBusinessSummary': 'NGM Biopharmaceuticals, Inc., a clinical-stage '
+                        'biopharmaceutical company, engages in the discovery '
+                        'and development of novel therapeutics for the '
+                        'treatment of cardio-metabolic, liver, oncologic, and '
+                        "ophthalmic diseases. The company's product candidates "
+                        'include Aldafermin, an engineered variant of the '
+                        'FGF19 human hormone in Phase 2b clinical trials for '
+                        'the treatment of non-alcoholic steatohepatitis '
+                        '(NASH); NGM313, an agonistic antibody that activates '
+                        'fibroblast growth factor receptor 1c-beta-klotho, '
+                        'which is in Phase 1b clinical trial for use in the '
+                        'treatment of type 2 diabetes and NASH; and NGM395, '
+                        'which is engineered variant of the GDF15 human '
+                        'hormone for use in the treatment of metabolic '
+                        'syndrome. Its products under development also '
+                        'comprise NGM120, an inhibitory antibody binding glial '
+                        'cell-derived neurotrophic factor receptor alpha-like '
+                        'that is in Phase 1 clinical trials to inhibit the '
+                        'effects of elevated GDF15 levels on cancer '
+                        'anorexia/cachexia syndrome; NGM217, an antibody in '
+                        'Phase 1 clinical trials to restore pancreatic islet '
+                        'function and increase insulin production in patients '
+                        'with diabetes; and NGM621, an antibody in Phase 1 '
+                        'clinical trials to decrease levels of a protein '
+                        'implicated in the dry form of AMD. The company has '
+                        'research collaboration, product development, and '
+                        'license agreements with Merck Sharp & Dohme Corp. NGM '
+                        'Biopharmaceuticals, Inc. was incorporated in 2007 and '
+                        'is headquartered in South San Francisco, California.',
+ 'longName': 'NGM Biopharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1220421504,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_41080995',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -53642000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 17.56,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '650 243 5555',
+ 'previousClose': 17.96,
+ 'priceHint': 2,
+ 'priceToBook': 3.8114493,
+ 'priceToSalesTrailing12Months': 11.923302,
+ 'profitMargins': -0.52407,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.21,
+ 'regularMarketDayLow': 17.535,
+ 'regularMarketOpen': 17.56,
+ 'regularMarketPreviousClose': 17.96,
+ 'regularMarketPrice': 17.56,
+ 'regularMarketVolume': 250113,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 68141904,
+ 'sharesPercentSharesOut': 0.0545,
+ 'sharesShort': 3713492,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3510946,
+ 'shortName': 'NGM Biopharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.1571,
+ 'shortRatio': 10.08,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'NGM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.82,
+ 'twoHundredDayAverage': 17.852842,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '482d48b8-37e0-3bcb-98ab-fe5eb295a67c',
+ 'volume': 250113,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ngmbio.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94080'}

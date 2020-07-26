@@ -1,0 +1,158 @@
+{'52WeekChange': -0.3807965,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Conventus Building',
+ 'address2': 'Suite 600 1001 Main Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.36,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 402200,
+ 'averageVolume': 550880,
+ 'averageVolume10days': 402200,
+ 'beta': 1.04206,
+ 'beta3Year': None,
+ 'bid': 11.35,
+ 'bidSize': 800,
+ 'bookValue': 2.094,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Buffalo',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.73,
+ 'dayLow': 11.23,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -8.937,
+ 'enterpriseToRevenue': 7.031,
+ 'enterpriseValue': 863868672,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '716 800 6816',
+ 'fiftyDayAverage': 12.759429,
+ 'fiftyTwoWeekHigh': 19,
+ 'fiftyTwoWeekLow': 5.63,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 46818664,
+ 'forwardEps': -1.07,
+ 'forwardPE': -10.607476,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 574,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.18370001,
+ 'heldPercentInstitutions': 0.5428,
+ 'industry': 'Drug Manufacturers—Specialty & Generic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/athenex.com',
+ 'longBusinessSummary': 'Athenex, Inc., a biopharmaceutical company, engages '
+                        'in the discovery, development, and commercialization '
+                        'of various therapies for the treatment of cancer and '
+                        'related conditions in North America and Asia. It '
+                        'operates in three segments: Oncology Innovation '
+                        'Platform, Global Supply Chain Platform, and '
+                        "Commercial Platform. The company's Orascovery product "
+                        'candidates include Oraxol, an oral dosage form, which '
+                        'is in Phase III trial for metastatic breast cancer, '
+                        'as well as various clinical studies in advanced '
+                        'malignances and gastric cancer; and Oratecan, an oral '
+                        'dosage form of irinotecan that is in a Phase I study '
+                        'for the treatment of metastatic colorectal cancer, '
+                        'glioblastoma, lung, ovarian, cervical, upper '
+                        'gastrointestinal, and pancreatic cancer. Its '
+                        'Orascovery product candidates also comprise Oradoxel, '
+                        'an oral dosage form of docetaxel, which is in Phase I '
+                        'clinical study for breast, lung, prostate, gastric, '
+                        'and head and neck cancers; Oratopo, an oral dosage '
+                        'form of topotecan that is Phase I clinical trial to '
+                        'treat lung, ovarian, and cervical cancer; and oral '
+                        'eribulin, an intravenous anticancer drug to treat '
+                        'certain patients with breast cancer and advanced '
+                        'liposarcoma. In addition, the company offers Src '
+                        'Kinase product candidates comprising KX2-391 '
+                        'ointments for actinic keratosis, skin cancers, and '
+                        'psoriasis; KX-01 oral for solid and liquid tumors; '
+                        'and KX2-361 for glioblastoma multiforme. Further, it '
+                        'is developing dual absorption enhancers to inhibit '
+                        'the P-gp transporter and the cytochrome P450 enzymes '
+                        'within the gastrointestinal tract; T Cell Receptor '
+                        'Engineered T Cell, a cell-based immunotherapy; and '
+                        'Pegtomarginase, an arginine deprivation therapy '
+                        'product. The company was formerly known as Kinex '
+                        'Pharmaceuticals LLC and changed its name to Athenex, '
+                        'Inc. in August 2015. Athenex, Inc. was founded in '
+                        '2003 and is headquartered in Buffalo, New York.',
+ 'longName': 'Athenex, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 926447168,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_23828956',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -107945000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 11.7,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.25,
+ 'phone': '716 427 2950',
+ 'previousClose': 11.81,
+ 'priceHint': 2,
+ 'priceToBook': 5.420248,
+ 'priceToSalesTrailing12Months': 7.540858,
+ 'profitMargins': -0.87861997,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.73,
+ 'regularMarketDayLow': 11.23,
+ 'regularMarketOpen': 11.7,
+ 'regularMarketPreviousClose': 11.81,
+ 'regularMarketPrice': 11.7,
+ 'regularMarketVolume': 384078,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 81625296,
+ 'sharesPercentSharesOut': 0.1173,
+ 'sharesShort': 9578244,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 9170608,
+ 'shortName': 'Athenex, Inc.',
+ 'shortPercentOfFloat': 0.156,
+ 'shortRatio': 14.27,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'ATNX',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.389,
+ 'twoHundredDayAverage': 11.60964,
+ 'volume': 384078,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.athenex.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '14203'}

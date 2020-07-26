@@ -1,0 +1,164 @@
+{'52WeekChange': -0.09147346,
+ 'SandP52WeekChange': None,
+ 'address1': '40 Manning Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 42.93,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 522900,
+ 'averageVolume': 706376,
+ 'averageVolume10days': 522900,
+ 'beta': 1.37591,
+ 'beta3Year': None,
+ 'bid': 42.91,
+ 'bidSize': 1200,
+ 'bookValue': 5.937,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Billerica',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 43.85,
+ 'dayLow': 42.59,
+ 'dividendRate': 0.16,
+ 'dividendYield': 0.0037,
+ 'earningsQuarterlyGrowth': -0.659,
+ 'enterpriseToEbitda': 19.624,
+ 'enterpriseToRevenue': 3.361,
+ 'enterpriseValue': 6841010688,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '978 663 5585',
+ 'fiftyDayAverage': 41.25686,
+ 'fiftyTwoWeekHigh': 54.49,
+ 'fiftyTwoWeekLow': 30.78,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 103251078,
+ 'forwardEps': 1.6,
+ 'forwardPE': 26.83125,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7230,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.33547002,
+ 'heldPercentInstitutions': 0.70378995,
+ 'industry': 'Medical Devices',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bruker.com',
+ 'longBusinessSummary': 'Bruker Corporation manufactures and distributes '
+                        'scientific instruments, and analytical and diagnostic '
+                        'solutions in the United States, Europe, the Asia '
+                        'Pacific, and internationally. The company operates in '
+                        'three segments: Bruker Scientific Instruments (BSI) '
+                        'Life Science, BSI NANO, and Bruker Energy & Supercon '
+                        'Technologies. It offers life science tools based on '
+                        'magnetic resonance technology; life science mass '
+                        'spectrometry and ion mobility spectrometry solutions; '
+                        'analytical and process analysis instruments and '
+                        'solutions based on infrared and Raman molecular '
+                        'spectroscopy technologies; and radiological/nuclear '
+                        'detectors for chemical, biological, radiological, '
+                        'nuclear, and explosive detection The company also '
+                        'provides X-ray instruments, atomic force microscopy '
+                        'instrumentation, fluorescence optical microscopy '
+                        'instruments, analytical tools for electron '
+                        'microscopes and X-ray metrology, defect-detection '
+                        'equipment for semiconductor process control, and '
+                        'spark optical emission spectroscopy systems, as well '
+                        'as handheld, portable, and mobile X-ray fluorescence '
+                        'spectrometry instruments. In addition, it offers '
+                        'superconducting and non-superconducting materials and '
+                        'devices. The company serves pharmaceutical, '
+                        'biotechnology, and diagnostics companies; chemical, '
+                        'food and beverage, clinical, and polymer companies; '
+                        'nonprofit laboratories; contract research '
+                        'organizations, academic institutions, medical '
+                        'schools, nonprofit or for-profit forensics, '
+                        'environmental and clinical microbiology laboratories, '
+                        'and hospitals and government departments and '
+                        'agencies, as well as agriculture, and food and '
+                        'beverage safety companies; nanotechnology, '
+                        'semiconductor, and industrial companies; and raw '
+                        'material manufacturers and other businesses through '
+                        'direct sales forces, distributors, independent sales '
+                        'representatives, and other representatives. Bruker '
+                        'Corporation has collaboration with Inscopix. Bruker '
+                        'Corporation was incorporated in 1991 and is '
+                        'headquartered in Billerica, Massachusetts.',
+ 'longName': 'Bruker Corporation',
+ 'market': 'us_market',
+ 'marketCap': 6621093888,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_527317',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 176900000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 43.85,
+ 'openInterest': None,
+ 'payoutRatio': 0.1416,
+ 'pegRatio': 5.25,
+ 'phone': '978 663 3660',
+ 'previousClose': 43.9,
+ 'priceHint': 2,
+ 'priceToBook': 7.230925,
+ 'priceToSalesTrailing12Months': 3.253289,
+ 'profitMargins': 0.08692,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 43.85,
+ 'regularMarketDayLow': 42.59,
+ 'regularMarketOpen': 43.85,
+ 'regularMarketPreviousClose': 43.9,
+ 'regularMarketPrice': 43.85,
+ 'regularMarketVolume': 272080,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 154230000,
+ 'sharesPercentSharesOut': 0.0189,
+ 'sharesShort': 2921192,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3485513,
+ 'shortName': 'Bruker Corporation',
+ 'shortPercentOfFloat': 0.0424,
+ 'shortRatio': 4.84,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'BRKR',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.16,
+ 'trailingAnnualDividendYield': 0.0036446466,
+ 'trailingEps': 1.132,
+ 'trailingPE': 37.92403,
+ 'twoHundredDayAverage': 42.53626,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'ab422d97-7e2c-351a-832e-83c073c93091',
+ 'volume': 272080,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bruker.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01821'}

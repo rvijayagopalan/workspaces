@@ -1,0 +1,163 @@
+{'52WeekChange': 0.30962455,
+ 'SandP52WeekChange': None,
+ 'address1': '555 Main Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 88.41,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 34600,
+ 'averageVolume': 38190,
+ 'averageVolume10days': 34600,
+ 'beta': 0.904761,
+ 'beta3Year': None,
+ 'bid': 74.83,
+ 'bidSize': 900,
+ 'bookValue': 34.69,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Racine',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 91.21,
+ 'dayLow': 87.25,
+ 'dividendRate': 0.68,
+ 'dividendYield': 0.0076,
+ 'earningsQuarterlyGrowth': -0.07,
+ 'enterpriseToEbitda': 10.245,
+ 'enterpriseToRevenue': 1.409,
+ 'enterpriseValue': 805389760,
+ 'exDividendDate': 1594166400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '262-631-6601',
+ 'fiftyDayAverage': 87.04028,
+ 'fiftyTwoWeekHigh': 94.9,
+ 'fiftyTwoWeekLow': 48.76,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.88,
+ 'floatShares': 7098489,
+ 'forwardEps': 4.21,
+ 'forwardPE': 20.940619,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.09689999,
+ 'heldPercentInstitutions': 0.74487996,
+ 'industry': 'Leisure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569542400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/johnsonoutdoors.com',
+ 'longBusinessSummary': 'Johnson Outdoors Inc. designs, manufactures, and '
+                        'markets camping, diving, watercraft, and marine '
+                        "electronics products worldwide. The company's Fishing "
+                        'segment offers electric motors for trolling or '
+                        'primary propulsion, marine battery chargers, and '
+                        'shallow water anchors; sonar and GPS equipment for '
+                        'fish finding, navigation, and marine cartography; and '
+                        'downriggers for controlled-depth fishing. This '
+                        'segment sells its products under the Minn Kota, '
+                        'Humminbird, and Cannon brands through outdoor '
+                        'specialty and Internet retailers, retail store '
+                        'chains, marine products distributors, original '
+                        'equipment manufacturers, and distributors. Its '
+                        'Camping segment offers consumer, commercial, and '
+                        'military tents and accessories; sleeping bags; '
+                        'camping furniture and stoves; other recreational '
+                        'camping products; and portable outdoor cooking '
+                        'systems, as well as acts as a subcontract '
+                        'manufacturer for other providers of military tents. '
+                        'This segment sells its products under the Eureka! and '
+                        'Jetboil brands through independent sales '
+                        "representatives and Internet retailers. The company's "
+                        'Watercraft Recreation segment provides kayaks, '
+                        'canoes, and paddles through independent specialty and '
+                        'outdoor retailers under the Ocean Kayaks, Old Town, '
+                        'and Carlisle brands. Its Diving segment manufactures '
+                        'and markets underwater diving and snorkeling '
+                        'equipment, including regulators, buoyancy '
+                        'compensators, dive computers and gauges, wetsuits, '
+                        'masks, fins, snorkels, and accessories under the '
+                        'SCUBAPRO brand name. This segment also provides '
+                        'regular maintenance, product repair, diving '
+                        'education, and travel program services; and sells '
+                        'diving gear to dive training centers, resorts, public '
+                        'safety units, and armed forces. It sells its products '
+                        'through specialty dive stores and diving magazines, '
+                        'as well as through Websites. Johnson Outdoors Inc. '
+                        'was founded in 1970 and is headquartered in Racine, '
+                        'Wisconsin.',
+ 'longName': 'Johnson Outdoors Inc.',
+ 'market': 'us_market',
+ 'marketCap': 888882048,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_282032',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585267200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 52786000,
+ 'nextFiscalYearEnd': 1632700800,
+ 'open': 89.6,
+ 'openInterest': None,
+ 'payoutRatio': 0.1183,
+ 'pegRatio': 1.57,
+ 'phone': '262-631-6600',
+ 'previousClose': 89.67,
+ 'priceHint': 2,
+ 'priceToBook': 2.5413666,
+ 'priceToSalesTrailing12Months': 1.5555942,
+ 'profitMargins': 0.09238,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 91.21,
+ 'regularMarketDayLow': 87.25,
+ 'regularMarketOpen': 89.6,
+ 'regularMarketPreviousClose': 89.67,
+ 'regularMarketPrice': 89.6,
+ 'regularMarketVolume': 55023,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 8871010,
+ 'sharesPercentSharesOut': 0.0136,
+ 'sharesShort': 137629,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 125862,
+ 'shortName': 'Johnson Outdoors Inc.',
+ 'shortPercentOfFloat': 0.0356,
+ 'shortRatio': 3.62,
+ 'startDate': None,
+ 'state': 'WI',
+ 'strikePrice': None,
+ 'symbol': 'JOUT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.65,
+ 'trailingAnnualDividendYield': 0.007248801,
+ 'trailingEps': 5.238,
+ 'trailingPE': 16.830853,
+ 'twoHundredDayAverage': 72.1723,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'ba9b9bec-c34d-3ca0-84d6-4d6465acfaf1',
+ 'volume': 55023,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.johnsonoutdoors.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '53403'}

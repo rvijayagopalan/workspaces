@@ -1,0 +1,157 @@
+{'52WeekChange': -0.16515106,
+ 'SandP52WeekChange': None,
+ 'address1': '205 Crosspoint Parkway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 33.64,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 144662,
+ 'averageVolume': 141834,
+ 'averageVolume10days': 144662,
+ 'beta': 1.607843,
+ 'beta3Year': None,
+ 'bid': 33.56,
+ 'bidSize': 800,
+ 'bookValue': 19.502,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Getzville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 34.195,
+ 'dayLow': 33.28,
+ 'dividendRate': 0.24,
+ 'dividendYield': 0.0070999996,
+ 'earningsQuarterlyGrowth': -0.532,
+ 'enterpriseToEbitda': 8.285,
+ 'enterpriseToRevenue': 1.215,
+ 'enterpriseValue': 983180800,
+ 'exDividendDate': 1596672000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 32.392857,
+ 'fiftyTwoWeekHigh': 42.33,
+ 'fiftyTwoWeekLow': 19.2,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.66,
+ 'floatShares': 23127956,
+ 'forwardEps': 1.74,
+ 'forwardPE': 19.310345,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2997,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0324,
+ 'heldPercentInstitutions': 1.03329,
+ 'industry': 'Farm & Heavy Construction Machinery',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cmworks.com',
+ 'longBusinessSummary': 'Columbus McKinnon Corporation designs, manufactures, '
+                        'and markets hoists, actuators, rigging tools, digital '
+                        'power control systems, motion control products, and '
+                        'other technologies and systems for commercial and '
+                        'industrial applications worldwide. It offers various '
+                        'electric chain hoists, electric wire rope hoists, '
+                        'hand-operated hoists, winches, lever tools, and '
+                        'air-powered hoists under the Budgit, Chester, CM, '
+                        'Coffing, Little Mule, Pfaff, Shaw-Box, Yale, STAHL, '
+                        'and other brands; below-the-hook tooling, clamps, and '
+                        'textile strappings; and explosion-protected hoists, '
+                        'as well as supplies hoist trolleys. The company also '
+                        'provides alloy and carbon steel chains; alloy chains '
+                        'under the Herc-Alloy brand; load chains and carbon '
+                        'steel welded-link chains; alloy and carbon steel '
+                        'closed-die forged chain attachments, including hooks, '
+                        'shackles, Hammerloks, and master links; and carbon '
+                        'steel forged and stamped products, such as load '
+                        'binders, logging tools, and other securing devices. '
+                        'In addition, it offers power and motion control '
+                        'systems, which comprise AC and DC drive systems, '
+                        'radio remote controls, push button pendant stations, '
+                        'brakes, collision avoidance, and power delivery '
+                        'subsystems, as well as AC and DC digital motion '
+                        'control systems for underground coal mining '
+                        'equipment; industrial components, including '
+                        'mechanical and electromechanical actuators and rotary '
+                        'unions; and DC high-performance elevator drives, AC '
+                        'drives, and regenerative controls. Further, the '
+                        'company offers automated workstation crane under the '
+                        'ProPath brand name. Columbus McKinnon Corporation '
+                        'distributes its products through its sales force and '
+                        'independent distributors. The company was founded in '
+                        '1875 and is headquartered in Getzville, New York.',
+ 'longName': 'Columbus McKinnon Corporation',
+ 'market': 'us_market',
+ 'marketCap': 800469568,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_346334',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 59672000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 34.01,
+ 'openInterest': None,
+ 'payoutRatio': 0.096,
+ 'pegRatio': 2,
+ 'phone': '716 689 5400',
+ 'previousClose': 33.97,
+ 'priceHint': 2,
+ 'priceToBook': 1.7229,
+ 'priceToSalesTrailing12Months': 0.9892575,
+ 'profitMargins': 0.07375,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 34.195,
+ 'regularMarketDayLow': 33.28,
+ 'regularMarketOpen': 34.01,
+ 'regularMarketPreviousClose': 33.97,
+ 'regularMarketPrice': 34.01,
+ 'regularMarketVolume': 79191,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 23823500,
+ 'sharesPercentSharesOut': 0.019299999,
+ 'sharesShort': 460190,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 330448,
+ 'shortName': 'Columbus McKinnon Corporation',
+ 'shortPercentOfFloat': 0.0199,
+ 'shortRatio': 3.01,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'CMCO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.24,
+ 'trailingAnnualDividendYield': 0.007065057,
+ 'trailingEps': 2.5,
+ 'trailingPE': 13.44,
+ 'twoHundredDayAverage': 30.530289,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '1bbf9828-0767-368f-9e2b-da24dbdb270a',
+ 'volume': 79191,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cmworks.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '14068'}

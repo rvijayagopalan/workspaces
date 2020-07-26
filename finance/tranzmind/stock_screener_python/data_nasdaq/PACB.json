@@ -1,0 +1,153 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': "1305 O'Brien Drive",
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.65,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1188525,
+ 'averageVolume': 1271852,
+ 'averageVolume10days': 1188525,
+ 'beta': 1.684593,
+ 'beta3Year': None,
+ 'bid': 3.64,
+ 'bidSize': 1000,
+ 'bookValue': 0.392,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Menlo Park',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.9,
+ 'dayLow': 3.64,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -6.102,
+ 'enterpriseToRevenue': 5.142,
+ 'enterpriseValue': 463087296,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.7705715,
+ 'fiftyTwoWeekHigh': 5.94,
+ 'fiftyTwoWeekLow': 2.2,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 150230377,
+ 'forwardEps': -0.61,
+ 'forwardPE': -5.967213,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 404,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.043330003,
+ 'heldPercentInstitutions': 0.87943,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pacb.com',
+ 'longBusinessSummary': 'Pacific Biosciences of California, Inc. designs, '
+                        'develops, and manufactures sequencing systems to '
+                        'resolve genetically complex problems. Its single '
+                        'molecule real-time (SMRT) sequencing technology '
+                        'enables single molecule real-time detection of '
+                        'biological processes.The company also provides '
+                        'consumable products, including SMRT cells, as well as '
+                        'various reagent kits designed for specific workflow '
+                        'such as template preparation to convert DNA into '
+                        'SMRTbell double-stranded DNA library formats '
+                        'including molecular biology reagents, such as ligase, '
+                        'buffers and exonucleases. In addition, it provides '
+                        'binding kits, such as modified DNA polymerase used to '
+                        'bind SMRTbell libraries to the polymerase in '
+                        'preparation for sequencing; and sequencing kits '
+                        'comprises reagents required for on-instrument, '
+                        'real-time sequencing, including the phospholinked '
+                        'nucleotides. The company serves research '
+                        'institutions; commercial laboratories; genome '
+                        'centers; clinical, government, and academic '
+                        'institutions; genomics service providers; '
+                        'pharmaceutical companies; and agricultural companies. '
+                        'It markets its products through a direct sales force '
+                        'in North America and Europe, as well as through '
+                        'distribution partners in Asia, Europe, the Middle '
+                        'East, Africa, and Latin America. The company was '
+                        'formerly known as Nanofluidics, Inc. and changed its '
+                        'name to Pacific Biosciences of California, Inc. in '
+                        '2005. Pacific Biosciences of California, Inc. was '
+                        'founded in 2000 and is headquartered in Menlo Park, '
+                        'California.',
+ 'longName': 'Pacific Biosciences of California, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 560807552,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_11461617',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -52548000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.9,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.25,
+ 'phone': '650 521 8000',
+ 'previousClose': 3.92,
+ 'priceHint': 4,
+ 'priceToBook': 9.285715,
+ 'priceToSalesTrailing12Months': 6.226767,
+ 'profitMargins': -0.58345,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.9,
+ 'regularMarketDayLow': 3.64,
+ 'regularMarketOpen': 3.9,
+ 'regularMarketPreviousClose': 3.92,
+ 'regularMarketPrice': 3.9,
+ 'regularMarketVolume': 1168996,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 154050000,
+ 'sharesPercentSharesOut': 0.1159,
+ 'sharesShort': 17852546,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 16273469,
+ 'shortName': 'Pacific Biosciences of Californ',
+ 'shortPercentOfFloat': 0.123900004,
+ 'shortRatio': 12.16,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'PACB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.343,
+ 'twoHundredDayAverage': 3.735252,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'afbf9e1c-8320-3cad-8278-ee8ce023e356',
+ 'volume': 1168996,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pacb.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94025'}

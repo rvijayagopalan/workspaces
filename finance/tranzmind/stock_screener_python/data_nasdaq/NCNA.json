@@ -1,0 +1,150 @@
+{'52WeekChange': -0.36498147,
+ 'SandP52WeekChange': None,
+ 'address1': '3 Lochside Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 5.95,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 116650,
+ 'averageVolume': 73947,
+ 'averageVolume10days': 116650,
+ 'beta': 1.091232,
+ 'beta3Year': None,
+ 'bid': 5.75,
+ 'bidSize': 800,
+ 'bookValue': 3.5,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Edinburgh',
+ 'companyOfficers': [],
+ 'country': 'United Kingdom',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.8,
+ 'dayLow': 5.43,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 179402192,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 5.577343,
+ 'fiftyTwoWeekHigh': 10.94,
+ 'fiftyTwoWeekLow': 3.81,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 16312808,
+ 'forwardEps': -73.29,
+ 'forwardPE': -0.07654523,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 29,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0065499996,
+ 'heldPercentInstitutions': 0.49377,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/nucana.com',
+ 'longBusinessSummary': 'NuCana plc, a clinical-stage biopharmaceutical '
+                        'company, engages in the development of products for '
+                        'the treatment of cancer. The company develops its '
+                        'products based on its proprietary ProTide technology. '
+                        'Its lead product candidate includes Acelarin, which '
+                        'is in Phase Ib and Phase III clinical trials for the '
+                        'treatment of patients with biliary tract cancer; a '
+                        'Phase II clinical trial for the treatment of patients '
+                        'with platinum-resistant ovarian cancer; Phase Ib '
+                        'clinical trial for the treatment of patients with '
+                        'biliary cancer; and Phase III clinical trial for the '
+                        'treatment of patients with metastatic pancreatic '
+                        'cancer. The company is also developing NUC-3373, a '
+                        'ProTide transformation of the active anti-cancer '
+                        'metabolite of 5-fluorouracil, which is in Phase I '
+                        'clinical trial for the treatment of patients with '
+                        'advanced solid tumors; and NUC-7738, a nucleoside '
+                        'analog that is in Phase I clinical trial for the '
+                        'treatment of patients with advanced solid tumors and '
+                        'hematological tumors. NuCana plc has a research, '
+                        'collaboration, and license agreement with Cardiff '
+                        'University and University College Cardiff Consultants '
+                        'Ltd. for the design, synthesis, characterization, and '
+                        'evaluation of ProTides; and an assignment, license, '
+                        'and collaboration agreement with Cardiff ProTides '
+                        'Ltd. The company was formerly known as NuCana BioMed '
+                        'Limited and changed its name to NuCana plc in August '
+                        '2017. NuCana plc was incorporated in 1997 and is '
+                        'headquartered in Edinburgh, the United Kingdom.',
+ 'longName': 'NuCana plc',
+ 'market': 'us_market',
+ 'marketCap': 182207200,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_50918463',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 5.51,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '44 13 1357 1111',
+ 'previousClose': 5.15,
+ 'priceHint': 2,
+ 'priceToBook': 1.6028572,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.8,
+ 'regularMarketDayLow': 5.43,
+ 'regularMarketOpen': 5.51,
+ 'regularMarketPreviousClose': 5.15,
+ 'regularMarketPrice': 5.51,
+ 'regularMarketVolume': 684163,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 32479000,
+ 'sharesPercentSharesOut': 0.0764,
+ 'sharesShort': 2482707,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2469732,
+ 'shortName': 'NuCana plc',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 39.47,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'NCNA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.634,
+ 'twoHundredDayAverage': 5.592547,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'dfdec38b-ab4c-3c50-b808-03a61a463a78',
+ 'volume': 684163,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.nucana.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'EH12 9DT'}

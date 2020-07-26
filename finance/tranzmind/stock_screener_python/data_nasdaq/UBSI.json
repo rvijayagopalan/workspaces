@@ -1,0 +1,151 @@
+{'52WeekChange': -0.23319101,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '300 United Center',
+ 'address2': '500 Virginia Street, East',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 28.76,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 461912,
+ 'averageVolume': 867166,
+ 'averageVolume10days': 461912,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 28.73,
+ 'bidSize': 900,
+ 'bookValue': 41.267,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Charleston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 29.09,
+ 'dayLow': 28.5,
+ 'dividendRate': 1.4,
+ 'dividendYield': 0.0499,
+ 'earningsQuarterlyGrowth': -0.216,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.84,
+ 'enterpriseValue': 2740747264,
+ 'exDividendDate': 1591833600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 27.49257,
+ 'fiftyTwoWeekHigh': 40.7,
+ 'fiftyTwoWeekLow': 19.67,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.67,
+ 'floatShares': 99386383,
+ 'forwardEps': 2.02,
+ 'forwardPE': 14.227723,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2204,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02412,
+ 'heldPercentInstitutions': 0.56255,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 891216000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ubsi-inc.com',
+ 'longBusinessSummary': 'United Bankshares, Inc., a financial holding company, '
+                        'primarily provides commercial and retail banking '
+                        'products and services in the United States. It '
+                        'operates through two segments, Community Banking and '
+                        'Mortgage Banking. The company accepts checking, '
+                        'savings, and time and money market accounts; '
+                        'individual retirement accounts; and demand deposits, '
+                        'statement and special savings, and NOW accounts. It '
+                        'also offers personal, commercial, floor plan, and '
+                        'student loans; construction and real estate loans; '
+                        'and consumer loans, including credit card and home '
+                        'equity loans. In addition, the company provides safe '
+                        'deposit boxes, wire transfers, and other banking '
+                        'products and services; investment and security, and '
+                        'trust services; services to correspondent banks, '
+                        'including check clearing, safekeeping, and buying and '
+                        'selling federal funds; automated teller machine '
+                        'services; and Internet and telephone banking '
+                        'services. Further, it offers community banking '
+                        'services, such as asset management, real property '
+                        'title insurance, financial planning, mortgage '
+                        'banking, and brokerage services. The company operates '
+                        '139 full service offices, which consists of 51 '
+                        'offices in West Virginia; 83 offices in the '
+                        'Shenandoah Valley region of Virginia and the Northern '
+                        'Virginia, Maryland, and Washington, D.C. metropolitan '
+                        'areas; 4 offices in southwestern Pennsylvania; and 1 '
+                        'office in southeastern Ohio. United Bankshares, Inc. '
+                        'was incorporated in 1982 and is headquartered in '
+                        'Charleston, West Virginia.',
+ 'longName': 'United Bankshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3728267776,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_310025',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 221524000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 28.58,
+ 'openInterest': None,
+ 'payoutRatio': 0.5923,
+ 'pegRatio': 1.86,
+ 'phone': '304-424-8716',
+ 'previousClose': 28.08,
+ 'priceHint': 2,
+ 'priceToBook': 0.6964403,
+ 'priceToSalesTrailing12Months': 5.2233243,
+ 'profitMargins': 0.31119,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 29.09,
+ 'regularMarketDayLow': 28.5,
+ 'regularMarketOpen': 28.58,
+ 'regularMarketPreviousClose': 28.08,
+ 'regularMarketPrice': 28.58,
+ 'regularMarketVolume': 537744,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 129724000,
+ 'sharesPercentSharesOut': 0.0358,
+ 'sharesShort': 4646555,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4964162,
+ 'shortName': 'United Bankshares, Inc.',
+ 'shortPercentOfFloat': 0.041300002,
+ 'shortRatio': 6.63,
+ 'startDate': None,
+ 'state': 'WV',
+ 'strikePrice': None,
+ 'symbol': 'UBSI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.38,
+ 'trailingAnnualDividendYield': 0.0491453,
+ 'trailingEps': 2.178,
+ 'trailingPE': 13.195592,
+ 'twoHundredDayAverage': 28.627985,
+ 'volume': 537744,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ubsi-inc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '25301'}

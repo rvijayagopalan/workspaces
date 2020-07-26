@@ -1,0 +1,149 @@
+{'52WeekChange': 0.5784062,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '230 Park Avenue',
+ 'address2': 'Suite 3350',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 46.25,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 170137,
+ 'averageVolume': 251038,
+ 'averageVolume10days': 170137,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 31.03,
+ 'bidSize': 900,
+ 'bookValue': 4.41,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 38.43,
+ 'dayLow': 36.64,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -13.735,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 1280987776,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 42.906284,
+ 'fiftyTwoWeekHigh': 50.49,
+ 'fiftyTwoWeekLow': 14.16,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 18169631,
+ 'forwardEps': -1.06,
+ 'forwardPE': -34.75472,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 65,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.37469003,
+ 'heldPercentInstitutions': 0.53004,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ymabs.com',
+ 'longBusinessSummary': 'Y-mAbs Therapeutics, Inc., a clinical-stage '
+                        'biopharmaceutical company, focuses on the development '
+                        'and commercialization of novel antibody-based '
+                        'therapeutic products for the treatment cancer in the '
+                        'United States. The company develops naxitamab that is '
+                        'in Phase 2 clinical trial for the treatment of '
+                        'pediatric patients with relapsed steosarcoma or '
+                        'refractory, and high-risk neuroblastoma, as well as '
+                        'other GD2 positive tumors; and GD2-GD3 Vaccine which '
+                        'is in Phase 2 clinical trial for the treatment of '
+                        'high-risk neuroblastoma. It is developing omburtamab '
+                        'that is in Phase 2 clinical trial for the treatment '
+                        'of desmoplastic small round cell tumors; in Phase 1 '
+                        'clinical trial for the treatment of diffuse intrinsic '
+                        'pontine glioma, as well as for the treatment of '
+                        'pediatric patients with central nervous system and '
+                        'leptomeningeal metastases; The company also engages '
+                        'in the development of huB7-H3 product candidate for '
+                        'the treatment of B7-H3 positive adult solid tumors; '
+                        'and pre clinical development of huCD33 BsAb product '
+                        'candidate for the treatment of huCD33 positive '
+                        'hermatological cancers. The company has a license and '
+                        'research collaboration agreement with Memorial Sloan '
+                        'Kettering Cancer Center and Massachusetts Institute '
+                        'of Technology to develop and commercialize antibody '
+                        'constructs based on the SADA-BiDE pre-targeted '
+                        'radioimmunotherapy platform. Y-mAbs Therapeutics, '
+                        'Inc. was founded in 2015 and is headquartered in New '
+                        'York, New York.',
+ 'longName': 'Y-mAbs Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1464669952,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_378585331',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -91273000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 37.94,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.12,
+ 'phone': '646 885 8505',
+ 'previousClose': 38.19,
+ 'priceHint': 2,
+ 'priceToBook': 8.353742,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 38.43,
+ 'regularMarketDayLow': 36.64,
+ 'regularMarketOpen': 37.94,
+ 'regularMarketPreviousClose': 38.19,
+ 'regularMarketPrice': 37.94,
+ 'regularMarketVolume': 112260,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 39757600,
+ 'sharesPercentSharesOut': 0.063,
+ 'sharesShort': 2506618,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2126593,
+ 'shortName': 'Y-mAbs Therapeutics, Inc.',
+ 'shortPercentOfFloat': 0.0845,
+ 'shortRatio': 8.18,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'YMAB',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.496,
+ 'twoHundredDayAverage': 34.323742,
+ 'volume': 112260,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ymabs.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10169'}

@@ -1,0 +1,152 @@
+{'52WeekChange': -0.45650297,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Ten Post Office Square',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 6.3,
+ 'askSize': 4000,
+ 'averageDailyVolume10Day': 541012,
+ 'averageVolume': 516285,
+ 'averageVolume10days': 541012,
+ 'beta': 1.12549,
+ 'beta3Year': None,
+ 'bid': 6.27,
+ 'bidSize': 1800,
+ 'bookValue': 10.132,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Boston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.45,
+ 'dayLow': 6.26,
+ 'dividendRate': 0.48,
+ 'dividendYield': 0.0761,
+ 'earningsQuarterlyGrowth': -0.959,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.379,
+ 'enterpriseValue': 1357437440,
+ 'exDividendDate': 1588809600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 6.501143,
+ 'fiftyTwoWeekHigh': 13.08,
+ 'fiftyTwoWeekLow': 5.18,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.54,
+ 'floatShares': 79606659,
+ 'forwardEps': 0.59,
+ 'forwardPE': 10.694916,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 779,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.012510001,
+ 'heldPercentInstitutions': 0.94824,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bostonprivate.com',
+ 'longBusinessSummary': 'Boston Private Financial Holdings, Inc. operates as '
+                        'the bank holding company for Boston Private Bank & '
+                        'Trust Company that provides a range of banking '
+                        'services in the United States. It operates in three '
+                        'segments: Private Banking, Wealth Management and '
+                        'Trust, and Affiliate Partners. The company accepts '
+                        'deposit products, such as checking accounts, savings '
+                        'and NOW accounts, money market accounts, and '
+                        'certificates of deposit. Its loan products include '
+                        'loans to individuals, such as residential mortgage '
+                        'loans, mortgage loans on investment or vacation '
+                        'properties, unsecured and secured personal lines of '
+                        'credits, home equity loans, and overdraft protection; '
+                        'and loans to businesses consisting of commercial and '
+                        'mortgage loans, revolving lines of credit, working '
+                        'capital loans, equipment financing, community lending '
+                        'programs, and construction and land loans. In '
+                        'addition, it provides wealth management solutions '
+                        'comprising customized investment solutions, wealth '
+                        'planning, trust, and family office services for high '
+                        'net worth individuals and families; services for '
+                        'pension funds, endowments, trusts, foundations and '
+                        'select institutions, mutual funds, and high net worth '
+                        'individuals and their families; and financial '
+                        'planning, tax planning and preparation, estate and '
+                        'insurance planning, retirement planning, charitable '
+                        'planning, and intergenerational gifting and '
+                        'succession planning. The company operates offices in '
+                        'Boston, Miami, New York, Los Angeles, San Francisco, '
+                        'San Jose, and Florida. Boston Private Financial '
+                        'Holdings, Inc. was founded in 1987 and is '
+                        'headquartered in Boston, Massachusetts.',
+ 'longName': 'Boston Private Financial Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 516161792,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_340433',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 61386000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 6.29,
+ 'openInterest': None,
+ 'payoutRatio': 0.6575,
+ 'pegRatio': 1.55,
+ 'phone': '617-912-1900',
+ 'previousClose': 6.305,
+ 'priceHint': 2,
+ 'priceToBook': 0.6227793,
+ 'priceToSalesTrailing12Months': 1.6650864,
+ 'profitMargins': 0.19802,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.45,
+ 'regularMarketDayLow': 6.26,
+ 'regularMarketOpen': 6.29,
+ 'regularMarketPreviousClose': 6.305,
+ 'regularMarketPrice': 6.29,
+ 'regularMarketVolume': 315018,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 81800600,
+ 'sharesPercentSharesOut': 0.0119,
+ 'sharesShort': 974779,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1112185,
+ 'shortName': 'Boston Private Financial Holdin',
+ 'shortPercentOfFloat': 0.0163,
+ 'shortRatio': 1.67,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'BPFH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.48,
+ 'trailingAnnualDividendYield': 0.076130055,
+ 'trailingEps': 0.731,
+ 'trailingPE': 8.63201,
+ 'twoHundredDayAverage': 8.248993,
+ 'volume': 315018,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bostonprivate.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02109'}

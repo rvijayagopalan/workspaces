@@ -1,0 +1,162 @@
+{'52WeekChange': -0.36324525,
+ 'SandP52WeekChange': None,
+ 'address1': '6480 U.S. Highway 98 West',
+ 'address2': 'Suite A',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 32,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 57237,
+ 'averageVolume': 89046,
+ 'averageVolume10days': 57237,
+ 'beta': 0.884593,
+ 'beta3Year': None,
+ 'bid': 20.39,
+ 'bidSize': 1000,
+ 'bookValue': 29.489,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Hattiesburg',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 20.89,
+ 'dayLow': 20.38,
+ 'dividendRate': 0.4,
+ 'dividendYield': 0.019299999,
+ 'earningsQuarterlyGrowth': 0.089,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.465,
+ 'enterpriseValue': 362079360,
+ 'exDividendDate': 1588896000,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 21.525715,
+ 'fiftyTwoWeekHigh': 35.88,
+ 'fiftyTwoWeekLow': 15.27,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.76,
+ 'floatShares': 20471722,
+ 'forwardEps': 2.42,
+ 'forwardPE': 8.450414,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 676,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04277,
+ 'heldPercentInstitutions': 0.56499,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1142467200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/thefirstbank.com',
+ 'longBusinessSummary': 'The First Bancshares, Inc. operates as the bank '
+                        'holding company for The First, A National Banking '
+                        'Association that provides general commercial and '
+                        'retail banking services. The company operates through '
+                        'three segments: Commercial/Retail Bank, Mortgage '
+                        'Banking Division, and Holding Company. It offers '
+                        'deposit services, including checking, NOW, and '
+                        'savings accounts; other time deposits, such as daily '
+                        'money market accounts and longer-term certificates of '
+                        'deposit; and individual retirement accounts. The '
+                        'company also provides commercial loans comprising '
+                        'secured and unsecured loans for working capital, '
+                        'business expansion, and purchase of equipment and '
+                        'machinery; consumer loans consisting of equity lines '
+                        'of credit, as well as secured and unsecured loans for '
+                        'financing automobiles, home improvements, education, '
+                        'and personal investments; and real estate '
+                        'construction and acquisition loans. In addition, it '
+                        'originates loans to purchase existing residential '
+                        'homes or construct new homes, and to refinance '
+                        'existing mortgages; and provides financial and wealth '
+                        'management services. Further, the company offers '
+                        'internet banking services, automated teller machines, '
+                        'voice response telephone inquiry services, commercial '
+                        'sweep accounts, cash management services, safe '
+                        'deposit boxes, merchant, mobile deposit, direct '
+                        'deposit of payroll and social security checks, '
+                        'automatic drafts for various accounts, and credit '
+                        'card services. It primarily serves small to '
+                        'medium-sized businesses, professional concerns, '
+                        'individuals, associations and organizations, and '
+                        'governmental authorities. As of December 31, 2019, '
+                        'the company operated through its main office and 72 '
+                        'full-service branches, one motor branch, and four '
+                        'loan production offices in Mississippi, Alabama, '
+                        'Louisiana, Florida, and Georgia. The First '
+                        'Bancshares, Inc. was incorporated in 1995 and is '
+                        'headquartered in Hattiesburg, Mississippi.',
+ 'longName': 'The First Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 437603424,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3564413',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 44421000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 20.83,
+ 'openInterest': None,
+ 'payoutRatio': 0.1355,
+ 'pegRatio': None,
+ 'phone': '601-268-8998',
+ 'previousClose': 20.72,
+ 'priceHint': 2,
+ 'priceToBook': 0.69347894,
+ 'priceToSalesTrailing12Months': 2.9791234,
+ 'profitMargins': 0.30241,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 20.89,
+ 'regularMarketDayLow': 20.38,
+ 'regularMarketOpen': 20.83,
+ 'regularMarketPreviousClose': 20.72,
+ 'regularMarketPrice': 20.83,
+ 'regularMarketVolume': 36000,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 21398700,
+ 'sharesPercentSharesOut': 0.0183,
+ 'sharesShort': 392364,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 241827,
+ 'shortName': 'The First Bancshares, Inc.',
+ 'shortPercentOfFloat': 0.0214,
+ 'shortRatio': 3.95,
+ 'startDate': None,
+ 'state': 'MS',
+ 'strikePrice': None,
+ 'symbol': 'FBMS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.36,
+ 'trailingAnnualDividendYield': 0.01737452,
+ 'trailingEps': 2.48,
+ 'trailingPE': 8.245968,
+ 'twoHundredDayAverage': 24.34151,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e651e148-eb7f-30d2-9dce-88a5df067e20',
+ 'volume': 36000,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.thefirstbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '39402'}

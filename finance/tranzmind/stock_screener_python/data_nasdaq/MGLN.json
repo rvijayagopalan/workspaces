@@ -1,0 +1,154 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '4801 East Washington Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 75.22,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 100487,
+ 'averageVolume': 199155,
+ 'averageVolume10days': 100487,
+ 'beta': 1.212324,
+ 'beta3Year': None,
+ 'bid': 75.04,
+ 'bidSize': 800,
+ 'bookValue': 57.335,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Phoenix',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 76.34,
+ 'dayLow': 74.43,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 41.343,
+ 'enterpriseToEbitda': 11.22,
+ 'enterpriseToRevenue': 0.332,
+ 'enterpriseValue': 2393167872,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 72.48371,
+ 'fiftyTwoWeekHigh': 81.04,
+ 'fiftyTwoWeekLow': 30.6,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 22306083,
+ 'forwardEps': 4.01,
+ 'forwardPE': 18.710722,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 10100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.011510001,
+ 'heldPercentInstitutions': 1.00143,
+ 'industry': 'Healthcare Plans',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/magellanhealth.com',
+ 'longBusinessSummary': 'Magellan Health, Inc. provides healthcare management '
+                        'services in the United States. The company operates '
+                        'in Healthcare and Pharmacy Management segments. The '
+                        'Healthcare segment offers carve-out management '
+                        'services for behavioral health; employee assistance '
+                        'plans (EAP); and other areas of specialty healthcare, '
+                        'including diagnostic imaging, musculoskeletal '
+                        'management, cardiac, and physical medicine. It also '
+                        'contracts with state Medicaid agencies, and the '
+                        'centers for Medicare and Medicaid services to manage '
+                        'care for beneficiaries under Medicaid and Medicare '
+                        'programs, such as healthcare and long-term support '
+                        'services through its network of medical and '
+                        'behavioral health professionals, clinics, hospitals, '
+                        'nursing facilities, home care agencies, and ancillary '
+                        'service providers. The Pharmacy Management segment '
+                        'comprises products and solutions that provide '
+                        'clinical and financial management of pharmaceuticals '
+                        'paid under medical and pharmacy benefit programs. It '
+                        'offers pharmacy benefit management services, such as '
+                        'pharmaceutical dispensing services; pharmacy benefit '
+                        'administration for state Medicaid and other '
+                        'government sponsored programs; clinical and formulary '
+                        'management programs; medical pharmacy management '
+                        'programs; and programs for the integrated management '
+                        'of specialty drugs that treat complex conditions. The '
+                        'company provides services to health plans and other '
+                        'managed care organizations, employers, labor unions, '
+                        'various military and governmental agencies, and third '
+                        'party administrators. Magellan Health, Inc. was '
+                        'founded in 1969 and is based in Phoenix, Arizona.',
+ 'longName': 'Magellan Health, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1873424000,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_327142',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 73721000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 75.59,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -18.75,
+ 'phone': '800-642-1716',
+ 'previousClose': 75.59,
+ 'priceHint': 2,
+ 'priceToBook': 1.3086247,
+ 'priceToSalesTrailing12Months': 0.25968415,
+ 'profitMargins': 0.01022,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 76.34,
+ 'regularMarketDayLow': 74.43,
+ 'regularMarketOpen': 75.59,
+ 'regularMarketPreviousClose': 75.59,
+ 'regularMarketPrice': 75.59,
+ 'regularMarketVolume': 162758,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 24969000,
+ 'sharesPercentSharesOut': 0.0279,
+ 'sharesShort': 695964,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 562262,
+ 'shortName': 'Magellan Health, Inc.',
+ 'shortPercentOfFloat': 0.0368,
+ 'shortRatio': 3.87,
+ 'startDate': None,
+ 'state': 'AZ',
+ 'strikePrice': None,
+ 'symbol': 'MGLN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.979,
+ 'trailingPE': 25.186302,
+ 'twoHundredDayAverage': 65.02748,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b49839d4-597a-3d56-b171-19af1cb22cf2',
+ 'volume': 162758,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.magellanhealth.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '85034'}

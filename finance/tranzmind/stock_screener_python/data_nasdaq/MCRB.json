@@ -1,0 +1,155 @@
+{'52WeekChange': 0.5508772,
+ 'SandP52WeekChange': None,
+ 'address1': '200 Sidney Street',
+ 'address2': '4th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.34,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 782200,
+ 'averageVolume': 661739,
+ 'averageVolume10days': 782200,
+ 'beta': 1.118767,
+ 'beta3Year': None,
+ 'bid': 4.11,
+ 'bidSize': 1400,
+ 'bookValue': -0.86,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.36,
+ 'dayLow': 4.02,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -4.468,
+ 'enterpriseToRevenue': 7.531,
+ 'enterpriseValue': 266383328,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 4.736143,
+ 'fiftyTwoWeekHigh': 6.75,
+ 'fiftyTwoWeekLow': 2.15,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 43603021,
+ 'forwardEps': -1.02,
+ 'forwardPE': -4.019608,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 108,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.10002,
+ 'heldPercentInstitutions': 0.80148005,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/serestherapeutics.com',
+ 'longBusinessSummary': 'Seres Therapeutics, Inc., a microbiome therapeutics '
+                        'platform company, engages in developing biological '
+                        'drugs that are designed to treat disease by restoring '
+                        "the function of a dysbiotic microbiome. The company's "
+                        'advanced program is the SER-109, which is in Phase '
+                        'III clinical development for reducing recurrent '
+                        'clostridium difficile infection (CDI). It is also '
+                        'developing SER-287 that is in Phase IIb study in '
+                        'patients with active mild-to-moderate ulcerative '
+                        'colitis; and SER-401, which is in Phase Ib study in '
+                        'metastatic melanoma to augment the efficacy of '
+                        'anti-PD-1 immunotherapy. In addition, the company '
+                        'engages in the development of SER-301, an Ecobiotic '
+                        'microbiome therapeutic candidate for the treatment of '
+                        'inflammatory bowel disease; and SER-109, a '
+                        'donor-derived purified bacterial spore-based '
+                        'microbiome therapeutic candidate that is in Phase III '
+                        'clinical trial to correct dysbiosis in the colonic '
+                        'microbiome in the setting of recurrent CDI. Further, '
+                        'it is developing SER-262, a multi-strain Ecobiotic '
+                        'microbiome therapeutic candidate, which is in Phase '
+                        'Ib study for CDI antibiotic treatment; and SER-155, a '
+                        'microbiome therapeutic candidate to correct dysbiosis '
+                        'in patients following allogeneic hematopoietic stem '
+                        'cell or solid organ transplants. The company has '
+                        'license and collaboration agreement with Nestec Ltd. '
+                        'and Memorial Sloan Kettering Cancer Center, as well '
+                        'as collaboration with AstraZeneca. The company was '
+                        'formerly known as Seres Health, Inc. and changed its '
+                        'name to Seres Therapeutics, Inc. in May 2015. Seres '
+                        'Therapeutics, Inc. was founded in 2010 and is '
+                        'headquartered in Cambridge, Massachusetts.',
+ 'longName': 'Seres Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 297656320,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_222388947',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -65827000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 4.36,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.03,
+ 'phone': '617 945 9626',
+ 'previousClose': 4.42,
+ 'priceHint': 4,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 8.414788,
+ 'profitMargins': -1.86094,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.36,
+ 'regularMarketDayLow': 4.02,
+ 'regularMarketOpen': 4.36,
+ 'regularMarketPreviousClose': 4.42,
+ 'regularMarketPrice': 4.36,
+ 'regularMarketVolume': 727767,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 72599104,
+ 'sharesPercentSharesOut': 0.1025,
+ 'sharesShort': 7439703,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6735924,
+ 'shortName': 'Seres Therapeutics, Inc.',
+ 'shortPercentOfFloat': 0.21219999,
+ 'shortRatio': 12.32,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'MCRB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.027,
+ 'twoHundredDayAverage': 3.997338,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '142fe857-307b-3629-9b7d-860e8fe50185',
+ 'volume': 727767,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.serestherapeutics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02139'}

@@ -1,0 +1,154 @@
+{'52WeekChange': -0.34405673,
+ 'SandP52WeekChange': None,
+ 'address1': '67 Prospect Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.79,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 173837,
+ 'averageVolume': 178747,
+ 'averageVolume10days': 173837,
+ 'beta': 0.910364,
+ 'beta3Year': None,
+ 'bid': 11.77,
+ 'bidSize': 800,
+ 'bookValue': 14.64,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Peabody',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.1,
+ 'dayLow': 11.76,
+ 'dividendRate': 0.32,
+ 'dividendYield': 0.026500002,
+ 'earningsQuarterlyGrowth': 0.139,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.723,
+ 'enterpriseValue': 886294592,
+ 'exDividendDate': 1592352000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 11.387143,
+ 'fiftyTwoWeekHigh': 20.86,
+ 'fiftyTwoWeekLow': 8.88,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 48206048,
+ 'forwardEps': 0.89,
+ 'forwardPE': 13.235955,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 464,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.10366999,
+ 'heldPercentInstitutions': 0.68805003,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1406592000,
+ 'lastSplitFactor': '2448:1000',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ebsb.com',
+ 'longBusinessSummary': 'Meridian Bancorp, Inc. operates as the holding '
+                        'company for East Boston Savings Bank that provides '
+                        'various financial products and services for '
+                        'individuals and businesses primarily in Suffolk, '
+                        'Norfolk, Middlesex, and Essex Counties, '
+                        'Massachusetts. The company accepts various deposit '
+                        'products, including non-interest-bearing demand '
+                        'deposits, such as checking accounts; interest-bearing '
+                        'demand accounts, such as NOW and money market '
+                        'accounts; savings accounts; and certificates of '
+                        'deposit, as well as commercial checking accounts. Its '
+                        'loan portfolio includes commercial real estate loans, '
+                        'which are secured by properties, such as office '
+                        'buildings, industrial facilities, and retail '
+                        'facilities; one- to four-family residential loans, '
+                        'such as mortgage loans that enable borrowers to '
+                        'purchase or refinance existing homes; multi-family '
+                        'real estate loans; construction loans; commercial and '
+                        'industrial loans; home equity lines of credit; and '
+                        'consumer loans, including automobile loans, loans '
+                        'secured by savings or certificate accounts, credit '
+                        'builders, and annuity and overdraft loans. In '
+                        'addition, the company offers non-deposit financial '
+                        'products, such as mutual funds, annuities, stocks, '
+                        'and bonds through third-party broker-dealer; and '
+                        'long-term care insurance products. Further, it is '
+                        'also involved in the securities transactions '
+                        'business. The company operates 39 full-service '
+                        'locations, one mobile branch, and three loan centers. '
+                        'Meridian Bancorp, Inc. was founded in 1848 and is '
+                        'based in Peabody, Massachusetts.',
+ 'longName': 'Meridian Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 617356800,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_37443258',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 67013000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 12.08,
+ 'openInterest': None,
+ 'payoutRatio': 0.2366,
+ 'pegRatio': 1.01,
+ 'phone': '617-567-1500',
+ 'previousClose': 12.03,
+ 'priceHint': 2,
+ 'priceToBook': 0.80464476,
+ 'priceToSalesTrailing12Months': 3.290148,
+ 'profitMargins': 0.35714,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.1,
+ 'regularMarketDayLow': 11.76,
+ 'regularMarketOpen': 12.08,
+ 'regularMarketPreviousClose': 12.03,
+ 'regularMarketPrice': 12.08,
+ 'regularMarketVolume': 120720,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 52407200,
+ 'sharesPercentSharesOut': 0.0139,
+ 'sharesShort': 730704,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 537902,
+ 'shortName': 'Meridian Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0186,
+ 'shortRatio': 3.8,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'EBSB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.31,
+ 'trailingAnnualDividendYield': 0.025768911,
+ 'trailingEps': 1.311,
+ 'trailingPE': 8.985507,
+ 'twoHundredDayAverage': 13.372158,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '37a36d20-2797-348f-bd85-2f42cab6a4a8',
+ 'volume': 120720,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ebsb.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01960'}

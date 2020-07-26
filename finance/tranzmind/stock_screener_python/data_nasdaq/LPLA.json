@@ -1,0 +1,152 @@
+{'52WeekChange': -0.10594469,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '4707 Executive Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 75.99,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 515200,
+ 'averageVolume': 881693,
+ 'averageVolume10days': 515200,
+ 'beta': 1.580952,
+ 'beta3Year': None,
+ 'bid': 75.96,
+ 'bidSize': 1100,
+ 'bookValue': 12.826,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Diego',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 76.225,
+ 'dayLow': 75.07,
+ 'dividendRate': 1,
+ 'dividendYield': 0.013200001,
+ 'earningsQuarterlyGrowth': 0.002,
+ 'enterpriseToEbitda': 7.956,
+ 'enterpriseToRevenue': 1.448,
+ 'enterpriseValue': 8275357184,
+ 'exDividendDate': 1590537600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 78.482285,
+ 'fiftyTwoWeekHigh': 99.6,
+ 'fiftyTwoWeekLow': 32.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.1,
+ 'floatShares': 78104333,
+ 'forwardEps': 6.26,
+ 'forwardPE': 12.1325865,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4350,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00839,
+ 'heldPercentInstitutions': 0.97052,
+ 'industry': 'Capital Markets',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/lpl.com',
+ 'longBusinessSummary': 'LPL Financial Holdings Inc., together with its '
+                        'subsidiaries, provides an integrated platform of '
+                        'brokerage and investment advisory services to '
+                        'independent financial advisors and financial advisors '
+                        'at financial institutions in the United States. Its '
+                        'brokerage offerings include variable and fixed '
+                        'annuities, mutual funds, equities, retirement and '
+                        'education savings plans, fixed income, and insurance, '
+                        'as well as alternative investments, such as '
+                        'non-traded real estate investment trusts and business '
+                        'development companies. The company also provides '
+                        'advisory platforms that provide access to mutual '
+                        'funds, exchange-traded funds, stocks, bonds, certain '
+                        'option strategies, unit investment trusts, and '
+                        'institutional money managers and no-load '
+                        'multi-manager variable annuities. In addition, it '
+                        'offers cash sweep programs; and retirement solutions '
+                        'for commission-and fee-based services that allow '
+                        'advisors to provide brokerage services, consultation, '
+                        'and advice to retirement plan sponsors. Further, the '
+                        'company provides other services comprising tools and '
+                        'services that enable advisors to maintain and grow '
+                        'their practices; trust, investment management '
+                        'oversight, and custodial services to trusts for '
+                        'estates and families, as well as insurance brokerage '
+                        'general agency services; and technology products, '
+                        'such as proposal generation, investment analytics, '
+                        'and portfolio modeling. The company was formerly '
+                        'known as LPL Investment Holdings Inc. and changed its '
+                        'name to LPL Financial Holdings Inc. in June 2012. LPL '
+                        'Financial Holdings Inc. was founded in 1989 and is '
+                        'based in San Diego, California.',
+ 'longName': 'LPL Financial Holdings Inc.',
+ 'market': 'us_market',
+ 'marketCap': 5989727744,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34120092',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 560123008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 76.2,
+ 'openInterest': None,
+ 'payoutRatio': 0.1481,
+ 'pegRatio': -4.98,
+ 'phone': '800-877-7210',
+ 'previousClose': 76.03,
+ 'priceHint': 2,
+ 'priceToBook': 5.921565,
+ 'priceToSalesTrailing12Months': 1.0477828,
+ 'profitMargins': 0.09798,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 76.225,
+ 'regularMarketDayLow': 75.07,
+ 'regularMarketOpen': 76.2,
+ 'regularMarketPreviousClose': 76.03,
+ 'regularMarketPrice': 76.2,
+ 'regularMarketVolume': 466753,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 78864096,
+ 'sharesPercentSharesOut': 0.027999999,
+ 'sharesShort': 2204441,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1081064,
+ 'shortName': 'LPL Financial Holdings Inc.',
+ 'shortPercentOfFloat': 0.0372,
+ 'shortRatio': 2.01,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'LPLA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1,
+ 'trailingAnnualDividendYield': 0.013152703,
+ 'trailingEps': 6.738,
+ 'trailingPE': 11.271891,
+ 'twoHundredDayAverage': 73.63511,
+ 'volume': 466753,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.lpl.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92121'}

@@ -1,0 +1,163 @@
+{'52WeekChange': -0.11257666,
+ 'SandP52WeekChange': None,
+ 'address1': '63 Second Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 31.97,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 162162,
+ 'averageVolume': 136323,
+ 'averageVolume10days': 162162,
+ 'beta': 1.370868,
+ 'beta3Year': None,
+ 'bid': 31.94,
+ 'bidSize': 1000,
+ 'bookValue': 7.563,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Burlington',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 33.49,
+ 'dayLow': 31.11,
+ 'dividendRate': 0.38,
+ 'dividendYield': 0.013099999,
+ 'earningsQuarterlyGrowth': -0.243,
+ 'enterpriseToEbitda': 24.694,
+ 'enterpriseToRevenue': 5.582,
+ 'enterpriseValue': 640061376,
+ 'exDividendDate': 1589846400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '781 425 5049',
+ 'fiftyDayAverage': 26.384,
+ 'fiftyTwoWeekHigh': 38.64,
+ 'fiftyTwoWeekLow': 18.76,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.92,
+ 'floatShares': 16925773,
+ 'forwardEps': 0.78,
+ 'forwardPE': 40.91026,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 454,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.17291,
+ 'heldPercentInstitutions': 0.89017,
+ 'industry': 'Medical Instruments & Supplies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/lemaitre.com',
+ 'longBusinessSummary': 'LeMaitre Vascular, Inc. designs, markets, sells, '
+                        'services, and supports medical devices and implants '
+                        'for the treatment of peripheral vascular disease '
+                        'worldwide. The company offers angioscope, a fiber '
+                        'optic catheter used for viewing the lumen of a blood '
+                        'vessel; embolectomy catheters to remove blood clots '
+                        'from arteries or veins; occlusion catheters that '
+                        'temporarily occlude the blood flow; perfusion '
+                        'catheters to temporarily perfuse the blood and other '
+                        'fluids into the vasculature; and thrombectomy '
+                        'catheters, which features a silicone balloon for '
+                        'removing thrombi in the venous system. It also '
+                        'provides carotid shunts that temporarily shunt the '
+                        'blood to the brain during the removal of plaque from '
+                        'the carotid artery in a carotid endarterectomy '
+                        'surgery; powered phlebectomy devices to remove '
+                        'varicose veins; and radiopaque tape, a medical-grade '
+                        'tape applied to the skin that enables '
+                        'interventionists to cross-refer between the inside '
+                        "and the outside of a patient's body, and allows them "
+                        'to locate tributaries or lesions beneath the skin. In '
+                        'addition, the company offers remote endarterectomy '
+                        'devices to remove plaque from arteries in the leg; '
+                        'valvulotomes, which cut valves in the saphenous vein '
+                        'to function as an artery to carry blood past diseased '
+                        'arteries to the lower leg or the foot; and vascular '
+                        'grafts to bypass or replace diseased arteries. '
+                        'Further, it provides vascular patches, which are used '
+                        'for closure of vessels after surgical intervention, '
+                        'as well as endarterectomy and other vascular '
+                        'reconstruction; vessel closure systems to attach '
+                        'vessels to one another with titanium clips instead of '
+                        'sutures; and surgical glue. The company markets its '
+                        'products through a direct sales force and '
+                        'distributors. The company was formerly known as '
+                        'Vascutech, Inc. and changed its name to LeMaitre '
+                        'Vascular, Inc. in April 2001. LeMaitre Vascular, Inc. '
+                        'was founded in 1983 and is headquartered in '
+                        'Burlington, Massachusetts.',
+ 'longName': 'LeMaitre Vascular, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 643998016,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2567538',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 16471000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 31.99,
+ 'openInterest': None,
+ 'payoutRatio': 0.4023,
+ 'pegRatio': -35.72,
+ 'phone': '781 221 2266',
+ 'previousClose': 28.93,
+ 'priceHint': 2,
+ 'priceToBook': 4.219225,
+ 'priceToSalesTrailing12Months': 5.6160007,
+ 'profitMargins': 0.14364,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 33.49,
+ 'regularMarketDayLow': 31.11,
+ 'regularMarketOpen': 31.99,
+ 'regularMarketPreviousClose': 28.93,
+ 'regularMarketPrice': 31.99,
+ 'regularMarketVolume': 427780,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 20181700,
+ 'sharesPercentSharesOut': 0.0963,
+ 'sharesShort': 1943935,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1542204,
+ 'shortName': 'LeMaitre Vascular, Inc.',
+ 'shortPercentOfFloat': 0.1356,
+ 'shortRatio': 14.84,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'LMAT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.36,
+ 'trailingAnnualDividendYield': 0.01244383,
+ 'trailingEps': 0.81,
+ 'trailingPE': 39.39506,
+ 'twoHundredDayAverage': 28.181438,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '28d61f2c-4092-3ada-aee0-a8b5dc08f289',
+ 'volume': 427780,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.lemaitre.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01803'}

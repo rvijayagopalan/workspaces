@@ -1,0 +1,163 @@
+{'52WeekChange': 0.11020839,
+ 'SandP52WeekChange': None,
+ 'address1': 'Jialong International Tower',
+ 'address2': '18th floor No.19 Chaoyang Park Road Chaoyang District',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 106.63,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 91975,
+ 'averageVolume': 105792,
+ 'averageVolume10days': 91975,
+ 'beta': 0.576923,
+ 'beta3Year': None,
+ 'bid': 105.5,
+ 'bidSize': 800,
+ 'bookValue': 45.113,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Beijing',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 107.14,
+ 'dayLow': 104.685,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.416,
+ 'enterpriseToEbitda': 14.861,
+ 'enterpriseToRevenue': 5.934,
+ 'enterpriseValue': 3184113408,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '86 10 6598 3222',
+ 'fiftyDayAverage': 106.99715,
+ 'fiftyTwoWeekHigh': 119.44,
+ 'fiftyTwoWeekLow': 92.22,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 14178939,
+ 'forwardEps': 5.28,
+ 'forwardPE': 20.166666,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2246,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.5417,
+ 'heldPercentInstitutions': 0.40495,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/chinabiologic.com',
+ 'longBusinessSummary': 'China Biologic Products Holdings, Inc. engages in the '
+                        'research, development, manufacture, and sale of human '
+                        'plasma-based biopharmaceutical products to hospitals '
+                        "and inoculation centers in the People's Republic of "
+                        'China. It offers human albumin for treating shock '
+                        'caused by blood loss trauma or burn; raised '
+                        'intracranial pressure caused by hydrocephalus or '
+                        'trauma; oedema or ascites caused by hepatocirrhosis '
+                        'and nephropathy; and neonatal hyperbilirubinemia, as '
+                        'well as for the prevention and treatment of '
+                        'low-density-lipoproteinemia. The company also '
+                        'provides human immunoglobulin and IVIG for original '
+                        'and secondary immunoglobulin deficiency, and '
+                        'immunoglobulin G secondary deficiency; human '
+                        'hepatitis B immunoglobulin for the prevention of '
+                        'measles and contagious hepatitis; human rabies '
+                        'immunoglobulin primarily for passive immunity from '
+                        'bites or claws by rabies or other infected animals; '
+                        'and human tetanus immunoglobulin for the prevention '
+                        'and therapy of tetanus. In addition, it offers '
+                        'placenta polypeptide for the treatment of cell '
+                        'immunity deficiency diseases, viral infection, and '
+                        'leucopenia, as well as assists in postoperative '
+                        'healing; factor VIII for treating coagulopathies; '
+                        'human fibrinogen; and human prothrombin complex '
+                        'concentrate for treating congenital and acquired '
+                        'clotting factor II, VII, IX, X deficiency, as well as '
+                        'excessive anticoagulant, vitamin K deficiency, etc. '
+                        'Further, the company is developing Human fibrinogen '
+                        'for the treatment for lack of fibrinogen and increase '
+                        'human fibrinogen concentration; and artificial dura '
+                        'and spinal dura mater products for use in brain and '
+                        'spinal surgeries. The company sells its products '
+                        'directly, as well as through distributors. The '
+                        'company was formerly known as China Biologic '
+                        'Products, Inc. and changed its name to China Biologic '
+                        'Products Holdings, Inc. in July 2017. China Biologic '
+                        'Products Holdings, Inc. is headquartered in Beijing, '
+                        "the People's Republic of China.",
+ 'longName': 'China Biologic Products Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4097414400,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_28240761',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 152809536,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 106.5,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.35,
+ 'phone': '86 10 6598 3111',
+ 'previousClose': 106.58,
+ 'priceHint': 2,
+ 'priceToBook': 2.3602953,
+ 'priceToSalesTrailing12Months': 7.636562,
+ 'profitMargins': 0.28795,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 107.14,
+ 'regularMarketDayLow': 104.685,
+ 'regularMarketOpen': 106.5,
+ 'regularMarketPreviousClose': 106.58,
+ 'regularMarketPrice': 106.5,
+ 'regularMarketVolume': 131993,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 38459800,
+ 'sharesPercentSharesOut': 0.0116,
+ 'sharesShort': 448267,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 426334,
+ 'shortName': 'China Biologic Products Holding',
+ 'shortPercentOfFloat': 0.0201,
+ 'shortRatio': 3.24,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'CBPO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3.951,
+ 'trailingPE': 26.95014,
+ 'twoHundredDayAverage': 110.276405,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '4919f500-b28b-374d-8dd1-f7ab7f12007a',
+ 'volume': 131993,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.chinabiologic.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '100125'}

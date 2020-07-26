@@ -1,0 +1,152 @@
+{'52WeekChange': -0.0358153,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '90 Taylor Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 10.19,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 2112,
+ 'averageVolume': 2061,
+ 'averageVolume10days': 2112,
+ 'beta': 1.139495,
+ 'beta3Year': None,
+ 'bid': 10,
+ 'bidSize': 800,
+ 'bookValue': 11.047,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'North Tonawanda',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 10.23,
+ 'dayLow': 10.1,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.756,
+ 'enterpriseToEbitda': 4.384,
+ 'enterpriseToRevenue': 0.688,
+ 'enterpriseValue': 20391334,
+ 'exDividendDate': 628732800,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.355714,
+ 'fiftyTwoWeekHigh': 13.39,
+ 'fiftyTwoWeekLow': 6.61,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 2962283,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 118,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.12441,
+ 'heldPercentInstitutions': 0.19379999,
+ 'industry': 'Specialty Industrial Machinery',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1559260800,
+ 'lastMarket': None,
+ 'lastSplitDate': 597888000,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/taylordevices.com',
+ 'longBusinessSummary': 'Taylor Devices, Inc. designs, develops, manufactures, '
+                        'and markets shock absorption, rate control, and '
+                        'energy storage devices for use in machinery, '
+                        'equipment, and structures in North America, Asia, and '
+                        "internationally. The company's products include "
+                        'seismic dampers that are designed to mitigate the '
+                        'effects of earthquake tremors on structures; '
+                        'Fluidicshoks, which are compact shock absorbers '
+                        'primarily used in defense, aerospace, and commercial '
+                        'industries; and crane and industrial buffers, which '
+                        'are larger versions of the Fluidicshoks for '
+                        'industrial application on cranes, ships, container '
+                        'ships, railroad cars, truck docks, ladle and ingot '
+                        'cars, ore trolleys, and car stops. Its products also '
+                        'comprise self-adjusting shock absorbers that include '
+                        'versions of Fluidicshoks, and crane and industrial '
+                        'buffers, which automatically adjust to various impact '
+                        'conditions and are designed for high cycle '
+                        'application primarily in the heavy industry; liquid '
+                        'die springs that are used as component parts of '
+                        'machinery and equipment used in the manufacture of '
+                        'tools and dies; vibration dampers, which are '
+                        'primarily used by aerospace and defense industries to '
+                        'control the response of electronics and optical '
+                        'systems subjected to air, ship, or spacecraft '
+                        'vibration; machined springs used in the aerospace '
+                        'applications; and custom actuators for special '
+                        'military and aerospace applications. The company '
+                        'markets its products through a network of sales '
+                        'representatives and distributors. Taylor Devices, '
+                        'Inc. was founded in 1955 and is headquartered in '
+                        'North Tonawanda, New York.',
+ 'longName': 'Taylor Devices, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 35595384,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_307215',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1582934400,
+ 'navPrice': None,
+ 'netIncomeToCommon': 3036725,
+ 'nextFiscalYearEnd': 1622419200,
+ 'open': 10.2299,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '716-694-0800',
+ 'previousClose': 10.1,
+ 'priceHint': 2,
+ 'priceToBook': 0.9260432,
+ 'priceToSalesTrailing12Months': 1.2001731,
+ 'profitMargins': 0.102390006,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 10.23,
+ 'regularMarketDayLow': 10.1,
+ 'regularMarketOpen': 10.2299,
+ 'regularMarketPreviousClose': 10.1,
+ 'regularMarketPrice': 10.2299,
+ 'regularMarketVolume': 373,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 3479510,
+ 'sharesPercentSharesOut': 0,
+ 'sharesShort': 108,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 992,
+ 'shortName': 'Taylor Devices, Inc.',
+ 'shortPercentOfFloat': 0,
+ 'shortRatio': 0.06,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'TAYD',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.869,
+ 'trailingPE': 11.772151,
+ 'twoHundredDayAverage': 10.529281,
+ 'volume': 373,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.taylordevices.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '14120'}

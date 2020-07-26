@@ -1,0 +1,154 @@
+{'52WeekChange': -0.10885477,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '400 West Cesar Chavez',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 102.23,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 225925,
+ 'averageVolume': 390315,
+ 'averageVolume10days': 225925,
+ 'beta': 1.174789,
+ 'beta3Year': None,
+ 'bid': 102.13,
+ 'bidSize': 900,
+ 'bookValue': 25.18,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Austin',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 103.91,
+ 'dayLow': 100.71,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.584,
+ 'enterpriseToEbitda': 36.665,
+ 'enterpriseToRevenue': 4.733,
+ 'enterpriseValue': 4090755072,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '512 416 9669',
+ 'fiftyDayAverage': 99.87857,
+ 'fiftyTwoWeekHigh': 122.9,
+ 'fiftyTwoWeekLow': 65.09,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 42875578,
+ 'forwardEps': 3.3,
+ 'forwardPE': 30.984848,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1545,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02125,
+ 'heldPercentInstitutions': 0.95962995,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/silabs.com',
+ 'longBusinessSummary': 'Silicon Laboratories Inc., a fabless semiconductor '
+                        'company, provides mixed-signal integrated circuits '
+                        '(ICs) in the United States, China, and '
+                        'internationally. The company offers Internet of '
+                        'Things products, including 8-bit mixed-signal and '
+                        'ultra-low-power 32-bit microcontrollers (MCU); '
+                        'wireless MCU connectivity solutions; single and '
+                        'multi-protocol system-on-chip (SoC) devices and '
+                        'modules; wireless protocols, MCUs, and SoCs; in-house '
+                        'protocol stacks; Micrium, a real-time operating '
+                        'system that helps simplify software development for '
+                        'IoT developers; and sensor products comprising '
+                        'optical, relative humidity/temperature, and hall '
+                        'effect magnetic sensors. It also provides '
+                        'infrastructure products, such as timing devices; '
+                        'multi-channel isolators, isolated drivers, isolated '
+                        'power converters, and mixed-signal devices; broadcast '
+                        'products, which include single-chip hybrid TV tuners '
+                        'and digital video demodulators, as well as AM/FM, HD '
+                        'radio, and DAB/DAB+ receivers; and hybrid software '
+                        'defined radio tuners, data receivers, and digital '
+                        'radio coprocessors. In addition, the company provides '
+                        'access products comprising ProSLIC, a subscriber line '
+                        'interface circuits for voice over IP; ISOmodem '
+                        'embedded modems; and Power over Ethernet power source '
+                        'equipment and powered device ICs. It primarily '
+                        'markets its products to Internet of Things, Internet '
+                        'infrastructure, industrial automation, consumer, and '
+                        'automotive markets through direct sales force, as '
+                        'well as through a network of independent sales '
+                        'representatives and distributors. Silicon '
+                        'Laboratories Inc. was founded in 1996 and is '
+                        'headquartered in Austin, Texas.',
+ 'longName': 'Silicon Laboratories Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4467026432,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34345',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585958400,
+ 'navPrice': None,
+ 'netIncomeToCommon': 16111000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 101.49,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.65,
+ 'phone': '512 416 8500',
+ 'previousClose': 102.76,
+ 'priceHint': 2,
+ 'priceToBook': 4.0607624,
+ 'priceToSalesTrailing12Months': 5.1682673,
+ 'profitMargins': 0.01864,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 103.91,
+ 'regularMarketDayLow': 100.71,
+ 'regularMarketOpen': 101.49,
+ 'regularMarketPreviousClose': 102.76,
+ 'regularMarketPrice': 101.49,
+ 'regularMarketVolume': 151916,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 43687300,
+ 'sharesPercentSharesOut': 0.0387,
+ 'sharesShort': 1692543,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1502529,
+ 'shortName': 'Silicon Laboratories, Inc.',
+ 'shortPercentOfFloat': 0.0553,
+ 'shortRatio': 3.82,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'SLAB',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.36,
+ 'trailingPE': 284.02777,
+ 'twoHundredDayAverage': 96.5918,
+ 'volume': 151916,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.silabs.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '78701'}

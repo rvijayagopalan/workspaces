@@ -1,0 +1,156 @@
+{'52WeekChange': 1.2416453,
+ 'SandP52WeekChange': None,
+ 'address1': 'Building 1, Jinchuang Plaza',
+ 'address2': '4th Floor Zhangjiang Hi-tech Park 4560 Jinke Road, Pudong',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 81.11,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 274912,
+ 'averageVolume': 451619,
+ 'averageVolume10days': 274912,
+ 'beta': 1.108214,
+ 'beta3Year': None,
+ 'bid': 71.3,
+ 'bidSize': 1200,
+ 'bookValue': 4.318,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Shanghai',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 76.482,
+ 'dayLow': 74.04,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -27.191,
+ 'enterpriseToRevenue': 417.611,
+ 'enterpriseValue': 5422678528,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 79.359146,
+ 'fiftyTwoWeekHigh': 89.48,
+ 'fiftyTwoWeekLow': 29.43,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 40651108,
+ 'forwardEps': -2.68,
+ 'forwardPE': -28.36567,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 692,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.07639,
+ 'heldPercentInstitutions': 0.65759003,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/zailaboratory.com',
+ 'longBusinessSummary': 'Zai Lab Limited, a biopharmaceutical company, engages '
+                        'in discovering or licensing, developing, and '
+                        'commercializing proprietary therapeutics that address '
+                        'medical needs in the fields of oncology, autoimmune, '
+                        'and infectious diseases in China. The company offers '
+                        'Niraparib, an oral small molecule poly ADP ribose '
+                        'polymerase 1/2 inhibitor for the treatment of '
+                        'multiple solid tumors, including ovarian and other '
+                        'types of lung cancer; and Optune, a cancer therapy '
+                        'for the treatment of glioblastoma multiforme. It also '
+                        'develops Ripretinib, a switch control inhibitor for '
+                        'the treatment of KIT and/or PDGFRa-driven cancers, '
+                        'including gastrointestinal stromal tumors, systemic '
+                        'mastocytosis, and other cancers; REGN1979 for the '
+                        'treatment of diffuse large B-cell lymphoma and '
+                        'follicular lymphoma; Margetuximab an immune-optimized '
+                        'anti-HER2 monoclonal antibody for the treatment of '
+                        'breast and gastric cancers; and INCMGA0012, an '
+                        'investigational monoclonal antibody for the treatment '
+                        'of MSI-high endometrial cancer. In addition, the '
+                        'company develops Bemarituzumab, a humanized '
+                        'monoclonal antibody for the treatment of gastric and '
+                        'gastroesophageal cancers; Omadacycline, an antibiotic '
+                        'to treat acute bacterial skin and skin structure, and '
+                        'community-acquired bacterial pneumonia infections; '
+                        'and Durlobactam for the treatment of acinetobacter '
+                        'baumannii bacterial infections. Zai Lab Limited has '
+                        'license and collaboration agreements with the TESARO '
+                        'Inc.; Paratek Bermuda, Ltd.; Five Prime Therapeutics, '
+                        'Inc.; Entasis Therapeutics Holdings, Inc.; Crescendo '
+                        'Biologics Ltd.; Novocure Limited; MacroGenics Inc.; '
+                        'Deciphera Pharmaceuticals, LLC; and Incyte '
+                        'Corporation. The company was founded in 2013 and is '
+                        'headquartered in Shanghai, China.',
+ 'longName': 'Zai Lab Limited',
+ 'market': 'us_market',
+ 'marketCap': 5676831744,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_271123063',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1577750400,
+ 'navPrice': None,
+ 'netIncomeToCommon': -195071008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 75.77,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '86 21 6163 2588',
+ 'previousClose': 78.48,
+ 'priceHint': 2,
+ 'priceToBook': 17.605373,
+ 'priceToSalesTrailing12Months': 437.1838,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 76.482,
+ 'regularMarketDayLow': 74.04,
+ 'regularMarketOpen': 75.77,
+ 'regularMarketPreviousClose': 78.48,
+ 'regularMarketPrice': 75.77,
+ 'regularMarketVolume': 272045,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 74675504,
+ 'sharesPercentSharesOut': 0.0369,
+ 'sharesShort': 2752463,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2452110,
+ 'shortName': 'Zai Lab Limited',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 5.6,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'ZLAB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -3.03,
+ 'twoHundredDayAverage': 63.217697,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '8abb8ada-ed23-324a-aac0-9a720ac3e08a',
+ 'volume': 272045,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.zailaboratory.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '201210'}

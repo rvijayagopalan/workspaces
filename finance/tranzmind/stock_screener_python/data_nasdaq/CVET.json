@@ -1,0 +1,152 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '7 Custom House Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 20.64,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 881387,
+ 'averageVolume': 1500373,
+ 'averageVolume10days': 881387,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 20.41,
+ 'bidSize': 1800,
+ 'bookValue': 10.746,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Portland',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 20.69,
+ 'dayLow': 20.06,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 34.381,
+ 'enterpriseToRevenue': 0.847,
+ 'enterpriseValue': 3472517632,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 18.838,
+ 'fiftyTwoWeekHigh': 24.38,
+ 'fiftyTwoWeekLow': 4.045,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 89404491,
+ 'forwardEps': 0.62,
+ 'forwardPE': 33.14516,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01214,
+ 'heldPercentInstitutions': 1.01129,
+ 'industry': 'Health Information Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/covetrus.com',
+ 'longBusinessSummary': 'Covetrus, Inc., together with its subsidiaries, '
+                        'operates as an animal-health technology and services '
+                        'company. It engages in the sale of animal-health '
+                        'consumable products, including proprietary and '
+                        'Covetrus branded products, small equipment, '
+                        'laboratory products, large equipment, equipment '
+                        'repair services, branded and generic pharmaceuticals, '
+                        'vaccines, surgical products, diagnostic tests, '
+                        'infection-control products, and vitamins and '
+                        'supplements to wholesale and retail customers. The '
+                        'company also offers value-added practice solutions '
+                        'that include financial services, equipment repair, '
+                        'inventory management, and e-commerce, as well as '
+                        'continuing education services for practitioners. In '
+                        'addition, it provides practice management software '
+                        'systems for veterinary practitioners and '
+                        'animal-health clinics, client communication services, '
+                        'reminders, data backup services, and hardware sales '
+                        'and support services. Further, the company engages in '
+                        'the distribution of finished goods pharmacy and '
+                        'specialty pharmaceutical compounding products, as '
+                        'well as e-commerce, shipping, manufacturer '
+                        'incentives, service fees, and data integration and '
+                        'support services. It serves animal-health and '
+                        'veterinary practices, and clinics in the '
+                        'companion-animal and equine markets primarily in '
+                        'North America, Europe, and the Asia Pacific. The '
+                        'company, formerly known as HS Spinco, Inc., was '
+                        'incorporated in 2018 and is headquartered in '
+                        'Portland, Maine.',
+ 'longName': 'Covetrus, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2300510720,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_595071570',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -1039000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 20.6,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.85,
+ 'phone': '888 280 2221',
+ 'previousClose': 20.75,
+ 'priceHint': 2,
+ 'priceToBook': 1.9123393,
+ 'priceToSalesTrailing12Months': 0.5611002,
+ 'profitMargins': -0.25340998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 20.69,
+ 'regularMarketDayLow': 20.06,
+ 'regularMarketOpen': 20.6,
+ 'regularMarketPreviousClose': 20.75,
+ 'regularMarketPrice': 20.6,
+ 'regularMarketVolume': 697616,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 111947000,
+ 'sharesPercentSharesOut': 0.105500005,
+ 'sharesShort': 11809064,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 11916396,
+ 'shortName': 'Covetrus, Inc.',
+ 'shortPercentOfFloat': 0.159,
+ 'shortRatio': 6.51,
+ 'startDate': None,
+ 'state': 'ME',
+ 'strikePrice': None,
+ 'symbol': 'CVET',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -9.339,
+ 'twoHundredDayAverage': 13.19741,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'c430f2fe-68f2-3e7b-b89a-3c8e964e9b75',
+ 'volume': 697616,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.covetrus.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '04101'}

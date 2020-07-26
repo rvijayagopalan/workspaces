@@ -1,0 +1,159 @@
+{'52WeekChange': 0.117353916,
+ 'SandP52WeekChange': None,
+ 'address1': '325 Corporate Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 48.9,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 176512,
+ 'averageVolume': 297104,
+ 'averageVolume10days': 176512,
+ 'beta': 1.294677,
+ 'beta3Year': None,
+ 'bid': 48.3,
+ 'bidSize': 800,
+ 'bookValue': 9.135,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Portsmouth',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 50.1,
+ 'dayLow': 48.06,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 59.14,
+ 'enterpriseToRevenue': 4.898,
+ 'enterpriseValue': 2154422272,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '603-436-0300',
+ 'fiftyDayAverage': 49.7,
+ 'fiftyTwoWeekHigh': 57.22,
+ 'fiftyTwoWeekLow': 27.82,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 42926456,
+ 'forwardEps': 1.29,
+ 'forwardPE': 37.50388,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1900,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.024489999,
+ 'heldPercentInstitutions': 0.94118,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bottomline.com',
+ 'longBusinessSummary': 'Bottomline Technologies (de), Inc. provides various '
+                        'solutions for the banking, financial services, '
+                        'insurance, healthcare, technology, retail, '
+                        'communications, education, media, manufacturing, and '
+                        'government industries. It operates through four '
+                        'segments: Cloud Solutions, Banking Solutions, '
+                        'Payments and Transactional Documents, and Other. The '
+                        "company's products and services include Paymode-X, an "
+                        'integrated payment solution, which allows businesses '
+                        'to transition from manual accounts payable payments '
+                        'processes to an integrated solution; and financial '
+                        'messaging solutions for risk management to banks and '
+                        'corporations. It also provides Digital Banking '
+                        'Intelligent Engagement platform that enables banks to '
+                        'engage with customers; legal spend management '
+                        'solutions and services, which integrate with claims '
+                        'management, and time and billing systems to automate '
+                        'legal invoice management processes, as well as '
+                        "provide insight into various areas of a company's "
+                        'outside legal spend. In addition, the company offers '
+                        'cyber fraud and risk management solutions to monitor, '
+                        'replay, and analyse user behaviour and payment '
+                        'transactions to flag and stop suspicious activity in '
+                        'real time; payment automation solutions that generate '
+                        'various domestic and international payment '
+                        'instructions along with consolidated bank reporting '
+                        'of cash activity; and various solutions for '
+                        'healthcare industry to address patient registration, '
+                        'electronic signature, mobile document, payments, and '
+                        'cybersecurity. Further, it provides consulting, '
+                        'project implementation, and training services. The '
+                        'company serves customers in the United States, the '
+                        'United Kingdom, Continental Europe, the Asia-Pacific, '
+                        'and the Middle East. Bottomline Technologies (de), '
+                        'Inc. was founded in 1989 and is headquartered in '
+                        'Portsmouth, New Hampshire.',
+ 'longName': 'Bottomline Technologies (de), Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2125062528,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_397072',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -2669000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 49.15,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.07,
+ 'phone': '603-436-0700',
+ 'previousClose': 49.32,
+ 'priceHint': 2,
+ 'priceToBook': 5.296114,
+ 'priceToSalesTrailing12Months': 4.831631,
+ 'profitMargins': -0.00607,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 50.1,
+ 'regularMarketDayLow': 48.06,
+ 'regularMarketOpen': 49.15,
+ 'regularMarketPreviousClose': 49.32,
+ 'regularMarketPrice': 49.15,
+ 'regularMarketVolume': 157548,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 43924400,
+ 'sharesPercentSharesOut': 0.026199998,
+ 'sharesShort': 1152595,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1197672,
+ 'shortName': 'Bottomline Technologies, Inc.',
+ 'shortPercentOfFloat': 0.0352,
+ 'shortRatio': 3.86,
+ 'startDate': None,
+ 'state': 'NH',
+ 'strikePrice': None,
+ 'symbol': 'EPAY',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.064,
+ 'twoHundredDayAverage': 45.579136,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'bf745539-37bc-349e-ad85-4fabeb607f42',
+ 'volume': 157548,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bottomline.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '03801'}

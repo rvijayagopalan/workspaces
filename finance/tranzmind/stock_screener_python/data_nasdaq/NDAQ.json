@@ -1,0 +1,157 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '151 West 42nd Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 130.6,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 797812,
+ 'averageVolume': 757661,
+ 'averageVolume10days': 797812,
+ 'beta': 0.747899,
+ 'beta3Year': None,
+ 'bid': 129.01,
+ 'bidSize': 800,
+ 'bookValue': 35.064,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 131.385,
+ 'dayLow': 129.05,
+ 'dividendRate': 1.96,
+ 'dividendYield': 0.0149,
+ 'earningsQuarterlyGrowth': 0.385,
+ 'enterpriseToEbitda': 17.339,
+ 'enterpriseToRevenue': 4.966,
+ 'enterpriseValue': 24395896832,
+ 'exDividendDate': 1599696000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 121.806,
+ 'fiftyTwoWeekHigh': 135.51,
+ 'fiftyTwoWeekLow': 71.66,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.73,
+ 'floatShares': 114115140,
+ 'forwardEps': 5.86,
+ 'forwardPE': 22.279863,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4361,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.1868,
+ 'heldPercentInstitutions': 0.79350996,
+ 'industry': 'Financial Data & Stock Exchanges',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/nasdaq.com',
+ 'longBusinessSummary': 'Nasdaq, Inc. operates as a technology company that '
+                        'serves capital markets and other industries '
+                        "worldwide. The company's Market Services segment "
+                        'includes equity derivative trading and clearing, cash '
+                        'equity trading, fixed income and commodities trading '
+                        'and clearing, and trade management service '
+                        'businesses. This segment operates various exchanges '
+                        'and other marketplace facilities across various asset '
+                        'classes, which consist of commodities, cash equity, '
+                        'debt, structured products, and exchange traded '
+                        'products; and provides broker, clearing, settlement, '
+                        'and central depository services. Its Corporate '
+                        'Services segment includes listing services and '
+                        'corporate solution businesses that deliver critical '
+                        'capital market and governance solutions to public and '
+                        "private companies. The company's Information Services "
+                        'segment provides market data, index, and investment '
+                        'data and analytics to institutional and retail '
+                        'investors. Its Market Technology segment offers '
+                        'technology solutions for trading, clearing, '
+                        'settlement, surveillance, depository, and information '
+                        'dissemination to markets. It also provides Nasdaq '
+                        'Trade Surveillance solution, a managed service '
+                        'designed for brokers and other market participants; '
+                        'and Nasdaq Risk, a suite of products that offer a '
+                        'real-time, multi-tiered risk solution that integrates '
+                        'pre-, at-and on-trade risk management and margining. '
+                        'In addition, the company offers corporate '
+                        'responsibility and environmental, social, and '
+                        'governance data management and reporting services. '
+                        'The company was formerly known as The NASDAQ OMX '
+                        'Group, Inc. and changed its name to Nasdaq, Inc. in '
+                        'September 2015. Nasdaq, Inc. was founded in 1971 and '
+                        'is headquartered in New York, New York.',
+ 'longName': 'Nasdaq, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 21421111296,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_740535',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 797000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 131.29,
+ 'openInterest': None,
+ 'payoutRatio': 0.4302,
+ 'pegRatio': 2.67,
+ 'phone': '212-401-8700',
+ 'previousClose': 131.41,
+ 'priceHint': 2,
+ 'priceToBook': 3.7234771,
+ 'priceToSalesTrailing12Months': 4.360088,
+ 'profitMargins': 0.16222,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 131.385,
+ 'regularMarketDayLow': 129.05,
+ 'regularMarketOpen': 131.29,
+ 'regularMarketPreviousClose': 131.41,
+ 'regularMarketPrice': 131.29,
+ 'regularMarketVolume': 891384,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 164071008,
+ 'sharesPercentSharesOut': 0.0147,
+ 'sharesShort': 2414596,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2803559,
+ 'shortName': 'Nasdaq, Inc.',
+ 'shortPercentOfFloat': 0.0211,
+ 'shortRatio': 3.24,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'NDAQ',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.9,
+ 'trailingAnnualDividendYield': 0.014458564,
+ 'trailingEps': 4.779,
+ 'trailingPE': 27.319523,
+ 'twoHundredDayAverage': 111.035034,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '66622641-4c7d-3ef0-bef7-8e1a16be01ee',
+ 'volume': 891384,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.nasdaq.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10036'}

@@ -1,0 +1,164 @@
+{'52WeekChange': -0.22916663,
+ 'SandP52WeekChange': None,
+ 'address1': '505 Huntmar Park Drive',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 28.95,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 341025,
+ 'averageVolume': 510825,
+ 'averageVolume10days': 341025,
+ 'beta': 1.812324,
+ 'beta3Year': None,
+ 'bid': 12,
+ 'bidSize': 3100,
+ 'bookValue': 24.612,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Herndon',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 29.13,
+ 'dayLow': 28.2801,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 12.988,
+ 'enterpriseToRevenue': 0.785,
+ 'enterpriseValue': 5565179392,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '703-437-1919',
+ 'fiftyDayAverage': 27.161142,
+ 'fiftyTwoWeekHigh': 37.52,
+ 'fiftyTwoWeekLow': 11.67,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 51135830,
+ 'forwardEps': 2.05,
+ 'forwardPE': 13.985366,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 8147,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00691,
+ 'heldPercentInstitutions': 1.06,
+ 'industry': 'Building Products & Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1150156800,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/becn.com',
+ 'longBusinessSummary': 'Beacon Roofing Supply, Inc., together with its '
+                        'subsidiaries, distributes residential and commercial '
+                        'roofing materials, and other complementary building '
+                        'materials to contractors, home builders, retailers, '
+                        "and building materials suppliers. The company's "
+                        'residential roofing products include asphalt '
+                        'shingles, synthetic slates and tiles, clay and '
+                        'concrete tiles, slates, nail base insulations, metal '
+                        'roofing, felts, synthetic underlayment, wood shingles '
+                        'and shakes, nails and fasteners, metal edgings and '
+                        'flashings, prefabricated flashings, ridges and soffit '
+                        'vents, and solar systems. Its non-residential roofing '
+                        'products comprise single-ply roofing, asphalt, metal, '
+                        'modified bitumen, and build-up roofing products; '
+                        'cements and coatings; flat stock and tapered '
+                        'insulations; commercial fasteners; metal edges and '
+                        'flashings; smoke/roof hatches; roofing tools; sheet '
+                        'metal products, including copper, aluminum, and '
+                        'steel; and PVC, thermoplastic olefin, and ethylene '
+                        'propylene diene monomer membrane products. The '
+                        'company also provides complementary building '
+                        'products, such as vinyl and fiber cement sidings; '
+                        'wallboards; insulations; acoustical ceilings; stone '
+                        'veneers; windows; doors; skylights; gutters and '
+                        'downspouts; decking and railings; air barriers; '
+                        'concrete restoration systems; and steel stud framing '
+                        'and waterproofing systems. In addition, it offers '
+                        'value-added services, including advice and assistance '
+                        'on product identification, specification, technical '
+                        'support, and training; job site delivery, rooftop '
+                        'loading, and logistical services; tapered insulation '
+                        'design and related layout services; metal fabrication '
+                        'and related metal roofing design and layout services; '
+                        'trade credit and online bill pay; and marketing '
+                        'support for contractors. As of September 30, 2019, '
+                        'the company operated through a network of 529 '
+                        'branches in 50 states of the United States and 6 '
+                        'provinces in Canada. Beacon Roofing Supply, Inc. was '
+                        'founded in 1928 and is headquartered in Herndon, '
+                        'Virginia.',
+ 'longName': 'Beacon Roofing Supply, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1985007616,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1543637',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -111683000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 28.75,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 5.11,
+ 'phone': '571-323-3939',
+ 'previousClose': 28.86,
+ 'priceHint': 2,
+ 'priceToBook': 1.164879,
+ 'priceToSalesTrailing12Months': 0.2800501,
+ 'profitMargins': -0.01237,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 29.13,
+ 'regularMarketDayLow': 28.2801,
+ 'regularMarketOpen': 28.75,
+ 'regularMarketPreviousClose': 28.86,
+ 'regularMarketPrice': 28.75,
+ 'regularMarketVolume': 258805,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 68836400,
+ 'sharesPercentSharesOut': 0.057600003,
+ 'sharesShort': 3986774,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4052125,
+ 'shortName': 'Beacon Roofing Supply, Inc.',
+ 'shortPercentOfFloat': 0.073,
+ 'shortRatio': 6.83,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'BECN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.637,
+ 'twoHundredDayAverage': 25.70187,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '7dca4fdc-25b0-39b2-bc05-f5e8084c7d7d',
+ 'volume': 258805,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.becn.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20170'}

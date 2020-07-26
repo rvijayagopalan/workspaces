@@ -1,0 +1,160 @@
+{'52WeekChange': -0.21749175,
+ 'SandP52WeekChange': None,
+ 'address1': 'One Tribology Center',
+ 'address2': '102 Willenbrock Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 127.76,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 87987,
+ 'averageVolume': 147574,
+ 'averageVolume10days': 87987,
+ 'beta': 1.266106,
+ 'beta3Year': None,
+ 'bid': 127.45,
+ 'bidSize': 1300,
+ 'bookValue': 45.165,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Oxford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 129.45,
+ 'dayLow': 126.515,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.074,
+ 'enterpriseToEbitda': 16.388,
+ 'enterpriseToRevenue': 4.265,
+ 'enterpriseValue': 3102835200,
+ 'exDividendDate': 1401235200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '203 267 5000',
+ 'fiftyDayAverage': 133.57172,
+ 'fiftyTwoWeekHigh': 185.06,
+ 'fiftyTwoWeekLow': 77.63,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 24114461,
+ 'forwardEps': 4.58,
+ 'forwardPE': 27.820961,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3890,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.03583,
+ 'heldPercentInstitutions': 0.9818,
+ 'industry': 'Tools & Accessories',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585353600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/rbcbearings.com',
+ 'longBusinessSummary': 'RBC Bearings Incorporated manufactures and markets '
+                        'engineered precision bearings and components in North '
+                        'America, Europe, Asia, and Latin America. It operates '
+                        'through four segments: Plain Bearings, Roller '
+                        'Bearings, Ball Bearings, and Engineered Products. The '
+                        'Plain Bearings segment produces plain bearings with '
+                        'self-lubricating or metal-to-metal designs, including '
+                        'rod end bearings, spherical plain bearings, and '
+                        'journal bearings that are primarily used to rectify '
+                        'inevitable misalignments in various mechanical '
+                        'components, such as aircraft controls, helicopter '
+                        'rotors, or in heavy mining and construction '
+                        'equipment. The Roller Bearings segment offers heavy '
+                        'duty needle roller bearings, tapered roller bearings, '
+                        'track rollers, and aircraft roller bearings, which '
+                        'are anti-friction bearings that use rollers instead '
+                        'of balls. The Ball Bearings segment manufactures high '
+                        'precision aerospace, airframe control, thin section, '
+                        'and commercial ball bearings that utilize high '
+                        'precision ball elements to reduce friction in high '
+                        'speed applications. The Engineered Products segment '
+                        'offers engineered hydraulics and valves for aircraft '
+                        'and submarine applications, and aerospace and defense '
+                        'aftermarket services; fasteners; precision mechanical '
+                        'components, which are used in various general '
+                        'industrial applications; and machine tool collets '
+                        'that are used for holding circulars or rods. The '
+                        'company serves the construction and mining, oil and '
+                        'natural resource extraction, heavy truck, marine, '
+                        'rail and train, packaging, semiconductor machinery, '
+                        'and general industrial markets through its direct '
+                        'sales force, as well as a network of industrial and '
+                        'aerospace distributors. RBC Bearings Incorporated was '
+                        'founded in 1919 and is headquartered in Oxford, '
+                        'Connecticut.',
+ 'longName': 'RBC Bearings Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 3190762496,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_22323846',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 126036000,
+ 'nextFiscalYearEnd': 1648425600,
+ 'open': 128.73,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.05,
+ 'phone': '203 267 7001',
+ 'previousClose': 128.66,
+ 'priceHint': 2,
+ 'priceToBook': 2.821211,
+ 'priceToSalesTrailing12Months': 4.386163,
+ 'profitMargins': 0.17325,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 129.45,
+ 'regularMarketDayLow': 126.515,
+ 'regularMarketOpen': 128.73,
+ 'regularMarketPreviousClose': 128.66,
+ 'regularMarketPrice': 128.73,
+ 'regularMarketVolume': 68378,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 25039700,
+ 'sharesPercentSharesOut': 0.016900001,
+ 'sharesShort': 423863,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 516249,
+ 'shortName': 'RBC Bearings Incorporated',
+ 'shortPercentOfFloat': 0.019299999,
+ 'shortRatio': 2.8,
+ 'startDate': None,
+ 'state': 'CT',
+ 'strikePrice': None,
+ 'symbol': 'ROLL',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2,
+ 'trailingAnnualDividendYield': 0.015544847,
+ 'trailingEps': 5.06,
+ 'trailingPE': 25.181818,
+ 'twoHundredDayAverage': 139.16043,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '08cd1a31-f17f-3247-ac89-e2fbaadaa9e8',
+ 'volume': 68378,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.rbcbearings.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '06478'}

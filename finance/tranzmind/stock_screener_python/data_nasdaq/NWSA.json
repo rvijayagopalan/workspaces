@@ -1,0 +1,162 @@
+{'52WeekChange': -0.052866697,
+ 'SandP52WeekChange': None,
+ 'address1': '1211 Avenue of the Americas',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 12.71,
+ 'askSize': 3000,
+ 'averageDailyVolume10Day': 1365875,
+ 'averageVolume': 2418807,
+ 'averageVolume10days': 1365875,
+ 'beta': 1.481232,
+ 'beta3Year': None,
+ 'bid': 9.69,
+ 'bidSize': 3200,
+ 'bookValue': 13.309,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.89,
+ 'dayLow': 12.67,
+ 'dividendRate': 0.2,
+ 'dividendYield': 0.0156,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 10.659,
+ 'enterpriseToRevenue': 0.982,
+ 'enterpriseValue': 9379671040,
+ 'exDividendDate': 1583798400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 12.200571,
+ 'fiftyTwoWeekHigh': 15.07,
+ 'fiftyTwoWeekLow': 7.9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 507099339,
+ 'forwardEps': 0.17,
+ 'forwardPE': 74.7647,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 28000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0058399998,
+ 'heldPercentInstitutions': 1.0146,
+ 'industry': 'Broadcasting',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/newscorp.com',
+ 'longBusinessSummary': 'News Corporation, a media and information services '
+                        'company, creates and distributes content for '
+                        'consumers and businesses worldwide. It operates in '
+                        'five segments: News and Information Services, '
+                        'Subscription Video Services, Book Publishing, Digital '
+                        'Real Estate Services, and Other. The company '
+                        'distributes content and data products, including The '
+                        'Wall Street Journal, Factiva, Dow Jones Risk & '
+                        "Compliance, Dow Jones Newswires, Barron's, and "
+                        'MarketWatch through various media channels, such as '
+                        'newspapers, newswires, Websites, applications for '
+                        'mobile devices, tablets and e-book readers, '
+                        'newsletters, magazines, proprietary databases, live '
+                        'journalism, videos, and podcasts. It also owns and '
+                        'operates daily, Sunday, weekly, and bi-weekly '
+                        'newspapers comprising The Australian, The Weekend '
+                        'Australian, The Daily Telegraph, The Sunday '
+                        'Telegraph, Herald Sun, Sunday Herald Sun, The Courier '
+                        'Mail, The Sunday Mail, The Advertiser, Sunday Mail, '
+                        'The Sun, The Sun on Sunday, The Times, The Sunday '
+                        'Times, and New York Post, as well as digital '
+                        'mastheads and other Websites. In addition, the '
+                        'company offers in-store marketing products and '
+                        'services primarily to consumer packaged goods '
+                        'manufacturers; home-delivered shopper media, '
+                        'including free-standing inserts and direct mail '
+                        'products; digital marketing solutions; and in-store '
+                        'merchandising services. Further, it publishes general '
+                        "fiction, nonfiction, children's, and religious books; "
+                        'provides video sports, entertainment, and news '
+                        'services to pay-TV subscribers and other commercial '
+                        'licensees primarily through cable, satellite, and '
+                        'Internet distribution; and broadcasts rights to live '
+                        'sporting events. Additionally, the company offers '
+                        'property and property-related services on its '
+                        'Websites and mobile applications; online real estate '
+                        'services; and professional software and services '
+                        'products, which comprise Top Producer and ListHub. '
+                        'News Corporation was incorporated in 2012 and is '
+                        'headquartered in New York, New York.',
+ 'longName': 'News Corporation',
+ 'market': 'us_market',
+ 'marketCap': 7481665024,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_212741644',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -923000000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 12.81,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 11.09,
+ 'phone': '212-416-3400',
+ 'previousClose': 12.72,
+ 'priceHint': 2,
+ 'priceToBook': 0.9549929,
+ 'priceToSalesTrailing12Months': 0.7833384,
+ 'profitMargins': -0.09664,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.89,
+ 'regularMarketDayLow': 12.67,
+ 'regularMarketOpen': 12.81,
+ 'regularMarketPreviousClose': 12.72,
+ 'regularMarketPrice': 12.81,
+ 'regularMarketVolume': 897667,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 388856992,
+ 'sharesPercentSharesOut': 0.0139999995,
+ 'sharesShort': 8219394,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 8516003,
+ 'shortName': 'News Corporation',
+ 'shortPercentOfFloat': 0.021300001,
+ 'shortRatio': 3.07,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'NWSA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.2,
+ 'trailingAnnualDividendYield': 0.01572327,
+ 'trailingEps': -1.572,
+ 'twoHundredDayAverage': 11.668993,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'ea15bdb0-9720-3a7f-a6f8-970031ed5705',
+ 'volume': 897667,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://newscorp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10036'}

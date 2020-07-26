@@ -1,0 +1,160 @@
+{'52WeekChange': 1.6291077,
+ 'SandP52WeekChange': None,
+ 'address1': '4400 Biscayne Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 5.29,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 34303350,
+ 'averageVolume': 16701366,
+ 'averageVolume10days': 34303350,
+ 'beta': 2.292436,
+ 'beta3Year': None,
+ 'bid': 5.28,
+ 'bidSize': 45900,
+ 'bookValue': 2.312,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Miami',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 5.53,
+ 'dayLow': 5.17,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -63.192,
+ 'enterpriseToRevenue': 4.3,
+ 'enterpriseValue': 3831253248,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.4965715,
+ 'fiftyTwoWeekHigh': 6.47,
+ 'fiftyTwoWeekLow': 1.12,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 382150570,
+ 'forwardEps': 0.04,
+ 'forwardPE': 132.50002,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6096,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.39854,
+ 'heldPercentInstitutions': 0.26356,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/opko.com',
+ 'longBusinessSummary': 'OPKO Health, Inc., a healthcare company, engages in '
+                        'the diagnostics and pharmaceuticals businesses in the '
+                        'United States, Ireland, Chile, Spain, Israel, Mexico, '
+                        "and internationally. The company's Diagnostics "
+                        'segment operates BioReference Laboratories, a '
+                        'clinical laboratory that offers laboratory testing '
+                        'services. The Bio-Reference Laboratories also '
+                        'provides core genetic testing and leverage products, '
+                        'such as the 4Kscore prostate cancer test. The '
+                        "company's Pharmaceutical segment offers Rayaldee for "
+                        'treatment for secondary hyperparathyroidism in adults '
+                        'with stage 3 or 4 chronic kidney disease, and vitamin '
+                        'D insufficiency; OPK88004, a selective androgen '
+                        'receptor modulator; and OPK88003, a once or twice '
+                        'weekly oxyntomodulin that is in Phase IIb trials for '
+                        'type 2 diabetes and obesity. It is also developing '
+                        'hGH-CTP, a once-weekly human growth hormone injection '
+                        'that completed Phase III clinical trial in '
+                        'partnership with Pfizer, Inc.; VARUBI for '
+                        'chemotherapy-induced nausea and vomiting; and Factor '
+                        'VIIa drug for hemophilia. In addition, this segment '
+                        'develops and produces specialty active pharmaceutical '
+                        'ingredients; and discovers drugs for the treatment of '
+                        'cancer, heart disease, metabolic disorders, and a '
+                        'range of genetic anomalies. Further, it develops, '
+                        'manufactures, markets, and sells pharmaceutical, '
+                        'nutraceutical, and veterinary products; '
+                        'commercializes food supplements and over the counter '
+                        'products; manufactures and sells products primarily '
+                        'in the generics market; and imports, markets, '
+                        'distributes, and sells pharmaceutical products in a '
+                        'range of indications, including cardiovascular '
+                        'products, vaccines, antibiotics, gastro-intestinal '
+                        'products, hormones, and others. Additionally, the '
+                        'company operates pharmaceutical platforms in Ireland, '
+                        'Chile, Spain, and Mexico. OPKO Health, Inc. was '
+                        'incorporated in 1991 and is headquartered in Miami, '
+                        'Florida.',
+ 'longName': 'OPKO Health, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3550093824,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_33405327',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -293295008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 5.46,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -2.03,
+ 'phone': '305 575 4100',
+ 'previousClose': 5.6,
+ 'priceHint': 2,
+ 'priceToBook': 2.2923875,
+ 'priceToSalesTrailing12Months': 3.984616,
+ 'profitMargins': -0.32919,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 5.53,
+ 'regularMarketDayLow': 5.17,
+ 'regularMarketOpen': 5.46,
+ 'regularMarketPreviousClose': 5.6,
+ 'regularMarketPrice': 5.46,
+ 'regularMarketVolume': 19863481,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 669828992,
+ 'sharesPercentSharesOut': 0.1933,
+ 'sharesShort': 129491136,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 109535240,
+ 'shortName': 'Opko Health, Inc.',
+ 'shortPercentOfFloat': 0.32349998,
+ 'shortRatio': 9.47,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'OPK',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.483,
+ 'twoHundredDayAverage': 2.2190647,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'd21495bc-3f90-3f7e-ab0d-a17a57b35371',
+ 'volume': 19863481,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.opko.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '33137'}

@@ -1,0 +1,148 @@
+{'52WeekChange': -0.22957033,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '9600 Blackwell Road',
+ 'address2': 'Suite 210',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 36.6,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 308712,
+ 'averageVolume': 392065,
+ 'averageVolume10days': 308712,
+ 'beta': 1.069043,
+ 'beta3Year': None,
+ 'bid': 36.58,
+ 'bidSize': 1300,
+ 'bookValue': 11.297,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Rockville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 36.9184,
+ 'dayLow': 35.14,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -7.633,
+ 'enterpriseToRevenue': 21.031,
+ 'enterpriseValue': 1093467136,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 37.398285,
+ 'fiftyTwoWeekHigh': 54.97,
+ 'fiftyTwoWeekLow': 20.03,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 27151755,
+ 'forwardEps': -2,
+ 'forwardPE': -18.29,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 257,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.14834,
+ 'heldPercentInstitutions': 0.92367,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/regenxbio.com',
+ 'longBusinessSummary': 'REGENXBIO Inc., a clinical-stage biotechnology '
+                        'company, provides gene therapy product candidates to '
+                        'deliver genes to cells to address genetic defects or '
+                        'to enable cells in the body to produce therapeutic '
+                        'proteins or antibodies that are intended to impact '
+                        'disease. Its gene therapy product candidates are '
+                        'based on NAV Technology Platform, a proprietary '
+                        'adeno-associated virus gene delivery platform. The '
+                        "company's lead product candidate is RGX-314, which is "
+                        'in Phase I/IIa clinical trial for the treatment of '
+                        'wet age-related macular degeneration. It is also '
+                        'developing RGX-121 that is in Phase I/II clinical '
+                        'trial to treat mucopolysaccharidosis type II; '
+                        'RGX-111, which is in Phase I clinical trial for '
+                        'treating mucopolysaccharidosis type I; RGX-181 for '
+                        'the treatment of late infantile neuronal ceroid '
+                        'lipofuscinosis type II disease; and RGX-501, which is '
+                        'in Phase I/II clinical trials to treat homozygous '
+                        'familial hypercholesterolemia. REGENXBIO Inc. also '
+                        'licenses its NAV Technology Platform to other '
+                        'biotechnology and pharmaceutical companies; and has a '
+                        'collaboration and license agreement with Neurimmune '
+                        'AG to develop vectorized antibodies for the treatment '
+                        'of neurodegenerative diseases. The company was '
+                        'formerly known as ReGenX Biosciences, LLC and changed '
+                        'its name to REGENXBIO Inc. in September 2014. '
+                        'REGENXBIO Inc. was founded in 2008 and is '
+                        'headquartered in Rockville, Maryland.',
+ 'longName': 'REGENXBIO Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1362279552,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_130641748',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -102543000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 36.46,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -6.41,
+ 'phone': '240 552 8181',
+ 'previousClose': 36.54,
+ 'priceHint': 2,
+ 'priceToBook': 3.238028,
+ 'priceToSalesTrailing12Months': 26.20121,
+ 'profitMargins': -1.9722501,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 36.9184,
+ 'regularMarketDayLow': 35.14,
+ 'regularMarketOpen': 36.46,
+ 'regularMarketPreviousClose': 36.54,
+ 'regularMarketPrice': 36.46,
+ 'regularMarketVolume': 329926,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 37186200,
+ 'sharesPercentSharesOut': 0.114700004,
+ 'sharesShort': 4272707,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4157713,
+ 'shortName': 'REGENXBIO Inc.',
+ 'shortPercentOfFloat': 0.1822,
+ 'shortRatio': 9.47,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'RGNX',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.781,
+ 'twoHundredDayAverage': 39.27572,
+ 'volume': 329926,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.regenxbio.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20850'}

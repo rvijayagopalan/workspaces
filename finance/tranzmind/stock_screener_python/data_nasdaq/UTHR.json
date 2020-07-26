@@ -1,0 +1,158 @@
+{'52WeekChange': 0.43554997,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1040 Spring Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 112.22,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 366200,
+ 'averageVolume': 587041,
+ 'averageVolume10days': 366200,
+ 'beta': 0.862184,
+ 'beta3Year': None,
+ 'bid': 112.15,
+ 'bidSize': 3000,
+ 'bookValue': 67.008,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Silver Spring',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 115.2925,
+ 'dayLow': 111.18,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.055,
+ 'enterpriseToRevenue': 2.909,
+ 'enterpriseValue': 4196323584,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 118.358284,
+ 'fiftyTwoWeekHigh': 127.79,
+ 'fiftyTwoWeekLow': 75.58,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 39626496,
+ 'forwardEps': 10.73,
+ 'forwardPE': 10.462256,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 920,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.017690001,
+ 'heldPercentInstitutions': 0.97528,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1253664000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/unither.com',
+ 'longBusinessSummary': 'United Therapeutics Corporation, a biotechnology '
+                        'company, develops and commercializes products to '
+                        'address the unmet medical needs of patients with '
+                        'chronic and life-threatening diseases primarily in '
+                        "the United States and internationally. The company's "
+                        'commercial therapies include Remodulin, an infused '
+                        'formulation of the prostacyclin analogue treprostinil '
+                        'for subcutaneous and intravenous administration to '
+                        'diminish symptoms associated with exercise in '
+                        'pulmonary arterial hypertension (PAH) patients; '
+                        'Tyvaso, an inhaled formulation of treprostinil to '
+                        'enhace the exercise ability in PAH patients; '
+                        'Orenitram, a tablet dosage form of treprostinil to '
+                        'enhance the exercise capacity in PAH patients; '
+                        'Adcirca, an oral PDE-5 inhibitor to enhance the '
+                        'exercise ability in PAH patients; and Unituxin, a '
+                        'monoclonal antibody for treating neuroblastoma. It '
+                        'also engages in developing OreniPro, RemoPro, '
+                        'Treprostinil Technosphere, Trevyent, Ralinepag, and '
+                        'Aurora-GT to treat PAH; LNG01 to treat IPF; Unexisome '
+                        'to treat BPD; and the research and development of '
+                        'various organ transplantation-related technologies, '
+                        'including regenerative medicine, xenotransplantation, '
+                        'biomechanical lungs, and ex-vivo lung perfusion, as '
+                        'well as the development of medicine for other '
+                        'diseases. The company has licensing and collaboration '
+                        'agreements with Medtronic, Inc. to develop and '
+                        'commercialize the implantable system for Remodulin; '
+                        'Caremark, L.L.C. to provide refills of implanted '
+                        'pumps at its infusion centers; DEKA Research & '
+                        'Development Corp. to develop a semi-disposable system '
+                        'for the subcutaneous delivery of Remodulin; MannKind '
+                        'Corporation to develop and license treprostinil '
+                        'inhalation powder, and Dreamboat and Cricket devices; '
+                        'Arena Pharmaceuticals, Inc. to develop ralinepag for '
+                        'the treatment of PAH; and Samumed LLC to develop '
+                        'LNG01. The company was founded in 1996 and is '
+                        'headquartered in Silver Spring, Maryland.',
+ 'longName': 'United Therapeutics Corporation',
+ 'market': 'us_market',
+ 'marketCap': 4940820992,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_36018',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 527800000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 113.43,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -1.25,
+ 'phone': '301 608 9292',
+ 'previousClose': 114.47,
+ 'priceHint': 2,
+ 'priceToBook': 1.6753223,
+ 'priceToSalesTrailing12Months': 3.4251792,
+ 'profitMargins': 0.36589,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 115.2925,
+ 'regularMarketDayLow': 111.18,
+ 'regularMarketOpen': 113.43,
+ 'regularMarketPreviousClose': 114.47,
+ 'regularMarketPrice': 113.43,
+ 'regularMarketVolume': 278473,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 43885000,
+ 'sharesPercentSharesOut': 0.053000003,
+ 'sharesShort': 2332966,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3234069,
+ 'shortName': 'United Therapeutics Corporation',
+ 'shortPercentOfFloat': 0.060399998,
+ 'shortRatio': 3.69,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'UTHR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 12.018,
+ 'trailingPE': 9.340989,
+ 'twoHundredDayAverage': 105.822876,
+ 'volume': 278473,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.unither.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20910'}

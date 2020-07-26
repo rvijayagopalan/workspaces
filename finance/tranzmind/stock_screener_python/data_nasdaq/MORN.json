@@ -1,0 +1,160 @@
+{'52WeekChange': 0.043742776,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '22 West Washington Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 161.37,
+ 'askSize': 3100,
+ 'averageDailyVolume10Day': 77675,
+ 'averageVolume': 103822,
+ 'averageVolume10days': 77675,
+ 'beta': 1.147338,
+ 'beta3Year': None,
+ 'bid': 160.38,
+ 'bidSize': 900,
+ 'bookValue': 24.132,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chicago',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 161.73,
+ 'dayLow': 159.25,
+ 'dividendRate': 1.2,
+ 'dividendYield': 0.0075,
+ 'earningsQuarterlyGrowth': -0.28,
+ 'enterpriseToEbitda': 28.805,
+ 'enterpriseToRevenue': 5.832,
+ 'enterpriseValue': 7256030720,
+ 'exDividendDate': 1602720000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 150.412,
+ 'fiftyTwoWeekHigh': 166.59,
+ 'fiftyTwoWeekLow': 102.59,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.92,
+ 'floatShares': 22240014,
+ 'forwardEps': 2.84,
+ 'forwardPE': 56.795776,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6896,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.49061,
+ 'heldPercentInstitutions': 0.46738997,
+ 'industry': 'Financial Data & Stock Exchanges',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/morningstar.com',
+ 'longBusinessSummary': 'Morningstar, Inc. provides independent investment '
+                        'research services in North America, Europe, '
+                        'Australia, Canada, Asia, the United Kingdom, and '
+                        'internationally. It offers web-based tools; '
+                        'investment data, fundamental equity research, manager '
+                        'research, credit ratings, and private capital markets '
+                        'research services; and investment offerings, '
+                        'including managed investment products, publicly '
+                        'listed companies, fixed income securities, private '
+                        'capital markets, and real-time global market data for '
+                        'financial advisors, asset managers, retirement plan '
+                        'providers and sponsors, and individual and '
+                        'institutional investors. The company offers '
+                        'Morningstar Data, an investment data spanning various '
+                        'investment databases, including equity fundamentals, '
+                        'managed investments, and real-time pricing and market '
+                        'data; Morningstar Direct, an investment-analysis '
+                        'platform; Morningstar Managed Portfolios, an advisor '
+                        'service consisting of model portfolio that offers '
+                        'services for independent financial advisors, as well '
+                        'as offers asset allocation services for asset '
+                        'managers, broker-dealers, and insurance providers; '
+                        'Morningstar Advisor Workstation, a web-based research '
+                        'and proposal generation platform; and '
+                        'Morningstar.com, a Website for individual investors. '
+                        'It also provides Morningstar Enterprise Components; '
+                        'Morningstar Credit Ratings that provides new issue '
+                        'and surveillance ratings for structured finance '
+                        'securities; operational risk assessment services, '
+                        'deal monitoring, and corporate credit estimation; '
+                        'Morningstar Indexes for creating investment products; '
+                        'Morningstar workplace solutions, such as retirement '
+                        'accounts, fiduciary services, allocation funds, and '
+                        'custom models; and PitchBook Platform, research and '
+                        'analysis workstation for investment and research '
+                        "professionals. In addition, the company's PitchBook "
+                        'offers a mobile application, excel plug-in, data '
+                        'feeds, and data solutions. Morningstar, Inc. was '
+                        'founded in 1984 and is headquartered in Chicago, '
+                        'Illinois.',
+ 'longName': 'Morningstar, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 6902526976,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_31721',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 142700000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 160.1,
+ 'openInterest': None,
+ 'payoutRatio': 0.3515,
+ 'pegRatio': None,
+ 'phone': '312-696-6000',
+ 'previousClose': 161.06,
+ 'priceHint': 2,
+ 'priceToBook': 6.684071,
+ 'priceToSalesTrailing12Months': 5.548209,
+ 'profitMargins': 0.114700004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 161.73,
+ 'regularMarketDayLow': 159.25,
+ 'regularMarketOpen': 160.1,
+ 'regularMarketPreviousClose': 161.06,
+ 'regularMarketPrice': 160.1,
+ 'regularMarketVolume': 114882,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 42793100,
+ 'sharesPercentSharesOut': 0.0076,
+ 'sharesShort': 325651,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 327044,
+ 'shortName': 'Morningstar, Inc.',
+ 'shortPercentOfFloat': 0.0152,
+ 'shortRatio': 3.04,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'MORN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.16,
+ 'trailingAnnualDividendYield': 0.007202285,
+ 'trailingEps': 3.299,
+ 'trailingPE': 48.893604,
+ 'twoHundredDayAverage': 144.11935,
+ 'volume': 114882,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.morningstar.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60602'}

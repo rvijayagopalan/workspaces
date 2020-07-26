@@ -1,0 +1,160 @@
+{'52WeekChange': -0.14639395,
+ 'SandP52WeekChange': None,
+ 'address1': '2100 Logic Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 102.65,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 2055062,
+ 'averageVolume': 2805011,
+ 'averageVolume10days': 2055062,
+ 'beta': 0.965826,
+ 'beta3Year': None,
+ 'bid': 102.01,
+ 'bidSize': 1200,
+ 'bookValue': 9.495,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Jose',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 104.62,
+ 'dayLow': 101.82,
+ 'dividendRate': 1.52,
+ 'dividendYield': 0.0147,
+ 'earningsQuarterlyGrowth': -0.337,
+ 'enterpriseToEbitda': 24.517,
+ 'enterpriseToRevenue': 7.612,
+ 'enterpriseValue': 24075757568,
+ 'exDividendDate': 1589241600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '408 559 7114',
+ 'fiftyDayAverage': 96.746574,
+ 'fiftyTwoWeekHigh': 122.16,
+ 'fiftyTwoWeekLow': 67.68,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.01,
+ 'floatShares': 243248577,
+ 'forwardEps': 3.41,
+ 'forwardPE': 30.105572,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4891,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00182,
+ 'heldPercentInstitutions': 0.83639,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585353600,
+ 'lastMarket': None,
+ 'lastSplitDate': 946339200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/xilinx.com',
+ 'longBusinessSummary': 'Xilinx, Inc. designs and develops programmable '
+                        'devices and associated technologies worldwide. The '
+                        'company offers integrated circuits (ICs) in the form '
+                        'of programmable logic devices (PLDs), such as '
+                        'programmable system on chips, and three dimensional '
+                        'ICs; adaptive compute acceleration platform; software '
+                        'design tools to program the PLDs; software '
+                        'development environments and embedded platforms; '
+                        'targeted reference designs; printed circuit boards; '
+                        'and intellectual property (IP) core licenses covering '
+                        'Ethernet, memory controllers, Interlaken, and '
+                        'peripheral component interconnect express interfaces, '
+                        'as well as domain-specific IP in the areas of '
+                        'embedded, digital signal processing and connectivity, '
+                        'and market-specific IP cores. It also offers '
+                        'development boards; development kits, including '
+                        'hardware, design tools, IP, and reference designs '
+                        'that are designed to streamline and accelerate the '
+                        'development of domain-specific and market-specific '
+                        'applications; and configuration products comprising '
+                        'one-time programmable and in-system programmable '
+                        'storage devices to configure field programmable gate '
+                        'arrays. In addition, it provides design, customer '
+                        'training, field engineering, and technical support '
+                        'services. The company offers its products to '
+                        'electronic equipment manufacturers in sub- markets, '
+                        'such as data center, wireless, wireline, aerospace '
+                        'and defense, test and measurement, industrial, '
+                        'scientific and medical, automotive, audio, video and '
+                        'broadcast, and consumer. It sells its products '
+                        'through a network of independent distributors; and '
+                        'through direct sales to original equipment '
+                        'manufacturers and electronic manufacturing service '
+                        'providers, as well as independent sales '
+                        'representatives. Xilinx, Inc. was founded in 1984 and '
+                        'is headquartered in San Jose, California.',
+ 'longName': 'Xilinx, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 24966297600,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_36762',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 792721024,
+ 'nextFiscalYearEnd': 1648425600,
+ 'open': 102.13,
+ 'openInterest': None,
+ 'payoutRatio': 0.4759,
+ 'pegRatio': 5.07,
+ 'phone': '408 559 7778',
+ 'previousClose': 103.09,
+ 'priceHint': 2,
+ 'priceToBook': 10.812007,
+ 'priceToSalesTrailing12Months': 7.8940673,
+ 'profitMargins': 0.25065002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 104.62,
+ 'regularMarketDayLow': 101.82,
+ 'regularMarketOpen': 102.13,
+ 'regularMarketPreviousClose': 103.09,
+ 'regularMarketPrice': 102.13,
+ 'regularMarketVolume': 2275759,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 243194000,
+ 'sharesPercentSharesOut': 0.0315,
+ 'sharesShort': 7666275,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7154071,
+ 'shortName': 'Xilinx, Inc.',
+ 'shortPercentOfFloat': 0.040700004,
+ 'shortRatio': 2.64,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'XLNX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.48,
+ 'trailingAnnualDividendYield': 0.014356389,
+ 'trailingEps': 3.11,
+ 'trailingPE': 33.009647,
+ 'twoHundredDayAverage': 89.124245,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'ac08a31b-4c1b-3bd5-8258-fa0a2afa17e2',
+ 'volume': 2275759,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.xilinx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95124'}

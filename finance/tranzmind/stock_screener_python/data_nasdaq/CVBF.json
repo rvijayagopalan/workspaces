@@ -1,0 +1,162 @@
+{'52WeekChange': -0.12615526,
+ 'SandP52WeekChange': None,
+ 'address1': '701 North Haven Avenue',
+ 'address2': 'Suite 350',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 18.68,
+ 'askSize': 3200,
+ 'averageDailyVolume10Day': 511575,
+ 'averageVolume': 726768,
+ 'averageVolume10days': 511575,
+ 'beta': 0.658263,
+ 'beta3Year': None,
+ 'bid': 18.67,
+ 'bidSize': 1200,
+ 'bookValue': 14.457,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Ontario',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 19.15,
+ 'dayLow': 18.67,
+ 'dividendRate': 0.72,
+ 'dividendYield': 0.0381,
+ 'earningsQuarterlyGrowth': -0.236,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.401,
+ 'enterpriseValue': 1069480768,
+ 'exDividendDate': 1594166400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 18.418858,
+ 'fiftyTwoWeekHigh': 22.23,
+ 'fiftyTwoWeekLow': 14.92,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.69,
+ 'floatShares': 127675342,
+ 'forwardEps': 1.12,
+ 'forwardPE': 16.678572,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.05856,
+ 'heldPercentInstitutions': 0.7483,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1167782400,
+ 'lastSplitFactor': '11:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cbbank.com',
+ 'longBusinessSummary': 'CVB Financial Corp. operates as a bank holding '
+                        'company for Citizens Business Bank that provides '
+                        'banking and financial products and services. The '
+                        'company offers checking, savings, and money market '
+                        'accounts, as well as time certificates of deposit; '
+                        'and serves as a federal tax depository for business '
+                        'customers. It also provides commercial lending '
+                        'products comprising lines of credit and other working '
+                        'capital financing, accounts receivable lending, and '
+                        'letters of credit; loans to finance the operating '
+                        'needs of wholesale dairy farm operations, cattle '
+                        'feeders, livestock raisers, and farmers; lease '
+                        'financing services for municipal governments; '
+                        'commercial real estate and construction loans that '
+                        'are secured by owner-occupied and investor owned '
+                        'properties; and consumer financing products, '
+                        'including automobile leasing and financing, lines of '
+                        'credit, credit cards, home mortgages, and home equity '
+                        'loans and lines of credit. In addition, the company '
+                        'offers various specialized services, such as cash '
+                        'management systems for monitoring cash flow, a credit '
+                        'card program for merchants, courier pick-up and '
+                        'delivery, payroll services, remote deposit capture, '
+                        'electronic funds transfer, and online account access. '
+                        'Further, it provides trust and investment-related '
+                        'services to customers through its CitizensTrust '
+                        'Division, such as fiduciary services, mutual funds, '
+                        'annuities, 401(k) plans, and individual investment '
+                        "accounts. The company's customers consist primarily "
+                        'of small to mid-sized businesses and individuals. As '
+                        'of December 31, 2019, the company operated 58 banking '
+                        'centers located in the Inland Empire, Los Angeles '
+                        'County, Orange County, San Diego County, Ventura '
+                        'County, Santa Barbara County, and the Central Valley '
+                        'area of California; one loan production office '
+                        'located in Modesto, California; and three trust '
+                        'offices located in Ontario, Newport Beach, and '
+                        'Pasadena, California. CVB Financial Corp. was founded '
+                        'in 1974 and is headquartered in Ontario, California.',
+ 'longName': 'CVB Financial Corp.',
+ 'market': 'us_market',
+ 'marketCap': 2531345664,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_258064',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 180827008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 18.82,
+ 'openInterest': None,
+ 'payoutRatio': 0.52169997,
+ 'pegRatio': 1.64,
+ 'phone': '909-980-4030',
+ 'previousClose': 18.91,
+ 'priceHint': 2,
+ 'priceToBook': 1.2921077,
+ 'priceToSalesTrailing12Months': 5.6835637,
+ 'profitMargins': 0.4071,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 19.15,
+ 'regularMarketDayLow': 18.67,
+ 'regularMarketOpen': 18.82,
+ 'regularMarketPreviousClose': 18.91,
+ 'regularMarketPrice': 18.82,
+ 'regularMarketVolume': 560128,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 135511008,
+ 'sharesPercentSharesOut': 0.0402,
+ 'sharesShort': 5449510,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5553050,
+ 'shortName': 'CVB Financial Corporation',
+ 'shortPercentOfFloat': 0.063200004,
+ 'shortRatio': 6.12,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'CVBF',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.72,
+ 'trailingAnnualDividendYield': 0.038075093,
+ 'trailingEps': 1.301,
+ 'trailingPE': 14.358187,
+ 'twoHundredDayAverage': 19.345612,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'dd841c58-7f83-3dc9-842c-826390b5c110',
+ 'volume': 560128,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cbbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '91764'}

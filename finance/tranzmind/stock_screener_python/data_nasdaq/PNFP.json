@@ -1,0 +1,161 @@
+{'52WeekChange': -0.3128885,
+ 'SandP52WeekChange': None,
+ 'address1': '150 Third Avenue South',
+ 'address2': 'Suite 900',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 46.39,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 381450,
+ 'averageVolume': 452452,
+ 'averageVolume10days': 381450,
+ 'beta': 1.424089,
+ 'beta3Year': None,
+ 'bid': 41.86,
+ 'bidSize': 1300,
+ 'bookValue': 59.413,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Nashville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 42.66,
+ 'dayLow': 41.63,
+ 'dividendRate': 0.64,
+ 'dividendYield': 0.0152,
+ 'earningsQuarterlyGrowth': -0.378,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.096,
+ 'enterpriseValue': 3632956160,
+ 'exDividendDate': 1596672000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 41.563145,
+ 'fiftyTwoWeekHigh': 65,
+ 'fiftyTwoWeekLow': 27.8,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.01,
+ 'floatShares': 73088362,
+ 'forwardEps': 4.16,
+ 'forwardPE': 10.062501,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2577,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.03625,
+ 'heldPercentInstitutions': 0.82644,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1084233600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pnfp.com',
+ 'longBusinessSummary': 'Pinnacle Financial Partners, Inc., together with its '
+                        'subsidiaries, operates as the bank holding company '
+                        'for Pinnacle Bank that provides various banking '
+                        'products and services in the United States. The '
+                        'company accepts various deposits, including savings, '
+                        'checking, noninterest-bearing checking, '
+                        'interest-bearing checking, money market, and '
+                        'certificate of deposit accounts. Its loan products '
+                        'include commercial loans, such as equipment and '
+                        'working capital loans; commercial real estate loans '
+                        'comprising investment properties and business loans '
+                        'secured by real estate; and loans to individuals '
+                        'consisting of secured and unsecured installment and '
+                        'term loans, lines of credit, residential first '
+                        'mortgage loans, and home equity loans and lines of '
+                        'credit. The company also offers various securities '
+                        'and other financial products; investment products; '
+                        'brokerage and investment advisory programs; and '
+                        'fiduciary and investment management services, such as '
+                        'personal trust, endowments, foundations, individual '
+                        'retirement accounts, pensions, and custody. In '
+                        'addition, it provides insurance products primarily in '
+                        'the property and casualty area; merger and '
+                        'acquisition advisory services; and private debt, '
+                        'equity and mezzanine, interest rate derivatives, and '
+                        'other middle-market advisory services. Further, the '
+                        'company offers treasury management, telephone and '
+                        'online banking, mobile banking, debit and credit '
+                        'cards, direct and remote deposit, automated teller '
+                        'machine, and cash management services. It serves '
+                        'individuals, small-to medium-sized businesses, and '
+                        'professional entities. As of December 31, 2019, the '
+                        'company operated 111 offices, including 47 in '
+                        'Tennessee, 36 in North Carolina, 20 in South '
+                        'Carolina, and eight in Virginia. Pinnacle Financial '
+                        'Partners, Inc. was founded in 2000 and is '
+                        'headquartered in Nashville, Tennessee.',
+ 'longName': 'Pinnacle Financial Partners, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3175014144,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_527694',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 297400000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 42.1,
+ 'openInterest': None,
+ 'payoutRatio': 0.16450001,
+ 'pegRatio': 0.37,
+ 'phone': '615-744-3700',
+ 'previousClose': 42.01,
+ 'priceHint': 2,
+ 'priceToBook': 0.7045596,
+ 'priceToSalesTrailing12Months': 3.5797477,
+ 'profitMargins': 0.33530998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 42.66,
+ 'regularMarketDayLow': 41.63,
+ 'regularMarketOpen': 42.1,
+ 'regularMarketPreviousClose': 42.01,
+ 'regularMarketPrice': 42.1,
+ 'regularMarketVolume': 341431,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 75848400,
+ 'sharesPercentSharesOut': 0.032899998,
+ 'sharesShort': 2491736,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2242242,
+ 'shortName': 'Pinnacle Financial Partners, In',
+ 'shortPercentOfFloat': 0.0339,
+ 'shortRatio': 5.34,
+ 'startDate': None,
+ 'state': 'TN',
+ 'strikePrice': None,
+ 'symbol': 'PNFP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.64,
+ 'trailingAnnualDividendYield': 0.0152344685,
+ 'trailingEps': 3.9,
+ 'trailingPE': 10.733334,
+ 'twoHundredDayAverage': 45.623093,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '26c3eff6-6cc1-3e2e-9271-b60e38fbdcfe',
+ 'volume': 341431,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pnfp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '37201'}

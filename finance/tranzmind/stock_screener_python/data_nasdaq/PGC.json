@@ -1,0 +1,156 @@
+{'52WeekChange': -0.3879552,
+ 'SandP52WeekChange': None,
+ 'address1': '500 Hills Drive',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.09,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 51450,
+ 'averageVolume': 75711,
+ 'averageVolume10days': 51450,
+ 'beta': 1.192156,
+ 'beta3Year': None,
+ 'bid': 17.08,
+ 'bidSize': 800,
+ 'bookValue': 27.702,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Bedminster',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 17.7,
+ 'dayLow': 17.02,
+ 'dividendRate': 0.2,
+ 'dividendYield': 0.0114,
+ 'earningsQuarterlyGrowth': -0.88,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.724,
+ 'enterpriseValue': 268319056,
+ 'exDividendDate': 1589155200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 18.05943,
+ 'fiftyTwoWeekHigh': 31.72,
+ 'fiftyTwoWeekLow': 11.15,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.78,
+ 'floatShares': 14346477,
+ 'forwardEps': 1.96,
+ 'forwardPE': 8.739796,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 446,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.03056,
+ 'heldPercentInstitutions': 0.73747003,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1246924800,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pgbank.com',
+ 'longBusinessSummary': 'Peapack-Gladstone Financial Corporation operates as '
+                        'the bank holding company for Peapack-Gladstone Bank '
+                        'that provides private banking and wealth management '
+                        'services in the United States. The company operates '
+                        'in two segments, Banking and Peapack Private. It '
+                        'offers checking and savings accounts, money market '
+                        'and interest-bearing checking accounts, certificates '
+                        'of deposit, and individual retirement accounts. The '
+                        'company also provides working capital lines of '
+                        'credit, term loans for fixed asset acquisitions, '
+                        'commercial mortgages, multi-family mortgages, and '
+                        'other forms of asset-based financing services; and '
+                        'residential mortgages, home equity lines of credit, '
+                        'and other second mortgage loans. In addition, it '
+                        'offers asset management services; personal trust '
+                        'services, including services as executor, trustee, '
+                        'administrator, custodian, and guardian; and other '
+                        'financial planning, tax preparation, and advisory '
+                        'services. Further, the company operates automated '
+                        'teller machines at 24 locations; and provides '
+                        'telephone and Internet banking, merchant credit card, '
+                        'and customer support sales services. Its private '
+                        'banking clients include businesses, non-profits, and '
+                        'consumers; and wealth management clients comprise '
+                        'individuals, families, foundations, endowments, '
+                        'trusts, and estates. The company operates its private '
+                        'banking locations in Bedminster, Morristown, '
+                        'Princeton, and Teaneck, New Jersey; and wealth '
+                        'management branches in Somerset, Morris, Hunterdon, '
+                        'and Union counties. Peapack-Gladstone Financial '
+                        'Corporation was founded in 1921 and is headquartered '
+                        'in Bedminster, New Jersey.',
+ 'longName': 'Peapack-Gladstone Financial Corporation',
+ 'market': 'us_market',
+ 'marketCap': 322943296,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_295399',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 37382000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 17.63,
+ 'openInterest': None,
+ 'payoutRatio': 0.103599995,
+ 'pegRatio': 3.67,
+ 'phone': '908-234-0700',
+ 'previousClose': 17.48,
+ 'priceHint': 2,
+ 'priceToBook': 0.6183669,
+ 'priceToSalesTrailing12Months': 2.0754976,
+ 'profitMargins': 0.24024999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 17.7,
+ 'regularMarketDayLow': 17.02,
+ 'regularMarketOpen': 17.63,
+ 'regularMarketPreviousClose': 17.48,
+ 'regularMarketPrice': 17.63,
+ 'regularMarketVolume': 44928,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 18852500,
+ 'sharesPercentSharesOut': 0.0127,
+ 'sharesShort': 240067,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 190352,
+ 'shortName': 'Peapack-Gladstone Financial Cor',
+ 'shortPercentOfFloat': 0.013200001,
+ 'shortRatio': 2.84,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'PGC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.2,
+ 'trailingAnnualDividendYield': 0.011441648,
+ 'trailingEps': 1.936,
+ 'trailingPE': 8.84814,
+ 'twoHundredDayAverage': 21.286762,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '21c5782a-4f84-3ff7-8a7f-5ca14831d6e4',
+ 'volume': 44928,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pgbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07921'}

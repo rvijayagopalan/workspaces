@@ -1,0 +1,151 @@
+{'52WeekChange': 0.10749996,
+ 'SandP52WeekChange': None,
+ 'address1': '47827 Halyard Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.52,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1333412,
+ 'averageVolume': 1664960,
+ 'averageVolume10days': 1333412,
+ 'beta': 1.316526,
+ 'beta3Year': None,
+ 'bid': 4.27,
+ 'bidSize': 1200,
+ 'bookValue': 4.048,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Plymouth',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.35,
+ 'dayLow': 4.06,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 27.875,
+ 'enterpriseToRevenue': 0.552,
+ 'enterpriseValue': 37464164,
+ 'exDividendDate': 1401753600,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.7125714,
+ 'fiftyTwoWeekHigh': 7.29,
+ 'fiftyTwoWeekLow': 2.34,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 7868594,
+ 'forwardEps': 0.05,
+ 'forwardPE': 86.7,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 327,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01671,
+ 'heldPercentInstitutions': 0.60476,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/perceptron.com',
+ 'longBusinessSummary': 'Perceptron, Inc. develops, produces, and sells '
+                        'various automated industrial metrology products and '
+                        'solutions to manufacturing organizations for '
+                        'dimensional gauging, dimensional inspection, and 3D '
+                        'scanning in Europe, Asia, and the Americas. It '
+                        'provides various in-line and near-line measurement '
+                        'solutions, including AutoGauge, AutoFit, AutoGuide, '
+                        'AccuSite, and Helix engineered metrology systems for '
+                        'industrial automated process control and assembly '
+                        'using fixed and robot mounted laser scanners; and '
+                        'offline measurement solutions comprising Coord3, '
+                        'coordinate measuring machines, V7 3D laser scanner, '
+                        'and TouchDMIS measuring software for industrial '
+                        'gauging and dimensional inspection using standalone '
+                        'robot mounted laser scanners and coordinate measuring '
+                        'machines. The company also offers laser-based sensors '
+                        'and software comprising WheelWorks product that '
+                        'targets the digitizing, reverse engineering, '
+                        'inspection, and original equipment manufacturers '
+                        'wheel alignment sectors. In addition, it provides '
+                        'value added services, including training, field, '
+                        'calibration, launch support, consulting, and repair '
+                        'services, as well as equipment and software '
+                        'maintenance agreements. The company serves '
+                        'automotive, aerospace, and other manufacturing '
+                        'companies through manufacturing line builders, system '
+                        'integrators, value-added resellers, and original '
+                        'equipment manufacturers. Perceptron, Inc. was founded '
+                        'in 1981 and is headquartered in Plymouth, Michigan.',
+ 'longName': 'Perceptron, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 42140144,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_32860',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -10911000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 4.06,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.35,
+ 'phone': '734-414-6100',
+ 'previousClose': 4.43,
+ 'priceHint': 4,
+ 'priceToBook': 1.0708992,
+ 'priceToSalesTrailing12Months': 0.621078,
+ 'profitMargins': -0.16081,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.35,
+ 'regularMarketDayLow': 4.06,
+ 'regularMarketOpen': 4.06,
+ 'regularMarketPreviousClose': 4.43,
+ 'regularMarketPrice': 4.06,
+ 'regularMarketVolume': 282559,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 9720910,
+ 'sharesPercentSharesOut': 0.0050999997,
+ 'sharesShort': 49374,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 41258,
+ 'shortName': 'Perceptron, Inc.',
+ 'shortPercentOfFloat': 0.0083,
+ 'shortRatio': 1.08,
+ 'startDate': None,
+ 'state': 'MI',
+ 'strikePrice': None,
+ 'symbol': 'PRCP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.128,
+ 'twoHundredDayAverage': 3.9078417,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '64d6e7fe-87d5-39b5-902c-8a6fe79767bc',
+ 'volume': 282559,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.perceptron.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '48170'}

@@ -1,0 +1,159 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '6111 Blue Circle Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.66,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 1062,
+ 'averageVolume': 3095,
+ 'averageVolume10days': 1062,
+ 'beta': 0.485714,
+ 'beta3Year': None,
+ 'bid': 3.5,
+ 'bidSize': 1400,
+ 'bookValue': 3.771,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Minnetonka',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.6,
+ 'dayLow': 3.52,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 12.993,
+ 'enterpriseToRevenue': 0.393,
+ 'enterpriseValue': 3209207,
+ 'exDividendDate': 1367971200,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '952-930-0130',
+ 'fiftyDayAverage': 3.5442858,
+ 'fiftyTwoWeekHigh': 4.1,
+ 'fiftyTwoWeekLow': 2.61,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 2230246,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 40,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.3417,
+ 'heldPercentInstitutions': 0.05849,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 983232000,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/electro-sensors.com',
+ 'longBusinessSummary': 'Electro-Sensors, Inc. manufactures and sells '
+                        'industrial production monitoring and process control '
+                        'systems. The company manufactures and sells various '
+                        'monitoring systems that measure machine production '
+                        'and operation rates, as well as systems, which '
+                        'regulate the speed of related machines in production '
+                        'processes. Its speed monitoring systems include a '
+                        'line of products that measure production counts or '
+                        'rates, such as parts, gallons, or board feet; and '
+                        'alarm systems, tachometers, and other devices that '
+                        'translate impulses from the sensors into alarm '
+                        'signals, computer inputs, or digital displays. The '
+                        "company's temperature application products consist of "
+                        'bearing, gear box, and motor temperature monitoring '
+                        'sensors. It also offers production monitoring devices '
+                        'that include a belt alignment and slide gate position '
+                        'monitors; vibration monitoring products; and tilt '
+                        'switches. In addition, the company provides hazard '
+                        'monitoring systems, such as Electro-Sentry, which '
+                        'integrates its sensors for monitoring temperature, '
+                        'belt alignment, and shaft speed; and HazardPRO, a '
+                        'wireless hazard technology monitoring system, as well '
+                        'as HazardPRO software. It serves customers in various '
+                        'industries, including grain/feed/milling, bulk '
+                        'material, manufacturing, food product, ethanol, power '
+                        'generation, and other processing industries. The '
+                        'company sells its products through internal sales '
+                        "team, manufacturer's representatives, and "
+                        'distributors in the United States, Canada, Mexico, '
+                        'Bolivia, Chile, Colombia, Guatemala, Peru, the United '
+                        'Kingdom, Ukraine, Egypt, Saudi Arabia, India, '
+                        'Indonesia, Australia, New Zealand, China, Taiwan, '
+                        'Korea, Vietnam, Malaysia, the Philippines, and '
+                        'Singapore. Electro-Sensors, Inc. was founded in 1968 '
+                        'and is based in Minnetonka, Minnesota.',
+ 'longName': 'Electro-Sensors, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 11952230,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_268757',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 127000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.5571,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '952-930-0100',
+ 'previousClose': 3.48,
+ 'priceHint': 4,
+ 'priceToBook': 0.93343943,
+ 'priceToSalesTrailing12Months': 1.4624043,
+ 'profitMargins': 0.01554,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.6,
+ 'regularMarketDayLow': 3.52,
+ 'regularMarketOpen': 3.5571,
+ 'regularMarketPreviousClose': 3.48,
+ 'regularMarketPrice': 3.5571,
+ 'regularMarketVolume': 942,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 3395520,
+ 'sharesPercentSharesOut': 0.0002,
+ 'sharesShort': 618,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1396,
+ 'shortName': 'Electro-Sensors, Inc.',
+ 'shortPercentOfFloat': 0.00029999999,
+ 'shortRatio': 0.11,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'ELSE',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.037,
+ 'trailingPE': 95.13513,
+ 'twoHundredDayAverage': 3.4308634,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '778537b0-acce-3622-9cb7-8d5f72c907ab',
+ 'volume': 942,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.electro-sensors.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '55343'}

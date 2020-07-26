@@ -1,0 +1,154 @@
+{'52WeekChange': -0.15464431,
+ 'SandP52WeekChange': None,
+ 'address1': '9601 South Meridian Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 33.41,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 2116287,
+ 'averageVolume': 3217223,
+ 'averageVolume10days': 2116287,
+ 'beta': 1.756862,
+ 'beta3Year': None,
+ 'bid': 33.32,
+ 'bidSize': 900,
+ 'bookValue': 22.279,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Englewood',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 33.61,
+ 'dayLow': 33.1,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.785,
+ 'enterpriseToEbitda': 11.252,
+ 'enterpriseToRevenue': 2.256,
+ 'enterpriseValue': 28967536640,
+ 'exDividendDate': 1355270400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 33.737713,
+ 'fiftyTwoWeekHigh': 42.62,
+ 'fiftyTwoWeekLow': 17.09,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 242333753,
+ 'forwardEps': 1.92,
+ 'forwardPE': 17.375,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 16000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.14373,
+ 'heldPercentInstitutions': 0.84142995,
+ 'industry': 'Entertainment',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 953769600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/dish.com',
+ 'longBusinessSummary': 'DISH Network Corporation, together with its '
+                        'subsidiaries, provides pay-TV services in the United '
+                        'States. The company operates in two segments, Pay-TV '
+                        'and Wireless. It offers video services under the DISH '
+                        'TV brand; and programming packages that include '
+                        'programming through national broadcast networks, '
+                        'local broadcast networks, and national and regional '
+                        'cable networks, as well as regional and specialty '
+                        'sports channels, premium movie channels, and Latino '
+                        'and international programming packages. The company '
+                        'also provides access to movies and TV shows through '
+                        'TV or Internet-connected tablets, smartphones, and '
+                        'computers; and dishanywhere.com and mobile '
+                        'applications for smartphones and tablets to view '
+                        'authorized content, search program listings, and '
+                        'remotely control certain features. In addition, it '
+                        'offers Sling TV services, including Sling '
+                        'International, Sling Latino, Sling Orange, and Sling '
+                        'Blue services that require an Internet connection and '
+                        'are available on streaming-capable devices, such as '
+                        'TVs, tablets, computers, game consoles, and smart '
+                        'phones primarily to consumers who do not subscribe to '
+                        'traditional satellite and cable pay-TV services. As '
+                        'of December 31, 2019, it had 11.986 million Pay-TV '
+                        'subscribers. The company offers receiver systems and '
+                        'programming through direct sales channels, small '
+                        'satellite retailers, direct marketing groups, local '
+                        'and regional consumer electronics stores, retailers, '
+                        'and telecommunications companies. DISH Network '
+                        'Corporation was founded in 1980 and is headquartered '
+                        'in Englewood, Colorado.',
+ 'longName': 'DISH Network Corporation',
+ 'market': 'us_market',
+ 'marketCap': 17486010368,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_110001',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1132850048,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 33.34,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -1.32,
+ 'phone': '303-723-1000',
+ 'previousClose': 33.4,
+ 'priceHint': 2,
+ 'priceToBook': 1.4973743,
+ 'priceToSalesTrailing12Months': 1.3620585,
+ 'profitMargins': 0.088240005,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 33.61,
+ 'regularMarketDayLow': 33.1,
+ 'regularMarketOpen': 33.34,
+ 'regularMarketPreviousClose': 33.4,
+ 'regularMarketPrice': 33.34,
+ 'regularMarketVolume': 1177633,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 285726016,
+ 'sharesPercentSharesOut': 0.0251,
+ 'sharesShort': 13175622,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 12359190,
+ 'shortName': 'DISH Network Corporation',
+ 'shortPercentOfFloat': 0.061100002,
+ 'shortRatio': 3.49,
+ 'startDate': None,
+ 'state': 'CO',
+ 'strikePrice': None,
+ 'symbol': 'DISH',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.052,
+ 'trailingPE': 16.257309,
+ 'twoHundredDayAverage': 30.324316,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f712f064-807c-3b14-8fbe-7d0a950d9f07',
+ 'volume': 1177633,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.dish.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '80112'}

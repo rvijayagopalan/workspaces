@@ -1,0 +1,152 @@
+{'52WeekChange': 0.02470541,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '500 Water Street',
+ 'address2': '15th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 71.55,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 3488100,
+ 'averageVolume': 4170531,
+ 'averageVolume10days': 3488100,
+ 'beta': 1.22633,
+ 'beta3Year': None,
+ 'bid': 71.02,
+ 'bidSize': 800,
+ 'bookValue': 15.881,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Jacksonville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 72.61,
+ 'dayLow': 71.25,
+ 'dividendRate': 1.04,
+ 'dividendYield': 0.0145000005,
+ 'earningsQuarterlyGrowth': -0.426,
+ 'enterpriseToEbitda': 11.912,
+ 'enterpriseToRevenue': 6.287,
+ 'enterpriseValue': 68984848384,
+ 'exDividendDate': 1598572800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 70.06715,
+ 'fiftyTwoWeekHigh': 80.62,
+ 'fiftyTwoWeekLow': 46.81,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.71,
+ 'floatShares': 764073282,
+ 'forwardEps': 4.15,
+ 'forwardPE': 17.190361,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 19000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00116,
+ 'heldPercentInstitutions': 0.76039004,
+ 'industry': 'Railroads',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1308182400,
+ 'lastSplitFactor': '3:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/csx.com',
+ 'longBusinessSummary': 'CSX Corporation, together with its subsidiaries, '
+                        'provides rail-based freight transportation services. '
+                        'The company offers rail services; and transportation '
+                        'of intermodal containers and trailers, as well as '
+                        'other transportation services, such as rail-to-truck '
+                        'transfers and bulk commodity operations. It '
+                        'transports chemicals, automotive, agricultural and '
+                        'food products, minerals, fertilizers, forest '
+                        'products, and metals and equipment; and coal, coke, '
+                        'and iron ore to electricity-generating power plants, '
+                        'steel manufacturers, and industrial plants, as well '
+                        'as exports coal to deep-water port facilities. The '
+                        'company also offers intermodal transportation '
+                        'services through a network of approximately 30 '
+                        'terminals transporting manufactured consumer goods in '
+                        'containers; drayage services, including the pickup '
+                        'and delivery of intermodal shipments; and trucking '
+                        'dispatch services. In addition, it serves the '
+                        'automotive industry with distribution centers and '
+                        'storage locations, as well as connects non-rail '
+                        'served customers through transferring products from '
+                        'rail to trucks, which includes plastics and ethanol. '
+                        'The company operates approximately 20,000 route mile '
+                        'rail network, which serves various population centers '
+                        'in 23 states east of the Mississippi River, the '
+                        'District of Columbia, and the Canadian provinces of '
+                        'Ontario and Quebec, as well as owns and leases '
+                        'approximately 3,561 locomotives. It also serves '
+                        'production and distribution facilities through track '
+                        'connections. CSX Corporation was incorporated in 1978 '
+                        'and is headquartered in Jacksonville, Florida.',
+ 'longName': 'CSX Corporation',
+ 'market': 'us_market',
+ 'marketCap': 54608338944,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_257948',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 2896000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 71.75,
+ 'openInterest': None,
+ 'payoutRatio': 0.2688,
+ 'pegRatio': 5.65,
+ 'phone': '904-359-3200',
+ 'previousClose': 71.53,
+ 'priceHint': 2,
+ 'priceToBook': 4.4921603,
+ 'priceToSalesTrailing12Months': 4.9766097,
+ 'profitMargins': 0.26392,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 72.61,
+ 'regularMarketDayLow': 71.25,
+ 'regularMarketOpen': 71.75,
+ 'regularMarketPreviousClose': 71.53,
+ 'regularMarketPrice': 71.75,
+ 'regularMarketVolume': 2925145,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 765465984,
+ 'sharesPercentSharesOut': 0.0086,
+ 'sharesShort': 6545258,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7846087,
+ 'shortName': 'CSX Corporation',
+ 'shortPercentOfFloat': 0.0086,
+ 'shortRatio': 1.59,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'CSX',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1,
+ 'trailingAnnualDividendYield': 0.013980148,
+ 'trailingEps': 3.723,
+ 'trailingPE': 19.161964,
+ 'twoHundredDayAverage': 68.32928,
+ 'volume': 2925145,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.csx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '32202'}

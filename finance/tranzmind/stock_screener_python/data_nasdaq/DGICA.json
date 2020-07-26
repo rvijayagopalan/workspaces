@@ -1,0 +1,155 @@
+{'52WeekChange': -0.023321569,
+ 'SandP52WeekChange': None,
+ 'address1': '1195 River Road',
+ 'address2': 'P.O. Box 302',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.49,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 19787,
+ 'averageVolume': 40028,
+ 'averageVolume10days': 19787,
+ 'beta': -0.049299,
+ 'beta3Year': None,
+ 'bid': 11.99,
+ 'bidSize': 800,
+ 'bookValue': 15.916,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Marietta',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.98,
+ 'dayLow': 13.6,
+ 'dividendRate': 0.6,
+ 'dividendYield': 0.0434,
+ 'earningsQuarterlyGrowth': -0.838,
+ 'enterpriseToEbitda': 9.078,
+ 'enterpriseToRevenue': 0.462,
+ 'enterpriseValue': 361551360,
+ 'exDividendDate': 1596153600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 13.789143,
+ 'fiftyTwoWeekHigh': 16.19,
+ 'fiftyTwoWeekLow': 11.22,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.73,
+ 'floatShares': 13794558,
+ 'forwardEps': 1.3,
+ 'forwardPE': 10.507692,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.05203,
+ 'heldPercentInstitutions': 0.8203,
+ 'industry': 'Insurance—Property & Casualty',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1146096000,
+ 'lastSplitFactor': '4:3',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/donegalgroup.com',
+ 'longBusinessSummary': 'Donegal Group Inc., an insurance holding company, '
+                        'provides personal and commercial lines of property '
+                        'and casualty insurance to businesses and individuals '
+                        'in the Mid-Atlantic, Midwestern, New England, and '
+                        'southern states. It operates through four segments: '
+                        'Investment Function, Personal Lines of Insurance, and '
+                        'Commercial Lines of Insurance. The company offers '
+                        'private passenger automobile policies that provide '
+                        'protection against liability for bodily injury and '
+                        'property damage arising from automobile accidents, as '
+                        'well as protection against loss from damage to '
+                        'automobiles. It also offers homeowners policies, '
+                        'which provide coverage for damage to residences and '
+                        'their contents from a range of perils, including '
+                        'fire, lightning, windstorm, and theft; and liability '
+                        'of the insured arising from injury to other persons '
+                        'or their property. In addition, the company offers '
+                        'commercial automobile policies that provide '
+                        'protection against liability for bodily injury and '
+                        'property damage arising from automobile accidents and '
+                        'protection against loss from damage to automobiles '
+                        'owned by the insured; commercial multi-peril policies '
+                        'that provide protection to businesses against various '
+                        'perils, primarily combining liability and physical '
+                        "damage coverages; and workers' compensation policies, "
+                        'which provide benefits to employees for injuries '
+                        'sustained during employment. The company markets its '
+                        'insurance products through a network of approximately '
+                        '2,400 independent insurance agencies. Donegal Group '
+                        'Inc. was founded in 1986 and is headquartered in '
+                        'Marietta, Pennsylvania. Donegal Group Inc. is a '
+                        'subsidiary of Donegal Mutual Insurance Company.',
+ 'longName': 'Donegal Group Inc.',
+ 'market': 'us_market',
+ 'marketCap': 382385728,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_267024',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 27859700,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.85,
+ 'openInterest': None,
+ 'payoutRatio': 0.65910006,
+ 'pegRatio': 1.11,
+ 'phone': '717-426-1931',
+ 'previousClose': 13.82,
+ 'priceHint': 2,
+ 'priceToBook': 0.8582558,
+ 'priceToSalesTrailing12Months': 0.48857892,
+ 'profitMargins': 0.0356,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.98,
+ 'regularMarketDayLow': 13.6,
+ 'regularMarketOpen': 13.85,
+ 'regularMarketPreviousClose': 13.82,
+ 'regularMarketPrice': 13.85,
+ 'regularMarketVolume': 13268,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 23453400,
+ 'sharesPercentSharesOut': 0.0056,
+ 'sharesShort': 161664,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 105101,
+ 'shortName': 'Donegal Group, Inc.',
+ 'shortPercentOfFloat': 0.0121,
+ 'shortRatio': 3.77,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'DGICA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.51,
+ 'trailingAnnualDividendYield': 0.03690304,
+ 'trailingEps': 0.964,
+ 'trailingPE': 14.170124,
+ 'twoHundredDayAverage': 14.130863,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '0a5f6c91-d2fa-36ce-8b84-3af2db0a2cb5',
+ 'volume': 13268,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.donegalgroup.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '17547'}

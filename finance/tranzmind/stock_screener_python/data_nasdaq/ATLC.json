@@ -1,0 +1,157 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': 'Five Concourse Parkway',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.19,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 8950,
+ 'averageVolume': 26917,
+ 'averageVolume10days': 8950,
+ 'beta': 0.810084,
+ 'beta3Year': None,
+ 'bid': 9.24,
+ 'bidSize': 2200,
+ 'bookValue': 0.235,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Atlanta',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9.86,
+ 'dayLow': 9.23,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.05,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 14.495,
+ 'enterpriseValue': 880976128,
+ 'exDividendDate': 1262044800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 11.497714,
+ 'fiftyTwoWeekHigh': 18.36,
+ 'fiftyTwoWeekLow': 4.65,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 5081589,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 314,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.57985,
+ 'heldPercentInstitutions': 0.15517999,
+ 'industry': 'Credit Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/atlanticus.com',
+ 'longBusinessSummary': 'Atlanticus Holdings Corporation provides credit and '
+                        'related financial services and products to '
+                        'financially underserved consumer credit market in the '
+                        'United States. It operates in two segments, Credit '
+                        'and Other Investments, and Auto Finance. The Credit '
+                        'and Other Investments segment originates a range of '
+                        'consumer loan products, such as retail credit and '
+                        'credit cards through various channels, including '
+                        'retail point-of-sale, direct mail solicitation, '
+                        'digital marketing, and partnerships with third '
+                        'parties; and offers credit to their customers for the '
+                        'purchase of various goods and services, including '
+                        'consumer electronics, furniture, elective medical '
+                        'procedures, healthcare, educational services, and '
+                        'home-improvements by partnering with retailers and '
+                        'service providers. This segment also invests in and '
+                        'services portfolios of credit card receivables. In '
+                        'addition, it offers loan servicing, such as risk '
+                        'management and customer service outsourcing for third '
+                        'parties; and engages in testing and investment '
+                        'activities in consumer finance technology platforms. '
+                        'The Auto Finance segment purchases and/or services '
+                        'loans secured by automobiles from or for a '
+                        'pre-qualified network of independent automotive '
+                        'dealers and automotive finance companies in the '
+                        'buy-here, pay-here, and used car business. This '
+                        'segment also provides floor plan financing and '
+                        'installment lending products. The company was '
+                        'formerly known as CompuCredit Holdings Corporation '
+                        'and changed its name to Atlanticus Holdings '
+                        'Corporation in November 2012. Atlanticus Holdings '
+                        'Corporation was founded in 1996 and is headquartered '
+                        'in Atlanta, Georgia.',
+ 'longName': 'Atlanticus Holdings Corporation',
+ 'market': 'us_market',
+ 'marketCap': 146447792,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_400461',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 22243000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 9.65,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '770-828-2000',
+ 'previousClose': 9.9,
+ 'priceHint': 2,
+ 'priceToBook': 39.276592,
+ 'priceToSalesTrailing12Months': 2.409513,
+ 'profitMargins': 0.43033,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9.86,
+ 'regularMarketDayLow': 9.23,
+ 'regularMarketOpen': 9.65,
+ 'regularMarketPreviousClose': 9.9,
+ 'regularMarketPrice': 9.65,
+ 'regularMarketVolume': 12954,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 15919400,
+ 'sharesPercentSharesOut': 0.0544,
+ 'sharesShort': 863193,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 799965,
+ 'shortName': 'Atlanticus Holdings Corporation',
+ 'shortPercentOfFloat': 0.32860002,
+ 'shortRatio': 19.47,
+ 'startDate': None,
+ 'state': 'GA',
+ 'strikePrice': None,
+ 'symbol': 'ATLC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.39,
+ 'trailingPE': 6.6402874,
+ 'twoHundredDayAverage': 12.29777,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'aeead6a7-0bf8-39c8-bf8d-db5eb0ed63cd',
+ 'volume': 12954,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.atlanticus.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '30328'}

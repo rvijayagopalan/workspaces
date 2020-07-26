@@ -1,0 +1,153 @@
+{'52WeekChange': -0.1586613,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Building 1',
+ 'address2': '900 Middlesex Turnpike',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27.16,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 174625,
+ 'averageVolume': 179136,
+ 'averageVolume10days': 174625,
+ 'beta': 1.760043,
+ 'beta3Year': None,
+ 'bid': 26.25,
+ 'bidSize': 1000,
+ 'bookValue': 4.215,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Billerica',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 30,
+ 'dayLow': 27,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -18.807,
+ 'enterpriseToRevenue': 11.691,
+ 'enterpriseValue': 702938496,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 27.408857,
+ 'fiftyTwoWeekHigh': 32.82,
+ 'fiftyTwoWeekLow': 10.895,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 19436913,
+ 'forwardEps': -1.35,
+ 'forwardPE': -20.11111,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 248,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.09313,
+ 'heldPercentInstitutions': 0.86616,
+ 'industry': 'Medical Devices',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/quanterix.com',
+ 'longBusinessSummary': 'Quanterix Corporation, a life sciences company, '
+                        'develops and markets digital immunoassay platforms '
+                        'that advances precision health for life sciences '
+                        'research and diagnostics in North America, Europe, '
+                        'the Middle East, Africa, and the Asia Pacific. The '
+                        'company offers HD-X instrument, a sensitive automated '
+                        'multiplex protein detection platform; and SR-X '
+                        'instrument that enables researchers to apply Simoa '
+                        'detection technology in various applications, '
+                        'including direct detection of nucleic acids. It also '
+                        'develops SP-X instrument that is based on Simoa '
+                        'planar array technology for the measurement of '
+                        'multiplex chemiluminescent immunoassays. The '
+                        "company's products include kits, such as beads, "
+                        'capture and detector reagents, enzyme reagents, and '
+                        'enzyme substrates to run tests; and consumables, such '
+                        'as proprietary Simoa disks, cuvettes, and disposable '
+                        'tips. In addition, it offers contract research '
+                        'services, including sample testing, homebrew assay '
+                        'development, and custom development services. The '
+                        'company primarily operates in the areas of neurology, '
+                        'oncology, cardiology, infectious diseases, and '
+                        'inflammation. It sell its products for the life '
+                        'science research sector primarily to laboratories '
+                        'associated with academic and governmental research '
+                        'institutions, as well as pharmaceutical, '
+                        'biotechnology, and contract research companies '
+                        'through a direct sales force, support organizations, '
+                        'and distributors or sales agents. The company was '
+                        'formerly known as Digital Genomics, Inc. and changed '
+                        'its name to Quanterix Corporation in August 2007. '
+                        'Quanterix Corporation was incorporated in 2007 and is '
+                        'headquartered in Billerica, Massachusetts.',
+ 'longName': 'Quanterix Corporation',
+ 'market': 'us_market',
+ 'marketCap': 768643648,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_47689694',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -43001000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 29.79,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '617 301 9400',
+ 'previousClose': 30.05,
+ 'priceHint': 2,
+ 'priceToBook': 6.441281,
+ 'priceToSalesTrailing12Months': 12.784307,
+ 'profitMargins': -0.71519995,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 30,
+ 'regularMarketDayLow': 27,
+ 'regularMarketOpen': 29.79,
+ 'regularMarketPreviousClose': 30.05,
+ 'regularMarketPrice': 29.79,
+ 'regularMarketVolume': 192743,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 28311000,
+ 'sharesPercentSharesOut': 0.0428,
+ 'sharesShort': 1210470,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1055307,
+ 'shortName': 'Quanterix Corporation',
+ 'shortPercentOfFloat': 0.0746,
+ 'shortRatio': 6.65,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'QTRX',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.621,
+ 'twoHundredDayAverage': 24.615612,
+ 'volume': 192743,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.quanterix.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01821'}

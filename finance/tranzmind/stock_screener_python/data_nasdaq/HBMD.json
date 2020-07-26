@@ -1,0 +1,153 @@
+{'52WeekChange': -0.30748296,
+ 'SandP52WeekChange': None,
+ 'address1': '3301 Boston Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 10.02,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 70237,
+ 'averageVolume': 47614,
+ 'averageVolume10days': 70237,
+ 'beta': 0.603921,
+ 'beta3Year': None,
+ 'bid': 9.5,
+ 'bidSize': 1400,
+ 'bookValue': 16.851,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Baltimore',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 10.245,
+ 'dayLow': 9.88,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.215,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.657,
+ 'enterpriseValue': 384955776,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.151428,
+ 'fiftyTwoWeekHigh': 19.2,
+ 'fiftyTwoWeekLow': 8.44,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 14208756,
+ 'forwardEps': 0.55,
+ 'forwardPE': 18.181818,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 250,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.18899,
+ 'heldPercentInstitutions': 0.57063997,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/howardbank.com',
+ 'longBusinessSummary': 'Howard Bancorp, Inc. operates as the bank holding '
+                        'company for Howard Bank that provides commercial '
+                        'banking, mortgage banking, and consumer finance '
+                        'products and services to businesses, business owners, '
+                        'professionals, and other consumers. The company '
+                        'offers various consumer and business deposit '
+                        'products, including demand, money market, savings, '
+                        'individual retirement, and commercial and retail '
+                        'checking accounts, as well as certificates of '
+                        'deposit. It also provides commercial loans, such as '
+                        'lines of credit, revolving credit facilities, '
+                        'accounts receivable and inventory financing, term '
+                        'loans, equipment loans, small business administration '
+                        'loans, stand-by letters of credit, and unsecured '
+                        'loans, as well as equipment lease services; '
+                        'commercial mortgage loans for owner occupied and '
+                        'investment properties; construction loans; '
+                        'residential mortgage loans; and secured and unsecured '
+                        'consumer loans. In addition, the company offers wire '
+                        'transfer services; automated teller machines and '
+                        'check cards; and safe deposit boxes, as well as '
+                        'credit cards through a third party processor. '
+                        'Further, it provides Internet banking, merchant card, '
+                        'overnight sweep, and remote deposit capture services; '
+                        'and online and mobile banking services. As of '
+                        'December 31, 2019, the company operated through a '
+                        'network of 16 full service branches, as well as eight '
+                        'mortgage and commercial lending offices located in '
+                        'Maryland. Howard Bancorp, Inc. was founded in 2004 '
+                        'and is headquartered in Baltimore, Maryland.',
+ 'longName': 'Howard Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 187156992,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_26507187',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 15968000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 10.05,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '410-750-0020',
+ 'previousClose': 10.18,
+ 'priceHint': 2,
+ 'priceToBook': 0.5934366,
+ 'priceToSalesTrailing12Months': 2.2640963,
+ 'profitMargins': 0.19317,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 10.245,
+ 'regularMarketDayLow': 9.88,
+ 'regularMarketOpen': 10.05,
+ 'regularMarketPreviousClose': 10.18,
+ 'regularMarketPrice': 10.05,
+ 'regularMarketVolume': 18667,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 18715700,
+ 'sharesPercentSharesOut': 0.0085,
+ 'sharesShort': 159695,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 138899,
+ 'shortName': 'Howard Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0143,
+ 'shortRatio': 2.62,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'HBMD',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.839,
+ 'trailingPE': 11.918951,
+ 'twoHundredDayAverage': 12.424316,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'bc772bc0-1fb7-3807-ac8e-b6e37e0d82fa',
+ 'volume': 18667,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.howardbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '21224'}

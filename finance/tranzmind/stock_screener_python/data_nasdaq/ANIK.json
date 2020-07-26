@@ -1,0 +1,156 @@
+{'52WeekChange': -0.3315218,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '32 Wiggins Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 36.76,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 97150,
+ 'averageVolume': 150382,
+ 'averageVolume10days': 97150,
+ 'beta': 1.179271,
+ 'beta3Year': None,
+ 'bid': 35.65,
+ 'bidSize': 800,
+ 'bookValue': 20.686,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Bedford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 36.27,
+ 'dayLow': 35.44,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.285,
+ 'enterpriseToEbitda': 10.281,
+ 'enterpriseToRevenue': 3.498,
+ 'enterpriseValue': 438204064,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '781-305-9720',
+ 'fiftyDayAverage': 35.724285,
+ 'fiftyTwoWeekHigh': 75.72,
+ 'fiftyTwoWeekLow': 22.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 13304405,
+ 'forwardEps': 1.16,
+ 'forwardPE': 30.75,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 154,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.040430002,
+ 'heldPercentInstitutions': 0.99609,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/anikatherapeutics.com',
+ 'longBusinessSummary': 'Anika Therapeutics, Inc., together with its '
+                        'subsidiaries, provides orthopedic medicines for '
+                        'patients with degenerative orthopedic diseases and '
+                        'traumatic conditions in the United States and '
+                        'internationally. The company develops, manufactures, '
+                        'and commercializes therapeutic products based on its '
+                        'proprietary hyaluronic acid (HA) technology. Its '
+                        'orthobiologics products comprise ORTHOVISC, ORTHOVISC '
+                        'mini, MONOVISC, and CINGAL for the treatment of '
+                        'osteoarthritis of the knee; HYALOFAST, a '
+                        'biodegradable support for human bone marrow '
+                        'mesenchymal stem cells used for cartilage '
+                        'regeneration and as an adjunct for microfracture '
+                        'surgery; HYALONECT, a resorbable knitted fabric mesh; '
+                        'HYALOSS MATRIX, HYAFF fibers used to mix blood/bone '
+                        'grafts to form a paste for bone regeneration; and '
+                        'HYALOGLIDE, an ACP gel used in tenolysis treatment. '
+                        "The company's dermal products include wound care "
+                        'products that comprise HYALOMATRIX and HYALOFILL for '
+                        'the treatment of complex wounds, such as burns and '
+                        'ulcers, and for use in connection with the '
+                        'regeneration of skin; and ELEVESS, an aesthetic '
+                        'dermatology product. Its surgical products comprise '
+                        'HYALOBARRIER, a post-operative adhesion barrier for '
+                        'use in the abdomino-pelvic area; MEROGEL, a woven '
+                        'fleece nasal packing; and MEROGEL INJECTABLE, a '
+                        'viscous hydrogel. The company also offers ophthalmic '
+                        'products, including injectable HA products that are '
+                        'used as viscoelastic agents in ophthalmic surgical '
+                        'procedures, such as cataract extraction and '
+                        'intraocular lens implantation; and veterinary '
+                        'products, which include HYVISC, an injectable HA '
+                        'product for the treatment of joint dysfunction in '
+                        'horses. The company was founded in 1983 and is '
+                        'headquartered in Bedford, Massachusetts.',
+ 'longName': 'Anika Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 506596000,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_328641',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 28479000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 36.27,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -72.94,
+ 'phone': '781-457-9000',
+ 'previousClose': 36.47,
+ 'priceHint': 2,
+ 'priceToBook': 1.7243545,
+ 'priceToSalesTrailing12Months': 4.043581,
+ 'profitMargins': 0.22732,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 36.27,
+ 'regularMarketDayLow': 35.44,
+ 'regularMarketOpen': 36.27,
+ 'regularMarketPreviousClose': 36.47,
+ 'regularMarketPrice': 36.27,
+ 'regularMarketVolume': 85674,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 14202300,
+ 'sharesPercentSharesOut': 0.14850001,
+ 'sharesShort': 2109139,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2049523,
+ 'shortName': 'Anika Therapeutics Inc.',
+ 'shortPercentOfFloat': 0.17629999,
+ 'shortRatio': 14.18,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'ANIK',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.979,
+ 'trailingPE': 18.024254,
+ 'twoHundredDayAverage': 36.309063,
+ 'volume': 85674,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.anikatherapeutics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01730'}

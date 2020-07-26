@@ -1,0 +1,165 @@
+{'52WeekChange': -0.354028,
+ 'SandP52WeekChange': None,
+ 'address1': 'Fifth Third Center',
+ 'address2': '38 Fountain Square Plaza',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 19.55,
+ 'askSize': 2900,
+ 'averageDailyVolume10Day': 5973612,
+ 'averageVolume': 8129300,
+ 'averageVolume10days': 5973612,
+ 'beta': 1.733333,
+ 'beta3Year': None,
+ 'bid': 18.98,
+ 'bidSize': 4000,
+ 'bookValue': 28.875,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cincinnati',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 19.88,
+ 'dayLow': 19.375,
+ 'dividendRate': 1.08,
+ 'dividendYield': 0.0557,
+ 'earningsQuarterlyGrowth': -0.57,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.514,
+ 'enterpriseValue': 29813426176,
+ 'exDividendDate': 1593388800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '513-534-0629',
+ 'fiftyDayAverage': 19.996857,
+ 'fiftyTwoWeekHigh': 31.64,
+ 'fiftyTwoWeekLow': 11.1,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.76,
+ 'floatShares': 709025579,
+ 'forwardEps': 2.05,
+ 'forwardPE': 9.531708,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 20340,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0029499999,
+ 'heldPercentInstitutions': 0.80017,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 963792000,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/53.com',
+ 'longBusinessSummary': 'Fifth Third Bancorp operates as a diversified '
+                        'financial services company in the United States. The '
+                        "company's Commercial Banking segment offers credit "
+                        'intermediation, cash management, and financial '
+                        'services; lending and depository products; and cash '
+                        'management, foreign exchange and international trade '
+                        'finance, derivatives and capital markets services, '
+                        'asset-based lending, real estate finance, public '
+                        'finance, commercial leasing, and syndicated finance '
+                        'for business, government, and professional customers. '
+                        'Its Branch Banking segment provides a range of '
+                        'deposit and loan products to individuals and small '
+                        'businesses. This segment offers checking and savings '
+                        'accounts, home equity loans and lines of credit, '
+                        'credit cards, and loans for automobiles and personal '
+                        'financing needs, as well as cash management services '
+                        "for small businesses. The company's Consumer Lending "
+                        'segment engages in direct lending activities that '
+                        'include origination, retention, and servicing of '
+                        'residential mortgage and home equity loans or lines '
+                        'of credit; and indirect lending activities, including '
+                        'loans to consumers through correspondent lenders and '
+                        "automobile dealers. Fifth Third Bancorp's Wealth & "
+                        'Asset Management segment provides various investment '
+                        'alternatives for individuals, companies, and '
+                        'not-for-profit organizations. It offers retail '
+                        'brokerage services to individual clients; and broker '
+                        'dealer services to the institutional marketplace. '
+                        'This segment also provides asset management services; '
+                        'wealth planning, investment management, insurance, '
+                        'and trust and estate services; and advisory services '
+                        'for institutional clients. As of April 14, 2020, the '
+                        'company operated 1,149 banking centers and 2,481 ATMs '
+                        'in Ohio, Kentucky, Indiana, Michigan, Illinois, '
+                        'Florida, Tennessee, West Virginia, Georgia, and North '
+                        'Carolina. Fifth Third Bancorp has a strategic '
+                        'relationship with Trust & Will to provide savings on '
+                        'Will and Trust-based estate plans. The company was '
+                        'founded in 1858 and is headquartered in Cincinnati, '
+                        'Ohio.',
+ 'longName': 'Fifth Third Bancorp',
+ 'market': 'us_market',
+ 'marketCap': 13910761472,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_270961',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1412999936,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 19.55,
+ 'openInterest': None,
+ 'payoutRatio': 0.44,
+ 'pegRatio': -4.36,
+ 'phone': '800-972-3030',
+ 'previousClose': 19.405,
+ 'priceHint': 2,
+ 'priceToBook': 0.67671,
+ 'priceToSalesTrailing12Months': 2.1060956,
+ 'profitMargins': 0.23119,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 19.88,
+ 'regularMarketDayLow': 19.375,
+ 'regularMarketOpen': 19.55,
+ 'regularMarketPreviousClose': 19.405,
+ 'regularMarketPrice': 19.55,
+ 'regularMarketVolume': 6641556,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 711912000,
+ 'sharesPercentSharesOut': 0.0212,
+ 'sharesShort': 15073498,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 12697795,
+ 'shortName': 'Fifth Third Bancorp',
+ 'shortPercentOfFloat': 0.0235,
+ 'shortRatio': 1.48,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'FITB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.02,
+ 'trailingAnnualDividendYield': 0.052563768,
+ 'trailingEps': 1.951,
+ 'trailingPE': 10.015377,
+ 'twoHundredDayAverage': 21.15151,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'd1308428-6d07-3634-a9db-5e60d0807a23',
+ 'volume': 6641556,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.53.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '45263'}

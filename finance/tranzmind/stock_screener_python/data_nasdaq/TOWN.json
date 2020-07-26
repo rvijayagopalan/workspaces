@@ -1,0 +1,158 @@
+{'52WeekChange': -0.3437612,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '5716 High Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 18.33,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 180300,
+ 'averageVolume': 204047,
+ 'averageVolume10days': 180300,
+ 'beta': 1.183753,
+ 'beta3Year': None,
+ 'bid': 17.46,
+ 'bidSize': 1100,
+ 'bookValue': 23.791,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Portsmouth',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 19,
+ 'dayLow': 18.17,
+ 'dividendRate': 0.72,
+ 'dividendYield': 0.0383,
+ 'earningsQuarterlyGrowth': -0.001,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 6.421,
+ 'enterpriseValue': 3511194880,
+ 'exDividendDate': 1593388800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 18.451714,
+ 'fiftyTwoWeekHigh': 29.02,
+ 'fiftyTwoWeekLow': 15.03,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.22,
+ 'floatShares': 65456774,
+ 'forwardEps': 0.98,
+ 'forwardPE': 18.622448,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2446,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.09584,
+ 'heldPercentInstitutions': 0.49557,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1337731200,
+ 'lastSplitFactor': '103:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/townebank.com',
+ 'longBusinessSummary': 'TowneBank provides retail and commercial banking '
+                        'services for individuals, professionals, and '
+                        'commercial enterprises. The company operates in three '
+                        'segments: Banking, Realty, and Insurance. It accepts '
+                        'various deposits products, including demand deposits, '
+                        'savings accounts, money rate savings, certificates of '
+                        'deposit, and individual retirement accounts. The '
+                        'company also offers secured and unsecured personal '
+                        'loans for financing automobiles, home improvements, '
+                        'education, and personal investments; commercial loans '
+                        'for working capital, business expansion, and '
+                        'equipment and machinery purchases; and mortgage '
+                        'loans, as well as real estate acquisition, '
+                        'development, and construction loans. In addition, it '
+                        'provides other services, such as safe deposit boxes, '
+                        'treasury management services, direct deposit of '
+                        'payroll and social security checks, and automatic '
+                        'drafts for various accounts, as well as online, '
+                        'mobile, and on-call banking services. Further, the '
+                        'company offers documentation services to accomplish '
+                        'tax deferral to investors; investment and asset '
+                        'management services; commercial mortgage brokerage '
+                        'services; and other financial services, such as '
+                        'financial, retirement, and estate planning services, '
+                        'as well as assistance on various investment options, '
+                        'such as alternative investments, annuities, margin '
+                        'accounts, convertible bonds, and pension and profit '
+                        'sharing plans. Additionally, it provides residential '
+                        'real estate, relocation, property management, '
+                        'vacations rental, and title and settlement services; '
+                        'and originates residential mortgage loans. The '
+                        'company offers life, property, casualty, travel, and '
+                        'vehicle insurance services; medical, and baggage '
+                        'protection insurance for travelers; and employee '
+                        'benefit programs, such as health, dental, vision, and '
+                        'disability insurance. It operates 42 banking offices '
+                        'in Virginia and North Carolina. TowneBank was founded '
+                        'in 1998 and is headquartered in Portsmouth, Virginia.',
+ 'longName': 'TowneBank',
+ 'market': 'us_market',
+ 'marketCap': 1325229184,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2111301',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 133725000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 18.85,
+ 'openInterest': None,
+ 'payoutRatio': 0.39130002,
+ 'pegRatio': None,
+ 'phone': '757-638-7500',
+ 'previousClose': 18.81,
+ 'priceHint': 2,
+ 'priceToBook': 0.7670968,
+ 'priceToSalesTrailing12Months': 2.423458,
+ 'profitMargins': 0.24454,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 19,
+ 'regularMarketDayLow': 18.17,
+ 'regularMarketOpen': 18.85,
+ 'regularMarketPreviousClose': 18.81,
+ 'regularMarketPrice': 18.85,
+ 'regularMarketVolume': 172081,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 72615296,
+ 'sharesPercentSharesOut': 0.0114,
+ 'sharesShort': 825837,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 604681,
+ 'shortName': 'Towne Bank',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 3.47,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'TOWN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.72,
+ 'trailingAnnualDividendYield': 0.038277514,
+ 'trailingEps': 1.84,
+ 'trailingPE': 9.918478,
+ 'twoHundredDayAverage': 20.97705,
+ 'volume': 172081,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.townebank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '23703'}

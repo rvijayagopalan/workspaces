@@ -1,0 +1,152 @@
+{'52WeekChange': 1.7432432,
+ 'SandP52WeekChange': None,
+ 'address1': '21 Erie Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 19.27,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 238175,
+ 'averageVolume': 354925,
+ 'averageVolume10days': 238175,
+ 'beta': 2.180505,
+ 'beta3Year': None,
+ 'bid': 19,
+ 'bidSize': 800,
+ 'bookValue': 1.702,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 20.4,
+ 'dayLow': 19.22,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -13.398,
+ 'enterpriseToRevenue': 126.089,
+ 'enterpriseValue': 502884480,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 23.586,
+ 'fiftyTwoWeekHigh': 31.69,
+ 'fiftyTwoWeekLow': 6.95,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 19460625,
+ 'forwardEps': -1.74,
+ 'forwardPE': -11.057471,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 45,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.15235,
+ 'heldPercentInstitutions': 0.43418998,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cuebiopharma.com',
+ 'longBusinessSummary': 'Cue Biopharma, Inc., a biopharmaceutical company, '
+                        'develops biologic drugs for the selective modulation '
+                        'of the human immune system to treat a range of '
+                        'cancers, chronic infectious diseases, and autoimmune '
+                        'disorders. Its lead drug candidate CUE-101, a protein '
+                        'biologic that is in Phase I clinical trials designed '
+                        'to target and activate antigen-specific T cells for '
+                        'human papilloma virus driven cancers. The company '
+                        'offers CUE-102, an onco-fetal viral antigen for '
+                        'cancers, including solid tumors and hematologic '
+                        'malignancies; CUE-103, an antigen; CUE-200 framework '
+                        'that includes CD80 and/or 4-1BBL to reactivate '
+                        'exhausted T cells and design to enhance '
+                        'antigen-specific T cell for the treatment of chronic '
+                        'infectious diseases; and CUE-300 framework to target '
+                        'various autoimmune diseases. It has collaboration '
+                        'agreements with Merck Sharp & Dohme Corp. for the '
+                        'research and development of its proprietary biologics '
+                        'that target various autoimmune disease indications; '
+                        'LG Chem Life Sciences for Immuno-selective targeting '
+                        'and alteration of T cells (STAT) in the field of '
+                        'oncology; and Albert Einstein College of Medicine to '
+                        'develop Immuno-STAT biologics for chronic infectious '
+                        'diseases, as well as a strategic research '
+                        'collaboration with Dr. Michael Dustin and Oxford '
+                        'University. The company was formerly known as Imagen '
+                        'Biopharma, Inc. and changed its name to Cue '
+                        'Biopharma, Inc. in October 2016. Cue Biopharma, Inc. '
+                        'was incorporated in 2014 and is headquartered in '
+                        'Cambridge, Massachusetts.',
+ 'longName': 'Cue Biopharma, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 547374144,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_417883814',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -38249956,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 20.1,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '617 949 2680',
+ 'previousClose': 20.3,
+ 'priceHint': 2,
+ 'priceToBook': 11.304348,
+ 'priceToSalesTrailing12Months': 137.24391,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 20.4,
+ 'regularMarketDayLow': 19.22,
+ 'regularMarketOpen': 20.1,
+ 'regularMarketPreviousClose': 20.3,
+ 'regularMarketPrice': 20.1,
+ 'regularMarketVolume': 391467,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 28449800,
+ 'sharesPercentSharesOut': 0.061100002,
+ 'sharesShort': 1738344,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 622029,
+ 'shortName': 'Cue Biopharma, Inc.',
+ 'shortPercentOfFloat': 0.063200004,
+ 'shortRatio': 4.02,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'CUE',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.627,
+ 'twoHundredDayAverage': 20.511906,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '13b1e122-c7bb-3180-b359-74c89c132432',
+ 'volume': 391467,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cuebiopharma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02139'}

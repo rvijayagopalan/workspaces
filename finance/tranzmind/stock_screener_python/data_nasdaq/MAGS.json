@@ -1,0 +1,165 @@
+{'52WeekChange': -0.37659568,
+ 'SandP52WeekChange': None,
+ 'address1': '17 Altalef Street',
+ 'address2': 'Industrial Zone PO Box 70',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.04,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 43237,
+ 'averageVolume': 48034,
+ 'averageVolume10days': 43237,
+ 'beta': 1.07563,
+ 'beta3Year': None,
+ 'bid': 2.91,
+ 'bidSize': 900,
+ 'bookValue': 3.619,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Yehud',
+ 'companyOfficers': [],
+ 'country': 'Israel',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.99,
+ 'dayLow': 2.88,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 2.563,
+ 'enterpriseToRevenue': 0.243,
+ 'enterpriseValue': 20167176,
+ 'exDividendDate': 1073520000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '972 3 536 6345',
+ 'fiftyDayAverage': 2.9845715,
+ 'fiftyTwoWeekHigh': 4.85,
+ 'fiftyTwoWeekLow': 2.46,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 13285988,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 421,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00059999997,
+ 'heldPercentInstitutions': 0.6222,
+ 'industry': 'Security & Protection Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1091318400,
+ 'lastSplitFactor': '1:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/magalsecurity.com',
+ 'longBusinessSummary': 'Magal Security Systems Ltd. develops, manufactures, '
+                        'markets, and sells perimeter intrusion detection '
+                        'sensors, physical barriers, video analytics and '
+                        'management systems, cyber security products and '
+                        'systems, and security video observation and '
+                        'surveillance systems. It operates through three '
+                        'segments: Perimeter Products, Turnkey Projects, and '
+                        'Video and Cyber Security. The company offers '
+                        'perimeter security products that enable customers to '
+                        'monitor, limit, and control access by unauthorized '
+                        'personnel to specific regions or areas. Its perimeter '
+                        'security systems include fence mounted detection '
+                        'systems; detection grids, gates, and fences to '
+                        'protect water passages, VIP residences, and other '
+                        'outdoor applications; buried sensors; hybrid '
+                        'perimeter intrusion detection and intelligent '
+                        'lighting systems; electrical field disturbance '
+                        'sensors; and microwave sensors. The company also '
+                        'provides integrated intelligent video management '
+                        'solutions for security surveillance and business '
+                        'intelligence applications; and cyber-security '
+                        'products for monitoring, securing, and the active '
+                        'management of wired, wireless, and fiber optic '
+                        'communication networks, as well as turnkey solutions. '
+                        'In addition, it offers RoboGuard, a platform that '
+                        'runs on a rail along the perimeter of protected '
+                        'sites; and life safety/duress alarm to protect '
+                        'personnel in prisons. Further, the company provides '
+                        'closed circuit television and intelligent video '
+                        'analytics solutions; Fortis4G, a fourth generation '
+                        'command and control system; StarNet 2, a security '
+                        'management system; and Network Manager, a middleware '
+                        'package. Its products are used to protect borders, '
+                        'military bases, power plants, air and sea ports, '
+                        'postal facilities, prisons, banks, retail operations, '
+                        'hospitals, municipal security, sporting events, and '
+                        'industrial locations from terrorism, theft, and '
+                        'security threats. The company sells its products '
+                        'through system integrators and distribution channels. '
+                        'The company was founded in 1965 and is headquartered '
+                        'in Yehud, Israel.',
+ 'longName': 'Magal Security Systems Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 69230464,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_325220',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 2709000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.94,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '972 3 539 1444',
+ 'previousClose': 2.93,
+ 'priceHint': 4,
+ 'priceToBook': 0.8261951,
+ 'priceToSalesTrailing12Months': 0.8332587,
+ 'profitMargins': 0.03954,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.99,
+ 'regularMarketDayLow': 2.88,
+ 'regularMarketOpen': 2.94,
+ 'regularMarketPreviousClose': 2.93,
+ 'regularMarketPrice': 2.94,
+ 'regularMarketVolume': 18306,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 23154000,
+ 'sharesPercentSharesOut': 0.0004,
+ 'sharesShort': 9811,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 8902,
+ 'shortName': 'Magal Security Systems Ltd.',
+ 'shortPercentOfFloat': 0.0007,
+ 'shortRatio': 0.27,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'MAGS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.113,
+ 'trailingPE': 26.460178,
+ 'twoHundredDayAverage': 3.2390647,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'bae7a962-b7d6-35d7-b5b7-9b8ba0450a6f',
+ 'volume': 18306,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://magalsecurity.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '5621617'}

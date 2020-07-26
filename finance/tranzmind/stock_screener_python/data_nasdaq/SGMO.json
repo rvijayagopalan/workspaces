@@ -1,0 +1,150 @@
+{'52WeekChange': -0.113036275,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '7000 Marina Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 10.97,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 1233525,
+ 'averageVolume': 2218131,
+ 'averageVolume10days': 1233525,
+ 'beta': 2.204481,
+ 'beta3Year': None,
+ 'bid': 10.74,
+ 'bidSize': 900,
+ 'bookValue': 3.391,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Brisbane',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 10.96,
+ 'dayLow': 10.565,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -11.848,
+ 'enterpriseToRevenue': 11.17,
+ 'enterpriseValue': 1199983872,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.36,
+ 'fiftyTwoWeekHigh': 12.49,
+ 'fiftyTwoWeekLow': 4.81,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 116332776,
+ 'forwardEps': -1.32,
+ 'forwardPE': -8.143939,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 354,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.2157,
+ 'heldPercentInstitutions': 0.68847,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sangamo.com',
+ 'longBusinessSummary': 'Sangamo Therapeutics, Inc., a biotechnology company, '
+                        'focuses on translating science into genomic medicines '
+                        "that transform patients' lives using platform "
+                        'technologies in gene therapy, cell therapy, genome '
+                        "editing, and genome regulation. The company's zinc "
+                        'finger proteins (ZFPs) could be engineered to make '
+                        'zinc finger nucleases (ZFNs), proteins that could be '
+                        'used to modify DNA sequences by adding or knocking '
+                        'out specific genes or genome editing; and ZFP '
+                        'transcription factors (ZFP TFs) proteins that can be '
+                        'used to increase or decrease gene expression. Its '
+                        'therapeutic products that are in Phase I/II clinical '
+                        'trial include SB-525 for the treatment of hemophilia '
+                        'A; ST-920 gene therapy for Fabry disease; ST-101 gene '
+                        'therapy for phenylketonuria; ST-400 and BIVV-003 for '
+                        'the treatment of hemoglobinopathies; SB-913 for the '
+                        'treatment of Mucopolysaccharidosis type II; SB-318 '
+                        'for the treatment of Mucopolysaccharidosis type I; '
+                        'and SB-FIX for the treatment of hemophilia B. The '
+                        'company has collaborative and strategic partnerships '
+                        'with Biogen Inc.; Kite Pharma, Inc.; Pfizer Inc.; '
+                        'Sanofi Genzyme; Shire International GmbH; Dow '
+                        'AgroSciences LLC; Sigma-Aldrich Corporation; '
+                        'Genentech, Inc.; Open Monoclonal Technology, Inc.; F. '
+                        'Hoffmann-La Roche Ltd and Hoffmann-La Roche Inc.; and '
+                        'California Institute for Regenerative Medicine. The '
+                        'company was formerly known as Sangamo BioSciences, '
+                        'Inc. and changed its name to Sangamo Therapeutics, '
+                        'Inc. in January 2017. Sangamo Therapeutics, Inc. was '
+                        'founded in 1995 and is headquartered in Brisbane, '
+                        'California.',
+ 'longName': 'Sangamo Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1514492288,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_412674',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -95949000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 10.96,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.67,
+ 'phone': '510 970 6000',
+ 'previousClose': 11.05,
+ 'priceHint': 2,
+ 'priceToBook': 3.1701562,
+ 'priceToSalesTrailing12Months': 14.097087,
+ 'profitMargins': -0.89311,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 10.96,
+ 'regularMarketDayLow': 10.565,
+ 'regularMarketOpen': 10.96,
+ 'regularMarketPreviousClose': 11.05,
+ 'regularMarketPrice': 10.96,
+ 'regularMarketVolume': 1340812,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 140883008,
+ 'sharesPercentSharesOut': 0.13949999,
+ 'sharesShort': 19659716,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 16151783,
+ 'shortName': 'Sangamo Therapeutics, Inc.',
+ 'shortPercentOfFloat': 0.1397,
+ 'shortRatio': 7.01,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'SGMO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.83,
+ 'twoHundredDayAverage': 8.642086,
+ 'volume': 1340812,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sangamo.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94005'}

@@ -1,0 +1,159 @@
+{'52WeekChange': -0.6084337,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '244 Madison Avenue',
+ 'address2': 'PMB Suite 358',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 0.68,
+ 'askSize': 3000,
+ 'averageDailyVolume10Day': 605112,
+ 'averageVolume': 622925,
+ 'averageVolume10days': 605112,
+ 'beta': 1.449299,
+ 'beta3Year': None,
+ 'bid': 0.646,
+ 'bidSize': 1300,
+ 'bookValue': 0.437,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 0.7,
+ 'dayLow': 0.6019,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 8.083,
+ 'enterpriseToRevenue': 0.36,
+ 'enterpriseValue': 129663792,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 0.6134286,
+ 'fiftyTwoWeekHigh': 1.93,
+ 'fiftyTwoWeekLow': 0.28,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 19256940,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6322,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.54458,
+ 'heldPercentInstitutions': 0.05388,
+ 'industry': 'Specialty Business Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/aljregionalholdings.com',
+ 'longBusinessSummary': 'ALJ Regional Holdings, Inc. provides call center, '
+                        'back-office, staffing, and toll collection services '
+                        'to government and commercial clients in the '
+                        'healthcare, utility, consumer goods, toll, and '
+                        'transportation industries in the United States. It '
+                        'operates through three segments: Faneuil, Carpets, '
+                        'and Phoenix. The Faneuil segment offers customer '
+                        'contact centers, fulfillment operations, and '
+                        'information technology services, as well as manual '
+                        'and electronic toll collection, violation processing, '
+                        'and medical device tracking services. This segment '
+                        'also provides customer relationship management; '
+                        'billing, payment, and claims processing; data entry; '
+                        'document management; operational expertise; workforce '
+                        'and support analytics; quality assurance; and system '
+                        'support and maintenance services. The Carpets segment '
+                        'engages in the retail of floor coverings, including '
+                        'carpets, hardwood, laminates, tiles, ceramic, '
+                        'granite, quartz, piedrafina, porcelain, natural '
+                        'stone, vinyl planks and tiles, and area rugs, as well '
+                        'as specialty flooring comprising bamboo, leather, '
+                        'cork, and large format tiles to home builders, and '
+                        'commercial and retail customers. This segment also '
+                        'offers countertop and surrounds primarily for '
+                        'bathrooms and kitchens; kitchen, bathroom, and garage '
+                        'cabinets; closet and closet organizers; and window '
+                        'coverings comprising blinds, shutters, and shades, as '
+                        'well as stone and solid surface fabrication services. '
+                        'The Phoenix segment manufactures book components; '
+                        'educational materials and related products; heavily '
+                        'illustrated books; and specialty commercial products. '
+                        'This segment also provides label, printing, and '
+                        'packaging solutions for the beauty, fragrance, and '
+                        'cosmetic and consumer-packaged goods markets. The '
+                        'company was formerly known as YouthStream Media '
+                        'Networks, Inc. and changed its name to ALJ Regional '
+                        'Holdings, Inc. in October 2006. ALJ Regional '
+                        'Holdings, Inc. was founded in 1995 and is based in '
+                        'New York, New York.',
+ 'longName': 'ALJ Regional Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 27644270,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_375826',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -83188000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 0.654,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '888-486-7775',
+ 'previousClose': 0.6615,
+ 'priceHint': 4,
+ 'priceToBook': 1.5,
+ 'priceToSalesTrailing12Months': 0.07685197,
+ 'profitMargins': -0.23127002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 0.7,
+ 'regularMarketDayLow': 0.6019,
+ 'regularMarketOpen': 0.654,
+ 'regularMarketPreviousClose': 0.6615,
+ 'regularMarketPrice': 0.654,
+ 'regularMarketVolume': 487506,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 42172800,
+ 'sharesPercentSharesOut': 0.0011999999,
+ 'sharesShort': 51879,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 39910,
+ 'shortName': 'ALJ Regional Holdings, Inc.',
+ 'shortPercentOfFloat': 0.0023,
+ 'shortRatio': 0.08,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'ALJJ',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.044,
+ 'twoHundredDayAverage': 0.74539566,
+ 'volume': 487506,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.aljregionalholdings.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10016'}

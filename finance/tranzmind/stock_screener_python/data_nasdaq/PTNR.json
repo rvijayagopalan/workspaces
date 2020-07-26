@@ -1,0 +1,159 @@
+{'52WeekChange': -0.08108109,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Afeq Industrial Park',
+ 'address2': '8 Amal Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.91,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 51412,
+ 'averageVolume': 18944,
+ 'averageVolume10days': 51412,
+ 'beta': 0.824649,
+ 'beta3Year': None,
+ 'bid': 3.73,
+ 'bidSize': 2900,
+ 'bookValue': 2.356,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Rosh HaAyin',
+ 'companyOfficers': [],
+ 'country': 'Israel',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.88,
+ 'dayLow': 3.725,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 4,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 682895168,
+ 'exDividendDate': 1346025600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '972 54 781 4999',
+ 'fiftyDayAverage': 4.128,
+ 'fiftyTwoWeekHigh': 6.46,
+ 'fiftyTwoWeekLow': 2.9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 129726340,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1867,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00318,
+ 'heldPercentInstitutions': 0.01821,
+ 'industry': 'Telecom Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/partner.co.il',
+ 'longBusinessSummary': 'Partner Communications Company Ltd. provides various '
+                        'telecommunication services in Israel. It operates in '
+                        'two segments, Cellular and Fixed-Line. The company '
+                        'offers cellular telephony services, including basic '
+                        'cellular telephony, text messaging, internet browsing '
+                        'and data transfer, content, and roaming services, as '
+                        'well as services provided to other operators that are '
+                        'permitted to use its cellular network. It also '
+                        'provides cellular content and value-added services, '
+                        'such as multimedia messaging, cyber protection, cloud '
+                        'backup, ringtone, music streaming, and various '
+                        'business services; and international roaming '
+                        'services, as well as sells and leases cellular '
+                        'handsets, and related cellular devices and '
+                        'accessories. In addition, the company offers Internet '
+                        'service provider (ISP) services comprising email '
+                        'accounts, Wi-Fi networking, anti-virus and anti-spam '
+                        'filtering, and infrastructure and ISP access '
+                        'services; network and data infrastructure services, '
+                        'information security and integration solutions, '
+                        'business information storage services, and data '
+                        'center and cloud services; international long '
+                        'distance services; fixed-line transmission and data '
+                        'capacity services; and voice over broadband telephony '
+                        'and primary rate interface services. Further, it '
+                        'provides television, high speed broadband fiber optic '
+                        'based network, and value added services; and sell and '
+                        'rents modems, domestic routers, servers, and related '
+                        'equipment, as well as tablets, laptops, landline '
+                        'phones, datacards, modems, and datacards, smart '
+                        'watches, car dashboard cameras, televisions, digital '
+                        'cameras, games consoles, audio accessories and other '
+                        'devices, and integration projects. Additionally, the '
+                        'company offers office communication private branch '
+                        'exchange services to business customers. It offers '
+                        'its services and products through sales and service '
+                        'centers, and direct sales force, as well as through '
+                        'dealers and online. The company was founded in 1997 '
+                        'and is headquartered in Rosh HaAyin, Israel.',
+ 'longName': 'Partner Communications Company Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 728588544,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_414005',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.88,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '972 54 781 4888',
+ 'previousClose': 3.72,
+ 'priceHint': 4,
+ 'priceToBook': 1.6256367,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.00832,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.88,
+ 'regularMarketDayLow': 3.725,
+ 'regularMarketOpen': 3.88,
+ 'regularMarketPreviousClose': 3.72,
+ 'regularMarketPrice': 3.88,
+ 'regularMarketVolume': 1831,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 183622000,
+ 'sharesPercentSharesOut': 0,
+ 'sharesShort': 638,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2522,
+ 'shortName': 'Partner Communications Company ',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 0.12,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'PTNR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.023,
+ 'twoHundredDayAverage': 4.1395683,
+ 'volume': 1831,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.partner.co.il',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '48103'}

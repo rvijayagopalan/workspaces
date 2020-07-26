@@ -1,0 +1,156 @@
+{'52WeekChange': -0.036892116,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '200 Flynn Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 51.64,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 281575,
+ 'averageVolume': 461142,
+ 'averageVolume10days': 281575,
+ 'beta': 1.661064,
+ 'beta3Year': None,
+ 'bid': 51.61,
+ 'bidSize': 800,
+ 'bookValue': 10.156,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Camarillo',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 52.42,
+ 'dayLow': 51.24,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.244,
+ 'enterpriseToEbitda': 34.779,
+ 'enterpriseToRevenue': 6.011,
+ 'enterpriseValue': 3299049472,
+ 'exDividendDate': 336960000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 52.404,
+ 'fiftyTwoWeekHigh': 58.23,
+ 'fiftyTwoWeekLow': 26.03,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 64189187,
+ 'forwardEps': 2.07,
+ 'forwardPE': 24.971014,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1388,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01664,
+ 'heldPercentInstitutions': 1.00103,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1579996800,
+ 'lastMarket': None,
+ 'lastSplitDate': 969926400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/semtech.com',
+ 'longBusinessSummary': 'Semtech Corporation designs, develops, manufactures, '
+                        'and markets analog and mixed-signal semiconductor '
+                        'products and advanced algorithms. The company '
+                        'provides signal integrity products, including a '
+                        'portfolio of optical data communications and video '
+                        'transport products used in various enterprise '
+                        'computing, communications, and industrial '
+                        'applications; a portfolio of integrated circuits for '
+                        'data centers, enterprise networks, passive optical '
+                        'networks, wireless base station optical transceivers, '
+                        'and high-speed interface applications; and video '
+                        'products for broadcast applications, as well as '
+                        'video-over-IP technology for professional audio video '
+                        'applications. It also offers protection products, '
+                        'such as filter and termination devices that are '
+                        'integrated with the transient voltage suppressor '
+                        'devices, which protect electronic systems from '
+                        'voltage spikes; and wireless and sensing products '
+                        'comprising a portfolio of specialized radio frequency '
+                        'products used in various industrial, medical, and '
+                        'communications applications, as well as specialized '
+                        'sensing products used in industrial and consumer '
+                        'applications. In addition, the company provides power '
+                        'products consisting of switching voltage regulators, '
+                        'combination switching and linear regulators, smart '
+                        'regulators, isolated switches, and wireless charging '
+                        'that control, alter, regulate, and condition the '
+                        'power within electronic systems. It serves original '
+                        'equipment manufacturers and their suppliers in the '
+                        'enterprise computing, communications, and consumer '
+                        'and industrial end-markets. The company sells its '
+                        'products directly, as well as through independent '
+                        'sales representative firms and independent '
+                        'distributors in the United States, Europe, and Asia. '
+                        'Semtech Corporation was founded in 1960 and is '
+                        'headquartered in Camarillo, California.',
+ 'longName': 'Semtech Corporation',
+ 'market': 'us_market',
+ 'marketCap': 3367644672,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_302594',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1587859200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 28758000,
+ 'nextFiscalYearEnd': 1643155200,
+ 'open': 51.41,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.58,
+ 'phone': '805 498 2111',
+ 'previousClose': 52.18,
+ 'priceHint': 2,
+ 'priceToBook': 5.089602,
+ 'priceToSalesTrailing12Months': 6.1357074,
+ 'profitMargins': 0.052389998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 52.42,
+ 'regularMarketDayLow': 51.24,
+ 'regularMarketOpen': 51.41,
+ 'regularMarketPreviousClose': 52.18,
+ 'regularMarketPrice': 51.41,
+ 'regularMarketVolume': 223626,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 65150800,
+ 'sharesPercentSharesOut': 0.0231,
+ 'sharesShort': 1505802,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1158772,
+ 'shortName': 'Semtech Corporation',
+ 'shortPercentOfFloat': 0.027,
+ 'shortRatio': 2.57,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'SMTC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.429,
+ 'trailingPE': 120.48951,
+ 'twoHundredDayAverage': 46.714676,
+ 'volume': 223626,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.semtech.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '93012-8790'}

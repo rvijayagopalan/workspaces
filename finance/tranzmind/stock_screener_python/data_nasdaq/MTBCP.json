@@ -1,0 +1,155 @@
+{'52WeekChange': -0.08421093,
+ 'SandP52WeekChange': None,
+ 'address1': '7 Clyde Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 25.5,
+ 'askSize': 3000,
+ 'averageDailyVolume10Day': 101487,
+ 'averageVolume': 33158,
+ 'averageVolume10days': 101487,
+ 'beta': 1.117647,
+ 'beta3Year': None,
+ 'bid': 25.4,
+ 'bidSize': 1100,
+ 'bookValue': 4.625,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Somerset',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': None,
+ 'dayHigh': 25.62,
+ 'dayLow': 25.4,
+ 'dividendRate': 2.75,
+ 'dividendYield': 0.1084,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 199.058,
+ 'enterpriseToRevenue': 4.557,
+ 'enterpriseValue': 324578400,
+ 'exDividendDate': 1596067200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '732-873-3378',
+ 'fiftyDayAverage': 25.761028,
+ 'fiftyTwoWeekHigh': 27.987,
+ 'fiftyTwoWeekLow': 12.595,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 6933128,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2700,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00062,
+ 'heldPercentInstitutions': 0.00379,
+ 'industry': 'Health Information Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/mtbc.com',
+ 'longBusinessSummary': 'MTBC, Inc., a healthcare information technology (IT) '
+                        'company, provides an integrated suite of Web-based '
+                        'solutions and related business services to healthcare '
+                        'providers primarily in the United States. The company '
+                        'operates through two segments, Healthcare IT and '
+                        'Practice Management. It primarily offers PracticePro, '
+                        'a software-as-a-service platform, which includes '
+                        'practice management software and related tools that '
+                        'facilitate the day-to-day business operation and '
+                        'workflows; electronic health record (EHR), which '
+                        'enables customers to reduce paperwork; revenue cycle '
+                        'management services, such as end-to-end medical '
+                        'billing, analytics, and related services; and mobile '
+                        'health solutions, including smartphone applications '
+                        'that assist patients and healthcare providers in the '
+                        'provision of healthcare services. The company also '
+                        'provides a web-based EHR solution; healthcare claims '
+                        'clearinghouse services; transcription, coding, '
+                        'indexing, and other ancillary services; electronic '
+                        'data interchange services; talkEHR, a voice enabled '
+                        'EHR solution; business intelligence, customized '
+                        'applications, interfaces, and various other '
+                        'technology solutions; comprehensive practice '
+                        'management services; telemedicine services; and '
+                        'patient experience management solutions. It serves '
+                        'physicians, nurses, nurse practitioners, physician '
+                        'assistants, and other clinical staff that render '
+                        'bills for their services. The company was formerly '
+                        'known as Medical Transcription Billing, Corp. and '
+                        'changed its name to MTBC, Inc. in February 2019. '
+                        'MTBC, Inc. was founded in 1999 and is headquartered '
+                        'in Somerset, New Jersey.',
+ 'longName': 'MTBC, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 52483192,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_7828151',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -10614249,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 25.5,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '732-873-5133',
+ 'previousClose': 25.48,
+ 'priceHint': 2,
+ 'priceToBook': 5.509189,
+ 'priceToSalesTrailing12Months': 0.736859,
+ 'profitMargins': -0.04321,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.62,
+ 'regularMarketDayLow': 25.4,
+ 'regularMarketOpen': 25.5,
+ 'regularMarketPreviousClose': 25.48,
+ 'regularMarketPrice': 25.5,
+ 'regularMarketVolume': 39819,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 11829800,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': None,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'MTBC, Inc. - 11% Series A Cumul',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': None,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'MTBCP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.872,
+ 'twoHundredDayAverage': 25.604805,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '66b43f0a-daec-3c5f-9aa4-9cc786aeb12b',
+ 'volume': 39819,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.mtbc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '08873'}

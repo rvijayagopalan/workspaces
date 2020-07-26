@@ -1,0 +1,157 @@
+{'52WeekChange': 0.089108944,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Minerva House',
+ 'address2': 'First Floor Simmonscourt Road Ballsbridge',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.31,
+ 'askSize': 4000,
+ 'averageDailyVolume10Day': 4546475,
+ 'averageVolume': 5634603,
+ 'averageVolume10days': 4546475,
+ 'beta': 1.543417,
+ 'beta3Year': None,
+ 'bid': 3.26,
+ 'bidSize': 2900,
+ 'bookValue': -3.23,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Dublin',
+ 'companyOfficers': [],
+ 'country': 'Ireland',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.34,
+ 'dayLow': 3.22,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 12.267,
+ 'enterpriseToRevenue': 2.557,
+ 'enterpriseValue': 7707632128,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.566857,
+ 'fiftyTwoWeekHigh': 7.1,
+ 'fiftyTwoWeekLow': 1.97,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 211163065,
+ 'forwardEps': 2.3,
+ 'forwardPE': 1.4347826,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3172,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00681,
+ 'heldPercentInstitutions': 0.89269996,
+ 'industry': 'Drug Manufacturers—Specialty & Generic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/endo.com',
+ 'longBusinessSummary': 'Endo International plc manufactures and sells generic '
+                        'and branded pharmaceuticals in the United States and '
+                        'internationally. Its Branded Pharmaceuticals segment '
+                        'provides branded prescription products, including '
+                        "XIAFLEX to treat adult patients with Dupuytren's "
+                        'contracture; SUPPRELIN LA to treat central precocious '
+                        'puberty in children; NASCOBAL nasal spray to treat '
+                        'vitamin B12 deficiency; TESTOPEL for TRT in '
+                        'conditions associated with a deficiency or absence of '
+                        'endogenous testosterone; AVEED to treat hypogonadism; '
+                        'PERCOCET to treat moderate-to-moderately-severe pain; '
+                        'VOLTAREN gel for the relief of joint pain of '
+                        'osteoarthritis; LIDODERM for the relief of pain; '
+                        'TESTOPEL, an implantable pellet indicated for TRT in '
+                        'conditions; EDEX to treat erectile dysfunction; and '
+                        'LIDODERM a topical patch product containing '
+                        "lidocaine. The company's Sterile Injectables segment "
+                        'manufactures VASOSTRICT, a vasopressin injection; '
+                        'ADRENALIN, a non-selective adrenergic agonist; and '
+                        'APLISOL, which is a sterile aqueous solution, as well '
+                        'as generic sterile injectable products. Its Generic '
+                        'Pharmaceuticals segment offers solid oral '
+                        'extended-release, solid oral immediate-release, '
+                        'liquids, semi-solids, patches, powders, ophthalmic '
+                        'products, and sprays; and products for the pain '
+                        'management, urology, central nervous system '
+                        "disorders, immunosuppression, oncology, women's "
+                        'health, and cardiovascular disease markets. The '
+                        "company's International Pharmaceuticals segment "
+                        'offers specialty pharmaceutical products in various '
+                        'therapeutic areas comprising attention deficit '
+                        "hyperactivity disorder, pain, women's health, and "
+                        'oncology. The company sells its branded '
+                        'pharmaceuticals and generics to specialty physicians, '
+                        'retailers, clinics, government agencies, doctors, '
+                        'retail and specialty pharmacies, and specialty '
+                        'distributors. Endo International plc was founded in '
+                        '1920 and is headquartered in Dublin, Ireland.',
+ 'longName': 'Endo International plc',
+ 'market': 'us_market',
+ 'marketCap': 758026432,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_28071',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -190391008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.31,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.12,
+ 'phone': '353 1 268 2000',
+ 'previousClose': 3.33,
+ 'priceHint': 4,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 0.25147194,
+ 'profitMargins': -0.09094,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.34,
+ 'regularMarketDayLow': 3.22,
+ 'regularMarketOpen': 3.31,
+ 'regularMarketPreviousClose': 3.33,
+ 'regularMarketPrice': 3.31,
+ 'regularMarketVolume': 3418242,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 229704992,
+ 'sharesPercentSharesOut': 0.1154,
+ 'sharesShort': 26500525,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 23717352,
+ 'shortName': 'Endo International plc',
+ 'shortPercentOfFloat': 0.16399999,
+ 'shortRatio': 4.03,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'ENDP',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.209,
+ 'twoHundredDayAverage': 4.31777,
+ 'volume': 3418242,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.endo.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '4'}

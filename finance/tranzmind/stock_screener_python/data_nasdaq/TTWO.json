@@ -1,0 +1,153 @@
+{'52WeekChange': 0.2623999,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '110 West 44th Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 156.99,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 1036687,
+ 'averageVolume': 2107925,
+ 'averageVolume10days': 1036687,
+ 'beta': 0.571428,
+ 'beta3Year': None,
+ 'bid': 155.05,
+ 'bidSize': 900,
+ 'bookValue': 23.523,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 156.66,
+ 'dayLow': 148.88,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 1.159,
+ 'enterpriseToEbitda': 30.54,
+ 'enterpriseToRevenue': 4.884,
+ 'enterpriseValue': 15085925376,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 143.902,
+ 'fiftyTwoWeekHigh': 156.68,
+ 'fiftyTwoWeekLow': 100,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 107830825,
+ 'forwardEps': 5.59,
+ 'forwardPE': 27.910555,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01204,
+ 'heldPercentInstitutions': 0.94237,
+ 'industry': 'Electronic Gaming & Multimedia',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1113264000,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/take2games.com',
+ 'longBusinessSummary': 'Take-Two Interactive Software, Inc. develops, '
+                        'publishes, and markets interactive entertainment '
+                        'solutions for consumers worldwide. The company offers '
+                        'its products under the Rockstar Games and 2K labels, '
+                        'as well as under Private Division and Social Point '
+                        'labels. It develops and publishes action/adventure '
+                        'products under the Grand Theft Auto, Max Payne, '
+                        'Midnight Club, and Red Dead Redemption names; and '
+                        'offers episodes, content, and virtual currency. The '
+                        'company also develops brands in other genres, '
+                        'including the LA Noire, Bully, and Manhunt '
+                        'franchises. In addition, the company publishes '
+                        'various entertainment properties across various '
+                        'platforms and a range of genres, such as shooter, '
+                        'action, role-playing, strategy, sports, and '
+                        'family/casual entertainment under the BioShock, '
+                        "Mafia, Sid Meier's Civilization, XCOM series, and "
+                        'Borderlands. Further, it publishes sports simulation '
+                        'titles comprising NBA 2K series, a basketball video '
+                        'game; the WWE 2K professional wrestling series. It '
+                        'also offers Kerbal Space Program, The Outer Worlds, '
+                        'Ancestors the Humankind Odyssey under Private '
+                        'Division. Additionally, the company offers '
+                        'free-to-play mobile games, such as Dragon City and '
+                        'Monster Legends. Its products are designed for '
+                        "console gaming systems, including Sony's PlayStation "
+                        "4; Microsoft's Xbox One; the Nintendo Switch; and "
+                        'personal computers comprising smartphones and '
+                        'tablets. The company provides its products through '
+                        'physical retail, digital download, online platforms, '
+                        'and cloud streaming services. Take-Two Interactive '
+                        'Software, Inc. was founded in 1993 and is '
+                        'headquartered in New York, New York.',
+ 'longName': 'Take-Two Interactive Software, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 17777387520,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_371281',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 404459008,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 150.04,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.89,
+ 'phone': '646 536 2842',
+ 'previousClose': 151.48,
+ 'priceHint': 2,
+ 'priceToBook': 6.6326575,
+ 'priceToSalesTrailing12Months': 5.7551184,
+ 'profitMargins': 0.13094,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 156.66,
+ 'regularMarketDayLow': 148.88,
+ 'regularMarketOpen': 150.04,
+ 'regularMarketPreviousClose': 151.48,
+ 'regularMarketPrice': 150.04,
+ 'regularMarketVolume': 1641874,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 113424000,
+ 'sharesPercentSharesOut': 0.038900003,
+ 'sharesShort': 4429788,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3816787,
+ 'shortName': 'Take-Two Interactive Software, ',
+ 'shortPercentOfFloat': 0.0436,
+ 'shortRatio': 2.07,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'TTWO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3.54,
+ 'trailingPE': 44.07345,
+ 'twoHundredDayAverage': 127.715614,
+ 'volume': 1641874,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.take2games.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10036'}

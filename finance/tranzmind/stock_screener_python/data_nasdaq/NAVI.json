@@ -1,0 +1,150 @@
+{'52WeekChange': -0.43679774,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '123 Justison Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 8.02,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 3361187,
+ 'averageVolume': 3458338,
+ 'averageVolume10days': 3361187,
+ 'beta': 1.883473,
+ 'beta3Year': None,
+ 'bid': 8.01,
+ 'bidSize': 4000,
+ 'bookValue': 10.902,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Wilmington',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 8.23,
+ 'dayLow': 7.97,
+ 'dividendRate': 0.64,
+ 'dividendYield': 0.078600004,
+ 'earningsQuarterlyGrowth': -0.183,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 60.767,
+ 'enterpriseValue': 87504879616,
+ 'exDividendDate': 1591228800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 7.539143,
+ 'fiftyTwoWeekHigh': 15.5,
+ 'fiftyTwoWeekLow': 4.07,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 5.12,
+ 'floatShares': 191037620,
+ 'forwardEps': 2.88,
+ 'forwardPE': 2.7847223,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.022809999,
+ 'heldPercentInstitutions': 1.00481,
+ 'industry': 'Credit Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/navient.com',
+ 'longBusinessSummary': 'Navient Corporation provides education loan '
+                        'management and business processing solutions for '
+                        'education, healthcare, and government clients at the '
+                        'federal, state, and local levels in the United '
+                        'States. It operates through four segments: Federal '
+                        'Education Loans, Consumer Lending, Business '
+                        'Processing, and Other. The company holds and acquires '
+                        'Federal Family Education Loan Program loans that are '
+                        'insured or guaranteed by state or not-for-profit '
+                        'agencies; and performs servicing and asset recovery '
+                        'services on its own loan portfolio, and federal '
+                        'education loans owned by the United States Department '
+                        'of Education and other institutions. It also holds, '
+                        'originates, and acquires consumer loans; and performs '
+                        'servicing activities on its own education loan '
+                        'portfolio, including private education loans, and '
+                        'private education refinance loans. In addition, the '
+                        'company offers revenue cycle management and business '
+                        'processing services; and healthcare services that '
+                        'include revenue cycle outsourcing, accounts '
+                        'receivable management, extended business office '
+                        'support, and consulting engagement for federal, '
+                        'state, and municipal clients; public authorities; and '
+                        'healthcare organizations. Further, it provides '
+                        'customizable solutions for its clients that include '
+                        'hospitals, hospital systems, medical centers, large '
+                        'physician groups, and other healthcare providers; and '
+                        'corporate liquidity portfolio and debt repurchase '
+                        'services. The company was founded in 1973 and is '
+                        'headquartered in Wilmington, Delaware.',
+ 'longName': 'Navient Corporation',
+ 'market': 'us_market',
+ 'marketCap': 1555880064,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_260005529',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 335000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 8.08,
+ 'openInterest': None,
+ 'payoutRatio': 0.4267,
+ 'pegRatio': 0.23,
+ 'phone': '302-283-8000',
+ 'previousClose': 8.14,
+ 'priceHint': 2,
+ 'priceToBook': 0.7356449,
+ 'priceToSalesTrailing12Months': 1.0804722,
+ 'profitMargins': 0.23264,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 8.23,
+ 'regularMarketDayLow': 7.97,
+ 'regularMarketOpen': 8.08,
+ 'regularMarketPreviousClose': 8.14,
+ 'regularMarketPrice': 8.08,
+ 'regularMarketVolume': 2315636,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 194000000,
+ 'sharesPercentSharesOut': 0.0794,
+ 'sharesShort': 15383997,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 13232281,
+ 'shortName': 'Navient Corporation',
+ 'shortPercentOfFloat': 0.106400006,
+ 'shortRatio': 3.19,
+ 'startDate': None,
+ 'state': 'DE',
+ 'strikePrice': None,
+ 'symbol': 'NAVI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.64,
+ 'trailingAnnualDividendYield': 0.07862408,
+ 'trailingEps': 1.59,
+ 'trailingPE': 5.0440254,
+ 'twoHundredDayAverage': 9.286691,
+ 'volume': 2315636,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.navient.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '19801'}

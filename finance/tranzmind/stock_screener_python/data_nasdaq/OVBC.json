@@ -1,0 +1,157 @@
+{'52WeekChange': -0.44915712,
+ 'SandP52WeekChange': None,
+ 'address1': '420 Third Avenue',
+ 'address2': 'PO Box 240',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 21.77,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 4937,
+ 'averageVolume': 6387,
+ 'averageVolume10days': 4937,
+ 'beta': 0.077871,
+ 'beta3Year': None,
+ 'bid': 19.9,
+ 'bidSize': 800,
+ 'bookValue': 27.258,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Gallipolis',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 20.26,
+ 'dayLow': 19.9,
+ 'dividendRate': 0.84,
+ 'dividendYield': 0.041500002,
+ 'earningsQuarterlyGrowth': -0.16,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.433,
+ 'enterpriseValue': 68339800,
+ 'exDividendDate': 1587600000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '740-446-7414',
+ 'fiftyDayAverage': 22.236856,
+ 'fiftyTwoWeekHigh': 41.5,
+ 'fiftyTwoWeekLow': 19.2,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.77,
+ 'floatShares': 4099538,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 284,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.18986,
+ 'heldPercentInstitutions': 0.20016001,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1115769600,
+ 'lastSplitFactor': '125:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ovbc.com',
+ 'longBusinessSummary': 'Ohio Valley Banc Corp. operates as the bank holding '
+                        'company for The Ohio Valley Bank Company that '
+                        'provides commercial and consumer banking products and '
+                        'services. The company operates in two segments, '
+                        'Banking and Consumer Finance. It accepts various '
+                        'deposit products, including checking, savings, time, '
+                        'and money market accounts, as well as individual '
+                        'retirement accounts, demand deposits, NOW accounts, '
+                        'and certificates of deposit. The company also '
+                        'provides various residential real estate loans, '
+                        'including one-to four-family residential mortgages; '
+                        'commercial loans for securing equipment, inventory, '
+                        'stock, commercial real estate, and rental property; '
+                        'and consumer loans secured by automobiles, mobile '
+                        'homes, recreational vehicles, and other personal '
+                        'property, as well as personal loans, unsecured credit '
+                        'card receivables, floor plan and student loans, and '
+                        'construction loans. In addition, it offers safe '
+                        'deposit boxes, wire transfers, credit card services, '
+                        'and Internet banking services; and financial '
+                        'management online services, such as cash management '
+                        'and news updates related to repossession auctions, '
+                        'current rates, and general bank news. Further, the '
+                        'company provides automatic teller machine (ATM) '
+                        'services, consumer finance, seasonal tax preparation '
+                        'services, and commercial property and various '
+                        'liability insurance services, as well as trust '
+                        'services. It operated 16 offices in Ohio and West '
+                        'Virginia; and 6 consumer finance offices in Ohio. The '
+                        'company owns and operates 34 ATMs, including 20 '
+                        'off-site ATMs. Ohio Valley Banc Corp. was founded in '
+                        '1872 and is headquartered in Gallipolis, Ohio.',
+ 'longName': 'Ohio Valley Banc Corp.',
+ 'market': 'us_market',
+ 'marketCap': 95413880,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_375708',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 9716000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 20.04,
+ 'openInterest': None,
+ 'payoutRatio': 0.4123,
+ 'pegRatio': None,
+ 'phone': '740-446-2631',
+ 'previousClose': 20.26,
+ 'priceHint': 2,
+ 'priceToBook': 0.73116153,
+ 'priceToSalesTrailing12Months': 2.0000393,
+ 'profitMargins': 0.20366,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 20.26,
+ 'regularMarketDayLow': 19.9,
+ 'regularMarketOpen': 20.04,
+ 'regularMarketPreviousClose': 20.26,
+ 'regularMarketPrice': 20.04,
+ 'regularMarketVolume': 6950,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 4787450,
+ 'sharesPercentSharesOut': 0.013099999,
+ 'sharesShort': 62761,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 58128,
+ 'shortName': 'Ohio Valley Banc Corp.',
+ 'shortPercentOfFloat': 0.0149,
+ 'shortRatio': 7.94,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'OVBC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.84,
+ 'trailingAnnualDividendYield': 0.041461006,
+ 'trailingEps': 2.034,
+ 'trailingPE': 9.798428,
+ 'twoHundredDayAverage': 27.563454,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'bb4664f5-fbb9-3b6e-a8b0-4ba9d2f7cb1f',
+ 'volume': 6950,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ovbc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '45631'}

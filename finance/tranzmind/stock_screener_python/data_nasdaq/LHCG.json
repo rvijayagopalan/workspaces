@@ -1,0 +1,159 @@
+{'52WeekChange': 0.51532745,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '901 Hugh Wallis Road South',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 187.76,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 214725,
+ 'averageVolume': 308480,
+ 'averageVolume10days': 214725,
+ 'beta': 0.484593,
+ 'beta3Year': None,
+ 'bid': 187.68,
+ 'bidSize': 1100,
+ 'bookValue': 45.987,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lafayette',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 189.19,
+ 'dayLow': 185.695,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.168,
+ 'enterpriseToEbitda': 36.567,
+ 'enterpriseToRevenue': 3.077,
+ 'enterpriseValue': 6433147392,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 173.03685,
+ 'fiftyTwoWeekHigh': 192.43,
+ 'fiftyTwoWeekLow': 100,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 30180735,
+ 'forwardEps': 5.52,
+ 'forwardPE': 34.028984,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 32000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.05313,
+ 'heldPercentInstitutions': 0.95151,
+ 'industry': 'Medical Care Facilities',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/lhcgroup.com',
+ 'longBusinessSummary': 'LHC Group, Inc., a health care provider, specializes '
+                        'in the post-acute continuum of care primarily for '
+                        'Medicare beneficiaries in the United States. The '
+                        "company's Home Health Services segment offers home "
+                        'nursing services, including wound care and dressing '
+                        'changes, cardiac rehabilitation, infusion therapy, '
+                        'pain management, pharmaceutical administration, '
+                        'skilled observation and assessment, and patient '
+                        'education; medically-oriented social services; and '
+                        'physical, occupational, and speech therapy services. '
+                        'Its Hospice Services segment provides pain and '
+                        'symptom management accompanied by palliative '
+                        'medication, emotional and spiritual support, '
+                        'inpatient and respite care, homemaker services, '
+                        'dietary counseling, family bereavement counseling, '
+                        "and social worker visits. The company's Home and "
+                        'Community-Based Services segment offers services, '
+                        'such as assistance with grooming, medication '
+                        'reminders, meal preparation, assistance with feeding, '
+                        'light housekeeping, respite care, transportation, and '
+                        'errand services to patients in their home or in a '
+                        'medical facility. Its Facility-Based Services segment '
+                        'serves patients suffering from respiratory failure, '
+                        'neuromuscular disorders, cardiac disorders, '
+                        'non-healing wounds, renal disorders, cancer, head and '
+                        'neck injuries, and mental disorders, as well as '
+                        'treats patients diagnosed with musculoskeletal '
+                        'impairments; and operates institutional pharmacy, a '
+                        'family health center, a rural health clinic, and a '
+                        'retail pharmacy, as well as offers physical therapy '
+                        "services. The company's Healthcare Innovations (HCI) "
+                        'Services segment provides strategic health management '
+                        'services to Accountable Care Organizations. As of '
+                        'December 31, 2019, it operated 553 home health '
+                        'services locations, 110 hospice locations, 107 '
+                        'community-based service locations, 11 long-term acute '
+                        'care hospitals with 13 locations, and 10 HCI '
+                        'locations. The company was founded in 1994 and is '
+                        'based in Lafayette, Louisiana.',
+ 'longName': 'LHC Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 5933602304,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_5303664',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 98894000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 188.01,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.57,
+ 'phone': '337 233 1307',
+ 'previousClose': 188.34,
+ 'priceHint': 2,
+ 'priceToBook': 4.0846324,
+ 'priceToSalesTrailing12Months': 2.8383286,
+ 'profitMargins': 0.04731,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 189.19,
+ 'regularMarketDayLow': 185.695,
+ 'regularMarketOpen': 188.01,
+ 'regularMarketPreviousClose': 188.34,
+ 'regularMarketPrice': 188.01,
+ 'regularMarketVolume': 149350,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 31588600,
+ 'sharesPercentSharesOut': 0.0327,
+ 'sharesShort': 1032984,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 972950,
+ 'shortName': 'LHC Group',
+ 'shortPercentOfFloat': 0.0414,
+ 'shortRatio': 3.4,
+ 'startDate': None,
+ 'state': 'LA',
+ 'strikePrice': None,
+ 'symbol': 'LHCG',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3.17,
+ 'trailingPE': 59.255516,
+ 'twoHundredDayAverage': 148.03546,
+ 'volume': 149350,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.lhcgroup.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '70508'}

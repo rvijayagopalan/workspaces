@@ -1,0 +1,154 @@
+{'52WeekChange': -0.021420062,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '22 Raoul Wallenberg Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24.65,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 396350,
+ 'averageVolume': 241003,
+ 'averageVolume10days': 396350,
+ 'beta': 0.812885,
+ 'beta3Year': None,
+ 'bid': 24.63,
+ 'bidSize': 1200,
+ 'bookValue': 8.176,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Tel Aviv',
+ 'companyOfficers': [],
+ 'country': 'Israel',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 25.11,
+ 'dayLow': 24.34,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.411,
+ 'enterpriseToEbitda': 38.161,
+ 'enterpriseToRevenue': 4.043,
+ 'enterpriseValue': 1013554560,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '972 3 766 8655',
+ 'fiftyDayAverage': 24.388857,
+ 'fiftyTwoWeekHigh': 26.99,
+ 'fiftyTwoWeekLow': 16.02,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 33029811,
+ 'forwardEps': 0.82,
+ 'forwardPE': 30.085365,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1037,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.15539,
+ 'heldPercentInstitutions': 0.74504995,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1365984000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/radware.com',
+ 'longBusinessSummary': 'Radware Ltd. develops, manufactures, and markets '
+                        'cyber security and application delivery solutions for '
+                        'applications in physical, virtual, cloud, and '
+                        'software defined data centers worldwide. The company '
+                        'offers DefensePro, a real-time network attack '
+                        'prevention device; AppWall, a Web application '
+                        'firewall; and DefenseFlow, a cyber-command and '
+                        'control application. It also provides Alteon D Line, '
+                        'an application delivery controller/load balancer for '
+                        'Web, cloud, and mobile based applications; and '
+                        'LinkProof NG, a multi-homing and enterprise gateway '
+                        'solution for connectivity of enterprise and '
+                        'cloud-based applications. In addition, the company '
+                        'offers Security Updates Subscription, which provides '
+                        'security updates to protect customers against the '
+                        'latest threats; ERT Active Attackers Feed that '
+                        'provides customers with information pertaining to '
+                        'attack sources recently involved in DDoS attacks; '
+                        'Alteon Global Elastic License that captures '
+                        'application lifecycle for large ADC deployments; '
+                        'APSolute Vision, a management and monitoring tool for '
+                        "company's application delivery and cyber security "
+                        'solutions; and MSSP Portal, a DDoS detection and '
+                        'mitigation service portal. Further, it provides Cloud '
+                        'DDoS Protection Service, which offers a range of '
+                        'enterprise-grade DDoS protection services in the '
+                        'cloud, as well as technical support, professional, '
+                        'managed, and training and certification services to '
+                        'its customers. The company sells its products '
+                        'primarily to independent distributors, including '
+                        'value added resellers, original equipment '
+                        'manufacturers, and system integrators. Radware Ltd. '
+                        'was founded in 1996 and is headquartered in Tel Aviv, '
+                        'Israel.',
+ 'longName': 'Radware Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 1143188096,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_33585',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 20772000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 25.06,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.22,
+ 'phone': '972 3 766 8666',
+ 'previousClose': 26.09,
+ 'priceHint': 2,
+ 'priceToBook': 3.017368,
+ 'priceToSalesTrailing12Months': 4.5602207,
+ 'profitMargins': 0.08286,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.11,
+ 'regularMarketDayLow': 24.34,
+ 'regularMarketOpen': 25.06,
+ 'regularMarketPreviousClose': 26.09,
+ 'regularMarketPrice': 25.06,
+ 'regularMarketVolume': 499850,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 46339200,
+ 'sharesPercentSharesOut': 0.0138,
+ 'sharesShort': 639986,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 706448,
+ 'shortName': 'Radware Ltd.',
+ 'shortPercentOfFloat': 0.018099999,
+ 'shortRatio': 2.9,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'RDWR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.43,
+ 'trailingPE': 57.372093,
+ 'twoHundredDayAverage': 23.41705,
+ 'volume': 499850,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.radware.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '6971917'}

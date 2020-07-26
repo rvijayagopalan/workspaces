@@ -1,0 +1,159 @@
+{'52WeekChange': -0.68716073,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '210 Main Street West',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 30.25,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 99925,
+ 'averageVolume': 140166,
+ 'averageVolume10days': 99925,
+ 'beta': 1.530532,
+ 'beta3Year': None,
+ 'bid': 25.4,
+ 'bidSize': 4000,
+ 'bookValue': 16.847,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Baudette',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 28.1529,
+ 'dayLow': 26.365,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 11.771,
+ 'enterpriseToRevenue': 2.539,
+ 'enterpriseValue': 516436288,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '218 634 3540',
+ 'fiftyDayAverage': 30.395428,
+ 'fiftyTwoWeekHigh': 86.96,
+ 'fiftyTwoWeekLow': 25.23,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 9469696,
+ 'forwardEps': 4.58,
+ 'forwardPE': 5.78821,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 338,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03966,
+ 'heldPercentInstitutions': 0.86039,
+ 'industry': 'Drug Manufacturers—Specialty & Generic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1374105600,
+ 'lastSplitFactor': '1:6',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/anipharmaceuticals.com',
+ 'longBusinessSummary': 'ANI Pharmaceuticals, Inc., a specialty pharmaceutical '
+                        'company, develops, manufactures, and markets branded '
+                        'and generic prescription pharmaceuticals in the '
+                        'United States and Canada. It focuses on producing '
+                        'controlled substances, oncolytics (anti-cancers), '
+                        'hormones and steroids, and other formulations. The '
+                        'company offers pharmaceuticals for the treatment of '
+                        'breast cancer, hypertension, ventricular arrhythmias, '
+                        'stage D2 metastatic carcinoma of the prostate, '
+                        'depression, diarrhea, infections, vasomotor symptoms '
+                        'of menopause, pain caused by osteoarthritis and '
+                        'rheumatoid arthritis, epilepsy, arrhythmia, '
+                        'obsessive-compulsive disorder and social anxiety '
+                        'disorder, ulcerative colitis, salt and fluid '
+                        'retention, manic episodes of bipolar disorder, '
+                        'ulcerative colitis, proctosigmoiditis, ocular '
+                        'conditions, metastatic prostate cancer, arrhythmia, '
+                        'migraine headache, and enterocolitis caused by '
+                        'staphylococcus aureus. It also provides aspirin and '
+                        'extended-release dipyridamole; Cholestyramine, an '
+                        'adjunctive therapy to diet for the reduction of '
+                        'elevated serum cholesterol; Ezetimibe-Simvastatin to '
+                        'lower high cholesterol and triglyceride levels; '
+                        'Fenofibrate, a peroxisome proliferator receptor alpha '
+                        'activator; Hydrocortisone rectal cream for the relief '
+                        'of inflammatory and pruritic manifestations of '
+                        'corticosteroid-responsive dermatoses; Morphine '
+                        'Sulfate, an oral solution for acute and chronic pain '
+                        'management; Nimodipine to enhance neurological '
+                        'outcomes; and Terbutaline Sulfate for the prevention '
+                        'and reversal of bronchospasm. The company '
+                        'manufactures oral solid dose products; semi-solids, '
+                        'liquids, and topicals; and potent products, as well '
+                        'as performs contract manufacturing for other '
+                        'pharmaceutical companies. It markets its products '
+                        'through retail pharmacy chains, wholesalers, '
+                        'distributors and mail order pharmacies, and group '
+                        'purchasing organizations. The company was founded in '
+                        '2001 and is headquartered in Baudette, Minnesota.',
+ 'longName': 'ANI Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 326783456,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1528824',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -1454000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 27.97,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.11,
+ 'phone': '218 634 3500',
+ 'previousClose': 28.14,
+ 'priceHint': 2,
+ 'priceToBook': 1.573574,
+ 'priceToSalesTrailing12Months': 1.6063365,
+ 'profitMargins': -0.00671,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 28.1529,
+ 'regularMarketDayLow': 26.365,
+ 'regularMarketOpen': 27.97,
+ 'regularMarketPreviousClose': 28.14,
+ 'regularMarketPrice': 27.97,
+ 'regularMarketVolume': 124121,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 12315900,
+ 'sharesPercentSharesOut': 0.044,
+ 'sharesShort': 542585,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 622160,
+ 'shortName': 'ANI Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.067600004,
+ 'shortRatio': 3.03,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'ANIP',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.124,
+ 'twoHundredDayAverage': 42.259712,
+ 'volume': 124121,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.anipharmaceuticals.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '56623'}

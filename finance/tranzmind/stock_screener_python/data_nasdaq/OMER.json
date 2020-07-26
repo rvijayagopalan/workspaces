@@ -1,0 +1,161 @@
+{'52WeekChange': -0.08111614,
+ 'SandP52WeekChange': None,
+ 'address1': 'The Omeros Building',
+ 'address2': '201 Elliott Avenue West',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.91,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 234712,
+ 'averageVolume': 408096,
+ 'averageVolume10days': 234712,
+ 'beta': 1.844257,
+ 'beta3Year': None,
+ 'bid': 13.9,
+ 'bidSize': 1000,
+ 'bookValue': -2.419,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Seattle',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.385,
+ 'dayLow': 13.77,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -13.627,
+ 'enterpriseToRevenue': 7.92,
+ 'enterpriseValue': 899457280,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '206 676 5005',
+ 'fiftyDayAverage': 14.684571,
+ 'fiftyTwoWeekHigh': 20.92,
+ 'fiftyTwoWeekLow': 8.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 44042439,
+ 'forwardEps': -1.95,
+ 'forwardPE': -7.128205,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 258,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.05392,
+ 'heldPercentInstitutions': 0.54514,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/omeros.com',
+ 'longBusinessSummary': 'Omeros Corporation, a biopharmaceutical company, '
+                        'discovers, develops, and commercializes '
+                        'small-molecule and protein therapeutics, and orphan '
+                        'indications targeting inflammation, '
+                        'complement-mediated diseases, disorders of the '
+                        'central nervous system (CNS), and immune-related '
+                        'diseases. It provides OMIDRIA for use in cataract '
+                        'surgery or intraocular lens replacement in the United '
+                        "States. The company's clinical programs include "
+                        'Narsoplimab (OMS721/MASP-2) that is in Phase III '
+                        'clinical trial for hematopoietic stem-cell '
+                        'transplant-associated thrombotic microangiopath, '
+                        'immunoglobulin A nephropathy, and atypical hemolytic '
+                        'uremic syndrome; and Phase II clinical trial to treat '
+                        'lupus nephritis and other renal diseases. Its '
+                        'clinical programs also consists of PPAR? (OMS405) '
+                        'that is in Phase II clinical trial to treat opioid '
+                        'and nicotine addiction; and PDE7 (OMS527), which is '
+                        'in Phase I clinical trial for treating addiction and '
+                        'compulsive disorders, and movement disorders. In '
+                        "addition, the company's preclinical programs comprise "
+                        'MASP-3 (OMS906) for paroxysmal nocturnal '
+                        'hemoglobinuria (PNH) and other alternative pathway '
+                        'disorders; MASP-2-small-molecule inhibitors used for '
+                        'the treatment of aHUS, IgAN, HSCT-TMA, and '
+                        'age-related macular degeneration; and '
+                        'MASP-3-small-molecule inhibitors to treat PNH and '
+                        'other alternative pathway disorders. Further, its '
+                        'preclinical programs include G protein-coupled '
+                        'receptor (GPCR) platform, including GPR174, GPR151, '
+                        'GPR161, and other Class A orphan GPCRs for treating '
+                        'immunologic, immuno-oncologic, metabolic, CNS, '
+                        'cardiovascular (CV), musculoskeletal, and other '
+                        'disorders; and antibody platform for metabolic, CV, '
+                        'oncologic, musculoskeletal, and other disorders. The '
+                        'company was incorporated in 1994 and is headquartered '
+                        'in Seattle, Washington.',
+ 'longName': 'Omeros Corporation',
+ 'market': 'us_market',
+ 'marketCap': 757698688,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_32388',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -89172000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.16,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.08,
+ 'phone': '206 676 5000',
+ 'previousClose': 14.16,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 6.6720557,
+ 'profitMargins': -0.78522,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.385,
+ 'regularMarketDayLow': 13.77,
+ 'regularMarketOpen': 14.16,
+ 'regularMarketPreviousClose': 14.16,
+ 'regularMarketPrice': 14.16,
+ 'regularMarketVolume': 172583,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 54510700,
+ 'sharesPercentSharesOut': 0.20030001,
+ 'sharesShort': 10919810,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 10935532,
+ 'shortName': 'Omeros Corporation',
+ 'shortPercentOfFloat': 0.21079999,
+ 'shortRatio': 25.56,
+ 'startDate': None,
+ 'state': 'WA',
+ 'strikePrice': None,
+ 'symbol': 'OMER',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.754,
+ 'twoHundredDayAverage': 14.15259,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '3f7c487e-99e5-35b0-97bc-8da48930057f',
+ 'volume': 172583,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.omeros.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '98119'}

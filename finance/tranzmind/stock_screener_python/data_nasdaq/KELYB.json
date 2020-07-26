@@ -1,0 +1,160 @@
+{'52WeekChange': -0.47107142,
+ 'SandP52WeekChange': None,
+ 'address1': '999 West Big Beaver Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.19,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 50,
+ 'averageVolume': 390,
+ 'averageVolume10days': 50,
+ 'beta': 1.094677,
+ 'beta3Year': None,
+ 'bid': 14.18,
+ 'bidSize': 800,
+ 'bookValue': 28.008,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Troy',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.81,
+ 'dayLow': 14.81,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 5.687,
+ 'enterpriseToRevenue': 0.12,
+ 'enterpriseValue': 626717696,
+ 'exDividendDate': 1582243200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 15.189143,
+ 'fiftyTwoWeekHigh': 28,
+ 'fiftyTwoWeekLow': 10.35,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 33609948,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7700,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.91692,
+ 'heldPercentInstitutions': 0.0572,
+ 'industry': 'Staffing & Employment Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577577600,
+ 'lastMarket': None,
+ 'lastSplitDate': 740016000,
+ 'lastSplitFactor': '5:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/kellyservices.com',
+ 'longBusinessSummary': 'Kelly Services, Inc., together with its subsidiaries, '
+                        'provides workforce solutions to various industries '
+                        'worldwide. The company operates through three '
+                        'segments: Americas Staffing, Global Talent Solutions, '
+                        'and International Staffing. It provides trained '
+                        'employees for data entry, clerical, and '
+                        'administrative support roles across various '
+                        'industries; schools with instructional and '
+                        'non-instructional employees; support staff for '
+                        'seminars, sales, and trade shows; assemblers, quality '
+                        'control inspectors, and technicians for electronic '
+                        'assembly; maintenance workers, material handlers, and '
+                        'assemblers for light industrial works; scientists, '
+                        'and scientific and clinical research workforce '
+                        'solutions; engineering professionals across various '
+                        'disciplines, including 5G, aeronautical, chemical, '
+                        'civil/structural, electrical/instrumentation, '
+                        'environmental, industrial, mechanical, petroleum, '
+                        'pharmaceutical, quality, and telecommunications. The '
+                        'company also provides temporary staffing and '
+                        'direct-hire placement services across various '
+                        'disciplines, such as corporate finance departments, '
+                        'accounting firms, and financial institutions with '
+                        'various levels of financial professionals, as well as '
+                        'places creative talent in the spectrum of creative '
+                        'services positions. In addition, it provides chefs, '
+                        'porters, and hospitality representatives; and manual '
+                        'workers and semi-skilled professionals in various '
+                        'trade, non-trade, and operational positions. Further, '
+                        'the company provides centrally delivered staffing for '
+                        'large accounts; contingent workforce outsourcing, '
+                        'recruitment process outsourcing, business process '
+                        'outsourcing, and payroll process outsourcing '
+                        'services; contact center staffing solutions; and '
+                        'executive placement, career transition/outplacement, '
+                        'and talent advisory services. Kelly Services, Inc. '
+                        'was founded in 1946 and is headquartered in Troy, '
+                        'Michigan.',
+ 'longName': 'Kelly Services, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 609007936,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_282655',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585440000,
+ 'navPrice': None,
+ 'netIncomeToCommon': -63800000,
+ 'nextFiscalYearEnd': 1640736000,
+ 'open': 14.81,
+ 'openInterest': None,
+ 'payoutRatio': 0.10560001,
+ 'pegRatio': None,
+ 'phone': '248 362 4444',
+ 'previousClose': 14.81,
+ 'priceHint': 2,
+ 'priceToBook': 0.52877754,
+ 'priceToSalesTrailing12Months': 0.11635389,
+ 'profitMargins': -0.01202,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.81,
+ 'regularMarketDayLow': 14.81,
+ 'regularMarketOpen': 14.81,
+ 'regularMarketPreviousClose': 14.81,
+ 'regularMarketPrice': 14.81,
+ 'regularMarketVolume': 8,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 3427540,
+ 'sharesPercentSharesOut': 0,
+ 'sharesShort': 138,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 94,
+ 'shortName': 'Kelly Services, Inc.',
+ 'shortPercentOfFloat': 0.0007,
+ 'shortRatio': 0.21,
+ 'startDate': None,
+ 'state': 'MI',
+ 'strikePrice': None,
+ 'symbol': 'KELYB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.3,
+ 'trailingAnnualDividendYield': 0.020256585,
+ 'trailingEps': -1.631,
+ 'twoHundredDayAverage': 15.552446,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e1e22fdd-f7d6-337f-94c4-35c10829cb53',
+ 'volume': 8,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.kellyservices.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '48084-4782'}

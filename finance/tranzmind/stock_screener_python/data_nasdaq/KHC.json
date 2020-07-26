@@ -1,0 +1,152 @@
+{'52WeekChange': 0.09193957,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'One PPG Place',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 34.84,
+ 'askSize': 3100,
+ 'averageDailyVolume10Day': 6158275,
+ 'averageVolume': 6243187,
+ 'averageVolume10days': 6158275,
+ 'beta': 1.015995,
+ 'beta3Year': None,
+ 'bid': 34.65,
+ 'bidSize': 2200,
+ 'bookValue': 41.742,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Pittsburgh',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 35.25,
+ 'dayLow': 34.511,
+ 'dividendRate': 1.6,
+ 'dividendYield': 0.045900002,
+ 'earningsQuarterlyGrowth': -0.067,
+ 'enterpriseToEbitda': 11.081,
+ 'enterpriseToRevenue': 2.775,
+ 'enterpriseValue': 69864169472,
+ 'exDividendDate': 1590624000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 32.799427,
+ 'fiftyTwoWeekHigh': 35.25,
+ 'fiftyTwoWeekLow': 19.99,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.91,
+ 'floatShares': 969634512,
+ 'forwardEps': 2.36,
+ 'forwardPE': 14.694916,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 37000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00682,
+ 'heldPercentInstitutions': 1.0515699,
+ 'industry': 'Packaged Foods',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/kraftheinzcompany.com',
+ 'longBusinessSummary': 'The Kraft Heinz Company, together with its '
+                        'subsidiaries, manufactures and markets food and '
+                        'beverage products in the United States, Canada, the '
+                        'United Kingdom, and internationally. Its products '
+                        'include condiments and sauces, cheese and dairy, '
+                        'meals, meats and seafood, frozen and chilled foods, '
+                        'packaged drinking pouches, appetizers, refreshment '
+                        'beverages, coffee, nuts and salted snacks, infant and '
+                        'nutrition products, and other grocery products, as '
+                        'well as desserts, dressings, toppings, and baking. '
+                        'The company offers its products under the Kraft, '
+                        'Oscar Mayer, Heinz, Philadelphia, Lunchables, '
+                        'Velveeta, Planters, Maxwell House, Capri Sun, '
+                        'Ore-Ida, Kool-Aid, Jell-O, Classico, McCafe, Tassimo, '
+                        'TGI Fridays, Taco Bell Home Originals, Plasmon, '
+                        'Pudliszki, Honig, HP, Benedicta, Karvan Cevitam, ABC, '
+                        "Master, Quero, Golden Circle, and Wattie's names. It "
+                        'sells its products through its own sales '
+                        'organizations, as well as through independent '
+                        'brokers, agents, and distributors to chain, '
+                        'wholesale, cooperative and independent grocery '
+                        'accounts, convenience stores, drug stores, value '
+                        'stores, bakeries, pharmacies, mass merchants, club '
+                        'stores, foodservice distributors and institutions, '
+                        'including hotels, restaurants, hospitals, health care '
+                        'facilities, and government agencies; and online '
+                        'through e-commerce platforms and retailers. The '
+                        'company was formerly known as H.J. Heinz Holding '
+                        'Corporation and changed its name to The Kraft Heinz '
+                        'Company in July 2015. The Kraft Heinz Company was '
+                        'founded in 1869 and is headquartered in Pittsburgh, '
+                        'Pennsylvania.',
+ 'longName': 'The Kraft Heinz Company',
+ 'market': 'us_market',
+ 'marketCap': 42373066752,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_278212',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1908000000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 34.9,
+ 'openInterest': None,
+ 'payoutRatio': 1.0256,
+ 'pegRatio': -2.94,
+ 'phone': '412 456 5700',
+ 'previousClose': 34.86,
+ 'priceHint': 2,
+ 'priceToBook': 0.8308179,
+ 'priceToSalesTrailing12Months': 1.6831408,
+ 'profitMargins': 0.07579,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 35.25,
+ 'regularMarketDayLow': 34.511,
+ 'regularMarketOpen': 34.9,
+ 'regularMarketPreviousClose': 34.86,
+ 'regularMarketPrice': 34.9,
+ 'regularMarketVolume': 4255232,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 1221830016,
+ 'sharesPercentSharesOut': 0.0121,
+ 'sharesShort': 14741615,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 16000700,
+ 'shortName': 'The Kraft Heinz Company',
+ 'shortPercentOfFloat': 0.0228,
+ 'shortRatio': 2.14,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'KHC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.6,
+ 'trailingAnnualDividendYield': 0.04589788,
+ 'trailingEps': 1.56,
+ 'trailingPE': 22.23077,
+ 'twoHundredDayAverage': 29.227985,
+ 'volume': 4255232,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.kraftheinzcompany.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '15222'}

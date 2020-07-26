@@ -1,0 +1,153 @@
+{'52WeekChange': 0.51362884,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Arias 3751',
+ 'address2': '7th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1004.45,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 399425,
+ 'averageVolume': 519404,
+ 'averageVolume10days': 399425,
+ 'beta': 1.689075,
+ 'beta3Year': None,
+ 'bid': 980.5,
+ 'bidSize': 900,
+ 'bookValue': 37.549,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Buenos Aires',
+ 'companyOfficers': [],
+ 'country': 'Argentina',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1002.47,
+ 'dayLow': 952.22,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -422.693,
+ 'enterpriseToRevenue': 19.441,
+ 'enterpriseValue': 48110088192,
+ 'exDividendDate': 1514419200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 961.868,
+ 'fiftyTwoWeekHigh': 1125,
+ 'fiftyTwoWeekLow': 422.22,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 45565139,
+ 'forwardEps': 1.06,
+ 'forwardPE': 933.00946,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 9703,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.119049996,
+ 'heldPercentInstitutions': 0.85941005,
+ 'industry': 'Internet Retail',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/mercadolibre.com',
+ 'longBusinessSummary': 'MercadoLibre, Inc. operates online commerce platforms '
+                        'in Latin America. It operates MercadoLibre '
+                        'Marketplace, an automated online commerce platform '
+                        'that enables businesses and individuals to list '
+                        'merchandise and conduct sales and purchases online; '
+                        'and MercadoPago FinTech, a financial technology '
+                        'solution platform, which facilitates transactions on '
+                        'and off its marketplaces by providing a mechanism '
+                        'that allows its users to send and receive payments '
+                        'online, and allows merchants to process transactions '
+                        'via their Websites and mobile apps, as well as in '
+                        'their brick-and-mortar stores through QR and mobile '
+                        'points of sale. The company also offers MercadoFondo, '
+                        'an asset management product; and MercadoCredito, a '
+                        'lending solution. In addition, it provides '
+                        'MercadoEnvios logistics solution, which offers its '
+                        'platform technological and operational integration '
+                        'services with third-party carriers and other '
+                        'logistics service providers, as well as fulfillment '
+                        'and warehousing services for sellers. Further, the '
+                        'company provides MercadoLibre Classifieds service '
+                        'that enables users to list their offerings related to '
+                        'motor vehicles, vessels, aircraft, and real estate '
+                        'and services outside the Marketplace platform. '
+                        'Additionally, it offers MercadoLibre Advertising '
+                        'platform, which enables retailers and various other '
+                        'consumer brands to promote their products and '
+                        'services on the Internet by providing branding and '
+                        'performance marketing solutions. The company also '
+                        'provides MercadoShops, a software-as-a-service hosted '
+                        'online store solution that enables users to set-up, '
+                        'manage, and promote their own Webstores. The company '
+                        'was founded in 1999 and is headquartered in Buenos '
+                        'Aires, Argentina.',
+ 'longName': 'MercadoLibre, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 49162690560,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34322384',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -208972000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 968.03,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -56.37,
+ 'phone': '54 11 4640 8000',
+ 'previousClose': 982.3,
+ 'priceHint': 2,
+ 'priceToBook': 26.338652,
+ 'priceToSalesTrailing12Months': 19.866644,
+ 'profitMargins': -0.08283,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1002.47,
+ 'regularMarketDayLow': 952.22,
+ 'regularMarketOpen': 968.03,
+ 'regularMarketPreviousClose': 982.3,
+ 'regularMarketPrice': 968.03,
+ 'regularMarketVolume': 442127,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 49710000,
+ 'sharesPercentSharesOut': 0.038,
+ 'sharesShort': 1888419,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1431332,
+ 'shortName': 'MercadoLibre, Inc.',
+ 'shortPercentOfFloat': 0.045100003,
+ 'shortRatio': 4,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'MELI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.15,
+ 'trailingAnnualDividendYield': 0.00015270285,
+ 'trailingEps': -4.211,
+ 'twoHundredDayAverage': 723.5448,
+ 'volume': 442127,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.mercadolibre.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'C1430CRG'}

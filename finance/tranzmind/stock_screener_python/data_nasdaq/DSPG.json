@@ -1,0 +1,153 @@
+{'52WeekChange': -0.001265049,
+ 'SandP52WeekChange': None,
+ 'address1': '2055 Gateway Place',
+ 'address2': 'Suite 480',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 15.55,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 145875,
+ 'averageVolume': 245941,
+ 'averageVolume10days': 145875,
+ 'beta': 0.877871,
+ 'beta3Year': None,
+ 'bid': 15.53,
+ 'bidSize': 1400,
+ 'bookValue': 6.463,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Jose',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 15.94,
+ 'dayLow': 15.515,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -70.152,
+ 'enterpriseToRevenue': 2.525,
+ 'enterpriseValue': 296883296,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '408 986 4323',
+ 'fiftyDayAverage': 16.212856,
+ 'fiftyTwoWeekHigh': 18.77,
+ 'fiftyTwoWeekLow': 10.26,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 20629883,
+ 'forwardEps': 0.41,
+ 'forwardPE': 37.90244,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 337,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.03873,
+ 'heldPercentInstitutions': 0.86429,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 951955200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/dspg.com',
+ 'longBusinessSummary': 'DSP Group, Inc., a fabless semiconductor company, '
+                        'provides wireless, audio, voice, and AI chipsets for '
+                        'smart-enabled devices. It operates through three '
+                        'segments: Home, Unified Communications, and '
+                        'SmartVoice. The Home segment offers wireless chipset '
+                        'solutions for converged communication at home, '
+                        'including integrated circuits for cordless phones, '
+                        'home gateway devices, integrated circuits addressing '
+                        'home automation applications, and fixed-mobile '
+                        'convergence solutions. The Unified Communications '
+                        'segment offers solution for unified communications '
+                        'products, including office solutions that offer '
+                        'businesses of all sizes VoIP terminals with converged '
+                        'voice and data applications. The SmartVoice segment '
+                        'offers products for the SmartVoice market that '
+                        'provide voice activation and recognition, voice '
+                        'enhancement, always-on and far-end noise elimination '
+                        'that target mobile phones, mobile hearables and '
+                        'headsets, and other devices that incorporate the '
+                        "company's noise suppression and voice quality "
+                        'enhancement HDClear technology. The company markets '
+                        'and distributes its products through direct sales and '
+                        'marketing offices; and a network of global '
+                        'distributors to original equipment manufacturers and '
+                        'original design manufacturers. It has operations in '
+                        'the United States, Europe, Israel, Hong Kong, China, '
+                        'Japan, South Korea, Taiwan, India, and '
+                        'internationally. DSP Group, Inc. was incorporated in '
+                        '1987 and is headquartered in San Jose, California.',
+ 'longName': 'DSP Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 360649216,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_27743',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -2589000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 15.94,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 10.96,
+ 'phone': '408 986 4300',
+ 'previousClose': 15.79,
+ 'priceHint': 2,
+ 'priceToBook': 2.4044561,
+ 'priceToSalesTrailing12Months': 3.0673711,
+ 'profitMargins': -0.02202,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 15.94,
+ 'regularMarketDayLow': 15.515,
+ 'regularMarketOpen': 15.94,
+ 'regularMarketPreviousClose': 15.79,
+ 'regularMarketPrice': 15.94,
+ 'regularMarketVolume': 70777,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 23207800,
+ 'sharesPercentSharesOut': 0.0286,
+ 'sharesShort': 663428,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 723740,
+ 'shortName': 'DSP Group, Inc.',
+ 'shortPercentOfFloat': 0.0366,
+ 'shortRatio': 2.93,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'DSPG',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.112,
+ 'twoHundredDayAverage': 15.408705,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'df91823e-2cde-3ffc-a461-148aff1c8c81',
+ 'volume': 70777,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.dspg.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95110'}

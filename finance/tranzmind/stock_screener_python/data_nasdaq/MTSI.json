@@ -1,0 +1,149 @@
+{'52WeekChange': 0.8715973,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '100 Chelmsford Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 37.49,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 484925,
+ 'averageVolume': 616228,
+ 'averageVolume10days': 484925,
+ 'beta': 2.383193,
+ 'beta3Year': None,
+ 'bid': 36.3,
+ 'bidSize': 4000,
+ 'bookValue': 4.284,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lowell',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 37.27,
+ 'dayLow': 36.41,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 183.383,
+ 'enterpriseToRevenue': 6.309,
+ 'enterpriseValue': 2940365824,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '978-656-2804',
+ 'fiftyDayAverage': 34.90657,
+ 'fiftyTwoWeekHigh': 39.25,
+ 'fiftyTwoWeekLow': 15.03,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 46408705,
+ 'forwardEps': 0.99,
+ 'forwardPE': 36.80808,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.30426002,
+ 'heldPercentInstitutions': 0.79940003,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569542400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/macom.com',
+ 'longBusinessSummary': 'MACOM Technology Solutions Holdings, Inc., together '
+                        'with its subsidiaries, designs and manufactures '
+                        'analog radio frequency (RF), microwave, '
+                        'millimeterwave, and lightwave spectrum products in '
+                        'the United States, China, the Asia Pacific, and '
+                        'internationally. The company offers a portfolio of '
+                        'standard and custom devices, including integrated '
+                        'circuits, multi-chip modules, power pallets and '
+                        'transistors, diodes, amplifiers, switches and switch '
+                        'limiters, passive and active components, and '
+                        'subsystems. Its semiconductor products are electronic '
+                        'components that are incorporated in electronic '
+                        'systems, such as wireless basestations, high density '
+                        'networks, active antenna arrays, radar, magnetic '
+                        'resonance imaging systems, and test and measurement. '
+                        'The company serves various markets comprising '
+                        'telecommunication that includes carrier '
+                        'infrastructure, which comprise long-haul/metro, 5G, '
+                        'and fiber-to-the-X/PON; data centers; and industrial '
+                        'and defense, including military and commercial radar, '
+                        'RF jammers, electronic countermeasures, and '
+                        'communication data links, as well as multi-market '
+                        'applications, such as industrial, medical, test and '
+                        'measurement, and scientific applications. It sells '
+                        'its products through direct sales force, applications '
+                        'engineering staff, independent sales representatives, '
+                        'resellers, and distributors. The company was founded '
+                        'in 1950 and is headquartered in Lowell, '
+                        'Massachusetts.',
+ 'longName': 'MACOM Technology Solutions Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2430383872,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_138672527',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585872000,
+ 'navPrice': None,
+ 'netIncomeToCommon': -352785984,
+ 'nextFiscalYearEnd': 1632700800,
+ 'open': 36.71,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.67,
+ 'phone': '978-656-2500',
+ 'previousClose': 37.41,
+ 'priceHint': 2,
+ 'priceToBook': 8.506069,
+ 'priceToSalesTrailing12Months': 5.2145767,
+ 'profitMargins': -0.75693,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 37.27,
+ 'regularMarketDayLow': 36.41,
+ 'regularMarketOpen': 36.71,
+ 'regularMarketPreviousClose': 37.41,
+ 'regularMarketPrice': 36.71,
+ 'regularMarketVolume': 538970,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 66695500,
+ 'sharesPercentSharesOut': 0.0859,
+ 'sharesShort': 5731693,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6234742,
+ 'shortName': 'MACOM Technology Solutions Hold',
+ 'shortPercentOfFloat': 0.1228,
+ 'shortRatio': 10.25,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'MTSI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -5.339,
+ 'twoHundredDayAverage': 28.473166,
+ 'volume': 538970,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.macom.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01851'}

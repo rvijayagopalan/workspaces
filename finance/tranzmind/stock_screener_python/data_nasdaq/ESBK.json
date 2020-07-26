@@ -1,0 +1,149 @@
+{'52WeekChange': -0.2679783,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '333 East Water Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 15.89,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 1775,
+ 'averageVolume': 2219,
+ 'averageVolume10days': 1775,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 10.75,
+ 'bidSize': 1100,
+ 'bookValue': 14.121,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Elmira',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 10.79,
+ 'dayLow': 10.54,
+ 'dividendRate': 0.6,
+ 'dividendYield': 0.0571,
+ 'earningsQuarterlyGrowth': 0.266,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.188,
+ 'enterpriseValue': 25098950,
+ 'exDividendDate': 1591228800,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 11.196285,
+ 'fiftyTwoWeekHigh': 17.4,
+ 'fiftyTwoWeekLow': 10.49,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 5.08,
+ 'floatShares': 2773287,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 123,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00449,
+ 'heldPercentInstitutions': 0.117460005,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1386201600,
+ 'lastSplitFactor': '11:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/elmirasavingsbank.com',
+ 'longBusinessSummary': 'Elmira Savings Bank provides banking products and '
+                        'services to individual and commercial customers. It '
+                        'accepts savings and money market accounts, time '
+                        'deposits, retail and commercial checking accounts, '
+                        'certificates of deposit, individual retirement '
+                        'arrangements, and NOW accounts. The company also '
+                        'provides consumer loans comprising auto, truck, and '
+                        'motorcycle loans; personal loans; boats, recreational '
+                        'vehicles, and other outdoor sports equipment loans; '
+                        'home improvement/equity loans; jacuzzi/hot tub/pool '
+                        'loans; and lines of credit. In addition, it offers '
+                        'commercial real estate mortgages, such as permanent '
+                        'and construction mortgages, and development loans; '
+                        'commercial loans, including term and time loans, '
+                        'lines of credit, and small business administration '
+                        'loans; and mortgage loans secured by first and second '
+                        'liens on one-to-four family residences. Further, the '
+                        'company provides debit cards, safe deposit boxes, and '
+                        'financial services products; and financial planning '
+                        'advisory, online and mobile banking, overdraft '
+                        'protection, notary public, funds transfer, merchant, '
+                        'and cash management services. Additionally, it '
+                        'operates a real estate investment trust. The company '
+                        'operates through a network of 12 full-service offices '
+                        'located in Chemung, Tompkins, Cayuga, Schuyler, and '
+                        'Steuben Counties; and 1 limited service office '
+                        'located in Broome County, New York. Elmira Savings '
+                        'Bank was founded in 1869 and is based in Elmira, New '
+                        'York.',
+ 'longName': 'Elmira Savings Bank',
+ 'market': 'us_market',
+ 'marketCap': 37896744,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_269022',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 3768000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 10.7,
+ 'openInterest': None,
+ 'payoutRatio': 0.92,
+ 'pegRatio': None,
+ 'phone': '607-735-8660',
+ 'previousClose': 10.28,
+ 'priceHint': 2,
+ 'priceToBook': 0.76411015,
+ 'priceToSalesTrailing12Months': 1.7932496,
+ 'profitMargins': 0.1783,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 10.79,
+ 'regularMarketDayLow': 10.54,
+ 'regularMarketOpen': 10.7,
+ 'regularMarketPreviousClose': 10.28,
+ 'regularMarketPrice': 10.7,
+ 'regularMarketVolume': 2154,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 3512210,
+ 'sharesPercentSharesOut': 0.002,
+ 'sharesShort': 7054,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 8710,
+ 'shortName': 'Elmira Savings Bank NY (The)',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 3.03,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'ESBK',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.84,
+ 'trailingAnnualDividendYield': 0.08171206,
+ 'trailingEps': 1.076,
+ 'trailingPE': 10.027882,
+ 'twoHundredDayAverage': 13.16295,
+ 'volume': 2154,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.elmirasavingsbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '14901'}

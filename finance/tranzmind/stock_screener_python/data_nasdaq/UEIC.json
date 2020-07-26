@@ -1,0 +1,156 @@
+{'52WeekChange': 0.15666747,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Scottsdale Quarter',
+ 'address2': 'Suite H300 15147 North Scottsdale Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 47.67,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 43350,
+ 'averageVolume': 74779,
+ 'averageVolume10days': 43350,
+ 'beta': 1.202801,
+ 'beta3Year': None,
+ 'bid': 47.56,
+ 'bidSize': 800,
+ 'bookValue': 19.405,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Scottsdale',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 49.28,
+ 'dayLow': 47.51,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 13.121,
+ 'enterpriseToRevenue': 0.972,
+ 'enterpriseValue': 700709952,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 46.68714,
+ 'fiftyTwoWeekHigh': 60,
+ 'fiftyTwoWeekLow': 29.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 11831214,
+ 'forwardEps': 4.37,
+ 'forwardPE': 10.897025,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4347,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.041810002,
+ 'heldPercentInstitutions': 0.91236997,
+ 'industry': 'Consumer Electronics',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 949363200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/uei.com',
+ 'longBusinessSummary': 'Universal Electronics Inc. designs, develops, and '
+                        'manufactures pre-programmed and universal control '
+                        'products, audio-video (AV) accessories, and '
+                        'intelligent wireless security and smart home products '
+                        'for consumer electronics, subscription broadcasting, '
+                        'home entertainment, automation, security, and '
+                        'hospitality and climate control markets. The company '
+                        'offers universal infrared and radio frequency (RF) '
+                        'remote controls; integrated circuits on which its '
+                        'software and universal device control database is '
+                        'embedded; and software, firmware, and technology '
+                        'solutions that enable devices, including televisions, '
+                        'set-top boxes, audio systems, smartphones, tablets, '
+                        'game controllers, and other consumer electronic '
+                        'devices to wirelessly connect and interact with home '
+                        'networks, as well as interactive services to control '
+                        'and deliver digital entertainment and information. It '
+                        'also provides proprietary and standards-based RF '
+                        'sensors designed for residential security, safety, '
+                        'and automation applications; AV accessories; and '
+                        'wall-mount and handheld thermostat controllers, and '
+                        'connected accessories for intelligent energy '
+                        'management systems. In addition, the company licenses '
+                        'intellectual property comprising its patented '
+                        'technologies, and database of home connectivity '
+                        'software and control codes. It serves service '
+                        'providers, original equipment manufacturers, '
+                        'retailers, private label brands, and pro-security '
+                        'dealers and companies in the computing industry. The '
+                        'company sells its products under the One For All '
+                        "brand in the United States, the People's Republic of "
+                        'China, rest of Asia, Europe, Latin America, and '
+                        'internationally. Universal Electronics Inc. was '
+                        'founded in 1986 and is headquartered in Scottsdale, '
+                        'Arizona.',
+ 'longName': 'Universal Electronics Inc.',
+ 'market': 'us_market',
+ 'marketCap': 662537024,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_36038',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 10481000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 49.28,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.89,
+ 'phone': '480 530 3000',
+ 'previousClose': 49.24,
+ 'priceHint': 2,
+ 'priceToBook': 2.4540067,
+ 'priceToSalesTrailing12Months': 0.91879684,
+ 'profitMargins': 0.014529999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 49.28,
+ 'regularMarketDayLow': 47.51,
+ 'regularMarketOpen': 49.28,
+ 'regularMarketPreviousClose': 49.24,
+ 'regularMarketPrice': 49.28,
+ 'regularMarketVolume': 18670,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 13913000,
+ 'sharesPercentSharesOut': 0.0194,
+ 'sharesShort': 269701,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 289385,
+ 'shortName': 'Universal Electronics Inc.',
+ 'shortPercentOfFloat': 0.0298,
+ 'shortRatio': 3.66,
+ 'startDate': None,
+ 'state': 'AZ',
+ 'strikePrice': None,
+ 'symbol': 'UEIC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.737,
+ 'trailingPE': 64.6133,
+ 'twoHundredDayAverage': 43.861725,
+ 'volume': 18670,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.uei.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '85254-2494'}

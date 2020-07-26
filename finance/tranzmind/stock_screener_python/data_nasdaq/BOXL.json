@@ -1,0 +1,156 @@
+{'52WeekChange': 0.17110252,
+ 'SandP52WeekChange': None,
+ 'address1': '1045 Progress Circle',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.93,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 66322787,
+ 'averageVolume': 14279565,
+ 'averageVolume10days': 66322787,
+ 'beta': 3.881077,
+ 'beta3Year': None,
+ 'bid': 2.92,
+ 'bidSize': 1100,
+ 'bookValue': -0.048,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lawrenceville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.07,
+ 'dayLow': 2.8601,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -6.492,
+ 'enterpriseToRevenue': 1.444,
+ 'enterpriseValue': 48758520,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 1.4357142,
+ 'fiftyTwoWeekHigh': 4.65,
+ 'fiftyTwoWeekLow': 0.33,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 11774028,
+ 'forwardEps': -0.15,
+ 'forwardPE': -19.533333,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 68,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.46762002,
+ 'heldPercentInstitutions': 0.0502,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/investors.boxlight.com',
+ 'longBusinessSummary': 'Boxlight Corporation, an education technology '
+                        'company, develops, sells, and services interactive '
+                        'classroom solutions for the education market '
+                        'worldwide. The company provides a range of '
+                        'interactive classroom technology products primarily '
+                        'targeted at the K-12 education market. Its products '
+                        'include interactive projectors, interactive flat '
+                        'panel displays, interactive touch projectors, '
+                        'touchboards, and MimioTeach that could turn any '
+                        'whiteboard interactive; and accessory document '
+                        'cameras, teacher pads for remote control, and '
+                        'assessment systems. The company also offers '
+                        'MimioStudio Interactive Instructional Software that '
+                        'enables the creation, editing, and presentation of '
+                        'interactive instructional lessons and activities; '
+                        'MimioMobile, a software accessory for MimioStudio; '
+                        'Oktopus Instructional and Whiteboarding Software that '
+                        'enables the creation, editing, and presentation of '
+                        'interactive instructional lessons and activities; '
+                        'Notes+, a software accessory for use with Oktopus '
+                        'software; and GameZones and MimioInteract, which are '
+                        'multi-student interactive gaming software. In '
+                        'addition, it offers interactive touch tables and '
+                        'whiteboards; and peripherals and accessories, such as '
+                        'amplified speaker systems, mobile carts, installation '
+                        'accessories, and wall-mount accessories for '
+                        'interactive and standard projectors, and LED flat '
+                        'panels. Further, the company distributes interactive '
+                        'projectors and LED flat panels; and science, '
+                        'technology, engineering, and math data logging and '
+                        'robotics products. The company was formerly known as '
+                        'Logical Choice Corporation. Boxlight Corporation was '
+                        'incorporated in 2014 and is headquartered in '
+                        'Lawrenceville, Georgia.',
+ 'longName': 'Boxlight Corporation',
+ 'market': 'us_market',
+ 'marketCap': 93341888,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_304692752',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -6746249,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.98,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '866 972 1549',
+ 'previousClose': 3.08,
+ 'priceHint': 4,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 2.7648656,
+ 'profitMargins': -0.19983,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.07,
+ 'regularMarketDayLow': 2.8601,
+ 'regularMarketOpen': 2.98,
+ 'regularMarketPreviousClose': 3.08,
+ 'regularMarketPrice': 2.98,
+ 'regularMarketVolume': 4282880,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 31857300,
+ 'sharesPercentSharesOut': 0.012,
+ 'sharesShort': 363428,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 267429,
+ 'shortName': 'Boxlight Corporation',
+ 'shortPercentOfFloat': 0.013300001,
+ 'shortRatio': 0.06,
+ 'startDate': None,
+ 'state': 'GA',
+ 'strikePrice': None,
+ 'symbol': 'BOXL',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.6,
+ 'twoHundredDayAverage': 1.0353597,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f525ed95-33c2-3007-953a-a8f1eddbf114',
+ 'volume': 4282880,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://investors.boxlight.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '30043'}

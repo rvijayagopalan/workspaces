@@ -1,0 +1,148 @@
+{'52WeekChange': 0.2752223,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1400 American Lane',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 131.99,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 336050,
+ 'averageVolume': 638392,
+ 'averageVolume10days': 336050,
+ 'beta': 1.680112,
+ 'beta3Year': None,
+ 'bid': 71.43,
+ 'bidSize': 900,
+ 'bookValue': 6.977,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Schaumburg',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 135.02,
+ 'dayLow': 131.08,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.432,
+ 'enterpriseToEbitda': 76.771,
+ 'enterpriseToRevenue': 12.677,
+ 'enterpriseValue': 6986661376,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 139.76428,
+ 'fiftyTwoWeekHigh': 156,
+ 'fiftyTwoWeekLow': 66.98,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 37182506,
+ 'forwardEps': 1.59,
+ 'forwardPE': 82.99371,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3050,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.30961,
+ 'heldPercentInstitutions': 0.69356,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/paylocity.com',
+ 'longBusinessSummary': 'Paylocity Holding Corporation provides cloud-based '
+                        'payroll and human capital management software '
+                        'solutions for medium-sized organizations in the '
+                        'United States. The company offers Payroll module that '
+                        'enables clients to automate key payroll processes and '
+                        'manage compliance; Core HR module, which provides a '
+                        'set of HR capabilities enabling clients to manage HR '
+                        'data; and Talent module that enable clients to manage '
+                        "their talent throughout employees' tenures, starting "
+                        'at recruiting and carrying through onboarding, '
+                        'learning, and performance management. It also '
+                        'provides Workforce Management module for time and '
+                        'attendance and scheduling functionality, enabling '
+                        'clients to collect hourly data for employees, improve '
+                        'productivity, and help organizations control labor '
+                        'costs; Benefits modules, which offers benefit '
+                        'management solutions that integrate with insurance '
+                        'carrier systems to provide automated administrative '
+                        'processes. In addition, the company offers '
+                        'third-party administrative services for clients '
+                        'designed to modernize the administration of flexible '
+                        'spending accounts, health savings accounts, '
+                        'transportation management accounts, premium only '
+                        'plans, and health reimbursement arrangements for '
+                        'their employees. Further, it provides implementation '
+                        'and training, client, and tax and regulatory '
+                        'services. The company was founded in 1997 and is '
+                        'headquartered in Schaumburg, Illinois.',
+ 'longName': 'Paylocity Holding Corporation',
+ 'market': 'us_market',
+ 'marketCap': 7084431360,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_254957567',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 69746000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 133.74,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.65,
+ 'phone': '847-463-3200',
+ 'previousClose': 135.39,
+ 'priceHint': 2,
+ 'priceToBook': 18.913574,
+ 'priceToSalesTrailing12Months': 12.854771,
+ 'profitMargins': 0.12655,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 135.02,
+ 'regularMarketDayLow': 131.08,
+ 'regularMarketOpen': 133.74,
+ 'regularMarketPreviousClose': 135.39,
+ 'regularMarketPrice': 133.74,
+ 'regularMarketVolume': 242394,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 53686200,
+ 'sharesPercentSharesOut': 0.0379,
+ 'sharesShort': 2037002,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2279652,
+ 'shortName': 'Paylocity Holding Corporation',
+ 'shortPercentOfFloat': 0.059,
+ 'shortRatio': 4.33,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'PCTY',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.25,
+ 'trailingPE': 105.56801,
+ 'twoHundredDayAverage': 123.250435,
+ 'volume': 242394,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.paylocity.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60173'}

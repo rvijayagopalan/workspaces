@@ -1,0 +1,161 @@
+{'52WeekChange': -0.11900592,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '9700 West Higgins Road',
+ 'address2': 'Suite 800',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 26.05,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 9862,
+ 'averageVolume': 21861,
+ 'averageVolume10days': 9862,
+ 'beta': 1.621848,
+ 'beta3Year': None,
+ 'bid': 25.17,
+ 'bidSize': 1200,
+ 'bookValue': 62.142,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Rosemont',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': None,
+ 'dayHigh': 25.85,
+ 'dayLow': 25.17,
+ 'dividendRate': 1.64,
+ 'dividendYield': 0.064899996,
+ 'earningsQuarterlyGrowth': -0.734,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': -0.054,
+ 'enterpriseValue': -72574672,
+ 'exDividendDate': 1593475200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 25.199572,
+ 'fiftyTwoWeekHigh': 31.176,
+ 'fiftyTwoWeekLow': 13.269,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 56851122,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5057,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.16584998,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/wintrust.com',
+ 'longBusinessSummary': 'Wintrust Financial Corporation operates as a '
+                        'financial holding company in the Chicago metropolitan '
+                        'area, southern Wisconsin, and northwest Indiana. It '
+                        'operates in three segments: Community Banking, '
+                        'Specialty Finance, and Wealth Management. The '
+                        'Community Banking segment offers non-interest bearing '
+                        'deposits, non-brokered interest-bearing transaction '
+                        'accounts, and savings and domestic time deposits; '
+                        'home equity, consumer, and real estate loans; safe '
+                        'deposit facilities; and automatic teller machine '
+                        '(ATM), online and mobile banking, and other services. '
+                        'It also engages in the origination and purchase of '
+                        'residential mortgages for sale into the secondary '
+                        'market; and provision of lending, deposits, and cash '
+                        'management services to condominium, homeowner, and '
+                        'community associations, as well as asset-based '
+                        'lending for middle-market companies. In addition, '
+                        'this segment offers loan and deposit services to '
+                        'mortgage brokerage companies; lending to restaurant '
+                        'franchisees; direct leasing; small business '
+                        'administration loans; commercial mortgages and '
+                        'construction loans; and financial solutions. It '
+                        'provides personal and commercial banking services '
+                        'primarily to individuals, small to mid-sized '
+                        'businesses, local governmental units, and '
+                        'institutional customers. The Specialty Finance '
+                        'segment offers commercial and life insurance premiums '
+                        'financing for businesses and individuals; accounts '
+                        'receivable financing, value-added, and out-sourced '
+                        'administrative services; and other specialty finance '
+                        'services, as well as data processing of payrolls, '
+                        'billing, and cash management services to temporary '
+                        'staffing industry. The Wealth Management segment '
+                        'provides trust and investment, asset management, '
+                        'tax-deferred exchange, securities brokerage, and '
+                        'retirement plan services. As of December 31, 2019, '
+                        'the company had approximately 187 banking facilities '
+                        'and 230 ATMs. Wintrust Financial Corporation was '
+                        'founded in 1991 and is headquartered in Rosemont, '
+                        'Illinois.',
+ 'longName': 'Wintrust Financial Corporation',
+ 'market': 'us_market',
+ 'marketCap': 3580172032,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_96334',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 261356000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 25.67,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '847-939-9000',
+ 'previousClose': 25.27,
+ 'priceHint': 2,
+ 'priceToBook': 0.40632746,
+ 'priceToSalesTrailing12Months': 2.6581936,
+ 'profitMargins': 0.20014,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.85,
+ 'regularMarketDayLow': 25.17,
+ 'regularMarketOpen': 25.67,
+ 'regularMarketPreviousClose': 25.27,
+ 'regularMarketPrice': 25.67,
+ 'regularMarketVolume': 21825,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 56392300,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': None,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'Wintrust Financial Corporation ',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': None,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'WTFCM',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.06,
+ 'trailingAnnualDividendYield': 0.04194697,
+ 'trailingEps': 4.497,
+ 'trailingPE': 5.614854,
+ 'twoHundredDayAverage': 26.097893,
+ 'volume': 21825,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.wintrust.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60018'}

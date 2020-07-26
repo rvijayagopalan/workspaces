@@ -1,0 +1,155 @@
+{'52WeekChange': -0.3390032,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '8214 Westchester Drive',
+ 'address2': 'Suite 800',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 16.73,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 170200,
+ 'averageVolume': 343800,
+ 'averageVolume10days': 170200,
+ 'beta': 1.916526,
+ 'beta3Year': None,
+ 'bid': 16.73,
+ 'bidSize': 800,
+ 'bookValue': 23.191,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Dallas',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 17.11,
+ 'dayLow': 16.7,
+ 'dividendRate': 0.68,
+ 'dividendYield': 0.041300002,
+ 'earningsQuarterlyGrowth': -0.442,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 7.531,
+ 'enterpriseValue': 1930030720,
+ 'exDividendDate': 1588723200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 17.155428,
+ 'fiftyTwoWeekHigh': 29.41,
+ 'fiftyTwoWeekLow': 10.02,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 45569636,
+ 'forwardEps': 1.74,
+ 'forwardPE': 9.603448,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 676,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03185,
+ 'heldPercentInstitutions': 0.88507,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/veritexbank.com',
+ 'longBusinessSummary': 'Veritex Holdings, Inc. operates as the holding '
+                        'company for Veritex Community Bank that provides '
+                        'various commercial banking products and services to '
+                        'small and medium-sized businesses, and professionals. '
+                        "The company's deposit products include demand, "
+                        'savings, money market and time deposit accounts, as '
+                        'well as commercial deposit and financial institution '
+                        'money market accounts. Its loan portfolio consists of '
+                        'commercial real estate and general commercial loans, '
+                        'mortgage warehouse loans, residential real estate '
+                        'loans, construction and land loans, farmland loans, '
+                        'and consumer loans, as well as purchased receivables '
+                        'financing. The company also provides a range of '
+                        'online banking solutions, such as access to account '
+                        'balances, online transfers, online bill payment and '
+                        'electronic delivery of customer statements, and ATMs, '
+                        'as well as banking through telephone, mail, and '
+                        'personal appointment. In addition, it offers debit '
+                        'cards, night depository services, direct deposits, '
+                        "cashier's checks, and letters of credit; treasury "
+                        'management services, including balance reporting, '
+                        'transfers between accounts, wire transfer initiation, '
+                        'automated clearinghouse origination, and stop '
+                        'payments; and cash management deposit products '
+                        'consisting of lockbox, remote deposit capture, '
+                        'positive pay, reverse positive pay, account '
+                        'reconciliation services, zero balance accounts, and '
+                        'sweep accounts. As of December 31, 2019, the company '
+                        'had 25 branches and one mortgage office located in '
+                        'the Dallas-Fort Worth metroplex, as well as 12 '
+                        'full-service branches in the Houston metropolitan '
+                        'area and one branch in Louisville, Kentucky. Veritex '
+                        'Holdings, Inc. was founded in 2009 and is '
+                        'headquartered in Dallas, Texas.',
+ 'longName': 'Veritex Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 841829696,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_99259940',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 87466000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 17.02,
+ 'openInterest': None,
+ 'payoutRatio': 0.3344,
+ 'pegRatio': 1.74,
+ 'phone': '972-349-6200',
+ 'previousClose': 16.97,
+ 'priceHint': 2,
+ 'priceToBook': 0.7205381,
+ 'priceToSalesTrailing12Months': 3.2849455,
+ 'profitMargins': 0.3413,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 17.11,
+ 'regularMarketDayLow': 16.7,
+ 'regularMarketOpen': 17.02,
+ 'regularMarketPreviousClose': 16.97,
+ 'regularMarketPrice': 17.02,
+ 'regularMarketVolume': 121758,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 50378800,
+ 'sharesPercentSharesOut': 0.0324,
+ 'sharesShort': 1634629,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1959638,
+ 'shortName': 'Veritex Holdings, Inc.',
+ 'shortPercentOfFloat': 0.0402,
+ 'shortRatio': 4.9,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'VBTX',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.545,
+ 'trailingAnnualDividendYield': 0.0321155,
+ 'trailingEps': 1.656,
+ 'trailingPE': 10.090579,
+ 'twoHundredDayAverage': 19.463022,
+ 'volume': 121758,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.veritexbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75225'}

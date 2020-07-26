@@ -1,0 +1,152 @@
+{'52WeekChange': -0.05686128,
+ 'SandP52WeekChange': None,
+ 'address1': '5500 Cenex Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24.8,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 23112,
+ 'averageVolume': 27282,
+ 'averageVolume10days': 23112,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 24.7,
+ 'bidSize': 800,
+ 'bookValue': None,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Inver Grove Heights',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': None,
+ 'dayHigh': 24.85,
+ 'dayLow': 24.72,
+ 'dividendRate': 1.69,
+ 'dividendYield': 0.0683,
+ 'earningsQuarterlyGrowth': 0.788,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': None,
+ 'exDividendDate': 1592179200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 24.69,
+ 'fiftyTwoWeekHigh': 28.19,
+ 'fiftyTwoWeekLow': 13.58,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 5.24,
+ 'floatShares': None,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 10703,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.33758,
+ 'industry': 'Farm Products',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1567209600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/chsinc.com',
+ 'longBusinessSummary': 'CHS Inc., an integrated agricultural company, '
+                        'provides grains, foods, and energy resources to '
+                        'businesses and consumers in North America, South '
+                        'America, Europe, the Middle East, Africa, and the '
+                        'Asia Pacific. The company operates through three '
+                        'segments: Energy, Ag, and Nitrogen Production. It is '
+                        'involved in the operation of petroleum refineries and '
+                        'pipelines; supply, marketing, and distribution of '
+                        'refined fuels, including gasoline, diesel fuel, and '
+                        'other energy products; blending, sale, and '
+                        'distribution of lubricants; and the supply of propane '
+                        'and other natural gas liquids. The company also '
+                        'processes and sells crude oil into refined petroleum '
+                        'products under the Cenex brand name to member '
+                        'cooperatives and other independent retailers through '
+                        'a network of approximately 1,500 sites; and provides '
+                        'transportation services. In addition, it markets '
+                        'grains and oilseeds; and offers seeds, crop '
+                        'nutrients, crop protection products, animal feed, '
+                        'animal health products, refined and renewable fuels, '
+                        'and propane, as well as refined oils, meal, soy '
+                        'flour, and processed sunflower products. Further, the '
+                        'company produces and sells nitrogen-based products, '
+                        'including methanol, UAN and urea, and related '
+                        'products; and offers cooperative associations with '
+                        'various loans that meet commercial agriculture needs '
+                        'and loans to individual producers, as well as '
+                        'consulting and commodity risk management services. '
+                        'CHS Inc. is headquartered in Inver Grove Heights, '
+                        'Minnesota.',
+ 'longName': 'CHS Inc.',
+ 'market': 'us_market',
+ 'marketCap': None,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_160810',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1590883200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 411299008,
+ 'nextFiscalYearEnd': 1630368000,
+ 'open': 24.85,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '651-355-6000',
+ 'previousClose': 24.88,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.0194,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 24.85,
+ 'regularMarketDayLow': 24.72,
+ 'regularMarketOpen': 24.85,
+ 'regularMarketPreviousClose': 24.88,
+ 'regularMarketPrice': 24.85,
+ 'regularMarketVolume': 14205,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': None,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': None,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'CHS Inc',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': None,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'CHSCM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': None,
+ 'twoHundredDayAverage': 25.126526,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '45ac7719-51f6-358f-b5d4-b50678b4bd93',
+ 'volume': 14205,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.chsinc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '55077'}

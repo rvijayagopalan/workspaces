@@ -1,0 +1,156 @@
+{'52WeekChange': 0.15851796,
+ 'SandP52WeekChange': None,
+ 'address1': '11 Hurley Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 29.88,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 792912,
+ 'averageVolume': 1095877,
+ 'averageVolume10days': 792912,
+ 'beta': 2.031536,
+ 'beta3Year': None,
+ 'bid': 29.87,
+ 'bidSize': 1000,
+ 'bookValue': 4.311,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 30.32,
+ 'dayLow': 28.87,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -8.081,
+ 'enterpriseToRevenue': 51.213,
+ 'enterpriseValue': 1238575872,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 30.616714,
+ 'fiftyTwoWeekHigh': 36.78,
+ 'fiftyTwoWeekLow': 14.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 53700260,
+ 'forwardEps': -3.18,
+ 'forwardPE': -9.396226,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 208,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.024130002,
+ 'heldPercentInstitutions': 0.75778,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/editasmedicine.com',
+ 'longBusinessSummary': 'Editas Medicine, Inc. operates as a clinical stage '
+                        'genome editing company. The company focuses on '
+                        'developing transformative genomic medicines to treat '
+                        'a range of serious diseases. The company develops a '
+                        'proprietary genome editing platform based on CRISPR '
+                        'technology, which includes CRISPR/Cas9, '
+                        'CRISPR/Cas12a, and engineered forms of both of these '
+                        'CRISPR systems to target genetically addressable '
+                        'diseases and therapeutic areas. It also develops '
+                        'EDIT-101, which is in Phase 1/2 clinical trial for '
+                        'the treatment of Leber Congenital Amaurosis type 10, '
+                        'a genetic form of vision loss that leads to blindness '
+                        'in childhood. In addition, the company develops '
+                        'EDIT-102 for the treatment of Usher Syndrome 2A, '
+                        'which is a form of retinitis pigmentosa that also '
+                        'includes hearing loss; autosomal dominant retinitis '
+                        'pigmentosa 4, a progressive form of retinal '
+                        'degeneration; and EDIT-301 treat sickle cell disease '
+                        'and beta-thalassemia. It has a research collaboration '
+                        'with Juno Therapeutics, Inc. to develop engineered T '
+                        'cells for cancer; strategic alliance and option '
+                        'agreement with Allergan Pharmaceuticals International '
+                        'Limited to discover, develop, and commercialize new '
+                        'gene editing medicines for a range of ocular '
+                        'disorders; strategic research collaboration Asklepios '
+                        'BioPharmaceutical, Inc. to develop a therapy to treat '
+                        'a neurological disease; and research collaboration '
+                        'with Sandhill Therapeutics, Inc. to develop '
+                        'allogeneic healthy donor derived NK cell medicines '
+                        'for the treatment of solid tumors. The company was '
+                        'formerly known as Gengine, Inc. and changed its name '
+                        'to Editas Medicine, Inc. in November 2013. Editas '
+                        'Medicine, Inc. was founded in 2013 and is '
+                        'headquartered in Cambridge, Massachusetts.',
+ 'longName': 'Editas Medicine, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1856453248,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_252050056',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -142220992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 29.79,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '617 401 9000',
+ 'previousClose': 30.33,
+ 'priceHint': 2,
+ 'priceToBook': 6.9311066,
+ 'priceToSalesTrailing12Months': 76.76052,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 30.32,
+ 'regularMarketDayLow': 28.87,
+ 'regularMarketOpen': 29.79,
+ 'regularMarketPreviousClose': 30.33,
+ 'regularMarketPrice': 29.79,
+ 'regularMarketVolume': 735856,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 62130300,
+ 'sharesPercentSharesOut': 0.1513,
+ 'sharesShort': 9401225,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 8312446,
+ 'shortName': 'Editas Medicine, Inc.',
+ 'shortPercentOfFloat': 0.1514,
+ 'shortRatio': 6.77,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'EDIT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.766,
+ 'twoHundredDayAverage': 26.341368,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '93762d80-2eed-34b3-a1c5-9d1d46b35248',
+ 'volume': 735856,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.editasmedicine.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02141'}

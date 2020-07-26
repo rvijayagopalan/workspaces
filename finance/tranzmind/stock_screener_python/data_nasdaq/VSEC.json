@@ -1,0 +1,156 @@
+{'52WeekChange': 0.09565544,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '6348 Walker Lane',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 32.48,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 22137,
+ 'averageVolume': 40398,
+ 'averageVolume10days': 22137,
+ 'beta': 1.802801,
+ 'beta3Year': None,
+ 'bid': 28.8,
+ 'bidSize': 800,
+ 'bookValue': 33.221,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Alexandria',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 29.15,
+ 'dayLow': 28.75,
+ 'dividendRate': 0.36,
+ 'dividendYield': 0.0124,
+ 'earningsQuarterlyGrowth': -0.495,
+ 'enterpriseToEbitda': 6.796,
+ 'enterpriseToRevenue': 0.813,
+ 'enterpriseValue': 618300352,
+ 'exDividendDate': 1594684800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 29.018572,
+ 'fiftyTwoWeekHigh': 41.14,
+ 'fiftyTwoWeekLow': 13.83,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.81,
+ 'floatShares': 8790755,
+ 'forwardEps': 2.72,
+ 'forwardPE': 10.569853,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2776,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.04817,
+ 'heldPercentInstitutions': 0.70385003,
+ 'industry': 'Aerospace & Defense',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1470268800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/vsecorp.com',
+ 'longBusinessSummary': 'VSE Corporation operates as a diversified products '
+                        'and services aftermarket company in the United '
+                        'States. The company operates in three segments: '
+                        'Supply Chain Management Group, Aviation Group, and '
+                        'Federal Services Group. The Supply Chain Management '
+                        'Group segment offers sourcing, acquisition, '
+                        'scheduling, transportation, shipping, logistics, data '
+                        'management, and other services to assist its clients '
+                        'with supply chain management. It sells vehicle parts '
+                        'and mission critical supply chain services to support '
+                        'the United States Postal Service (USPS) vehicle fleet '
+                        'and commercial truck fleets; and fleet management and '
+                        'sustainment solutions, and managed inventory services '
+                        'to the Department of Defense (DoD). The Aviation '
+                        'Group segment provides maintenance, repair, and '
+                        'overhaul (MRO) services; and parts supply and '
+                        'distribution for commercial and general aviation jet '
+                        'aircraft engines and engine accessories. It serves '
+                        'commercial airlines, regional airlines, cargo '
+                        'transporters, MRO integrators and providers, aviation '
+                        'manufacturers, corporate and private aircraft owners, '
+                        'and agricultural clients. The Federal Services Group '
+                        'segment offers foreign military sales services and '
+                        'refurbishment services to extend and enhance the life '
+                        'of existing vehicles and equipment; fleet-wide ship '
+                        'and aircraft support; aircraft sustainment and '
+                        'maintenance; and other technical, management, '
+                        'engineering, logistics, maintenance, configuration '
+                        'management, prototyping, technology, and field '
+                        'support services to the U.S. Navy and Marine Corps, '
+                        'U.S. Army and Army Reserve, U.S. Air Force, and other '
+                        'customers. This segment also provides energy '
+                        'consulting services, and IT solutions and services '
+                        'for various DoD and federal civilian agencies. VSE '
+                        'Corporation was founded in 1959 and is headquartered '
+                        'in Alexandria, Virginia.',
+ 'longName': 'VSE Corporation',
+ 'market': 'us_market',
+ 'marketCap': 317492000,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_311426',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 33753000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 29.15,
+ 'openInterest': None,
+ 'payoutRatio': 0.1148,
+ 'pegRatio': 2.22,
+ 'phone': '703 960 4600',
+ 'previousClose': 28.97,
+ 'priceHint': 2,
+ 'priceToBook': 0.8654164,
+ 'priceToSalesTrailing12Months': 0.41768336,
+ 'profitMargins': 0.0444,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 29.15,
+ 'regularMarketDayLow': 28.75,
+ 'regularMarketOpen': 29.15,
+ 'regularMarketPreviousClose': 28.97,
+ 'regularMarketPrice': 29.15,
+ 'regularMarketVolume': 18049,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 11043200,
+ 'sharesPercentSharesOut': 0.0139999995,
+ 'sharesShort': 155045,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 129174,
+ 'shortName': 'VSE Corporation',
+ 'shortPercentOfFloat': 0.0216,
+ 'shortRatio': 3.48,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'VSEC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.36,
+ 'trailingAnnualDividendYield': 0.012426649,
+ 'trailingEps': 3.047,
+ 'trailingPE': 9.435511,
+ 'twoHundredDayAverage': 25.782303,
+ 'volume': 18049,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.vsecorp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '22310'}

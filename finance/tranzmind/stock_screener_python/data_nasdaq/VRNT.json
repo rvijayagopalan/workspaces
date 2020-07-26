@@ -1,0 +1,162 @@
+{'52WeekChange': -0.2540728,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '175 Broadhollow Road',
+ 'address2': 'Suite 100',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 43.04,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 493887,
+ 'averageVolume': 551373,
+ 'averageVolume10days': 493887,
+ 'beta': 0.944537,
+ 'beta3Year': None,
+ 'bid': 43.03,
+ 'bidSize': 900,
+ 'bookValue': 18.262,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Melville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 44.1,
+ 'dayLow': 42.42,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 22.832,
+ 'enterpriseToRevenue': 2.648,
+ 'enterpriseValue': 3378355456,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '631 962 9300',
+ 'fiftyDayAverage': 44.168,
+ 'fiftyTwoWeekHigh': 59.83,
+ 'fiftyTwoWeekLow': 32.44,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 63465503,
+ 'forwardEps': 3.75,
+ 'forwardPE': 11.477334,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6300,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02474,
+ 'heldPercentInstitutions': 1.03908,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/verint.com',
+ 'longBusinessSummary': 'Verint Systems Inc. provides actionable intelligence '
+                        'solutions worldwide. It operates through Customer '
+                        'Engagement and Cyber Intelligence segments. The '
+                        'company offers Workforce Forecasting and Scheduling '
+                        'for management of workforce scheduling in contact '
+                        'centers, back office operations, and branches; Verint '
+                        'Mobile apps that deliver work-life balance ownership '
+                        'to employees and managers on-the-go; Knowledge '
+                        'Management solution for reduce training time, '
+                        'increase first call resolution, and improve customer '
+                        'satisfaction scores; Virtual Assistant, which '
+                        'provides automated and real-time support for the '
+                        'employee; Verint Real-Time Analytics that surfaces '
+                        'contextual guidance to an employee; Verint Robotic '
+                        'Process Automation solutions; and Verint Employee '
+                        'Desktop that unifies disparate applications on an '
+                        "employee's desktop. It also offers Verint Recording "
+                        'for capturing customer interactions across voice and '
+                        'digital channels; Verint Automated Quality Management '
+                        'products that automate the quality process from '
+                        'scoring evaluations to assigning coaching; Verint '
+                        'Performance Management, which triggers automated '
+                        'workflows; Verint Interaction Analytics to reduce '
+                        'cost by identifying operational process challenges; '
+                        'Verint Desktop and Process Analytics; Verint Work '
+                        'Manager; and Verint Performance Management solutions. '
+                        'In addition, the company provides Intelligent Virtual '
+                        'Assistant; Web Self-Service that enable customers to '
+                        'self-serve on the web or via their mobile devices; '
+                        'Communities, which enable organizations to manage '
+                        'online communities for their employees, customers, '
+                        'and partners; Verint Experience Cloud that connects '
+                        'siloes of customer experience data to identify '
+                        'problems, predict outcomes, and drive actions; '
+                        'Omni-Channel Recording, which captures customer '
+                        'interaction data; compliance recording that supports '
+                        'compliance audits and the avoidance of fines; and '
+                        'Fraud Prevention And Cyber Intelligence Solutions. '
+                        'The company was founded in 1994 and is headquartered '
+                        'in Melville, New York.',
+ 'longName': 'Verint Systems Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2777186304,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1717518',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 21094000,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 43.74,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.99,
+ 'phone': '631 962 9600',
+ 'previousClose': 43.98,
+ 'priceHint': 2,
+ 'priceToBook': 2.3568068,
+ 'priceToSalesTrailing12Months': 2.1770413,
+ 'profitMargins': 0.01653,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 44.1,
+ 'regularMarketDayLow': 42.42,
+ 'regularMarketOpen': 43.74,
+ 'regularMarketPreviousClose': 43.98,
+ 'regularMarketPrice': 43.74,
+ 'regularMarketVolume': 532226,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 64525700,
+ 'sharesPercentSharesOut': 0.028299998,
+ 'sharesShort': 1829219,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2204050,
+ 'shortName': 'Verint Systems Inc.',
+ 'shortPercentOfFloat': 0.0323,
+ 'shortRatio': 2.6,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'VRNT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.32,
+ 'trailingPE': 134.5,
+ 'twoHundredDayAverage': 47.36122,
+ 'volume': 532226,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.verint.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '11747'}

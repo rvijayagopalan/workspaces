@@ -1,0 +1,160 @@
+{'52WeekChange': -0.0065433383,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '935 Stewart Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 44.33,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 798037,
+ 'averageVolume': 1167633,
+ 'averageVolume10days': 798037,
+ 'beta': 1.679551,
+ 'beta3Year': None,
+ 'bid': 43.69,
+ 'bidSize': 1000,
+ 'bookValue': 12.42,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Sunnyvale',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 45.04,
+ 'dayLow': 43.93,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.006,
+ 'enterpriseToEbitda': 20.084,
+ 'enterpriseToRevenue': 3.951,
+ 'enterpriseValue': 12861514752,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 43.23,
+ 'fiftyTwoWeekHigh': 46.67,
+ 'fiftyTwoWeekLow': 20.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 248380670,
+ 'forwardEps': 2.03,
+ 'forwardPE': 21.689655,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 11484,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00509,
+ 'heldPercentInstitutions': 0.91856,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1578009600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1363824000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/trimble.com',
+ 'longBusinessSummary': 'Trimble Inc. provides technology solutions that '
+                        'enable professionals and field mobile workers to '
+                        'improve or transform their work processes worldwide. '
+                        'It operates through four segments: Buildings and '
+                        'Infrastructure, Geospatial, Resources and Utilities, '
+                        'and Transportation. The Buildings and Infrastructure '
+                        'segment offers field and office software for route '
+                        'selection and design; systems to guide and control '
+                        'construction equipment; systems to monitor, track, '
+                        'and manage assets, equipment, and workers; software '
+                        'to share and communicate data; 3D conceptual design '
+                        'and modeling software; building information modeling '
+                        'software; integrated site layout and measurement '
+                        'systems; cost estimating, scheduling, and project '
+                        'controls solutions; applications for sub-contractors '
+                        'and trades; and an integrated workplace management '
+                        'software. The Geospatial segment provides surveying '
+                        'and geospatial products, and geographic information '
+                        'systems. The Resources and Utilities segment offers '
+                        'precision agriculture products and services, such as '
+                        'guidance and positioning systems, automated and '
+                        'variable-rate application and technology systems, and '
+                        'information management solutions. This segment '
+                        'provides manual and automated navigation guidance for '
+                        'tractors and other farm equipment; solutions to '
+                        'automate application of pesticide and seeding; water '
+                        'solutions; Farmer Core, a software subscription that '
+                        'enables farmers to connect their farm operation; and '
+                        'forestry solutions for forest management, '
+                        'traceability, and timber processing. The '
+                        'Transportation segment offers solutions for long haul '
+                        'trucking, field service management, rail, and '
+                        'construction logistics industries, as well as '
+                        'transportation management, analytics, routing, '
+                        'mapping, reporting, and predictive modeling solution '
+                        'under Trimble brand name. The company was formerly '
+                        'known as Trimble Navigation Limited and changed its '
+                        'name to Trimble Inc. in October 2016. Trimble Inc. '
+                        'was founded in 1978 and is headquartered in '
+                        'Sunnyvale, California.',
+ 'longName': 'Trimble Inc.',
+ 'market': 'us_market',
+ 'marketCap': 10997020672,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_126411',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585872000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 513900000,
+ 'nextFiscalYearEnd': 1641168000,
+ 'open': 44.95,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.72,
+ 'phone': '408 481 8000',
+ 'previousClose': 45.31,
+ 'priceHint': 2,
+ 'priceToBook': 3.5450885,
+ 'priceToSalesTrailing12Months': 3.378501,
+ 'profitMargins': 0.15788001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 45.04,
+ 'regularMarketDayLow': 43.93,
+ 'regularMarketOpen': 44.95,
+ 'regularMarketPreviousClose': 45.31,
+ 'regularMarketPrice': 44.95,
+ 'regularMarketVolume': 790317,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 249762000,
+ 'sharesPercentSharesOut': 0.0202,
+ 'sharesShort': 5042890,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5570593,
+ 'shortName': 'Trimble Inc.',
+ 'shortPercentOfFloat': 0.0226,
+ 'shortRatio': 3.86,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'TRMB',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.032,
+ 'trailingPE': 21.668306,
+ 'twoHundredDayAverage': 38.84338,
+ 'volume': 790317,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.trimble.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94085'}

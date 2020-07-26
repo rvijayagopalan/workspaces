@@ -1,0 +1,149 @@
+{'52WeekChange': 0.49404764,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '65 Grove Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.69,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 1102762,
+ 'averageVolume': 2376285,
+ 'averageVolume10days': 1102762,
+ 'beta': 1.394172,
+ 'beta3Year': None,
+ 'bid': 2.48,
+ 'bidSize': 3000,
+ 'bookValue': -0.101,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Watertown',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.59,
+ 'dayLow': 2.47,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -2.994,
+ 'enterpriseToRevenue': 26.358,
+ 'enterpriseValue': 175726096,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '617-924-3454',
+ 'fiftyDayAverage': 2.8887143,
+ 'fiftyTwoWeekHigh': 4.83,
+ 'fiftyTwoWeekLow': 1.28,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 63015318,
+ 'forwardEps': -0.48,
+ 'forwardPE': -5.229167,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 39,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.17365,
+ 'heldPercentInstitutions': 0.60208,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/selectabio.com',
+ 'longBusinessSummary': 'Selecta Biosciences, Inc., a clinical-stage '
+                        'biopharmaceutical company, researches and develops '
+                        'nanoparticle immunomodulatory drugs for the treatment '
+                        'and prevention of human diseases. Its proprietary '
+                        'pipeline includes therapeutic enzymes, gene '
+                        'therapies, and other products and product candidates '
+                        "affected by undesired immune responses. The company's "
+                        'lead product is SEL-212 that in Phase II clinical '
+                        'trials for the treatment of chronic refractory gout. '
+                        'It is also developing SEL-403, which is in Phase I '
+                        'clinical trials for the treatment of patients with '
+                        'malignant pleural or peritoneal mesothelioma. In '
+                        'addition, the company engages in the development of '
+                        'gene therapy product candidates that are in '
+                        'preclinical development for rare inborn errors of '
+                        'metabolism, including SEL-302, a therapy program for '
+                        'the treatment methylmalonic academia; and SEL-313, a '
+                        'product candidate to treat ornithine transcarbamylase '
+                        'deficiency. Selecta Biosciences, Inc. has license and '
+                        'collaboration agreements with Spark Therapeutics, '
+                        'Massachusetts Institute of Technology, Shenyang '
+                        'Sunshine Pharmaceutical Co., Ltd., and BIND '
+                        'Therapeutics, Inc.; and a strategic partnership with '
+                        'Asklepios BioPharmaceutical, Inc. for the '
+                        'development, manufacture, and commercialization of '
+                        'targeted therapeutics for adeno-associated virus gene '
+                        'therapies in the areas of high medical need. The '
+                        'company was founded in 2007 and is headquartered in '
+                        'Watertown, Massachusetts.',
+ 'longName': 'Selecta Biosciences, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 219599136,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_53339386',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -62896000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.57,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '617-923-1400',
+ 'previousClose': 2.61,
+ 'priceHint': 4,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 32.938225,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.59,
+ 'regularMarketDayLow': 2.47,
+ 'regularMarketOpen': 2.57,
+ 'regularMarketPreviousClose': 2.61,
+ 'regularMarketPrice': 2.57,
+ 'regularMarketVolume': 822580,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 87489696,
+ 'sharesPercentSharesOut': 0.1177,
+ 'sharesShort': 10300107,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6329320,
+ 'shortName': 'Selecta Biosciences, Inc.',
+ 'shortPercentOfFloat': 0.1433,
+ 'shortRatio': 2.16,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'SELB',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.055,
+ 'twoHundredDayAverage': 3.0789568,
+ 'volume': 822580,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://selectabio.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02472'}

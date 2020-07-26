@@ -1,0 +1,152 @@
+{'52WeekChange': 0.94233584,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'NetEase Building',
+ 'address2': 'No. 599 Wangshang Road Binjiang District',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 456.09,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 641175,
+ 'averageVolume': 928398,
+ 'averageVolume10days': 641175,
+ 'beta': 0.737815,
+ 'beta3Year': None,
+ 'bid': 447.29,
+ 'bidSize': 1000,
+ 'bookValue': 51.333,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Hangzhou',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 448.69,
+ 'dayLow': 434.02,
+ 'dividendRate': 4.64,
+ 'dividendYield': 0.010199999,
+ 'earningsQuarterlyGrowth': 0.491,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 57768771584,
+ 'exDividendDate': 1591833600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 439.4837,
+ 'fiftyTwoWeekHigh': 503.27,
+ 'fiftyTwoWeekLow': 209.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.18,
+ 'floatShares': 74519694,
+ 'forwardEps': 20.72,
+ 'forwardPE': 21.637548,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 20797,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01549,
+ 'heldPercentInstitutions': 0.51657003,
+ 'industry': 'Internet Content & Information',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1143504000,
+ 'lastSplitFactor': '4:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ir.netease.com',
+ 'longBusinessSummary': 'NetEase, Inc., an Internet technology company, '
+                        'provides online services focusing on content, '
+                        'community, communication, and commerce in the '
+                        "Peoples' Republic of China and internationally. The "
+                        'company operates in three segments: Online Games '
+                        'Services, Youdao, and Innovative Businesses and '
+                        'Others. It develops and operates PC-client and mobile '
+                        'games, as well as offers games licensed from other '
+                        "game developers. The company's products and services "
+                        'include Youdao Dictionary, an online knowledge tool; '
+                        'Youdao Cloudnote, a notetaking tool; smart devices, '
+                        'such as Youdao Smart Pen, Youdao Dictionary Pen, and '
+                        'Youdao Pocket Translator; online courses; interactive '
+                        'learning apps; and enterprise services, such as '
+                        'Youdao Smart Cloud, a cloud-based platform that helps '
+                        'third-party app developers, smart device brands, and '
+                        'manufacturers to access its advanced optical '
+                        'character recognition capability and neural machine '
+                        'translation engine. Its products and services also '
+                        'include NetEase Cloud Music, a music streaming '
+                        'platform; Yanxuan, an e-commerce platform, which '
+                        'sells private label products, including consumer '
+                        'electronics, food, apparel, homeware, kitchenware, '
+                        'and other general merchandise; NetEase Media, an '
+                        'Internet media service; NetEase Mail, an email '
+                        'service; CC Live streaming, a live streaming platform '
+                        'with a focus on game broadcasting; and NetEase Pay, a '
+                        'payment platform. The company was formerly known as '
+                        'NetEase.com, Inc. and changed its name to NetEase, '
+                        'Inc. in March 2012. NetEase, Inc. was founded in 1997 '
+                        "and is headquartered in Hangzhou, the People's "
+                        'Republic of China.',
+ 'longName': 'NetEase, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 63403724800,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_416512',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 441.45,
+ 'openInterest': None,
+ 'payoutRatio': 0.45069999,
+ 'pegRatio': 49.67,
+ 'phone': '86 571 8985 3378',
+ 'previousClose': 455.42,
+ 'priceHint': 2,
+ 'priceToBook': 8.733758,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.36209,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 448.69,
+ 'regularMarketDayLow': 434.02,
+ 'regularMarketOpen': 441.45,
+ 'regularMarketPreviousClose': 455.42,
+ 'regularMarketPrice': 441.45,
+ 'regularMarketVolume': 837104,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 137094000,
+ 'sharesPercentSharesOut': 0.0194,
+ 'sharesShort': 2928569,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1948407,
+ 'shortName': 'NetEase, Inc.',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 2.29,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'NTES',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.566,
+ 'trailingAnnualDividendYield': 0.003438584,
+ 'trailingEps': 6.669,
+ 'trailingPE': 67.22597,
+ 'twoHundredDayAverage': 366.43375,
+ 'volume': 837104,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://ir.netease.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '310052'}

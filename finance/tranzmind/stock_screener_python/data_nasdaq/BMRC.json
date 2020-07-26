@@ -1,0 +1,154 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '504 Redwood Boulevard',
+ 'address2': 'Suite 100',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 32.52,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 37487,
+ 'averageVolume': 41646,
+ 'averageVolume10days': 37487,
+ 'beta': 0.848739,
+ 'beta3Year': None,
+ 'bid': 32.27,
+ 'bidSize': 800,
+ 'bookValue': 25.624,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Novato',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 33.25,
+ 'dayLow': 32.28,
+ 'dividendRate': 0.92,
+ 'dividendYield': 0.028099999,
+ 'earningsQuarterlyGrowth': -0.101,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.071,
+ 'enterpriseValue': 309733152,
+ 'exDividendDate': 1596067200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 32.08657,
+ 'fiftyTwoWeekHigh': 47.77,
+ 'fiftyTwoWeekLow': 23.8,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.76,
+ 'floatShares': 11736760,
+ 'forwardEps': 1.83,
+ 'forwardPE': 17.650272,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 295,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.13126999,
+ 'heldPercentInstitutions': 0.45520002,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1543363200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bankofmarin.com',
+ 'longBusinessSummary': 'Bank of Marin Bancorp operates as the holding company '
+                        'for Bank of Marin that provides a range of financial '
+                        'services primarily to professionals, small and '
+                        'middle-market businesses, individuals, and '
+                        'not-for-profit organizations in California, the '
+                        'United States. The company offers personal and '
+                        'business checking and savings accounts; and time '
+                        'certificates of deposit, individual retirement '
+                        'accounts, health savings accounts, and demand deposit '
+                        'marketplace accounts, as well as certificate of '
+                        'deposit account registry and insured cash sweep '
+                        'services. It also provides commercial real estate, '
+                        'commercial and industrial, and consumer loans, as '
+                        'well as construction financing and home equity lines '
+                        'of credit. In addition, the company offers merchant '
+                        'card and cash management services; credit cards; '
+                        'mobile deposit, remote deposit capture, automated '
+                        'clearing house, and image lockbox services, as well '
+                        'as wire transfers; fraud detection tools; and valet '
+                        'pick-up service for non-cash deposits. Further, it '
+                        'provides wealth management and trust services '
+                        'comprising customized investment portfolio '
+                        'management, trust administration, estate settlement, '
+                        'and custody services, as well as 401(k) plan '
+                        'services; and automated teller machines, and '
+                        'telephone and Internet banking services. The company '
+                        'operates 23 offices in Marin, Sonoma, San Francisco, '
+                        'Napa, and Alameda counties. Bank of Marin Bancorp was '
+                        'founded in 1989 and is headquartered in Novato, '
+                        'California.',
+ 'longName': 'Bank of Marin Bancorp',
+ 'market': 'us_market',
+ 'marketCap': 439015136,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_414400',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 33161000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 32.73,
+ 'openInterest': None,
+ 'payoutRatio': 0.36360002,
+ 'pegRatio': 1.56,
+ 'phone': '415-763-4520',
+ 'previousClose': 32.72,
+ 'priceHint': 2,
+ 'priceToBook': 1.2605369,
+ 'priceToSalesTrailing12Months': 4.353193,
+ 'profitMargins': 0.32882,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 33.25,
+ 'regularMarketDayLow': 32.28,
+ 'regularMarketOpen': 32.73,
+ 'regularMarketPreviousClose': 32.72,
+ 'regularMarketPrice': 32.73,
+ 'regularMarketVolume': 21068,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 13591800,
+ 'sharesPercentSharesOut': 0.017,
+ 'sharesShort': 230221,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 193304,
+ 'shortName': 'Bank of Marin Bancorp',
+ 'shortPercentOfFloat': 0.0176,
+ 'shortRatio': 5.76,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'BMRC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.88,
+ 'trailingAnnualDividendYield': 0.026894864,
+ 'trailingEps': 2.422,
+ 'trailingPE': 13.336086,
+ 'twoHundredDayAverage': 34.847267,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'cb38724e-00a5-397b-bd86-6e70aba290f2',
+ 'volume': 21068,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bankofmarin.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94947'}

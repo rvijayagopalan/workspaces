@@ -1,0 +1,161 @@
+{'52WeekChange': 0.47677255,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2045 East Innovation Circle',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 12.08,
+ 'askSize': 4000,
+ 'averageDailyVolume10Day': 931575,
+ 'averageVolume': 1281365,
+ 'averageVolume10days': 931575,
+ 'beta': 1.718207,
+ 'beta3Year': None,
+ 'bid': 12.07,
+ 'bidSize': 3200,
+ 'bookValue': 8.429,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Tempe',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.64,
+ 'dayLow': 12.07,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 4.421,
+ 'enterpriseToRevenue': 0.837,
+ 'enterpriseValue': 3607629056,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '480 821 8276',
+ 'fiftyDayAverage': 12.169143,
+ 'fiftyTwoWeekHigh': 15.25,
+ 'fiftyTwoWeekLow': 5.4,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 90216369,
+ 'forwardEps': 0.78,
+ 'forwardPE': 15.480769,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 29650,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.05032,
+ 'heldPercentInstitutions': 0.41369998,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/amkor.com',
+ 'longBusinessSummary': 'Amkor Technology, Inc. provides outsourced '
+                        'semiconductor packaging and test services in the '
+                        'United States and internationally. The company offers '
+                        'turnkey packaging and test services, including '
+                        'semiconductor wafer bumps, wafer probes, wafer '
+                        'back-grinds, package design, packaging, and test and '
+                        'drop shipment services. Its packages employ wirebond, '
+                        'flip chip, copper clip, and other interconnect '
+                        'technologies. The company also provides semiconductor '
+                        'testing services, such as wafer and final test '
+                        'services; flip chip scale package products for use in '
+                        'smartphones, tablets, and other mobile consumer '
+                        'electronic devices; flip chip stacked chip scale '
+                        'packages that are used to stack memory, and as '
+                        'applications processors in mobile devices; and flip '
+                        'chip ball grid array products for various networking, '
+                        'storage, computing, and consumer applications. In '
+                        'addition, it offers wafer-level CSP packages used in '
+                        'power management, transceivers, sensors, wireless '
+                        'charging, codecs, and specialty silicon; wafer-level '
+                        'fan-out packages used in ICs; and silicon wafer '
+                        'integrated fan-out technology, which replaces a '
+                        'laminate substrate with a thinner structure. Further, '
+                        'the company provides lead frame packages that are '
+                        'used in electronic devices for low to medium pin '
+                        'count applications; substrate-based wirebond '
+                        'packages, which are used to connect a die to a '
+                        'substrate; micro-electro-mechanical systems (MEMS) '
+                        'packages that are miniaturized mechanical and '
+                        'electro-mechanical devices; and advanced '
+                        'system-in-package modules, which are used in radio '
+                        'frequency and front end modules, basebands, '
+                        'connectivity, fingerprint sensors, display and touch '
+                        'screen drivers, sensors and MEMS, and NAND memory and '
+                        'solid state drives. It primarily serves integrated '
+                        'device manufacturers, fabless semiconductor '
+                        'companies, original equipment manufacturers, and '
+                        'contract foundries. Amkor Technology, Inc. was '
+                        'founded in 1968 and is headquartered in Tempe, '
+                        'Arizona.',
+ 'longName': 'Amkor Technology, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2911874048,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_124219',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 207656000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 12.47,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.93,
+ 'phone': '480 821 5000',
+ 'previousClose': 12.64,
+ 'priceHint': 2,
+ 'priceToBook': 1.4325542,
+ 'priceToSalesTrailing12Months': 0.6755615,
+ 'profitMargins': 0.04818,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.64,
+ 'regularMarketDayLow': 12.07,
+ 'regularMarketOpen': 12.47,
+ 'regularMarketPreviousClose': 12.64,
+ 'regularMarketPrice': 12.47,
+ 'regularMarketVolume': 1325718,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 241148992,
+ 'sharesPercentSharesOut': 0.018099999,
+ 'sharesShort': 4368233,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4607225,
+ 'shortName': 'Amkor Technology, Inc.',
+ 'shortPercentOfFloat': 0.044699997,
+ 'shortRatio': 3.18,
+ 'startDate': None,
+ 'state': 'AZ',
+ 'strikePrice': None,
+ 'symbol': 'AMKR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.859,
+ 'trailingPE': 14.057042,
+ 'twoHundredDayAverage': 10.744245,
+ 'volume': 1325718,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.amkor.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '85284'}

@@ -1,0 +1,162 @@
+{'52WeekChange': -0.22961825,
+ 'SandP52WeekChange': None,
+ 'address1': '9300/9302 Lee Highway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 63.87,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 107300,
+ 'averageVolume': 142931,
+ 'averageVolume10days': 107300,
+ 'beta': 0.57591,
+ 'beta3Year': None,
+ 'bid': 63.89,
+ 'bidSize': 800,
+ 'bookValue': 36.689,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Fairfax',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 65.43,
+ 'dayLow': 63.85,
+ 'dividendRate': 0.56,
+ 'dividendYield': 0.0086,
+ 'earningsQuarterlyGrowth': -0.307,
+ 'enterpriseToEbitda': 14.565,
+ 'enterpriseToRevenue': 1.228,
+ 'enterpriseValue': 1836451200,
+ 'exDividendDate': 1591833600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '703 934 3740',
+ 'fiftyDayAverage': 63.96343,
+ 'fiftyTwoWeekHigh': 95.24,
+ 'fiftyTwoWeekLow': 47.75,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 18061375,
+ 'forwardEps': 4.2,
+ 'forwardPE': 15.221429,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04113,
+ 'heldPercentInstitutions': 0.95375997,
+ 'industry': 'Consulting Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/icf.com',
+ 'longBusinessSummary': 'ICF International, Inc. provides management, '
+                        'marketing, technology, and policy consulting and '
+                        'implementation services to government and commercial '
+                        'clients in the United States and internationally. The '
+                        'company researches critical policy, industry, '
+                        'stakeholder issues, trends, and behaviors; measures '
+                        'and evaluates results and their impact; and provides '
+                        'strategic planning and advisory services to its '
+                        'clients on how to navigate societal, market, '
+                        'business, communication, and technology challenges. '
+                        'It also identifies, defines, and implements policies, '
+                        'plans, programs, and business tools through a range '
+                        'of standard and customized methodologies for its '
+                        'clients; conducts survey research; collects and '
+                        'analyzes various data to understand critical issues '
+                        'and options for its clients; and provides actionable '
+                        'business intelligence, as well as information and '
+                        'data management solutions that allow integrated and '
+                        'purpose-driven data usage. In addition, the company '
+                        'provides solutions to optimize the customer and '
+                        'citizen experience; modernizes IT systems; and cyber '
+                        'security solutions that support the range of cyber '
+                        'security missions and protect IT infrastructures in '
+                        'the face of relentless threats, as well as designs, '
+                        'develops, and implements technology systems and '
+                        "business tools that are principal to its clients' "
+                        'mission or business performance. Further, it informs '
+                        "and engages its clients' constituents, customers, and "
+                        'employees through public relations, branding and '
+                        'marketing, multichannel and strategic communications, '
+                        'and reputation issues management. The company serves '
+                        'energy, environment, and infrastructure; health, '
+                        'education, and social programs; safety and security; '
+                        'and consumer and financial markets. The company was '
+                        'formerly known as ICF Consulting Group Holdings, LLC '
+                        'and changed its name to ICF International, Inc. in '
+                        '2006. ICF International, Inc. was founded in 1969 and '
+                        'is headquartered in Fairfax, Virginia.',
+ 'longName': 'ICF International, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1203629312,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_29703',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 64232000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 65.43,
+ 'openInterest': None,
+ 'payoutRatio': 0.16770001,
+ 'pegRatio': 1.82,
+ 'phone': '703 934 3000',
+ 'previousClose': 65.39,
+ 'priceHint': 2,
+ 'priceToBook': 1.7424842,
+ 'priceToSalesTrailing12Months': 0.8048292,
+ 'profitMargins': 0.04295,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 65.43,
+ 'regularMarketDayLow': 63.85,
+ 'regularMarketOpen': 65.43,
+ 'regularMarketPreviousClose': 65.39,
+ 'regularMarketPrice': 65.43,
+ 'regularMarketVolume': 76366,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 18827300,
+ 'sharesPercentSharesOut': 0.0124,
+ 'sharesShort': 233551,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 208959,
+ 'shortName': 'ICF International, Inc.',
+ 'shortPercentOfFloat': 0.0128999995,
+ 'shortRatio': 1.62,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'ICFI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.56,
+ 'trailingAnnualDividendYield': 0.008564001,
+ 'trailingEps': 3.34,
+ 'trailingPE': 19.140718,
+ 'twoHundredDayAverage': 71.82648,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '6d3400a6-5477-3c8b-95f2-9cba23bd20ba',
+ 'volume': 76366,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.icf.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '22031'}

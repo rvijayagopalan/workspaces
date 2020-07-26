@@ -1,0 +1,154 @@
+{'52WeekChange': -0.42127657,
+ 'SandP52WeekChange': None,
+ 'address1': '141 Elm Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 6.8,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 37262,
+ 'averageVolume': 56565,
+ 'averageVolume10days': 37262,
+ 'beta': 0.293557,
+ 'beta3Year': None,
+ 'bid': 5.27,
+ 'bidSize': 1300,
+ 'bookValue': 8.911,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Westfield',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 5.49,
+ 'dayLow': 5.265,
+ 'dividendRate': 0.2,
+ 'dividendYield': 0.0368,
+ 'earningsQuarterlyGrowth': -0.394,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 5.407,
+ 'enterpriseValue': 343533152,
+ 'exDividendDate': 1589241600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 5.6145716,
+ 'fiftyTwoWeekHigh': 10.1,
+ 'fiftyTwoWeekLow': 4.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.6,
+ 'floatShares': 20932991,
+ 'forwardEps': 0.33,
+ 'forwardPE': 16.242424,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 274,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.102469996,
+ 'heldPercentInstitutions': 0.56129,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1167868800,
+ 'lastSplitFactor': '328138:100000',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/westfieldbank.com',
+ 'longBusinessSummary': 'Western New England Bancorp, Inc. operates as the '
+                        'holding company for Westfield Bank that provides '
+                        'commercial and retail banking products and services '
+                        'to individuals and businesses. The company accepts '
+                        'various deposit accounts, including checking, '
+                        'savings, business and municipal savings, money market '
+                        'and business sweep, and individual retirement '
+                        'accounts; time deposits; term certificates of '
+                        'deposit; and interest on lawyers trust accounts. It '
+                        'also offers commercial real estate loans; commercial '
+                        'construction loans; commercial and industrial loans, '
+                        'such as revolving lines of credit, working capital '
+                        'loans, equipment financing and term loans; '
+                        'residential real estate loans; home equity loans; and '
+                        'consumer loans. In addition, the company provides '
+                        'automated teller machines (ATM), telephone and online '
+                        'banking, remote deposit capture, cash management '
+                        'services, overdraft facilities, night deposit '
+                        'services, and safe deposit facilities. As of December '
+                        '31, 2019, it operated a network of 22 banking '
+                        'offices, 25 free-standing ATMs, and 23 seasonal or '
+                        'temporary ATMS located in Agawam, Chicopee, Feeding '
+                        'Hills, East Longmeadow, Holyoke, Ludlow, South '
+                        'Hadley, Southwick, Springfield, Ware, West '
+                        'Springfield and Westfield, Massachusetts and Granby '
+                        'and Enfield, Connecticut. The company was formerly '
+                        'known as Westfield Financial, Inc. and changed its '
+                        'name to Western New England Bancorp, Inc. in October '
+                        '2016. Western New England Bancorp, Inc. was founded '
+                        'in 1853 and is headquartered in Westfield, '
+                        'Massachusetts.',
+ 'longName': 'Western New England Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 137453456,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1904152',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 11999000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 5.49,
+ 'openInterest': None,
+ 'payoutRatio': 0.4348,
+ 'pegRatio': 2.01,
+ 'phone': '413-568-1911',
+ 'previousClose': 5.44,
+ 'priceHint': 2,
+ 'priceToBook': 0.60150373,
+ 'priceToSalesTrailing12Months': 2.1632586,
+ 'profitMargins': 0.18884,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 5.49,
+ 'regularMarketDayLow': 5.265,
+ 'regularMarketOpen': 5.49,
+ 'regularMarketPreviousClose': 5.44,
+ 'regularMarketPrice': 5.49,
+ 'regularMarketVolume': 31157,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 25644300,
+ 'sharesPercentSharesOut': 0.013200001,
+ 'sharesShort': 339696,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 240942,
+ 'shortName': 'Western New England Bancorp, In',
+ 'shortPercentOfFloat': 0.0150999995,
+ 'shortRatio': 4.62,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'WNEB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.2,
+ 'trailingAnnualDividendYield': 0.036764707,
+ 'trailingEps': 0.46,
+ 'trailingPE': 11.652174,
+ 'twoHundredDayAverage': 6.769928,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '47f9faef-8f47-31ce-8a44-516904e0ae94',
+ 'volume': 31157,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.westfieldbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01085'}

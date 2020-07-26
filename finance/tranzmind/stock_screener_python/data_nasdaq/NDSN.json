@@ -1,0 +1,164 @@
+{'52WeekChange': 0.38532043,
+ 'SandP52WeekChange': None,
+ 'address1': '28601 Clemens Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 192.38,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 330850,
+ 'averageVolume': 360758,
+ 'averageVolume10days': 330850,
+ 'beta': 1.22521,
+ 'beta3Year': None,
+ 'bid': 192.4,
+ 'bidSize': 1100,
+ 'bookValue': 28.649,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Westlake',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 196.01,
+ 'dayLow': 191.79,
+ 'dividendRate': 1.52,
+ 'dividendYield': 0.0077,
+ 'earningsQuarterlyGrowth': 0.002,
+ 'enterpriseToEbitda': 21.394,
+ 'enterpriseToRevenue': 5.628,
+ 'enterpriseValue': 12209984512,
+ 'exDividendDate': 1590105600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '440-892-9507',
+ 'fiftyDayAverage': 190.7277,
+ 'fiftyTwoWeekHigh': 203.67,
+ 'fiftyTwoWeekLow': 96.46,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.01,
+ 'floatShares': 52387538,
+ 'forwardEps': 6.34,
+ 'forwardPE': 30.320189,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7600,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.06605,
+ 'heldPercentInstitutions': 0.7389,
+ 'industry': 'Specialty Industrial Machinery',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1572480000,
+ 'lastMarket': None,
+ 'lastSplitDate': 1302652800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/nordson.com',
+ 'longBusinessSummary': 'Nordson Corporation engineers, manufactures, and '
+                        'markets products and systems to dispense, apply, and '
+                        'control adhesives, coatings, polymers, sealants, '
+                        'biomaterials, and other fluids worldwide. Its '
+                        'Adhesive Dispensing Systems segment provides '
+                        'dispensing, coating, and laminating systems for '
+                        'adhesives, lotions, liquids, and fibers to disposable '
+                        'products and roll goods; automated adhesive '
+                        'dispensing systems used in packaged goods industries; '
+                        'components and systems used in the thermoplastic melt '
+                        'stream; and product assembly systems for use in paper '
+                        'and paperboard converting applications, and '
+                        'manufacturing roll goods, as well as for the assembly '
+                        "of plastic, metal, and wood products. The company's "
+                        'Advanced Technology Systems segment offers automated '
+                        'dispensing systems for the attachment, protection, '
+                        'and coating of fluids, as well as related gas plasma '
+                        'treatment systems for cleaning and conditioning '
+                        'surfaces; precision manual and semi-automated '
+                        'dispensers, minimally invasive interventional '
+                        'delivery devices, plastic molded syringes, '
+                        'cartridges, tips, fluid connection components, '
+                        'tubing, balloons, and catheters; and bond testing and '
+                        'automated optical, acoustic microscopy, and x-ray '
+                        'inspection systems for use in semiconductor and '
+                        'printed circuit board industries. Its Industrial '
+                        'Coating Systems segment provides automated and manual '
+                        'dispensing products and systems to apply adhesive and '
+                        'sealant materials; dispensing and curing systems to '
+                        'coat and cure containers; systems to apply liquid '
+                        'paints and coatings to consumer and industrial '
+                        'products; and systems to apply powder paints and '
+                        'coatings to metal, plastic, and wood products, as '
+                        'well as ultraviolet equipment for use in curing and '
+                        'drying operations for specialty coatings, '
+                        'semiconductor materials, and paints. The company '
+                        'markets its products through direct sales force, as '
+                        'well as distributors and sales representatives. '
+                        'Nordson Corporation was founded in 1935 and is '
+                        'headquartered in Westlake, Ohio.',
+ 'longName': 'Nordson Corporation',
+ 'market': 'us_market',
+ 'marketCap': 11087884288,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_143614',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 340684000,
+ 'nextFiscalYearEnd': 1635638400,
+ 'open': 196.01,
+ 'openInterest': None,
+ 'payoutRatio': 0.2547,
+ 'pegRatio': 2.81,
+ 'phone': '440-892-1580',
+ 'previousClose': 196.48,
+ 'priceHint': 2,
+ 'priceToBook': 6.7098327,
+ 'priceToSalesTrailing12Months': 5.110587,
+ 'profitMargins': 0.15703,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 196.01,
+ 'regularMarketDayLow': 191.79,
+ 'regularMarketOpen': 196.01,
+ 'regularMarketPreviousClose': 196.48,
+ 'regularMarketPrice': 196.01,
+ 'regularMarketVolume': 219014,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 57680300,
+ 'sharesPercentSharesOut': 0.014099999,
+ 'sharesShort': 815131,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 899073,
+ 'shortName': 'Nordson Corporation',
+ 'shortPercentOfFloat': 0.0143,
+ 'shortRatio': 2.42,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'NDSN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.49,
+ 'trailingAnnualDividendYield': 0.007583469,
+ 'trailingEps': 5.849,
+ 'trailingPE': 32.865448,
+ 'twoHundredDayAverage': 165.15137,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '897ce616-07fd-3d53-90cd-cbe454b7c3f2',
+ 'volume': 219014,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.nordson.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '44145'}

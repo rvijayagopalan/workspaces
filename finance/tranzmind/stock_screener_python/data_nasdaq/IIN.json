@@ -1,0 +1,156 @@
+{'52WeekChange': -0.35900277,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1260 Red Fox Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.58,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 31575,
+ 'averageVolume': 47155,
+ 'averageVolume10days': 31575,
+ 'beta': 0.991036,
+ 'beta3Year': None,
+ 'bid': 9.18,
+ 'bidSize': 900,
+ 'bookValue': 10.095,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Arden Hills',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.95,
+ 'dayLow': 11.53,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 37.477,
+ 'enterpriseToRevenue': 0.736,
+ 'enterpriseValue': 77576592,
+ 'exDividendDate': 1000252800,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '651-636-9503',
+ 'fiftyDayAverage': 13.133715,
+ 'fiftyTwoWeekHigh': 22.47,
+ 'fiftyTwoWeekLow': 9.84,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 8262541,
+ 'forwardEps': 0.33,
+ 'forwardPE': 35.060604,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 780,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.07428,
+ 'heldPercentInstitutions': 0.74991995,
+ 'industry': 'Medical Instruments & Supplies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 867628800,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/intricon.com',
+ 'longBusinessSummary': 'IntriCon Corporation, together with its subsidiaries, '
+                        'designs, develops, engineers, manufactures, and '
+                        'distributes body-worn devices in the United States, '
+                        'Europe, Asia, and internationally. The company '
+                        'operates in two segments, Body Worn Devices and '
+                        'Hearing Health Direct-To-End-Consumer. It offers '
+                        'micro-miniature products, microelectronics, '
+                        'micro-mechanical assemblies, high-precision '
+                        'injection-molded plastic components, and assemblies '
+                        'and software solutions for medical biotelemetry '
+                        'devices, hearing healthcare, and professional audio '
+                        'communication devices markets. The company also '
+                        'provides medical and micro coils for pacemaker '
+                        'programming and interventional catheter positioning '
+                        'applications; bubble sensors and flow restrictors '
+                        'that monitor and control the flow of fluid in an '
+                        'intravenous infusion system; and safety needle '
+                        'products for original equipment manufacturing '
+                        'customers. In addition, it offers professional audio '
+                        'headset products used for emergency response needs in '
+                        'the fire, law enforcement, safety, aviation, and '
+                        'military markets; and a line of miniature ear-and '
+                        'head-worn devices used by performers and support '
+                        'staff in the music and stage performance markets. The '
+                        'company sells its hearing device products, and '
+                        'medical and professional audio communications '
+                        'products directly to hearing instrument '
+                        'manufacturers, distributors, and partnerships; and '
+                        'microphone products to the radio communication and '
+                        'professional audio industries, as well as markets and '
+                        'sells hearing aid devices directly to consumers '
+                        'through direct mail advertising, Internet, and call '
+                        'center. The company was formerly known as Selas '
+                        'Corporation of America and changed its name to '
+                        'IntriCon Corporation. The company was founded in 1930 '
+                        'and is headquartered in Arden Hills, Minnesota.',
+ 'longName': 'IntriCon Corporation',
+ 'market': 'us_market',
+ 'marketCap': 102993248,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_302516',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -5011000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 11.95,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '651-636-9770',
+ 'previousClose': 11.98,
+ 'priceHint': 2,
+ 'priceToBook': 1.1461118,
+ 'priceToSalesTrailing12Months': 0.97692454,
+ 'profitMargins': -0.061950002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.95,
+ 'regularMarketDayLow': 11.53,
+ 'regularMarketOpen': 11.95,
+ 'regularMarketPreviousClose': 11.98,
+ 'regularMarketPrice': 11.95,
+ 'regularMarketVolume': 30556,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 8901750,
+ 'sharesPercentSharesOut': 0.0725,
+ 'sharesShort': 645450,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 611639,
+ 'shortName': 'IntriCon Corporation',
+ 'shortPercentOfFloat': 0.077199996,
+ 'shortRatio': 12.83,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'IIN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.744,
+ 'twoHundredDayAverage': 13.965467,
+ 'volume': 30556,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.intricon.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '55112'}

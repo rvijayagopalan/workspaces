@@ -1,0 +1,149 @@
+{'52WeekChange': -0.008424163,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'No. 8 SINA Plaza',
+ 'address2': '7th Floor, Courtyard 10 West Xibeiwang East Road Haidian '
+             'District',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 40.1,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 805912,
+ 'averageVolume': 775338,
+ 'averageVolume10days': 805912,
+ 'beta': 1.15182,
+ 'beta3Year': None,
+ 'bid': 40.01,
+ 'bidSize': 1400,
+ 'bookValue': 38.983,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Beijing',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 40.13,
+ 'dayLow': 39.123,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 1.492,
+ 'enterpriseToEbitda': 6.564,
+ 'enterpriseToRevenue': 1.501,
+ 'enterpriseValue': 3186460160,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '86 10 8260 7166',
+ 'fiftyDayAverage': 37.372856,
+ 'fiftyTwoWeekHigh': 46.85,
+ 'fiftyTwoWeekLow': 26.04,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 55469307,
+ 'forwardEps': 3.11,
+ 'forwardPE': 12.868168,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 8300,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.13066,
+ 'heldPercentInstitutions': 0.69053,
+ 'industry': 'Internet Content & Information',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sina.com',
+ 'longBusinessSummary': 'SINA Corporation, together with its subsidiaries, '
+                        "operates as an online media company in the People's "
+                        'Republic of China and internationally. The company '
+                        'operates SINA.com, an online media property that '
+                        'provides region-focused format and content, including '
+                        'feeds from news providers; business news coverage and '
+                        'personal finance columns; sporting events '
+                        'information; entertainment news and events; '
+                        'automobile-related news and service information; '
+                        'technology updates; interactive video products, such '
+                        'as news, sports, and entertainment; and education, '
+                        'digital, fashion, luxury, health, collectibles, '
+                        'travel, and other interest-based channels. It also '
+                        'offers SINA mobile, a mobile portal, which provides '
+                        'news information and entertainment content from '
+                        'SINA.com for mobile users in mobile browser and '
+                        'application format. In addition, it operates '
+                        'Weibo.com that offers discovery products to help '
+                        'users discover content; self-expression products to '
+                        'enable users to express themselves on Weibo platform; '
+                        'social products to promote social interaction between '
+                        'users on Weibo platform; advertising and marketing '
+                        'solutions; and tools and services. Further, the '
+                        'company offers online loan facilitation and payment, '
+                        'VIP membership, live streaming, and game-related '
+                        'services. SINA Corporation was founded in 1993 and is '
+                        "headquartered in Beijing, the People's Republic of "
+                        'China.',
+ 'longName': 'SINA Corporation',
+ 'market': 'us_market',
+ 'marketCap': 2381149952,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34391',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -21185000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 39.4,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 8.32,
+ 'phone': '86 10 8262 8888',
+ 'previousClose': 39.74,
+ 'priceHint': 2,
+ 'priceToBook': 1.0266013,
+ 'priceToSalesTrailing12Months': 1.121667,
+ 'profitMargins': -0.009980001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 40.13,
+ 'regularMarketDayLow': 39.123,
+ 'regularMarketOpen': 39.4,
+ 'regularMarketPreviousClose': 39.74,
+ 'regularMarketPrice': 39.4,
+ 'regularMarketVolume': 558849,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 59499000,
+ 'sharesPercentSharesOut': 0.031600002,
+ 'sharesShort': 2068510,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1813318,
+ 'shortName': 'Sina Corporation',
+ 'shortPercentOfFloat': 0.037,
+ 'shortRatio': 2.96,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'SINA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.306,
+ 'twoHundredDayAverage': 35.594532,
+ 'volume': 558849,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sina.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '100193'}

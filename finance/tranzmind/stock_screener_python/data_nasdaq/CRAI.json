@@ -1,0 +1,154 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '200 Clarendon Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 40.46,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 32937,
+ 'averageVolume': 37511,
+ 'averageVolume10days': 32937,
+ 'beta': 1.464985,
+ 'beta3Year': None,
+ 'bid': 40,
+ 'bidSize': 900,
+ 'bookValue': 25.316,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Boston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 40.9,
+ 'dayLow': 40.0243,
+ 'dividendRate': 0.92,
+ 'dividendYield': 0.0223,
+ 'earningsQuarterlyGrowth': 0.386,
+ 'enterpriseToEbitda': 11.621,
+ 'enterpriseToRevenue': 1.108,
+ 'enterpriseValue': 522495744,
+ 'exDividendDate': 1590105600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '617 425 3132',
+ 'fiftyDayAverage': 39.244286,
+ 'fiftyTwoWeekHigh': 58.19,
+ 'fiftyTwoWeekLow': 21.96,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 6984444,
+ 'forwardEps': 3.05,
+ 'forwardPE': 13.12459,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 799,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.040120002,
+ 'heldPercentInstitutions': 0.8726,
+ 'industry': 'Consulting Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/crai.com',
+ 'longBusinessSummary': 'CRA International, Inc., a consulting company, '
+                        'provides economic, financial, and management '
+                        'consulting services in the United States, the United '
+                        'Kingdom, and internationally. It advises clients on '
+                        'economic and financial matters pertaining to '
+                        'litigation and regulatory proceedings; and guides '
+                        'corporations through business strategy and '
+                        'performance-related issues. The company also offers '
+                        'consulting services, including research and analysis, '
+                        'expert testimony, and support in litigation and '
+                        'regulatory proceedings in the areas of finance, '
+                        'accounting, economics, insurance, and forensic '
+                        'accounting and investigations to corporate clients '
+                        'and attorneys. In addition, it offers management '
+                        'consulting services comprising strategy development, '
+                        'performance improvement, corporate strategy and '
+                        'portfolio analysis, estimation of market demand, new '
+                        'product pricing strategies, valuation of intellectual '
+                        "property and other assets, assessment of competitors' "
+                        'actions, and analysis of new sources of supply. The '
+                        'company serves various industries, including '
+                        'agriculture, banking and capital markets, chemicals, '
+                        'communications and media, consumer products, energy, '
+                        'entertainment, financial services, health care, '
+                        'insurance, life sciences, manufacturing, oil and gas, '
+                        'real estate, retail, sports, telecommunications, '
+                        'transportation, and technology, as well as metals, '
+                        'mining, and materials. CRA International, Inc. was '
+                        'founded in 1965 and is headquartered in Boston, '
+                        'Massachusetts.',
+ 'longName': 'CRA International, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 312072672,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_383501',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 22485000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 40.9,
+ 'openInterest': None,
+ 'payoutRatio': 0.3105,
+ 'pegRatio': 1.52,
+ 'phone': '617 425 3000',
+ 'previousClose': 40.81,
+ 'priceHint': 2,
+ 'priceToBook': 1.5812134,
+ 'priceToSalesTrailing12Months': 0.66162086,
+ 'profitMargins': 0.047810003,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 40.9,
+ 'regularMarketDayLow': 40.0243,
+ 'regularMarketOpen': 40.9,
+ 'regularMarketPreviousClose': 40.81,
+ 'regularMarketPrice': 40.9,
+ 'regularMarketVolume': 17517,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 7795970,
+ 'sharesPercentSharesOut': 0.0165,
+ 'sharesShort': 128952,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 122879,
+ 'shortName': 'CRA International,Inc.',
+ 'shortPercentOfFloat': 0.019299999,
+ 'shortRatio': 3.61,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'CRAI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.86,
+ 'trailingAnnualDividendYield': 0.021073267,
+ 'trailingEps': 2.771,
+ 'trailingPE': 14.446049,
+ 'twoHundredDayAverage': 42.095684,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '485cdaaa-ba42-34b7-a83c-9b63909d54fc',
+ 'volume': 17517,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.crai.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02116-5092'}

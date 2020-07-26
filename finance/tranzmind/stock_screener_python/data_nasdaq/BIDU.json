@@ -1,0 +1,164 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': 'Baidu Campus',
+ 'address2': 'No 10, Shangdi 10th Street Haidian District',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 119.02,
+ 'askSize': 3000,
+ 'averageDailyVolume10Day': 2675575,
+ 'averageVolume': 4338734,
+ 'averageVolume10days': 2675575,
+ 'beta': 1.449859,
+ 'beta3Year': None,
+ 'bid': 117.52,
+ 'bidSize': 1100,
+ 'bookValue': 69.637,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Beijing',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 119.06,
+ 'dayLow': 116.39,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 41022169088,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '86 10 5992 0000',
+ 'fiftyDayAverage': 122.629715,
+ 'fiftyTwoWeekHigh': 147.38,
+ 'fiftyTwoWeekLow': 82,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 271328126,
+ 'forwardEps': 8.62,
+ 'forwardPE': 13.807425,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 37779,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00182,
+ 'heldPercentInstitutions': 0.70917,
+ 'industry': 'Internet Content & Information',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/baidu.com',
+ 'longBusinessSummary': 'Baidu, Inc. provides Internet search services in '
+                        'China and internationally. It operates through two '
+                        'segments, Baidu Core and iQIYI. The Baidu Core '
+                        'segment offers products for uses, including Baidu App '
+                        'to access search, feed, and other services using '
+                        'mobile devices; Baidu Search to access its search and '
+                        'other services through its other properties and Union '
+                        'partners; Baidu Feed that provides users with '
+                        'personalized timeline based on their demographics and '
+                        'interests; Haokan, a short video app; and Quanmin, a '
+                        'flash video app for users to create and share short '
+                        'videos. It also provides Baidu Knows, a '
+                        'question-and-answer community where questions are '
+                        'asked, answered, and organized by users; Baidu '
+                        'Encyclopedia; Baidu Healthcare Wiki; Baidu Wenku; '
+                        'Baidu Scholar; Baidu Experience; Baidu Post Bar, a '
+                        'social media platform; Baidu Maps that offers '
+                        'locations, and intelligent routing and navigation '
+                        'services; Baidu Input Method Editor or Baidu IME, a '
+                        'Chinese-language mobile keyboard; Baijiahao; and '
+                        'DuerOS, a voice assistant platform. In addition, this '
+                        'segment offers online marketing services, which '
+                        'include pay for performance (P4P), an auction-based '
+                        'services that allow customers to bid for priority '
+                        'placement of paid sponsored links and reach users who '
+                        'search for information related to their products or '
+                        'services; other marketing services provides '
+                        'display-based marketing services and other online '
+                        'marketing services based on performance criteria '
+                        'other than cost per click; Apollo, an autonomous '
+                        'driving platform; and Baidu Cloud primarily provides '
+                        'AI solutions, cloud infrastructure, and other '
+                        'services to enterprises and individuals. The iQIYI '
+                        'segment provides online entertainment service, '
+                        'including original and licensed content; membership '
+                        'services; and online advertising services. The '
+                        'company was formerly known as Baidu.com, Inc. and '
+                        'changed its name to Baidu, Inc. in December 2008. '
+                        'Baidu, Inc. was founded in 2000 and is headquartered '
+                        'in Beijing, China.',
+ 'longName': 'Baidu, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 41022144512,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_428613',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 117.5,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 100.84,
+ 'phone': '86 10 5992 8888',
+ 'previousClose': 121.1,
+ 'priceHint': 2,
+ 'priceToBook': 1.7091488,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.022909999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 119.06,
+ 'regularMarketDayLow': 116.39,
+ 'regularMarketOpen': 117.5,
+ 'regularMarketPreviousClose': 121.1,
+ 'regularMarketPrice': 117.5,
+ 'regularMarketVolume': 2667055,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 344665984,
+ 'sharesPercentSharesOut': 0.015,
+ 'sharesShort': 6110694,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7137442,
+ 'shortName': 'Baidu, Inc.',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 1.41,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'BIDU',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 12.834,
+ 'trailingPE': 9.273804,
+ 'twoHundredDayAverage': 115.26856,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'dce9478c-eb4a-303c-a219-7348692ce9a8',
+ 'volume': 2667055,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.baidu.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '100085'}

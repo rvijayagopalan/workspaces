@@ -1,0 +1,147 @@
+{'52WeekChange': -0.7056241,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '9405 SW Gemini Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.09,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 73075,
+ 'averageVolume': 118868,
+ 'averageVolume10days': 73075,
+ 'beta': 1.12549,
+ 'beta3Year': None,
+ 'bid': 14.09,
+ 'bidSize': 900,
+ 'bookValue': 3.534,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Beaverton',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.52,
+ 'dayLow': 14.03,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -4.44,
+ 'enterpriseToRevenue': 6.054,
+ 'enterpriseValue': 142354544,
+ 'exDividendDate': 1398902400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 16.056286,
+ 'fiftyTwoWeekHigh': 49.1,
+ 'fiftyTwoWeekLow': 9.92,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 11414923,
+ 'forwardEps': -2.62,
+ 'forwardPE': -5.3721375,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 216,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.08598,
+ 'heldPercentInstitutions': 0.68092,
+ 'industry': 'Information Technology Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/digimarc.com',
+ 'longBusinessSummary': 'Digimarc Corporation provides media identification '
+                        'and management solutions to government and commercial '
+                        'customers in the United States and internationally. '
+                        'The company offers Digimarc Platform for the '
+                        'identification, discovery, and verification of '
+                        'digitally-enhanced media, which includes Digimarc '
+                        'Barcode, an imperceptible data carrier for '
+                        'identifying the object; Digimarc Discover, a software '
+                        'for relevant devices to discover objects, such as '
+                        'decode data from that carrier; and Digimarc Verify, a '
+                        'suite of verification and quality control tools used '
+                        'to assess signal quality and validate data at '
+                        'critical stages of production. Its solutions are used '
+                        'in various media identification and management '
+                        'products and solutions, such as retail point of sale '
+                        'transaction processing; track and trace of products '
+                        'within the supply chain; quality control in '
+                        'manufacturing processes; inventory management and '
+                        'planogram compliance; sorting of consumer packaged '
+                        'goods in recycling streams; counterfeiting and piracy '
+                        'deterrence; online e-publication piracy protection; '
+                        'content identification and media management; '
+                        'authentication and monitoring; linking to networks '
+                        'and providing access to information; and enhanced '
+                        'services in support of mobile commerce. The company '
+                        'provides its solutions directly and through its '
+                        'business partners. Digimarc Corporation was founded '
+                        'in 2008 and is based in Beaverton, Oregon.',
+ 'longName': 'Digimarc Corporation',
+ 'market': 'us_market',
+ 'marketCap': 177940368,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_46271970',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -33285000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.34,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.26,
+ 'phone': '503 469 4800',
+ 'previousClose': 14.45,
+ 'priceHint': 2,
+ 'priceToBook': 3.9827392,
+ 'priceToSalesTrailing12Months': 7.5667787,
+ 'profitMargins': -1.41542,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.52,
+ 'regularMarketDayLow': 14.03,
+ 'regularMarketOpen': 14.34,
+ 'regularMarketPreviousClose': 14.45,
+ 'regularMarketPrice': 14.34,
+ 'regularMarketVolume': 68400,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 12642300,
+ 'sharesPercentSharesOut': 0.147,
+ 'sharesShort': 1858383,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1882327,
+ 'shortName': 'Digimarc Corporation',
+ 'shortPercentOfFloat': 0.1519,
+ 'shortRatio': 14.04,
+ 'startDate': None,
+ 'state': 'OR',
+ 'strikePrice': None,
+ 'symbol': 'DMRC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0,
+ 'trailingAnnualDividendYield': 0,
+ 'trailingEps': -2.797,
+ 'twoHundredDayAverage': 19.982374,
+ 'volume': 68400,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.digimarc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '97008'}

@@ -1,0 +1,158 @@
+{'52WeekChange': -0.29533672,
+ 'SandP52WeekChange': None,
+ 'address1': '112 West King Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.85,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 5325,
+ 'averageVolume': 3482,
+ 'averageVolume10days': 5325,
+ 'beta': 0.524929,
+ 'beta3Year': None,
+ 'bid': 13.45,
+ 'bidSize': 1000,
+ 'bookValue': 16.19,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Strasburg',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.58,
+ 'dayLow': 13.43,
+ 'dividendRate': 0.44,
+ 'dividendYield': 0.0324,
+ 'earningsQuarterlyGrowth': -0.246,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 0.912,
+ 'enterpriseValue': 32323818,
+ 'exDividendDate': 1592524800,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 14.208285,
+ 'fiftyTwoWeekHigh': 21.45,
+ 'fiftyTwoWeekLow': 11.54,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.19,
+ 'floatShares': 3957737,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.11368,
+ 'heldPercentInstitutions': 0.22402,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1114992000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/fbvirginia.com',
+ 'longBusinessSummary': 'First National Corporation operates as the bank '
+                        'holding company for First Bank that provides a range '
+                        'of commercial banking services to small and '
+                        'medium-sized businesses, individuals, estates, local '
+                        'governmental entities, and non-profit organizations '
+                        "in Virginia. The company's deposit products include "
+                        'checking, savings, money market, individual '
+                        'retirement, certificates of deposit, and cash '
+                        'management accounts, as well as treasury management '
+                        'solutions. Its loan products comprise construction '
+                        'loans, including residential, land acquisition, and '
+                        'development loans; 1-4 family residential real estate '
+                        'loans; and commercial real estate loans that are '
+                        'secured by various types of commercial real estate, '
+                        'including multi-family residential buildings, office '
+                        'and retail buildings, hotels, industrial buildings, '
+                        "and religious facilities. The company's loan products "
+                        'also include commercial and industrial loans that are '
+                        'secured by business assets, such as accounts '
+                        'receivable, equipment, and inventory; home equity '
+                        'loans; and secured and unsecured consumer loans, such '
+                        'as lines of credit, automobile loans, deposit account '
+                        'loans, and installment and demand loans. In addition, '
+                        'it provides wealth management services, including '
+                        'estate planning, investment management of assets, '
+                        'trustee under an agreement, trustee under a will, and '
+                        'estate settlement. Further, the company offers title '
+                        'insurance and investment services; and holds other '
+                        'real estate owned and office sites. Additionally, it '
+                        'provides Internet banking, mobile banking, remote '
+                        'deposit capture, and other traditional banking '
+                        'services. The company serves customers through 14 '
+                        'bank branch offices, a loan production office, and a '
+                        'customer service center, as well as through a network '
+                        'of ATMs. First National Corporation was founded in '
+                        '1907 and is headquartered in Strasburg, Virginia.',
+ 'longName': 'First National Corporation',
+ 'market': 'us_market',
+ 'marketCap': 65131340,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4516044',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 9000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.55,
+ 'openInterest': None,
+ 'payoutRatio': 0.21110001,
+ 'pegRatio': None,
+ 'phone': '540-465-9121',
+ 'previousClose': 13.6,
+ 'priceHint': 2,
+ 'priceToBook': 0.8295244,
+ 'priceToSalesTrailing12Months': 1.8371179,
+ 'profitMargins': 0.25386,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.58,
+ 'regularMarketDayLow': 13.43,
+ 'regularMarketOpen': 13.55,
+ 'regularMarketPreviousClose': 13.6,
+ 'regularMarketPrice': 13.55,
+ 'regularMarketVolume': 623,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 4849690,
+ 'sharesPercentSharesOut': 0.0007,
+ 'sharesShort': 3177,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2162,
+ 'shortName': 'First National Corporation',
+ 'shortPercentOfFloat': 0.0007,
+ 'shortRatio': 1.5,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'FXNC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.38,
+ 'trailingAnnualDividendYield': 0.027941175,
+ 'trailingEps': 1.8,
+ 'trailingPE': 7.4611115,
+ 'twoHundredDayAverage': 16.446692,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'd8766a83-0bb8-3b07-ae8a-ef6641c5fefc',
+ 'volume': 623,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.fbvirginia.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '22657'}

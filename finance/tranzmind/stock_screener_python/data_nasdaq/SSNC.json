@@ -1,0 +1,151 @@
+{'52WeekChange': -0.066007674,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '80 Lamberton Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 55.76,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1004412,
+ 'averageVolume': 1528463,
+ 'averageVolume10days': 1004412,
+ 'beta': 1.486834,
+ 'beta3Year': None,
+ 'bid': 55.76,
+ 'bidSize': 1000,
+ 'bookValue': 19.866,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Windsor',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 56.625,
+ 'dayLow': 55.28,
+ 'dividendRate': 0.5,
+ 'dividendYield': 0.0088,
+ 'earningsQuarterlyGrowth': 0.228,
+ 'enterpriseToEbitda': 12.59,
+ 'enterpriseToRevenue': 4.615,
+ 'enterpriseValue': 21549883392,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 57.08143,
+ 'fiftyTwoWeekHigh': 66.74,
+ 'fiftyTwoWeekLow': 29.51,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.69,
+ 'floatShares': 223824704,
+ 'forwardEps': 4.2,
+ 'forwardPE': 13.27381,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 22800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.12626,
+ 'heldPercentInstitutions': 0.81999,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1466985600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ssctech.com',
+ 'longBusinessSummary': 'SS&C Technologies Holdings, Inc., together with its '
+                        'subsidiaries, provides software products and '
+                        'software-enabled services to financial services and '
+                        'healthcare industries. The company owns and operates '
+                        'technology stack across securities accounting, '
+                        'front-to-back-office operations, performance and risk '
+                        'analytics, regulatory reporting, and healthcare '
+                        'information processes. Its products and services '
+                        'allow professionals in the financial services and '
+                        'healthcare industries to automate complex business '
+                        'processes and are instrumental in helping its clients '
+                        'to manage information processing requirements. The '
+                        "company's software-enabled services include SS&C "
+                        'GlobeOp, SS&C asset management solutions, Black '
+                        'Diamond wealth platform, Advent outsourcing services, '
+                        'Advent data solutions, ALPS advisors, and virtual '
+                        'data rooms, as well as pharmacy, healthcare '
+                        'administration, and health outcomes optimization '
+                        'solutions. Its software products comprise portfolio '
+                        'accounting software, portfolio management software, '
+                        'trading software, digital process automation product '
+                        'suite, and banking and lending solutions, as well as '
+                        'research, analytics, and training solutions. The '
+                        'company also provides professional services that '
+                        'consist of consulting and implementation services to '
+                        'assist clients; and product support services. It '
+                        'operates in the United States; the United Kingdom; '
+                        'Europe, the Middle East, and Africa; the Asia Pacific '
+                        'and Japan; Canada; and the Americas. The company was '
+                        'founded in 1986 and is headquartered in Windsor, '
+                        'Connecticut.',
+ 'longName': 'SS&C Technologies Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 14306063360,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34709',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 456900000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 56.25,
+ 'openInterest': None,
+ 'payoutRatio': 0.2616,
+ 'pegRatio': 0.81,
+ 'phone': '860-298-4500',
+ 'previousClose': 56.59,
+ 'priceHint': 2,
+ 'priceToBook': 2.8063023,
+ 'priceToSalesTrailing12Months': 3.063856,
+ 'profitMargins': 0.097849995,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 56.625,
+ 'regularMarketDayLow': 55.28,
+ 'regularMarketOpen': 56.25,
+ 'regularMarketPreviousClose': 56.59,
+ 'regularMarketPrice': 56.25,
+ 'regularMarketVolume': 964934,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 256611008,
+ 'sharesPercentSharesOut': 0.0188,
+ 'sharesShort': 4816480,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4133766,
+ 'shortName': 'SS&C Technologies Holdings, Inc',
+ 'shortPercentOfFloat': 0.0215,
+ 'shortRatio': 3.23,
+ 'startDate': None,
+ 'state': 'CT',
+ 'strikePrice': None,
+ 'symbol': 'SSNC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.45,
+ 'trailingAnnualDividendYield': 0.007951935,
+ 'trailingEps': 1.719,
+ 'trailingPE': 32.43165,
+ 'twoHundredDayAverage': 55.513454,
+ 'volume': 964934,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ssctech.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '06095'}

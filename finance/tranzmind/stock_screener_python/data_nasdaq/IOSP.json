@@ -1,0 +1,157 @@
+{'52WeekChange': -0.15215766,
+ 'SandP52WeekChange': None,
+ 'address1': '8310 South Valley Highway',
+ 'address2': 'Suite 350',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 78.17,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 65362,
+ 'averageVolume': 115000,
+ 'averageVolume10days': 65362,
+ 'beta': 1.223529,
+ 'beta3Year': None,
+ 'bid': 77.95,
+ 'bidSize': 1000,
+ 'bookValue': 38.427,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Englewood',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 79.69,
+ 'dayLow': 77.41,
+ 'dividendRate': 1.04,
+ 'dividendYield': 0.013099999,
+ 'earningsQuarterlyGrowth': 0.153,
+ 'enterpriseToEbitda': 9.11,
+ 'enterpriseToRevenue': 1.297,
+ 'enterpriseValue': 1941318400,
+ 'exDividendDate': 1589500800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 77.04343,
+ 'fiftyTwoWeekHigh': 107.85,
+ 'fiftyTwoWeekLow': 56.71,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.15,
+ 'floatShares': 24213540,
+ 'forwardEps': 4.93,
+ 'forwardPE': 15.833672,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0135699995,
+ 'heldPercentInstitutions': 0.95677,
+ 'industry': 'Specialty Chemicals',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1185148800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/innospecinc.com',
+ 'longBusinessSummary': 'Innospec Inc. develops, manufactures, blends, '
+                        'markets, and supplies specialty chemicals worldwide. '
+                        'It operates through four segments: Fuel Specialties, '
+                        'Performance Chemicals, Oilfield Services, and Octane '
+                        'Additives. The Fuel Specialties segment offers a '
+                        'range of specialty chemical products used as '
+                        'additives in various fuels. Its products are used in '
+                        'the operation of automotive, marine, and aviation '
+                        'engines; power station generators; and heating oil. '
+                        'The Performance Chemicals segment provides '
+                        "technology-based solutions for its customers' "
+                        'processes or products focused in the personal care, '
+                        'home care, agrochemical, and metal extraction '
+                        'markets. The Oilfield Services segment develops and '
+                        'markets products to prevent loss of mud in drilling '
+                        'operations; chemical solutions for fracturing, '
+                        'stimulation, and completion operations; and products '
+                        'for oil and gas production, which enable flow '
+                        'assurance and maintain asset integrity. The Octane '
+                        'Additives segment produces and sells tetra ethyl lead '
+                        '(TEL) for use in automotive gasoline. This segment is '
+                        'also involved in environmental remediation business '
+                        'that manages the cleanup of redundant TEL facilities. '
+                        'The company sells its products primarily to oil and '
+                        'gas exploration and production companies, oil '
+                        'refineries, fuel manufacturers and users, personal '
+                        'care and home care companies, formulators of '
+                        'agrochemical and metal extraction preparations, and '
+                        'other chemical and industrial companies. The company '
+                        'was formerly known as Octel Corp. and changed its '
+                        'name to Innospec Inc. in January 2006. Innospec Inc. '
+                        'was founded in 1938 and is headquartered in '
+                        'Englewood, Colorado.',
+ 'longName': 'Innospec Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1917216000,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_226057',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 116600000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 79.69,
+ 'openInterest': None,
+ 'payoutRatio': 0.2166,
+ 'pegRatio': 2.67,
+ 'phone': '303 792 5554',
+ 'previousClose': 79.57,
+ 'priceHint': 2,
+ 'priceToBook': 2.0313842,
+ 'priceToSalesTrailing12Months': 1.2804488,
+ 'profitMargins': 0.077870004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 79.69,
+ 'regularMarketDayLow': 77.41,
+ 'regularMarketOpen': 79.69,
+ 'regularMarketPreviousClose': 79.57,
+ 'regularMarketPrice': 79.69,
+ 'regularMarketVolume': 42823,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Basic Materials',
+ 'sharesOutstanding': 24560800,
+ 'sharesPercentSharesOut': 0.022,
+ 'sharesShort': 540871,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 432994,
+ 'shortName': 'Innospec Inc.',
+ 'shortPercentOfFloat': 0.036199998,
+ 'shortRatio': 4.24,
+ 'startDate': None,
+ 'state': 'CO',
+ 'strikePrice': None,
+ 'symbol': 'IOSP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.02,
+ 'trailingAnnualDividendYield': 0.012818902,
+ 'trailingEps': 4.71,
+ 'trailingPE': 16.573248,
+ 'twoHundredDayAverage': 81.125824,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '76c101a5-9fa1-33b5-beb8-4e9d71c16aca',
+ 'volume': 42823,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.innospecinc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '80112'}

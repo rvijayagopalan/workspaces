@@ -1,0 +1,150 @@
+{'52WeekChange': -0.46190476,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'No. 77, Dunhua South Road',
+ 'address2': '15th Floor Sec. 2',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1.18,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 109587,
+ 'averageVolume': 101400,
+ 'averageVolume10days': 109587,
+ 'beta': 1.267226,
+ 'beta3Year': None,
+ 'bid': 1.12,
+ 'bidSize': 1100,
+ 'bookValue': 11.133,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Taipei',
+ 'companyOfficers': [],
+ 'country': 'Taiwan',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1.18,
+ 'dayLow': 1.13,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.028,
+ 'enterpriseToEbitda': 11.306,
+ 'enterpriseToRevenue': 0.153,
+ 'enterpriseValue': 51736608,
+ 'exDividendDate': 1536796800,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '886 2 2712 3557',
+ 'fiftyDayAverage': 1.0908571,
+ 'fiftyTwoWeekHigh': 2.15,
+ 'fiftyTwoWeekLow': 0.89,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 3195937,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1227,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.75478,
+ 'heldPercentInstitutions': 0.05768,
+ 'industry': 'Electrical Equipment & Parts',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/apwcc.com',
+ 'longBusinessSummary': 'Asia Pacific Wire & Cable Corporation Limited, '
+                        'through its subsidiaries, manufactures and '
+                        'distributes telecommunications, power cable, and '
+                        'enameled and electronic wire products in Singapore, '
+                        "Thailand, Australia, the People's Republic of China, "
+                        'and other markets in the Asia Pacific region. The '
+                        'company offers telecommunications cable products, '
+                        'including copper-based and fiber optic cables for '
+                        'telephone and data transmissions; and armored and '
+                        'unarmored low voltage power transmission cable, which '
+                        'is used to transmit electricity to and within '
+                        'commercial and residential buildings, as well as to '
+                        'outdoor installations, such as street lights, traffic '
+                        'signals, and other signs. It also provides enameled '
+                        'wire for use in the assembly of a range of electrical '
+                        'products consisting of oil-filled transformers, '
+                        'refrigerator motors, telephones, radios, televisions, '
+                        'fan motors, air conditioner compressors, and other '
+                        'electric appliances. In addition, the company '
+                        'distributes wire and cable products; and offers '
+                        'project engineering services in the supply, delivery, '
+                        'and installation of power cables, as well as '
+                        'fabrication services for converting raw materials to '
+                        'wire and cable products. It serves government '
+                        'organizations, electric contracting firms, electrical '
+                        'dealers, and wire and cable factories. The company '
+                        'was founded in 1996 and is headquartered in Taipei, '
+                        'Taiwan. Asia Pacific Wire & Cable Corporation Limited '
+                        'is a subsidiary of Pacific Electric Wire & Cable Co., '
+                        'Ltd.',
+ 'longName': 'Asia Pacific Wire & Cable Corporation Limited',
+ 'market': 'us_market',
+ 'marketCap': 15616261,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_361699',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1577750400,
+ 'navPrice': None,
+ 'netIncomeToCommon': -1632000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 1.13,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '886 2 2712 2558',
+ 'previousClose': 1.11,
+ 'priceHint': 4,
+ 'priceToBook': 0.10150004,
+ 'priceToSalesTrailing12Months': 0.046180096,
+ 'profitMargins': -0.00483,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.18,
+ 'regularMarketDayLow': 1.13,
+ 'regularMarketOpen': 1.13,
+ 'regularMarketPreviousClose': 1.11,
+ 'regularMarketPrice': 1.13,
+ 'regularMarketVolume': 8503,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 13819700,
+ 'sharesPercentSharesOut': 0.0008,
+ 'sharesShort': 11046,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 344,
+ 'shortName': 'Asia Pacific Wire & Cable Corpo',
+ 'shortPercentOfFloat': 0.0034,
+ 'shortRatio': 0.06,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'APWC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0,
+ 'trailingAnnualDividendYield': 0,
+ 'trailingEps': -0.118,
+ 'twoHundredDayAverage': 1.1531655,
+ 'volume': 8503,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.apwcc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '106'}

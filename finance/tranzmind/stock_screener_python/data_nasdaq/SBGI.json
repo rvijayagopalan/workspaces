@@ -1,0 +1,155 @@
+{'52WeekChange': -0.6135849,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '10706 Beaver Dam Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 20.49,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 1524925,
+ 'averageVolume': 1727960,
+ 'averageVolume10days': 1524925,
+ 'beta': 1.330532,
+ 'beta3Year': None,
+ 'bid': 20.48,
+ 'bidSize': 1800,
+ 'bookValue': 17.561,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Hunt Valley',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 21.1,
+ 'dayLow': 20.13,
+ 'dividendRate': 0.8,
+ 'dividendYield': 0.0396,
+ 'earningsQuarterlyGrowth': 4.591,
+ 'enterpriseToEbitda': 12.275,
+ 'enterpriseToRevenue': 2.843,
+ 'enterpriseValue': 14576911360,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 19.349428,
+ 'fiftyTwoWeekHigh': 53.72,
+ 'fiftyTwoWeekLow': 10.58,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.36,
+ 'floatShares': 48252250,
+ 'forwardEps': -0.88,
+ 'forwardPE': -23.272726,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 11800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.05809,
+ 'heldPercentInstitutions': 0.92785,
+ 'industry': 'Broadcasting',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 896400000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sbgi.net',
+ 'longBusinessSummary': 'Sinclair Broadcast Group, Inc. operates as a '
+                        'diversified television media company in the United '
+                        'States. The company operates in two segments, Local '
+                        'News and Marketing Services; and Sports. It owns or '
+                        'provides various programming, operating, sales, and '
+                        'other non-programming operating services to '
+                        'television stations. The company broadcasts free '
+                        'over-the-air programming, such as network provided '
+                        'programs, locally-produced news, local sporting '
+                        'events, programming from program service '
+                        'arrangements, syndicated entertainment programs, and '
+                        'internally originated programming to television '
+                        'viewing audiences in the communities through its '
+                        'local television stations. As of December 31, 2019, '
+                        'it owned, operated, and/or provided services to 191 '
+                        'stations in 89 markets, which broadcast 629 channels. '
+                        'The company also owns and operates various networks '
+                        'carried on distribution platforms; and Tennis '
+                        'Channel, a cable network that includes coverage of '
+                        "various tennis' top tournaments and original "
+                        'professional sport, and tennis lifestyle shows. In '
+                        'addition, it owns regional sports network, which has '
+                        'the exclusive rights to air games of 45 professional '
+                        'sports teams and other sporting events. Further, the '
+                        'company offers digital agency services; and provides '
+                        'broadcast related technical services to the broadcast '
+                        'industry, as well as designs and manufactures '
+                        'broadcast systems, including transmitters and '
+                        'antennas. Additionally, it owns various non-media '
+                        'related investments, including private equity, '
+                        'mezzanine financing, and real estate investments. It '
+                        'also offers Tennis Magazine; and operates Tennis.com, '
+                        'an online tennis platform. Sinclair Broadcast Group, '
+                        'Inc. was founded in 1986 and is headquartered in Hunt '
+                        'Valley, Maryland.',
+ 'longName': 'Sinclair Broadcast Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1640910848,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_526950',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 148000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 20.8,
+ 'openInterest': None,
+ 'payoutRatio': 0.49080002,
+ 'pegRatio': 2.07,
+ 'phone': '410-568-1500',
+ 'previousClose': 20.2,
+ 'priceHint': 2,
+ 'priceToBook': 1.1662205,
+ 'priceToSalesTrailing12Months': 0.32005283,
+ 'profitMargins': 0.028870001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 21.1,
+ 'regularMarketDayLow': 20.13,
+ 'regularMarketOpen': 20.8,
+ 'regularMarketPreviousClose': 20.2,
+ 'regularMarketPrice': 20.8,
+ 'regularMarketVolume': 1120548,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 55394900,
+ 'sharesPercentSharesOut': 0.089899994,
+ 'sharesShort': 7201569,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7650434,
+ 'shortName': 'Sinclair Broadcast Group, Inc.',
+ 'shortPercentOfFloat': 0.38880002,
+ 'shortRatio': 3.38,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'SBGI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.8,
+ 'trailingAnnualDividendYield': 0.03960396,
+ 'trailingEps': 1.61,
+ 'trailingPE': 12.720496,
+ 'twoHundredDayAverage': 21.067194,
+ 'volume': 1120548,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sbgi.net',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '21030'}

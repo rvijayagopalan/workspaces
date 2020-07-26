@@ -1,0 +1,160 @@
+{'52WeekChange': -0.3256449,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '101 North Broadway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 39.58,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 89312,
+ 'averageVolume': 122333,
+ 'averageVolume10days': 89312,
+ 'beta': 1.280672,
+ 'beta3Year': None,
+ 'bid': 39.49,
+ 'bidSize': 900,
+ 'bookValue': 31.347,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Oklahoma City',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 40.22,
+ 'dayLow': 39.45,
+ 'dividendRate': 1.28,
+ 'dividendYield': 0.0321,
+ 'earningsQuarterlyGrowth': -0.393,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': -0.576,
+ 'enterpriseValue': -226414592,
+ 'exDividendDate': 1593388800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 39.157143,
+ 'fiftyTwoWeekHigh': 63.96,
+ 'fiftyTwoWeekLow': 26,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.98,
+ 'floatShares': 18696451,
+ 'forwardEps': 3.34,
+ 'forwardPE': 11.817366,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1948,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.58627,
+ 'heldPercentInstitutions': 0.42604,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1501545600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bancfirst.bank',
+ 'longBusinessSummary': 'BancFirst Corporation operates as the bank holding '
+                        'company for BancFirst that provides a range of '
+                        'commercial banking services to retail customers, and '
+                        'small to medium-sized businesses. It operates through '
+                        'Metropolitan Banks, Community Banks, and Other '
+                        'Financial Services segments. The company offers '
+                        'checking accounts, negotiable order of withdrawal '
+                        'accounts, savings accounts, money market accounts, '
+                        'sweep accounts, club accounts, individual retirement '
+                        'accounts, and certificates of deposit, as well as '
+                        'overdraft protection and auto draft services. It also '
+                        'provides commercial, financial, and other loans for '
+                        'working capital, facilities acquisition or expansion, '
+                        'purchase of equipment, and other needs; construction, '
+                        'farmland, one-to-four family residence, multifamily '
+                        'residential property, and commercial real estate '
+                        'loans; and loans to finance purchases of consumer '
+                        'goods, such as automobiles, boats, household goods, '
+                        'vacations, and education. In addition, the company '
+                        'engages in the investment management and '
+                        'administration of trusts for individuals, '
+                        'corporations, and employee benefit plans, as well as '
+                        'bond trustee and paying agent business for various '
+                        'Oklahoma municipalities and governmental entities; '
+                        'and provision of item processing, research, and other '
+                        'correspondent banking services for financial '
+                        'institutions and governmental units. Further, it is '
+                        'involved in real estate investment and insurance '
+                        'agency services; and providing funds transfer, '
+                        'collection, safe deposit box, cash management, retail '
+                        'brokerage, and other services for individual and '
+                        'corporate customers. The company serves customers in '
+                        'non-metropolitan trade centers and cities in the '
+                        'metropolitan statistical areas of Oklahoma. It '
+                        'operates through 107 banking locations serving 58 '
+                        'communities in Oklahoma. The company was formerly '
+                        'known as United Community Corporation and changed its '
+                        'name to BancFirst Corporation in November 1988. '
+                        'BancFirst Corporation was incorporated in 1984 and is '
+                        'based in Oklahoma City, Oklahoma.',
+ 'longName': 'BancFirst Corporation',
+ 'market': 'us_market',
+ 'marketCap': 1289196800,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_19033',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 112213000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 40,
+ 'openInterest': None,
+ 'payoutRatio': 0.3787,
+ 'pegRatio': 1.84,
+ 'phone': '405-270-1086',
+ 'previousClose': 39.9,
+ 'priceHint': 2,
+ 'priceToBook': 1.2591317,
+ 'priceToSalesTrailing12Months': 3.2820776,
+ 'profitMargins': 0.28566998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 40.22,
+ 'regularMarketDayLow': 39.45,
+ 'regularMarketOpen': 40,
+ 'regularMarketPreviousClose': 39.9,
+ 'regularMarketPrice': 40,
+ 'regularMarketVolume': 42604,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 32662700,
+ 'sharesPercentSharesOut': 0.0229,
+ 'sharesShort': 748336,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 534236,
+ 'shortName': 'BancFirst Corporation',
+ 'shortPercentOfFloat': 0.044299997,
+ 'shortRatio': 5.02,
+ 'startDate': None,
+ 'state': 'OK',
+ 'strikePrice': None,
+ 'symbol': 'BANF',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.28,
+ 'trailingAnnualDividendYield': 0.0320802,
+ 'trailingEps': 3.382,
+ 'trailingPE': 11.670609,
+ 'twoHundredDayAverage': 43.197697,
+ 'volume': 42604,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bancfirst.bank',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '73102'}

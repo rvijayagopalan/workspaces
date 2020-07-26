@@ -1,0 +1,153 @@
+{'52WeekChange': 0.18567419,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '5775 Morehouse Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 89.14,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 6768712,
+ 'averageVolume': 9197022,
+ 'averageVolume10days': 6768712,
+ 'beta': 1.359663,
+ 'beta3Year': None,
+ 'bid': 88.88,
+ 'bidSize': 1000,
+ 'bookValue': 2.702,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Diego',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 90.29,
+ 'dayLow': 87.51,
+ 'dividendRate': 2.6,
+ 'dividendYield': 0.029000001,
+ 'earningsQuarterlyGrowth': -0.294,
+ 'enterpriseToEbitda': 10.989,
+ 'enterpriseToRevenue': 4.305,
+ 'enterpriseValue': 106517848064,
+ 'exDividendDate': 1599004800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 90.33343,
+ 'fiftyTwoWeekHigh': 96.17,
+ 'fiftyTwoWeekLow': 58,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.58,
+ 'floatShares': 1123240588,
+ 'forwardEps': 5.9,
+ 'forwardPE': 15.066101,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 37000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00115,
+ 'heldPercentInstitutions': 0.79911005,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569715200,
+ 'lastMarket': None,
+ 'lastSplitDate': 1092614400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/qualcomm.com',
+ 'longBusinessSummary': 'QUALCOMM Incorporated designs, develops, '
+                        'manufactures, and markets digital communication '
+                        'products worldwide. It operates through three '
+                        'segments: Qualcomm CDMA Technologies (QCT); Qualcomm '
+                        'Technology Licensing (QTL); and Qualcomm Strategic '
+                        'Initiatives (QSI). The QCT segment develops and '
+                        'supplies integrated circuits and system software '
+                        'based on code division multiple access (CDMA), '
+                        'orthogonal frequency division multiple access, and '
+                        'other technologies for use in wireless voice and data '
+                        'communications, networking, application processing, '
+                        'multimedia, and global positioning system products. '
+                        'This segment also provides products designed for the '
+                        'implementation of small cells. The QTL segment grants '
+                        'licenses or provides rights to use portions of its '
+                        'intellectual property portfolio, which include '
+                        'various patent rights useful in the manufacture and '
+                        'sale of wireless products comprising products '
+                        'implementing CDMA2000, wideband CDMA, CDMA time '
+                        'division duplex, long term evolution, and/or fifth '
+                        'generation standards and their derivatives. The QSI '
+                        'segment invests in early-stage companies in various '
+                        'industries, including artificial intelligence, '
+                        'automotive, digital healthcare, enterprise software '
+                        'and solutions, mobile and networking and investment '
+                        'for supporting the design and introduction of new '
+                        'products and services for voice and data '
+                        'communications, and new industry segments. The '
+                        'company also provides development, and other services '
+                        'and related products to the United States government '
+                        'agencies and their contractors. QUALCOMM Incorporated '
+                        'was founded in 1985 and is headquartered in San '
+                        'Diego, California.',
+ 'longName': 'QUALCOMM Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 99995033600,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_33493',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585440000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 4048000000,
+ 'nextFiscalYearEnd': 1632873600,
+ 'open': 89.21,
+ 'openInterest': None,
+ 'payoutRatio': 0.73370004,
+ 'pegRatio': 0.89,
+ 'phone': '858 587 1121',
+ 'previousClose': 89.67,
+ 'priceHint': 2,
+ 'priceToBook': 32.897854,
+ 'priceToSalesTrailing12Months': 4.041673,
+ 'profitMargins': 0.16361,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 90.29,
+ 'regularMarketDayLow': 87.51,
+ 'regularMarketOpen': 89.21,
+ 'regularMarketPreviousClose': 89.67,
+ 'regularMarketPrice': 89.21,
+ 'regularMarketVolume': 9519999,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 1124930048,
+ 'sharesPercentSharesOut': 0.0143,
+ 'sharesShort': 16065649,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 17341981,
+ 'shortName': 'QUALCOMM Incorporated',
+ 'shortPercentOfFloat': 0.0143,
+ 'shortRatio': 1.59,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'QCOM',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.48,
+ 'trailingAnnualDividendYield': 0.027656965,
+ 'trailingEps': 3.406,
+ 'trailingPE': 26.098063,
+ 'twoHundredDayAverage': 82.26863,
+ 'volume': 9519999,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.qualcomm.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92121'}

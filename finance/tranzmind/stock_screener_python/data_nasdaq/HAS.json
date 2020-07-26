@@ -1,0 +1,155 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '1027 Newport Avenue',
+ 'address2': 'PO Box 1059',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 77.94,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 878537,
+ 'averageVolume': 1117431,
+ 'averageVolume10days': 878537,
+ 'beta': 0.95182,
+ 'beta3Year': None,
+ 'bid': 77.06,
+ 'bidSize': 1000,
+ 'bookValue': 19.92,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Pawtucket',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 80.765,
+ 'dayLow': 77.02,
+ 'dividendRate': 2.72,
+ 'dividendYield': 0.0341,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 17.722,
+ 'enterpriseToRevenue': 2.934,
+ 'enterpriseValue': 14941455360,
+ 'exDividendDate': 1596153600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 75.43886,
+ 'fiftyTwoWeekHigh': 126.87,
+ 'fiftyTwoWeekLow': 41.33,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.54,
+ 'floatShares': 127801444,
+ 'forwardEps': 4.41,
+ 'forwardPE': 17.594105,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5600,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.075440004,
+ 'heldPercentInstitutions': 0.8862,
+ 'industry': 'Leisure',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577577600,
+ 'lastMarket': None,
+ 'lastSplitDate': 921542400,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/hasbro.com',
+ 'longBusinessSummary': 'Hasbro, Inc., together with its subsidiaries, '
+                        'operates as a play and entertainment company. The '
+                        "company's U.S. and Canada segment markets and sells "
+                        'action figures, arts and crafts, and creative play '
+                        'products; electronic toys and related electronic '
+                        'interactive products; fashion and other dolls, infant '
+                        'products, play sets, preschool toys, plush products, '
+                        'and sports action blasters and accessories; and '
+                        'vehicles and toy-related specialty products, as well '
+                        'as traditional board games, and trading card and '
+                        'role-playing games primarily in the United States and '
+                        'Canada. Its International segment markets and sells '
+                        'toy and game products primarily in the Europe, the '
+                        'Asia Pacific, and Latin and South American regions. '
+                        "The company's Entertainment and Licensing segment "
+                        'engages in consumer products licensing, digital '
+                        'gaming, and television and movie entertainment '
+                        'operations. It also acquires, finances, develops, '
+                        'produces, distributes, and sells entertainment '
+                        'content. The company offers its products under the '
+                        'MAGIC: THE GATHERING, MY LITTLE PONY, NERF, '
+                        'TRANSFORMERS, PLAY-DOH, MONOPOLY, BABY ALIVE, POWER '
+                        'RANGERS, FURREAL FRIENDS, PEPPA PIG, and PJ MASKS '
+                        'brands, as well as through premier partner brands. '
+                        'The company sells its products to wholesalers, '
+                        'distributors, chain stores, discount stores, drug '
+                        'stores, mail order houses, catalog stores, department '
+                        'stores, and other traditional retailers, as well as '
+                        'Internet-based e-retailers. Hasbro, Inc. was founded '
+                        'in 1923 and is headquartered in Pawtucket, Rhode '
+                        'Island.',
+ 'longName': 'Hasbro, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 10630683648,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_277746',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585440000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 424089984,
+ 'nextFiscalYearEnd': 1640736000,
+ 'open': 80.24,
+ 'openInterest': None,
+ 'payoutRatio': 0.8168,
+ 'pegRatio': 2.19,
+ 'phone': '401 431 8697',
+ 'previousClose': 79.8,
+ 'priceHint': 2,
+ 'priceToBook': 3.89508,
+ 'priceToSalesTrailing12Months': 2.0871952,
+ 'profitMargins': 0.08326,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 80.765,
+ 'regularMarketDayLow': 77.02,
+ 'regularMarketOpen': 80.24,
+ 'regularMarketPreviousClose': 79.8,
+ 'regularMarketPrice': 80.24,
+ 'regularMarketVolume': 1653489,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 137011008,
+ 'sharesPercentSharesOut': 0.0369,
+ 'sharesShort': 5056429,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5031993,
+ 'shortName': 'Hasbro, Inc.',
+ 'shortPercentOfFloat': 0.0533,
+ 'shortRatio': 4.36,
+ 'startDate': None,
+ 'state': 'RI',
+ 'strikePrice': None,
+ 'symbol': 'HAS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.72,
+ 'trailingAnnualDividendYield': 0.03408521,
+ 'trailingEps': 3.233,
+ 'trailingPE': 23.99938,
+ 'twoHundredDayAverage': 78.41957,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '85fa4f9f-8cea-3895-a266-8d511966de3d',
+ 'volume': 1653489,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.hasbro.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02861-1059'}

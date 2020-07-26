@@ -1,0 +1,154 @@
+{'52WeekChange': 0.9786885,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'The Empire State Building',
+ 'address2': 'Suite 7530 350 Fifth Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24.17,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 398375,
+ 'averageVolume': 452763,
+ 'averageVolume10days': 398375,
+ 'beta': 1.65379,
+ 'beta3Year': None,
+ 'bid': 22.19,
+ 'bidSize': 1000,
+ 'bookValue': 5.189,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 24.77,
+ 'dayLow': 23.33,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -13.881,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 1122716032,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '646 224 9585',
+ 'fiftyDayAverage': 21.749714,
+ 'fiftyTwoWeekHigh': 27.59,
+ 'fiftyTwoWeekLow': 9.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 32377432,
+ 'forwardEps': -1.94,
+ 'forwardPE': -12.443298,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 72,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.050430004,
+ 'heldPercentInstitutions': 0.95489,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1515110400,
+ 'lastSplitFactor': '1:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/rocketpharma.com',
+ 'longBusinessSummary': 'Rocket Pharmaceuticals, Inc., together with its '
+                        'subsidiaries, operates as a multi-platform '
+                        'biotechnology company that focuses on developing gene '
+                        'therapies for rare and devastating pediatric '
+                        'diseases. It has clinical-stage lentiviral vector '
+                        '(LVV) programs under clinical testing to treat '
+                        'fanconi anemia, a genetic defect in the bone marrow '
+                        'that reduces production of blood cells or promotes '
+                        'the production of faulty blood cells; leukocyte '
+                        'adhesion deficiency-I, a genetic disorder that causes '
+                        'the immune system to malfunction, and pyruvate kinase '
+                        'deficiency, a rare red blood cell autosomal recessive '
+                        'disorder that results in chronic non-spherocytic '
+                        'hemolytic anemia. It also has additional infantile '
+                        'malignant osteopetrosis, a genetic disorder '
+                        'characterized by increased bone density and bone mass '
+                        'secondary to impaired bone resorption. In addition, '
+                        'the company has an adeno-associated virus program for '
+                        'Danon disease, a multi-organ lysosomal-associated '
+                        'disorder leading to early death due to heart failure. '
+                        'It has license agreements with Fred Hutchinson Cancer '
+                        'Research Center; Centro de Investigaciones '
+                        'Energéticas, Medioambientales y Tecnológicas '
+                        '(CIEMAT), Centro de Investigacion Biomedica En Red, '
+                        'and Fundacion Instituto de investigacion Sanitaria '
+                        'Fundacion Jimenez Diaz; CIEMAT and UCL Business PLC; '
+                        'The Regents of the University of California; and '
+                        'REGENXBIO Inc. The company also has a research and '
+                        'collaboration agreement with Lund University; and '
+                        'strategic collaboration agreement with Stanford '
+                        'University School of Medicine. Rocket '
+                        'Pharmaceuticals, Inc. is headquartered in New York, '
+                        'New York.',
+ 'longName': 'Rocket Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1331489920,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_427906624',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -82483000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 24.3,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -1.16,
+ 'phone': '646 440 9100',
+ 'previousClose': 24.78,
+ 'priceHint': 2,
+ 'priceToBook': 4.6521487,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 24.77,
+ 'regularMarketDayLow': 23.33,
+ 'regularMarketOpen': 24.3,
+ 'regularMarketPreviousClose': 24.78,
+ 'regularMarketPrice': 24.3,
+ 'regularMarketVolume': 224485,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 55157000,
+ 'sharesPercentSharesOut': 0.16,
+ 'sharesShort': 8825589,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 8382070,
+ 'shortName': 'Rocket Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.2515,
+ 'shortRatio': 16.9,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'RCKT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.603,
+ 'twoHundredDayAverage': 19.384209,
+ 'volume': 224485,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.rocketpharma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10118'}

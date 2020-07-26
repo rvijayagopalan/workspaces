@@ -1,0 +1,154 @@
+{'52WeekChange': 0.11697447,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '88 Sidney Street',
+ 'address2': '2nd Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 56.93,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 396587,
+ 'averageVolume': 688428,
+ 'averageVolume10days': 396587,
+ 'beta': 2.133333,
+ 'beta3Year': None,
+ 'bid': 50.79,
+ 'bidSize': 1100,
+ 'bookValue': 9.09,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 51.59,
+ 'dayLow': 49.9,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -8.48,
+ 'enterpriseToRevenue': 17.635,
+ 'enterpriseValue': 3082312448,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 51.838856,
+ 'fiftyTwoWeekHigh': 56.75,
+ 'fiftyTwoWeekLow': 27.77,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 61032546,
+ 'forwardEps': -4.73,
+ 'forwardPE': -10.739958,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 536,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.113690004,
+ 'heldPercentInstitutions': 1.021,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/agios.com',
+ 'longBusinessSummary': 'Agios Pharmaceuticals, Inc., a biopharmaceutical '
+                        'company, engages in the discovery and development of '
+                        'medicines in the field of cellular metabolism and '
+                        'adjacent areas of hematologic malignancies, solid '
+                        'tumors, and rare genetic diseases. The company offers '
+                        'TIBSOVO (ivosidenib), an oral targeted inhibitor for '
+                        'treating adult patients with relapsed or refractory '
+                        'acute myeloid leukemia (R/R AML), as well as to treat '
+                        'patients with newly diagnosed AML; and IDHIFA, an '
+                        'oral targeted inhibitor for patients with R/R AML and '
+                        'an isocitrate dehydrogenase 2 mutation. It is also '
+                        'developing TIBSOVO, which has completed Phase II '
+                        'clinical trials to treat IC eligible frontline AML; '
+                        'that is in Phase III clinical trials for treating IC '
+                        'ineligible frontline AML; and that is in Phase III '
+                        'clinical trials for the treatment of '
+                        'cholangiocarcinoma, as well as in early stage '
+                        'clinical development to treat glioma and solid '
+                        'tumors. In addition, the company is developing '
+                        'IDHIFA, which has completed Phase II clinical study '
+                        'for treating IC eligible frontline AML; and that is '
+                        'in Phase I/II clinical trials for the treatment of IC '
+                        'ineligible frontline AML. Further, it is developing '
+                        'mitapivat, which is in Phase III clinical trials to '
+                        'treat pyruvate kinase deficiency, as well as in Phase '
+                        'II clinical study for treating thalassemia; '
+                        'vorasidenib (AG-881) that is in Phase I clinical '
+                        'trials for the treatment of solid tumors, including '
+                        'glioma; AG-270, which is in Phase I dose-escalation '
+                        'trial to treat methylthioadenosine phosphorylase '
+                        'deleted cancers; and AG-636 that is in pre-clinical '
+                        'stage for treating hematologic malignancies. Agios '
+                        'Pharmaceuticals, Inc. was incorporated in 2007 and is '
+                        'based in Cambridge, Massachusetts.',
+ 'longName': 'Agios Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3499581440,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_46539787',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -358649984,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 51.59,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.27,
+ 'phone': '617 649 8600',
+ 'previousClose': 52.18,
+ 'priceHint': 2,
+ 'priceToBook': 5.5885587,
+ 'priceToSalesTrailing12Months': 20.022434,
+ 'profitMargins': -2.05197,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 51.59,
+ 'regularMarketDayLow': 49.9,
+ 'regularMarketOpen': 51.59,
+ 'regularMarketPreviousClose': 52.18,
+ 'regularMarketPrice': 51.59,
+ 'regularMarketVolume': 536884,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 68889400,
+ 'sharesPercentSharesOut': 0.1083,
+ 'sharesShort': 7458952,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7637854,
+ 'shortName': 'Agios Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.168,
+ 'shortRatio': 11.16,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'AGIO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -5.735,
+ 'twoHundredDayAverage': 47.088272,
+ 'volume': 536884,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.agios.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02139'}

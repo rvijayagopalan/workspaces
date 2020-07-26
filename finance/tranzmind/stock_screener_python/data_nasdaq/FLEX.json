@@ -1,0 +1,161 @@
+{'52WeekChange': -0.02397871,
+ 'SandP52WeekChange': None,
+ 'address1': '2 Changi South Lane',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 10.66,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 2874262,
+ 'averageVolume': 5323082,
+ 'averageVolume10days': 2874262,
+ 'beta': 1.778711,
+ 'beta3Year': None,
+ 'bid': 10.66,
+ 'bidSize': 45900,
+ 'bookValue': 5.692,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Singapore',
+ 'companyOfficers': [],
+ 'country': 'Singapore',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 10.91,
+ 'dayLow': 10.63,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.168,
+ 'enterpriseToRevenue': 0.284,
+ 'enterpriseValue': 6887165952,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.527143,
+ 'fiftyTwoWeekHigh': 14,
+ 'fiftyTwoWeekLow': 5.36,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 495187803,
+ 'forwardEps': 1.27,
+ 'forwardPE': 8.385827,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 160000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0045,
+ 'heldPercentInstitutions': 0.995,
+ 'industry': 'Electronic Components',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': 971740800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/flex.com',
+ 'longBusinessSummary': 'Flex Ltd. provides design, engineering, '
+                        'manufacturing, and supply chain services and '
+                        'solutions to original equipment manufacturers in '
+                        'Asia, the Americas, and Europe. It operates through '
+                        'High Reliability Solutions, Industrial and Emerging '
+                        'Industries, Communications & Enterprise Compute, and '
+                        'Consumer Technologies Group segments. The company '
+                        'provides a portfolio of technologies in '
+                        'electrical/electronics, electromechanical, and '
+                        'software; and cross-industry technologies, including '
+                        'human machine interface, audio and video, system in '
+                        'package, miniaturization, IoT platforms, and power '
+                        'management. It also designs and integrates advanced '
+                        'data center servers, storage and networking '
+                        'equipment, and data center appliances. In addition, '
+                        'the company provides value-added design and '
+                        'engineering services; and systems assembly and '
+                        'manufacturing services that include enclosures, '
+                        'testing services, and materials procurement and '
+                        'inventory management services. Further, it offers '
+                        'chargers for smartphones and tablets; adapters for '
+                        'notebooks and gaming systems; power supplies for the '
+                        'server, storage, and networking markets; isolated '
+                        'DC/DC converters and non-isolated Point of Load '
+                        'converters for the information and communications '
+                        'technology market; and specialized power module '
+                        'solutions for other markets. Additionally, the '
+                        'company provides after-market and forward supply '
+                        'chain logistics services comprising supplier-managed '
+                        'inventory, inbound freight management, product '
+                        'postponement, build/configure to order, order '
+                        'fulfillment and distribution, asset tracking, and '
+                        'supply chain network design; and reverse logistics '
+                        'and repair solutions, including returns management, '
+                        'exchange programs, complex repair, asset recovery, '
+                        'recycling, and e-waste management. The company was '
+                        'formerly known as Flextronics International Ltd. and '
+                        'changed its name to Flex Ltd. in September 2016. Flex '
+                        'Ltd. was founded in 1990 and is based in Singapore.',
+ 'longName': 'Flex Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 5301250048,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_26510',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 87579000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 10.91,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.85,
+ 'phone': '65 6876 9899',
+ 'previousClose': 10.99,
+ 'priceHint': 2,
+ 'priceToBook': 1.871047,
+ 'priceToSalesTrailing12Months': 0.2189706,
+ 'profitMargins': 0.0036199999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 10.91,
+ 'regularMarketDayLow': 10.63,
+ 'regularMarketOpen': 10.91,
+ 'regularMarketPreviousClose': 10.99,
+ 'regularMarketPrice': 10.91,
+ 'regularMarketVolume': 2266030,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 497769984,
+ 'sharesPercentSharesOut': 0.026500002,
+ 'sharesShort': 13202041,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 10568523,
+ 'shortName': 'Flex Ltd.',
+ 'shortPercentOfFloat': 0.0358,
+ 'shortRatio': 2.2,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'FLEX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.17,
+ 'trailingPE': 62.647057,
+ 'twoHundredDayAverage': 10.455899,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f7109ecb-a027-3167-8bb0-302d0da6496b',
+ 'volume': 2266030,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.flex.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '486123'}

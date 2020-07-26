@@ -1,0 +1,156 @@
+{'52WeekChange': -0.24702382,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '801 Lancaster Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27.86,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 97900,
+ 'averageVolume': 95968,
+ 'averageVolume10days': 97900,
+ 'beta': 0.778711,
+ 'beta3Year': None,
+ 'bid': 27.82,
+ 'bidSize': 1200,
+ 'bookValue': 30.329,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Bryn Mawr',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 28.54,
+ 'dayLow': 27.8,
+ 'dividendRate': 1.08,
+ 'dividendYield': 0.038399998,
+ 'earningsQuarterlyGrowth': -0.048,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.673,
+ 'enterpriseValue': 319602272,
+ 'exDividendDate': 1596153600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 26.887142,
+ 'fiftyTwoWeekHigh': 41.41,
+ 'fiftyTwoWeekLow': 22.2,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.49,
+ 'floatShares': 19625587,
+ 'forwardEps': 2.28,
+ 'forwardPE': 12.2061405,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 632,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.015579999,
+ 'heldPercentInstitutions': 0.78435,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1065052800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bmt.com',
+ 'longBusinessSummary': 'Bryn Mawr Bank Corporation operates as a bank holding '
+                        'company for The Bryn Mawr Trust Company that provides '
+                        'commercial and retail banking services to individual '
+                        'and business customers. It operates in two segments, '
+                        'Wealth Management and Banking. The company accepts '
+                        'deposit products, including interest-bearing demand '
+                        'accounts, wholesale time deposits, retail time '
+                        'deposits, savings accounts, noninterest-bearing '
+                        'deposits, money market accounts, and wholesale '
+                        'non-maturity deposits. It also provides loan and '
+                        'lease portfolio of products, such as commercial '
+                        'mortgages, home equity lines and loans, and '
+                        'residential mortgages, as well as construction, '
+                        'commercial and industrial, and consumer loans; and '
+                        'leasing services. In addition, the company offers '
+                        'wealth management services comprising trust '
+                        'administration and other related fiduciary, custody, '
+                        'investment management and advisory, employee benefits '
+                        'and IRA administration, estate settlement, financial '
+                        'planning, and brokerage services, as well as estate '
+                        'administration, retirement planning, and tax planning '
+                        'and preparation services. Further, it provides '
+                        'insurance and related products and services that '
+                        'include casualty, property, and allied insurance '
+                        'lines, as well as life insurance, annuities, medical '
+                        'insurance, and accident and health insurance for '
+                        'groups and individuals. Additionally, the company '
+                        'offers a small-ticket equipment financing services. '
+                        'It provides its services through 43 banking '
+                        'locations, seven wealth management offices, and two '
+                        'insurance and risk management locations in the '
+                        'Montgomery, Chester, Delaware, Philadelphia, and '
+                        'Dauphin Counties in Pennsylvania; New Castle County '
+                        'in Delaware; and Mercer and Camden Counties in New '
+                        'Jersey. The company was founded in 1889 and is '
+                        'headquartered in Bryn Mawr, Pennsylvania.',
+ 'longName': 'Bryn Mawr Bank Corporation',
+ 'market': 'us_market',
+ 'marketCap': 554593472,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_256311',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 36616000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 28.13,
+ 'openInterest': None,
+ 'payoutRatio': 0.5746,
+ 'pegRatio': 3.43,
+ 'phone': '610-525-1700',
+ 'previousClose': 28.1,
+ 'priceHint': 2,
+ 'priceToBook': 0.9176036,
+ 'priceToSalesTrailing12Months': 2.902977,
+ 'profitMargins': 0.19166,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 28.54,
+ 'regularMarketDayLow': 27.8,
+ 'regularMarketOpen': 28.13,
+ 'regularMarketPreviousClose': 28.1,
+ 'regularMarketPrice': 28.13,
+ 'regularMarketVolume': 53970,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 19927900,
+ 'sharesPercentSharesOut': 0.019,
+ 'sharesShort': 379448,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 172804,
+ 'shortName': 'Bryn Mawr Bank Corporation',
+ 'shortPercentOfFloat': 0.019299999,
+ 'shortRatio': 3.31,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'BMTC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.04,
+ 'trailingAnnualDividendYield': 0.037010673,
+ 'trailingEps': 1.815,
+ 'trailingPE': 15.333333,
+ 'twoHundredDayAverage': 30.294533,
+ 'volume': 53970,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bmt.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '19010'}

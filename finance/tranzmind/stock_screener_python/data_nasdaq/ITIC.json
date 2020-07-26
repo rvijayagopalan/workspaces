@@ -1,0 +1,155 @@
+{'52WeekChange': -0.24659604,
+ 'SandP52WeekChange': None,
+ 'address1': '121 North Columbia Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 123.15,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 4275,
+ 'averageVolume': 7660,
+ 'averageVolume10days': 4275,
+ 'beta': 0.616246,
+ 'beta3Year': None,
+ 'bid': 121.16,
+ 'bidSize': 1100,
+ 'bookValue': 97.116,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chapel Hill',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 125.3099,
+ 'dayLow': 121.5,
+ 'dividendRate': 1.76,
+ 'dividendYield': 0.014099999,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 7.669,
+ 'enterpriseToRevenue': 1.116,
+ 'enterpriseValue': 193453088,
+ 'exDividendDate': 1591920000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '888-467-2440',
+ 'fiftyDayAverage': 122.71286,
+ 'fiftyTwoWeekHigh': 182.52,
+ 'fiftyTwoWeekLow': 96.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.75,
+ 'floatShares': 1329179,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 340,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.31975,
+ 'heldPercentInstitutions': 0.47823003,
+ 'industry': 'Insurance—Specialty',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/invtitle.com',
+ 'longBusinessSummary': 'Investors Title Company, through its subsidiaries, '
+                        'provides title insurance for residential, '
+                        'institutional, commercial, and industrial properties. '
+                        'The company underwrites land title insurance for '
+                        'owners and mortgagees as a primary insurer; and '
+                        'assumes the reinsurance of title insurance risks from '
+                        'other title insurance companies. It also provides '
+                        'services in connection with tax-deferred exchanges of '
+                        'like-kind property; acts as a qualified intermediary '
+                        'in tax-deferred exchanges of property; coordinates '
+                        'the exchange aspects of the real estate transaction, '
+                        'such as drafting standard exchange documents, holding '
+                        'the exchange funds between the sale of the old '
+                        'property and the purchase of the new property, and '
+                        'accepting the formal identification of the '
+                        'replacement property. In addition, it serves as an '
+                        'exchange accommodation titleholder for accomplishing '
+                        'reverse exchanges when the taxpayers decide to '
+                        'acquire replacement property before selling the '
+                        'relinquished property. Further, the company offers '
+                        'investment management and trust services to '
+                        'individuals, companies, banks, and trusts; and '
+                        'consulting and management services to clients to '
+                        'start and operate a title insurance agency. It issues '
+                        'title insurance policies primarily through approved '
+                        'attorneys from underwriting offices, as well as '
+                        'through independent issuing agents in 23 states and '
+                        'the District of Columbia, primarily in the eastern '
+                        'half of the United States. The company was founded in '
+                        '1972 and is headquartered in Chapel Hill, North '
+                        'Carolina.',
+ 'longName': 'Investors Title Company',
+ 'market': 'us_market',
+ 'marketCap': 230080960,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_281365',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 17821000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 125.3099,
+ 'openInterest': None,
+ 'payoutRatio': 0.17469999,
+ 'pegRatio': None,
+ 'phone': '919-968-2200',
+ 'previousClose': 124.5,
+ 'priceHint': 2,
+ 'priceToBook': 1.2527288,
+ 'priceToSalesTrailing12Months': 1.326788,
+ 'profitMargins': 0.10277,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 125.3099,
+ 'regularMarketDayLow': 121.5,
+ 'regularMarketOpen': 125.3099,
+ 'regularMarketPreviousClose': 124.5,
+ 'regularMarketPrice': 125.3099,
+ 'regularMarketVolume': 4018,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 1891180,
+ 'sharesPercentSharesOut': 0.0121,
+ 'sharesShort': 22932,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 21382,
+ 'shortName': 'Investors Title Company',
+ 'shortPercentOfFloat': 0.019199999,
+ 'shortRatio': 2.63,
+ 'startDate': None,
+ 'state': 'NC',
+ 'strikePrice': None,
+ 'symbol': 'ITIC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.64,
+ 'trailingAnnualDividendYield': 0.013172691,
+ 'trailingEps': 9.409,
+ 'trailingPE': 12.930173,
+ 'twoHundredDayAverage': 136.27899,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '8afe3a4f-005d-3878-bd9f-923eb29b47d7',
+ 'volume': 4018,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.invtitle.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '27514'}

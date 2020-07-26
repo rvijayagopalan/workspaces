@@ -1,0 +1,149 @@
+{'52WeekChange': 0.43823266,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3535 General Atomics Court',
+ 'address2': 'Suite 200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 31.86,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 566287,
+ 'averageVolume': 1036582,
+ 'averageVolume10days': 566287,
+ 'beta': 1.773669,
+ 'beta3Year': None,
+ 'bid': 31.88,
+ 'bidSize': 1000,
+ 'bookValue': 2.885,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Diego',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 33.0889,
+ 'dayLow': 31.26,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -20.931,
+ 'enterpriseToRevenue': 222.552,
+ 'enterpriseValue': 2350820864,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 33.482,
+ 'fiftyTwoWeekHigh': 38.52,
+ 'fiftyTwoWeekLow': 12.59,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 65247168,
+ 'forwardEps': -1.95,
+ 'forwardPE': -16.358974,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 178,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02066,
+ 'heldPercentInstitutions': 0.94682,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/fatetherapeutics.com',
+ 'longBusinessSummary': 'Fate Therapeutics, Inc., a clinical-stage '
+                        'biopharmaceutical company, develops programmed '
+                        'cellular immunotherapies for cancer and immune '
+                        'disorders worldwide. Its NK- and T-cell '
+                        'immuno-oncology programs under development includes '
+                        'FT516 for the treatment of acute myeloid leukemia '
+                        '(AML) and B-cell lymphoma, FT596 to treat B-cell '
+                        'lymphoma and CLL, FT538 to treat AML and multiple '
+                        'myeloma, FT576 to treat multiple myeloma, FT819 to '
+                        'treat B-cell malignancies, and FT-ONO1 to treat '
+                        'hematologic malignancies; and FT500, FT516, and '
+                        'FT-ONO2 for the treatment of advanced solid tumors. '
+                        "The company's NK- and T-cell immuno-oncology programs "
+                        'under development also includes ProTmune for the '
+                        'treatment of hematologic malignancies; FATE-NK100 for '
+                        'the treatment of recurrent ovarian cancer; and '
+                        'FATE-NK100 for the treatment of advanced solid '
+                        'tumors. The company has a collaboration and option '
+                        'agreement with Ono Pharmaceutical Co. Ltd. for the '
+                        'development and commercialization of two '
+                        'off-the-shelf iPSC-derived CAR T-cell product '
+                        'candidates; strategic research collaboration and '
+                        'license agreement with Juno Therapeutics, Inc. to '
+                        'screen for and identify small molecule modulators '
+                        'that enhance the therapeutic properties of '
+                        'genetically-engineered T-cell immunotherapies; and a '
+                        'collaboration and option agreement with Janssen '
+                        'Biotech, Inc. Fate Therapeutics, Inc. was founded in '
+                        '2007 and is headquartered in San Diego, California.',
+ 'longName': 'Fate Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2761480960,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_39268712',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -111909000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 32,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '858-875-1800',
+ 'previousClose': 32.52,
+ 'priceHint': 2,
+ 'priceToBook': 11.057192,
+ 'priceToSalesTrailing12Months': 261.4296,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 33.0889,
+ 'regularMarketDayLow': 31.26,
+ 'regularMarketOpen': 32,
+ 'regularMarketPreviousClose': 32.52,
+ 'regularMarketPrice': 32,
+ 'regularMarketVolume': 535372,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 86566800,
+ 'sharesPercentSharesOut': 0.143,
+ 'sharesShort': 12378041,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 11260581,
+ 'shortName': 'Fate Therapeutics, Inc.',
+ 'shortPercentOfFloat': 0.1999,
+ 'shortRatio': 8.8,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'FATE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.578,
+ 'twoHundredDayAverage': 28.633238,
+ 'volume': 535372,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.fatetherapeutics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92121'}

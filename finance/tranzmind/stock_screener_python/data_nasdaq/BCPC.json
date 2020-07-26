@@ -1,0 +1,163 @@
+{'52WeekChange': -0.015841782,
+ 'SandP52WeekChange': None,
+ 'address1': '52 Sunrise Park Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 98.24,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 126700,
+ 'averageVolume': 168804,
+ 'averageVolume10days': 126700,
+ 'beta': 0.617366,
+ 'beta3Year': None,
+ 'bid': 97.37,
+ 'bidSize': 1300,
+ 'bookValue': 23.711,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New Hampton',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 99.84,
+ 'dayLow': 97.88,
+ 'dividendRate': 0.52,
+ 'dividendYield': 0.0052,
+ 'earningsQuarterlyGrowth': 0.052,
+ 'enterpriseToEbitda': 22.029,
+ 'enterpriseToRevenue': 5.082,
+ 'enterpriseValue': 3360061952,
+ 'exDividendDate': 1577404800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 94.922,
+ 'fiftyTwoWeekHigh': 113.93,
+ 'fiftyTwoWeekLow': 78.3,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.49,
+ 'floatShares': 32069941,
+ 'forwardEps': 2.9,
+ 'forwardPE': 33.865517,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00764,
+ 'heldPercentInstitutions': 0.88628,
+ 'industry': 'Specialty Chemicals',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1264032000,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/balchem.com',
+ 'longBusinessSummary': 'Balchem Corporation develops, manufactures, and '
+                        'markets specialty performance ingredients and '
+                        'products for the food, nutritional, feed, '
+                        'pharmaceutical, medical sterilization, and industrial '
+                        'markets in the United States and internationally. The '
+                        "company's Human Nutrition & Health segment supplies "
+                        'ingredients in the food and beverage industry. Its '
+                        'products include spray dried and emulsified powders, '
+                        'blended lipid systems, liquid flavor delivery '
+                        'systems, juice and dairy bases, chocolate systems, '
+                        'and cereal systems, as well as ice cream bases and '
+                        'variegates. This segment also offers '
+                        'microencapsulation solutions; and human grade choline '
+                        'nutrients and mineral amino acid chelated products '
+                        'for wellness applications. Its Animal Nutrition & '
+                        'Health segment provides microencapsulated products to '
+                        'enhance health and milk production in ruminant '
+                        'animals; chelation technology, which offers enhanced '
+                        'nutrient absorption for various species of production '
+                        'and companion animals; and choline chloride, a '
+                        "nutrient for monogastric animal health. The company's "
+                        'Specialty Products segment offers ethylene oxide '
+                        'primarily for use in the health care industry; and '
+                        'single use canisters with ethylene oxide for '
+                        'sterilizing re-usable devices. It also sells '
+                        'propylene oxide, a fumigant to aid in the control of '
+                        'insects and microbiological spoilage, as well as to '
+                        'reduce bacterial and mold contamination in shell and '
+                        'processed nut meats, processed spices, cacao beans, '
+                        'cocoa powder, raisins, figs, and prunes; and chelated '
+                        "minerals for high value crops. The company's "
+                        'Industrial Products segment provides choline chloride '
+                        'derivatives for hydraulic fracturing of shale natural '
+                        'gas wells; and methylamines, which are building '
+                        'blocks for the manufacture of choline products, as '
+                        'well as used in industrial applications. The company '
+                        'sells its products through sales force, independent '
+                        'distributors, and sales agents. Balchem Corporation '
+                        'was founded in 1967 and is headquartered in New '
+                        'Hampton, New York.',
+ 'longName': 'Balchem Corporation',
+ 'market': 'us_market',
+ 'marketCap': 3173832960,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_253076',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 80656000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 99.81,
+ 'openInterest': None,
+ 'payoutRatio': 0.20969999,
+ 'pegRatio': 1.58,
+ 'phone': '845 326 5600',
+ 'previousClose': 100.02,
+ 'priceHint': 2,
+ 'priceToBook': 4.141959,
+ 'priceToSalesTrailing12Months': 4.8007493,
+ 'profitMargins': 0.122,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 99.84,
+ 'regularMarketDayLow': 97.88,
+ 'regularMarketOpen': 99.81,
+ 'regularMarketPreviousClose': 100.02,
+ 'regularMarketPrice': 99.81,
+ 'regularMarketVolume': 62803,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Basic Materials',
+ 'sharesOutstanding': 32316700,
+ 'sharesPercentSharesOut': 0.0153,
+ 'sharesShort': 494519,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 539983,
+ 'shortName': 'Balchem Corporation',
+ 'shortPercentOfFloat': 0.0209,
+ 'shortRatio': 3.17,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'BCPC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.52,
+ 'trailingAnnualDividendYield': 0.00519896,
+ 'trailingEps': 2.48,
+ 'trailingPE': 39.600807,
+ 'twoHundredDayAverage': 97.57964,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f343bc05-479c-3911-96d6-a4ee5d2a787c',
+ 'volume': 62803,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.balchem.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10958'}

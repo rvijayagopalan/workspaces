@@ -1,0 +1,159 @@
+{'52WeekChange': 0.10817945,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '901 Explorer Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.2,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 388500,
+ 'averageVolume': 381722,
+ 'averageVolume10days': 388500,
+ 'beta': 1.338375,
+ 'beta3Year': None,
+ 'bid': 12.03,
+ 'bidSize': 1000,
+ 'bookValue': 7.584,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Huntsville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.825,
+ 'dayLow': 12.48,
+ 'dividendRate': 0.36,
+ 'dividendYield': 0.028099999,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -38.59,
+ 'enterpriseToRevenue': 1.067,
+ 'enterpriseValue': 534513888,
+ 'exDividendDate': 1589932800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 11.179714,
+ 'fiftyTwoWeekHigh': 12.89,
+ 'fiftyTwoWeekLow': 4.8,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.41,
+ 'floatShares': 47471721,
+ 'forwardEps': 0.19,
+ 'forwardPE': 66.315796,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1790,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.011039999,
+ 'heldPercentInstitutions': 0.93476,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1071532800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/adtran.com',
+ 'longBusinessSummary': 'ADTRAN, Inc. provides networking and communications '
+                        'equipment for service providers, cable/multiple '
+                        'system operators, and distributed enterprises in the '
+                        'United States and internationally. The company '
+                        'operates through Network Solutions, and Services & '
+                        'Support segments. It offers fiber to the premises and '
+                        'fiber to the node (FTTN) multi-service access nodes '
+                        '(MSAN); fiber aggregation and FTTN MSAN; network '
+                        'management and subscriber services control and '
+                        'orchestration software; software defined networking '
+                        '-controlled programmable network elements; fiber to '
+                        'the distribution point units; optical line terminals '
+                        'and transport solutions; optical networking edge '
+                        'aggregation; IP digital subscriber line access '
+                        'multiplexers; cabinet and outside-plant enclosures '
+                        'and services; transceivers, cables, and other '
+                        'miscellaneous materials; and other products, '
+                        'software, and services. The company also provides '
+                        'broadband customer premise solutions and '
+                        'point-to-point Ethernet optical network terminals; '
+                        'radio frequency over glass micro nodes; residential '
+                        'gateway products and accessories; Wi-Fi access '
+                        'points; ethernet switches for multi-gigabit local '
+                        'area networking; SmartOS software licensing for '
+                        'residential and enterprise gateway, and Wi-Fi '
+                        'devices; cloud-based SaaS management platforms; '
+                        'Wi-Fi-enabled residential gateway products and '
+                        'accessories; access points and virtual wireless local '
+                        'area networks for business-class Wi-Fi and '
+                        'management; and pre-sale and post-sale technical '
+                        'support. In addition, it offers planning, '
+                        'engineering, program management, maintenance, '
+                        'installation, and commissioning services. Further, '
+                        'the company offers time division multiplexed and '
+                        'asynchronous transfer mode based aggregation systems '
+                        'and customer devices; and high-bit-rate digital '
+                        'subscriber line, asymmetric digital subscriber line, '
+                        'and other technologies to deliver business and '
+                        'residential services. ADTRAN, Inc. was founded in '
+                        '1985 and is headquartered in Huntsville, Alabama.',
+ 'longName': 'ADTRAN, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 604264512,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_332752',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -63721000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 12.72,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '256 963 8000',
+ 'previousClose': 12.82,
+ 'priceHint': 2,
+ 'priceToBook': 1.6613925,
+ 'priceToSalesTrailing12Months': 1.2066153,
+ 'profitMargins': -0.12724,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.825,
+ 'regularMarketDayLow': 12.48,
+ 'regularMarketOpen': 12.72,
+ 'regularMarketPreviousClose': 12.82,
+ 'regularMarketPrice': 12.72,
+ 'regularMarketVolume': 260983,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 47957500,
+ 'sharesPercentSharesOut': 0.0172,
+ 'sharesShort': 822602,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 933974,
+ 'shortName': 'ADTRAN, Inc.',
+ 'shortPercentOfFloat': 0.0238,
+ 'shortRatio': 1.96,
+ 'startDate': None,
+ 'state': 'AL',
+ 'strikePrice': None,
+ 'symbol': 'ADTN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.36,
+ 'trailingAnnualDividendYield': 0.028081125,
+ 'trailingEps': -1.339,
+ 'twoHundredDayAverage': 9.667194,
+ 'volume': 260983,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.adtran.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '35806'}

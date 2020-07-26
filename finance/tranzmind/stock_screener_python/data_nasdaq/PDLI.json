@@ -1,0 +1,151 @@
+{'52WeekChange': -0.013377905,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '932 Southwood Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.96,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 1124600,
+ 'averageVolume': 1140728,
+ 'averageVolume10days': 1124600,
+ 'beta': 0.844257,
+ 'beta3Year': None,
+ 'bid': 2.95,
+ 'bidSize': 38500,
+ 'bookValue': 4.62,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Incline Village',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.06,
+ 'dayLow': 2.945,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -7.334,
+ 'enterpriseToRevenue': 2.72,
+ 'enterpriseValue': 231492944,
+ 'exDividendDate': 1464825600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '775 832 8501',
+ 'fiftyDayAverage': 3.026,
+ 'fiftyTwoWeekHigh': 3.86,
+ 'fiftyTwoWeekLow': 2.06,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 104263899,
+ 'forwardEps': -0.06,
+ 'forwardPE': -49.166668,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 109,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03554,
+ 'heldPercentInstitutions': 0.83915,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1002672000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pdl.com',
+ 'longBusinessSummary': 'PDL BioPharma, Inc. acquires, manages, and '
+                        'commercializes commercial stage pharmaceutical assets '
+                        'and late clinical stage pharmaceutical products in '
+                        'North America, Europe, Asia, and internationally. The '
+                        'company operates through Medical Devices, Strategic '
+                        'Positions, Pharmaceutical, and Income Generating '
+                        'Assets segments. The Medical Devices segment offers '
+                        'LENSAR laser systems for anterior capsulotomy, lens '
+                        'fragmentation, corneal and arcuate incisions to '
+                        'ophthalmic ambulatory surgical centers, specialty '
+                        'ophthalmic hospitals, and multi-specialty hospitals '
+                        'through a direct sales force. The Strategic Positions '
+                        'segment develops and commercializes various products '
+                        "to address unmet needs in women's sexual and "
+                        'reproductive health. The Pharmaceutical segment '
+                        'manufactures, markets, and sells prescription '
+                        'medicine products for the treatment of hypertension '
+                        'to wholesalers under the Tekturna and Tekturna HCT '
+                        'names in the United States, as well as under the '
+                        'Rasilez and Rasilez HCT names internationally. The '
+                        'Income Generating Assets segment consists of notes '
+                        'and other long-term receivables; royalty rights and '
+                        'hybrid notes/royalty receivables; equity investments '
+                        'in healthcare companies; and royalties from issued '
+                        'patents covering the humanization of antibodies, '
+                        'including Avastin, Herceptin, Xolair, Perjeta, '
+                        'Kadcyla, and Tysabri. The company was formerly known '
+                        'as Protein Design Labs, Inc. and changed its name to '
+                        'PDL BioPharma, Inc. in 2006. PDL BioPharma, Inc. was '
+                        'founded in 1986 and is headquartered in Incline '
+                        'Village, Nevada.',
+ 'longName': 'PDL BioPharma, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 336137760,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_321244',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -93501000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.05,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.33,
+ 'phone': '775 832 8500',
+ 'previousClose': 3.07,
+ 'priceHint': 4,
+ 'priceToBook': 0.63852817,
+ 'priceToSalesTrailing12Months': 3.9500077,
+ 'profitMargins': -1.27869,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.06,
+ 'regularMarketDayLow': 2.945,
+ 'regularMarketOpen': 3.05,
+ 'regularMarketPreviousClose': 3.07,
+ 'regularMarketPrice': 3.05,
+ 'regularMarketVolume': 591904,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 113945000,
+ 'sharesPercentSharesOut': 0.09770001,
+ 'sharesShort': 11129651,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6199867,
+ 'shortName': 'PDL BioPharma, Inc.',
+ 'shortPercentOfFloat': 0.101,
+ 'shortRatio': 9.41,
+ 'startDate': None,
+ 'state': 'NV',
+ 'strikePrice': None,
+ 'symbol': 'PDLI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0,
+ 'trailingAnnualDividendYield': 0,
+ 'trailingEps': -0.929,
+ 'twoHundredDayAverage': 3.159928,
+ 'volume': 591904,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pdl.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '89451'}

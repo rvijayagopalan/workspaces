@@ -1,0 +1,158 @@
+{'52WeekChange': -0.11091858,
+ 'SandP52WeekChange': None,
+ 'address1': '660 Beta Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 55,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 7187,
+ 'averageVolume': 9422,
+ 'averageVolume10days': 7187,
+ 'beta': 1.078431,
+ 'beta3Year': None,
+ 'bid': 50.51,
+ 'bidSize': 800,
+ 'bookValue': 50.352,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Mayfield',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 52.25,
+ 'dayLow': 50.49,
+ 'dividendRate': 0.8,
+ 'dividendYield': 0.0156,
+ 'earningsQuarterlyGrowth': 1.027,
+ 'enterpriseToEbitda': 6.05,
+ 'enterpriseToRevenue': 0.667,
+ 'enterpriseValue': 300675776,
+ 'exDividendDate': 1593475200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '440 442 8816',
+ 'fiftyDayAverage': 50.633713,
+ 'fiftyTwoWeekHigh': 76.6,
+ 'fiftyTwoWeekLow': 36.16,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.55,
+ 'floatShares': 2597730,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2983,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.40959,
+ 'heldPercentInstitutions': 0.51153,
+ 'industry': 'Electrical Equipment & Parts',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 897523200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/preformed.com',
+ 'longBusinessSummary': 'Preformed Line Products Company, together with its '
+                        'subsidiaries, designs and manufactures products and '
+                        'systems used in the construction and maintenance of '
+                        'overhead and underground networks for the energy, '
+                        'telecommunication, cable operator, information, and '
+                        'other industries. It offers formed wire products to '
+                        'support, protect, terminate, and secure power '
+                        'conductor and communication cables, as well as to '
+                        'control cable dynamics; and hardware products to '
+                        'support and protect transmission conductors, spacers, '
+                        'spacer-dampers, stockbridge dampers, corona '
+                        'suppression devices, and various compression fittings '
+                        'for dead-end applications. The company also provides '
+                        'protective closures and splice cases to protect fixed '
+                        'line communication networks, such as copper cable or '
+                        'fiber optic cable from moisture, environmental '
+                        'hazards, and other contaminants; and data '
+                        'communication cabinets, hardware assemblies, pole '
+                        'line hardware, resale products, underground '
+                        'connectors, solar hardware systems, guy markers, tree '
+                        'guards, fiber optic cable markers, pedestal markers, '
+                        'and urethane products that are used by energy, '
+                        'renewable energy, communications, cable, and special '
+                        'industries for various applications. It serves public '
+                        'and private energy utilities and communication '
+                        'companies, cable operators, financial institutions, '
+                        'governmental agencies, contractors and '
+                        'subcontractors, distributors, and value-added '
+                        'resellers in the Americas, Europe, the Middle East, '
+                        'Africa, and the Asia-Pacific. The company markets its '
+                        'products through a direct sales force, as well as '
+                        'through manufacturing representatives. Preformed Line '
+                        'Products Company was founded in 1947 and is '
+                        'headquartered in Mayfield Village, Ohio.',
+ 'longName': 'Preformed Line Products Company',
+ 'market': 'us_market',
+ 'marketCap': 251431632,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3175918',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 25177000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 52.25,
+ 'openInterest': None,
+ 'payoutRatio': 0.16129999,
+ 'pegRatio': None,
+ 'phone': '440 461 5200',
+ 'previousClose': 51.3,
+ 'priceHint': 2,
+ 'priceToBook': 1.0027407,
+ 'priceToSalesTrailing12Months': 0.5580425,
+ 'profitMargins': 0.05588,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 52.25,
+ 'regularMarketDayLow': 50.49,
+ 'regularMarketOpen': 52.25,
+ 'regularMarketPreviousClose': 51.3,
+ 'regularMarketPrice': 52.25,
+ 'regularMarketVolume': 2961,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 4979830,
+ 'sharesPercentSharesOut': 0.0070999996,
+ 'sharesShort': 35144,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 37728,
+ 'shortName': 'Preformed Line Products Company',
+ 'shortPercentOfFloat': 0.0146,
+ 'shortRatio': 3.22,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'PLPC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.8,
+ 'trailingAnnualDividendYield': 0.015594542,
+ 'trailingEps': 4.961,
+ 'trailingPE': 10.177384,
+ 'twoHundredDayAverage': 50.506474,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '2ad5a916-19db-36c6-a450-5e4545a25d55',
+ 'volume': 2961,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.preformed.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '44143'}

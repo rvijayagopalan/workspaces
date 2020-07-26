@@ -1,0 +1,153 @@
+{'52WeekChange': 0.9386227,
+ 'SandP52WeekChange': None,
+ 'address1': '276 Greenpoint Avenue',
+ 'address2': 'Suite 208',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1.92,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 700,
+ 'averageVolume': 3350,
+ 'averageVolume10days': 700,
+ 'beta': 1.849299,
+ 'beta3Year': None,
+ 'bid': 1.7,
+ 'bidSize': 1000,
+ 'bookValue': 2.896,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Brooklyn',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1592179200,
+ 'dayHigh': 1.85,
+ 'dayLow': 1.7,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -15.499,
+ 'enterpriseToRevenue': 0.664,
+ 'enterpriseValue': 30665534,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 1.9532,
+ 'fiftyTwoWeekHigh': 2.33,
+ 'fiftyTwoWeekLow': 0.143,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 8692307,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 273,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': None,
+ 'heldPercentInstitutions': None,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cemtrex.com',
+ 'longBusinessSummary': 'Cemtrex, Inc. operates as a technology company in the '
+                        'United States and internationally. The company '
+                        'operates through Advanced Technologies and Industrial '
+                        'Services segments. The Advanced Technologies segment '
+                        'provides IoT products, wearables, and smart devices '
+                        'under the SmartDesk name for mobile, Web, virtual and '
+                        'augmented reality, wearables, and television markets; '
+                        'and security and video surveillance, as well as '
+                        'develops various applications for virtual and '
+                        'augmented reality markets. This segment also offers '
+                        'browser-based video monitoring systems and facial '
+                        'recognition systems, cameras, servers, and access '
+                        'control systems for security and surveillance in '
+                        'industrial and commercial facilities, federal '
+                        'prisons, hospitals, universities, schools, and '
+                        'federal and state government offices. The Industrial '
+                        'Technology segment offers single-source services for '
+                        'rigging, millwrighting, in plant maintenance, '
+                        'equipment erection, relocation, and disassembly to '
+                        'diversified customers. This segments installs high '
+                        'precision equipment in various industrial markets '
+                        'comprising automotive, printing and graphics, '
+                        'industrial automation, packaging, chemicals and '
+                        'others; and provides maintenance and contracting '
+                        'solutions for the machinery, packaging, printing, '
+                        'chemical, and other manufacturing markets. The '
+                        'company was formerly known as Diversified American '
+                        'Holding, Inc. and changed its name to Cemtrex, Inc. '
+                        'in December 2004. Cemtrex, Inc. was incorporated in '
+                        '1998 and is headquartered in Brooklyn, New York.',
+ 'longName': 'Cemtrex, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 8437536,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1233961',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -13487653,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 1.7,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '631-756-9116',
+ 'previousClose': 1.85,
+ 'priceHint': 4,
+ 'priceToBook': 0.6388122,
+ 'priceToSalesTrailing12Months': 0.18280484,
+ 'profitMargins': -0.44216,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.85,
+ 'regularMarketDayLow': 1.7,
+ 'regularMarketOpen': 1.7,
+ 'regularMarketPreviousClose': 1.85,
+ 'regularMarketPrice': 1.7,
+ 'regularMarketVolume': 21,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 1486740,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': 3901,
+ 'sharesShortPreviousMonthDate': 1589500800,
+ 'sharesShortPriorMonth': 7759,
+ 'shortName': 'Cemtrex Inc. - Series 1 Preferr',
+ 'shortPercentOfFloat': 0.0021,
+ 'shortRatio': 9.75,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'CETXP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0,
+ 'trailingAnnualDividendYield': 0,
+ 'trailingEps': -5.788,
+ 'twoHundredDayAverage': 1.410446,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b2b89cd6-9e62-312b-9702-bba69fdaa27e',
+ 'volume': 21,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cemtrex.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '11101'}

@@ -1,0 +1,161 @@
+{'52WeekChange': 0.92361474,
+ 'SandP52WeekChange': None,
+ 'address1': 'Kalvebod Brygge 43',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 35.09,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 654900,
+ 'averageVolume': 1025619,
+ 'averageVolume10days': 654900,
+ 'beta': 0.52093,
+ 'beta3Year': None,
+ 'bid': 35.08,
+ 'bidSize': 1400,
+ 'bookValue': None,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Copenhagen',
+ 'companyOfficers': [],
+ 'country': 'Denmark',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 35.31,
+ 'dayLow': 34.56,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 2.736,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 22839216128,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 33.12343,
+ 'fiftyTwoWeekHigh': 36.63,
+ 'fiftyTwoWeekLow': 16.24,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 642653890,
+ 'forwardEps': 2.45,
+ 'forwardPE': 14.3265295,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 579,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.03997,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1525132800,
+ 'lastSplitFactor': '5:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/genmab.com',
+ 'longBusinessSummary': 'Genmab A/S, a biotechnology company, develops '
+                        'antibody therapeutics for the treatment of cancer '
+                        'primarily in Denmark. The company markets DARZALEX, a '
+                        'human IgG1k monoclonal antibody for the treatment of '
+                        'patients with multiple myeloma (MM); and Arzerra, a '
+                        'human IgG1k monoclonal antibody for the treatment of '
+                        'chronic lymphocytic leukemia (CLL). Its products '
+                        'under development include Ofatumumab to treat CLL and '
+                        'multiple sclerosis; Daratumumab to treat MM, natural '
+                        'killer/T-cell lymphoma, and amyloidosis; Tisotumab '
+                        'vedotin for treating cervical, ovarian, and solid '
+                        'cancers; HuMax-AXL-ADC, and HexaBody-DR5/DR5 for '
+                        'treating solid cancers; and DuoBody-CD3xCD20 for the '
+                        "treatment of B-cell malignancies. The company's "
+                        'products under development also comprise Teprotumumab '
+                        "for the treatment of Graves' orbitopathy; "
+                        'Camidanlumab tesirine (ADCT-301) to treat lymphoma, '
+                        'solid tumors, and acute myeloid leukemia (AML); '
+                        'HuMax-IL8 (BMS-986253) for treating advanced cancers; '
+                        'JNJ-61186372 for the treatment of non-small-cell lung '
+                        'cancer; JNJ-63709178 to treat AML; JNJ-64007957 and '
+                        'JNJ-64407564 for MM; and Lu AF82422 for treating '
+                        "Parkinson's disease. In addition, it has "
+                        'approximately 20 active pre-clinical programs, '
+                        'including naked, bispecific, and immune effector '
+                        'function enhanced antibodies. The company has a '
+                        'commercial license and collaboration agreement with '
+                        'Seattle Genetics, Inc. to co-develop tisotumab '
+                        'vedotin, an antibody-drug conjugate; and a strategic '
+                        'collaboration agreement with Tempus to advance '
+                        'various disease targets and biomarkers, as well as '
+                        'Rentschler Biopharma SE. It also has a collaboration '
+                        'agreement with Immatics Biotechnologies GmbH to '
+                        'research and develop next-generation bispecific '
+                        'immunotherapies for treating multiple cancer '
+                        'indications; CureVac AG for the research and '
+                        'development of differentiated mRNA-based antibody '
+                        'products; and Tavotek Biotherapeutics and AbbVie. '
+                        'Genmab A/S was founded in 1999 and is based in '
+                        'Copenhagen, Denmark.',
+ 'longName': 'Genmab A/S',
+ 'market': 'us_market',
+ 'marketCap': 23225739264,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_665704',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 34.99,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '45 70 20 27 28',
+ 'previousClose': 35.76,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.41696998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 35.31,
+ 'regularMarketDayLow': 34.56,
+ 'regularMarketOpen': 34.99,
+ 'regularMarketPreviousClose': 35.76,
+ 'regularMarketPrice': 34.99,
+ 'regularMarketVolume': 1732613,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 651827008,
+ 'sharesPercentSharesOut': 0.0014,
+ 'sharesShort': 889516,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 840786,
+ 'shortName': 'Genmab A/S',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 0.72,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'GMAB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': None,
+ 'twoHundredDayAverage': 26.117914,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '5594dda7-7736-3abc-bcfd-5fa676c317ff',
+ 'volume': 1732613,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.genmab.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '1560'}

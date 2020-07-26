@@ -1,0 +1,161 @@
+{'52WeekChange': 0.5081723,
+ 'SandP52WeekChange': None,
+ 'address1': '2858 De La Cruz Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 19.51,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 100550,
+ 'averageVolume': 174328,
+ 'averageVolume10days': 100550,
+ 'beta': 1.613445,
+ 'beta3Year': None,
+ 'bid': 19.47,
+ 'bidSize': 1100,
+ 'bookValue': 6.052,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Santa Clara',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 20.1,
+ 'dayLow': 19.24,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -460.778,
+ 'enterpriseToRevenue': 6.35,
+ 'enterpriseValue': 547403968,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '408 280 7915',
+ 'fiftyDayAverage': 18.858572,
+ 'fiftyTwoWeekHigh': 20.53,
+ 'fiftyTwoWeekLow': 8.61,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 27016462,
+ 'forwardEps': 0.51,
+ 'forwardPE': 38.17647,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 353,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.14107999,
+ 'heldPercentInstitutions': 0.79567003,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pdf.com',
+ 'longBusinessSummary': 'PDF Solutions, Inc. provides proprietary software and '
+                        'intellectual property products for integrated circuit '
+                        '(IC) designs, electrical measurement hardware tools, '
+                        'methodologies, and professional services in the '
+                        'United States, Canada, China, Taiwan, France, '
+                        'Germany, Italy, Japan, Korea, and internationally. It '
+                        'offers Exensio software products, which consist of '
+                        'Exensio Yield that collects and stores yield data in '
+                        'an analysis-ready database, which enables product '
+                        'engineers to identify and analyze production yield, '
+                        'performance, reliability, and other issues; Exensio '
+                        'Control that provides failure detection and '
+                        'classification capabilities for monitoring, alarming, '
+                        'and controlling manufacturing tool sets; Exensio '
+                        'characterization software, designed to analyze the '
+                        'measurements collected from design-for-inspection '
+                        '(DFI) on-chip instruments using the eProbe tool; '
+                        'Exensio Test that offers data collection and analysis '
+                        'capability; and Exensio ALPS that provides device '
+                        'manufacturers with the capability to link assembly '
+                        'and packaging data, including fabrication and '
+                        'characterization data over the product life cycle. '
+                        'The company also provides DFI Systems, such as DFI '
+                        'on-chip instruments, and eProbe non-contactless '
+                        'E-beam tool; and Characterization Vehicle (CV) '
+                        'infrastructure, which includes CV test chips and '
+                        'pdFasTest electrical testers. In addition, it offers '
+                        'Software-as-a-Service, software related services, and '
+                        'IYR services. The company sells its technologies and '
+                        'services through direct sales force, service teams, '
+                        'and strategic alliances to integrated device '
+                        'manufacturers, fabless semiconductor companies, '
+                        'foundries, out-sourced semiconductor assembly and '
+                        'test, and system houses in the microprocessors, '
+                        'memory, graphics, image sensor solutions, and '
+                        'communications segments. PDF Solutions, Inc. was '
+                        'founded in 1992 and is headquartered in Santa Clara, '
+                        'California.',
+ 'longName': 'PDF Solutions, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 638524480,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_32789',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -3255000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 20.1,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 5.64,
+ 'phone': '408 280 7900',
+ 'previousClose': 20.3,
+ 'priceHint': 2,
+ 'priceToBook': 3.2171183,
+ 'priceToSalesTrailing12Months': 7.407305,
+ 'profitMargins': -0.03776,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 20.1,
+ 'regularMarketDayLow': 19.24,
+ 'regularMarketOpen': 20.1,
+ 'regularMarketPreviousClose': 20.3,
+ 'regularMarketPrice': 20.1,
+ 'regularMarketVolume': 84477,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 32795300,
+ 'sharesPercentSharesOut': 0.024300002,
+ 'sharesShort': 797747,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 717041,
+ 'shortName': 'PDF Solutions, Inc.',
+ 'shortPercentOfFloat': 0.033,
+ 'shortRatio': 4.1,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'PDFS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.11,
+ 'twoHundredDayAverage': 15.9841,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '6b1ca823-92fc-349f-bbf1-a4b0ea715d41',
+ 'volume': 84477,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pdf.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95050'}

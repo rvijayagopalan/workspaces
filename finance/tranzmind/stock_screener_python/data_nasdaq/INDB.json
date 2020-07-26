@@ -1,0 +1,162 @@
+{'52WeekChange': -0.13102734,
+ 'SandP52WeekChange': None,
+ 'address1': '288 Union Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 66.64,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 103775,
+ 'averageVolume': 167341,
+ 'averageVolume10days': 103775,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 66.6,
+ 'bidSize': 1400,
+ 'bookValue': 50.742,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Rockland',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 69.29,
+ 'dayLow': 66.54,
+ 'dividendRate': 1.84,
+ 'dividendYield': 0.0272,
+ 'earningsQuarterlyGrowth': -0.187,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.04,
+ 'enterpriseValue': 1386832256,
+ 'exDividendDate': 1593129600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 66.148285,
+ 'fiftyTwoWeekHigh': 87.11,
+ 'fiftyTwoWeekLow': 50.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.04,
+ 'floatShares': 32485511,
+ 'forwardEps': 3.67,
+ 'forwardPE': 18.190737,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1348,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01858,
+ 'heldPercentInstitutions': 0.84876,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 560044800,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/rocklandtrust.com',
+ 'longBusinessSummary': 'Independent Bank Corp. operates as the bank holding '
+                        'company for Rockland Trust Company that provides '
+                        'commercial banking products and services to '
+                        'individuals and small-to-medium sized businesses '
+                        'primarily in Massachusetts. Its products and services '
+                        'include demand deposits and time certificates of '
+                        'deposit, as well as checking, money market, and '
+                        "savings accounts. The company's loan portfolio "
+                        'includes commercial loans, such as commercial and '
+                        'industrial, asset-based, commercial real estate, '
+                        'commercial construction, and small business loans; '
+                        'consumer real estate loans, including residential '
+                        'mortgages, home equity loans, and loans for the '
+                        'construction of residential properties; and other '
+                        'consumer loans, such as personal loans. Its '
+                        'commercial and industrial loans cover loans for '
+                        'working capital, other business-related purposes, and '
+                        'floor plan financing; asset-based loans consist '
+                        'primarily of revolving lines of credit and term '
+                        'loans; commercial real estate loans include '
+                        'commercial mortgages for construction purposes that '
+                        'are secured by nonresidential properties, multifamily '
+                        'properties, or one-to-four family rental properties; '
+                        'and small business loans comprise businesses with '
+                        'commercial credit needs. The company also provides '
+                        'investment management and trust services to '
+                        'individuals, institutions, small businesses, and '
+                        'charitable institutions; Internet and mobile banking '
+                        'services, as well as automated teller machine cards '
+                        'and debit cards; and mutual fund shares, unit '
+                        'investment trust shares, general securities, fixed '
+                        'and variable annuities, and life insurance. It '
+                        'operates through 87 full service and 2 limited '
+                        'service retail branches, 13 commercial banking '
+                        'centers, 8 investment management offices, and 1 '
+                        'mortgage lending center in Eastern Massachusetts; and '
+                        'an investment management group/commercial lending '
+                        'office in Rhode Island. The company was founded in '
+                        '1907 and is headquartered in Rockland, Massachusetts.',
+ 'longName': 'Independent Bank Corp.',
+ 'market': 'us_market',
+ 'marketCap': 2198720768,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_279639',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 150975008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 68,
+ 'openInterest': None,
+ 'payoutRatio': 0.39040002,
+ 'pegRatio': 8.24,
+ 'phone': '781-878-6100',
+ 'previousClose': 67.58,
+ 'priceHint': 2,
+ 'priceToBook': 1.3156754,
+ 'priceToSalesTrailing12Months': 4.8199697,
+ 'profitMargins': 0.33096,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 69.29,
+ 'regularMarketDayLow': 66.54,
+ 'regularMarketOpen': 68,
+ 'regularMarketPreviousClose': 67.58,
+ 'regularMarketPrice': 68,
+ 'regularMarketVolume': 94273,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 32934700,
+ 'sharesPercentSharesOut': 0.0367,
+ 'sharesShort': 1209798,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1234141,
+ 'shortName': 'Independent Bank Corp.',
+ 'shortPercentOfFloat': 0.050100002,
+ 'shortRatio': 6.26,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'INDB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.78,
+ 'trailingAnnualDividendYield': 0.026339153,
+ 'trailingEps': 4.439,
+ 'trailingPE': 15.039423,
+ 'twoHundredDayAverage': 68.41316,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '3cc48100-ad03-37ac-afac-4a4efc841333',
+ 'volume': 94273,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.rocklandtrust.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02370'}

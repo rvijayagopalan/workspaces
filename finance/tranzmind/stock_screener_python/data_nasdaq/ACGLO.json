@@ -1,0 +1,160 @@
+{'52WeekChange': 0.0015643835,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Waterloo House',
+ 'address2': 'Ground Floor 100 Pitts Bay Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 25.67,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 14087,
+ 'averageVolume': 22682,
+ 'averageVolume10days': 14087,
+ 'beta': 0.747338,
+ 'beta3Year': None,
+ 'bid': 25.6,
+ 'bidSize': 800,
+ 'bookValue': 26.17,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Pembroke',
+ 'companyOfficers': [],
+ 'country': 'Bermuda',
+ 'currency': 'USD',
+ 'dateShortInterest': None,
+ 'dayHigh': 25.69,
+ 'dayLow': 25.5909,
+ 'dividendRate': 1.36,
+ 'dividendYield': 0.053200003,
+ 'earningsQuarterlyGrowth': -0.679,
+ 'enterpriseToEbitda': 8.587,
+ 'enterpriseToRevenue': 1.805,
+ 'enterpriseValue': 12167521280,
+ 'exDividendDate': 1583971200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 25.165857,
+ 'fiftyTwoWeekHigh': 26.9,
+ 'fiftyTwoWeekLow': 15.25,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 358543513,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4300,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.2765,
+ 'industry': 'Insurance—Diversified',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/archcapgroup.com',
+ 'longBusinessSummary': 'Arch Capital Group Ltd., together with its '
+                        'subsidiaries, provides insurance, reinsurance, and '
+                        "mortgage insurance products worldwide. The company's "
+                        'Insurance segment offers primary and excess casualty '
+                        'coverages; loss sensitive primary casualty insurance '
+                        'programs; collateral protection, debt cancellation, '
+                        'and service contract reimbursement products; '
+                        "directors' and officers' liability, errors and "
+                        'omissions liability, employment practices and '
+                        'fiduciary liability, crime, professional indemnity, '
+                        'and other financial related coverages; medical '
+                        'professional and general liability insurance '
+                        "coverages; and workers' compensation and umbrella "
+                        'liability, as well as commercial automobile and '
+                        'inland marine products. It also provides property, '
+                        'energy, marine, and aviation insurance; travel '
+                        'insurance; accident, disability, and medical plan '
+                        'insurance coverages; captive insurance programs; and '
+                        'contract and commercial surety coverages. This '
+                        'segment markets its products through a group of '
+                        'licensed independent retail and wholesale brokers. '
+                        'Its Reinsurance segment provides reinsurance for '
+                        "third party liability and workers' compensation "
+                        'exposures; marine and aviation reinsurance; surety, '
+                        "accident and health, workers' compensation "
+                        'catastrophe, agriculture, trade credit, and political '
+                        'risk products; reinsurance protection for '
+                        'catastrophic losses, and personal lines and '
+                        'commercial property exposures; life reinsurance; '
+                        'casualty clash; and risk management solutions. This '
+                        'segment markets its reinsurance products through '
+                        "brokers. The company's Mortgage segment offers "
+                        'private mortgage insurance covering one-to-four '
+                        'family residential mortgages; mortgage insurance to '
+                        'cover previously originated residential loans; quota '
+                        'share reinsurance; and credit risk-sharing products. '
+                        'This segment sells its products through direct basis '
+                        'and through brokers to mortgage originators. The '
+                        'company was founded in 1995 and is based in Pembroke, '
+                        'Bermuda.',
+ 'longName': 'Arch Capital Group Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 14932910080,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_346919',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1290296064,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 25.69,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '441-278-9250',
+ 'previousClose': 25.6,
+ 'priceHint': 2,
+ 'priceToBook': 0.97860146,
+ 'priceToSalesTrailing12Months': 2.2158341,
+ 'profitMargins': 0.19764,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.69,
+ 'regularMarketDayLow': 25.5909,
+ 'regularMarketOpen': 25.69,
+ 'regularMarketPreviousClose': 25.6,
+ 'regularMarketPrice': 25.69,
+ 'regularMarketVolume': 10342,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 402939008,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': None,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'Arch Capital Group Ltd. - Depos',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': None,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'ACGLO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3.119,
+ 'trailingPE': 8.210965,
+ 'twoHundredDayAverage': 24.800777,
+ 'volume': 10342,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.archcapgroup.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'HM 08'}

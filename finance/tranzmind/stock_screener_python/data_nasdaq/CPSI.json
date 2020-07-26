@@ -1,0 +1,158 @@
+{'52WeekChange': -0.043233097,
+ 'SandP52WeekChange': None,
+ 'address1': '6600 Wall Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24.88,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 78225,
+ 'averageVolume': 93504,
+ 'averageVolume10days': 78225,
+ 'beta': 0.541176,
+ 'beta3Year': None,
+ 'bid': 24.81,
+ 'bidSize': 900,
+ 'bookValue': 13.495,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Mobile',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 25.48,
+ 'dayLow': 24.63,
+ 'dividendRate': 0.4,
+ 'dividendYield': 0.015700001,
+ 'earningsQuarterlyGrowth': 0.188,
+ 'enterpriseToEbitda': 13.325,
+ 'enterpriseToRevenue': 1.648,
+ 'enterpriseValue': 453558464,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 23.203428,
+ 'fiftyTwoWeekHigh': 35.78,
+ 'fiftyTwoWeekLow': 16.93,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.58,
+ 'floatShares': 12172709,
+ 'forwardEps': 2.65,
+ 'forwardPE': 9.373585,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04585,
+ 'heldPercentInstitutions': 0.95789003,
+ 'industry': 'Health Information Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cpsi.com',
+ 'longBusinessSummary': 'Computer Programs and Systems, Inc. provides '
+                        'healthcare information technology solutions and '
+                        'services in the United States and the Caribbean '
+                        'nation of St. Maarten. Its software systems include '
+                        'patient management software that enables a hospital '
+                        'to identify a patient at various points in the '
+                        'healthcare delivery system, as well as to collect and '
+                        'maintain patient information throughout the process '
+                        'of patient care; and financial accounting software, '
+                        'which offers business office applications to track '
+                        'and coordinate information needed for managerial '
+                        'decision-making. The company also provides clinical '
+                        'software that automates record keeping and reporting '
+                        'for various clinical functions; patient care '
+                        'applications; and enterprise applications that '
+                        'support its products for use in various areas of the '
+                        'hospital. In addition, it offers Centriq, an '
+                        'intuitive user interface to centralize data from '
+                        'various care areas that provide the end user with a '
+                        'tool to view past and present patient information. '
+                        'Further, the company provides software solutions that '
+                        'promote data-driven clinical and financial outcomes '
+                        'for customers in the post-acute care industry; '
+                        'software application support, hardware maintenance, '
+                        'and education and related services; post-acute care '
+                        'support and maintenance services; revenue cycle '
+                        'management products and services, consulting and '
+                        'business management services, and managed information '
+                        'technology services; patient engagement and '
+                        'empowerment technology solutions; and system '
+                        'implementation and training services. It serves '
+                        'community hospitals and physician clinics, skilled '
+                        'nursing and assisted living facilities, and small '
+                        'specialty hospitals. The company was founded in 1979 '
+                        'and is headquartered in Mobile, Alabama.',
+ 'longName': 'Computer Programs and Systems, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 360480576,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2146380',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 20346000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 25.42,
+ 'openInterest': None,
+ 'payoutRatio': 0.2721,
+ 'pegRatio': 1,
+ 'phone': '251-639-8100',
+ 'previousClose': 25.45,
+ 'priceHint': 2,
+ 'priceToBook': 1.8406818,
+ 'priceToSalesTrailing12Months': 1.3096479,
+ 'profitMargins': 0.07671,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.48,
+ 'regularMarketDayLow': 24.63,
+ 'regularMarketOpen': 25.42,
+ 'regularMarketPreviousClose': 25.45,
+ 'regularMarketPrice': 25.42,
+ 'regularMarketVolume': 39287,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 14512100,
+ 'sharesPercentSharesOut': 0.041199997,
+ 'sharesShort': 597434,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 660514,
+ 'shortName': 'Computer Programs and Systems, ',
+ 'shortPercentOfFloat': 0.055999998,
+ 'shortRatio': 6.08,
+ 'startDate': None,
+ 'state': 'AL',
+ 'strikePrice': None,
+ 'symbol': 'CPSI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.4,
+ 'trailingAnnualDividendYield': 0.015717093,
+ 'trailingEps': 1.468,
+ 'trailingPE': 16.92098,
+ 'twoHundredDayAverage': 23.893597,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '2910b726-80cf-3eb3-8690-ef7324a6f9f8',
+ 'volume': 39287,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cpsi.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '36695'}

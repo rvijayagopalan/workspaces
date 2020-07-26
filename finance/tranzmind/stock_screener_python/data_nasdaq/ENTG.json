@@ -1,0 +1,160 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '129 Concord Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 68.03,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1336212,
+ 'averageVolume': 996788,
+ 'averageVolume10days': 1336212,
+ 'beta': 1.30028,
+ 'beta3Year': None,
+ 'bid': 67.53,
+ 'bidSize': 800,
+ 'bookValue': 9.145,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Billerica',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 68.2858,
+ 'dayLow': 65.76,
+ 'dividendRate': 0.32,
+ 'dividendYield': 0.0046,
+ 'earningsQuarterlyGrowth': -0.451,
+ 'enterpriseToEbitda': 20.47,
+ 'enterpriseToRevenue': 5.845,
+ 'enterpriseValue': 9831076864,
+ 'exDividendDate': 1595894400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '978 436 6735',
+ 'fiftyDayAverage': 60.638573,
+ 'fiftyTwoWeekHigh': 71.51,
+ 'fiftyTwoWeekLow': 38.12,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 133448637,
+ 'forwardEps': 2.51,
+ 'forwardPE': 27.027887,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5300,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00832,
+ 'heldPercentInstitutions': 1.02182,
+ 'industry': 'Semiconductor Equipment & Materials',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 954460800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/entegris.com',
+ 'longBusinessSummary': 'Entegris, Inc. develops, manufactures, and supplies '
+                        'microcontamination control products, specialty '
+                        'chemicals, and advanced materials handling solutions '
+                        'for manufacturing processes in the semiconductor and '
+                        'other high-technology industries in North America, '
+                        'Taiwan, South Korea, Japan, China, Europe, and '
+                        'Southeast Asia. It operates through three segments: '
+                        'Specialty Chemicals and Engineered Materials (SCEM); '
+                        'Microcontamination Control (MC); and Advanced '
+                        'Materials Handling (AMH). The SCEM segment offers '
+                        'high-performance and high-purity process chemistries, '
+                        'gases, and materials, as well as delivery systems to '
+                        'support semiconductor and other advanced '
+                        'manufacturing processes. The MC segment provides '
+                        'solutions to filter and purify critical liquid '
+                        'chemistries and gases used in semiconductor '
+                        'manufacturing processes and other high-technology '
+                        'industries. The AMH segment develops solutions to '
+                        'monitor, protect, transport, and deliver critical '
+                        'liquid chemistries, wafers, and other substrates for '
+                        'application in the semiconductor and other '
+                        "high-technology industries. The company's customers "
+                        'include semiconductor device manufacturers, '
+                        'semiconductor equipment makers, gas and chemical '
+                        'manufacturing companies, wafer grower companies, and '
+                        'manufacturers of high-precision electronics; and flat '
+                        'panel display equipment makers, materials suppliers '
+                        'and panel manufacturers, and manufacturers of hard '
+                        'disk drive components and devices. It also serves '
+                        'manufacturers and suppliers in the solar and life '
+                        'science industries, electrical discharge machining '
+                        'customers, glass and glass container manufacturers, '
+                        'aerospace manufacturers, and manufacturers of '
+                        'biomedical implantation devices. The company was '
+                        'founded in 1966 and is headquartered in Billerica, '
+                        'Massachusetts.',
+ 'longName': 'Entegris, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 9131739136,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_416404',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593216000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 227247008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 67.44,
+ 'openInterest': None,
+ 'payoutRatio': 0.14899999,
+ 'pegRatio': 1.7,
+ 'phone': '978 436 6500',
+ 'previousClose': 69.65,
+ 'priceHint': 2,
+ 'priceToBook': 7.4182606,
+ 'priceToSalesTrailing12Months': 5.429493,
+ 'profitMargins': 0.13510999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 68.2858,
+ 'regularMarketDayLow': 65.76,
+ 'regularMarketOpen': 67.44,
+ 'regularMarketPreviousClose': 69.65,
+ 'regularMarketPrice': 67.44,
+ 'regularMarketVolume': 1572409,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 134607008,
+ 'sharesPercentSharesOut': 0.0307,
+ 'sharesShort': 4126642,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4376741,
+ 'shortName': 'Entegris, Inc.',
+ 'shortPercentOfFloat': 0.0358,
+ 'shortRatio': 3.9,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'ENTG',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.32,
+ 'trailingAnnualDividendYield': 0.0045944005,
+ 'trailingEps': 1.67,
+ 'trailingPE': 40.622753,
+ 'twoHundredDayAverage': 54.641582,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'a4a0c42a-974d-39af-a918-3cca5ffb2380',
+ 'volume': 1572409,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.entegris.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01821'}

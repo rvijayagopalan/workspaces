@@ -1,0 +1,161 @@
+{'52WeekChange': -0.4507733,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '7701 East Kellogg Drive',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.55,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 43250,
+ 'averageVolume': 65082,
+ 'averageVolume10days': 43250,
+ 'beta': 0.867553,
+ 'beta3Year': None,
+ 'bid': 14.52,
+ 'bidSize': 800,
+ 'bookValue': 31.526,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Wichita',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.82,
+ 'dayLow': 14.46,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.817,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.822,
+ 'enterpriseValue': 493072448,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '316-681-2325',
+ 'fiftyDayAverage': 16.030857,
+ 'fiftyTwoWeekHigh': 31.91,
+ 'fiftyTwoWeekLow': 12.49,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 13425585,
+ 'forwardEps': 1.43,
+ 'forwardPE': 10.181819,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 607,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.052249998,
+ 'heldPercentInstitutions': 0.71672,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/equitybank.com',
+ 'longBusinessSummary': 'Equity Bancshares, Inc. operates as the bank holding '
+                        'company for Equity Bank that provides a range of '
+                        'financial services primarily to businesses, business '
+                        'owners, and individuals. The company accepts various '
+                        'demand, savings, money market, and time deposits. Its '
+                        'loan products include commercial and industrial, '
+                        'commercial real estate-backed, commercial lines of '
+                        'credit, working capital, term, equipment financing, '
+                        'acquisition, expansion and development, borrowing '
+                        'base, real estate construction, homebuilder, '
+                        'agricultural, government guaranteed, and other loans, '
+                        'as well as letters of credit and other loan products '
+                        'to national and regional companies, restaurant '
+                        'franchisees, hoteliers, real estate developers, '
+                        'manufacturing and industrial companies, agribusiness '
+                        "companies, and other businesses. The company's loan "
+                        'products also comprise various consumer loans to '
+                        'individuals and professionals, including residential '
+                        'real estate loans, home equity loans, home equity '
+                        'lines of credit, installment loans, unsecured and '
+                        'secured personal lines of credit, overdraft '
+                        'protection, and letters of credit. It also provides '
+                        'debit cards; online banking solutions, such as access '
+                        'to account balances, online transfers, online bill '
+                        'payment, and electronic delivery of customer '
+                        'statements; mobile banking solutions comprising '
+                        'remote check deposits with mobile bill pay; ATMs; and '
+                        'treasury management, wire transfer, automated '
+                        'clearing house, and stop payment services. In '
+                        'addition, the company offers cash management deposit '
+                        'products, such as lockbox, remote deposit capture, '
+                        'positive pay, reverse positive pay, account '
+                        'reconciliation services, zero balance accounts, and '
+                        'sweep accounts, as well as banking services through '
+                        'telephone, mail, and personal appointments. As of '
+                        'December 31, 2019, it operated 52 full-service '
+                        'branches in Arkansas, Kansas, Missouri, and Oklahoma. '
+                        'The company was founded in 2002 and is headquartered '
+                        'in Wichita, Kansas.',
+ 'longName': 'Equity Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 221578448,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_47395004',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 23367000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.67,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.33,
+ 'phone': '316-612-6000',
+ 'previousClose': 14.61,
+ 'priceHint': 2,
+ 'priceToBook': 0.46184105,
+ 'priceToSalesTrailing12Months': 1.7174894,
+ 'profitMargins': 0.18112,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.82,
+ 'regularMarketDayLow': 14.46,
+ 'regularMarketOpen': 14.67,
+ 'regularMarketPreviousClose': 14.61,
+ 'regularMarketPrice': 14.67,
+ 'regularMarketVolume': 41019,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 15218300,
+ 'sharesPercentSharesOut': 0.0154,
+ 'sharesShort': 233362,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 181578,
+ 'shortName': 'Equity Bancshares, Inc.',
+ 'shortPercentOfFloat': 0.0162,
+ 'shortRatio': 2.94,
+ 'startDate': None,
+ 'state': 'KS',
+ 'strikePrice': None,
+ 'symbol': 'EQBK',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.495,
+ 'trailingPE': 9.739131,
+ 'twoHundredDayAverage': 19.919569,
+ 'volume': 41019,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.equitybank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '67207'}

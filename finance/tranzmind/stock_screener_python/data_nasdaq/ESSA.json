@@ -1,0 +1,153 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '200 Palmer Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.13,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 9112,
+ 'averageVolume': 19626,
+ 'averageVolume10days': 9112,
+ 'beta': 0.359103,
+ 'beta3Year': None,
+ 'bid': 13,
+ 'bidSize': 800,
+ 'bookValue': 18.491,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Stroudsburg',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.13,
+ 'dayLow': 13,
+ 'dividendRate': 0.44,
+ 'dividendYield': 0.033800002,
+ 'earningsQuarterlyGrowth': 0.192,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 6.84,
+ 'enterpriseValue': 373284064,
+ 'exDividendDate': 1592179200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 13.734285,
+ 'fiftyTwoWeekHigh': 17.73,
+ 'fiftyTwoWeekLow': 9.7,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.41,
+ 'floatShares': 7065400,
+ 'forwardEps': -0.03,
+ 'forwardPE': -433.33334,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 243,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.15851,
+ 'heldPercentInstitutions': 0.43519002,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ir.essabank.com',
+ 'longBusinessSummary': 'ESSA Bancorp, Inc. operates as the holding company '
+                        'for ESSA Bank & Trust that provides a range of '
+                        'financial services to individuals, families, and '
+                        'businesses in Pennsylvania. The company accepts '
+                        'savings accounts, interest bearing demand accounts, '
+                        'checking accounts, money market accounts, club '
+                        'accounts, certificates of deposit and IRAs, and other '
+                        'qualified plan accounts, as well as commercial '
+                        'checking accounts. Its loan portfolio includes first '
+                        'mortgage loans for the purchase, construction, or '
+                        'refinancing of one- to four-family residential real '
+                        'estate property; commercial real estate loans; home '
+                        'equity loans and lines of credit; and commercial and '
+                        'consumer loans, including indirect auto loans, as '
+                        'well as loans secured by deposits and personal '
+                        'unsecured loans. In addition, it the company offers '
+                        'insurance benefits consulting services, such as '
+                        'health insurance, life insurance, short term and long '
+                        'term disability, dental, vision, 401(K) retirement '
+                        'planning, and individual health products, as well as '
+                        'asset management and trust, and investment services. '
+                        'As of September 30, 2019, it operated 22 full-service '
+                        'banking offices, including 7 offices in Monroe '
+                        'County, 3 offices in Lehigh County, 6 offices in '
+                        'Northampton County, 1 office in Lackawanna County, 1 '
+                        'office in Luzerne County, 1 office in Chester County, '
+                        '2 offices in Delaware County, and 1 office in '
+                        'Montgomery County, Pennsylvania. The company was '
+                        'founded in 1916 and is based in Stroudsburg, '
+                        'Pennsylvania.',
+ 'longName': 'ESSA Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 144215504,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_30558922',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 13572000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 13.12,
+ 'openInterest': None,
+ 'payoutRatio': 0.32560003,
+ 'pegRatio': None,
+ 'phone': '570-421-0531',
+ 'previousClose': 13.03,
+ 'priceHint': 2,
+ 'priceToBook': 0.7030448,
+ 'priceToSalesTrailing12Months': 2.6427617,
+ 'profitMargins': 0.24871,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.13,
+ 'regularMarketDayLow': 13,
+ 'regularMarketOpen': 13.12,
+ 'regularMarketPreviousClose': 13.03,
+ 'regularMarketPrice': 13.12,
+ 'regularMarketVolume': 3913,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 11093500,
+ 'sharesPercentSharesOut': 0.0066000004,
+ 'sharesShort': 72831,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 45234,
+ 'shortName': 'ESSA Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.008,
+ 'shortRatio': 2.85,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'ESSA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.42,
+ 'trailingAnnualDividendYield': 0.03223331,
+ 'trailingEps': 1.29,
+ 'trailingPE': 10.077519,
+ 'twoHundredDayAverage': 14.238849,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '772bc2ef-adb8-30db-8a06-6867efe908f5',
+ 'volume': 3913,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://ir.essabank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '18360'}

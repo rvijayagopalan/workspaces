@@ -1,0 +1,160 @@
+{'52WeekChange': 0.2935475,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '333 South Seventh Street',
+ 'address2': 'Suite 1000',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 72.06,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 187062,
+ 'averageVolume': 314341,
+ 'averageVolume10days': 187062,
+ 'beta': 0.872829,
+ 'beta3Year': None,
+ 'bid': 72.03,
+ 'bidSize': 800,
+ 'bookValue': 10.15,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Minneapolis',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 73.38,
+ 'dayLow': 71.25,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.397,
+ 'enterpriseToEbitda': 39.062,
+ 'enterpriseToRevenue': 8.12,
+ 'enterpriseValue': 2325509120,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '612 435 9401',
+ 'fiftyDayAverage': 73.244,
+ 'fiftyTwoWeekHigh': 77.59,
+ 'fiftyTwoWeekLow': 31.28,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 34718899,
+ 'forwardEps': 1.51,
+ 'forwardPE': 47.728477,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1363,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0049900003,
+ 'heldPercentInstitutions': 0.98977995,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1566518400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/spscommerce.com',
+ 'longBusinessSummary': 'SPS Commerce, Inc. provides cloud-based supply chain '
+                        'management solutions worldwide. It offers solutions '
+                        'through the SPS Commerce platform, a cloud-based '
+                        'platform that enhances the way retailers, suppliers, '
+                        'grocers, distributors, and logistics firms manage and '
+                        'fulfill orders, administer sell-through performance, '
+                        'and source new items. The company offers Trading '
+                        'Partner Community solution, which enables retailers, '
+                        'grocers, and distributors to introduce changes to '
+                        'their supply chain requirements to their trading '
+                        'partner community, and onboard new vendors to receive '
+                        'their first orders; Trading Partner Fulfillment '
+                        'solution that provides fulfillment automation and '
+                        "replaces or augments an organization's existing staff "
+                        'and trading partner electronic communication '
+                        'infrastructure; and Trading Partner Assortment '
+                        'solution to manage individual attributes associated '
+                        'with each item a retailer or supplier sells. It also '
+                        'provides Trading Partner Analytics solution, which '
+                        'consists of data analytics applications that allow '
+                        'customers to enhance their visibility and analysis of '
+                        'their supply chains; Trading Partner Sourcing '
+                        'solutions that enables retailers to source providers '
+                        'of new items, suppliers to connect with new '
+                        'retailers, and retailing community; and Other Trading '
+                        'Partner Solutions, such as barcode labeling, '
+                        'planogram services, and scan and pack application '
+                        'that helps trading partners process information to '
+                        'streamline the picking and packaging process. The '
+                        'company sells its solutions through retailer, '
+                        'supplier, and logistic sales representatives to '
+                        'small- to mid-sized suppliers, as well as retailers, '
+                        'distributors, third-party logistics providers, and '
+                        'other trading partners. The company was formerly '
+                        'known as St. Paul Software, Inc. and changed its name '
+                        'to SPS Commerce, Inc. in May 2001. SPS Commerce, Inc. '
+                        'was incorporated in 1987 and is headquartered in '
+                        'Minneapolis, Minnesota.',
+ 'longName': 'SPS Commerce, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2517246464,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34696',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 36414000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 72.84,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.62,
+ 'phone': '612 435 9400',
+ 'previousClose': 73.22,
+ 'priceHint': 2,
+ 'priceToBook': 7.100493,
+ 'priceToSalesTrailing12Months': 8.789821,
+ 'profitMargins': 0.12715,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 73.38,
+ 'regularMarketDayLow': 71.25,
+ 'regularMarketOpen': 72.84,
+ 'regularMarketPreviousClose': 73.22,
+ 'regularMarketPrice': 72.84,
+ 'regularMarketVolume': 115963,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 34927800,
+ 'sharesPercentSharesOut': 0.0275,
+ 'sharesShort': 959851,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 957445,
+ 'shortName': 'SPS Commerce, Inc.',
+ 'shortPercentOfFloat': 0.0334,
+ 'shortRatio': 2.65,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'SPSC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.01,
+ 'trailingPE': 71.35644,
+ 'twoHundredDayAverage': 58.974606,
+ 'volume': 115963,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.spscommerce.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '55402'}

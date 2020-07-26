@@ -1,0 +1,166 @@
+{'52WeekChange': 0.03423345,
+ 'SandP52WeekChange': None,
+ 'address1': '440 East Commonwealth Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 21,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 76287,
+ 'averageVolume': 75922,
+ 'averageVolume10days': 76287,
+ 'beta': 0.758543,
+ 'beta3Year': None,
+ 'bid': 20.94,
+ 'bidSize': 2200,
+ 'bookValue': 22.987,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Martinsville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 21.638,
+ 'dayLow': 20.77,
+ 'dividendRate': 0.64,
+ 'dividendYield': 0.0298,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 10.894,
+ 'enterpriseToRevenue': 0.454,
+ 'enterpriseValue': 263053136,
+ 'exDividendDate': 1592179200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 19.794,
+ 'fiftyTwoWeekHigh': 26.07,
+ 'fiftyTwoWeekLow': 12.3,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.82,
+ 'floatShares': 11482837,
+ 'forwardEps': 1.97,
+ 'forwardPE': 10.619289,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1251,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.02716,
+ 'heldPercentInstitutions': 0.97422,
+ 'industry': 'Furnishings, Fixtures & Appliances',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580601600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1075680000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/hookerfurniture.com',
+ 'longBusinessSummary': 'Hooker Furniture Corporation, together with its '
+                        'subsidiaries, designs, manufactures, imports, and '
+                        'markets residential household, hospitality, and '
+                        'contract furniture. The company operates through '
+                        'three segments: Hooker Branded, Home Meridian, and '
+                        'Domestic Upholstery. The Hooker Branded segment '
+                        'offers a range of design categories, including home '
+                        'entertainment, home office, accent, dining, and '
+                        'bedroom furniture under the Hooker Furniture brand '
+                        'name; and imported upholstered furniture under the '
+                        'Hooker Upholstery brand. The Home Meridian segment '
+                        'provides home furnishings under the Accentrics Home '
+                        'brand; a range of bedroom, dining room, accent, '
+                        'display cabinet, home office, and youth furnishings '
+                        'under the Pulaski Furniture and Samuel Lawrence '
+                        'Furniture brands; and imported leather motion '
+                        'upholstery under the Prime Resources International '
+                        'brand. This segment also designs and supplies hotel '
+                        'furnishings for four and five-star hotels under the '
+                        'Samuel Lawrence Hospitality brand name; and '
+                        'ready-to-assemble furniture to mass marketers and '
+                        'e-commerce customers under the HMidea brand. The '
+                        'Domestic Upholstery segment offers motion and '
+                        'stationary leather furniture under the '
+                        'Bradington-Young brand; occasional chairs, settees, '
+                        'sofas, and sectional seating under the Sam Moore '
+                        'Furniture brand; and upholstered furniture, such as '
+                        'private label sectionals, modulars, sofas, chairs, '
+                        'ottomans, benches, beds, and dining chairs for '
+                        'lifestyle specialty retailers under the Shenandoah '
+                        'Furniture brand. The company also supplies '
+                        'upholstered seating and casegoods to upscale senior '
+                        'living and assisted living facilities through '
+                        'designers, design firms, industry dealers, and '
+                        'distributors under the H Contract brand; and interior '
+                        'designer products under the Lifestyle Brands name. It '
+                        'sells home furnishing products through retailers '
+                        'comprising independent furniture stores, department '
+                        'stores, mass merchants, national chains, warehouse '
+                        'clubs, catalog merchants, interior designers, and '
+                        'e-commerce retailers principally in North America. '
+                        'Hooker Furniture Corporation was founded in 1924 and '
+                        'is headquartered in Martinsville, Virginia.',
+ 'longName': 'Hooker Furniture Corporation',
+ 'market': 'us_market',
+ 'marketCap': 248341328,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3158355',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588464000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 13934000,
+ 'nextFiscalYearEnd': 1643760000,
+ 'open': 21.49,
+ 'openInterest': None,
+ 'payoutRatio': 0.5254,
+ 'pegRatio': 1.23,
+ 'phone': '276 632 2133',
+ 'previousClose': 21.45,
+ 'priceHint': 2,
+ 'priceToBook': 0.91007966,
+ 'priceToSalesTrailing12Months': 0.42824635,
+ 'profitMargins': 0.02417,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 21.638,
+ 'regularMarketDayLow': 20.77,
+ 'regularMarketOpen': 21.49,
+ 'regularMarketPreviousClose': 21.45,
+ 'regularMarketPrice': 21.49,
+ 'regularMarketVolume': 64022,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 11871000,
+ 'sharesPercentSharesOut': 0.051,
+ 'sharesShort': 605746,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 587012,
+ 'shortName': 'Hooker Furniture Corporation',
+ 'shortPercentOfFloat': 0.069,
+ 'shortRatio': 8.11,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'HOFT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.62,
+ 'trailingAnnualDividendYield': 0.028904429,
+ 'trailingEps': 1.181,
+ 'trailingPE': 17.713802,
+ 'twoHundredDayAverage': 18.395468,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '55339696-1aac-32e3-b11a-bb6b67f16a1a',
+ 'volume': 64022,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.hookerfurniture.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '24112'}

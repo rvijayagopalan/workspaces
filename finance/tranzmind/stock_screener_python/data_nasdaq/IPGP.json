@@ -1,0 +1,160 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '50 Old Webster Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 175.33,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 361925,
+ 'averageVolume': 377876,
+ 'averageVolume10days': 361925,
+ 'beta': 1.709803,
+ 'beta3Year': None,
+ 'bid': 175.18,
+ 'bidSize': 800,
+ 'bookValue': 44.329,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Oxford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 179.2,
+ 'dayLow': 173.0572,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.34,
+ 'enterpriseToEbitda': 23.7,
+ 'enterpriseToRevenue': 6.524,
+ 'enterpriseValue': 8146665472,
+ 'exDividendDate': 1355875200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '508 373 1424',
+ 'fiftyDayAverage': 164.71657,
+ 'fiftyTwoWeekHigh': 184.02,
+ 'fiftyTwoWeekLow': 98.04,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 36918854,
+ 'forwardEps': 4.6,
+ 'forwardPE': 38.10652,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5960,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.33806,
+ 'heldPercentInstitutions': 0.68323,
+ 'industry': 'Semiconductor Equipment & Materials',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ipgphotonics.com',
+ 'longBusinessSummary': 'IPG Photonics Corporation develops and manufactures a '
+                        'range of high-performance fiber lasers, fiber '
+                        'amplifiers, and diode lasers used in various '
+                        'applications primarily in materials processing '
+                        "worldwide. The company's laser products include high "
+                        'power lasers; fiber pigtailed packaged diodes and '
+                        'fiber coupled direct diode laser systems; high-energy '
+                        'pulsed lasers, multi-wavelength and tunable lasers, '
+                        'and single-polarization and single-frequency lasers; '
+                        'and high power optical fiber delivery cables, fiber '
+                        'couplers, beam switches, chillers, scanners, and '
+                        'other accessories. It also provides erbium-doped '
+                        'fiber and Raman amplifiers, and integrated '
+                        'communications systems, which are deployed in '
+                        'broadband networks; and ytterbium and thulium '
+                        'specialty fiber amplifiers and broadband light '
+                        'sources. In addition, the company offers integrated '
+                        'laser systems; 2D compact flat sheet cutter systems '
+                        'and multi-axis systems; welding seam stepper and '
+                        'picker, a fiber laser welding tool; and specialized '
+                        'fiber laser systems for material processing '
+                        'applications; and optical transceiver and transponder '
+                        'modules for interconnecting electronic equipment, '
+                        'including Ethernet switches, IP routers and SONET/SDH '
+                        'optical transport modules within telecommunications, '
+                        'cable multi-system operator, and data center '
+                        'networking applications. Its lasers and amplifiers '
+                        'are also used in materials processing, advanced '
+                        'communications, and medical applications. The company '
+                        'markets its products to original equipment '
+                        'manufacturers, system integrators, and end users '
+                        'through direct sales force, as well as through '
+                        'agreements with independent sales representatives and '
+                        'distributors. IPG Photonics Corporation was founded '
+                        'in 1990 and is headquartered in Oxford, '
+                        'Massachusetts.',
+ 'longName': 'IPG Photonics Corporation',
+ 'market': 'us_market',
+ 'marketCap': 9295207424,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_427949',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 161478000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 174.84,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 4.31,
+ 'phone': '508 373 1100',
+ 'previousClose': 178.74,
+ 'priceHint': 2,
+ 'priceToBook': 3.9542964,
+ 'priceToSalesTrailing12Months': 7.4434547,
+ 'profitMargins': 0.12931,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 179.2,
+ 'regularMarketDayLow': 173.0572,
+ 'regularMarketOpen': 174.84,
+ 'regularMarketPreviousClose': 178.74,
+ 'regularMarketPrice': 174.84,
+ 'regularMarketVolume': 371542,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 53027600,
+ 'sharesPercentSharesOut': 0.0247,
+ 'sharesShort': 1312228,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1494763,
+ 'shortName': 'IPG Photonics Corporation',
+ 'shortPercentOfFloat': 0.0465,
+ 'shortRatio': 3.95,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'IPGP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3.01,
+ 'trailingPE': 58.235878,
+ 'twoHundredDayAverage': 140.37158,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '3ec3e5b3-97ad-3203-bdae-d1896ba5c5be',
+ 'volume': 371542,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ipgphotonics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01540'}

@@ -1,0 +1,151 @@
+{'52WeekChange': -0.4684685,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '100 Federal Street',
+ 'address2': '31st Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.55,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 111525,
+ 'averageVolume': 123474,
+ 'averageVolume10days': 111525,
+ 'beta': 1.571988,
+ 'beta3Year': None,
+ 'bid': 3.5,
+ 'bidSize': 800,
+ 'bookValue': 5.219,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Boston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.55,
+ 'dayLow': 3.48,
+ 'dividendRate': 0.73,
+ 'dividendYield': 0.2062,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 6.356,
+ 'enterpriseValue': 293608384,
+ 'exDividendDate': 1591920000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.2285714,
+ 'fiftyTwoWeekHigh': 7.04,
+ 'fiftyTwoWeekLow': 1.56,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 14.12,
+ 'floatShares': None,
+ 'forwardEps': 0.43,
+ 'forwardPE': 8.232558,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.06027,
+ 'heldPercentInstitutions': 0.53438,
+ 'industry': 'Asset Management',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/thlcredit.com',
+ 'longBusinessSummary': 'THL Credit, Inc. is a business development company '
+                        'specializing in direct and fund of fund investments. '
+                        'The fund seeks to invest in debt and equity '
+                        'securities of middle market companies. It seeks to '
+                        'invest in PIPES, growth, acquisition, market or '
+                        'product expansion, recapitalization, mature, and '
+                        'change of control transactions in both sponsored and '
+                        'unsponsored issuers. The fund does not intend to '
+                        'invest in start-up companies, operationally '
+                        'distressed situations, or companies with speculative '
+                        'business plans. The fund invests primarily in debt '
+                        'securities, including unsecured subordinated or '
+                        'mezzanine debt and second lien secured debt, which '
+                        'may include an associated equity component such as '
+                        'warrants, preferred stock, options to buy minority '
+                        'interest, and other similar securities. Its '
+                        'investments may also include high-yield bonds, '
+                        'private equity investments, securities of public '
+                        'companies that are broadly traded, and securities of '
+                        'non-United States companies. It seeks to invest in '
+                        'outsourced business services, healthcare, financials, '
+                        'retailing, media, and consumer discretionary. The '
+                        'fund may make direct equity investments, including '
+                        'equity investments into or through funds, and also '
+                        'selectively invest in syndicated first lien secured '
+                        'loans, including unitranche investments. It seeks to '
+                        'invest between $10 million and $25 million of capital '
+                        'per transaction in companies with annual revenues '
+                        'ranging from $25 million to $500 million and annual '
+                        'EBITDA between $5 million and $25 million. The fund '
+                        'prefers to be a lead or sole investor in a '
+                        'transaction.',
+ 'longName': 'THL Credit, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 124956336,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_35747874',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -90960000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.5,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 1.77,
+ 'phone': '800-450-4424',
+ 'previousClose': 3.54,
+ 'priceHint': 4,
+ 'priceToBook': 0.67829084,
+ 'priceToSalesTrailing12Months': 2.7052095,
+ 'profitMargins': -1.96921,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.55,
+ 'regularMarketDayLow': 3.48,
+ 'regularMarketOpen': 3.5,
+ 'regularMarketPreviousClose': 3.54,
+ 'regularMarketPrice': 3.5,
+ 'regularMarketVolume': 58246,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 35298400,
+ 'sharesPercentSharesOut': 0.0027,
+ 'sharesShort': 94658,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 85532,
+ 'shortName': 'THL Credit, Inc.',
+ 'shortPercentOfFloat': 0.0031,
+ 'shortRatio': 0.73,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'TCRD',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.72,
+ 'trailingAnnualDividendYield': 0.20338984,
+ 'trailingEps': -2.963,
+ 'twoHundredDayAverage': 4.0270505,
+ 'volume': 58246,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.thlcredit.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02110'}

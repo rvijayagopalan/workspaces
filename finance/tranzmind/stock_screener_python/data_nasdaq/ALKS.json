@@ -1,0 +1,149 @@
+{'52WeekChange': -0.09469348,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Connaught House',
+ 'address2': '1 Burlington Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 19.76,
+ 'askSize': 2900,
+ 'averageDailyVolume10Day': 1693037,
+ 'averageVolume': 1578628,
+ 'averageVolume10days': 1693037,
+ 'beta': 1.492997,
+ 'beta3Year': None,
+ 'bid': 16.5,
+ 'bidSize': 800,
+ 'bookValue': 6.699,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Dublin',
+ 'companyOfficers': [],
+ 'country': 'Ireland',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 19.88,
+ 'dayLow': 19.13,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -72.256,
+ 'enterpriseToRevenue': 2.546,
+ 'enterpriseValue': 3039646208,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 18.735144,
+ 'fiftyTwoWeekHigh': 23.5,
+ 'fiftyTwoWeekLow': 11.98,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 157029400,
+ 'forwardEps': 0.41,
+ 'forwardPE': 48.268295,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2235,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00915,
+ 'heldPercentInstitutions': 0.96659,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 958348800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/alkermes.com',
+ 'longBusinessSummary': 'Alkermes plc, a biopharmaceutical company, '
+                        'researches, develops, and commercializes '
+                        'pharmaceutical products to address unmet medical '
+                        'needs of patients in various therapeutic areas in the '
+                        'United States, Ireland, and internationally. Its '
+                        'marketed products include ARISTADA (aripiprazole '
+                        'lauroxil), an extended-release intramuscular '
+                        'injectable suspension for the treatment of '
+                        'schizophrenia; VIVITROL (naltrexone for '
+                        'extended-release injectable suspension) for the '
+                        'treatment of alcohol and opioid dependence; RISPERDAL '
+                        'CONSTA for the treatment of schizophrenia and bipolar '
+                        'I disorder; INVEGA SUSTENNA for the treatment of '
+                        'schizophrenia and schizoaffective disorder; XEPLION, '
+                        'INVEGA TRINZA, and TREVICTA for treating '
+                        'schizophrenia; and VUMERITY (diroximel fumarate) for '
+                        'the treatment of relapsing forms of multiple '
+                        'sclerosis in adults, including clinically isolated '
+                        'syndrome, relapsing-remitting and active secondary '
+                        'progressive diseases. The company is also ALKS 3831 '
+                        'to treat schizophrenia; and ALKS 4230, an engineered '
+                        'fusion protein to expand tumor-killing immune cells '
+                        'and to avoid activation of immunosuppressive cells. '
+                        'It has collaboration agreements with Janssen '
+                        'Pharmaceutica N.V., Janssen Pharmaceutica Inc, and '
+                        'Janssen Pharmaceutica International; license '
+                        'agreement with Acorda Therapeutics, Inc.; and license '
+                        'and collaboration agreement with Biogen Swiss '
+                        'Manufacturing GmbH. Alkermes plc was founded in 1987 '
+                        'and is headquartered in Dublin, Ireland.',
+ 'longName': 'Alkermes plc',
+ 'market': 'us_market',
+ 'marketCap': 3141445120,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_24572',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -138876000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 19.59,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -81.87,
+ 'phone': '353 1 772 8000',
+ 'previousClose': 19.65,
+ 'priceHint': 2,
+ 'priceToBook': 2.9541724,
+ 'priceToSalesTrailing12Months': 2.6308827,
+ 'profitMargins': -0.1163,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 19.88,
+ 'regularMarketDayLow': 19.13,
+ 'regularMarketOpen': 19.59,
+ 'regularMarketPreviousClose': 19.65,
+ 'regularMarketPrice': 19.59,
+ 'regularMarketVolume': 1843212,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 158739008,
+ 'sharesPercentSharesOut': 0.075100005,
+ 'sharesShort': 11917038,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 10911073,
+ 'shortName': 'Alkermes plc',
+ 'shortPercentOfFloat': 0.107,
+ 'shortRatio': 8.02,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'ALKS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.882,
+ 'twoHundredDayAverage': 17.302446,
+ 'volume': 1843212,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.alkermes.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '4'}

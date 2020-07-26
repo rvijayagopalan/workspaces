@@ -1,0 +1,162 @@
+{'52WeekChange': 0.16766477,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '470 East Paces Ferry Road, N.E.',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.57,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 116387,
+ 'averageVolume': 210965,
+ 'averageVolume10days': 116387,
+ 'beta': 0.568067,
+ 'beta3Year': None,
+ 'bid': 14.76,
+ 'bidSize': 800,
+ 'bookValue': 3.705,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Atlanta',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 15.79,
+ 'dayLow': 15.37,
+ 'dividendRate': 0.44,
+ 'dividendYield': 0.028199999,
+ 'earningsQuarterlyGrowth': -0.709,
+ 'enterpriseToEbitda': 50.037,
+ 'enterpriseToRevenue': 3.588,
+ 'enterpriseValue': 414309184,
+ 'exDividendDate': 1597276800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '404-264-5206',
+ 'fiftyDayAverage': 17.000856,
+ 'fiftyTwoWeekHigh': 21.48,
+ 'fiftyTwoWeekLow': 9.05,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.63,
+ 'floatShares': 27849945,
+ 'forwardEps': 0.25,
+ 'forwardPE': 62.4,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 428,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.029849999,
+ 'heldPercentInstitutions': 1.06636,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1588204800,
+ 'lastMarket': None,
+ 'lastSplitDate': 648777600,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/amsoftware.com',
+ 'longBusinessSummary': 'American Software, Inc. develops, markets, and '
+                        'supports a range of computer business application '
+                        'software products and services in the United States '
+                        'and internationally. It operates in three segments: '
+                        'Supply Chain Management (SCM), Information Technology '
+                        'Consulting (IT Consulting), and Other. The SCM '
+                        'segment offers supply chain optimization and retail '
+                        'planning solutions, including sales and operations '
+                        'planning, demand optimization, inventory '
+                        'optimization, manufacturing planning and scheduling, '
+                        'supply optimization, retail allocation and '
+                        'merchandise planning, and transportation optimization '
+                        'to streamline and optimize the forecasting, '
+                        'inventory, production, supply, allocation, '
+                        'distribution, and management of products between '
+                        'trading partners. It also provides cloud solutions '
+                        'for supply chain and product lifecycle management, '
+                        'quality control, vendor compliance, and enterprise '
+                        'resource planning for retailers and manufacturers; '
+                        'and advanced analytics and business intelligence '
+                        'solutions for the supply chain market. The IT '
+                        'Consulting segment offers IT staffing and consulting '
+                        'services, such as professional, product management, '
+                        'and project management outsourcing services; staff '
+                        'augmentation services in the areas of cloud, '
+                        'collaboration, network, and security; and social '
+                        'media and analytic marketing services. It also '
+                        'provides software enhancement, documentation, '
+                        'updates, customer education, consulting, systems '
+                        'integration services, maintenance, and support '
+                        'services. The Other segment offers purchasing and '
+                        'materials management, customer order processing, '
+                        'financial, e-commerce, human resource, and '
+                        'manufacturing solutions. The company markets its '
+                        'products through direct and indirect sales channels '
+                        'to the retail, apparel and footwear, consumer '
+                        'packaged goods, chemicals, oil and gas, life '
+                        'sciences, consumer electronics, industrial products, '
+                        'and other manufacturing industries. American '
+                        'Software, Inc. was founded in 1970 and is '
+                        'headquartered in Atlanta, Georgia.',
+ 'longName': 'American Software, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 506096768,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_250510',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 6742000,
+ 'nextFiscalYearEnd': 1651276800,
+ 'open': 15.57,
+ 'openInterest': None,
+ 'payoutRatio': 2.0952,
+ 'pegRatio': 6.1,
+ 'phone': '404-261-4381',
+ 'previousClose': 15.605,
+ 'priceHint': 2,
+ 'priceToBook': 4.2105265,
+ 'priceToSalesTrailing12Months': 4.3830805,
+ 'profitMargins': 0.058390003,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 15.79,
+ 'regularMarketDayLow': 15.37,
+ 'regularMarketOpen': 15.57,
+ 'regularMarketPreviousClose': 15.605,
+ 'regularMarketPrice': 15.57,
+ 'regularMarketVolume': 124136,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 30368500,
+ 'sharesPercentSharesOut': 0.0279,
+ 'sharesShort': 897447,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 603861,
+ 'shortName': 'American Software, Inc.',
+ 'shortPercentOfFloat': 0.035099998,
+ 'shortRatio': 3.06,
+ 'startDate': None,
+ 'state': 'GA',
+ 'strikePrice': None,
+ 'symbol': 'AMSWA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.44,
+ 'trailingAnnualDividendYield': 0.02819609,
+ 'trailingEps': 0.21,
+ 'trailingPE': 74.28572,
+ 'twoHundredDayAverage': 15.830503,
+ 'volume': 124136,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.amsoftware.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '30305'}

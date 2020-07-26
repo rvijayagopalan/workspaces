@@ -1,0 +1,162 @@
+{'52WeekChange': -0.19967264,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '38505 Woodward Avenue',
+ 'address2': 'Suite 200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24.49,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 108950,
+ 'averageVolume': 200303,
+ 'averageVolume10days': 108950,
+ 'beta': 1.017927,
+ 'beta3Year': None,
+ 'bid': 24.46,
+ 'bidSize': 800,
+ 'bookValue': 15.56,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Bloomfield Hills',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 24.73,
+ 'dayLow': 24.24,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.313,
+ 'enterpriseToEbitda': 10.03,
+ 'enterpriseToRevenue': 1.815,
+ 'enterpriseValue': 1330053504,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 23.671715,
+ 'fiftyTwoWeekHigh': 33.07,
+ 'fiftyTwoWeekLow': 18.05,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 42837848,
+ 'forwardEps': 1.44,
+ 'forwardPE': 16.979166,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3500,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.011360001,
+ 'heldPercentInstitutions': 1.0252,
+ 'industry': 'Specialty Industrial Machinery',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1435708800,
+ 'lastSplitFactor': '1255:1000',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/trimascorp.com',
+ 'longBusinessSummary': 'TriMas Corporation manufactures and provides products '
+                        'for consumer products, aerospace, and industrial end '
+                        'markets worldwide. It operates in three segments: '
+                        'Packaging, Aerospace, and Specialty Products. The '
+                        'Packaging segment designs, manufactures, and sells '
+                        'specialty polymeric and steel closure products, '
+                        'including steel drum enclosures, plastic drum '
+                        'closures, plastic pail dispensers and plugs, and '
+                        'plastic enclosures; specialty dispensing products, '
+                        'such as foamers, lotion pumps, fine mist sprayers, '
+                        'airless dispensers, and other packaging solutions for '
+                        'the cosmetic, personal care, pharmaceutical, and '
+                        'household product markets; specialty plastic closures '
+                        'for bottles and jars in the food and beverage '
+                        'markets; and single-bodied and assembled caps and '
+                        'closures under the Rieke, Taplast, and Stolz brands. '
+                        'The Aerospace segment offers fasteners, collars, '
+                        'blind bolts, and rivets to original equipment '
+                        'manufacturers, supply chain distributors, '
+                        'MRO/aftermarket providers, and tier one suppliers for '
+                        'commercial, maintenance, repair, and operations '
+                        '(MRO); and military aerospace applications and '
+                        'platforms under the Monogram Aerospace Fasteners, '
+                        'Allfast Fastening Systems, and Mac Fasteners brands. '
+                        'The Specialty Products segment offers steel cylinders '
+                        'for use in the transportation, storage, and '
+                        'dispensing of compressed gases under the Norris '
+                        'Cylinder brand; natural gas powered wellhead engines, '
+                        'compressors, replacement parts, compressors, '
+                        'compressor packaging, and gas production equipment '
+                        'under the Arrow brand; and machined metallic '
+                        'components, including auxiliary power units, as well '
+                        'as electrical, hydraulic, and pneumatic systems for '
+                        'aerospace applications under the Martinic Engineering '
+                        'brand. This segment also provides spare parts for '
+                        'various industrial engines under the Caterpillar, '
+                        'Waukesha, and Ajax brands. The company sells its '
+                        'products through a direct sales force, third-party '
+                        'agents, and distributors. TriMas Corporation was '
+                        'incorporated in 1986 and is based in Bloomfield '
+                        'Hills, Michigan.',
+ 'longName': 'TriMas Corporation',
+ 'market': 'us_market',
+ 'marketCap': 1061364736,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_309400',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 60510000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 24.71,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.09,
+ 'phone': '248 631 5450',
+ 'previousClose': 24.78,
+ 'priceHint': 2,
+ 'priceToBook': 1.5713367,
+ 'priceToSalesTrailing12Months': 1.4480724,
+ 'profitMargins': 0.12641,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 24.73,
+ 'regularMarketDayLow': 24.24,
+ 'regularMarketOpen': 24.71,
+ 'regularMarketPreviousClose': 24.78,
+ 'regularMarketPrice': 24.71,
+ 'regularMarketVolume': 130146,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 43409600,
+ 'sharesPercentSharesOut': 0.0113,
+ 'sharesShort': 491416,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 381341,
+ 'shortName': 'TriMas Corporation',
+ 'shortPercentOfFloat': 0.0114,
+ 'shortRatio': 2.29,
+ 'startDate': None,
+ 'state': 'MI',
+ 'strikePrice': None,
+ 'symbol': 'TRS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.052,
+ 'trailingPE': 11.915205,
+ 'twoHundredDayAverage': 24.901943,
+ 'volume': 130146,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.trimascorp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '48304'}

@@ -1,0 +1,161 @@
+{'52WeekChange': 0.2926638,
+ 'SandP52WeekChange': None,
+ 'address1': '12300 Liberty Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 137.6,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 390562,
+ 'averageVolume': 686331,
+ 'averageVolume10days': 390562,
+ 'beta': 1.054341,
+ 'beta3Year': None,
+ 'bid': 132.76,
+ 'bidSize': 1000,
+ 'bookValue': 58.523,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Englewood',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 132.83,
+ 'dayLow': 130.91,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -868.487,
+ 'enterpriseToRevenue': 1593.636,
+ 'enterpriseValue': 24709322752,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 129.33186,
+ 'fiftyTwoWeekHigh': 140,
+ 'fiftyTwoWeekLow': 86.2,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 172717589,
+ 'forwardEps': 3.57,
+ 'forwardPE': 37.19048,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.030079998,
+ 'heldPercentInstitutions': 0.67349,
+ 'industry': 'Entertainment',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1418256000,
+ 'lastSplitFactor': '1046:1000',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/libertybroadband.com',
+ 'longBusinessSummary': 'Liberty Broadband Corporation, a cable operator, '
+                        'provides video, Internet, and voice services to '
+                        'residential, and small and medium business customers '
+                        'in the United States. The company operates through '
+                        'Skyhook and Charter segments. The Skyhook segment '
+                        'offers Precision Location Solution, a location '
+                        'determination service for mobile device makers, '
+                        'wireless carriers, and asset tracking platforms to '
+                        'understand the precise geographic location and '
+                        'movement of mobile devices, as well as for enhancing '
+                        'the location determination capabilities of a hybrid '
+                        'location system. It also provides Geospatial '
+                        'Insights, a location intelligence and data insights '
+                        'service for enterprises, research and consulting '
+                        'firms, financial institutions, and advertisers to '
+                        'understand, measure, and optimize the performance of '
+                        'businesses; benchmark performance against '
+                        'competitors; enhance customer experience; advertise '
+                        'to, and target existing and prospective customers; '
+                        'and measure the efficacy of advertising campaigns in '
+                        'driving real-world actions. The Charter segment '
+                        'offers subscription-based video services comprising '
+                        'video on demand, high definition television, and '
+                        'digital video recorder service; and local and long '
+                        'distance calling, voicemail, call waiting, caller ID, '
+                        'call forwarding, and other voice services, as well as '
+                        'international calling services. It also provides '
+                        'Internet services, including an in-home Wi-Fi product '
+                        'that provides customers with high performance '
+                        'wireless routers; and a security suite that offers '
+                        'protection against computer viruses and spyware. In '
+                        'addition, this segment offers Internet access, data '
+                        'networking, fiber connectivity to cellular towers and '
+                        'office buildings, video entertainment, and business '
+                        'telephone services; advertising services on cable '
+                        'television networks and digital outlets; and regional '
+                        'sports networks and local sports, news, and community '
+                        'channels. The company is based in Englewood, '
+                        'Colorado.',
+ 'longName': 'Liberty Broadband Corporation',
+ 'market': 'us_market',
+ 'marketCap': 24078505984,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_263559030',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 123675000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 131.69,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '720-875-5700',
+ 'previousClose': 132.33,
+ 'priceHint': 2,
+ 'priceToBook': 2.2686808,
+ 'priceToSalesTrailing12Months': 1552.951,
+ 'profitMargins': 7.97646,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 132.83,
+ 'regularMarketDayLow': 130.91,
+ 'regularMarketOpen': 131.69,
+ 'regularMarketPreviousClose': 132.33,
+ 'regularMarketPrice': 131.69,
+ 'regularMarketVolume': 279667,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 152982000,
+ 'sharesPercentSharesOut': 0.013099999,
+ 'sharesShort': 2386436,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2117767,
+ 'shortName': 'Liberty Broadband Corporation',
+ 'shortPercentOfFloat': 0.0162,
+ 'shortRatio': 3.41,
+ 'startDate': None,
+ 'state': 'CO',
+ 'strikePrice': None,
+ 'symbol': 'LBRDK',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.68,
+ 'trailingPE': 195.25,
+ 'twoHundredDayAverage': 125.53583,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e524952d-cd1c-32d4-9f26-4f9f1ce55b97',
+ 'volume': 279667,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.libertybroadband.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '80112'}

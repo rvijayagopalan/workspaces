@@ -1,0 +1,163 @@
+{'52WeekChange': 0.79097295,
+ 'SandP52WeekChange': None,
+ 'address1': '201 Industrial Road',
+ 'address2': 'Suite 410',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 46.53,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 686125,
+ 'averageVolume': 813841,
+ 'averageVolume10days': 686125,
+ 'beta': 1.365692,
+ 'beta3Year': None,
+ 'bid': 46.6,
+ 'bidSize': 900,
+ 'bookValue': 3.292,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Carlos',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 47.86,
+ 'dayLow': 45.38,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -27.152,
+ 'enterpriseToRevenue': 10.349,
+ 'enterpriseValue': 3410118912,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 46.246857,
+ 'fiftyTwoWeekHigh': 51.87,
+ 'fiftyTwoWeekLow': 16.87,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 75155127,
+ 'forwardEps': -1.88,
+ 'forwardPE': -24.74468,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1039,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.041139998,
+ 'heldPercentInstitutions': 0.93242997,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/natera.com',
+ 'longBusinessSummary': 'Natera, Inc. provides preconception and prenatal '
+                        'genetic testing services. It offers Panorama, a '
+                        'non-invasive prenatal test that screens for '
+                        'chromosomal abnormalities of a fetus with a blood '
+                        'draw from the mother; Vistara, a single-gene '
+                        'mutations screening test to identify single-gene '
+                        'disorder; Horizon carrier screening to determine '
+                        'carrier status for various genetic diseases; and '
+                        'Spectrum pre-implantation genetic screening and '
+                        'Spectrum pre-implantation genetic diagnosis to '
+                        'analyze chromosomal anomalies or inherited genetic '
+                        'conditions during an in vitro fertilization cycle. '
+                        'The company also provides Anora products of '
+                        'conception test to analyze fetal chromosomes to '
+                        'understand the cause of miscarriage; and non-invasive '
+                        'paternity testing products to determine paternity by '
+                        'analyzing the fragments of fetal deoxyribonucleic '
+                        "acid in a pregnant mother's blood and a blood sample "
+                        'from the alleged father. In addition, it offers '
+                        'Constellation, a cloud-based software product that '
+                        'allows laboratory customers to gain access through '
+                        "the cloud to the company's algorithms and "
+                        'bioinformatics in order to validate and launch tests; '
+                        'Evercord, a cord blood and cord tissue processing and '
+                        'storage service; and Signatera, a circulating tumor '
+                        'DNA technology that analyzes and tracks mutations to '
+                        "an individual's tumor. The company offers products "
+                        'through its direct sales force, as well as through a '
+                        'network of approximately 100 laboratory and '
+                        'distribution partners in the United States and '
+                        'internationally. Natera, Inc. has research '
+                        'collaborations with the Institut Jules Bordet and Fox '
+                        'Chase Cancer Center; and a partnership agreement with '
+                        'Foundation Medicine, Inc. to develop and '
+                        'commercialize personalized circulating tumor DNA '
+                        'monitoring assays for use by biopharmaceutical and '
+                        'clinical customers. The company was formerly known as '
+                        'Gene Security Network, Inc. and changed its name to '
+                        'Natera, Inc. in 2012. Natera, Inc. was founded in '
+                        '2003 and is headquartered in San Carlos, California.',
+ 'longName': 'Natera, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3662300928,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_27603970',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -126108000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 47.86,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '650 249 9090',
+ 'previousClose': 48.41,
+ 'priceHint': 2,
+ 'priceToBook': 14.1312275,
+ 'priceToSalesTrailing12Months': 11.114182,
+ 'profitMargins': -0.38271,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 47.86,
+ 'regularMarketDayLow': 45.38,
+ 'regularMarketOpen': 47.86,
+ 'regularMarketPreviousClose': 48.41,
+ 'regularMarketPrice': 47.86,
+ 'regularMarketVolume': 463245,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 78656896,
+ 'sharesPercentSharesOut': 0.0744,
+ 'sharesShort': 5856507,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4898546,
+ 'shortName': 'Natera, Inc.',
+ 'shortPercentOfFloat': 0.0809,
+ 'shortRatio': 7.12,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'NTRA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.718,
+ 'twoHundredDayAverage': 38.26435,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '8717383a-ac5e-35c5-8c05-2338c07208d0',
+ 'volume': 463245,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.natera.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94070'}

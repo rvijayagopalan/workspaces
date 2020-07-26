@@ -1,0 +1,163 @@
+{'52WeekChange': 0.53482926,
+ 'SandP52WeekChange': None,
+ 'address1': '770 Lindaro Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 122.96,
+ 'askSize': 3200,
+ 'averageDailyVolume10Day': 1006750,
+ 'averageVolume': 1558480,
+ 'averageVolume10days': 1006750,
+ 'beta': 1.088515,
+ 'beta3Year': None,
+ 'bid': 122.95,
+ 'bidSize': 800,
+ 'bookValue': 17.924,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Rafael',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 124.985,
+ 'dayLow': 121.63,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 244.276,
+ 'enterpriseToRevenue': 12.346,
+ 'enterpriseValue': 22288947200,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 120.410286,
+ 'fiftyTwoWeekHigh': 131.95,
+ 'fiftyTwoWeekLow': 62.88,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 179589082,
+ 'forwardEps': 1.43,
+ 'forwardPE': 85.97902,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3001,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00495,
+ 'heldPercentInstitutions': 0.99303,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/biomarin.com',
+ 'longBusinessSummary': 'BioMarin Pharmaceutical Inc., a biotechnology '
+                        'company, develops and commercializes therapies for '
+                        'people with serious and life-threatening rare '
+                        'diseases and medical conditions. Its commercial '
+                        'products include Aldurazyme to treat '
+                        'mucopolysaccharidosis I, a genetic disease; Brineura '
+                        'for the treatment of late infantile neuronal ceroid '
+                        'lipofuscinosis type 2, a form of Batten disease; and '
+                        'Kuvan, a proprietary synthetic oral form of 6R-BH4 '
+                        'that is used to treat patients with phenylketonuria '
+                        "(PKU), an inherited metabolic disease. The company's "
+                        'commercial products also comprise Naglazyme, a '
+                        'recombinant form of N-acetylgalactosamine 4-sulfatase '
+                        'for patients with mucopolysaccharidosis VI; Palynziq, '
+                        'a PEGylated recombinant phenylalanine ammonia lyase '
+                        'enzyme for adult patients with PKU; and Vimizim, an '
+                        'enzyme replacement therapy for the treatment of '
+                        'mucopolysaccharidosis IV Type A, a lysosomal storage '
+                        'disorder. Its clinical and pre-clinical product '
+                        'pipeline includes valoctocogene roxaparvovec, an '
+                        'adeno associated virus vector, which is in Phase III '
+                        'clinical trial for the treatment of patients with '
+                        'severe hemophilia A; vosoritide, a peptide '
+                        'therapeutic that is in Phase III clinical trial for '
+                        'the treatment of achondroplasia, a form of '
+                        'disproportionate short stature in humans; and BMN '
+                        '307, an AAV5 mediated gene therapy to normalize blood '
+                        'phenylalanine concentration levels in patients with '
+                        'phenylketonuria. The company serves specialty '
+                        'pharmacies; and end-users, such as hospitals and '
+                        'foreign government agencies, as well as distributors '
+                        'and pharmaceutical wholesalers in the United States, '
+                        'Europe, Latin America, and internationally. BioMarin '
+                        'Pharmaceutical Inc. has collaboration and license '
+                        'agreements with Sarepta Therapeutics and Asubio '
+                        'Pharma Co., Ltd.; and a preclinical collaboration and '
+                        'license agreement with DiNAQOR AG for the development '
+                        'of gene therapies to treat rare genetic '
+                        'cardiomyopathies. The company was founded in 1996 and '
+                        'is headquartered in San Rafael, California.',
+ 'longName': 'BioMarin Pharmaceutical Inc.',
+ 'market': 'us_market',
+ 'marketCap': 22233907200,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_25605',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 114006000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 123.41,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 7.39,
+ 'phone': '415 506 6700',
+ 'previousClose': 124.49,
+ 'priceHint': 2,
+ 'priceToBook': 6.859518,
+ 'priceToSalesTrailing12Months': 12.315415,
+ 'profitMargins': 0.06315,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 124.985,
+ 'regularMarketDayLow': 121.63,
+ 'regularMarketOpen': 123.41,
+ 'regularMarketPreviousClose': 124.49,
+ 'regularMarketPrice': 123.41,
+ 'regularMarketVolume': 1180335,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 180836992,
+ 'sharesPercentSharesOut': 0.0583,
+ 'sharesShort': 10539174,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 9871336,
+ 'shortName': 'BioMarin Pharmaceutical Inc.',
+ 'shortPercentOfFloat': 0.066700004,
+ 'shortRatio': 6.18,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'BMRN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.635,
+ 'trailingPE': 193.62204,
+ 'twoHundredDayAverage': 97.19669,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'bcd60339-c59b-3a43-af89-b10253407aca',
+ 'volume': 1180335,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.biomarin.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94901'}

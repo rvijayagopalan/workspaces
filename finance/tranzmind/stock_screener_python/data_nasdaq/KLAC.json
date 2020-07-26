@@ -1,0 +1,153 @@
+{'52WeekChange': 0.349079,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'One Technology Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 188.78,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1190762,
+ 'averageVolume': 1385331,
+ 'averageVolume10days': 1190762,
+ 'beta': 1.346218,
+ 'beta3Year': None,
+ 'bid': 187,
+ 'bidSize': 1000,
+ 'bookValue': 14.882,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Milpitas',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 197.26,
+ 'dayLow': 187.17,
+ 'dividendRate': 3.4,
+ 'dividendYield': 0.0167,
+ 'earningsQuarterlyGrowth': -0.593,
+ 'enterpriseToEbitda': 15.168,
+ 'enterpriseToRevenue': 5.549,
+ 'enterpriseValue': 31104964608,
+ 'exDividendDate': 1589500800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 195.35371,
+ 'fiftyTwoWeekHigh': 209.3,
+ 'fiftyTwoWeekLow': 110.19,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.5,
+ 'floatShares': 154684529,
+ 'forwardEps': 10.17,
+ 'forwardPE': 18.506392,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 10020,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0027599998,
+ 'heldPercentInstitutions': 0.96449995,
+ 'industry': 'Semiconductor Equipment & Materials',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 948240000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/kla.com',
+ 'longBusinessSummary': 'KLA Corporation designs, manufactures, and markets '
+                        'process control and yield management solutions for '
+                        'the semiconductor and related nanoelectronics '
+                        'industries worldwide. The company offers chip and '
+                        'wafer manufacturing products, including defect '
+                        'inspection and review systems, metrology solutions, '
+                        'in situ process monitoring products, computational '
+                        'lithography software, and data analytics systems for '
+                        'chip manufacturers to manage yield throughout the '
+                        'semiconductor fabrication process. It also provides '
+                        'reticle manufacturing products, such as reticle '
+                        'inspection, metrology, and data analytics systems for '
+                        'mask shops; and packaging manufacturing products '
+                        'comprising standalone and cluster inspection and '
+                        'metrology systems for various applications in the '
+                        'field of semiconductor packaging. In addition, the '
+                        'company offers compound semiconductor, power device, '
+                        'light emitting diode, and microelectromechanical '
+                        'system manufacturing products for the display market; '
+                        'data storage media/head manufacturing products; '
+                        'general purpose/lab applications; and '
+                        'previous-generation KLA systems. Further, it provides '
+                        'wafer processing solutions; printed circuit boards, '
+                        'and display and inspection components; products for '
+                        'the deposition of thin film coating of materials on '
+                        'crystalline silicon photovoltaic wafers; and other '
+                        'services. The company offers its products and '
+                        'services for use by various bare wafer, integrated '
+                        'circuit, reticle, and hard disk drive manufacturers. '
+                        'The company was formerly known as KLA-Tencor '
+                        'Corporation and changed its name to KLA Corporation '
+                        'in July 2019. KLA Corporation was founded in 1975 and '
+                        'is headquartered in Milpitas, California.',
+ 'longName': 'KLA Corporation',
+ 'market': 'us_market',
+ 'marketCap': 29181771776,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_282225',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1023377024,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 196.39,
+ 'openInterest': None,
+ 'payoutRatio': 0.5,
+ 'pegRatio': 1.6,
+ 'phone': '408-875-3000',
+ 'previousClose': 203.92,
+ 'priceHint': 2,
+ 'priceToBook': 12.646822,
+ 'priceToSalesTrailing12Months': 5.2061353,
+ 'profitMargins': 0.18257,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 197.26,
+ 'regularMarketDayLow': 187.17,
+ 'regularMarketOpen': 196.39,
+ 'regularMarketPreviousClose': 203.92,
+ 'regularMarketPrice': 196.39,
+ 'regularMarketVolume': 2477569,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 155048992,
+ 'sharesPercentSharesOut': 0.0219,
+ 'sharesShort': 3402197,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3694051,
+ 'shortName': 'KLA Corporation',
+ 'shortPercentOfFloat': 0.0249,
+ 'shortRatio': 2.66,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'KLAC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 3.2,
+ 'trailingAnnualDividendYield': 0.01569243,
+ 'trailingEps': 6.417,
+ 'trailingPE': 29.329906,
+ 'twoHundredDayAverage': 169.91849,
+ 'volume': 2477569,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.kla.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95035'}

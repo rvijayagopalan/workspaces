@@ -1,0 +1,161 @@
+{'52WeekChange': -0.46893644,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '7665 Commerce Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 15.21,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 683362,
+ 'averageVolume': 1030626,
+ 'averageVolume10days': 683362,
+ 'beta': 1.549579,
+ 'beta3Year': None,
+ 'bid': 15.1,
+ 'bidSize': 900,
+ 'bookValue': 20.79,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Eden Prairie',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 15.515,
+ 'dayLow': 14.93,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 22.744,
+ 'enterpriseToRevenue': 0.855,
+ 'enterpriseValue': 524479872,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '952-937-0070',
+ 'fiftyDayAverage': 16.168571,
+ 'fiftyTwoWeekHigh': 29.35,
+ 'fiftyTwoWeekLow': 12.18,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 53545747,
+ 'forwardEps': 0.31,
+ 'forwardPE': 48.80645,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2300,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.06639,
+ 'heldPercentInstitutions': 0.81482005,
+ 'industry': 'Computer Hardware',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1188432000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/stratasys.com',
+ 'longBusinessSummary': 'Stratasys Ltd. provides 3D printing and additive '
+                        'manufacturing solutions for individuals, businesses, '
+                        'and enterprises. Its 3D printing systems utilize its '
+                        'fused deposition modeling (FDM) and inkjet-based '
+                        'PolyJet technologies to enable the production of '
+                        'prototypes, tools used for production, and '
+                        'manufactured goods directly from 3D CAD files or '
+                        'other 3D content. The company offers entry-level '
+                        'desktop 3D printers to systems for rapid prototyping, '
+                        'and production systems for direct digital '
+                        'manufacturing. It also provides 3D printing '
+                        'consumable materials, including FDM cartridge-based '
+                        'materials, PolyJet cartridge-based materials, '
+                        'non-color digital materials, and color variations. In '
+                        'addition, the company offers GrabCAD Print software '
+                        'that provides job programming, scheduling, '
+                        'monitoring, and analytics across various 3D printing '
+                        'technologies; and GrabCAD Workbench, a cloud-based '
+                        'project data management solution. Further, it '
+                        'operates Thingiverse, an online community for sharing '
+                        'downloadable digital 3D designs; and GrabCAD '
+                        'Community for mechanical engineers, designers, '
+                        'manufacturers, and students to best practices through '
+                        'tutorials, discussion forums, and design/print '
+                        'challenges. Additionally, the company offers customer '
+                        'support, basic warranty, and extended support '
+                        'programs, as well as strategy, operations, and '
+                        'engineering consultancy services; leases or rents 3D '
+                        'printers and 3D production systems; produces '
+                        'prototypes and end-use parts for customers from a '
+                        'customer-provided CAD file; and offers plastic and '
+                        'metal parts for rapid prototyping and production '
+                        'processes, as well as related professional services, '
+                        'carbon-fiber based printers, and elastomeric '
+                        'materials. Its products and services are primarily '
+                        'used in the automotive, aerospace, medical, dental, '
+                        'education, and consumer goods markets. The company '
+                        'sells its products through a network of resellers and '
+                        'independent sales agents worldwide. Stratasys Ltd. '
+                        'was founded in 1989 and is headquartered in Eden '
+                        'Prairie, Minnesota.',
+ 'longName': 'Stratasys Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 829108864,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34839',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -30282000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 15.47,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -2.24,
+ 'phone': '952-937-3000',
+ 'previousClose': 15.66,
+ 'priceHint': 2,
+ 'priceToBook': 0.7277537,
+ 'priceToSalesTrailing12Months': 1.3510289,
+ 'profitMargins': -0.04934,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 15.515,
+ 'regularMarketDayLow': 14.93,
+ 'regularMarketOpen': 15.47,
+ 'regularMarketPreviousClose': 15.66,
+ 'regularMarketPrice': 15.47,
+ 'regularMarketVolume': 673146,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 54799000,
+ 'sharesPercentSharesOut': 0.1736,
+ 'sharesShort': 9514431,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 10880971,
+ 'shortName': 'Stratasys, Ltd.',
+ 'shortPercentOfFloat': 0.3168,
+ 'shortRatio': 6.59,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'SSYS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.561,
+ 'twoHundredDayAverage': 17.251007,
+ 'volume': 673146,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.stratasys.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '55344'}

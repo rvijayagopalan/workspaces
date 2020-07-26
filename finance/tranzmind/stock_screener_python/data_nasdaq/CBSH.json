@@ -1,0 +1,155 @@
+{'52WeekChange': -0.031047642,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1000 Walnut',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 59.78,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 447312,
+ 'averageVolume': 470344,
+ 'averageVolume10days': 447312,
+ 'beta': 1.030812,
+ 'beta3Year': None,
+ 'bid': 57.74,
+ 'bidSize': 1100,
+ 'bookValue': 28.808,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Kansas City',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 59.73,
+ 'dayLow': 58.27,
+ 'dividendRate': 1.08,
+ 'dividendYield': 0.0184,
+ 'earningsQuarterlyGrowth': -0.631,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.974,
+ 'enterpriseValue': 5721034240,
+ 'exDividendDate': 1591228800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 59.489143,
+ 'fiftyTwoWeekHigh': 71.92,
+ 'fiftyTwoWeekLow': 45.51,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.63,
+ 'floatShares': 100046499,
+ 'forwardEps': 2.97,
+ 'forwardPE': 19.649832,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4856,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03081,
+ 'heldPercentInstitutions': 0.71979,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1543449600,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/commercebank.com',
+ 'longBusinessSummary': 'Commerce Bancshares, Inc. operates as the bank '
+                        'holding company for Commerce Bank that provides '
+                        'retail, mortgage banking, corporate, investment, '
+                        'trust, and asset management products and services to '
+                        'individuals and businesses. It operates through three '
+                        'segments: Consumer, Commercial, and Wealth. The '
+                        'Consumer segment offers various banking products and '
+                        'services, including consumer deposits; consumer '
+                        'loans, such as automobile, motorcycle, marine, '
+                        'tractor/trailer, recreational vehicle, fixed rate and '
+                        'revolving home equity, and other consumer loans; '
+                        'patient health care financing; real estate loans; '
+                        'indirect and other consumer financing; personal '
+                        'mortgage banking; consumer installment lending; and '
+                        'consumer debit and credit bank cards, as well as '
+                        'provides online banking services. The Commercial '
+                        'segment provides corporate lending, merchant and '
+                        'commercial bank card, leasing, international, and '
+                        'investment safekeeping and bond accounting services; '
+                        'and business products, government deposits, and '
+                        'related commercial cash management services, as well '
+                        'as sells fixed-income securities to individuals, '
+                        'corporations, correspondent banks, public '
+                        'institutions, and municipalities. The Wealth segment '
+                        'provides traditional trust and estate planning '
+                        'services, brokerage services, and advisory and '
+                        'discretionary investment management services, as well '
+                        'as private banking accounts. The company also offers '
+                        'private equity investment, securities brokerage, and '
+                        'insurance agency services. It operates through a '
+                        'network of 316 locations in Missouri, Kansas, '
+                        'Illinois, Oklahoma, and Colorado, as well as '
+                        'commercial offices. Commerce Bancshares, Inc. was '
+                        'founded in 1865 and is headquartered in Kansas City, '
+                        'Missouri.',
+ 'longName': 'Commerce Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 6509065728,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_262144',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 294823008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 59.31,
+ 'openInterest': None,
+ 'payoutRatio': 0.39270002,
+ 'pegRatio': -1.55,
+ 'phone': '816-234-2000',
+ 'previousClose': 58.85,
+ 'priceHint': 2,
+ 'priceToBook': 2.0258262,
+ 'priceToSalesTrailing12Months': 5.6588516,
+ 'profitMargins': 0.26763,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 59.73,
+ 'regularMarketDayLow': 58.27,
+ 'regularMarketOpen': 59.31,
+ 'regularMarketPreviousClose': 58.85,
+ 'regularMarketPrice': 59.31,
+ 'regularMarketVolume': 365793,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 111533000,
+ 'sharesPercentSharesOut': 0.041500002,
+ 'sharesShort': 4624924,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5046728,
+ 'shortName': 'Commerce Bancshares, Inc.',
+ 'shortPercentOfFloat': 0.0462,
+ 'shortRatio': 8.85,
+ 'startDate': None,
+ 'state': 'MO',
+ 'strikePrice': None,
+ 'symbol': 'CBSH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.034,
+ 'trailingAnnualDividendYield': 0.017570095,
+ 'trailingEps': 2.647,
+ 'trailingPE': 22.0476,
+ 'twoHundredDayAverage': 60.517265,
+ 'volume': 365793,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.commercebank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '64106'}

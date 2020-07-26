@@ -1,0 +1,151 @@
+{'52WeekChange': 0.004642129,
+ 'SandP52WeekChange': None,
+ 'address1': '1521 Westbranch Drive',
+ 'address2': 'Suite 100',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 26.17,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 2850,
+ 'averageVolume': 4022,
+ 'averageVolume10days': 2850,
+ 'beta': 0.767507,
+ 'beta3Year': None,
+ 'bid': 26.05,
+ 'bidSize': 800,
+ 'bookValue': 14.321,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'McLean',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': None,
+ 'dayHigh': 26.19,
+ 'dayLow': 25.95,
+ 'dividendRate': 1.59,
+ 'dividendYield': 0.060599998,
+ 'earningsQuarterlyGrowth': 28.133,
+ 'enterpriseToEbitda': 27.228,
+ 'enterpriseToRevenue': 21.463,
+ 'enterpriseValue': 1033258432,
+ 'exDividendDate': 1600732800,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 26.046457,
+ 'fiftyTwoWeekHigh': 28.71,
+ 'fiftyTwoWeekLow': 15.752,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 19004965,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.06522,
+ 'industry': 'REIT—Industrial',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/gladstonefarms.com',
+ 'longBusinessSummary': 'Founded in 1997, Gladstone Land is a publicly traded '
+                        'real estate investment trust that acquires and owns '
+                        'farmland and farm-related properties located in major '
+                        'agricultural markets in the U.S. and leases its '
+                        'properties to unrelated third-party farmers. The '
+                        'Company, which reports the aggregate fair value of '
+                        'its farmland holdings on a quarterly basis, currently '
+                        'owns 113 farms, comprised of approximately 88,000 '
+                        'acres in 10 different states, valued at approximately '
+                        "$892 million. Gladstone Land's farms are "
+                        'predominantly located in regions where its tenants '
+                        'are able to grow fresh produce annual row crops, such '
+                        'as berries and vegetables, which are generally '
+                        'planted and harvested annually. The Company also owns '
+                        'farms growing permanent crops, such as almonds, '
+                        'apples, figs, olives, pistachios, and other orchards, '
+                        'as well as blueberry groves and vineyards, which are '
+                        'generally planted every 10 to 20-plus years and '
+                        'harvested annually. The Company may also acquire '
+                        'property related to farming, such as cooling '
+                        'facilities, processing buildings, packaging '
+                        'facilities, and distribution centers. The Company '
+                        'pays monthly distributions to its stockholders and '
+                        'has paid 87 consecutive monthly cash distributions on '
+                        'its common stock since its initial public offering in '
+                        'January 2013. The Company has increased its common '
+                        'distributions 18 times over the prior 21 quarters, '
+                        'and the current per-share distribution on its common '
+                        'stock is 0.0447 per month, or 0.5364 per year.',
+ 'longName': 'Gladstone Land Corporation',
+ 'market': 'us_market',
+ 'marketCap': 237461120,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_111484076',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -1069000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 25.95,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '703-287-5800',
+ 'previousClose': 25.97,
+ 'priceHint': 2,
+ 'priceToBook': 1.819007,
+ 'priceToSalesTrailing12Months': 4.9325147,
+ 'profitMargins': 0.09752,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 26.19,
+ 'regularMarketDayLow': 25.95,
+ 'regularMarketOpen': 25.95,
+ 'regularMarketPreviousClose': 25.97,
+ 'regularMarketPrice': 25.95,
+ 'regularMarketVolume': 1133,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Real Estate',
+ 'sharesOutstanding': 0,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': None,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'Gladstone Land Corporation - 6.',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': None,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'LANDP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.535,
+ 'trailingAnnualDividendYield': 0.020600695,
+ 'trailingEps': -0.052,
+ 'twoHundredDayAverage': 25.559044,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '9dcf210e-5f3a-363e-a07b-1730f058f78a',
+ 'volume': 1133,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.gladstonefarms.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '22102'}

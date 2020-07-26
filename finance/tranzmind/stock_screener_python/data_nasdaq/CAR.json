@@ -1,0 +1,157 @@
+{'52WeekChange': -0.19606215,
+ 'SandP52WeekChange': None,
+ 'address1': '6 Sylvan Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 29.67,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 2414262,
+ 'averageVolume': 6783742,
+ 'averageVolume10days': 2414262,
+ 'beta': 2.303081,
+ 'beta3Year': None,
+ 'bid': 29.32,
+ 'bidSize': 1000,
+ 'bookValue': 4.195,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Parsippany',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 29.68,
+ 'dayLow': 28.35,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 20.11,
+ 'enterpriseToRevenue': 2.182,
+ 'enterpriseValue': 19647506432,
+ 'exDividendDate': 1140652800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 26.754858,
+ 'fiftyTwoWeekHigh': 52.98,
+ 'fiftyTwoWeekLow': 6.35,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 47876663,
+ 'forwardEps': 1.55,
+ 'forwardPE': 19.019356,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 21200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01789,
+ 'heldPercentInstitutions': 1.13405,
+ 'industry': 'Rental & Leasing Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1157414400,
+ 'lastSplitFactor': '1:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/avisbudgetgroup.com',
+ 'longBusinessSummary': 'Avis Budget Group, Inc., together with its '
+                        'subsidiaries, provides car and truck rentals, car '
+                        'sharing, and ancillary services to businesses and '
+                        'consumers. It operates the Avis brand, a vehicle '
+                        'rental system that supply rental cars to the premium '
+                        'commercial and leisure segments of the travel '
+                        'industry; the Budget Truck brand, a local and one-way '
+                        'truck rental businesses with a fleet of approximately '
+                        '20,000 vehicles, which are rented through a network '
+                        'of approximately 575 dealer-operated and 420 '
+                        'company-operated locations that serve the consumer '
+                        'and light commercial sectors in the continental '
+                        'United States; and the Zipcar brand, a car sharing '
+                        'network. The company also operates various other car '
+                        'rental brands, such as Payless, Apex, Maggiore, '
+                        'Morini Rent, FranceCars, and Turiscar. In addition, '
+                        'it offers optional insurance products and coverages, '
+                        'such as supplemental liability, personal accident, '
+                        'personal effects protection, emergency sickness '
+                        'protection, and cargo insurance products; fuel '
+                        'service options, chauffeur drive services, roadside '
+                        'assistance services, electronic toll collection '
+                        'services, curbside delivery, tablet rentals, access '
+                        'to satellite radio, portable navigation units, and '
+                        'child safety seat rentals; automobile towing '
+                        'equipment and other moving accessories, such as hand '
+                        'trucks, furniture pads, and moving supplies; and '
+                        'Business Intelligence solution, an online portal for '
+                        'corporate travel. Avis Budget Group, Inc. operates in '
+                        'approximately 5,500 locations worldwide. The company '
+                        'was formerly known as Cendant Corporation and changed '
+                        'its name to Avis Budget Group, Inc. in September '
+                        '2006. Avis Budget Group, Inc. was founded in 1946 and '
+                        'is headquartered in Parsippany, New Jersey.',
+ 'longName': 'Avis Budget Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2050504960,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_26268',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 235000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 28.76,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.25,
+ 'phone': '973 496 4700',
+ 'previousClose': 28.99,
+ 'priceHint': 2,
+ 'priceToBook': 7.0274134,
+ 'priceToSalesTrailing12Months': 0.22770739,
+ 'profitMargins': 0.026099999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 29.68,
+ 'regularMarketDayLow': 28.35,
+ 'regularMarketOpen': 28.76,
+ 'regularMarketPreviousClose': 28.99,
+ 'regularMarketPrice': 28.76,
+ 'regularMarketVolume': 2152151,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 69555800,
+ 'sharesPercentSharesOut': 0.2324,
+ 'sharesShort': 16164610,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 22185930,
+ 'shortName': 'Avis Budget Group, Inc.',
+ 'shortPercentOfFloat': 0.308,
+ 'shortRatio': 2.3,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'CAR',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3.131,
+ 'trailingPE': 9.415522,
+ 'twoHundredDayAverage': 24.379929,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'edc860e2-d30b-3a5c-8823-c026e7a79e03',
+ 'volume': 2152151,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.avisbudgetgroup.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07054'}

@@ -1,0 +1,153 @@
+{'52WeekChange': 0.34140718,
+ 'SandP52WeekChange': None,
+ 'address1': '2001 Bryan Street',
+ 'address2': 'Suite 1600',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.33,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 788112,
+ 'averageVolume': 1122985,
+ 'averageVolume10days': 788112,
+ 'beta': 2.47619,
+ 'beta3Year': None,
+ 'bid': 23.1,
+ 'bidSize': 800,
+ 'bookValue': 7.152,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Dallas',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.48,
+ 'dayLow': 22.72,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.754,
+ 'enterpriseToEbitda': 9.009,
+ 'enterpriseToRevenue': 0.59,
+ 'enterpriseValue': 4389550080,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 21.467142,
+ 'fiftyTwoWeekHigh': 28.43,
+ 'fiftyTwoWeekLow': 9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 104654724,
+ 'forwardEps': 1.74,
+ 'forwardPE': 13.275862,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 15800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01783,
+ 'heldPercentInstitutions': 0.97806,
+ 'industry': 'Building Products & Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bldr.com',
+ 'longBusinessSummary': 'Builders FirstSource, Inc. manufactures and supplies '
+                        'building materials, manufactured components, and '
+                        'construction services to professional homebuilders, '
+                        'sub-contractors, remodelers, and consumers in the '
+                        'United States. The company operates through four '
+                        'segments: Northeast, Southeast, South, and West. It '
+                        'offers lumber and lumber sheet goods comprising '
+                        'dimensional lumber, plywood, and oriented strand '
+                        'board products that are used in on-site house '
+                        'framing; manufactured products, such as wood floor '
+                        'and roof trusses, steel roof trusses, wall panels, '
+                        'stairs, and engineered wood products; and windows, '
+                        'and interior and exterior door units, as well as '
+                        'interior trims and custom products under the Synboard '
+                        'brand name. The company also offers gypsum, roofing, '
+                        'and insulation products, including wallboards, '
+                        'ceilings, joint treatments, and finishes; and siding, '
+                        'metal, and concrete products, such as vinyl, '
+                        'composite, and wood siding products, as well as '
+                        'exterior trims, other exteriors, metal studs, and '
+                        'cement products. In addition, it provides other '
+                        'building products and services, such as cabinets and '
+                        'hardware, as well as turn-key framing, shell '
+                        'construction, design assistance, and professional '
+                        'installation services. The company was formerly known '
+                        'as BSL Holdings, Inc. and changed its name to '
+                        'Builders FirstSource, Inc. in October 1999. Builders '
+                        'FirstSource, Inc. was founded in 1998 and is '
+                        'headquartered in Dallas, Texas.',
+ 'longName': 'Builders FirstSource, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2693714176,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34817',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 194868000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 23.14,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.58,
+ 'phone': '214 880 3500',
+ 'previousClose': 23.26,
+ 'priceHint': 2,
+ 'priceToBook': 3.2298658,
+ 'priceToSalesTrailing12Months': 0.3622457,
+ 'profitMargins': 0.026199998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.48,
+ 'regularMarketDayLow': 22.72,
+ 'regularMarketOpen': 23.14,
+ 'regularMarketPreviousClose': 23.26,
+ 'regularMarketPrice': 23.14,
+ 'regularMarketVolume': 726804,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 116611000,
+ 'sharesPercentSharesOut': 0.024300002,
+ 'sharesShort': 2832632,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3269632,
+ 'shortName': 'Builders FirstSource, Inc.',
+ 'shortPercentOfFloat': 0.0277,
+ 'shortRatio': 2.64,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'BLDR',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.658,
+ 'trailingPE': 13.932449,
+ 'twoHundredDayAverage': 20.31036,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e1a5e3bc-ce03-33fb-b9c3-e9aff27ff86c',
+ 'volume': 726804,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bldr.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75201'}

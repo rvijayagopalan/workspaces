@@ -1,0 +1,164 @@
+{'52WeekChange': -0.2054348,
+ 'SandP52WeekChange': None,
+ 'address1': '500 11th Avenue North',
+ 'address2': 'Suite 1000',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.19,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 129337,
+ 'averageVolume': 174869,
+ 'averageVolume10days': 129337,
+ 'beta': 0.488515,
+ 'beta3Year': None,
+ 'bid': 21.47,
+ 'bidSize': 800,
+ 'bookValue': 10.481,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Nashville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 22.2,
+ 'dayLow': 21.63,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.187,
+ 'enterpriseToEbitda': 16.932,
+ 'enterpriseToRevenue': 2.328,
+ 'enterpriseValue': 583083648,
+ 'exDividendDate': 1520208000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 21.903715,
+ 'fiftyTwoWeekHigh': 29.78,
+ 'fiftyTwoWeekLow': 20.03,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 25588080,
+ 'forwardEps': 0.16,
+ 'forwardPE': 135.75,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 849,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.204,
+ 'heldPercentInstitutions': 0.73789,
+ 'industry': 'Health Information Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/healthstream.com',
+ 'longBusinessSummary': 'HealthStream, Inc. provides workforce and provider '
+                        'solutions for healthcare organizations in the United '
+                        'States. It operates through two segments, Workforce '
+                        'Solutions and Provider Solutions. The company offers '
+                        'workforce solutions, including software-as-a-service '
+                        '(SaaS) based services and subscription-based '
+                        'solutions to meet the training, certification, '
+                        'competency assessment, development, clinical '
+                        'development, talent management, performance '
+                        'appraisal, and other needs, as well as training, '
+                        'implementation, and account management services. It '
+                        'also provides applications for learning, compensation '
+                        'management, succession planning, competency '
+                        'management, disclosure management, simulation-based '
+                        'education, quality management, and industry training. '
+                        'In addition, the company offers VerityStream, a '
+                        'SaaS-based solution for recruiting, application '
+                        'submission, verification of licensure and other '
+                        'credentials, privileging, appointments by '
+                        'credentialing committees, enrollment, network '
+                        'management, onboarding, and performance evaluation; '
+                        'EchoCredentialing and MSOW platforms that manage '
+                        'medical staff credentialing and privileging processes '
+                        'for hospitals; EchoOneApp, a provider enrollment '
+                        'platform for medical groups; CredentialMyDoc, a '
+                        'SaaS-based solution to credential and enroll '
+                        'providers with payers for reimbursement, and to apply '
+                        'and maintain privileges, primarily in ambulatory care '
+                        'settings; and EchoAccess, a platform to support '
+                        'hospital call centers with physician referral and '
+                        'provider directories functionalities. Further, it '
+                        'provides NurseGrid Mobile, an application for nurses '
+                        'to manage and share their schedules, swap shifts, '
+                        'communicate with one another, and to coordinate work '
+                        'and non-work activities. The company offers its '
+                        'solutions in healthcare industry companies that '
+                        'include private, not-for-profit, and government '
+                        'entities, as well as pharmaceutical and medical '
+                        'device companies. The company was founded in 1990 and '
+                        'is headquartered in Nashville, Tennessee.',
+ 'longName': 'HealthStream, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 694985664,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_90442',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 16508000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 21.97,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 8.77,
+ 'phone': '615-301-3100',
+ 'previousClose': 21.93,
+ 'priceHint': 2,
+ 'priceToBook': 2.0723212,
+ 'priceToSalesTrailing12Months': 2.7744272,
+ 'profitMargins': 0.06742,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 22.2,
+ 'regularMarketDayLow': 21.63,
+ 'regularMarketOpen': 21.97,
+ 'regularMarketPreviousClose': 21.93,
+ 'regularMarketPrice': 21.97,
+ 'regularMarketVolume': 73134,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 31997500,
+ 'sharesPercentSharesOut': 0.012200001,
+ 'sharesShort': 389848,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 618352,
+ 'shortName': 'HealthStream, Inc.',
+ 'shortPercentOfFloat': 0.0182,
+ 'shortRatio': 1.98,
+ 'startDate': None,
+ 'state': 'TN',
+ 'strikePrice': None,
+ 'symbol': 'HSTM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1,
+ 'trailingAnnualDividendYield': 0.045599636,
+ 'trailingEps': 0.522,
+ 'trailingPE': 41.60919,
+ 'twoHundredDayAverage': 23.783669,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'dc1782bb-7070-3c07-b892-4bc555fdf3f7',
+ 'volume': 73134,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.healthstream.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '37203'}

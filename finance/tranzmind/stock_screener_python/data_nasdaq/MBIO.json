@@ -1,0 +1,154 @@
+{'52WeekChange': 0.021806836,
+ 'SandP52WeekChange': None,
+ 'address1': '2 Gansevoort Street',
+ 'address2': '9th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.26,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 1345862,
+ 'averageVolume': 917398,
+ 'averageVolume10days': 1345862,
+ 'beta': 1.658813,
+ 'beta3Year': None,
+ 'bid': 3.23,
+ 'bidSize': 4000,
+ 'bookValue': 1.075,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.3258,
+ 'dayLow': 3.17,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -2.138,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 99013536,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.3514285,
+ 'fiftyTwoWeekHigh': 4.85,
+ 'fiftyTwoWeekLow': 1.78,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 31485547,
+ 'forwardEps': -1.07,
+ 'forwardPE': -3.037383,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 51,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.2736,
+ 'heldPercentInstitutions': 0.21594,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/mustangbio.com',
+ 'longBusinessSummary': 'Mustang Bio, Inc., a clinical-stage biopharmaceutical '
+                        'company, focuses on translating medical breakthroughs '
+                        'in cell and gene therapies into potential cures for '
+                        'hematologic cancers, solid tumors, and rare genetic '
+                        'diseases. Its pipeline focuses on gene therapy '
+                        'programs for rare genetic disorders, chimeric antigen '
+                        'receptor (CAR) engineered T cell (CAR T) therapies '
+                        'for hematologic malignancies, and CAR T therapies for '
+                        'solid tumors. The company develop MB-107, a gene '
+                        'therapy program, potential curative treatment for '
+                        'X-linked severe combined immunodeficiency, a rare '
+                        'genetic immune system condition in which affected '
+                        'patients do not live beyond infancy without '
+                        'treatment. Its ex vivo lentiviral gene therapy is in '
+                        'two Phase 1/2 clinical trials. The company also '
+                        'develops MB-102, a heterodimeric '
+                        'interleukin-3-receptor for acute myeloid leukemia; '
+                        'MB-106 for immunotherapy of B-cell lymphomas; MB-104, '
+                        'an NK cell receptor regulating immune functions; '
+                        'MB-101 CAR T cell program for glioblastoma; MB-103 '
+                        'CAR T for glioblastoma multiforme (GBM) and '
+                        'metastatic breast cancer to brain; MB-105 CAR T for '
+                        'prostate and pancreatic cancers; and MB-108, a '
+                        'next-generation oncolytic herpes simplex virus. It '
+                        "has a license agreement with Nationwide Children's "
+                        'Hospital for the development of an oncolytic virus '
+                        'for treating GBM; and Beth Israel Deaconess Medical '
+                        'Center, Inc. to perform research relating to gene '
+                        'editing. The company was incorporated in 2015 and is '
+                        'headquartered in New York, New York. Mustang Bio, '
+                        'Inc. is a subsidiary of Fortress Biotech, Inc.',
+ 'longName': 'Mustang Bio, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 139695392,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_326621488',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -48633000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.28,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '781 652 4500',
+ 'previousClose': 3.28,
+ 'priceHint': 4,
+ 'priceToBook': 3.0232556,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.3258,
+ 'regularMarketDayLow': 3.17,
+ 'regularMarketOpen': 3.28,
+ 'regularMarketPreviousClose': 3.28,
+ 'regularMarketPrice': 3.28,
+ 'regularMarketVolume': 668744,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 42137800,
+ 'sharesPercentSharesOut': 0.0139,
+ 'sharesShort': 595901,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 264472,
+ 'shortName': 'Mustang Bio, Inc.',
+ 'shortPercentOfFloat': 0.021,
+ 'shortRatio': 0.44,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'MBIO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.229,
+ 'twoHundredDayAverage': 3.2454317,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '15a28276-d177-3bd2-8aa8-03ffce90d2d7',
+ 'volume': 668744,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.mustangbio.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10014'}

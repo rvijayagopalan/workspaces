@@ -1,0 +1,162 @@
+{'52WeekChange': 1.4608612,
+ 'SandP52WeekChange': None,
+ 'address1': '55 Almaden Boulevard',
+ 'address2': '6th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 245.97,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 5516712,
+ 'averageVolume': 10561893,
+ 'averageVolume10days': 5516712,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 244.89,
+ 'bidSize': 800,
+ 'bookValue': 3.197,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Jose',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 250.21,
+ 'dayLow': 237.2,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 11.229,
+ 'enterpriseToEbitda': 1091.318,
+ 'enterpriseToRevenue': 82.672,
+ 'enterpriseValue': 68521656320,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 248.08,
+ 'fiftyTwoWeekHigh': 281,
+ 'fiftyTwoWeekLow': 60.968,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 176740342,
+ 'forwardEps': 1.55,
+ 'forwardPE': 159.07097,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2854,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.16195999,
+ 'heldPercentInstitutions': 0.49235,
+ 'industry': 'Telecom Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/zoom.us',
+ 'longBusinessSummary': 'Zoom Video Communications, Inc. provides a '
+                        'video-first communications platform in the Americas, '
+                        'the Asia Pacific, Europe, the Middle East, and '
+                        "Africa. The company's product portfolio includes Zoom "
+                        'Meetings that offers HD video, voice, chat, and '
+                        'content sharing through mobile devices, desktops, '
+                        'laptops, telephones, and conference room systems; '
+                        'Zoom Phone, an enterprise cloud phone system that '
+                        'provides secure call routing, call queuing, call '
+                        'detail reports, call recording, call quality '
+                        'monitoring, voicemail, switch to video, and other '
+                        'services, as well as inbound and outbound calling '
+                        'services; and Zoom Chat enables sharing messages, '
+                        'images, audio files, and content in desktop, laptop, '
+                        'tablet, and mobile devices for meeting and phone '
+                        'customers. It also offers Zoom Rooms, a '
+                        'software-based conference room system; Zoom '
+                        'Conference Room Connector, a gateway for SIP/H.323 '
+                        'endpoints to join Zoom meetings; and Zoom Video '
+                        'Webinars enables users to conduct large-scale online '
+                        'events, such as town hall meetings, workshops, and '
+                        'marketing presentations. In addition, the company '
+                        'provides Zoom for Developers that allows developers '
+                        'to integrate its video, phone, chat, and content '
+                        'sharing into other applications, as well as manages '
+                        'Zoom accounts; and Zoom App Marketplace enhance '
+                        'developers to publish their apps. It serves '
+                        'education, entertainment/media, enterprise '
+                        'infrastructure, finance, government, healthcare, '
+                        'manufacturing, non-profit/not for profit and social '
+                        'impact, retail/consumer products, and '
+                        'software/Internet industries, as well as individuals. '
+                        'Zoom Video Communications, Inc. has partnership with '
+                        'ServiceNow. The company was formerly known as Zoom '
+                        'Communications, Inc. and changed its name to Zoom '
+                        'Video Communications, Inc. in May 2012. Zoom Video '
+                        'Communications, Inc. was founded in 2011 and is '
+                        'headquartered in San Jose, California.',
+ 'longName': 'Zoom Video Communications, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 69555314688,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_223236753',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 48588000,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 246.2,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 5.07,
+ 'phone': '888 799 9666',
+ 'previousClose': 251.5,
+ 'priceHint': 2,
+ 'priceToBook': 77.1223,
+ 'priceToSalesTrailing12Months': 83.919174,
+ 'profitMargins': 0.06053,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 250.21,
+ 'regularMarketDayLow': 237.2,
+ 'regularMarketOpen': 246.2,
+ 'regularMarketPreviousClose': 251.5,
+ 'regularMarketPrice': 246.2,
+ 'regularMarketVolume': 4303198,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 182106000,
+ 'sharesPercentSharesOut': 0.0467,
+ 'sharesShort': 13182780,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 10168301,
+ 'shortName': 'Zoom Video Communications, Inc.',
+ 'shortPercentOfFloat': 0.0727,
+ 'shortRatio': 0.93,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'ZM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.169,
+ 'trailingPE': 1458.9349,
+ 'twoHundredDayAverage': 155.849,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '70f73ee5-133f-39c2-b135-16067fabfd87',
+ 'volume': 4303198,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.zoom.us',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95113'}

@@ -1,0 +1,163 @@
+{'52WeekChange': 0.23080695,
+ 'SandP52WeekChange': None,
+ 'address1': '870 North Commons Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 149.43,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 157812,
+ 'averageVolume': 209020,
+ 'averageVolume10days': 157812,
+ 'beta': 1.273949,
+ 'beta3Year': None,
+ 'bid': 149.05,
+ 'bidSize': 800,
+ 'bookValue': 34.59,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Aurora',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 150.18,
+ 'dayLow': 146.11,
+ 'dividendRate': 1.76,
+ 'dividendYield': 0.0119,
+ 'earningsQuarterlyGrowth': 0.212,
+ 'enterpriseToEbitda': 13.977,
+ 'enterpriseToRevenue': 4.61,
+ 'enterpriseValue': 5153148928,
+ 'exDividendDate': 1592870400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 140.984,
+ 'fiftyTwoWeekHigh': 169.13,
+ 'fiftyTwoWeekLow': 85.26,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 28776695,
+ 'forwardEps': 6.97,
+ 'forwardPE': 21.457676,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0104600005,
+ 'heldPercentInstitutions': 1.04993,
+ 'industry': 'Semiconductor Equipment & Materials',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cabotcmp.com',
+ 'longBusinessSummary': 'Cabot Microelectronics Corporation, together with its '
+                        'subsidiaries, provides consumable materials to '
+                        'semiconductor manufacturers, and pipeline and '
+                        'adjacent industry customers worldwide. The Electronic '
+                        'Materials segment provides CMP slurries, which are '
+                        'liquid solutions composed of high-purity deionized '
+                        'water, proprietary chemical additives, and engineered '
+                        'abrasives that chemically and mechanically interact '
+                        'with the surface material of the IC device at an '
+                        'atomic level; and CMP pads that are engineered '
+                        'polymeric materials designed to distribute and '
+                        'transport the slurry to the surface of the wafer and '
+                        "distribute it evenly across the wafer. The company's "
+                        'CMP slurries are used for polishing various materials '
+                        'that conduct electrical signals, including tungsten, '
+                        'copper, tantalum, and aluminum; and various materials '
+                        'that are used in the production of rigid disks and '
+                        'magnetic heads for hard disk drives, as well as used '
+                        'in the dielectric insulating materials that separate '
+                        'conductive layers within logic and memory IC devices. '
+                        'This segment also designs and produces precision '
+                        'polishing and metrology systems to attain '
+                        'near-perfect shape and surface finish on various '
+                        'optical components, such as mirrors, lenses, and '
+                        'prisms. In addition, this segment offers sulfuric, '
+                        'phosphoric, nitric, and hydrofluoric acids, as well '
+                        'as ammonium hydroxide, hydrogen peroxide, isopropyl '
+                        'alcohol, other specialty organic solvents, and '
+                        'various blends of chemicals. The Performance '
+                        'Materials segment provides polymer-based '
+                        'drag-reducing agents for light, medium, and heavy '
+                        'crude oil transmission; wood treatment products, such '
+                        'as solid blocks and concentrated solutions; and '
+                        'precision polishing and metrology systems for '
+                        'advanced optics applications. This segment also '
+                        'provides MR polishing fluids, consumables, and spare '
+                        'and replacement parts, as well as optical polishing '
+                        'services and other customer support services. Cabot '
+                        'Microelectronics Corporation was founded in 1999 and '
+                        'is headquartered in Aurora, Illinois.',
+ 'longName': 'Cabot Microelectronics Corporation',
+ 'market': 'us_market',
+ 'marketCap': 4346706944,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_411996',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 70083000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 149.67,
+ 'openInterest': None,
+ 'payoutRatio': 0.72650003,
+ 'pegRatio': 1.7,
+ 'phone': '630-375-6631',
+ 'previousClose': 150.86,
+ 'priceHint': 2,
+ 'priceToBook': 4.323793,
+ 'priceToSalesTrailing12Months': 3.8884075,
+ 'profitMargins': 0.06269,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 150.18,
+ 'regularMarketDayLow': 146.11,
+ 'regularMarketOpen': 149.67,
+ 'regularMarketPreviousClose': 150.86,
+ 'regularMarketPrice': 149.67,
+ 'regularMarketVolume': 203365,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 29063300,
+ 'sharesPercentSharesOut': 0.0254,
+ 'sharesShort': 739212,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 864407,
+ 'shortName': 'Cabot Microelectronics Corporat',
+ 'shortPercentOfFloat': 0.0346,
+ 'shortRatio': 3.61,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'CCMP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.7,
+ 'trailingAnnualDividendYield': 0.011268727,
+ 'trailingEps': 2.368,
+ 'trailingPE': 63.158783,
+ 'twoHundredDayAverage': 134.96129,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '69a5565b-6c5a-3eae-bca4-f352182a01c3',
+ 'volume': 203365,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cabotcmp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60504'}

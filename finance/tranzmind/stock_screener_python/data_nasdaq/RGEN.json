@@ -1,0 +1,163 @@
+{'52WeekChange': 0.42240107,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Building 1',
+ 'address2': 'Suite 100 41 Seyon Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 143.5,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 401012,
+ 'averageVolume': 666303,
+ 'averageVolume10days': 401012,
+ 'beta': 1.053781,
+ 'beta3Year': None,
+ 'bid': 130.01,
+ 'bidSize': 1100,
+ 'bookValue': 20.463,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Waltham',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 135.22,
+ 'dayLow': 132.03,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.219,
+ 'enterpriseToEbitda': 103.518,
+ 'enterpriseToRevenue': 23.677,
+ 'enterpriseValue': 6764517888,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '781 250 0115',
+ 'fiftyDayAverage': 123.15143,
+ 'fiftyTwoWeekHigh': 143.93,
+ 'fiftyTwoWeekLow': 72.32,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 48476440,
+ 'forwardEps': 1.32,
+ 'forwardPE': 101.78787,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 761,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.07428,
+ 'heldPercentInstitutions': 0.85103,
+ 'industry': 'Medical Instruments & Supplies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/repligen.com',
+ 'longBusinessSummary': 'Repligen Corporation develops and commercializes '
+                        'bioprocessing technologies and systems that are used '
+                        'in biological drug manufacturing process in North '
+                        'America, Europe, the Asia Pacific, and '
+                        'internationally. It offers Protein A ligands that are '
+                        'the binding components of Protein A affinity '
+                        'chromatography resins; and cell culture growth factor '
+                        "products. The company's chromatography products "
+                        'include OPUS pre-packed chromatography columns, which '
+                        'are used in the purification of biologics; and OPUS '
+                        'smaller-scale columns that are used in the high '
+                        'throughput process development screening, viral '
+                        'clearance validation studies, and scale down '
+                        'validation of chromatography processes. It also '
+                        'offers ELISA kits, which are analytical test kits to '
+                        'quantitate the proteins and growth factors; '
+                        'chromatography resins under the CaptivA brand; and '
+                        'liquid chromatography products under the '
+                        'Spectra/Chrom brand. In addition, the company offers '
+                        'filtration products, such as XCell Alternating '
+                        'Tangential Flow systems that are filtration devices '
+                        'used in upstream perfusion cell culture processing; '
+                        'TangenX flat sheet cassettes, which are used in '
+                        'downstream biologic drug concentration and '
+                        'formulation processes; KrosFlo tangential flow '
+                        'filtration and tangential flow depth filtration '
+                        'systems; Spectra/Por laboratory and process dialysis '
+                        'products, and SpectraFlo dynamic dialysis systems; '
+                        'and ProConnex single-use hollow fiber '
+                        'module-bag-tubing sets. Further, it provides process '
+                        'analytics products, such as slope spectroscopy '
+                        'systems under the SoloVPE and FlowVPE brands. The '
+                        'company sells its products to life sciences, '
+                        'biopharmaceutical, and diagnostics companies; '
+                        'laboratory researchers; and contract manufacturing '
+                        'organizations. It has a collaboration agreement with '
+                        'Navigo Proteins GmbH to develop multiple affinity '
+                        'ligands; and Sartorius Stedim Biotech to create novel '
+                        'perfusion-enabled bioreactors. Repligen Corporation '
+                        'was founded in 1981 and is headquartered in Waltham, '
+                        'Massachusetts.',
+ 'longName': 'Repligen Corporation',
+ 'market': 'us_market',
+ 'marketCap': 7027793920,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_33769',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 23173000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 134.53,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 4.94,
+ 'phone': '781 250 0111',
+ 'previousClose': 136.73,
+ 'priceHint': 2,
+ 'priceToBook': 6.5659976,
+ 'priceToSalesTrailing12Months': 24.598423,
+ 'profitMargins': 0.08111,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 135.22,
+ 'regularMarketDayLow': 132.03,
+ 'regularMarketOpen': 134.53,
+ 'regularMarketPreviousClose': 136.73,
+ 'regularMarketPrice': 134.53,
+ 'regularMarketVolume': 375695,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 52305700,
+ 'sharesPercentSharesOut': 0.0301,
+ 'sharesShort': 1574162,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1950432,
+ 'shortName': 'Repligen Corporation',
+ 'shortPercentOfFloat': 0.034,
+ 'shortRatio': 1.64,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'RGEN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.458,
+ 'trailingPE': 293.36246,
+ 'twoHundredDayAverage': 110.22281,
+ 'volume': 375695,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.repligen.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02453'}

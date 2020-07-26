@@ -1,0 +1,156 @@
+{'52WeekChange': -0.16831684,
+ 'SandP52WeekChange': None,
+ 'address1': '4400 Route 9 South',
+ 'address2': 'Suite 3100',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1.6,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 171912,
+ 'averageVolume': 270798,
+ 'averageVolume10days': 171912,
+ 'beta': 0.707075,
+ 'beta3Year': None,
+ 'bid': 1.59,
+ 'bidSize': 2900,
+ 'bookValue': 0.048,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Freehold',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1.68,
+ 'dayLow': 1.56,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -7.688,
+ 'enterpriseToRevenue': 85.365,
+ 'enterpriseValue': 128643904,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '732 780 5600',
+ 'fiftyDayAverage': 1.7027143,
+ 'fiftyTwoWeekHigh': 2.65,
+ 'fiftyTwoWeekLow': 0.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 25062656,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.68584,
+ 'heldPercentInstitutions': 0.03458,
+ 'industry': 'Medical Care Facilities',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/avalon-globocare.com',
+ 'longBusinessSummary': 'Avalon GloboCare Corp., together with its '
+                        'subsidiaries, owns and operates commercial real '
+                        'estate properties in the United States and the '
+                        "People's Republic of China. The company offers "
+                        'medical related consulting services, including '
+                        'research studies, executive education, daily online '
+                        'executive briefings, tailored expert advisory '
+                        'services, and consulting and management services in '
+                        'the areas of immunotherapy and second '
+                        'opinion/referral services. It also develops Avalon '
+                        'Cell and Avalon Rehab platforms that cover the areas '
+                        'of regenerative medicine, cell-based immunotherapy, '
+                        'and exosome technology. In addition, the company '
+                        'develops proprietary diagnostic and therapeutic '
+                        'products leveraging exosome technology; and provides '
+                        'development services for hospitals. The company has a '
+                        'strategic partnership with Weill Cornell Medical '
+                        'College to co-develop bio-production and '
+                        'standardization procedures for chimeric antigen '
+                        'receptor (CAR)-T Therapy; GensKey Medical Technology '
+                        'Co. Ltd. to co-develop and commercialize '
+                        'point-of-care, rapid detection antibody tests to '
+                        'identify whether a patient has been exposed to and '
+                        'has developed antibodies against SARS-CoV-2; GE '
+                        'Healthcare to enhance standardized automation and '
+                        'bio-production for cellular medicines; and '
+                        'HydroPeptide, LLC to co-develop and commercialize '
+                        'various clinical-grade, exosome-based cosmeceutical '
+                        'and orthopedic products, as well as research '
+                        'agreement with Massachusetts Institute of Technology '
+                        'to develop CAR technology. Avalon GloboCare Corp. is '
+                        'headquartered in Freehold, New Jersey.',
+ 'longName': 'Avalon GloboCare Corp.',
+ 'market': 'us_market',
+ 'marketCap': 126190032,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_402754209',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -16935126,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 1.68,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '646 762 4517',
+ 'previousClose': 1.68,
+ 'priceHint': 4,
+ 'priceToBook': 33.125,
+ 'priceToSalesTrailing12Months': 83.73703,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.68,
+ 'regularMarketDayLow': 1.56,
+ 'regularMarketOpen': 1.68,
+ 'regularMarketPreviousClose': 1.68,
+ 'regularMarketPrice': 1.68,
+ 'regularMarketVolume': 286454,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 79364800,
+ 'sharesPercentSharesOut': 0.0123000005,
+ 'sharesShort': 972992,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 840950,
+ 'shortName': 'Avalon GloboCare Corp.',
+ 'shortPercentOfFloat': 0.0376,
+ 'shortRatio': 3.5,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'AVCO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.223,
+ 'twoHundredDayAverage': 1.5856906,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'aba8052b-63b6-3c4f-a2c0-58324914fd28',
+ 'volume': 286454,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.avalon-globocare.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07728'}

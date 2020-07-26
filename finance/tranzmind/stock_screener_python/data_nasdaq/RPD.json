@@ -1,0 +1,155 @@
+{'52WeekChange': -0.1288392,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '120 Causeway Street',
+ 'address2': 'Suite 400',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 60,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 538675,
+ 'averageVolume': 763404,
+ 'averageVolume10days': 538675,
+ 'beta': 1.104798,
+ 'beta3Year': None,
+ 'bid': 55.31,
+ 'bidSize': 1000,
+ 'bookValue': 1.513,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Boston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 56.15,
+ 'dayLow': 54.63,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -77.684,
+ 'enterpriseToRevenue': 8.103,
+ 'enterpriseValue': 2820793856,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '617-457-7929',
+ 'fiftyDayAverage': 52.13186,
+ 'fiftyTwoWeekHigh': 65.688,
+ 'fiftyTwoWeekLow': 31.34,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 46670085,
+ 'forwardEps': 0.16,
+ 'forwardPE': 345.68753,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.072670005,
+ 'heldPercentInstitutions': 0.9317,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/rapid7.com',
+ 'longBusinessSummary': 'Rapid7, Inc. provides cyber security solutions. The '
+                        'company offers a cloud-native insight platform that '
+                        'enable customers to create and manage '
+                        'analytics-driven cyber security risk management '
+                        'programs. Its platform include vulnerability '
+                        'management solutions comprising InsightVM that is '
+                        'designed to provide a way to collect vulnerability '
+                        'data, prioritize risk, and automate remediation; '
+                        'InsightIDR, an incident detection and response '
+                        'solution; InsightAppSec provides application security '
+                        'testing that analyzes web applications for security '
+                        'vulnerabilities; and InsightConnect, a SOAR solution '
+                        "that is used by security professionals. The company's "
+                        'other products include Nexpose, an on-premise version '
+                        "of company's vulnerability risk management solution; "
+                        "AppSpider, an on-premise version of company's "
+                        'application security testing solution; Metasploit, a '
+                        'penetration testing software solution; and InsightOps '
+                        'that enables organizations to store and search data '
+                        'in real time. It offers its products through a '
+                        'combination of perpetual and term software licenses, '
+                        'cloud-based subscriptions, and managed services. The '
+                        'company serves customers in a range of industries, '
+                        'including technology, energy, financial services, '
+                        'healthcare and life sciences, manufacturing, media '
+                        'and entertainment, retail, education, real estate, '
+                        'transportation, government, and professional services '
+                        'industries through sales teams, and indirect channel '
+                        'partner relationships, as well as directly in the '
+                        'Americas, Europe, the Middle East, Africa, and the '
+                        'Asia Pacific. It has a strategic partnership with '
+                        'Snyk to deliver end-to-end application security to '
+                        'organizations developing cloud native applications. '
+                        'Rapid7, Inc. was incorporated in 2000 and is '
+                        'headquartered in Boston, Massachusetts.',
+ 'longName': 'Rapid7, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2793216000,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_22790600',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -65096000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 56.15,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 767.52,
+ 'phone': '617-247-1717',
+ 'previousClose': 56.49,
+ 'priceHint': 2,
+ 'priceToBook': 36.55651,
+ 'priceToSalesTrailing12Months': 8.024131,
+ 'profitMargins': -0.187,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 56.15,
+ 'regularMarketDayLow': 54.63,
+ 'regularMarketOpen': 56.15,
+ 'regularMarketPreviousClose': 56.49,
+ 'regularMarketPrice': 56.15,
+ 'regularMarketVolume': 287964,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 50501100,
+ 'sharesPercentSharesOut': 0.114300005,
+ 'sharesShort': 5774371,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4994867,
+ 'shortName': 'Rapid7, Inc.',
+ 'shortPercentOfFloat': 0.1157,
+ 'shortRatio': 7.87,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'RPD',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.32,
+ 'twoHundredDayAverage': 49.951725,
+ 'volume': 287964,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.rapid7.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02114'}

@@ -1,0 +1,154 @@
+{'52WeekChange': -0.4102564,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '411 Hackensack Avenue',
+ 'address2': 'Suite 501',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1.95,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 433812,
+ 'averageVolume': 592960,
+ 'averageVolume10days': 433812,
+ 'beta': 1.537815,
+ 'beta3Year': None,
+ 'bid': 1.84,
+ 'bidSize': 1400,
+ 'bookValue': 0.315,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Hackensack',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1.94,
+ 'dayLow': 1.83,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -3.136,
+ 'enterpriseToRevenue': 1.656,
+ 'enterpriseValue': 102016672,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 1.9585714,
+ 'fiftyTwoWeekHigh': 3.85,
+ 'fiftyTwoWeekLow': 1.31,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 64586495,
+ 'forwardEps': -0.09,
+ 'forwardPE': -20.444445,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 299,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.16834,
+ 'heldPercentInstitutions': 0.41265,
+ 'industry': 'Drug Manufacturers—Specialty & Generic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/rockwellmed.com',
+ 'longBusinessSummary': 'Rockwell Medical, Inc. operates as a '
+                        'biopharmaceutical company that targets end-stage '
+                        'renal disease and chronic kidney disease with '
+                        'therapies and products for the treatment of iron '
+                        'deficiency and hemodialysis. The company offers '
+                        'Triferic, an iron therapy that replaces iron and '
+                        'maintains hemoglobin in dialysis patients without '
+                        'increasing iron stores; and Calcitriol, an active '
+                        'vitamin D injection for the management of '
+                        'hypocalcemia in patients undergoing chronic '
+                        'hemodialysis. It is also developing an intravenous '
+                        'formulation of Triferic for use by hemodialysis '
+                        'patients. In addition, the company manufactures, '
+                        'sells, delivers, and distributes hemodialysis '
+                        'concentrates, such as CitraPure citric acid '
+                        'concentrate, Dri-Sate dry acid concentrate, RenalPure '
+                        'liquid acid concentrate, dry acid concentrate mixer, '
+                        'and RenalPure and SteriLyte powder bicarbonate '
+                        'concentrate; and ancillary products, including blood '
+                        'tubing, fistula needles, dialyzers, drugs, '
+                        'specialized component kits, dressings, cleaning '
+                        'agents, filtration salts, and other supplies used by '
+                        'hemodialysis providers. Its dialysis concentrate '
+                        'products are used to maintain human life by removing '
+                        'toxins and replacing critical nutrients in the '
+                        "dialysis patient's bloodstream. Rockwell Medical, "
+                        'Inc. sells its products directly, as well as through '
+                        'independent sales agents and distributors. Its target '
+                        'customers include senior and operating management of '
+                        'dialysis companies, dialysis service providers, '
+                        'nephrologists, clinic administrators, nurses, medical '
+                        'directors, and technical and purchasing personnel. '
+                        'Rockwell Medical, Inc. was founded in 1994 and is '
+                        'based in Wixom, Michigan.',
+ 'longName': 'Rockwell Medical, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 127087152,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_378060',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -33433422,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 1.93,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.14,
+ 'phone': '248 960 9009',
+ 'previousClose': 1.95,
+ 'priceHint': 4,
+ 'priceToBook': 5.84127,
+ 'priceToSalesTrailing12Months': 2.0631065,
+ 'profitMargins': -0.54275,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.94,
+ 'regularMarketDayLow': 1.83,
+ 'regularMarketOpen': 1.93,
+ 'regularMarketPreviousClose': 1.95,
+ 'regularMarketPrice': 1.93,
+ 'regularMarketVolume': 251518,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 69069104,
+ 'sharesPercentSharesOut': 0.083000004,
+ 'sharesShort': 5732337,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4874514,
+ 'shortName': 'Rockwell Medical, Inc.',
+ 'shortPercentOfFloat': 0.1014,
+ 'shortRatio': 11.04,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'RMTI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.526,
+ 'twoHundredDayAverage': 2.3098562,
+ 'volume': 251518,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.rockwellmed.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07601'}

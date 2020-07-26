@@ -1,0 +1,157 @@
+{'52WeekChange': -0.09225094,
+ 'SandP52WeekChange': None,
+ 'address1': '10B Edificio Associacao Industrial De Macau',
+ 'address2': 'No. 32-36 Rua do Comandante Mata e Oliveira',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.64,
+ 'askSize': 3100,
+ 'averageDailyVolume10Day': 9762,
+ 'averageVolume': 11692,
+ 'averageVolume10days': 9762,
+ 'beta': 0.552941,
+ 'beta3Year': None,
+ 'bid': 2.21,
+ 'bidSize': 1300,
+ 'bookValue': 5.047,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Macau',
+ 'companyOfficers': [],
+ 'country': 'Macau',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.5,
+ 'dayLow': 2.4,
+ 'dividendRate': 0.18,
+ 'dividendYield': 0.0733,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -1.176,
+ 'enterpriseToRevenue': -0.069,
+ 'enterpriseValue': -4541426,
+ 'exDividendDate': 1592956800,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '853 2832 3265',
+ 'fiftyDayAverage': 2.4877143,
+ 'fiftyTwoWeekHigh': 3.09,
+ 'fiftyTwoWeekLow': 2.02,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 5.86,
+ 'floatShares': 5785030,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1105,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.63651,
+ 'heldPercentInstitutions': 0.028770002,
+ 'industry': 'Electronic Components',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1378684800,
+ 'lastSplitFactor': '1:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/deswell.com',
+ 'longBusinessSummary': 'Deswell Industries, Inc. manufactures and sells '
+                        'injection-molded plastic parts and components, '
+                        'electronic products and subassemblies, and metallic '
+                        'molds and accessory parts for original equipment '
+                        'manufacturers and contract manufacturers. It operates '
+                        'in two segments, Plastic Injection Molding and '
+                        'Electronic Products Assembling. The company produces '
+                        'a range of plastic parts and components that are used '
+                        'in the manufacture of consumer and industrial '
+                        'products, which include plastic components for '
+                        'electronic entertainment products, power tools, '
+                        'accessories, and outdoor equipment; cases for '
+                        'flashlights, telephones, paging machines, projectors, '
+                        'and alarm clocks; toner cartridges and cases for '
+                        'photocopy and printer machines; and parts for '
+                        'electrical products, such as air-conditioning and '
+                        'ventilators, as well as parts for audio equipment, '
+                        'and cases and key tops for personal organizers and '
+                        'remote controls; double injection caps and baby '
+                        'products; parts for medical products comprising '
+                        'apparatus for blood tests; laser key caps; and '
+                        'automobile components. It also provides electronic '
+                        'products that consist of audio equipment, including '
+                        'digital and analogue mixing consoles, amplifiers, '
+                        'signal processors, audio interfaces, network audio '
+                        'equipment, and speaker enclosures; consumer audio '
+                        'products, such as multi-channel receivers-amplifiers, '
+                        'and wired and wireless audio streaming products; '
+                        'printed circuit board assemblies; and '
+                        'telecommunication products comprising VoIP keysets '
+                        'for business communications. The company sells its '
+                        'products primarily in China, the United States, the '
+                        'United Kingdom, Norway, Holland, Hong Kong, and '
+                        'Canada. Deswell Industries, Inc. was founded in 1987 '
+                        'and is based in Macau.',
+ 'longName': 'Deswell Industries, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 38514784,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_346973',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -1320000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 2.5,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '853 2832 2096',
+ 'previousClose': 2.46,
+ 'priceHint': 4,
+ 'priceToBook': 0.47949278,
+ 'priceToSalesTrailing12Months': 0.58919936,
+ 'profitMargins': -0.02019,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.5,
+ 'regularMarketDayLow': 2.4,
+ 'regularMarketOpen': 2.5,
+ 'regularMarketPreviousClose': 2.46,
+ 'regularMarketPrice': 2.5,
+ 'regularMarketVolume': 21937,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 15915200,
+ 'sharesPercentSharesOut': 0.0018000001,
+ 'sharesShort': 28956,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 24462,
+ 'shortName': 'Deswell Industries, Inc.',
+ 'shortPercentOfFloat': 0.0049,
+ 'shortRatio': 1.8,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'DSWL',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.17,
+ 'trailingAnnualDividendYield': 0.06910569,
+ 'trailingEps': -0.083,
+ 'twoHundredDayAverage': 2.54482,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '6e25e7cd-c2a3-34f3-b5f4-b0f21547e3e0',
+ 'volume': 21937,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.deswell.com',
+ 'yield': None,
+ 'ytdReturn': None}

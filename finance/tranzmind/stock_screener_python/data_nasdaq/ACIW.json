@@ -1,0 +1,161 @@
+{'52WeekChange': -0.19645488,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3520 Kraft Road',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27.19,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 641687,
+ 'averageVolume': 680247,
+ 'averageVolume10days': 641687,
+ 'beta': 1.337254,
+ 'beta3Year': None,
+ 'bid': 27.19,
+ 'bidSize': 1300,
+ 'bookValue': 9.215,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Naples',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 27.8,
+ 'dayLow': 27.12,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 20.502,
+ 'enterpriseToRevenue': 3.323,
+ 'enterpriseValue': 4465454080,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 26.935429,
+ 'fiftyTwoWeekHigh': 39.37,
+ 'fiftyTwoWeekLow': 20.03,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 112812020,
+ 'forwardEps': 1.21,
+ 'forwardPE': 22.475206,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4018,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02783,
+ 'heldPercentInstitutions': 1.00244,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1405036800,
+ 'lastSplitFactor': '3:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/aciworldwide.com',
+ 'longBusinessSummary': 'ACI Worldwide, Inc. develops, markets, installs, and '
+                        'supports a range of software products and solutions '
+                        'for facilitating electronic payments to banks, '
+                        'financial intermediaries, merchants, and billers '
+                        'worldwide. The company offers UP Retail Payments '
+                        'solution that enables banks and financial '
+                        'intermediaries to accept, authorize, route, and '
+                        'secure payment transactions; and ACI Card and '
+                        'Merchant Management solutions, such as credit, debit, '
+                        'smart card, and prepaid card issuance and management, '
+                        'as well as merchant account management and '
+                        'settlement. It also provides UP Immediate Payments '
+                        'solution that enables banks and payment service '
+                        'providers to meet real-time payment schemes and '
+                        'create various products; and UP Real-Time Payments '
+                        'solution that allows banks to address real-time gross '
+                        'settlement, SWIFT messaging, automated clearing '
+                        'house, and real-time payments. The company offers ACI '
+                        'ReD Shield, a real-time fraud prevention solution; '
+                        'Postilion; ACI PAY.ON Payments Gateway; UP eCommerce '
+                        'Payments solution; UP Payments Risk Management '
+                        'solution; and ACI Universal Online Banker platform. '
+                        'It also provides ACI Speedpay solutions that enable '
+                        'customers to electronically present bills and collect '
+                        'payments from consumers through a single and '
+                        'integrated platform that controls bill payments '
+                        'operation. The company offers electronic bill '
+                        'presentment and payment services to consumer finance, '
+                        'insurance, healthcare, higher education, utility, '
+                        'government, and mortgage sectors; implementation '
+                        'services, including product installations and '
+                        'configurations, and custom software modifications; '
+                        'and business and technical consultancy, and on-site '
+                        'support services, as well as distributes or acts as a '
+                        'sales agent for software developed by third parties. '
+                        'It markets its products under the ACI brand. The '
+                        'company was formerly known as Transaction Systems '
+                        'Architects, Inc. and changed its name to ACI '
+                        'Worldwide, Inc. in July 2007. The company was founded '
+                        'in 1975 and is headquartered in Naples, Florida.',
+ 'longName': 'ACI Worldwide, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3153124352,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_35695',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 68598000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 27.73,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.56,
+ 'phone': '239-403-4600',
+ 'previousClose': 27.785,
+ 'priceHint': 2,
+ 'priceToBook': 2.9511664,
+ 'priceToSalesTrailing12Months': 2.3462074,
+ 'profitMargins': 0.05104,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 27.8,
+ 'regularMarketDayLow': 27.12,
+ 'regularMarketOpen': 27.73,
+ 'regularMarketPreviousClose': 27.785,
+ 'regularMarketPrice': 27.73,
+ 'regularMarketVolume': 441900,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 115945000,
+ 'sharesPercentSharesOut': 0.048899997,
+ 'sharesShort': 5670340,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5537431,
+ 'shortName': 'ACI Worldwide, Inc.',
+ 'shortPercentOfFloat': 0.056900002,
+ 'shortRatio': 9.62,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'ACIW',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.58,
+ 'trailingPE': 46.88793,
+ 'twoHundredDayAverage': 28.505611,
+ 'volume': 441900,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.aciworldwide.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '34105'}

@@ -1,0 +1,160 @@
+{'52WeekChange': 0.4402387,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '400 North McCarthy Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 84.49,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 986175,
+ 'averageVolume': 1640253,
+ 'averageVolume10days': 986175,
+ 'beta': 0.964699,
+ 'beta3Year': None,
+ 'bid': 83.85,
+ 'bidSize': 1200,
+ 'bookValue': 23.162,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Milpitas',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 87,
+ 'dayLow': 84.27,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 13.399,
+ 'enterpriseToRevenue': 3.53,
+ 'enterpriseValue': 6053821440,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 79.816284,
+ 'fiftyTwoWeekHigh': 93.23,
+ 'fiftyTwoWeekLow': 48.44,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 74325348,
+ 'forwardEps': 5.46,
+ 'forwardPE': 15.470696,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5161,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0047400002,
+ 'heldPercentInstitutions': 0.96796995,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561766400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/lumentum.com',
+ 'longBusinessSummary': 'Lumentum Holdings Inc. manufactures and sells optical '
+                        'and photonic products in the Americas, the '
+                        'Asia-Pacific, Europe, the Middle East, and Africa. '
+                        'The company operates in two segments, Optical '
+                        'Communications (OpComms) and Commercial Lasers '
+                        '(Lasers). The OpComms segment offers components, '
+                        'modules, and subsystems that enable the transmission '
+                        'and transport of video, audio, and text data over '
+                        'high-capacity fiber optic cables. It offers tunable '
+                        'transponders, transceivers, and transmitter modules; '
+                        'tunable lasers, receivers, and modulators; transport '
+                        'products, such as reconfigurable optical add/drop '
+                        'multiplexers, amplifiers, and optical channel '
+                        'monitors, as well as components, including 980nm, '
+                        'multi-mode, and Raman pumps; and switches, '
+                        'attenuators, photodetectors, gain flattening filters, '
+                        'isolators, wavelength-division multiplexing filters, '
+                        'arrayed waveguide gratings, '
+                        'multiplex/de-multiplexers, and integrated passive '
+                        'modules. This segment also provides Super Transport '
+                        'Blade, which integrates optical transport functions '
+                        'into a single-slot blade; optical transceivers for '
+                        'fiber channel and Ethernet applications; '
+                        'vertical-cavity surface-emitting lasers; directly '
+                        'modulated and electro-absorption modulated lasers; '
+                        'and laser illumination sources for 3D sensing '
+                        'systems. It serves customers in telecommunications, '
+                        'data communications, and consumer and industrial '
+                        'markets. The Commercial Lasers segment offers '
+                        'diode-pumped solid-state, fiber, diode, direct-diode, '
+                        'and gas lasers for use in original equipment '
+                        'manufacturer applications. It serves customers in '
+                        'markets and applications, such as sheet metal '
+                        'processing, general manufacturing, biotechnology, '
+                        'graphics and imaging, and remote sensing, as well as '
+                        'in precision machining, such as drilling in printed '
+                        'circuit boards, wafer singulation, glass cutting, and '
+                        'solar cell scribing. Lumentum Holdings Inc. was '
+                        'incorporated in 2015 and is headquartered in '
+                        'Milpitas, California.',
+ 'longName': 'Lumentum Holdings Inc.',
+ 'market': 'us_market',
+ 'marketCap': 6326802944,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_272054403',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 114300000,
+ 'nextFiscalYearEnd': 1624924800,
+ 'open': 86.83,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.19,
+ 'phone': '408-546-5483',
+ 'previousClose': 87.47,
+ 'priceHint': 2,
+ 'priceToBook': 3.6469216,
+ 'priceToSalesTrailing12Months': 3.6888828,
+ 'profitMargins': 0.06664,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 87,
+ 'regularMarketDayLow': 84.27,
+ 'regularMarketOpen': 86.83,
+ 'regularMarketPreviousClose': 87.47,
+ 'regularMarketPrice': 86.83,
+ 'regularMarketVolume': 929211,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 74900000,
+ 'sharesPercentSharesOut': 0.0941,
+ 'sharesShort': 7044732,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 8384143,
+ 'shortName': 'Lumentum Holdings Inc.',
+ 'shortPercentOfFloat': 0.107,
+ 'shortRatio': 3.46,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'LITE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.473,
+ 'trailingPE': 57.34555,
+ 'twoHundredDayAverage': 78.07856,
+ 'volume': 929211,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.lumentum.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95035'}

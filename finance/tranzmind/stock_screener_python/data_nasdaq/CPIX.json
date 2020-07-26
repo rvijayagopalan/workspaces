@@ -1,0 +1,157 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '2525 West End Avenue',
+ 'address2': 'Suite 950',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.35,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 112712,
+ 'averageVolume': 52806,
+ 'averageVolume10days': 112712,
+ 'beta': 0.409523,
+ 'beta3Year': None,
+ 'bid': 3.2,
+ 'bidSize': 1000,
+ 'bookValue': 3.257,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Nashville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.29,
+ 'dayLow': 3.23,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 132.302,
+ 'enterpriseToRevenue': 0.94,
+ 'enterpriseValue': 44310356,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '615-255-0094',
+ 'fiftyDayAverage': 3.304,
+ 'fiftyTwoWeekHigh': 6.27,
+ 'fiftyTwoWeekLow': 3.1,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 7833630,
+ 'forwardEps': 0.28,
+ 'forwardPE': 11.607142,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 94,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.42731,
+ 'heldPercentInstitutions': 0.29492,
+ 'industry': 'Drug Manufacturers—Specialty & Generic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1183680000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cumberlandpharma.com',
+ 'longBusinessSummary': 'Cumberland Pharmaceuticals Inc., a specialty '
+                        'pharmaceutical company, focuses on the acquisition, '
+                        'development, and commercialization of prescription '
+                        'products for hospital acute care, gastroenterology, '
+                        'and oncology markets in the United States and '
+                        'internationally. It offers Acetadote, an injection '
+                        'for the treatment of acetaminophen poisoning; '
+                        'Caldolor, an injection for the treatment of pain and '
+                        'fever; Kristalose, a prescription laxative, for the '
+                        'treatment of chronic and acute constipation; '
+                        'Omeclamox-Pak for the treatment of Helicobacter '
+                        'pylori infection and duodenal ulcer disease; Vaprisol '
+                        'injection for treating hyponatremia; Ethyol injection '
+                        'for the reduction of xerostomia; Totect injection, '
+                        'for emergency oncology intervention, to treat the '
+                        'toxic effects of anthracycline chemotherapy; and '
+                        'Vibativ injection, for the treatment of certain '
+                        "serious bacterial infections. The company's Phase II "
+                        'product candidates includes Hepatoren injection for '
+                        'the treatment of critically ill patients suffering '
+                        'from liver and kidney failure; Boxaban oral capsules '
+                        'for the treatment of asthma patients; Vasculan oral '
+                        'capsule for the treatment of systemic sclerosis; and '
+                        'Portaban for the treatment of portal hypertension. It '
+                        'also develops RediTrex injection for the treatment of '
+                        'active rheumatoid, juvenile idiopathic, and severe '
+                        'psoriatic arthritis, as well as severe disabling '
+                        'psoriasis. The company markets and sells its products '
+                        'through sales representatives and district managers. '
+                        'Cumberland Pharmaceuticals Inc. has a strategic '
+                        'alliance with Clinigen Group plc and Nordic Group '
+                        'B.V. The company was incorporated in 1999 and is '
+                        'headquartered in Nashville, Tennessee.',
+ 'longName': 'Cumberland Pharmaceuticals Inc.',
+ 'market': 'us_market',
+ 'marketCap': 49499776,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_25240322',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -4190638,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.23,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.78,
+ 'phone': '615-255-0068',
+ 'previousClose': 3.29,
+ 'priceHint': 4,
+ 'priceToBook': 0.9978508,
+ 'priceToSalesTrailing12Months': 1.0501812,
+ 'profitMargins': -0.09588,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.29,
+ 'regularMarketDayLow': 3.23,
+ 'regularMarketOpen': 3.23,
+ 'regularMarketPreviousClose': 3.29,
+ 'regularMarketPrice': 3.23,
+ 'regularMarketVolume': 12209,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 15230700,
+ 'sharesPercentSharesOut': 0.0053,
+ 'sharesShort': 80732,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 87416,
+ 'shortName': 'Cumberland Pharmaceuticals Inc.',
+ 'shortPercentOfFloat': 0.0086,
+ 'shortRatio': 2.17,
+ 'startDate': None,
+ 'state': 'TN',
+ 'strikePrice': None,
+ 'symbol': 'CPIX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.295,
+ 'twoHundredDayAverage': 3.9283452,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'fbb0fe28-9752-3ce1-bfca-efe25634b947',
+ 'volume': 12209,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cumberlandpharma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '37203'}

@@ -1,0 +1,163 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': 'One Broadway',
+ 'address2': '14th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.57,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 329462,
+ 'averageVolume': 966907,
+ 'averageVolume10days': 329462,
+ 'beta': 1.614005,
+ 'beta3Year': None,
+ 'bid': 4.46,
+ 'bidSize': 1000,
+ 'bookValue': 0.436,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.53,
+ 'dayLow': 4.36,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.881,
+ 'enterpriseValue': 52615548,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 5.4142857,
+ 'fiftyTwoWeekHigh': 11.2,
+ 'fiftyTwoWeekLow': 2.23,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 11744639,
+ 'forwardEps': -1.71,
+ 'forwardPE': -2.6081872,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 19,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00245,
+ 'heldPercentInstitutions': 0.2701,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1582156800,
+ 'lastSplitFactor': '1:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/aveooncology.com',
+ 'longBusinessSummary': 'AVEO Pharmaceuticals, Inc., a biopharmaceutical '
+                        'company, develops and commercializes a portfolio of '
+                        'targeted medicines for oncology and other areas of '
+                        'unmet medical needs. It markets its lead candidate, '
+                        'tivozanib, an oral, once-daily, vascular endothelial '
+                        'growth factor receptor tyrosine kinase inhibitor, '
+                        'which is used for the treatment of renal cell '
+                        'carcinoma (RCC). The company has also completed a '
+                        'Phase III TIVO-3 trial of tivozanib for the treatment '
+                        'of RCC; and initiated enrollment in a phase Ib/II '
+                        'clinical trial of tivozanib in combination with '
+                        'Opdivo (nivolumab), an immune checkpoint (PD-1) '
+                        'inhibitor for the treatment of RCC. In addition, it '
+                        'is developing Ficlatuzumab, a potent hepatocyte '
+                        'growth factor inhibitory antibody that is in a Phase '
+                        'II clinical trial for the treatment of squamous cell '
+                        'carcinoma of the head and neck, acute myeloid '
+                        'leukemia, and pancreatic cancer; and AV-203, a potent '
+                        'anti-ErbB3 specific monoclonal antibody, which has '
+                        'completed Phase I clinical trial for treating '
+                        "esophageal cancer. The company's preclinical stage "
+                        'products include AV-380, a potent humanized IgG1 '
+                        'inhibitory monoclonal antibody for the treatment or '
+                        'prevention of cachexia; and AV-353 for the treatment '
+                        'of pulmonary arterial hypertension. AVEO '
+                        'Pharmaceuticals, Inc. has collaboration and license '
+                        'agreements with CANbridge Life Sciences Ltd.; EUSA '
+                        'Pharma (UK) Limited; Novartis International '
+                        "Pharmaceutical Ltd.; Biodesix, Inc.; St. Vincent's "
+                        'Hospital Sydney Limited; Biogen Idec International '
+                        'GmbH; and Kyowa Kirin Co., Ltd. AVEO Pharmaceuticals, '
+                        'Inc. has a clinical collaboration with AstraZeneca '
+                        'PLC to evaluate IMFINZI (durvalumab), a human '
+                        'monoclonal antibody directed against programmed '
+                        'death-ligand 1 (PD-L1). The company was formerly '
+                        'known as GenPath Pharmaceuticals, Inc. and changed '
+                        'its name to AVEO Pharmaceuticals, Inc. in March 2005. '
+                        'AVEO Pharmaceuticals, Inc. was incorporated in 2001 '
+                        'and is headquartered in Boston, Massachusetts.',
+ 'longName': 'AVEO Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 115092976,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1906420',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 452000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 4.5,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '617-588-1960',
+ 'previousClose': 4.53,
+ 'priceHint': 4,
+ 'priceToBook': 10.229358,
+ 'priceToSalesTrailing12Months': 4.1151667,
+ 'profitMargins': 0.01616,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.53,
+ 'regularMarketDayLow': 4.36,
+ 'regularMarketOpen': 4.5,
+ 'regularMarketPreviousClose': 4.53,
+ 'regularMarketPrice': 4.5,
+ 'regularMarketVolume': 172876,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 25805600,
+ 'sharesPercentSharesOut': 0.0712,
+ 'sharesShort': 1837517,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1723868,
+ 'shortName': 'AVEO Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.0792,
+ 'shortRatio': 1.58,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'AVEO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.028,
+ 'trailingPE': 159.2857,
+ 'twoHundredDayAverage': 5.4969783,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b6d25c5e-bbe6-3e18-98cb-c7347119c53f',
+ 'volume': 172876,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.aveooncology.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02142'}

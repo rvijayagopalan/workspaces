@@ -1,0 +1,152 @@
+{'52WeekChange': 0.25578916,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '614 McKinley Place NE',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 270.04,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 144275,
+ 'averageVolume': 261530,
+ 'averageVolume10days': 144275,
+ 'beta': 1.137815,
+ 'beta3Year': None,
+ 'bid': 269.46,
+ 'bidSize': 1200,
+ 'bookValue': 33.872,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Minneapolis',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 271.86,
+ 'dayLow': 267.57,
+ 'dividendRate': 1.28,
+ 'dividendYield': 0.0047,
+ 'earningsQuarterlyGrowth': -0.184,
+ 'enterpriseToEbitda': 50.357,
+ 'enterpriseToRevenue': 14.021,
+ 'enterpriseValue': 10579407872,
+ 'exDividendDate': 1588896000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '612-656-4400',
+ 'fiftyDayAverage': 263.6203,
+ 'fiftyTwoWeekHigh': 286.68,
+ 'fiftyTwoWeekLow': 155.17,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.96,
+ 'floatShares': 38014311,
+ 'forwardEps': 5.2,
+ 'forwardPE': 51.936543,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00487,
+ 'heldPercentInstitutions': 0.94319,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 975888000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bio-techne.com',
+ 'longBusinessSummary': 'Bio-Techne Corporation, together with its '
+                        'subsidiaries, develops, manufactures, and sells '
+                        'biotechnology reagents, instruments and services for '
+                        'the research and clinical diagnostic markets '
+                        'worldwide. The company operates through two segments, '
+                        'Protein Sciences, and Diagnostics and Genomics. The '
+                        'Protein Sciences segment offers proteins and reagent '
+                        'solutions, including cytokines and growth factors, '
+                        'antibodies, immunoassays, biologically active small '
+                        'molecule compounds, tissue culture reagents, and '
+                        'T-Cell activation technologies. This segment also '
+                        'provides manual and automated protein analysis '
+                        'instruments and immunoassays for use in quantifying '
+                        'proteins in various biological fluids. The '
+                        'Diagnostics and Genomics segment develops and '
+                        'manufactures diagnostic products, including Food and '
+                        'Drug Administration -regulated controls, calibrators, '
+                        'blood gas and clinical chemistry controls, and other '
+                        'reagents for original equipment manufacturers and '
+                        'clinical customers, as well as a portfolio of '
+                        'clinical molecular diagnostic oncology assays '
+                        'comprising the ExoDx Prostate test for prostate '
+                        'cancer diagnosis. This segment also manufactures and '
+                        'sells tissue-based in-situ hybridization assays for '
+                        'research and clinical use. Bio-Techne Corporation has '
+                        'partnership with Kantaro Biosciences to develop and '
+                        'scale production of COVID-19 serology test. The '
+                        'company was formerly known as Techne Corporation and '
+                        'changed its name to Bio-Techne Corporation in '
+                        'November 2014. Bio-Techne Corporation was founded in '
+                        '1976 and is headquartered in Minneapolis, Minnesota.',
+ 'longName': 'Bio-Techne Corporation',
+ 'market': 'us_market',
+ 'marketCap': 10322885632,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_189488',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 186746000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 271.78,
+ 'openInterest': None,
+ 'payoutRatio': 0.26950002,
+ 'pegRatio': 10.62,
+ 'phone': '612-379-8854',
+ 'previousClose': 273.42,
+ 'priceHint': 2,
+ 'priceToBook': 7.9732523,
+ 'priceToSalesTrailing12Months': 13.681358,
+ 'profitMargins': 0.24771999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 271.86,
+ 'regularMarketDayLow': 267.57,
+ 'regularMarketOpen': 271.78,
+ 'regularMarketPreviousClose': 273.42,
+ 'regularMarketPrice': 271.78,
+ 'regularMarketVolume': 66838,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 38223000,
+ 'sharesPercentSharesOut': 0.0154,
+ 'sharesShort': 589993,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 552941,
+ 'shortName': 'Bio-Techne Corp',
+ 'shortPercentOfFloat': 0.0174,
+ 'shortRatio': 2.47,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'TECH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.28,
+ 'trailingAnnualDividendYield': 0.004681442,
+ 'trailingEps': 4.756,
+ 'trailingPE': 56.785114,
+ 'twoHundredDayAverage': 226.43503,
+ 'volume': 66838,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bio-techne.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '55413'}

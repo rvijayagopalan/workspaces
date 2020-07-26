@@ -1,0 +1,161 @@
+{'52WeekChange': -0.46627563,
+ 'SandP52WeekChange': None,
+ 'address1': '19 South Second Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 10.99,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 18812,
+ 'averageVolume': 31852,
+ 'averageVolume10days': 18812,
+ 'beta': 1.015126,
+ 'beta3Year': None,
+ 'bid': 10.95,
+ 'bidSize': 1000,
+ 'bookValue': 17.016,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Oakland',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.06,
+ 'dayLow': 10.93,
+ 'dividendRate': 0.52,
+ 'dividendYield': 0.0476,
+ 'earningsQuarterlyGrowth': -0.443,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.517,
+ 'enterpriseValue': 149308208,
+ 'exDividendDate': 1594857600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 13.168571,
+ 'fiftyTwoWeekHigh': 24.99,
+ 'fiftyTwoWeekLow': 10.91,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 6630606,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 285,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.10256,
+ 'heldPercentInstitutions': 0.33756,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 826675200,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/mybank.com',
+ 'longBusinessSummary': 'First United Corporation operates as the holding '
+                        'company for First United Bank & Trust that provides '
+                        'various retail and commercial banking services to '
+                        'businesses and individuals. The company offers '
+                        'various deposit products, including checking '
+                        'accounts, savings and money market accounts, regular '
+                        'and individual retirement accounts (IRA) certificates '
+                        'of deposit, Christmas savings accounts, college '
+                        'savings accounts, and health savings accounts; '
+                        'Certificate of Deposit Account Registry Service '
+                        'program and Insured Cash Sweep program to '
+                        'municipalities, businesses, and consumers; and '
+                        'commercial customers packages, which include treasury '
+                        'management, cash sweep, and various checking '
+                        'opportunities. It also provides loans, such as '
+                        'commercial loans secured by real estate, commercial '
+                        'equipment, vehicles, or other assets of the borrower; '
+                        'commercial real estate loans for residential and '
+                        'commercial development, agricultural purpose '
+                        'properties, and service industry buildings; '
+                        'residential mortgage loans; home equity lines of '
+                        'credit; residential real estate construction loans; '
+                        'indirect and direct auto loans; and other secured and '
+                        'unsecured lines of credit and term loans. In '
+                        'addition, the company offers various trust services, '
+                        'including personal trust, investment agency accounts, '
+                        'charitable trusts, retirement accounts that consist '
+                        'of IRA roll-overs, 401(k) accounts and defined '
+                        'benefit plans, estate administration, and estate '
+                        'planning services; insurance products; brokerage '
+                        'services; and safe deposit, and night depository '
+                        'facilities. It operates 25 banking offices, 1 call '
+                        'center, and 26 automated teller machines in Allegany, '
+                        'Frederick, Garrett, and Washington counties in '
+                        'Maryland; and in Mineral, Berkeley, and Monongalia '
+                        'counties in West Virginia. First United Corporation '
+                        'was founded in 1900 and is headquartered in Oakland, '
+                        'Maryland.',
+ 'longName': 'First United Corporation',
+ 'market': 'us_market',
+ 'marketCap': 76357224,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_361890',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 11733000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 11.06,
+ 'openInterest': None,
+ 'payoutRatio': 0.2651,
+ 'pegRatio': None,
+ 'phone': '301-334-9471',
+ 'previousClose': 10.92,
+ 'priceHint': 2,
+ 'priceToBook': 0.64409965,
+ 'priceToSalesTrailing12Months': 1.2872522,
+ 'profitMargins': 0.19780001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.06,
+ 'regularMarketDayLow': 10.93,
+ 'regularMarketOpen': 11.06,
+ 'regularMarketPreviousClose': 10.92,
+ 'regularMarketPrice': 11.06,
+ 'regularMarketVolume': 10116,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 6966900,
+ 'sharesPercentSharesOut': 0.0107,
+ 'sharesShort': 74210,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 16646,
+ 'shortName': 'First',
+ 'shortPercentOfFloat': 0.0112,
+ 'shortRatio': 1.13,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'FUNC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.48,
+ 'trailingAnnualDividendYield': 0.04395604,
+ 'trailingEps': 1.654,
+ 'trailingPE': 6.6263604,
+ 'twoHundredDayAverage': 16.761223,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '1e49c8ad-07b6-3571-bfca-faf18ac9fa5b',
+ 'volume': 10116,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.mybank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '21550'}

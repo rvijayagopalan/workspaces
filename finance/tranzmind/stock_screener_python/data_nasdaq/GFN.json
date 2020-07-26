@@ -1,0 +1,161 @@
+{'52WeekChange': -0.20909089,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '39 East Union Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 6.12,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 44875,
+ 'averageVolume': 57958,
+ 'averageVolume10days': 44875,
+ 'beta': 1.188235,
+ 'beta3Year': None,
+ 'bid': 6.1,
+ 'bidSize': 1200,
+ 'bookValue': 4.537,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Pasadena',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.52,
+ 'dayLow': 5.88,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.66,
+ 'enterpriseToRevenue': 1.794,
+ 'enterpriseValue': 660662016,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '626-795-8090',
+ 'fiftyDayAverage': 6.398857,
+ 'fiftyTwoWeekHigh': 11.24,
+ 'fiftyTwoWeekLow': 4.62,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 11607477,
+ 'forwardEps': 0.27,
+ 'forwardPE': 22.555555,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1019,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.52597,
+ 'heldPercentInstitutions': 0.23787001,
+ 'industry': 'Rental & Leasing Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/generalfinance.com',
+ 'longBusinessSummary': 'General Finance Corporation, a specialty rental '
+                        'services company, provides portable storage, modular '
+                        'space, and liquid containment solutions in North '
+                        "America and the Asia-Pacific regions. The company's "
+                        'portable storage products include storage containers '
+                        'for classroom equipment storage, construction '
+                        'equipment and tool storage, disaster shelters, '
+                        'landscaping sheds, recreational equipment storage, '
+                        'and retail inventory storage applications; and '
+                        'freight containers used in freight transportation. '
+                        'Its modular space products comprise office or '
+                        'portable building containers, ground level offices, '
+                        'and modular buildings and offices for use in general '
+                        'administrative office spaces, military installations, '
+                        'workforce living accommodations, bank branches, '
+                        'classrooms/education, construction offices, day-care '
+                        'facilities, dormitories, general administrative '
+                        'office space, healthcare and rental facilities, '
+                        "retail space, and shelters. The company's liquid "
+                        'containment products consist of portable liquid '
+                        'storage tanks for well-site liquid containment needs, '
+                        'expansion/upgrade projects, highway '
+                        'construction/groundwater sewage, infrastructure '
+                        'projects, major industrial projects, mining pit pump '
+                        'works, municipal sewer and water projects, '
+                        'non-residential construction projects, pipeline '
+                        'construction and maintenance, and refinery '
+                        'turnarounds. It also provides steps, ramps, '
+                        'furniture, portable toilets, security systems, '
+                        'shelving, mud pumps, hoses, splitter valves, tee '
+                        'connectors, and other items used in connection with '
+                        'leased equipment. In addition, the company offers '
+                        'temporary prison holding cells, hoarding units, '
+                        'blast-resistant units, workforce living '
+                        'accommodations, temporary retail frontage units, and '
+                        'observatory units customized from storage containers, '
+                        'as well as shipping container modifications, '
+                        'specialty trailers and tanks, chassis, storm '
+                        'shelters, and trash hoppers. The company was founded '
+                        'in 2005 and is headquartered in Pasadena, California.',
+ 'longName': 'General Finance Corporation',
+ 'market': 'us_market',
+ 'marketCap': 181131824,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_24821932',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 9345000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 6.52,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.44,
+ 'phone': '626-584-9722',
+ 'previousClose': 6.53,
+ 'priceHint': 2,
+ 'priceToBook': 1.3422966,
+ 'priceToSalesTrailing12Months': 0.4919547,
+ 'profitMargins': 0.03532,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.52,
+ 'regularMarketDayLow': 5.88,
+ 'regularMarketOpen': 6.52,
+ 'regularMarketPreviousClose': 6.53,
+ 'regularMarketPrice': 6.52,
+ 'regularMarketVolume': 57181,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 29742500,
+ 'sharesPercentSharesOut': 0.0066000004,
+ 'sharesShort': 196861,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 140240,
+ 'shortName': 'General Finance Corporation',
+ 'shortPercentOfFloat': 0.0186,
+ 'shortRatio': 1.97,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'GFN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.299,
+ 'trailingPE': 20.367893,
+ 'twoHundredDayAverage': 7.2946763,
+ 'volume': 57181,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.generalfinance.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '91103'}

@@ -1,0 +1,154 @@
+{'52WeekChange': 0.08849561,
+ 'SandP52WeekChange': None,
+ 'address1': '5300 Memorial Drive',
+ 'address2': 'Suite 950',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1.19,
+ 'askSize': 3200,
+ 'averageDailyVolume10Day': 18617587,
+ 'averageVolume': 3416907,
+ 'averageVolume10days': 18617587,
+ 'beta': 2.39967,
+ 'beta3Year': None,
+ 'bid': 1.19,
+ 'bidSize': 28000,
+ 'bookValue': 0.287,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Houston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1.23,
+ 'dayLow': 1.18,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -3.4,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 60585764,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 1.0337143,
+ 'fiftyTwoWeekHigh': 1.97,
+ 'fiftyTwoWeekLow': 0.323,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 45930566,
+ 'forwardEps': -0.37,
+ 'forwardPE': -3.2162163,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 11,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.11445,
+ 'heldPercentInstitutions': 0.2038,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/moleculin.com',
+ 'longBusinessSummary': 'Moleculin Biotech, Inc., a clinical-stage '
+                        'pharmaceutical company, focuses on the development of '
+                        'oncology drug candidates. Its lead drug candidate is '
+                        'Annamycin for the treatment of relapsed or refractory '
+                        'acute myeloid leukemia (AML) and lung-localized '
+                        "tumors. The company's flagship immune/transcription "
+                        'modulator is WP1066, a STAT3 inhibitor, which is in '
+                        'Phase I clinical trial for the treatment of brain '
+                        'tumor, as well as to treat pancreatic cancer, AML, '
+                        'and glioblastoma. It also develops WP1220, an analog '
+                        'of WP1066 for the topical treatment of cutaneous '
+                        'T-cell lymphoma in Poland; and WP1732, an analog of '
+                        'WP1066 for the treatment of AML, pancreatic, and '
+                        "other cancers. The company's lead "
+                        'metabolism/glycosylation inhibitor compound is '
+                        'WP1122, a prodrug of 2-deoxyglucose to treat brain '
+                        'tumors and pancreatic cancer. In addition, it '
+                        'develops WP1234 for the treatment of pancreatic '
+                        'cancer. Further, the company engages in the '
+                        'preclinical development of other drug candidates, '
+                        'including other immune/transcription modulators and '
+                        'metabolism/glycosylation inhibitors. It has an '
+                        'agreement with the University of Iowa Pharmaceuticals '
+                        'for the development of a formulation for WP1732; '
+                        'collaboration with Dermin Sp. Zoo for the development '
+                        'of WP1220; collaboration with M.D. Anderson Cancer '
+                        'Center for the development of WP1732 and WP1066; and '
+                        'material transfer agreement with the University of '
+                        'Texas Medical Branch at Galveston, d/b/a UTMB Health. '
+                        'Moleculin Biotech, Inc. was founded in 2015 and is '
+                        'headquartered in Houston, Texas.',
+ 'longName': 'Moleculin Biotech, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 71879808,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_320105606',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -10373000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 1.22,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '713-300-5160',
+ 'previousClose': 1.23,
+ 'priceHint': 4,
+ 'priceToBook': 4.146342,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.23,
+ 'regularMarketDayLow': 1.18,
+ 'regularMarketOpen': 1.22,
+ 'regularMarketPreviousClose': 1.23,
+ 'regularMarketPrice': 1.22,
+ 'regularMarketVolume': 1886977,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 60403200,
+ 'sharesPercentSharesOut': 0.061100002,
+ 'sharesShort': 3692487,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4391846,
+ 'shortName': 'Moleculin Biotech, Inc.',
+ 'shortPercentOfFloat': 0.069,
+ 'shortRatio': 2.4,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'MBRX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.226,
+ 'twoHundredDayAverage': 0.92069787,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '99d8deac-7003-3e25-96dc-75c8e887f9ca',
+ 'volume': 1886977,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.moleculin.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '77007'}

@@ -1,0 +1,157 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '10089 Fairfax Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.58,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 18700,
+ 'averageVolume': 18074,
+ 'averageVolume10days': 18700,
+ 'beta': 0.604234,
+ 'beta3Year': None,
+ 'bid': 13.4,
+ 'bidSize': 800,
+ 'bookValue': 17.311,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Fairfax',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.9566,
+ 'dayLow': 13.3,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.069,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.529,
+ 'enterpriseValue': 67435152,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 13.247143,
+ 'fiftyTwoWeekHigh': 24.6,
+ 'fiftyTwoWeekLow': 12.31,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 7012571,
+ 'forwardEps': 1.85,
+ 'forwardPE': 7.2432427,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 125,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.05388,
+ 'heldPercentInstitutions': 0.51368,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1522972800,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/mstreetbank.com',
+ 'longBusinessSummary': 'MainStreet Bancshares, Inc. operates as the bank '
+                        'holding company for MainStreet Bank that provides '
+                        'various banking products and services for '
+                        'individuals, small to medium-sized businesses, and '
+                        'professional service organizations primarily in '
+                        'Northern Virginia and the greater Washington, the '
+                        'District of Columbia metropolitan area. The company '
+                        'offers demand, NOW, money market, savings, and sweep '
+                        'accounts, as well as certificates of deposit; '
+                        'business and consumer checking, interest-bearing '
+                        'checking, business account analysis, and other '
+                        'depository services; and cash management, wire '
+                        'transfer, check imaging, remote deposit capture, and '
+                        'courier services. It also provides commercial loans, '
+                        'including government contract receivables, plant and '
+                        'equipment, general working capital, contract '
+                        'administration, and acquisition loans; commercial '
+                        'real estate, real estate construction, and '
+                        'residential real estate loans; and consumer loans '
+                        'comprising car loans, term loans, credit cards, and '
+                        'overdraft protection. In addition, the company '
+                        'provides payment service and deposit insurance '
+                        'solutions; remote deposit of checks; and internet '
+                        'account access, internet bill payment, online cash '
+                        'management, and online and mobile banking services. '
+                        'It operates through a network of seven branches '
+                        'located in Herndon, Fairfax, Fairfax City, McLean, '
+                        'Clarendon, and Leesburg, Virginia, and one in branch '
+                        'in Washington, the District of Columbia; and provides '
+                        'automated teller machine transaction services at '
+                        'approximately 55,000 locations in the United States, '
+                        'Canada, the United Kingdom, and Mexico. MainStreet '
+                        'Bancshares, Inc. was founded in 2003 and is '
+                        'headquartered in Fairfax, Virginia.',
+ 'longName': 'MainStreet Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 110687080,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_23732745',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 14173000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.5264,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '703-481-4567',
+ 'previousClose': 13.32,
+ 'priceHint': 2,
+ 'priceToBook': 0.77407426,
+ 'priceToSalesTrailing12Months': 2.5101957,
+ 'profitMargins': 0.32141998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.9566,
+ 'regularMarketDayLow': 13.3,
+ 'regularMarketOpen': 13.5264,
+ 'regularMarketPreviousClose': 13.32,
+ 'regularMarketPrice': 13.5264,
+ 'regularMarketVolume': 4341,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 8260230,
+ 'sharesPercentSharesOut': 0.0108,
+ 'sharesShort': 89209,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 72299,
+ 'shortName': 'MainStreet Bancshares, Inc.',
+ 'shortPercentOfFloat': 0.0127,
+ 'shortRatio': 4.78,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'MNSB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.715,
+ 'trailingPE': 7.8134108,
+ 'twoHundredDayAverage': 16.644316,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '59ac4344-b704-3e6d-86dc-762ef398eee2',
+ 'volume': 4341,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.mstreetbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '22030'}

@@ -1,0 +1,150 @@
+{'52WeekChange': 0.18844986,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '295 Madison Avenue',
+ 'address2': 'Suite 2400',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.2,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 455650,
+ 'averageVolume': 116898,
+ 'averageVolume10days': 455650,
+ 'beta': 2.319855,
+ 'beta3Year': None,
+ 'bid': 3.8,
+ 'bidSize': 1200,
+ 'bookValue': 0.623,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.17,
+ 'dayLow': 3.8,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -3.083,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 64091308,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.0282857,
+ 'fiftyTwoWeekHigh': 5.059,
+ 'fiftyTwoWeekLow': 1.11,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 12419538,
+ 'forwardEps': -0.96,
+ 'forwardPE': -4.072917,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 27,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.433,
+ 'heldPercentInstitutions': 0.05973,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/eyenoviabio.com',
+ 'longBusinessSummary': 'Eyenovia, Inc., a clinical stage ophthalmic '
+                        'biopharmaceutical company, engages in developing a '
+                        'pipeline of microdose therapeutics utilizing its '
+                        'patented piezo-print delivery technology, branded the '
+                        'Optejet. It focuses on achieving clinical microdosing '
+                        'of next-generation formulations of ophthalmic '
+                        'pharmaceutical agents using its ocular delivery '
+                        'system, which has the potential to replace '
+                        'conventional eye dropper delivery and improve safety, '
+                        'tolerability, patient compliance, and topical '
+                        'delivery success for ophthalmic eye treatments. The '
+                        'company, through its proprietary delivery technology, '
+                        'is developing smart ophthalmic therapies while '
+                        'targeting new indications for which there are '
+                        'currently no drug therapies approved by the U.S. Food '
+                        'and Drug Administration. Eyenovia, Inc. focuses on '
+                        'advancing its MicroLine program for the improvement '
+                        'in near vision in patients with presbyopia in Phase '
+                        'III development. Its other product candidates include '
+                        'MicroProst, which is in Phase III clinical trials for '
+                        'the treatment of chronic angle closure glaucoma, open '
+                        'angle glaucoma, and ocular hypertension; MicroStat, '
+                        'which has completed Phase III clinical trials for the '
+                        'treatment of mydriasis; MicroTears for the treatment '
+                        'of red eye and itch relief lubrication; and MicroPine '
+                        'for the treatment of progressive myopia. The company '
+                        'was formerly known as PGP Holdings V, Inc. and '
+                        'changed its name to Eyenovia, Inc. in May 2014. '
+                        'Eyenovia, Inc. was founded in 2014 and is based in '
+                        'New York, New York.',
+ 'longName': 'Eyenovia, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 77324160,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_291491698',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -20675284,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 4.08,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '917-289-1117',
+ 'previousClose': 4.24,
+ 'priceHint': 4,
+ 'priceToBook': 6.2760835,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.17,
+ 'regularMarketDayLow': 3.8,
+ 'regularMarketOpen': 4.08,
+ 'regularMarketPreviousClose': 4.24,
+ 'regularMarketPrice': 4.08,
+ 'regularMarketVolume': 349249,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 19776000,
+ 'sharesPercentSharesOut': 0.0052,
+ 'sharesShort': 103080,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 166388,
+ 'shortName': 'Eyenovia, Inc.',
+ 'shortPercentOfFloat': 0.008,
+ 'shortRatio': 1.14,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'EYEN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.317,
+ 'twoHundredDayAverage': 3.3751512,
+ 'volume': 349249,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.eyenoviabio.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10017'}

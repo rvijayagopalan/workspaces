@@ -1,0 +1,158 @@
+{'52WeekChange': 1.5989847,
+ 'SandP52WeekChange': None,
+ 'address1': '2701 Kent Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 5.01,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 56237,
+ 'averageVolume': 22676,
+ 'averageVolume10days': 56237,
+ 'beta': 1.460504,
+ 'beta3Year': None,
+ 'bid': 4.99,
+ 'bidSize': 1100,
+ 'bookValue': 0.91,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'West Lafayette',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 5.23,
+ 'dayLow': 4.9157,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 40.38,
+ 'enterpriseToRevenue': 1.611,
+ 'enterpriseValue': 87907048,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '765 497 1102',
+ 'fiftyDayAverage': 5.049714,
+ 'fiftyTwoWeekHigh': 6.5,
+ 'fiftyTwoWeekLow': 1.97,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 7105348,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 311,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.34699002,
+ 'heldPercentInstitutions': 0.09398,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/basinc.com',
+ 'longBusinessSummary': 'Bioanalytical Systems, Inc., doing business as '
+                        'Inotiv, a pharmaceutical development company, '
+                        'provides drug discovery and development services, and '
+                        'analytical instruments for pharmaceutical, '
+                        'biotechnology, academic, and government organizations '
+                        'in the United States, rest of North America, the '
+                        'Pacific Rim, Europe, and internationally. It operates '
+                        'through two segments, Contract Research Services and '
+                        'Research Products. The Contract Research Services '
+                        'segment offers screening and pharmacological testing, '
+                        'nonclinical safety testing, formulation development, '
+                        'regulatory compliance, and quality control testing '
+                        'services. This segment also provides in vivo sampling '
+                        'services for the continuous monitoring of chemical '
+                        'changes in life; non-clinical toxicology and '
+                        'pathology services; analytical method development and '
+                        'validation; drug metabolism, bioanalysis, and '
+                        'pharmacokinetics testing to measure drug and '
+                        'metabolite concentrations in complex biological '
+                        'matrices; stability testing to ensure the integrity '
+                        'of various solutions used in nonclinical and clinical '
+                        'studies, and post-study analyses; and '
+                        'climate-controlled archiving services for its '
+                        "customers' data and samples. The Research Products "
+                        'segment offers analytical products comprising liquid '
+                        'chromatographic and electrochemical instruments with '
+                        'associated accessories; in vivo sampling products '
+                        'consisting of Culex family of automated in vivo '
+                        "sampling and dosing instruments; and Vetronics' "
+                        'products, such as instruments and related software to '
+                        'monitor and diagnose cardiac function, and measure '
+                        'other vital physiological parameters in cats and dogs '
+                        'in veterinary clinics. Bioanalytical Systems, Inc. '
+                        'was founded in 1974 and is headquartered in West '
+                        'Lafayette, Indiana.',
+ 'longName': 'Bioanalytical Systems, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 54430144,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_25587',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -2150000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 5.15,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '765 463 4527',
+ 'previousClose': 5.12,
+ 'priceHint': 2,
+ 'priceToBook': 5.5054946,
+ 'priceToSalesTrailing12Months': 0.9973092,
+ 'profitMargins': -0.039389998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 5.23,
+ 'regularMarketDayLow': 4.9157,
+ 'regularMarketOpen': 5.15,
+ 'regularMarketPreviousClose': 5.12,
+ 'regularMarketPrice': 5.15,
+ 'regularMarketVolume': 17262,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 10864300,
+ 'sharesPercentSharesOut': 0.002,
+ 'sharesShort': 21312,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 13174,
+ 'shortName': 'Bioanalytical Systems, Inc.',
+ 'shortPercentOfFloat': 0.0025,
+ 'shortRatio': 1.29,
+ 'startDate': None,
+ 'state': 'IN',
+ 'strikePrice': None,
+ 'symbol': 'BASI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.212,
+ 'twoHundredDayAverage': 4.680072,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '7f6f1a23-500c-3ab6-a899-ac11996e6f02',
+ 'volume': 17262,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.basinc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '47906'}

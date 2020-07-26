@@ -1,0 +1,153 @@
+{'52WeekChange': 0.16050947,
+ 'SandP52WeekChange': None,
+ 'address1': '12367 Crosthwaite Circle',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 18.09,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 204737,
+ 'averageVolume': 255300,
+ 'averageVolume10days': 204737,
+ 'beta': 1.883473,
+ 'beta3Year': None,
+ 'bid': 18.06,
+ 'bidSize': 900,
+ 'bookValue': 11.152,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Poway',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 18.18,
+ 'dayLow': 17.62,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 31.59,
+ 'enterpriseToRevenue': 1.689,
+ 'enterpriseValue': 970444096,
+ 'exDividendDate': 1582502400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 16.902,
+ 'fiftyTwoWeekHigh': 26.43,
+ 'fiftyTwoWeekLow': 8.89,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.55,
+ 'floatShares': 40683629,
+ 'forwardEps': 1.16,
+ 'forwardPE': 15.560345,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.029719999,
+ 'heldPercentInstitutions': 0.97998,
+ 'industry': 'Semiconductor Equipment & Materials',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 938390400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cohu.com',
+ 'longBusinessSummary': 'Cohu, Inc., through its subsidiaries, provides '
+                        'semiconductor test and inspection handlers, '
+                        'micro-electro mechanical system (MEMS) test modules, '
+                        'test contactors, thermal sub-systems, semiconductor '
+                        'automated test equipment (ATE), and bare board '
+                        'printed circuit board (PCB) test systems for '
+                        'semiconductor and electronics manufacturers, and test '
+                        'subcontractors in Germany, the United States, Japan, '
+                        'Malaysia, the Philippines, and internationally. It '
+                        'operates through two segments, Semiconductor Test and '
+                        'Inspection Equipment; and PCB Test Equipment. The '
+                        'company provides semiconductor ATE for wafer level '
+                        'and device package testing; various test handlers, '
+                        'including pick-and-place, turret, gravity, strip, and '
+                        'MEMS for testing and thermal sub-systems that include '
+                        'temperature control of the integrated circuit during '
+                        'the testing process. It also offers bare board PCB '
+                        'test systems to test pre-assembly PCBs; flying probe '
+                        'and grid testers; interface products comprising test '
+                        'contactors and probe pins; spares and kits; and a '
+                        'range of device dedication kits that enable handlers '
+                        'to process various semiconductor packages. In '
+                        'addition, the company provides various parts and '
+                        'labor warranties on test and handling systems, and '
+                        'instruments; and training on the maintenance and '
+                        'operation of its systems. It markets its products '
+                        'through direct sales force and independent sales '
+                        'representatives. The company was formerly known as '
+                        'Cohu Electronics, Inc. and changed its name to Cohu, '
+                        'Inc. in 1972. Cohu, Inc. was incorporated in 1947 and '
+                        'is headquartered in Poway, California.',
+ 'longName': 'Cohu, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 752744512,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_262125',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': -63514000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 18,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 0.57,
+ 'phone': '858 848 8100',
+ 'previousClose': 18.22,
+ 'priceHint': 2,
+ 'priceToBook': 1.6185436,
+ 'priceToSalesTrailing12Months': 1.3103948,
+ 'profitMargins': -0.111990005,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.18,
+ 'regularMarketDayLow': 17.62,
+ 'regularMarketOpen': 18,
+ 'regularMarketPreviousClose': 18.22,
+ 'regularMarketPrice': 18,
+ 'regularMarketVolume': 527547,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 41703300,
+ 'sharesPercentSharesOut': 0.0214,
+ 'sharesShort': 891359,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 771915,
+ 'shortName': 'Cohu, Inc.',
+ 'shortPercentOfFloat': 0.025899999,
+ 'shortRatio': 3.57,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'COHU',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.24,
+ 'trailingAnnualDividendYield': 0.013172339,
+ 'trailingEps': -1.561,
+ 'twoHundredDayAverage': 17.672806,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '547ac6ff-ec8a-3469-a486-3deba15cd283',
+ 'volume': 527547,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cohu.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92064-6817'}

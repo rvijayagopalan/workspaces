@@ -1,0 +1,154 @@
+{'52WeekChange': -0.110539734,
+ 'SandP52WeekChange': None,
+ 'address1': '4300 Six Forks Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 417.56,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 48150,
+ 'averageVolume': 44474,
+ 'averageVolume10days': 48150,
+ 'beta': 1.382072,
+ 'beta3Year': None,
+ 'bid': 415.92,
+ 'bidSize': 800,
+ 'bookValue': 384.969,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Raleigh',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 417.19,
+ 'dayLow': 409.7701,
+ 'dividendRate': 1.6,
+ 'dividendYield': 0.0039,
+ 'earningsQuarterlyGrowth': -0.487,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.483,
+ 'enterpriseValue': 5784352768,
+ 'exDividendDate': 1591920000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 401.39227,
+ 'fiftyTwoWeekHigh': 542.12,
+ 'fiftyTwoWeekLow': 276.08,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.37,
+ 'floatShares': 5952241,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6821,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.29718,
+ 'heldPercentInstitutions': 0.52848,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/firstcitizens.com',
+ 'longBusinessSummary': 'First Citizens BancShares, Inc. operates as the '
+                        'holding company for First-Citizens Bank & Trust '
+                        'Company that provides retail and commercial banking '
+                        'services to individuals, businesses, and '
+                        'professionals. Its deposit products include checking, '
+                        'savings, money market and time deposit accounts. The '
+                        "company's loan products portfolio comprises "
+                        'commercial construction and land development, '
+                        'commercial mortgage, commercial and industrial, lease '
+                        'financing, and other commercial real estate loans; '
+                        'and noncommercial construction and land development, '
+                        'residential mortgage, revolving mortgage, and '
+                        'consumer loans. It also offers treasury services '
+                        'products, cardholder and merchant services, wealth '
+                        'management services, and various other products and '
+                        'services; investment services, including annuities, '
+                        'discount brokerage services, and third-party mutual '
+                        'funds, as well as investment management and advisory '
+                        'services; and defined benefit and defined '
+                        'contribution, private banking, trust, fiduciary, '
+                        'philanthropy, and special asset services. The company '
+                        'offers its products and services through its branch '
+                        'network, as well as through digital banking, '
+                        'telephone banking, and various ATM networks. As of '
+                        'December 31, 2018, it operated 551 branches in '
+                        'Arizona, California, Colorado, Florida, Georgia, '
+                        'Kansas, Maryland, Minnesota, Missouri, New Mexico, '
+                        'North Carolina, Oklahoma, Oregon, South Carolina, '
+                        'Tennessee, Texas, Virginia, Washington, West '
+                        'Virginia, and Wisconsin. The company was founded in '
+                        '1898 and is headquartered in Raleigh, North Carolina.',
+ 'longName': 'First Citizens BancShares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4129423104,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_343779',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 403180992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 409.77,
+ 'openInterest': None,
+ 'payoutRatio': 0.0434,
+ 'pegRatio': None,
+ 'phone': '919-716-7000',
+ 'previousClose': 415.12,
+ 'priceHint': 2,
+ 'priceToBook': 1.0782427,
+ 'priceToSalesTrailing12Months': 2.4865828,
+ 'profitMargins': 0.24278,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 417.19,
+ 'regularMarketDayLow': 409.7701,
+ 'regularMarketOpen': 409.77,
+ 'regularMarketPreviousClose': 415.12,
+ 'regularMarketPrice': 409.77,
+ 'regularMarketVolume': 23726,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 9163220,
+ 'sharesPercentSharesOut': 0.0108,
+ 'sharesShort': 110316,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 114025,
+ 'shortName': 'First Citizens BancShares, Inc.',
+ 'shortPercentOfFloat': 0.0233,
+ 'shortRatio': 2.22,
+ 'startDate': None,
+ 'state': 'NC',
+ 'strikePrice': None,
+ 'symbol': 'FCNCA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.6,
+ 'trailingAnnualDividendYield': 0.0038543073,
+ 'trailingEps': 37.058,
+ 'trailingPE': 11.201091,
+ 'twoHundredDayAverage': 409.59836,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '20b2c694-998f-3949-8574-b3c92bcdf497',
+ 'volume': 23726,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.firstcitizens.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '27609'}

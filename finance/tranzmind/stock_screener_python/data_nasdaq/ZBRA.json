@@ -1,0 +1,154 @@
+{'52WeekChange': 0.45378327,
+ 'SandP52WeekChange': None,
+ 'address1': '3 Overlook Point',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 300,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 281825,
+ 'averageVolume': 360744,
+ 'averageVolume10days': 281825,
+ 'beta': 1.661624,
+ 'beta3Year': None,
+ 'bid': 269.89,
+ 'bidSize': 800,
+ 'bookValue': 32.545,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lincolnshire',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 273.27,
+ 'dayLow': 267.41,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.226,
+ 'enterpriseToEbitda': 18.398,
+ 'enterpriseToRevenue': 3.613,
+ 'enterpriseValue': 16153875456,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '847 913 8766',
+ 'fiftyDayAverage': 262.8643,
+ 'fiftyTwoWeekHigh': 279.99,
+ 'fiftyTwoWeekLow': 150.06,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 52570736,
+ 'forwardEps': 13.63,
+ 'forwardPE': 19.807777,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 8200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0112,
+ 'heldPercentInstitutions': 0.9318,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1093478400,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/zebra.com',
+ 'longBusinessSummary': 'Zebra Technologies Corporation, together with its '
+                        'subsidiaries, provides enterprise asset intelligence '
+                        'solutions in the automatic identification and data '
+                        'capture solutions industry worldwide. The company '
+                        'operates in two segments, Asset Intelligence & '
+                        'Tracking and Enterprise Visibility & Mobility. It '
+                        'designs, manufactures, and sells a range of products '
+                        'that capture and move data, including mobile '
+                        'computers, barcode scanners and imagers, radio '
+                        'frequency identification device readers, specialty '
+                        'printers for barcode labeling and personal '
+                        'identification, and real-time location systems; '
+                        'related accessories and supplies, such as '
+                        'self-adhesive labels, receipts, ribbons, plastic '
+                        'cards, and wristbands; and software utilities and '
+                        'applications. The company also designs, integrates, '
+                        'markets, and sells rugged tablets. In addition, it '
+                        'offers a range of services, including maintenance, '
+                        'technical support, and repair, as well as managed and '
+                        'professional services, including cloud-based '
+                        'subscriptions. The company serves retail and '
+                        'e-commerce, transportation and logistics, '
+                        'manufacturing, healthcare, hospitality, warehouse and '
+                        'distribution, energy and utilities, government, and '
+                        'education enterprises. It sells its products, '
+                        'solutions, and services through distributors, value '
+                        'added resellers, independent software vendors, direct '
+                        'marketers, and original equipment manufacturers. '
+                        'Zebra Technologies Corporation was founded in 1969 '
+                        'and is headquartered in Lincolnshire, Illinois.',
+ 'longName': 'Zebra Technologies Corporation',
+ 'market': 'us_market',
+ 'marketCap': 14333670400,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_393488',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 518000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 272,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.53,
+ 'phone': '847 634 6700',
+ 'previousClose': 275.71,
+ 'priceHint': 2,
+ 'priceToBook': 8.295591,
+ 'priceToSalesTrailing12Months': 3.2059205,
+ 'profitMargins': 0.11586001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 273.27,
+ 'regularMarketDayLow': 267.41,
+ 'regularMarketOpen': 272,
+ 'regularMarketPreviousClose': 275.71,
+ 'regularMarketPrice': 272,
+ 'regularMarketVolume': 418689,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 53091600,
+ 'sharesPercentSharesOut': 0.014400001,
+ 'sharesShort': 763277,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 887562,
+ 'shortName': 'Zebra Technologies Corporation',
+ 'shortPercentOfFloat': 0.0166,
+ 'shortRatio': 2.17,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'ZBRA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 9.503,
+ 'trailingPE': 28.409977,
+ 'twoHundredDayAverage': 233.30101,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '53165cfc-fc73-3828-9c77-43899ee16f76',
+ 'volume': 418689,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.zebra.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60069'}

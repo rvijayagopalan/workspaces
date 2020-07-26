@@ -1,0 +1,155 @@
+{'52WeekChange': -0.26634985,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '111 West Lemon Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 32.41,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 288300,
+ 'averageVolume': 540011,
+ 'averageVolume10days': 288300,
+ 'beta': 1.053221,
+ 'beta3Year': None,
+ 'bid': 32.41,
+ 'bidSize': 800,
+ 'bookValue': 10.403,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Monrovia',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 33.81,
+ 'dayLow': 32.28,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -18.805,
+ 'enterpriseToRevenue': 16.649,
+ 'enterpriseValue': 1284370176,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 32.006714,
+ 'fiftyTwoWeekHigh': 46.33,
+ 'fiftyTwoWeekLow': 19.35,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 51883476,
+ 'forwardEps': -1.53,
+ 'forwardPE': -21.18954,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 166,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0979,
+ 'heldPercentInstitutions': 0.94617,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/xencor.com',
+ 'longBusinessSummary': 'Xencor, Inc., a clinical stage biopharmaceutical '
+                        'company, focuses on the discovery and development of '
+                        'engineered monoclonal antibody and other protein '
+                        'therapeutics to treat severe and life threatening '
+                        'diseases with unmet medical needs. It develops its '
+                        'antibody product candidates to treat cancer and '
+                        "autoimmune diseases. The company's product candidates "
+                        'include XmAb5871, an immune inhibitor, which has been '
+                        'completed Phase II clinical trial for the treatment '
+                        'of autoimmune diseases; AIMab7195, which is in '
+                        'development and commercialization stage. Its product '
+                        'candidates also comprise XmAb14045, a bispecific '
+                        'antibody which is in Phase I clinical trial for the '
+                        'treatment of acute myeloid leukemia; plamotamab '
+                        '(XmAb13676) that is in Phase I clinical trial to '
+                        'treat B-cell malignancies; and XmAb18087, which is in '
+                        'Phase I clinical trial for neuroendocrine tumors and '
+                        'gastrointestinal stromal tumors. In addition, the '
+                        'company offers Tafasitamab, an antibody drug '
+                        'candidate for the treatment of patients with '
+                        'relapsed/refractory diffuse; AMG424, a bispecific '
+                        'antibody that targets CD38 and CD3, which is in Phase '
+                        'I clinical trial for the treatment of various '
+                        'myeloma; and AMG509, a bispecific antibody that is in '
+                        'preclinical development stage to treat prostate '
+                        'cancer. Further, it is developing bispecific '
+                        'antibodies to treat various cancers, such as '
+                        'XmAb20717, XmAb22841, and XmAb23104 which are in '
+                        'preclinical Phase. Additionally, it offers XmAb24306, '
+                        'initial cytokine candidate which is in Phase I '
+                        'clinical trial. The company has collaboration and '
+                        'license agreement with Novartis Institutes for '
+                        'BioMedical Research, Inc.; MorphoSys Ag; Amgen Inc.; '
+                        'and Catalent Pharma Solutions LLC. Xencor, Inc. was '
+                        'founded in 1997 and is headquartered in Monrovia, '
+                        'California.',
+ 'longName': 'Xencor, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1848095488,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_744102',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -61244000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 33.81,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '626 305 5900',
+ 'previousClose': 33.84,
+ 'priceHint': 2,
+ 'priceToBook': 3.1164086,
+ 'priceToSalesTrailing12Months': 23.955818,
+ 'profitMargins': -0.79387003,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 33.81,
+ 'regularMarketDayLow': 32.28,
+ 'regularMarketOpen': 33.81,
+ 'regularMarketPreviousClose': 33.84,
+ 'regularMarketPrice': 33.81,
+ 'regularMarketVolume': 201611,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 57004800,
+ 'sharesPercentSharesOut': 0.0673,
+ 'sharesShort': 3838306,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3057730,
+ 'shortName': 'Xencor, Inc.',
+ 'shortPercentOfFloat': 0.1436,
+ 'shortRatio': 4.87,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'XNCR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.08,
+ 'twoHundredDayAverage': 31.943094,
+ 'volume': 201611,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.xencor.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '91016'}

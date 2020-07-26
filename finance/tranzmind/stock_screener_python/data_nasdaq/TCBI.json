@@ -1,0 +1,153 @@
+{'52WeekChange': -0.49155575,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2000 McKinney Avenue',
+ 'address2': 'Suite 700',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 31.33,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 556412,
+ 'averageVolume': 948069,
+ 'averageVolume10days': 556412,
+ 'beta': 2.20224,
+ 'beta3Year': None,
+ 'bid': 28.96,
+ 'bidSize': 800,
+ 'bookValue': 51.249,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Dallas',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 31.52,
+ 'dayLow': 30.64,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': -5.718,
+ 'enterpriseValue': -4689225216,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 30.620285,
+ 'fiftyTwoWeekHigh': 64.88,
+ 'fiftyTwoWeekLow': 19.1,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 49910132,
+ 'forwardEps': 2.75,
+ 'forwardPE': 11.385454,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1738,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00537,
+ 'heldPercentInstitutions': 0.95374,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/texascapitalbank.com',
+ 'longBusinessSummary': 'Texas Capital Bancshares, Inc. operates as the bank '
+                        'holding company for Texas Capital Bank, National '
+                        'Association that provides various banking products '
+                        'and services for commercial businesses, and '
+                        'professionals and entrepreneurs. It offers business '
+                        'deposit products and services, including commercial '
+                        'checking accounts, lockbox accounts, and cash '
+                        'concentration accounts, as well as other treasury '
+                        'management services, including information services, '
+                        'wire transfer initiation, ACH initiation, account '
+                        'transfer, and service integration; and consumer '
+                        'deposit products, such as checking accounts, savings '
+                        'accounts, money market accounts, and certificates of '
+                        'deposit. The company also provides commercial loans '
+                        'for general corporate purposes comprising financing '
+                        'for working capital, internal growth, and '
+                        'acquisitions, as well as financing for business '
+                        'insurance premiums; real estate term and construction '
+                        'loans; mortgage warehouse lending; mortgage '
+                        'correspondent aggregation; equipment finance and '
+                        'leasing; treasury management services, including '
+                        'online banking and debit and credit card services; '
+                        'escrow services; and letters of credit. In addition, '
+                        'it offers personal wealth management and trust '
+                        'services; secured and unsecured loans; and online and '
+                        'mobile banking services. Further, the company '
+                        'provides American Airlines AAdvantage, an all-digital '
+                        'branch offering depositors. It operates in Austin, '
+                        'Dallas, Fort Worth, Houston, and San Antonio '
+                        'metropolitan areas of Texas. Texas Capital '
+                        'Bancshares, Inc. was founded in 1996 and is '
+                        'headquartered in Dallas, Texas.',
+ 'longName': 'Texas Capital Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1579141760,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_155031',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 102600000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 30.64,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 4.93,
+ 'phone': '214-932-6600',
+ 'previousClose': 30.76,
+ 'priceHint': 2,
+ 'priceToBook': 0.6109387,
+ 'priceToSalesTrailing12Months': 1.9254445,
+ 'profitMargins': 0.13699001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 31.52,
+ 'regularMarketDayLow': 30.64,
+ 'regularMarketOpen': 30.64,
+ 'regularMarketPreviousClose': 30.76,
+ 'regularMarketPrice': 30.64,
+ 'regularMarketVolume': 514746,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 50435700,
+ 'sharesPercentSharesOut': 0.052699998,
+ 'sharesShort': 2658542,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2729554,
+ 'shortName': 'Texas Capital Bancshares, Inc.',
+ 'shortPercentOfFloat': 0.053000003,
+ 'shortRatio': 2.22,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'TCBI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.035,
+ 'trailingPE': 15.385749,
+ 'twoHundredDayAverage': 35.625828,
+ 'volume': 514746,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.texascapitalbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75201'}

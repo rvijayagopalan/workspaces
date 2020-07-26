@@ -1,0 +1,156 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '20 Eastbourne Terrace',
+ 'address2': 'Paddington',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 57.42,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 659250,
+ 'averageVolume': 670279,
+ 'averageVolume10days': 659250,
+ 'beta': 0.839215,
+ 'beta3Year': None,
+ 'bid': 57.35,
+ 'bidSize': 900,
+ 'bookValue': 28.669,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'London',
+ 'companyOfficers': [],
+ 'country': 'United Kingdom',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 57.87,
+ 'dayLow': 56.58,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 35.729,
+ 'enterpriseToRevenue': 3.046,
+ 'enterpriseValue': 3276421376,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 51.658573,
+ 'fiftyTwoWeekHigh': 87.45,
+ 'fiftyTwoWeekLow': 33.4,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 48338557,
+ 'forwardEps': 2.51,
+ 'forwardPE': 22.828686,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00503,
+ 'heldPercentInstitutions': 0.98819,
+ 'industry': 'Medical Devices',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/livanova.com',
+ 'longBusinessSummary': 'LivaNova PLC, a medical device company, designs, '
+                        'develops, manufactures, and sells therapeutic '
+                        'solutions worldwide. It operates in two segments, '
+                        'Cardiovascular (CVÂ\x94) and Neuromodulation (NM). '
+                        'The CV segment develops, produces, and sells '
+                        'cardiopulmonary products, including heart-lung '
+                        'machines, oxygenators, perfusion tubing sets, '
+                        'cannulae, and accessories, as well as related '
+                        'equipment and disposables for autotransfusion and '
+                        'autologous blood washing for neonatal, pediatric, and '
+                        'adult patients. It also provides surgical tissue and '
+                        'mechanical valve replacements, and repair products '
+                        'for damaged or diseased heart valves, such as '
+                        'self-anchoring tissue heart, tissue heart, and '
+                        'mechanical heart valves, as well as heart valve '
+                        'repair products; and temporary extracorporeal '
+                        'cardiopulmonary life support solutions for critically '
+                        'ill patients. The NM segment designs, develops, and '
+                        'markets VNS Therapy System, an implantable device '
+                        'that delivers vagus nerve stimulation (VNS) therapy '
+                        'for the treatment of drug-resistant epilepsy, '
+                        'treatment-resistant depression, and obstructive sleep '
+                        'apnea. It is also involved in the development and '
+                        'clinical testing of the VITARIA System for treating '
+                        'heart failure through VNS. The company serves '
+                        'perfusionists, neurologists, neurosurgeons, and other '
+                        'physicians, as well as hospitals, other medical '
+                        'institutions, and healthcare providers. It sells its '
+                        'products through direct sales representatives and '
+                        'independent distributors. LivaNova PLC has a research '
+                        'collaboration with Verily to gain insights into Vagus '
+                        'nerve stimulation impact on difficult-to-treat '
+                        'depression. The company was founded in 1987 and is '
+                        'headquartered in London, the United Kingdom.',
+ 'longName': 'LivaNova PLC',
+ 'market': 'us_market',
+ 'marketCap': 2783903232,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_27283',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -102114000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 57.71,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 4.3,
+ 'phone': '44 20 3325 0660',
+ 'previousClose': 57.81,
+ 'priceHint': 2,
+ 'priceToBook': 1.9986745,
+ 'priceToSalesTrailing12Months': 2.5878334,
+ 'profitMargins': -0.09551,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 57.87,
+ 'regularMarketDayLow': 56.58,
+ 'regularMarketOpen': 57.71,
+ 'regularMarketPreviousClose': 57.81,
+ 'regularMarketPrice': 57.71,
+ 'regularMarketVolume': 592725,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 48584700,
+ 'sharesPercentSharesOut': 0.0651,
+ 'sharesShort': 3164988,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1584809,
+ 'shortName': 'LivaNova PLC',
+ 'shortPercentOfFloat': 0.0746,
+ 'shortRatio': 3.69,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'LIVN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.124,
+ 'twoHundredDayAverage': 56.585754,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '061a8c8c-b203-3fe1-ac5c-dcaa64a141fe',
+ 'volume': 592725,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.livanova.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'W2 6LG'}

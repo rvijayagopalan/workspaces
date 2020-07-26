@@ -1,0 +1,157 @@
+{'52WeekChange': 0.41879547,
+ 'SandP52WeekChange': None,
+ 'address1': '7555 Innovation Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 44.58,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 248687,
+ 'averageVolume': 485379,
+ 'averageVolume10days': 248687,
+ 'beta': 0.814565,
+ 'beta3Year': None,
+ 'bid': 44.53,
+ 'bidSize': 800,
+ 'bookValue': 5.673,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Mason',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 45.02,
+ 'dayLow': 43.805,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -58.856,
+ 'enterpriseToRevenue': 7.799,
+ 'enterpriseValue': 1794336384,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 45.518,
+ 'fiftyTwoWeekHigh': 51.76,
+ 'fiftyTwoWeekLow': 22.57,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 38874346,
+ 'forwardEps': -0.95,
+ 'forwardPE': -46.936844,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 730,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.03214,
+ 'heldPercentInstitutions': 0.91966003,
+ 'industry': 'Medical Instruments & Supplies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/atricure.com',
+ 'longBusinessSummary': 'AtriCure, Inc. develops, manufactures, and sells '
+                        'devices for the surgical ablation of cardiac tissue '
+                        'and systems to medical centers in the United States '
+                        'and internationally. The company offers Isolator '
+                        'Synergy clamps for the treatment of persistent and '
+                        'long-standing persistent atrial fibrillation '
+                        'concomitant to other open-heart surgical procedures; '
+                        'EPi-Sense guided coagulation system used for the '
+                        'coagulation of tissue; and COBRA Fusion surgical '
+                        'ablation system to combine bipolar '
+                        'temperature-controlled radio frequency energy control '
+                        'with monopolar energy. It also provides '
+                        'multifunctional pens that allow surgeons to evaluate '
+                        'cardiac arrhythmias, perform temporary cardiac '
+                        'pacing, sensing, and stimulation and ablate cardiac '
+                        'tissue with the same device; and linear ablation '
+                        'devices, which enable users to make longer linear '
+                        'lines of ablation. In addition, the company offers '
+                        'AtriClip system used to exclude the left atrial '
+                        'appendage by mechanically clamping the appendage; '
+                        'LARIAT system used to occlude the left atrial '
+                        'appendage by mechanically clamping the appendage; and '
+                        'cryoICE cryoablation system to apply cryo-energy to '
+                        'targeted intercostal peripheral nerves in the ribcage '
+                        'and temporarily relieve pain. Further, it provides '
+                        'Lumitip dissector to separate tissues to provide '
+                        'access to key anatomical structures that are targeted '
+                        'for ablation; Fusion Magnetic Retriever System that '
+                        'allows access around anatomical structures; and '
+                        'cardiac surgery instruments, which are used during '
+                        'surgical procedures for repair or replacement of '
+                        'certain heart valves. The company sells its products '
+                        'through independent distributors and direct sales '
+                        'personnel. AtriCure, Inc. was founded in 2000 and is '
+                        'headquartered in Mason, Ohio.',
+ 'longName': 'AtriCure, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1786832768,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_901985',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -45967000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 44.84,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -1.33,
+ 'phone': '513 755 4100',
+ 'previousClose': 44.99,
+ 'priceHint': 2,
+ 'priceToBook': 7.860039,
+ 'priceToSalesTrailing12Months': 7.7666097,
+ 'profitMargins': -0.1998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 45.02,
+ 'regularMarketDayLow': 43.805,
+ 'regularMarketOpen': 44.84,
+ 'regularMarketPreviousClose': 44.99,
+ 'regularMarketPrice': 44.84,
+ 'regularMarketVolume': 218552,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 40072500,
+ 'sharesPercentSharesOut': 0.0326,
+ 'sharesShort': 1307506,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 977891,
+ 'shortName': 'AtriCure, Inc.',
+ 'shortPercentOfFloat': 0.04,
+ 'shortRatio': 3.46,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'ATRC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.209,
+ 'twoHundredDayAverage': 40.558056,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '03c18d5f-d166-3e68-a33f-118b1b088dc1',
+ 'volume': 218552,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.atricure.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '45040'}

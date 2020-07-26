@@ -1,0 +1,148 @@
+{'52WeekChange': -0.36542922,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1600 Royal Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.94,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 214150,
+ 'averageVolume': 187577,
+ 'averageVolume10days': 214150,
+ 'beta': 1.035294,
+ 'beta3Year': None,
+ 'bid': 10.96,
+ 'bidSize': 1100,
+ 'bookValue': 6.471,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Jasper',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.3,
+ 'dayLow': 10.905,
+ 'dividendRate': 0.36,
+ 'dividendYield': 0.032,
+ 'earningsQuarterlyGrowth': 0.188,
+ 'enterpriseToEbitda': 4.19,
+ 'enterpriseToRevenue': 0.451,
+ 'enterpriseValue': 345889952,
+ 'exDividendDate': 1592956800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 11.362572,
+ 'fiftyTwoWeekHigh': 22.4,
+ 'fiftyTwoWeekLow': 8.19,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.8,
+ 'floatShares': 32708709,
+ 'forwardEps': 0.54,
+ 'forwardPE': 20.259258,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03244,
+ 'heldPercentInstitutions': 0.68878996,
+ 'industry': 'Furnishings, Fixtures & Appliances',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1414972800,
+ 'lastSplitFactor': '1281:1000',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/kimballinternational.com',
+ 'longBusinessSummary': 'Kimball International, Inc. designs, manufactures, '
+                        'and sells furniture products under the Kimball, '
+                        'National, and Kimball Hospitality brands in the '
+                        'United States and internationally. The company offers '
+                        'office furniture, including desks, tables, seating, '
+                        'bookcases, and filing and storage units for federal, '
+                        'state, and local government offices, as well as other '
+                        'government related entities; and furniture solutions, '
+                        'such as headboards, tables, seating, vanities, '
+                        'casegoods, lighting, and other products for hotel '
+                        'properties, and commercial and residential mixed use '
+                        'developments. Its furniture solutions are used in '
+                        'collaborative and open work space areas, conference '
+                        'and meeting/huddle rooms, training rooms, private '
+                        'offices, learning areas, classrooms, lobby/reception '
+                        'areas, and dining/café areas with a mix of wood, '
+                        'metal, laminate, paint, fabric, solid surface, and '
+                        'plastic options. In addition, the company offers '
+                        'patient/exam room and lounge seating, and casegoods '
+                        'for the healthcare market. It markets and sells its '
+                        'products through sales representatives, office '
+                        'furniture dealers, wholesalers, brokers, designers, '
+                        'purchasing companies, and catalog houses to end '
+                        'users. The company was formerly known as The Jasper '
+                        'Corporation and changed its name to Kimball '
+                        'International, Inc. in July 1974. Kimball '
+                        'International, Inc. was incorporated in 1939 and is '
+                        'headquartered in Jasper, Indiana.',
+ 'longName': 'Kimball International, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 400861280,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_283129',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 42983000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 11.23,
+ 'openInterest': None,
+ 'payoutRatio': 0.3017,
+ 'pegRatio': 0.6,
+ 'phone': '812-482-1600',
+ 'previousClose': 11.24,
+ 'priceHint': 2,
+ 'priceToBook': 1.6906196,
+ 'priceToSalesTrailing12Months': 0.5223901,
+ 'profitMargins': 0.056009997,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.3,
+ 'regularMarketDayLow': 10.905,
+ 'regularMarketOpen': 11.23,
+ 'regularMarketPreviousClose': 11.24,
+ 'regularMarketPrice': 11.23,
+ 'regularMarketVolume': 135989,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 36641800,
+ 'sharesPercentSharesOut': 0.0082,
+ 'sharesShort': 302288,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 291460,
+ 'shortName': 'Kimball International, Inc.',
+ 'shortPercentOfFloat': 0.0085,
+ 'shortRatio': 1.43,
+ 'startDate': None,
+ 'state': 'IN',
+ 'strikePrice': None,
+ 'symbol': 'KBAL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.35,
+ 'trailingAnnualDividendYield': 0.03113879,
+ 'trailingEps': 1.161,
+ 'trailingPE': 9.422911,
+ 'twoHundredDayAverage': 13.492086,
+ 'volume': 135989,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.kimballinternational.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '47549'}

@@ -1,0 +1,160 @@
+{'52WeekChange': -0.03273642,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2251 Corporate Park Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 65.84,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 179350,
+ 'averageVolume': 221041,
+ 'averageVolume10days': 179350,
+ 'beta': 0.729971,
+ 'beta3Year': None,
+ 'bid': 65.82,
+ 'bidSize': 800,
+ 'bookValue': 37.525,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Herndon',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 66.49,
+ 'dayLow': 65.31,
+ 'dividendRate': 1.28,
+ 'dividendYield': 0.019299999,
+ 'earningsQuarterlyGrowth': 0.358,
+ 'enterpriseToEbitda': 13.521,
+ 'enterpriseToRevenue': 1.214,
+ 'enterpriseValue': 2829555200,
+ 'exDividendDate': 1591228800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 67.92514,
+ 'fiftyTwoWeekHigh': 93.99,
+ 'fiftyTwoWeekLow': 55.25,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.96,
+ 'floatShares': 26878771,
+ 'forwardEps': 3.29,
+ 'forwardPE': 20.027355,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 8900,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00664,
+ 'heldPercentInstitutions': 1.0154799,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/mantech.com',
+ 'longBusinessSummary': 'ManTech International Corporation provides technology '
+                        'solutions and services for U.S. defense, intelligence '
+                        'community, and federal civilian agencies worldwide. '
+                        'The company offers cyber solutions and services, '
+                        'including security operations, threat intelligence, '
+                        'incident response and forensics, boundary defense, '
+                        'security systems engineering, infrastructure '
+                        'security, and computer forensics and exploitation. It '
+                        'also provides solutions involving hardware and '
+                        'software to support the technology infrastructure for '
+                        'various applications, including IT service '
+                        'management, help desk, data center consolidation, '
+                        'enterprise architecture, mobile computing and device '
+                        'management, network operations and infrastructure, '
+                        'virtualization/cloud computing and migration, network '
+                        'and database administration, enterprise systems '
+                        'development and management, infrastructure as a '
+                        'managed service, and data collection and analytics; '
+                        'and designs, develops, integrates, operates, and '
+                        'sustains software applications and systems. In '
+                        'addition, the company offers professional and '
+                        'technical solutions, and mission support services; '
+                        'command-and-control infrastructure, intelligence, '
+                        'surveillance and reconnaissance platforms and '
+                        'sensors, and data services; and vulnerability '
+                        'assessment, insider threat protection, exposure '
+                        'analysis, secrecy architecture design, security '
+                        'policy development and implementation, lifecycle '
+                        'acquisition program security, anti-tamper, export '
+                        'compliance support, foreign disclosure, system '
+                        'security engineering, security awareness and '
+                        'training, security support services, and technical '
+                        'certification and accreditation services. Further, it '
+                        'provides requirement analysis, development, and '
+                        'management; systems development and integration; '
+                        'enterprise architecture and concept of operations; '
+                        'systems engineering and technical assistance; test '
+                        'and evaluation; training; and supply chain management '
+                        'and logistics services. The company was founded in '
+                        '1968 and is headquartered in Herndon, Virginia.',
+ 'longName': 'ManTech International Corporation',
+ 'market': 'us_market',
+ 'marketCap': 2652810496,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_955448',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 121451000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 66.41,
+ 'openInterest': None,
+ 'payoutRatio': 0.3754,
+ 'pegRatio': 3.72,
+ 'phone': '703-218-6000',
+ 'previousClose': 66.47,
+ 'priceHint': 2,
+ 'priceToBook': 1.755896,
+ 'priceToSalesTrailing12Months': 1.1377928,
+ 'profitMargins': 0.05209,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 66.49,
+ 'regularMarketDayLow': 65.31,
+ 'regularMarketOpen': 66.41,
+ 'regularMarketPreviousClose': 66.47,
+ 'regularMarketPrice': 66.41,
+ 'regularMarketVolume': 167162,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 27074000,
+ 'sharesPercentSharesOut': 0.0154,
+ 'sharesShort': 618082,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 552616,
+ 'shortName': 'ManTech International Corporati',
+ 'shortPercentOfFloat': 0.0325,
+ 'shortRatio': 2.53,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'MANT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.13,
+ 'trailingAnnualDividendYield': 0.01700015,
+ 'trailingEps': 3.009,
+ 'trailingPE': 21.89764,
+ 'twoHundredDayAverage': 74.417915,
+ 'volume': 167162,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.mantech.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20171'}

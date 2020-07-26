@@ -1,0 +1,161 @@
+{'52WeekChange': 3.7249131,
+ 'SandP52WeekChange': None,
+ 'address1': '10628 Science Center Drive',
+ 'address2': 'Suite 250',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 55,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 774912,
+ 'averageVolume': 934060,
+ 'averageVolume10days': 774912,
+ 'beta': 3.43605,
+ 'beta3Year': None,
+ 'bid': 51.81,
+ 'bidSize': 1100,
+ 'bookValue': 1.12,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Diego',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 57.4,
+ 'dayLow': 52.01,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -34.132,
+ 'enterpriseToRevenue': 53.963,
+ 'enterpriseValue': 1029875840,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 45.75,
+ 'fiftyTwoWeekHigh': 62.97,
+ 'fiftyTwoWeekLow': 8.51,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 13334596,
+ 'forwardEps': 0.32,
+ 'forwardPE': 167.8125,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 88,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.29925,
+ 'heldPercentInstitutions': 0.30923998,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1510790400,
+ 'lastSplitFactor': '1:7',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/arcturusrx.com',
+ 'longBusinessSummary': 'Arcturus Therapeutics Holdings Inc., an RNA medicines '
+                        'company, focuses on the treatment of liver and '
+                        'respiratory care diseases. The company engages in the '
+                        'discovery and development of RNA medicines, including '
+                        'the production of RNA drug substance and '
+                        'nanoparticle-formulated drug product; and development '
+                        'of infectious disease vaccines using its '
+                        'Self-Transcribing and Replicating RNA (STARR) '
+                        'technology. Its preclinical drug discovery and '
+                        'development programs include LUNAR-OTC development '
+                        'program that is developing mRNA compounds to treat '
+                        'ornithine transcarbamylase (OTC) deficiency; LUNAR-CF '
+                        'program, which is developing mRNA compounds to '
+                        'replace dysfunctional cystic fibrosis transmembrane '
+                        'conductance regulator (CFTR) protein in cystic '
+                        'fibrosis (CF) patients; and LUNAR-CV and LUNAR-MD '
+                        'that are internal research programs focused on target '
+                        'validation of multiple pipeline LUNAR-mRNA program '
+                        'candidates. The company owns LUNAR and nucleic acid '
+                        'technologies that are covered by a patent portfolio '
+                        'of 182 patents and patent applications, issued in the '
+                        'United States, China, Europe, Japan, and other '
+                        'countries. It has collaboration partnerships with '
+                        'Ultragenyx Pharmaceutical, Inc. to develop mRNA '
+                        'therapeutic candidates for certain rare disease '
+                        'targets; Millennium Pharmaceuticals, Inc. (Takeda) to '
+                        'develop a nucleic acid-based therapeutic candidate '
+                        'for the treatment of nonalcoholic steatohepatitis; '
+                        'Janssen Pharmaceuticals, Inc. to develop nucleic '
+                        'acid-based therapeutic candidates for the treatment '
+                        'of hepatitis B virus infection; CureVac AG; Singapore '
+                        'Economic Development Board and Duke-NUS Medical '
+                        'School to develop LUNAR-COV19, a vaccine to address '
+                        'the Coronavirus outbreak; and Catalent, Inc. to '
+                        "support the expected manufacture of Arcturus' "
+                        'COVID-19 mRNA vaccine candidate (LUNAR-COV19. '
+                        'Arcturus Therapeutics Holdings Inc. was founded in '
+                        '2013 and is headquartered in San Diego, California.',
+ 'longName': 'Arcturus Therapeutics Holdings Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1100436480,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_235062181',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -28884000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 56.03,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '858 900 2660',
+ 'previousClose': 54.62,
+ 'priceHint': 2,
+ 'priceToBook': 47.94643,
+ 'priceToSalesTrailing12Months': 57.65976,
+ 'profitMargins': -1.5134399,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 57.4,
+ 'regularMarketDayLow': 52.01,
+ 'regularMarketOpen': 56.03,
+ 'regularMarketPreviousClose': 54.62,
+ 'regularMarketPrice': 56.03,
+ 'regularMarketVolume': 646655,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 20492300,
+ 'sharesPercentSharesOut': 0.0953,
+ 'sharesShort': 1953803,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 469713,
+ 'shortName': 'Arcturus Therapeutics Holdings ',
+ 'shortPercentOfFloat': 0.1267,
+ 'shortRatio': 2.25,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'ARCT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.192,
+ 'twoHundredDayAverage': 27.55144,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'cb9a2721-c1b9-3b25-9cc5-ea57e34e4857',
+ 'volume': 646655,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.arcturusrx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92121'}

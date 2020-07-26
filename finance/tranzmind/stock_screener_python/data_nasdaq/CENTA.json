@@ -1,0 +1,164 @@
+{'52WeekChange': 0.26519334,
+ 'SandP52WeekChange': None,
+ 'address1': '1340 Treat Boulevard',
+ 'address2': 'Suite 600',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 33.97,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 200387,
+ 'averageVolume': 258757,
+ 'averageVolume10days': 200387,
+ 'beta': 0.3507,
+ 'beta3Year': None,
+ 'bid': 0.05,
+ 'bidSize': 800,
+ 'bookValue': 18.127,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Walnut Creek',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 34.31,
+ 'dayLow': 33.32,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.007,
+ 'enterpriseToEbitda': 11.43,
+ 'enterpriseToRevenue': 0.943,
+ 'enterpriseValue': 2295272448,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 33.178,
+ 'fiftyTwoWeekHigh': 35.16,
+ 'fiftyTwoWeekLow': 20.51,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 48582332,
+ 'forwardEps': 1.78,
+ 'forwardPE': 18.803371,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.064780004,
+ 'heldPercentInstitutions': 0.93254,
+ 'industry': 'Packaged Foods',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569628800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/central.com',
+ 'longBusinessSummary': 'Central Garden & Pet Company, together with its '
+                        'subsidiaries, produces and distributes products for '
+                        'the lawn and garden, and pet supplies markets in the '
+                        'United States. It operates through two segments, Pet '
+                        'and Garden. The Pet segment supplies products for '
+                        'dogs and cats, including edible bones, edible and '
+                        'non-edible chews, rawhides, dog and cat food and '
+                        'treats, toys, pet carriers, grooming supplies, and '
+                        'other accessories; and products for birds, small '
+                        'animals, and specialty pets, such as cages and '
+                        'habitats, toys, chews, and related accessories. It '
+                        'also provides animal and household health and insect '
+                        'control products; live fishes; and products for fish, '
+                        'reptiles, and other aquarium-based pets comprising '
+                        'aquariums, furniture and lighting fixtures, pumps, '
+                        'filters, water conditioners, food and supplements, '
+                        'and information and knowledge resources; and products '
+                        'for horses and livestock. This segment sells its '
+                        'products to independent pet distributors, retail '
+                        'chains, grocery stores, mass merchants, and '
+                        'bookstores under the Adams, Aqueon, Avoderm, C&S '
+                        'Products, Cadet, Farnam, Four Paws, Kaytee, K&H Pet '
+                        'Products, Nylabone, Pinnacle, TFH, Zilla, Altosid, '
+                        'Comfort Zone, Coralife, Interpet, Pet Select, and '
+                        'Zodiac brands. The Garden segment provides grass '
+                        'seed; wild bird feed, bird feeders, bird houses, and '
+                        'other birding accessories; weed, grass, and other '
+                        'herbicides, as well as insecticide and pesticide '
+                        'products; fertilizers; and decorative outdoor '
+                        'lifestyle products that include pottery as well as '
+                        'live plants and outdoor cushions and pillows. This '
+                        'segment sells its products to retail chains, '
+                        'independent garden distributors, grocery stores, '
+                        'nurseries, and garden supply retailers under the '
+                        'AMDRO, Arden Companies, Ironite, Pennington, Sevin, '
+                        'Lilly Miller, Over-N-Out, Smart Seed, and The Rebels '
+                        'brands. The company also engages in the distribution '
+                        'of third party products. Central Garden & Pet Company '
+                        'was founded in 1955 and is based in Walnut Creek, '
+                        'California.',
+ 'longName': 'Central Garden & Pet Company',
+ 'market': 'us_market',
+ 'marketCap': 1864838016,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_325333',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 86879000,
+ 'nextFiscalYearEnd': 1632787200,
+ 'open': 34.31,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.59,
+ 'phone': '925-948-4000',
+ 'previousClose': 34.35,
+ 'priceHint': 2,
+ 'priceToBook': 1.846417,
+ 'priceToSalesTrailing12Months': 0.7663584,
+ 'profitMargins': 0.0357,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 34.31,
+ 'regularMarketDayLow': 33.32,
+ 'regularMarketOpen': 34.31,
+ 'regularMarketPreviousClose': 34.35,
+ 'regularMarketPrice': 34.31,
+ 'regularMarketVolume': 172460,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 41712500,
+ 'sharesPercentSharesOut': 0.0135,
+ 'sharesShort': 736625,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 720801,
+ 'shortName': 'Central Garden & Pet Company',
+ 'shortPercentOfFloat': 0.025799999,
+ 'shortRatio': 2.66,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'CENTA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.543,
+ 'trailingPE': 21.691511,
+ 'twoHundredDayAverage': 30.105827,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '06598584-81c2-3c77-a716-cba06400cb73',
+ 'volume': 172460,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.central.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94597'}

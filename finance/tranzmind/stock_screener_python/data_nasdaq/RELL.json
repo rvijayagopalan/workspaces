@@ -1,0 +1,160 @@
+{'52WeekChange': -0.2522362,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '40W267 Keslinger Road',
+ 'address2': 'PO Box 393',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.97,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 23612,
+ 'averageVolume': 27539,
+ 'averageVolume10days': 23612,
+ 'beta': 0.555182,
+ 'beta3Year': None,
+ 'bid': 4.16,
+ 'bidSize': 800,
+ 'bookValue': 9.034,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'LaFox',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.34,
+ 'dayLow': 4.1212,
+ 'dividendRate': 0.24,
+ 'dividendYield': 0.056199998,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.81,
+ 'enterpriseToRevenue': 0.076,
+ 'enterpriseValue': 11795300,
+ 'exDividendDate': 1588636800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '630-208-2550',
+ 'fiftyDayAverage': 4.1194286,
+ 'fiftyTwoWeekHigh': 6.32,
+ 'fiftyTwoWeekLow': 3.1,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.96,
+ 'floatShares': 8328247,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.06702,
+ 'heldPercentInstitutions': 0.69738,
+ 'industry': 'Electronic Components',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1590796800,
+ 'lastMarket': None,
+ 'lastSplitDate': 562204800,
+ 'lastSplitFactor': '110:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/rell.com',
+ 'longBusinessSummary': 'Richardson Electronics, Ltd. engages in the power and '
+                        'microwave technologies, customized display solutions, '
+                        'and healthcare equipment businesses in North America, '
+                        'the Asia Pacific, Europe, and Latin America. The '
+                        "company's Power and Microwave Technologies Group "
+                        'segment provides engineered solutions, power grid and '
+                        'microwave tubes, and related consumables; flat panel '
+                        'detector solutions, replacement parts, tubes and '
+                        'service training for diagnostic imaging equipment; '
+                        'and customized display solutions, as well as power '
+                        'conversion and RF and microwave components for '
+                        'broadcast transmission, CO2 laser cutting, diagnostic '
+                        'imaging, dielectric and induction heating, high '
+                        'energy transfer, high voltage switching, plasma, '
+                        'power conversion, radar, and radiation oncology '
+                        'applications. Its products are used to control, '
+                        'switch, or amplify electrical power signals, as well '
+                        'as are used as display devices in alternative energy, '
+                        'healthcare, aviation, broadcast, communications, '
+                        'industrial, marine, medical, military, scientific, '
+                        'and semiconductor markets. This segment also offers '
+                        'technical services for microwave and industrial '
+                        "equipment. The company's Canvys segment provides "
+                        'custom display solutions, such as touch screens, '
+                        'protective panels, custom enclosures, specialized '
+                        'cabinet finishes, application specific software '
+                        'packages, and certification services to corporate '
+                        'enterprise, financial, healthcare, industrial, and '
+                        'medical original equipment manufacturer markets. Its '
+                        'Healthcare segment manufactures, refurbishes, and '
+                        'distributes diagnostic imaging replacement parts for '
+                        'CT and MRI systems; replacement CT and MRI tubes; '
+                        'hydrogen thyratrons, klystrons, and magnetrons; flat '
+                        'panel detector upgrades; and additional replacement '
+                        'solutions, as well as offers CT service training. '
+                        'This segment serves hospitals, medical centers, asset '
+                        'management companies, independent service '
+                        'organizations, and multi-vendor service providers. '
+                        'The company was founded in 1947 and is headquartered '
+                        'in LaFox, Illinois.',
+ 'longName': 'Richardson Electronics, Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 55299192,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_300246',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1590796800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -1838000,
+ 'nextFiscalYearEnd': 1653868800,
+ 'open': 4.1212,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '630-208-2200',
+ 'previousClose': 4.15,
+ 'priceHint': 4,
+ 'priceToBook': 0.46601725,
+ 'priceToSalesTrailing12Months': 0.35471392,
+ 'profitMargins': -0.01179,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.34,
+ 'regularMarketDayLow': 4.1212,
+ 'regularMarketOpen': 4.1212,
+ 'regularMarketPreviousClose': 4.15,
+ 'regularMarketPrice': 4.1212,
+ 'regularMarketVolume': 4879,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 11038200,
+ 'sharesPercentSharesOut': 0.00029999999,
+ 'sharesShort': 3352,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5273,
+ 'shortName': 'Richardson Electronics, Ltd.',
+ 'shortPercentOfFloat': 0.00029999999,
+ 'shortRatio': 0.08,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'RELL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.24,
+ 'trailingAnnualDividendYield': 0.05783132,
+ 'trailingEps': -0.14,
+ 'twoHundredDayAverage': 4.351367,
+ 'volume': 4879,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.rell.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60147'}

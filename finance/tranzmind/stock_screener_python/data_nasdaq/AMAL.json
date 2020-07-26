@@ -1,0 +1,156 @@
+{'52WeekChange': -0.34332746,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '275 Seventh Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.23,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 38550,
+ 'averageVolume': 68553,
+ 'averageVolume10days': 38550,
+ 'beta': 0.968818,
+ 'beta3Year': None,
+ 'bid': 11.14,
+ 'bidSize': 800,
+ 'bookValue': 15.262,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.47,
+ 'dayLow': 11.08,
+ 'dividendRate': 0.32,
+ 'dividendYield': 0.028299998,
+ 'earningsQuarterlyGrowth': -0.117,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 0.756,
+ 'enterpriseValue': 144483344,
+ 'exDividendDate': 1589328000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 11.533428,
+ 'fiftyTwoWeekHigh': 20,
+ 'fiftyTwoWeekLow': 7.9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 14821243,
+ 'forwardEps': 1.13,
+ 'forwardPE': 9.884955,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 398,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00228,
+ 'heldPercentInstitutions': 0.51232,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1532908800,
+ 'lastSplitFactor': '20:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/amalgamatedbank.com',
+ 'longBusinessSummary': 'Amalgamated Bank, together with its subsidiaries, '
+                        'operates as a commercial bank and a chartered trust '
+                        'company in the United States. The company offers '
+                        'deposit products, including non-interest and '
+                        'interest-bearing demand accounts, savings and money '
+                        'market accounts, NOW accounts, and certificates of '
+                        'deposit. It also provides residential mortgage and '
+                        'commercial real estate loans, commercial and '
+                        'industrial loans, multifamily mortgages, 1-4 family '
+                        'real estate loans, construction and land loans, '
+                        'leveraged loans for commercial loans, consumer/small '
+                        'business and purchased student loans, and home equity '
+                        'lines of credit. In addition, the company offers '
+                        'online banking, bill payment, online cash management, '
+                        'and safe deposit box rental services; debit, prepaid, '
+                        'and ATM cards; and trust, custody, and investment '
+                        'management services comprising asset safekeeping, '
+                        'corporate actions, income collections, proxy, account '
+                        'transition, asset transfers, and conversion '
+                        'management services. Further, it provides investment '
+                        'products, such as equity, fixed-income, real estate, '
+                        'and alternative investment products; and brokerage, '
+                        'asset management, and insurance products. It serves '
+                        'advocacy-based non-profits, social welfare '
+                        'organizations, labor unions, political organizations, '
+                        'foundations, socially responsible businesses, and '
+                        'other for-profit companies, as well as their members '
+                        'and stakeholders. The company operates a network of '
+                        '11 branches in New York City; one branch in '
+                        'Washington, D.C.; and one branch in San Francisco, as '
+                        'well as a digital banking and mobile platform. The '
+                        'company was formerly known as Amalgamated Bank of New '
+                        'York and changed its name to Amalgamated Bank in '
+                        '2000. The company was founded in 1923 and is '
+                        'headquartered in New York, New York. Amalgamated Bank '
+                        'is a subsidiary of Workers United.',
+ 'longName': 'Amalgamated Bank',
+ 'market': 'us_market',
+ 'marketCap': 346273344,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4935718',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 45912000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 11.33,
+ 'openInterest': None,
+ 'payoutRatio': 0.19440001,
+ 'pegRatio': None,
+ 'phone': '(212) 255-6200',
+ 'previousClose': 11.32,
+ 'priceHint': 2,
+ 'priceToBook': 0.7318831,
+ 'priceToSalesTrailing12Months': 1.8109015,
+ 'profitMargins': 0.24022,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.47,
+ 'regularMarketDayLow': 11.08,
+ 'regularMarketOpen': 11.33,
+ 'regularMarketPreviousClose': 11.32,
+ 'regularMarketPrice': 11.33,
+ 'regularMarketVolume': 87188,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 31000300,
+ 'sharesPercentSharesOut': 0.0078,
+ 'sharesShort': 95701,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 132125,
+ 'shortName': 'Amalgamated Bank',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 3.12,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'AMAL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.28,
+ 'trailingAnnualDividendYield': 0.024734983,
+ 'trailingEps': 1.441,
+ 'trailingPE': 7.7515616,
+ 'twoHundredDayAverage': 12.922662,
+ 'volume': 87188,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.amalgamatedbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10001'}

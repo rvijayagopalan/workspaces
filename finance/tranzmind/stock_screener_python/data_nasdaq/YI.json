@@ -1,0 +1,157 @@
+{'52WeekChange': 0.6728723,
+ 'SandP52WeekChange': None,
+ 'address1': 'No. 295 ZuChongZhi Road',
+ 'address2': '3-5 Floors Pudong New Area',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 6.9,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 239362,
+ 'averageVolume': 155390,
+ 'averageVolume10days': 239362,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 6.12,
+ 'bidSize': 1000,
+ 'bookValue': 2.488,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Shanghai',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.37,
+ 'dayLow': 6.0883,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 505686656,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 6.616857,
+ 'fiftyTwoWeekHigh': 8.7,
+ 'fiftyTwoWeekLow': 2.29,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 23679149,
+ 'forwardEps': -0.23,
+ 'forwardPE': -26.695652,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1932,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.055689998,
+ 'industry': 'Pharmaceutical Retailers',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/111.com.cn',
+ 'longBusinessSummary': '111, Inc., through its subsidiaries, operates an '
+                        'integrated online and offline platform in the '
+                        "healthcare market in the People's Republic of China. "
+                        'It operates through two segments, B2B and B2C. The '
+                        'company sells medical and wellness products through '
+                        'online retail, and wholesale and retail pharmacies, '
+                        'as well as provides value-added services, such as '
+                        'online consultation services and e-prescription '
+                        'services to consumers. Its product portfolio '
+                        'comprises prescription and over-the counter drugs, '
+                        'such as western and traditional Chinese medicinal '
+                        'drugs; nutritional supplements, such as vitamins and '
+                        'dietary products; contact lenses; medical supplies '
+                        'and devices, including bandages and thermometers; and '
+                        'personal care products, such as skin care, birth '
+                        'control, and sexual wellness products; and baby '
+                        'products. The company also operates an online '
+                        'marketplace where third-party sellers can directly '
+                        'sell to pharmacies; provides online loan application '
+                        'services to the clients of 1 Drug Mall, including '
+                        'pharmacies and wholesalers; and digital contract '
+                        'sales organization and data services. As of December '
+                        '31, 2019, it operated 12 offline retail pharmacies '
+                        'under the Yi Hao Pharmacy brand name in Guangzhou, '
+                        'Shanghai, Tianjin, and Kunshan. In addition, the '
+                        'company offers warehousing, logistics, procurement, '
+                        'research and development, and consulting services; '
+                        'and software development and information technology '
+                        'support services. It serves pharmacies, '
+                        'pharmaceutical companies and distributors, medical '
+                        'professionals, and insurance companies. The company '
+                        'was formerly known as New Peak Group and changed its '
+                        'name to 111, Inc. in April 2018. 111, Inc. was '
+                        'founded in 2010 and is headquartered in Shanghai, the '
+                        "People's Republic of China.",
+ 'longName': '111, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 505686720,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_577608285',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 6.3,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '86 21 2053 6666',
+ 'previousClose': 6.29,
+ 'priceHint': 2,
+ 'priceToBook': 2.4678457,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': -0.1038,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.37,
+ 'regularMarketDayLow': 6.0883,
+ 'regularMarketOpen': 6.3,
+ 'regularMarketPreviousClose': 6.29,
+ 'regularMarketPrice': 6.3,
+ 'regularMarketVolume': 98379,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 82359400,
+ 'sharesPercentSharesOut': 0.001,
+ 'sharesShort': 61337,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 35104,
+ 'shortName': '111, Inc.',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 0.67,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'YI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.266,
+ 'twoHundredDayAverage': 6.742374,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '45d488cb-23b9-339c-9f2c-d7a88b30f39b',
+ 'volume': 98379,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.111.com.cn',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '201203'}

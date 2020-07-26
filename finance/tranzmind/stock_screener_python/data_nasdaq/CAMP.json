@@ -1,0 +1,153 @@
+{'52WeekChange': -0.3391456,
+ 'SandP52WeekChange': None,
+ 'address1': '15635 Alton Parkway',
+ 'address2': 'Suite 250',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 7.55,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 238500,
+ 'averageVolume': 415934,
+ 'averageVolume10days': 238500,
+ 'beta': 2.416246,
+ 'beta3Year': None,
+ 'bid': 7.54,
+ 'bidSize': 900,
+ 'bookValue': 3.643,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Irvine',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 7.64,
+ 'dayLow': 7.465,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 34.591,
+ 'enterpriseToRevenue': 1.092,
+ 'enterpriseValue': 390154752,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 7.8254285,
+ 'fiftyTwoWeekHigh': 12.32,
+ 'fiftyTwoWeekLow': 3.7,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 33426381,
+ 'forwardEps': 0.44,
+ 'forwardPE': 17.125,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1080,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.039690003,
+ 'heldPercentInstitutions': 0.75667,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1582934400,
+ 'lastMarket': None,
+ 'lastSplitDate': 827712000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/calamp.com',
+ 'longBusinessSummary': 'CalAmp Corp. provides in telematics systems, and '
+                        'software and subscription services in the United '
+                        'States, Europe, the Middle East, Africa, South '
+                        'America, Asia and Pacific Rim, and internationally. '
+                        'The company offers telematics products, including '
+                        'asset tracking units, mobile telematics devices, '
+                        'fixed and mobile wireless gateways, and routers; and '
+                        'stolen vehicle recovery products for the broader '
+                        'connected vehicle and Internet of Things market, '
+                        'which enable customers to optimize their operations '
+                        'by collecting, monitoring, and reporting '
+                        'business-critical information and desired '
+                        'intelligence from remote and mobile assets. It also '
+                        'provides CalAmp Telematics Cloud platform, such as '
+                        'cloud-based application enablement and telematics '
+                        'service platforms that facilitate integration of its '
+                        'own applications, as well as those of third parties, '
+                        'through open application programming interfaces; and '
+                        'software as a service applications. In addition, the '
+                        'company offers professional services, including '
+                        'project management, engineering services, '
+                        'installation services, and an on-going early warning '
+                        'automated notification service. It sells its products '
+                        'and services to customers in the automotive, '
+                        'insurance, transportation and logistics, government, '
+                        'and construction markets through direct sales '
+                        'organization, a channel partner program, and sales '
+                        'representatives, as well as its Websites and digital '
+                        'platform. The company was founded in 1981 and is '
+                        'headquartered in Irvine, California.',
+ 'longName': 'CalAmp Corp.',
+ 'market': 'us_market',
+ 'marketCap': 258936496,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_257424',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1590883200,
+ 'navPrice': None,
+ 'netIncomeToCommon': -85033000,
+ 'nextFiscalYearEnd': 1646092800,
+ 'open': 7.52,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.95,
+ 'phone': '949 600 5600',
+ 'previousClose': 7.58,
+ 'priceHint': 2,
+ 'priceToBook': 2.0683503,
+ 'priceToSalesTrailing12Months': 0.7248007,
+ 'profitMargins': -0.23802,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 7.64,
+ 'regularMarketDayLow': 7.465,
+ 'regularMarketOpen': 7.52,
+ 'regularMarketPreviousClose': 7.58,
+ 'regularMarketPrice': 7.52,
+ 'regularMarketVolume': 155769,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 34364500,
+ 'sharesPercentSharesOut': 0.0544,
+ 'sharesShort': 1868548,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1988957,
+ 'shortName': 'CalAmp Corp.',
+ 'shortPercentOfFloat': 0.0664,
+ 'shortRatio': 3.9,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'CAMP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.515,
+ 'twoHundredDayAverage': 7.5753956,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b3c26f55-b1d5-368c-93b3-b92b8939d995',
+ 'volume': 155769,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.calamp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92618'}

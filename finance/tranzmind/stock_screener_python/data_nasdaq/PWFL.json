@@ -1,0 +1,156 @@
+{'52WeekChange': -0.3107438,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '123 Tice Boulevard',
+ 'address2': 'Suite 101',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.19,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 78937,
+ 'averageVolume': 196425,
+ 'averageVolume10days': 78937,
+ 'beta': 1.965266,
+ 'beta3Year': None,
+ 'bid': 4.18,
+ 'bidSize': 800,
+ 'bookValue': None,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Woodcliff Lake',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.29,
+ 'dayLow': 4.06,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -60.722,
+ 'enterpriseToRevenue': 1.96,
+ 'enterpriseValue': 194250736,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '201 996 9144',
+ 'fiftyDayAverage': 4.663429,
+ 'fiftyTwoWeekHigh': 8.5,
+ 'fiftyTwoWeekLow': 2.55,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 23695163,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 840,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.13721,
+ 'heldPercentInstitutions': 0.47542,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/powerfleet.com',
+ 'longBusinessSummary': 'PowerFleet, Inc. develops, markets, and sells '
+                        'wireless Internet-of-Things and machine-to-machine '
+                        'solutions in the United States, Israel, and '
+                        'internationally. The company offers industrial '
+                        'solutions, such as on-premise or in-facility asset '
+                        'and operator management, monitoring, and visibility '
+                        'for industrial trucks, such as forklifts and ground '
+                        'support equipment at airports. It also provides '
+                        'logistic solutions, including bumper-to-bumper asset '
+                        'management, monitoring, and visibility for heavy '
+                        'trucks, dry-van trailers, refrigerated trailers, '
+                        'shipping containers, etc., as well as associated '
+                        'cargos; and mobile-asset tracking and '
+                        'condition-monitoring solutions. In addition, the '
+                        'company offers vehicle solutions to enhance the '
+                        'vehicle fleet management process. Further, it '
+                        'provides hosting, maintenance, and support and '
+                        'consulting services; and Software as a Service '
+                        'covering system monitoring, help desk technical '
+                        'support, escalation procedure development, routine '
+                        'diagnostic data analysis, and software updates '
+                        'services. The company offers its product under the '
+                        'PowerFleet, Pointer and Cellocator brands. It sells '
+                        'its products to commercial and government sectors in '
+                        'automotive manufacturing, retail, food and grocery '
+                        'distribution, logistics, shipping, freight '
+                        'transportation, heavy industry, wholesale '
+                        'distribution, manufacturing, aerospace and defense, '
+                        'homeland security, and vehicle rental markets, as '
+                        'well as through indirect sales channels, such as '
+                        'original equipment manufacturers, vehicle importers, '
+                        'distributors, and industrial equipment dealers. The '
+                        'company was formerly known as I.D. Systems, Inc. '
+                        'PowerFleet, Inc. was incorporated in 1993 and is '
+                        'headquartered in Woodcliff Lake, New Jersey.',
+ 'longName': 'PowerFleet, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 124679248,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_238361',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -14402000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 4.29,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -1.1,
+ 'phone': '201 996 9000',
+ 'previousClose': 4.31,
+ 'priceHint': 4,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 1.2580774,
+ 'profitMargins': -0.123050004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.29,
+ 'regularMarketDayLow': 4.06,
+ 'regularMarketOpen': 4.29,
+ 'regularMarketPreviousClose': 4.31,
+ 'regularMarketPrice': 4.29,
+ 'regularMarketVolume': 63151,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 29899100,
+ 'sharesPercentSharesOut': 0.0312,
+ 'sharesShort': 932486,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 495772,
+ 'shortName': 'PowerFleet, Inc.',
+ 'shortPercentOfFloat': 0.0345,
+ 'shortRatio': 3.01,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'PWFL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': None,
+ 'twoHundredDayAverage': 5.375252,
+ 'volume': 63151,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.powerfleet.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07677'}

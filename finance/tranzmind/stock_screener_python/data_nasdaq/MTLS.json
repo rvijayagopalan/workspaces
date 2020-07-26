@@ -1,0 +1,158 @@
+{'52WeekChange': 0.39152122,
+ 'SandP52WeekChange': None,
+ 'address1': 'Technologielaan 15',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 26.71,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 102062,
+ 'averageVolume': 127155,
+ 'averageVolume10days': 102062,
+ 'beta': 0.382633,
+ 'beta3Year': None,
+ 'bid': 26.66,
+ 'bidSize': 900,
+ 'bookValue': 3.05,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Leuven',
+ 'companyOfficers': [],
+ 'country': 'Belgium',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 27.89,
+ 'dayLow': 26.5861,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 1419719040,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '32 1 639 66 00',
+ 'fiftyDayAverage': 24.74,
+ 'fiftyTwoWeekHigh': 28.99,
+ 'fiftyTwoWeekLow': 10.65,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 19589465,
+ 'forwardEps': 0.1,
+ 'forwardPE': 267,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2177,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00287,
+ 'heldPercentInstitutions': 0.26716,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/materialise.com',
+ 'longBusinessSummary': 'Materialise NV provides additive manufacturing and '
+                        'medical software, and 3D printing services in Europe, '
+                        'the Americas, Europe and Africa, and the '
+                        "Asia-Pacific. The company's Materialise Software "
+                        'segment offers software through programs and '
+                        'platforms that enable and enhance the functionality '
+                        'of 3D printers and of 3D printing operations. Its '
+                        'software interfaces between various types of 3D '
+                        'printers; and various software applications and '
+                        'capturing technologies, including computer-aided '
+                        'design packages and 3D scanners. This segment serves '
+                        '3D printing machine original equipment manufacturers; '
+                        'manufacturers in automotive, aerospace, consumer '
+                        'goods, and hearing aid industries; and 3D printing '
+                        'service bureaus through its sales force, Website, and '
+                        'third-party distributors. Its Materialise Medical '
+                        'segment provides medical software that allows '
+                        'medical-image based analysis and engineering, as well '
+                        'as patient-specific design of surgical devices and '
+                        'implants. It serves medical device companies, '
+                        'hospitals, universities, and industrial companies '
+                        'through its direct sales force, Website, and picture '
+                        'archiving and communication system partners. The '
+                        "company's Materialise Manufacturing segment provides "
+                        '3D printing services, design and engineering '
+                        'services, and rapid prototyping and additive '
+                        'manufacturing of production parts to industrial and '
+                        'commercial customers. It has collaboration agreements '
+                        'with Zimmer Biomet Holdings, Inc.; Encore Medical, '
+                        'L.P.; DePuy Synthes Companies of Johnson & Johnson; '
+                        'Global Orthopaedic Technology Pty Ltd; Limacorporate '
+                        'Spa; Mathys AG; Howmedica Osteonics Corp.; Corin '
+                        'Ltd.; and Fluidda, as well as a partnership with '
+                        'Sigma Labs, Inc. The company was founded in 1990 and '
+                        'is headquartered in Leuven, Belgium.',
+ 'longName': 'Materialise NV',
+ 'market': 'us_market',
+ 'marketCap': 1419705728,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_6296436',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 27.89,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -3.82,
+ 'phone': '32 1 639 66 11',
+ 'previousClose': 27.9,
+ 'priceHint': 2,
+ 'priceToBook': 8.754099,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': -0.00438,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 27.89,
+ 'regularMarketDayLow': 26.5861,
+ 'regularMarketOpen': 27.89,
+ 'regularMarketPreviousClose': 27.9,
+ 'regularMarketPrice': 27.89,
+ 'regularMarketVolume': 46167,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 53172500,
+ 'sharesPercentSharesOut': 0.020499999,
+ 'sharesShort': 1091853,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1094171,
+ 'shortName': 'Materialise NV',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 8.09,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'MTLS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.097,
+ 'trailingPE': 275.25772,
+ 'twoHundredDayAverage': 20.342518,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '8424a194-7d2e-3ee3-b2aa-a48c695e2a9a',
+ 'volume': 46167,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.materialise.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '3001'}

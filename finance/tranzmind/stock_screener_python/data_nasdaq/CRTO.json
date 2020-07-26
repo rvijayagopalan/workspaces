@@ -1,0 +1,158 @@
+{'52WeekChange': -0.31746888,
+ 'SandP52WeekChange': None,
+ 'address1': '32, rue Blanche',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.26,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 485037,
+ 'averageVolume': 493373,
+ 'averageVolume10days': 485037,
+ 'beta': 1.236974,
+ 'beta3Year': None,
+ 'bid': 13.17,
+ 'bidSize': 900,
+ 'bookValue': 16.135,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Paris',
+ 'companyOfficers': [],
+ 'country': 'France',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.42,
+ 'dayLow': 12.41,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.191,
+ 'enterpriseToEbitda': 2.346,
+ 'enterpriseToRevenue': 0.259,
+ 'enterpriseValue': 572043968,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 12.521143,
+ 'fiftyTwoWeekHigh': 20.765,
+ 'fiftyTwoWeekLow': 5.89,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 59249003,
+ 'forwardEps': 1.5,
+ 'forwardPE': 8.78,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2701,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.03687,
+ 'heldPercentInstitutions': 0.98507005,
+ 'industry': 'Advertising Agencies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/criteo.com',
+ 'longBusinessSummary': 'Criteo S.A., a technology company, provides an '
+                        'advertising platform for the open Internet in France '
+                        "and internationally. The company's Criteo Shopper "
+                        "Graph, which collects clients' proprietary commerce "
+                        'data, such as transaction activity on their digital '
+                        'properties. Its Criteo AI Engine solutions include '
+                        'lookalike finder, recommendation, and predictive '
+                        'bidding algorithms; bidding engine that executes '
+                        'campaigns based on certain objectives set by its '
+                        'clients; dynamic creative optimization+, which '
+                        'assembles customized creative advertising content by '
+                        'optimizing each individual creative component in the '
+                        'advertisement; software systems and processes, which '
+                        'enable data synchronization, storage, and analysis of '
+                        'distributed computing infrastructure in various '
+                        'geographies; and experimentation platform, an '
+                        'offline/online platform to enhance the capabilities '
+                        'and effectiveness of prediction models. The company '
+                        'also provides real-time access to advertising '
+                        'inventory through its publisher partners. In '
+                        'addition, it offers consulting services to companies '
+                        'in distance sales; and business intelligence and '
+                        'analytics services. Further, the company offers '
+                        'Criteo Marketing Solutions that allow commerce '
+                        'companies to address various marketing goals by '
+                        'engaging their consumers with personalized ads across '
+                        'the web, mobile, and offline store environments; and '
+                        'Criteo Retail Media, which allows retailers to '
+                        'generate advertising revenues from consumer brands, '
+                        'and/or to drive sales for themselves, by monetizing '
+                        'their data and audiences through personalized ads, '
+                        'either on their own digital property or on the open '
+                        'Internet. It serves companies in digital retail, '
+                        'travel, and classifieds industries. The company was '
+                        'founded in 2005 and is headquartered in Paris, '
+                        'France.',
+ 'longName': 'Criteo S.A.',
+ 'market': 'us_market',
+ 'marketCap': 812906432,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_111853347',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 87084000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 12.61,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -2.16,
+ 'phone': '33 1 40 40 22 90',
+ 'previousClose': 12.62,
+ 'priceHint': 2,
+ 'priceToBook': 0.816238,
+ 'priceToSalesTrailing12Months': 0.36836955,
+ 'profitMargins': 0.03946,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.42,
+ 'regularMarketDayLow': 12.41,
+ 'regularMarketOpen': 12.61,
+ 'regularMarketPreviousClose': 12.62,
+ 'regularMarketPrice': 12.61,
+ 'regularMarketVolume': 1222147,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 61724100,
+ 'sharesPercentSharesOut': 0.0077,
+ 'sharesShort': 449732,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 398951,
+ 'shortName': 'Criteo S.A.',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 0.86,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'CRTO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.345,
+ 'trailingPE': 9.7918215,
+ 'twoHundredDayAverage': 11.59777,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e296b5eb-9837-3947-9443-590e544909d2',
+ 'volume': 1222147,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.criteo.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75009'}

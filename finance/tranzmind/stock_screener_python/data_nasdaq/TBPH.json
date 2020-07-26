@@ -1,0 +1,154 @@
+{'52WeekChange': 0.06793618,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Ugland House',
+ 'address2': 'South Church Street PO Box 309',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.23,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 309687,
+ 'averageVolume': 454538,
+ 'averageVolume10days': 309687,
+ 'beta': 1.424089,
+ 'beta3Year': None,
+ 'bid': 19,
+ 'bidSize': 800,
+ 'bookValue': -2.507,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'George Town',
+ 'companyOfficers': [],
+ 'country': 'Cayman Islands',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 21.32,
+ 'dayLow': 20.25,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -5.885,
+ 'enterpriseToRevenue': 16.499,
+ 'enterpriseValue': 1450930688,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 22.324572,
+ 'fiftyTwoWeekHigh': 31.54,
+ 'fiftyTwoWeekLow': 15.72,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 39796624,
+ 'forwardEps': -2.67,
+ 'forwardPE': -7.7715354,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 316,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.19383,
+ 'heldPercentInstitutions': 0.8087,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/theravance.com',
+ 'longBusinessSummary': 'Theravance Biopharma, Inc., a diversified '
+                        'biopharmaceutical company, discovers, develops, and '
+                        'commercializes organ-selective medicines. The company '
+                        'offers YUPELRI, a once-daily, nebulized long-acting '
+                        'muscarinic antagonist used for the treatment of '
+                        'chronic obstructive pulmonary disease. Its product '
+                        'portfolio also include TD-1473, a gut-selective '
+                        'pan-janus kinase (JAK) inhibitor that is in Phase '
+                        'IIb/III clinical trials for the treatment of '
+                        'rheumatoid arthritis, myelofibrosis, and ulcerative '
+                        'colitis, as well as for a range of inflammatory '
+                        'intestinal diseases, including ulcerative colitis and '
+                        "Crohn's disease. In addition, the company's product "
+                        'portfolio also comprise Ampreloxetine, an '
+                        'investigational norepinephrine reuptake inhibitor '
+                        'that has completed Phase III study for neurogenic '
+                        'orthostatic hypotension; TD-8236, an investigational, '
+                        'inhaled lung-selective pan-JAK inhibitor, which is '
+                        'Phase II clinical study for treatment of a range of '
+                        'inflammatory diseases; and TD-5202, an '
+                        'investigational, orally administered, gut-selective, '
+                        'irreversible JAK3 inhibitor that is in Phase I '
+                        'clinical study for treatment of inflammatory '
+                        'intestinal diseases. Further, it offers TRELEGY '
+                        'ELLIPTA for the treatment of COPD; Velusetrag, an '
+                        'oral and investigational medicine for '
+                        'gastrointestinal motility disorders; and Selective '
+                        '5-HT4 Agonist for treatment of gastrointestinal '
+                        'motility disorders. It has a licensing and '
+                        'collaboration agreements with Pfizer Inc., Mylan '
+                        'Ireland Limited, Janssen Biotech, Inc., Alfasigma '
+                        'S.p.A, Trek Therapeutics, PBC, and Takeda '
+                        'Pharmaceutical Company Limited. The company was '
+                        'incorporated in 2013 and is based in George Town, the '
+                        'Cayman Islands.',
+ 'longName': 'Theravance Biopharma, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1309078016,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_240999442',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -246928000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 20.86,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.47,
+ 'phone': '650 808 6000',
+ 'previousClose': 21.02,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 14.886374,
+ 'profitMargins': -2.80798,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 21.32,
+ 'regularMarketDayLow': 20.25,
+ 'regularMarketOpen': 20.86,
+ 'regularMarketPreviousClose': 21.02,
+ 'regularMarketPrice': 20.86,
+ 'regularMarketVolume': 315720,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 63088100,
+ 'sharesPercentSharesOut': 0.0541,
+ 'sharesShort': 3413649,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1993263,
+ 'shortName': 'Theravance Biopharma, Inc.',
+ 'shortPercentOfFloat': 0.14039999,
+ 'shortRatio': 4.72,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'TBPH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -4.352,
+ 'twoHundredDayAverage': 24.896511,
+ 'volume': 315720,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.theravance.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'KY1-1104'}

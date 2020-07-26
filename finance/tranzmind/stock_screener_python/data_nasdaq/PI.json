@@ -1,0 +1,152 @@
+{'52WeekChange': -0.16680497,
+ 'SandP52WeekChange': None,
+ 'address1': '400 Fairview Avenue North',
+ 'address2': 'Suite 1200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 30.99,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 240600,
+ 'averageVolume': 317611,
+ 'averageVolume10days': 240600,
+ 'beta': 2.571118,
+ 'beta3Year': None,
+ 'bid': 29.46,
+ 'bidSize': 800,
+ 'bookValue': 5.654,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Seattle',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 30.32,
+ 'dayLow': 29.21,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -47.583,
+ 'enterpriseToRevenue': 3.777,
+ 'enterpriseValue': 632951168,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 28.261286,
+ 'fiftyTwoWeekHigh': 40.24,
+ 'fiftyTwoWeekLow': 11.47,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 15454416,
+ 'forwardEps': -0.16,
+ 'forwardPE': -187.125,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 272,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.061680004,
+ 'heldPercentInstitutions': 0.88027,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1183680000,
+ 'lastSplitFactor': '10:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/impinj.com',
+ 'longBusinessSummary': 'Impinj, Inc. operates a platform that enables '
+                        'wireless connectivity to various everyday items to '
+                        'business and consumer applications. Its integrated '
+                        'platform connects everyday items to applications, '
+                        'delivering real-time information to businesses about '
+                        'items they create, manage, transport, and sell. The '
+                        "company's platform includes endpoint integrated "
+                        'circuits (ICs), a miniature radios-on-a-chip that '
+                        'attach-to and identify their host items; and '
+                        'connectivity products that comprise reader ICs and '
+                        'modules, readers, and gateways to wirelessly '
+                        'identify, locate, authenticate, and engage items, as '
+                        'well as provide power to and communicate '
+                        'bidirectionally with endpoint ICs. Its platform also '
+                        'consists of software offerings that include '
+                        'ItemSense, a system software that comprises '
+                        'enterprise-class RAIN deployment management, '
+                        'software-defined algorithms for transition detection, '
+                        'and APIs that enable application developers to build '
+                        'powerful IoT solutions. The company primarily serves '
+                        'retail, supply chain and logistics, aviation, '
+                        'automotive, healthcare, industrial and manufacturing, '
+                        'sports, food, datacenter, travel, banking, and linen '
+                        'and uniform tracking sectors through distributors, '
+                        'system integrators, value-added resellers, and '
+                        'software solution partners in the Americas, the Asia '
+                        'Pacific, Europe, the Middle East, and Africa. Impinj, '
+                        'Inc. was founded in 2000 and is headquartered in '
+                        'Seattle, Washington.',
+ 'longName': 'Impinj, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 678952384,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_427445',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -20245000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 29.75,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -6.27,
+ 'phone': '206 517 5300',
+ 'previousClose': 30.12,
+ 'priceHint': 2,
+ 'priceToBook': 5.2953663,
+ 'priceToSalesTrailing12Months': 4.0511494,
+ 'profitMargins': -0.120799996,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 30.32,
+ 'regularMarketDayLow': 29.21,
+ 'regularMarketOpen': 29.75,
+ 'regularMarketPreviousClose': 30.12,
+ 'regularMarketPrice': 29.75,
+ 'regularMarketVolume': 223101,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 22677100,
+ 'sharesPercentSharesOut': 0.1244,
+ 'sharesShort': 2820310,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3028426,
+ 'shortName': 'Impinj, Inc.',
+ 'shortPercentOfFloat': 0.165,
+ 'shortRatio': 9.64,
+ 'startDate': None,
+ 'state': 'WA',
+ 'strikePrice': None,
+ 'symbol': 'PI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.918,
+ 'twoHundredDayAverage': 25.631546,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '3a372b04-b953-33b7-ac2b-2f9a5d24e67b',
+ 'volume': 223101,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.impinj.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '98109'}

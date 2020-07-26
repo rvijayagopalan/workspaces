@@ -1,0 +1,153 @@
+{'52WeekChange': 0.9646208,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '416 South Bell Avenue',
+ 'address2': 'PO Box 888',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27.43,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 467000,
+ 'averageVolume': 652779,
+ 'averageVolume10days': 467000,
+ 'beta': 1.443137,
+ 'beta3Year': None,
+ 'bid': 25.03,
+ 'bidSize': 800,
+ 'bookValue': 30.519,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Ames',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 27.42,
+ 'dayLow': 26.45,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 1.961,
+ 'enterpriseToRevenue': 0.438,
+ 'enterpriseValue': 1154257408,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '515 239 8009',
+ 'fiftyDayAverage': 26.214857,
+ 'fiftyTwoWeekHigh': 32.89,
+ 'fiftyTwoWeekLow': 9.9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 35828719,
+ 'forwardEps': 5.55,
+ 'forwardPE': 4.9027023,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 829,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.031489998,
+ 'heldPercentInstitutions': 1.18137,
+ 'industry': 'Oil & Gas Refining & Marketing',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/regi.com',
+ 'longBusinessSummary': 'Renewable Energy Group, Inc. provides lower carbon '
+                        'transportation fuels in the United States and '
+                        'internationally. The company utilizes an integrated '
+                        'production, distribution, and logistics system to '
+                        'convert natural fats, oils, and greases into advanced '
+                        'biofuels. It operates through Biomass-Based Diesel, '
+                        'Services, and Corporate and Other segments. The '
+                        'company produces biomass-based diesel from various '
+                        'carbon feedstocks, including distillers corn and used '
+                        'cooking oils, and inedible animal fats, as well as '
+                        'from soybean or canola oils. It is also involved in '
+                        'the purchase and resale of biomass-based diesel, '
+                        'petroleum-based diesel, renewable identification '
+                        'numbers, California Low Carbon Fuel Standard credits, '
+                        'and raw material feedstocks acquired from third '
+                        'parties; and sale of biomass-based diesel produced '
+                        'under toll manufacturing arrangements with third '
+                        'party facilities using its feedstocks. In addition, '
+                        'the company provides day-to-day management and '
+                        'operational services to biomass-based diesel '
+                        'production facilities; and construction management '
+                        'and general contracting services for the construction '
+                        'or upgrade of biomass-based diesel production '
+                        'facilities. Further, it sells petroleum-based heating '
+                        'oils and diesel fuels, as well as operates '
+                        'fermentation facilities. The company owns and '
+                        'operates a network of 13 biorefineries, including '
+                        'eleven biorefineries located in the United States and '
+                        'two biorefineries located in Germany. Renewable '
+                        'Energy Group, Inc. was founded in 1996 and is '
+                        'headquartered in Ames, Iowa.',
+ 'longName': 'Renewable Energy Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1062515072,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_28646680',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 497799008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 26.83,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.54,
+ 'phone': '515 239 8000',
+ 'previousClose': 26.79,
+ 'priceHint': 2,
+ 'priceToBook': 0.89157575,
+ 'priceToSalesTrailing12Months': 0.4027954,
+ 'profitMargins': 0.18967,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 27.42,
+ 'regularMarketDayLow': 26.45,
+ 'regularMarketOpen': 26.83,
+ 'regularMarketPreviousClose': 26.79,
+ 'regularMarketPrice': 26.83,
+ 'regularMarketVolume': 283108,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Energy',
+ 'sharesOutstanding': 39048700,
+ 'sharesPercentSharesOut': 0.0938,
+ 'sharesShort': 3662404,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3149550,
+ 'shortName': 'Renewable Energy Group, Inc.',
+ 'shortPercentOfFloat': 0.1165,
+ 'shortRatio': 4.31,
+ 'startDate': None,
+ 'state': 'IA',
+ 'strikePrice': None,
+ 'symbol': 'REGI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 11.167,
+ 'trailingPE': 2.4366436,
+ 'twoHundredDayAverage': 25.181438,
+ 'volume': 283108,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.regi.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '50010-0888'}

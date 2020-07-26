@@ -1,0 +1,149 @@
+{'52WeekChange': -0.562963,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1331 Gemini Street',
+ 'address2': 'Suite 250',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 0.5896,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 151537,
+ 'averageVolume': 219707,
+ 'averageVolume10days': 151537,
+ 'beta': 1.918767,
+ 'beta3Year': None,
+ 'bid': 0.58,
+ 'bidSize': 2900,
+ 'bookValue': 0.558,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Houston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 0.6119,
+ 'dayLow': 0.58,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 12.912,
+ 'enterpriseToRevenue': 0.64,
+ 'enterpriseValue': 102564416,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 0.69294286,
+ 'fiftyTwoWeekHigh': 1.95,
+ 'fiftyTwoWeekLow': 0.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 16527752,
+ 'forwardEps': -0.02,
+ 'forwardPE': -29.485,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 215,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.35625,
+ 'heldPercentInstitutions': 0.18551001,
+ 'industry': 'Oil & Gas Refining & Marketing',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1241395200,
+ 'lastSplitFactor': '1:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/vertexenergy.com',
+ 'longBusinessSummary': 'Vertex Energy, Inc., an environmental services '
+                        'company, provides a range of services designed to '
+                        'aggregate, process, and recycle industrial and '
+                        'commercial waste systems in the Gulf Coast and '
+                        'Central Midwest regions of the United States. The '
+                        'company operates in three segments: Black Oil, '
+                        'Refining and Marketing, and Recovery. The Black Oil '
+                        'segment collects and purchases used motor oil '
+                        'directly from third-party generators; aggregates used '
+                        'motor oil from a network of local and regional '
+                        'collectors; and sells used motor oil to customers for '
+                        'use as a feedstock or replacement fuel for industrial '
+                        'burners. It also produces and sells a vacuum gas oil '
+                        'product to refineries and marine fuels market; and '
+                        'base oil product to lubricant packagers and '
+                        'distributors. The Refining and Marketing segment '
+                        'gathers hydrocarbon streams in the form of petroleum '
+                        'distillates, transmix, and other chemical products '
+                        'that are purchased from pipeline operators, '
+                        'refineries, chemical processing facilities, and '
+                        'third-party providers; and sells end products, such '
+                        'as gasoline blendstock, pygas, and fuel oil cutter '
+                        'stock to oil companies or to petroleum trading and '
+                        'blending companies. The Recovery segment generates '
+                        'solutions for the recovery and management of '
+                        'hydrocarbon streams; and owns and operates a fleet of '
+                        'trucks and other vehicles used for shipping and '
+                        'handling equipment and scrap materials. Vertex '
+                        'Energy, Inc. is headquartered in Houston, Texas.',
+ 'longName': 'Vertex Energy, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 26863664,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_27279823',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -14968585,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 0.5946,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.06,
+ 'phone': '281 486 4182',
+ 'previousClose': 0.5946,
+ 'priceHint': 4,
+ 'priceToBook': 1.0568099,
+ 'priceToSalesTrailing12Months': 0.16763777,
+ 'profitMargins': 0.01687,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 0.6119,
+ 'regularMarketDayLow': 0.58,
+ 'regularMarketOpen': 0.5946,
+ 'regularMarketPreviousClose': 0.5946,
+ 'regularMarketPrice': 0.5946,
+ 'regularMarketVolume': 34358,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Energy',
+ 'sharesOutstanding': 45554800,
+ 'sharesPercentSharesOut': 0.0248,
+ 'sharesShort': 1131109,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1092578,
+ 'shortName': 'Vertex Energy, Inc',
+ 'shortPercentOfFloat': 0.030299999,
+ 'shortRatio': 6.8,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'VTNR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.354,
+ 'twoHundredDayAverage': 0.8857986,
+ 'volume': 34358,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.vertexenergy.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '77058'}

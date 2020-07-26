@@ -1,0 +1,161 @@
+{'52WeekChange': 0.06949186,
+ 'SandP52WeekChange': None,
+ 'address1': '4902 North Biltmore Lane',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 53.14,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 1238387,
+ 'averageVolume': 1474606,
+ 'averageVolume10days': 1238387,
+ 'beta': 0.361904,
+ 'beta3Year': None,
+ 'bid': 49.95,
+ 'bidSize': 1400,
+ 'bookValue': 22.053,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Madison',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 53.985,
+ 'dayLow': 52.81,
+ 'dividendRate': 1.52,
+ 'dividendYield': 0.028499998,
+ 'earningsQuarterlyGrowth': 0.359,
+ 'enterpriseToEbitda': 14.89,
+ 'enterpriseToRevenue': 5.553,
+ 'enterpriseValue': 19860039680,
+ 'exDividendDate': 1596067200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 49.370285,
+ 'fiftyTwoWeekHigh': 60.28,
+ 'fiftyTwoWeekLow': 37.66,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.06,
+ 'floatShares': 249057142,
+ 'forwardEps': 2.58,
+ 'forwardPE': 20.589148,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3597,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00183,
+ 'heldPercentInstitutions': 0.77553004,
+ 'industry': 'Utilities—Regulated Electric',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1463702400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/alliantenergy.com',
+ 'longBusinessSummary': 'Alliant Energy Corporation operates as a utility '
+                        'holding company that provides regulated electricity '
+                        'and natural gas services in the Midwest region of the '
+                        'United States. It operates through three segments: '
+                        'Utility Electric Operations, Utility Gas Operations, '
+                        'and Utility Other. The company, through its '
+                        'subsidiary, Interstate Power and Light Company (IPL), '
+                        'primarily generates and distributes electricity, and '
+                        'distributes and transports natural gas to retail '
+                        'customers in Iowa; sells electricity to wholesale '
+                        'customers in Minnesota, Illinois, and Iowa; and '
+                        'generates and distributes steam in Cedar Rapids, '
+                        'Iowa. Alliant Energy Corporation, through its other '
+                        'subsidiary, Wisconsin Power and Light Company (WPL), '
+                        'generates and distributes electricity, and '
+                        'distributes and transports natural gas to retail '
+                        'customers in Wisconsin; and sells electricity to '
+                        'wholesale customers in Wisconsin. As of December 31, '
+                        '2019, IPL supplied electricity to 490,000 retail '
+                        'customers and natural gas to 225,000 retail '
+                        'customers; and WPL supplied electricity to 480,000 '
+                        'retail customers and natural gas to 195,000 retail '
+                        'customers. It offers electric utility services to '
+                        'retail customers in the farming, agriculture, '
+                        'industrial manufacturing, chemical, and packaging '
+                        'industries. In addition, the company holds '
+                        'investments in various businesses, which provide '
+                        'freight services through a short-line railway between '
+                        'Cedar Rapids and Iowa City, Iowa; a barge terminal '
+                        'and hauling services on the Mississippi River; '
+                        'customized supply chain solutions; freight and '
+                        'logistics brokering services; and other transfer and '
+                        'storage services. Further, it owns a 347 megawatt '
+                        '(MW) natural gas-fired electric generating unit near '
+                        'Sheboygan Falls, Wisconsin; and a 225 MW wind farm '
+                        'located in Oklahoma. Alliant Energy Corporation was '
+                        'founded in 1917 and is headquartered in Madison, '
+                        'Wisconsin.',
+ 'longName': 'Alliant Energy Corporation',
+ 'market': 'us_market',
+ 'marketCap': 13253652480,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_312949',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 602099968,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 53.45,
+ 'openInterest': None,
+ 'payoutRatio': 0.578,
+ 'pegRatio': 4.19,
+ 'phone': '608-458-3311',
+ 'previousClose': 53.25,
+ 'priceHint': 2,
+ 'priceToBook': 2.4087427,
+ 'priceToSalesTrailing12Months': 3.7060714,
+ 'profitMargins': 0.16836001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 53.985,
+ 'regularMarketDayLow': 52.81,
+ 'regularMarketOpen': 53.45,
+ 'regularMarketPreviousClose': 53.25,
+ 'regularMarketPrice': 53.45,
+ 'regularMarketVolume': 1407812,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Utilities',
+ 'sharesOutstanding': 249504000,
+ 'sharesPercentSharesOut': 0.0183,
+ 'sharesShort': 4574159,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3603465,
+ 'shortName': 'Alliant Energy Corporation',
+ 'shortPercentOfFloat': 0.021,
+ 'shortRatio': 2.86,
+ 'startDate': None,
+ 'state': 'WI',
+ 'strikePrice': None,
+ 'symbol': 'LNT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.445,
+ 'trailingAnnualDividendYield': 0.02713615,
+ 'trailingEps': 2.501,
+ 'trailingPE': 21.239504,
+ 'twoHundredDayAverage': 51.444748,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '56489bcf-a2c2-383d-9b45-66695ab9698e',
+ 'volume': 1407812,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.alliantenergy.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '53718'}

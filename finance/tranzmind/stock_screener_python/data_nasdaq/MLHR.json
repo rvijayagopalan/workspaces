@@ -1,0 +1,161 @@
+{'52WeekChange': -0.48007882,
+ 'SandP52WeekChange': None,
+ 'address1': '855 East Main Avenue',
+ 'address2': 'PO Box 302',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.02,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 544000,
+ 'averageVolume': 700141,
+ 'averageVolume10days': 544000,
+ 'beta': 1.590476,
+ 'beta3Year': None,
+ 'bid': 22.69,
+ 'bidSize': 2200,
+ 'bookValue': 10.941,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Zeeland',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.85,
+ 'dayLow': 22.92,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 5.996,
+ 'enterpriseToRevenue': 0.688,
+ 'enterpriseValue': 1710664192,
+ 'exDividendDate': 1582761600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 23.801144,
+ 'fiftyTwoWeekHigh': 49.87,
+ 'fiftyTwoWeekLow': 14.39,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.12,
+ 'floatShares': 58361006,
+ 'forwardEps': 2.17,
+ 'forwardPE': 10.59447,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0063300002,
+ 'heldPercentInstitutions': 0.89362997,
+ 'industry': 'Business Equipment & Supplies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1590796800,
+ 'lastMarket': None,
+ 'lastSplitDate': 890092800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/hermanmiller.com',
+ 'longBusinessSummary': 'Herman Miller, Inc. engages in the research, design, '
+                        'manufacture, and distribution of office furniture '
+                        'systems, seating products, other freestanding '
+                        'furniture elements, textiles, home furnishings, and '
+                        'related services worldwide. The company offers '
+                        'seating products under the Embody, Aeron, Mirra2, '
+                        'Setu, Sayl, Verus, Cosm, Lino, Verus, Celle, Equa, '
+                        'Taper, and Ergon names; and modular systems under the '
+                        'Canvas Office Landscape, Locale, Public Office '
+                        'Landscape, Layout Studio, Action Office, Ethospace, '
+                        'Arras, Prospect, Overlay, and Resolve names. It also '
+                        'provides storage products under the Meridian and Tu '
+                        'names; wood case goods under the Geiger name; '
+                        'freestanding furniture products under the Abak, '
+                        'Intent, Sense, and Envelop names; healthcare products '
+                        'under the Palisade, Compass, Nala, Ava, and Nemschoff '
+                        'names; Thrive portfolio of ergonomic solutions, '
+                        'ergonomic, and technology support products under the '
+                        'Colebrook Bosson Saunders name; and textiles under '
+                        'the Maharam name, as well as Live Platform system of '
+                        'cloud-connected furnishings, applications, and '
+                        'dashboards. In addition, the company offers products '
+                        'for residential settings under the Eames, HAY, '
+                        'Nelson, Bubble Lamps, Airia, Ardea, Bumper, Burdick '
+                        'Group, Everywhere, Claw, Caper, Distil, Envelope, '
+                        'Formwork, Full Round, H Frame, I Beam, Landmark, '
+                        'Logic Mini, Logic Power Access Solutions, Renew, '
+                        'Rolled Arm, Scissor, Sled, Soft Pad, Swoop, Tone, '
+                        'Twist, Ward Bennett, and Wireframe names. Its '
+                        'products are used in offices and related conference, '
+                        'lobby, and lounge areas; transportation terminals; '
+                        'hospitals, clinics, and other healthcare facilities; '
+                        'industrial and educational settings; and residential '
+                        'and other environments. The company markets its '
+                        'products through its sales staff, own dealer network, '
+                        'independent dealers and retailers, and independent '
+                        'contract office furniture dealers, as well as through '
+                        'e-commerce Website. Herman Miller, Inc. was founded '
+                        'in 1905 and is headquartered in Zeeland, Michigan.',
+ 'longName': 'Herman Miller, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1351126912,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_29431',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1590796800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -9100000,
+ 'nextFiscalYearEnd': 1653868800,
+ 'open': 23.76,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 0.27,
+ 'phone': '616-654-3000',
+ 'previousClose': 23.75,
+ 'priceHint': 2,
+ 'priceToBook': 2.1012704,
+ 'priceToSalesTrailing12Months': 0.5433632,
+ 'profitMargins': -0.00366,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.85,
+ 'regularMarketDayLow': 22.92,
+ 'regularMarketOpen': 23.76,
+ 'regularMarketPreviousClose': 23.75,
+ 'regularMarketPrice': 23.76,
+ 'regularMarketVolume': 451978,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 58770200,
+ 'sharesPercentSharesOut': 0.038399998,
+ 'sharesShort': 2257823,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2075007,
+ 'shortName': 'Herman Miller, Inc.',
+ 'shortPercentOfFloat': 0.0438,
+ 'shortRatio': 2.78,
+ 'startDate': None,
+ 'state': 'MI',
+ 'strikePrice': None,
+ 'symbol': 'MLHR',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.63,
+ 'trailingAnnualDividendYield': 0.026526315,
+ 'trailingEps': -0.154,
+ 'twoHundredDayAverage': 27.496548,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'd446480b-d59d-36f4-92ba-534d3832911f',
+ 'volume': 451978,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.hermanmiller.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '49464'}

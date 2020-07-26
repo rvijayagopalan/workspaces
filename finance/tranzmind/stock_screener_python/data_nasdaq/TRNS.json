@@ -1,0 +1,153 @@
+{'52WeekChange': 0.28681505,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '35 Vantage Point Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 30.15,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 25350,
+ 'averageVolume': 28531,
+ 'averageVolume10days': 25350,
+ 'beta': 0.67731,
+ 'beta3Year': None,
+ 'bid': 30.01,
+ 'bidSize': 1100,
+ 'bookValue': 9.102,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Rochester',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 30.31,
+ 'dayLow': 26.15,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.536,
+ 'enterpriseToEbitda': 15.358,
+ 'enterpriseToRevenue': 1.518,
+ 'enterpriseValue': 257474176,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '800 395 0543',
+ 'fiftyDayAverage': 25.772,
+ 'fiftyTwoWeekHigh': 34.18,
+ 'fiftyTwoWeekLow': 16.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 5988257,
+ 'forwardEps': 1.22,
+ 'forwardPE': 24.639343,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 722,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.12733,
+ 'heldPercentInstitutions': 0.69351995,
+ 'industry': 'Industrial Distribution',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585353600,
+ 'lastMarket': None,
+ 'lastSplitDate': 869616000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/transcat.com',
+ 'longBusinessSummary': 'Transcat, Inc. provides calibration and laboratory '
+                        'instrument services in North America and '
+                        'internationally. It operates in two segments, Service '
+                        'and Distribution. The Service segment offers '
+                        'calibration, repair, inspection, analytical '
+                        'qualification, preventative maintenance, consulting, '
+                        'and other related services. This segment also '
+                        'provides CalTrak, a proprietary document and asset '
+                        'management software that is used to integrate and '
+                        'manage the workflow of its calibration service '
+                        "centers and customers' assets; and Compliance, "
+                        'Control and Cost, an online customer portal that '
+                        'provides its customers with Web-based asset '
+                        'management capability, as well as a safe and secure '
+                        'off-site archive of calibration and other service '
+                        'records. The Distribution segment sells and rents '
+                        'test, measurement, and control instruments for '
+                        "customers' test and measurement instrumentation "
+                        'needs. This segment markets and sells its products '
+                        'through Website, digital and print advertising, '
+                        'proactive outbound sales, and an inbound call center. '
+                        'The company provides services and products to highly '
+                        'regulated industries, principally life science, which '
+                        'includes companies in the pharmaceutical, '
+                        'biotechnology, medical device, and other '
+                        'FDA-regulated industries; and additional industries, '
+                        'including aerospace and defense industrial '
+                        'manufacturing, oil and gas and alternative energy, '
+                        'and other industries that require accuracy in '
+                        'processes and confirmation of the capabilities of '
+                        'their equipment. Transcat, Inc. was founded in 1964 '
+                        'and is headquartered in Rochester, New York.',
+ 'longName': 'Transcat, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 222778256,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_309251',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593216000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 7147000,
+ 'nextFiscalYearEnd': 1648425600,
+ 'open': 29.05,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.4,
+ 'phone': '585 352 7777',
+ 'previousClose': 29.03,
+ 'priceHint': 2,
+ 'priceToBook': 3.3025708,
+ 'priceToSalesTrailing12Months': 1.3134891,
+ 'profitMargins': 0.042140003,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 30.31,
+ 'regularMarketDayLow': 26.15,
+ 'regularMarketOpen': 29.05,
+ 'regularMarketPreviousClose': 29.03,
+ 'regularMarketPrice': 29.05,
+ 'regularMarketVolume': 26496,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 7411120,
+ 'sharesPercentSharesOut': 0.0094,
+ 'sharesShort': 69490,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 56585,
+ 'shortName': 'Transcat, Inc.',
+ 'shortPercentOfFloat': 0.0101,
+ 'shortRatio': 2.23,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'TRNS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.96,
+ 'trailingPE': 31.3125,
+ 'twoHundredDayAverage': 27.716187,
+ 'volume': 26496,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.transcat.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '14624'}

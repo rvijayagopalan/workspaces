@@ -1,0 +1,155 @@
+{'52WeekChange': 0.070370436,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '6060 American Plaza',
+ 'address2': 'Suite 600',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 5.76,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 14200,
+ 'averageVolume': 49958,
+ 'averageVolume10days': 14200,
+ 'beta': 2.244257,
+ 'beta3Year': None,
+ 'bid': 5.75,
+ 'bidSize': 1200,
+ 'bookValue': 8.505,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Tulsa',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': None,
+ 'dayHigh': 5.78,
+ 'dayLow': 5.72,
+ 'dividendRate': 0.71,
+ 'dividendYield': 0.1237,
+ 'earningsQuarterlyGrowth': -1,
+ 'enterpriseToEbitda': 2.25,
+ 'enterpriseToRevenue': 0.39,
+ 'enterpriseValue': 139115888,
+ 'exDividendDate': 1596412800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 5.656857,
+ 'fiftyTwoWeekHigh': 5.85,
+ 'fiftyTwoWeekLow': 2.84,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 11.05,
+ 'floatShares': 34917301,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 270,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.10422,
+ 'industry': 'Oil & Gas Midstream',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bkep.com',
+ 'longBusinessSummary': 'Blueknight Energy Partners, L.P. provides integrated '
+                        'terminalling, gathering, and transportation services '
+                        'for companies engaged in the production, '
+                        'distribution, and marketing of liquid asphalt and '
+                        'crude oil products in the United States. The company '
+                        'operates through four segments: Asphalt Terminalling '
+                        'Services, Crude Oil Terminalling Services, Crude Oil '
+                        'Pipeline Services, and Crude Oil Trucking Services. '
+                        "The company's Asphalt Terminalling Services segment "
+                        'offers asphalt terminalling services, including '
+                        'storage, blending, processing, and throughput '
+                        'services for liquid asphalt product and residual fuel '
+                        'oil. As of March 23, 2020, this segment had 53 '
+                        'terminals located in 26 states. Its Crude Oil '
+                        'Terminalling Services segment provides terminalling '
+                        'services, including storage, blending, processing, '
+                        'and throughput services for crude oil. This segment '
+                        'owns and operates 34 crude oil storage tanks with '
+                        'approximately 6.6 million barrels of storage '
+                        "capacity. The company's Crude Oil Pipeline Services "
+                        'segment owns and operates crude oil transportation '
+                        'system with a combined length of approximately 611 '
+                        'miles; and purchases crude oil from production leases '
+                        'in Oklahoma and markets those barrels at the Cushing '
+                        'Interchange. Its Crude Oil Trucking Services segment '
+                        'owns and leases tanker trucks for gathering crude oil '
+                        'for its customers at remote wellhead locations. This '
+                        'segment owns or leases approximately 63 tanker '
+                        'trucks. Blueknight Energy Partners G.P., L.L.C. '
+                        'operates as a general partner of the company. The '
+                        'company was formerly known as SemGroup Energy '
+                        'Partners, L.P. and changed its name to Blueknight '
+                        'Energy Partners, L.P. in December 2009. Blueknight '
+                        'Energy Partners, L.P. was founded in 2007 and is '
+                        'headquartered in Tulsa, Oklahoma.',
+ 'longName': 'Blueknight Energy Partners, L.P.',
+ 'market': 'us_market',
+ 'marketCap': 241576144,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_33136011',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -10692000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 5.77,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '918-237-4000',
+ 'previousClose': 5.78,
+ 'priceHint': 2,
+ 'priceToBook': 0.6772487,
+ 'priceToSalesTrailing12Months': 0.6777318,
+ 'profitMargins': 0.04046,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 5.78,
+ 'regularMarketDayLow': 5.72,
+ 'regularMarketOpen': 5.77,
+ 'regularMarketPreviousClose': 5.78,
+ 'regularMarketPrice': 5.77,
+ 'regularMarketVolume': 6786,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Energy',
+ 'sharesOutstanding': 0,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': None,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'Blueknight Energy Partners L.P.',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': None,
+ 'startDate': None,
+ 'state': 'OK',
+ 'strikePrice': None,
+ 'symbol': 'BKEPP',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.16,
+ 'trailingAnnualDividendYield': 0.02768166,
+ 'trailingEps': -0.262,
+ 'twoHundredDayAverage': 5.216259,
+ 'volume': 6786,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bkep.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '74135'}

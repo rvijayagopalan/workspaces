@@ -1,0 +1,156 @@
+{'52WeekChange': 0.41964602,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '690 East Middlefield Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 193.48,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 752850,
+ 'averageVolume': 965341,
+ 'averageVolume10days': 752850,
+ 'beta': 1.17535,
+ 'beta3Year': None,
+ 'bid': 193.43,
+ 'bidSize': 900,
+ 'bookValue': 28.329,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Mountain View',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 196.275,
+ 'dayLow': 190.92,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.07,
+ 'enterpriseToEbitda': 42.029,
+ 'enterpriseToRevenue': 8.553,
+ 'enterpriseValue': 29077792768,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 192.68172,
+ 'fiftyTwoWeekHigh': 204.9,
+ 'fiftyTwoWeekLow': 104.9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 149814612,
+ 'forwardEps': 6.03,
+ 'forwardPE': 32.067993,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 13896,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00728,
+ 'heldPercentInstitutions': 0.91043997,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1572480000,
+ 'lastMarket': None,
+ 'lastSplitDate': 1064361600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/synopsys.com',
+ 'longBusinessSummary': 'Synopsys, Inc. provides electronic design automation '
+                        'software products used to design and test integrated '
+                        'circuits. It offers Fusion Design Platform, a digital '
+                        'design implementation solution; Verification '
+                        'Continuum Platform that provides virtual prototyping, '
+                        'static and formal verification, simulation, '
+                        'emulation, field-programmable gate array (FPGA)-based '
+                        'prototyping, and debug solutions; and FPGA design '
+                        'products that are programmed to perform specific '
+                        'functions. The company also offers intellectual '
+                        'property (IP) solutions for USB, PCI Express, DDR, '
+                        'Ethernet, SATA, MIPI, HDMI, and Bluetooth low energy '
+                        'applications; analog IP, including data converters '
+                        'and audio codecs; and system-on-chip infrastructure '
+                        'IP, datapath and building block IP, and verification '
+                        'IP products, as well as mathematical and floating '
+                        'point components, and ARM AMBA interconnect fabric '
+                        'and peripherals. In addition, it provides logic '
+                        'libraries and embedded memories; configurable '
+                        'processor cores and application-specific '
+                        'instruction-set processor tools for embedded '
+                        'applications; IP subsystems for audio, sensor, and '
+                        'data fusion functionality; and security IP solutions. '
+                        'Further, the company offers Platform Architect tools '
+                        'for SoC architecture analysis and optimization; '
+                        'virtual prototyping solutions; and HAPS FPGA-based '
+                        'prototyping systems, as well as a series of tools '
+                        'used in the design of optical systems and photonic '
+                        'devices. Additionally, it provides security testing, '
+                        'managed services, programs and professional services, '
+                        'and training that enable its customers to detect and '
+                        'remediate security vulnerabilities, and defects in '
+                        'the software development lifecycle; manufacturing '
+                        'solutions; and professional and other services. The '
+                        'company was founded in 1986 and is headquartered in '
+                        'Mountain View, California.',
+ 'longName': 'Synopsys, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 29158066176,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_35028',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 474624000,
+ 'nextFiscalYearEnd': 1635638400,
+ 'open': 195.82,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.47,
+ 'phone': '650-584-5000',
+ 'previousClose': 197.8,
+ 'priceHint': 2,
+ 'priceToBook': 6.825867,
+ 'priceToSalesTrailing12Months': 8.576509,
+ 'profitMargins': 0.1396,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 196.275,
+ 'regularMarketDayLow': 190.92,
+ 'regularMarketOpen': 195.82,
+ 'regularMarketPreviousClose': 197.8,
+ 'regularMarketPrice': 195.82,
+ 'regularMarketVolume': 1206479,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 150788992,
+ 'sharesPercentSharesOut': 0.013200001,
+ 'sharesShort': 1989510,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1949865,
+ 'shortName': 'Synopsys, Inc.',
+ 'shortPercentOfFloat': 0.015,
+ 'shortRatio': 1.93,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'SNPS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3.071,
+ 'trailingPE': 62.966457,
+ 'twoHundredDayAverage': 159.36525,
+ 'volume': 1206479,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.synopsys.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94043'}

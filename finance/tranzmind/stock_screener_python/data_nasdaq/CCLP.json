@@ -1,0 +1,151 @@
+{'52WeekChange': -0.7409012,
+ 'SandP52WeekChange': None,
+ 'address1': '24955 Interstate 45 North',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 0.88,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 89575,
+ 'averageVolume': 466955,
+ 'averageVolume10days': 89575,
+ 'beta': 1.914285,
+ 'beta3Year': None,
+ 'bid': 0.8147,
+ 'bidSize': 800,
+ 'bookValue': 0.735,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'The Woodlands',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 0.8872,
+ 'dayLow': 0.831,
+ 'dividendRate': 0.04,
+ 'dividendYield': 0.044899996,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.108,
+ 'enterpriseToRevenue': 1.539,
+ 'enterpriseValue': 713263616,
+ 'exDividendDate': 1596067200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 0.856,
+ 'fiftyTwoWeekHigh': 3.98,
+ 'fiftyTwoWeekLow': 0.35,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 15.08,
+ 'floatShares': 26559234,
+ 'forwardEps': -1.61,
+ 'forwardPE': -0.53919256,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 791,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.02546,
+ 'heldPercentInstitutions': 0.29424,
+ 'industry': 'Oil & Gas Equipment & Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/csicompressco.com',
+ 'longBusinessSummary': 'CSI Compressco LP provides compression services and '
+                        'equipment for natural gas and oil production, '
+                        'gathering, artificial lift, transmission, processing, '
+                        'and storage companies in the United States, Mexico, '
+                        'Canada, Argentina, and internationally. It fabricates '
+                        'and sells standard and custom-designed engineered '
+                        'compressor packages; and sells engine parts, '
+                        'compressor package parts, and other components '
+                        'manufactured by third-party suppliers, as well as '
+                        'provides aftermarket services, such as operations, '
+                        'maintenance, overhaul, and reconfiguration. The '
+                        'company offers GasJack and VJack electric powered '
+                        'low-horsepower compressor packages to provide '
+                        'production enhancement services for dry gas wells, '
+                        'liquid-loaded gas wells, and backside auto injection '
+                        'systems. It also provides medium-horsepower '
+                        'compressor packages to move natural gas from the '
+                        'wellhead through the field gathering system; and '
+                        'high-horsepower compressor packages for use in '
+                        'midstream applications, including natural gas '
+                        'gathering and centralized compression facilities. In '
+                        'addition, the company offers well monitoring and sand '
+                        'separation, as well as early production services. CSI '
+                        'Compressco GP Inc. serves as the general partner of '
+                        'CSI Compressco LP. The company was formerly known as '
+                        'Compressco Partners, L.P. and changed its name to CSI '
+                        'Compressco LP in December 2014. CSI Compressco LP was '
+                        'founded in 2008 and is headquartered in The '
+                        'Woodlands, Texas.',
+ 'longName': 'CSI Compressco LP',
+ 'market': 'us_market',
+ 'marketCap': 41099672,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_50206680',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -21834000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 0.8568,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': -0.17,
+ 'phone': '281 364 2244',
+ 'previousClose': 0.8913,
+ 'priceHint': 4,
+ 'priceToBook': 1.1810884,
+ 'priceToSalesTrailing12Months': 0.08868697,
+ 'profitMargins': -0.04711,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 0.8872,
+ 'regularMarketDayLow': 0.831,
+ 'regularMarketOpen': 0.8568,
+ 'regularMarketPreviousClose': 0.8913,
+ 'regularMarketPrice': 0.8568,
+ 'regularMarketVolume': 48329,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Energy',
+ 'sharesOutstanding': 47344400,
+ 'sharesPercentSharesOut': 0.0064,
+ 'sharesShort': 301072,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 277371,
+ 'shortName': 'CSI Compressco LP',
+ 'shortPercentOfFloat': 0.0119,
+ 'shortRatio': 0.65,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'CCLP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.04,
+ 'trailingAnnualDividendYield': 0.044878267,
+ 'trailingEps': -0.464,
+ 'twoHundredDayAverage': 1.1030216,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'c8f8fc24-080b-3fe2-ac87-da2d7c7e2877',
+ 'volume': 48329,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.csicompressco.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '77380'}

@@ -1,0 +1,152 @@
+{'52WeekChange': 0.0930891,
+ 'SandP52WeekChange': None,
+ 'address1': '250 Technology Park',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 55.97,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 82812,
+ 'averageVolume': 115076,
+ 'averageVolume10days': 82812,
+ 'beta': 1.533333,
+ 'beta3Year': None,
+ 'bid': 53.5,
+ 'bidSize': 800,
+ 'bookValue': 17.879,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lake Mary',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 58.27,
+ 'dayLow': 55.73,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 226.296,
+ 'enterpriseToRevenue': 2.266,
+ 'enterpriseValue': 832995456,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '407 333 4181',
+ 'fiftyDayAverage': 54.152573,
+ 'fiftyTwoWeekHigh': 64.99,
+ 'fiftyTwoWeekLow': 35.15,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 17465592,
+ 'forwardEps': 1.81,
+ 'forwardPE': 30.790056,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1818,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01502,
+ 'heldPercentInstitutions': 1.04561,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/faro.com',
+ 'longBusinessSummary': 'FARO Technologies, Inc. designs, develops, '
+                        'manufactures, markets, and supports software driven '
+                        'three-dimensional (3D) measurement and imaging '
+                        'solutions worldwide. It operates through three '
+                        'segments: 3D Manufacturing, Construction BIM, and '
+                        'Emerging Verticals. The company offers FaroArm, a '
+                        'combination of a portable articulated measurement '
+                        'arm, a computer, and CAM2 software programs; and FARO '
+                        'ScanArm, a FaroArm equipped with a hard probe and '
+                        'non-contact laser line probe to measure products. It '
+                        'also provides FARO Design ScanArm 2.5C, a portable '
+                        'lightweight 3D ScanArm; FARO Prizm, a full-color '
+                        'laser line probe with 3D design and modeling '
+                        'software; FARO Laser Tracker that combines a portable '
+                        'laser measurement tool, a computer, and CAM2 software '
+                        'programs; and FARO Tracer, which projects a laser '
+                        'line onto a surface or object; and FARO Focus laser '
+                        'scanner to measure and collect a cloud of data '
+                        'points. In addition, the company offers FARO '
+                        'ScanPlan, a handheld mapper that captures '
+                        'two-dimensional floor plans; and FARO Software, a '
+                        'family of computer-aided design-based measurement and '
+                        'laser scanner software. FARO Technologies, Inc. '
+                        'offers its products for manufacturing, industrial, '
+                        'architecture, surveying, building information '
+                        'modeling, construction, public safety forensics, '
+                        'cultural heritage, dental, and other applications. '
+                        'FARO Technologies, Inc. was founded in 1981 and is '
+                        'headquartered in Lake Mary, Florida.',
+ 'longName': 'FARO Technologies, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 987496576,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_365602',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -77122000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 57.6,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 6.22,
+ 'phone': '407 333 9911',
+ 'previousClose': 57.89,
+ 'priceHint': 2,
+ 'priceToBook': 3.1170647,
+ 'priceToSalesTrailing12Months': 2.6858742,
+ 'profitMargins': -0.20976,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 58.27,
+ 'regularMarketDayLow': 55.73,
+ 'regularMarketOpen': 57.6,
+ 'regularMarketPreviousClose': 57.89,
+ 'regularMarketPrice': 57.6,
+ 'regularMarketVolume': 47785,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 17719300,
+ 'sharesPercentSharesOut': 0.0323,
+ 'sharesShort': 571887,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 594279,
+ 'shortName': 'FARO Technologies, Inc.',
+ 'shortPercentOfFloat': 0.045100003,
+ 'shortRatio': 3.92,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'FARO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -4.42,
+ 'twoHundredDayAverage': 52.33446,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '696c0a26-b06a-37f9-b8f6-ad230fd3e8d6',
+ 'volume': 47785,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.faro.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '32746'}

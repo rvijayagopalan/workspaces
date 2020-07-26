@@ -1,0 +1,152 @@
+{'52WeekChange': -0.07124996,
+ 'SandP52WeekChange': None,
+ 'address1': 'RMPE building',
+ 'address2': '12 Hartom Street Har Hotzvim PO Box 45219',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 0.4413,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 23999962,
+ 'averageVolume': 10961990,
+ 'averageVolume10days': 23999962,
+ 'beta': 0.737201,
+ 'beta3Year': None,
+ 'bid': 0.4305,
+ 'bidSize': 1800,
+ 'bookValue': 0.268,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Jerusalem',
+ 'companyOfficers': [],
+ 'country': 'Israel',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 0.497,
+ 'dayLow': 0.43,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -0.827,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 21095236,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 0.34597144,
+ 'fiftyTwoWeekHigh': 1.56,
+ 'fiftyTwoWeekLow': 0.132,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 56399459,
+ 'forwardEps': -0.12,
+ 'forwardPE': -3.7075002,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 38,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.1019,
+ 'heldPercentInstitutions': 0.17016001,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/intecpharma.com',
+ 'longBusinessSummary': 'Intec Pharma Ltd., a clinical stage biopharmaceutical '
+                        'company, focuses on developing drugs based on its '
+                        'proprietary Accordion Pill platform technology in '
+                        'Israel. Its Accordion Pill is an oral drug delivery '
+                        'system that is designed to enhance the efficacy and '
+                        'safety of existing drugs and drugs in development by '
+                        'utilizing a gastric retention and specific release '
+                        "mechanism. The company's lead product candidate is "
+                        'Accordion Pill Carbidopa/Levodopa, which is in a '
+                        'Phase III clinical trial for the treatment of '
+                        "Parkinson's disease symptoms in advanced Parkinson's "
+                        'disease patients. It is also developing Accordion '
+                        'Pill Zaleplon that is in a Phase III clinical trial '
+                        'as a treatment for the induction and maintenance of '
+                        'sleep in patients suffering from insomnia; a product '
+                        'candidate, which has completed a Phase I clinical '
+                        'trial for the prevention and treatment of '
+                        'gastroduodenal and small bowel Nonsteroidal '
+                        'Anti-Inflammatory Drug induced ulcers; and '
+                        'AP-CBD/THC, AP-THC, and AP-CBD product candidates '
+                        'with Cannabidiol and 9-Tetrahydrocannabinol for the '
+                        'treatment of various indications, including low back '
+                        'pain, neuropathic pain, and fibromyalgia. Intec '
+                        'Pharma Ltd. has a research collaboration agreement '
+                        'with Merck to explore using the Accordion Pill '
+                        'platform for development program. The company was '
+                        'formerly known as Intec Pharmaceuticals (2000) Ltd. '
+                        'and changed its name to Intec Pharma Ltd. in March '
+                        '2004. Intec Pharma Ltd. was founded in 2000 and is '
+                        'based in Jerusalem, Israel.',
+ 'longName': 'Intec Pharma Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 30816224,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2241741',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -40813000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 0.44,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '972 2 586 4657',
+ 'previousClose': 0.4458,
+ 'priceHint': 4,
+ 'priceToBook': 1.6600746,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 0.497,
+ 'regularMarketDayLow': 0.43,
+ 'regularMarketOpen': 0.44,
+ 'regularMarketPreviousClose': 0.4458,
+ 'regularMarketPrice': 0.44,
+ 'regularMarketVolume': 12198316,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 69265504,
+ 'sharesPercentSharesOut': 0.0334,
+ 'sharesShort': 2313907,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1055242,
+ 'shortName': 'Intec Pharma Ltd.',
+ 'shortPercentOfFloat': 0.0336,
+ 'shortRatio': 0.24,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'NTEC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.097,
+ 'twoHundredDayAverage': 0.307259,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '86b73588-aa1a-3c95-9952-be69268361b8',
+ 'volume': 12198316,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.intecpharma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '9777512'}

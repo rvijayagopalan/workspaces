@@ -1,0 +1,152 @@
+{'52WeekChange': 0.25629628,
+ 'SandP52WeekChange': None,
+ 'address1': '35 Gatehouse Drive, A2',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24.71,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 47350,
+ 'averageVolume': 82476,
+ 'averageVolume10days': 47350,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 13.5,
+ 'bidSize': 800,
+ 'bookValue': 4.231,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Waltham',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 25.25,
+ 'dayLow': 23.85,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -9.373,
+ 'enterpriseToRevenue': 32.773,
+ 'enterpriseValue': 540857088,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 25.157429,
+ 'fiftyTwoWeekHigh': 33.5,
+ 'fiftyTwoWeekLow': 9.9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 10884520,
+ 'forwardEps': -2.3,
+ 'forwardPE': -10.795652,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 80,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.41359,
+ 'heldPercentInstitutions': 0.47667,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/morphictx.com',
+ 'longBusinessSummary': 'Morphic Holding, Inc., a biopharmaceutical company, '
+                        'discovers and develops oral small-molecule integrin '
+                        'therapeutics for the treatment of autoimmune, '
+                        'cardiovascular, and metabolic diseases, as well as '
+                        'fibrosis and cancer. Its lead product candidates in '
+                        'clinical development are MORF-720, a selective oral '
+                        'av√\x9f6 specific integrin inhibitor for the '
+                        'treatment of idiopathic pulmonary fibrosis (IPF) and '
+                        'primary sclerosing cholangitis (PSC); and MORF-057, a '
+                        'a4√\x9f7 specific integrin inhibitor for the '
+                        'treatment of inflammatory bowel disease (IBD). The '
+                        'company is also developing MR √\x9f6 #2, a selective '
+                        'av√\x9f6 specific integrin inhibitor to treat IPF and '
+                        'PSC; and av√\x9f1 integrin for the treatment of '
+                        'fibrosis. Morphic Holding, Inc. has a research '
+                        'collaboration with Engitix Ltd for the identification '
+                        'of Morphic integrin technology amenable targets in '
+                        'fibrostenotic IBD; a collaboration agreement with '
+                        'Schr√∂dinger, LLC for integrin targets; and a license '
+                        "agreement with Children's Medical Center Corporation "
+                        'to develop and commercialize products worldwide for '
+                        'any therapeutic or diagnostic use in humans and '
+                        'veterinary applications. It also has collaboration '
+                        'agreements with AbbVie Biotechnology Ltd and Janssen '
+                        'Pharmaceuticals, Inc. to discover or develop '
+                        'integrin-based therapeutics; and drug discovery '
+                        'research collaboration with HitGen Inc. to identify '
+                        'small molecule leads against targets specified by the '
+                        'company. The company was founded in 2014 and is based '
+                        'in Waltham, Massachusetts.',
+ 'longName': 'Morphic Holding, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 760967488,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_345057935',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -54874000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 25.25,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '781 996 0955',
+ 'previousClose': 25.44,
+ 'priceHint': 2,
+ 'priceToBook': 5.868589,
+ 'priceToSalesTrailing12Months': 46.11086,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.25,
+ 'regularMarketDayLow': 23.85,
+ 'regularMarketOpen': 25.25,
+ 'regularMarketPreviousClose': 25.44,
+ 'regularMarketPrice': 25.25,
+ 'regularMarketVolume': 33539,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 30647100,
+ 'sharesPercentSharesOut': 0.0321,
+ 'sharesShort': 982537,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 448351,
+ 'shortName': 'Morphic Holding, Inc.',
+ 'shortPercentOfFloat': 0.0838,
+ 'shortRatio': 6.67,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'MORF',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.367,
+ 'twoHundredDayAverage': 18.729065,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'a1e60ff9-744a-3908-a947-e5d2f0a617cc',
+ 'volume': 33539,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.morphictx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02451'}

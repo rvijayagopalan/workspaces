@@ -1,0 +1,150 @@
+{'52WeekChange': -0.14544481,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '17988 Edison Avenue',
+ 'address2': 'Chesterfield',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 16.05,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 95237,
+ 'averageVolume': 122514,
+ 'averageVolume10days': 95237,
+ 'beta': 1.288515,
+ 'beta3Year': None,
+ 'bid': 16.04,
+ 'bidSize': 800,
+ 'bookValue': 13.456,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'St. Louis',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 16.4921,
+ 'dayLow': 15.78,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 8.104,
+ 'enterpriseToRevenue': 0.66,
+ 'enterpriseValue': 808074240,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 15.545428,
+ 'fiftyTwoWeekHigh': 23.65,
+ 'fiftyTwoWeekLow': 11.4,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 29789131,
+ 'forwardEps': 1.11,
+ 'forwardPE': 14.450451,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4900,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.04053,
+ 'heldPercentInstitutions': 0.99505997,
+ 'industry': 'Engineering & Construction',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/aegion.com',
+ 'longBusinessSummary': 'Aegion Corporation provides technologies to maintain, '
+                        'rehabilitate, and strengthen infrastructure in the '
+                        'United States, Canada, Europe, and internationally. '
+                        'It operates through three segments: Infrastructure '
+                        'Solutions, Corrosion Protection, and Energy Services. '
+                        'The company offers various solutions for '
+                        'rehabilitating and maintaining aging or deteriorating '
+                        'infrastructure; protecting new infrastructure from '
+                        'corrosion and other threats; and providing integrated '
+                        'professional services in engineering, procurement, '
+                        'construction, maintenance, and turnaround services '
+                        'for oil and natural gas companies. Its solutions '
+                        'include rehabilitation of water and wastewater '
+                        'pipelines; fusible polyvinyl chloride products for '
+                        'rehabilitation and new installation; fiber reinforced '
+                        'polymer systems for rehabilitation and strengthening; '
+                        'cathodic protection for corrosion engineering control '
+                        'and infrastructure rehabilitation; pipe coatings for '
+                        'corrosion and thermal control and prevention; '
+                        'thermoplastic pipe lining for corrosion control, '
+                        'abrasion protection, and pipeline rehabilitation; and '
+                        'construction and maintenance of oil and gas '
+                        'facilities. The company serves municipal, state, and '
+                        'federal governments, as well as corporate customers '
+                        'in various industries, including pipelines, energy, '
+                        'oil and gas, refinery, mining, general and industrial '
+                        'construction, infrastructure, water and wastewater, '
+                        'transportation, utilities, maritime, and defense. '
+                        'Aegion Corporation was founded in 1971 and is '
+                        'headquartered in St. Louis, Missouri.',
+ 'longName': 'Aegion Corporation',
+ 'market': 'us_market',
+ 'marketCap': 492164960,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_280123',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -18523000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 16.35,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.2,
+ 'phone': '636 530 8000',
+ 'previousClose': 16.37,
+ 'priceHint': 2,
+ 'priceToBook': 1.1920333,
+ 'priceToSalesTrailing12Months': 0.40196222,
+ 'profitMargins': -0.01513,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 16.4921,
+ 'regularMarketDayLow': 15.78,
+ 'regularMarketOpen': 16.35,
+ 'regularMarketPreviousClose': 16.37,
+ 'regularMarketPrice': 16.35,
+ 'regularMarketVolume': 108303,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 30683600,
+ 'sharesPercentSharesOut': 0.0317,
+ 'sharesShort': 971660,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 981079,
+ 'shortName': 'Aegion Corp',
+ 'shortPercentOfFloat': 0.0563,
+ 'shortRatio': 6.8,
+ 'startDate': None,
+ 'state': 'MO',
+ 'strikePrice': None,
+ 'symbol': 'AEGN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.6,
+ 'twoHundredDayAverage': 17.015612,
+ 'volume': 108303,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.aegion.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '63005-1195'}

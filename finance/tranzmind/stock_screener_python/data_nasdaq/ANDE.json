@@ -1,0 +1,157 @@
+{'52WeekChange': -0.46914977,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1947 Briarfield Boulevard',
+ 'address2': 'PO Box 119',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.11,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 124675,
+ 'averageVolume': 260896,
+ 'averageVolume10days': 124675,
+ 'beta': 0.747338,
+ 'beta3Year': None,
+ 'bid': 14.1,
+ 'bidSize': 800,
+ 'bookValue': 27.794,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Maumee',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.27,
+ 'dayLow': 13.96,
+ 'dividendRate': 0.7,
+ 'dividendYield': 0.049200002,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 10.771,
+ 'enterpriseToRevenue': 0.27,
+ 'enterpriseValue': 2172650240,
+ 'exDividendDate': 1593648000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 13.805715,
+ 'fiftyTwoWeekHigh': 28.82,
+ 'fiftyTwoWeekLow': 10,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.17,
+ 'floatShares': 29848062,
+ 'forwardEps': 1.34,
+ 'forwardPE': 10.526119,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2247,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.06347,
+ 'heldPercentInstitutions': 0.78821,
+ 'industry': 'Food Distribution',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1392854400,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/andersonsinc.com',
+ 'longBusinessSummary': 'The Andersons, Inc., an agriculture company, operates '
+                        'in the grain, ethanol, plant nutrient, and rail '
+                        'sectors in the United States and internationally. The '
+                        "company's Grain segment operates grain elevators; "
+                        'stores grains; and provides grain marketing, risk '
+                        'management, and corn origination services to its '
+                        'customers and affiliated ethanol facilities. Its '
+                        'Ethanol segment purchases and sells ethanol; and '
+                        'offers facility operations, risk management, and corn '
+                        'origination services. Its Ethanol segment purchases '
+                        'and sells ethanol, as well as offers facility '
+                        'operations, risk management, and ethanol and corn oil '
+                        'marketing services to the ethanol plants it invests '
+                        "in and operates. The company's Plant Nutrient segment "
+                        'manufactures, distributes, and retails agricultural '
+                        'and related plant nutrients, and pelleted lime and '
+                        'gypsum products; and crop nutrients, crop protection '
+                        'chemicals, and seed products, as well as provides '
+                        'application and agronomic services to commercial and '
+                        'family farmers. This segment also offers warehousing, '
+                        'packaging, and manufacturing services to nutrient '
+                        'producers and other distributors; and manufactures '
+                        'and distributes various industrial products, such as '
+                        'nitrogen reagents for air pollution control systems '
+                        'that are used in coal-fired power plants, and water '
+                        'treatment and dust abatement products. In addition, '
+                        'this segment produces corncob-based products for '
+                        'laboratory animal bedding and private-label cat '
+                        'litter, as well as absorbents, blast cleaners, '
+                        'carriers, and polishers; professional lawn care '
+                        'products for golf course and turf care markets; and '
+                        'fertilizer and control products. Its Rail segment '
+                        'leases, sells, and repairs various types of railcars, '
+                        'locomotives, and barges; provides fleet management '
+                        'services to private railcar owners; and offers metal '
+                        'fabrication services. The Andersons, Inc. was founded '
+                        'in 1947 and is based in Maumee, Ohio.',
+ 'longName': 'The Andersons, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 464054496,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_364264',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -5362000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.21,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': -1.68,
+ 'phone': '419 893 5050',
+ 'previousClose': 14.22,
+ 'priceHint': 2,
+ 'priceToBook': 0.5074836,
+ 'priceToSalesTrailing12Months': 0.05767157,
+ 'profitMargins': -0.00067000004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.27,
+ 'regularMarketDayLow': 13.96,
+ 'regularMarketOpen': 14.21,
+ 'regularMarketPreviousClose': 14.22,
+ 'regularMarketPrice': 14.21,
+ 'regularMarketVolume': 95021,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 32900000,
+ 'sharesPercentSharesOut': 0.0194,
+ 'sharesShort': 637306,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 644139,
+ 'shortName': 'The Andersons, Inc.',
+ 'shortPercentOfFloat': 0.028800001,
+ 'shortRatio': 2.63,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'ANDE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.685,
+ 'trailingAnnualDividendYield': 0.048171587,
+ 'trailingEps': -0.17,
+ 'twoHundredDayAverage': 17.119783,
+ 'volume': 95021,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.andersonsinc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '43537'}

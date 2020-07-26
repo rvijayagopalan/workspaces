@@ -1,0 +1,155 @@
+{'52WeekChange': -0.39072847,
+ 'SandP52WeekChange': None,
+ 'address1': '401 Charmany Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.8,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 12550,
+ 'averageVolume': 20353,
+ 'averageVolume10days': 12550,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 14.72,
+ 'bidSize': 3000,
+ 'bookValue': 23.541,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Madison',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 15.24,
+ 'dayLow': 14.72,
+ 'dividendRate': 0.66,
+ 'dividendYield': 0.0448,
+ 'earningsQuarterlyGrowth': -0.494,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 6.745,
+ 'enterpriseValue': 563080128,
+ 'exDividendDate': 1588291200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '608-232-5920',
+ 'fiftyDayAverage': 15.808572,
+ 'fiftyTwoWeekHigh': 27.35,
+ 'fiftyTwoWeekLow': 12.86,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.32,
+ 'floatShares': 7216870,
+ 'forwardEps': 1.63,
+ 'forwardPE': 9.030675,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 288,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04815,
+ 'heldPercentInstitutions': 0.67555,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1440979200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/firstbusiness.com',
+ 'longBusinessSummary': 'First Business Financial Services, Inc. operates as '
+                        'the bank holding company for First Business Bank that '
+                        'provides commercial banking products and services for '
+                        'small and medium-sized businesses, business owners, '
+                        'executives, professionals, and high net worth '
+                        'individuals. The company offers deposit products, '
+                        'such as non-interest-bearing transaction accounts, '
+                        'interest-bearing transaction accounts, money market '
+                        'accounts, time deposits, and certificates of deposit. '
+                        'It also provides loan products, including commercial '
+                        'real estate loans, commercial and industrial loans, '
+                        'small business administration loans, and direct '
+                        'financing leases, as well as consumer and other loans '
+                        'comprising home equity, second mortgage, credit card, '
+                        'and other personal loans for professional and '
+                        'executive clients. In addition, the company offers '
+                        'commercial lending, asset-based financing, equipment '
+                        'financing, treasury management, and trust and '
+                        'investment. Further, it provides lines of credit and '
+                        'factored receivable financing, and term loans secured '
+                        'by accounts receivable, inventory, equipment, and '
+                        'real estate assets primarily to manufacturers and '
+                        'wholesale distribution companies; and new and '
+                        'replacement equipment loan and lease, debt '
+                        'restructuring, consolidation, and sale-lease-back '
+                        'transaction services. The company holds an equity '
+                        'investment in a Madison, Wisconsin community '
+                        'development project; and invests in marketable '
+                        'securities and tax-exempt loans. First Business '
+                        'Financial Services, Inc. was incorporated in 1986 and '
+                        'is headquartered in Madison, Wisconsin.',
+ 'longName': 'First Business Financial Services, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 125471224,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4480660',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 16951000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.93,
+ 'openInterest': None,
+ 'payoutRatio': 0.2573,
+ 'pegRatio': 1.02,
+ 'phone': '608-238-8008',
+ 'previousClose': 14.72,
+ 'priceHint': 2,
+ 'priceToBook': 0.62529206,
+ 'priceToSalesTrailing12Months': 1.5029734,
+ 'profitMargins': 0.20906,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 15.24,
+ 'regularMarketDayLow': 14.72,
+ 'regularMarketOpen': 14.93,
+ 'regularMarketPreviousClose': 14.72,
+ 'regularMarketPrice': 14.93,
+ 'regularMarketVolume': 9805,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 8587450,
+ 'sharesPercentSharesOut': 0.0061000003,
+ 'sharesShort': 51947,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 34239,
+ 'shortName': 'First Business Financial Servic',
+ 'shortPercentOfFloat': 0.0064,
+ 'shortRatio': 2.46,
+ 'startDate': None,
+ 'state': 'WI',
+ 'strikePrice': None,
+ 'symbol': 'FBIZ',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.64,
+ 'trailingAnnualDividendYield': 0.043478258,
+ 'trailingEps': 2.015,
+ 'trailingPE': 7.3052106,
+ 'twoHundredDayAverage': 18.570072,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '3cde97cb-cc7b-355e-b977-7e28f2c58ca6',
+ 'volume': 9805,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.firstbusiness.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '53719'}

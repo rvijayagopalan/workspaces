@@ -1,0 +1,159 @@
+{'52WeekChange': -0.124693215,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3400 Cumberland Boulevard SE',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 35.64,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 765787,
+ 'averageVolume': 1262882,
+ 'averageVolume10days': 765787,
+ 'beta': 1.184873,
+ 'beta3Year': None,
+ 'bid': 35.6,
+ 'bidSize': 1300,
+ 'bookValue': 8.72,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Atlanta',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 36.18,
+ 'dayLow': 35.55,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.327,
+ 'enterpriseToEbitda': 10.474,
+ 'enterpriseToRevenue': 1.361,
+ 'enterpriseValue': 8232691200,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 34.75257,
+ 'fiftyTwoWeekHigh': 43.25,
+ 'fiftyTwoWeekLow': 21.69,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 160279694,
+ 'forwardEps': 2.83,
+ 'forwardPE': 12.600707,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 11000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0101,
+ 'heldPercentInstitutions': 0.99362,
+ 'industry': 'Industrial Distribution',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580601600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/hdsupply.com',
+ 'longBusinessSummary': 'HD Supply Holdings, Inc. operates as an industrial '
+                        'distributor in North America. It operates in two '
+                        'segments, Facilities Maintenance, and Construction & '
+                        'Industrial. The Facilities Maintenance segment offers '
+                        'electrical and lighting items, plumbing supplies, '
+                        'appliances, janitorial supplies, hardware products, '
+                        'kitchen and bath cabinets, window coverings, textiles '
+                        'and guest amenities, healthcare maintenance products, '
+                        'water and wastewater treatment products, and heating, '
+                        'ventilating, and air conditioning products. This '
+                        'segment also distributes maintenance, repair, and '
+                        'operations products; and provides value-add services, '
+                        'as well as fabricates custom products. The '
+                        'Construction & Industrial segment distributes '
+                        'hardware, tools, engineered materials, and safety '
+                        'products, as well as offers pre-bid assistance, '
+                        'product submittal, engineering, and tool repair '
+                        'services. Its products include tilt-up brace systems, '
+                        'forming and shoring systems, concrete chemicals, hand '
+                        'and power tools, cutting tools, rebars, ladders, '
+                        'safety and fall arrest equipment, specialty screws '
+                        'and fasteners, sealants and adhesives, drainage '
+                        'pipes, geo-synthetics, erosion and sediment control '
+                        'equipment, and other engineered materials. This '
+                        'segment also offers home improvement solutions, such '
+                        'as light remodeling and construction supplies, '
+                        'kitchen and bath cabinets, windows, plumbing '
+                        'materials, electrical equipment, and other products. '
+                        'The company has approximately 270 branches and 44 '
+                        'distribution centers. It sells its products primarily '
+                        'through a professional sales force, print catalog, '
+                        'and e-commerce channels to approximately 500,000 '
+                        'customers consisting of contractors, maintenance '
+                        'professionals, home builders, industrial businesses, '
+                        'and government entities. The company was formerly '
+                        'known as HDS Investment Holding, Inc. and changed its '
+                        'name to HD Supply Holdings, Inc. in April 2013. HD '
+                        'Supply Holdings, Inc. was founded in 2007 and is '
+                        'headquartered in Atlanta, Georgia.',
+ 'longName': 'HD Supply Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 5776706048,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_100787816',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588464000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 416000000,
+ 'nextFiscalYearEnd': 1643760000,
+ 'open': 35.76,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 8.03,
+ 'phone': '770 852 9000',
+ 'previousClose': 35.99,
+ 'priceHint': 2,
+ 'priceToBook': 4.0894494,
+ 'priceToSalesTrailing12Months': 0.9551432,
+ 'profitMargins': 0.06895,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 36.18,
+ 'regularMarketDayLow': 35.55,
+ 'regularMarketOpen': 35.76,
+ 'regularMarketPreviousClose': 35.99,
+ 'regularMarketPrice': 35.76,
+ 'regularMarketVolume': 599211,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 161994000,
+ 'sharesPercentSharesOut': 0.033099998,
+ 'sharesShort': 5361286,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5152207,
+ 'shortName': 'HD Supply Holdings, Inc.',
+ 'shortPercentOfFloat': 0.0448,
+ 'shortRatio': 3.24,
+ 'startDate': None,
+ 'state': 'GA',
+ 'strikePrice': None,
+ 'symbol': 'HDS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.532,
+ 'trailingPE': 14.083728,
+ 'twoHundredDayAverage': 34.07856,
+ 'volume': 599211,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.hdsupply.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '30339'}

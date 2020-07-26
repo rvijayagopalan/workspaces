@@ -1,0 +1,155 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '6820 South Harl Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 48.23,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 277050,
+ 'averageVolume': 269242,
+ 'averageVolume10days': 277050,
+ 'beta': 1.491316,
+ 'beta3Year': None,
+ 'bid': 46.2,
+ 'bidSize': 800,
+ 'bookValue': 32.827,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Tempe',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 50.02,
+ 'dayLow': 48.19,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.136,
+ 'enterpriseToEbitda': 8.768,
+ 'enterpriseToRevenue': 0.333,
+ 'enterpriseValue': 2728156416,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 48.77257,
+ 'fiftyTwoWeekHigh': 73.22,
+ 'fiftyTwoWeekLow': 28.25,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 34282319,
+ 'forwardEps': 5.96,
+ 'forwardPE': 8.097315,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 11261,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01906,
+ 'heldPercentInstitutions': 1.05611,
+ 'industry': 'Information Technology Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/insight.com',
+ 'longBusinessSummary': 'Insight Enterprises, Inc. provides information '
+                        'technology hardware, software, and services solutions '
+                        'in the United States, Canada, Europe, the Middle '
+                        'East, Africa, and the Asia-Pacific. It sources, '
+                        'procures, stages, configures, integrates, tests, '
+                        'deploys, and maintains IT products spanning endpoints '
+                        'to infrastructure; and offers software life cycle, '
+                        'and hardware warranty and software maintenance '
+                        'services. The company also provides desktop, '
+                        'notebook, tablet, and mobile devices coupled with '
+                        'cloud-based productivity solutions; managed '
+                        'solutions, such as spanning messaging, voice, video, '
+                        'and content management; and workplace services, '
+                        'including desk side support, remote service desk, '
+                        'automated self-service, and self-healing solutions. '
+                        'In addition, it offers various services, such as '
+                        'hybrid cloud, migration and consolidation, '
+                        'workload-platform alignment, converged/hyper '
+                        'converged solutions, and software-defined data '
+                        'center; data platform modernization services; '
+                        'integrated network and security solutions; and '
+                        'consulting, professional, managed, and support '
+                        'services. Further, the company provides digital '
+                        'signage, kiosk, tablet, and smartphone endpoints; '
+                        'custom-developed applications to enable '
+                        'client-to-customer engagement; custom-developed '
+                        'mobile, cloud, and Internet-of-Things applications; '
+                        'and custom solutions, which enable clients review '
+                        'insights within their data. Additionally, it sells '
+                        'hardware and software products; and offers enterprise '
+                        'data center solutions. The company was founded in '
+                        '1988 and is headquartered in Tempe, Arizona.',
+ 'longName': 'Insight Enterprises, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1691541888,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_336930',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 154040992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 49.95,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.48,
+ 'phone': '480 333 3000',
+ 'previousClose': 50.1,
+ 'priceHint': 2,
+ 'priceToBook': 1.4701313,
+ 'priceToSalesTrailing12Months': 0.20654315,
+ 'profitMargins': 0.01881,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 50.02,
+ 'regularMarketDayLow': 48.19,
+ 'regularMarketOpen': 49.95,
+ 'regularMarketPreviousClose': 50.1,
+ 'regularMarketPrice': 49.95,
+ 'regularMarketVolume': 131366,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 35050600,
+ 'sharesPercentSharesOut': 0.0904,
+ 'sharesShort': 3167703,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3448905,
+ 'shortName': 'Insight Enterprises, Inc.',
+ 'shortPercentOfFloat': 0.1496,
+ 'shortRatio': 13,
+ 'startDate': None,
+ 'state': 'AZ',
+ 'strikePrice': None,
+ 'symbol': 'NSIT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 4.291,
+ 'trailingPE': 11.246796,
+ 'twoHundredDayAverage': 52.41,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b292627a-cc3f-3207-b3f5-f4698950cd7f',
+ 'volume': 131366,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.insight.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '85283'}

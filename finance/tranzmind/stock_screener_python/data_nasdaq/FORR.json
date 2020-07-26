@@ -1,0 +1,160 @@
+{'52WeekChange': -0.3546185,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '60 Acorn Park Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 32.19,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 30387,
+ 'averageVolume': 47157,
+ 'averageVolume10days': 30387,
+ 'beta': 0.955182,
+ 'beta3Year': None,
+ 'bid': 32.15,
+ 'bidSize': 800,
+ 'bookValue': 8.432,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 32.85,
+ 'dayLow': 31.88,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 16.347,
+ 'enterpriseToRevenue': 1.552,
+ 'enterpriseValue': 725181376,
+ 'exDividendDate': 1544486400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 32.584286,
+ 'fiftyTwoWeekHigh': 50.38,
+ 'fiftyTwoWeekLow': 22.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 9823862,
+ 'forwardEps': 1.65,
+ 'forwardPE': 19.478788,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1794,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.42261,
+ 'heldPercentInstitutions': 0.55217,
+ 'industry': 'Consulting Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 949968000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/forrester.com',
+ 'longBusinessSummary': 'Forrester Research, Inc. operates as an independent '
+                        'research, data, and advisory services company in the '
+                        'United States and internationally. It operates '
+                        'through Products, Research, and SiriusDecisions '
+                        'segments. Its primary syndicated research product is '
+                        'Research, which offers clients with access to its '
+                        'research designed to inform their strategic '
+                        'decision-making. It also provides Playbooks, a set of '
+                        'integrated reports and tools to tackle critical '
+                        'business initiatives; SiriusDecisions Research that '
+                        'delivers operational intelligence and fact-based '
+                        'insight to functional marketing, sales, and product '
+                        'leaders of B2B organizations and their teams; and '
+                        'SiriusDecisions Command Center to offer performance '
+                        'benchmarking metrics in a self-service platform to '
+                        'aid sales, marketing, and product leaders in '
+                        'planning, uncovering new opportunities, and making '
+                        'business cases. In addition, it offers leadership '
+                        'boards that are peer groups for executives and other '
+                        'senior leaders at large organizations; executive '
+                        'programs with a trusted partner who help the '
+                        'executives and their teams establish and tackle their '
+                        'initiatives; and certification courses for leaders '
+                        'and their teams. Further, its analytics products and '
+                        'services include Customer Experience Index, a '
+                        'framework for assessing and measuring customer '
+                        'experience quality; Consumer Technographics, a '
+                        'quantitative research program; Business '
+                        'Technographics to provide assessments of what '
+                        'motivates businesses to choose certain technologies '
+                        'and vendors, as well as measures and reports on the '
+                        'current information consumption patterns of key '
+                        'influencers for technology purchases; FeedbackNow, a '
+                        'customer experience cloud solution; and ForecastView '
+                        'to provide a detailed evaluation of market size, '
+                        'based on expert analysis and quantitative insights '
+                        'from consumer and business surveys. Additionally, it '
+                        'offers advisory and project consulting services; and '
+                        'hosts various events. The company was founded in 1983 '
+                        'and is headquartered in Cambridge, Massachusetts.',
+ 'longName': 'Forrester Research, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 602946368,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_356418',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 3233000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 32.85,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.3,
+ 'phone': '617-613-6000',
+ 'previousClose': 33.01,
+ 'priceHint': 2,
+ 'priceToBook': 3.8116696,
+ 'priceToSalesTrailing12Months': 1.2900201,
+ 'profitMargins': 0.0069199996,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 32.85,
+ 'regularMarketDayLow': 31.88,
+ 'regularMarketOpen': 32.85,
+ 'regularMarketPreviousClose': 33.01,
+ 'regularMarketPrice': 32.85,
+ 'regularMarketVolume': 23006,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 18760000,
+ 'sharesPercentSharesOut': 0.0301,
+ 'sharesShort': 564349,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 494595,
+ 'shortName': 'Forrester Research, Inc.',
+ 'shortPercentOfFloat': 0.0521,
+ 'shortRatio': 10.76,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'FORR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.2,
+ 'trailingAnnualDividendYield': 0.0060587707,
+ 'trailingEps': 0.174,
+ 'trailingPE': 184.71265,
+ 'twoHundredDayAverage': 34.381367,
+ 'volume': 23006,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.forrester.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02140'}

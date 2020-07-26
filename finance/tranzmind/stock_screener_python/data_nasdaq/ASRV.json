@@ -1,0 +1,161 @@
+{'52WeekChange': -0.28536582,
+ 'SandP52WeekChange': None,
+ 'address1': 'Main & Franklin Streets',
+ 'address2': 'PO Box 430',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.94,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 10650,
+ 'averageVolume': 13107,
+ 'averageVolume10days': 10650,
+ 'beta': 0.892997,
+ 'beta3Year': None,
+ 'bid': 2.9,
+ 'bidSize': 1000,
+ 'bookValue': 6.015,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Johnstown',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.98,
+ 'dayLow': 2.91,
+ 'dividendRate': 0.1,
+ 'dividendYield': 0.0341,
+ 'earningsQuarterlyGrowth': -0.208,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.591,
+ 'enterpriseValue': 127568416,
+ 'exDividendDate': 1596153600,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 2.984857,
+ 'fiftyTwoWeekHigh': 4.3,
+ 'fiftyTwoWeekLow': 2.36,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.72,
+ 'floatShares': 15415214,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 305,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.09533,
+ 'heldPercentInstitutions': 0.43300998,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 902102400,
+ 'lastSplitFactor': '3:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ameriserv.com',
+ 'longBusinessSummary': 'AmeriServ Financial, Inc. operates as the bank '
+                        'holding company for AmeriServ Financial Bank that '
+                        'provides various consumer, mortgage, and commercial '
+                        'financial products. It offers retail banking '
+                        'services, such as demand, savings, and time deposits; '
+                        'checking and money market accounts; secured and '
+                        'unsecured consumer loans, and mortgage loans; and '
+                        'safe deposit boxes, holiday club accounts, money '
+                        "orders, and traveler's checks. The company also "
+                        'provides lending, depository, and related financial '
+                        'services, such as commercial real estate mortgage '
+                        'loans, short and medium-term loans, revolving credit '
+                        'arrangements, lines of credit, inventory and accounts '
+                        'receivable financing, real estate-construction loans, '
+                        'business savings accounts, certificates of deposit, '
+                        'wire transfers, night depository, and lock box '
+                        'services to commercial, industrial, financial, and '
+                        'governmental customers. In addition, the company '
+                        'offers personal trust products and services, '
+                        'including personal portfolio investment management, '
+                        'estate planning and administration, custodial '
+                        'services, and pre-need trusts; institutional trust '
+                        'products and services comprising 401(k) plans, '
+                        'defined benefit and defined contribution employee '
+                        'benefit plans, and individual retirement accounts; '
+                        'financial services consisting of the sale of mutual '
+                        'funds, annuities, and insurance products; and union '
+                        'collective investment funds to invest union pension '
+                        'dollars in construction projects that utilize union '
+                        'labor. Further, it engages in underwriting as '
+                        'reinsurer of credit life and disability insurance. '
+                        'The company operates through a network of 16 banking '
+                        'locations in Allegheny, Cambria, Centre, Somerset, '
+                        'and Westmoreland counties, Pennsylvania, and '
+                        'Washington County, Maryland; and operates 17 '
+                        'automated bank teller machines. AmeriServ Financial, '
+                        'Inc. is headquartered in Johnstown, Pennsylvania.',
+ 'longName': 'AmeriServ Financial, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 49640528,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_311189',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 5186000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.91,
+ 'openInterest': None,
+ 'payoutRatio': 0.32259998,
+ 'pegRatio': None,
+ 'phone': '814-533-5300',
+ 'previousClose': 2.93,
+ 'priceHint': 4,
+ 'priceToBook': 0.48379055,
+ 'priceToSalesTrailing12Months': 1.0082775,
+ 'profitMargins': 0.105340004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.98,
+ 'regularMarketDayLow': 2.91,
+ 'regularMarketOpen': 2.91,
+ 'regularMarketPreviousClose': 2.93,
+ 'regularMarketPrice': 2.91,
+ 'regularMarketVolume': 981,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 17058600,
+ 'sharesPercentSharesOut': 0.0091,
+ 'sharesShort': 154598,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 152646,
+ 'shortName': 'AmeriServ Financial Inc.',
+ 'shortPercentOfFloat': 0.0099,
+ 'shortRatio': 11.62,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'ASRV',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.1,
+ 'trailingAnnualDividendYield': 0.034129694,
+ 'trailingEps': 0.303,
+ 'trailingPE': 9.603961,
+ 'twoHundredDayAverage': 3.3016546,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '5a2695a2-e4e0-3346-8306-fa98c8920f95',
+ 'volume': 981,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ameriserv.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '15907-0430'}

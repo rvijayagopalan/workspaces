@@ -1,0 +1,156 @@
+{'52WeekChange': -0.31580442,
+ 'SandP52WeekChange': None,
+ 'address1': '13631 Progress Boulevard',
+ 'address2': 'Suite 400',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 12.36,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 318700,
+ 'averageVolume': 511661,
+ 'averageVolume10days': 318700,
+ 'beta': 0.409523,
+ 'beta3Year': None,
+ 'bid': 11.75,
+ 'bidSize': 2200,
+ 'bookValue': 3.125,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Alachua',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.15,
+ 'dayLow': 11.64,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -14.267,
+ 'enterpriseToRevenue': 3.599,
+ 'enterpriseValue': 387535424,
+ 'exDividendDate': 1264550400,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '386 462 6801',
+ 'fiftyDayAverage': 10.586857,
+ 'fiftyTwoWeekHigh': 18.84,
+ 'fiftyTwoWeekLow': 7.16,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 25951425,
+ 'forwardEps': -0.41,
+ 'forwardPE': -28.682928,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 371,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.03601,
+ 'heldPercentInstitutions': 0.88807,
+ 'industry': 'Medical Devices',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 773884800,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/axogeninc.com',
+ 'longBusinessSummary': 'AxoGen, Inc., together with its subsidiaries, '
+                        'provides surgical solutions for physical damage or '
+                        "transection to peripheral nerves. The company's "
+                        'products include Avance Nerve Graft, a biologically '
+                        'active off-the-shelf processed human nerve allograft '
+                        'for bridging severed nerves without the comorbidities '
+                        'associated with a second surgical site; AxoGuard '
+                        'Nerve Connector, a porcine submucosa extracellular '
+                        'matrix (ECM) coaptation aid for tensionless repair of '
+                        'severed peripheral nerves; and AxoGuard Nerve '
+                        'Protector, a porcine submucosa ECM product that is '
+                        'used to wrap and protect damaged peripheral nerves, '
+                        'as well as reinforces the nerve reconstruction while '
+                        'preventing soft tissue attachments. Its products also '
+                        'comprise Axoguard Nerve Cap, a porcine submucosa ECM '
+                        'product that is used to protect a peripheral nerve '
+                        'end, as well as separates the nerve from the '
+                        'surrounding environment to reduce the development of '
+                        'symptomatic or painful neuroma; and Avive Soft Tissue '
+                        'Membrane, a minimally processed human umbilical cord '
+                        'membrane that can be used as a resorbable soft tissue '
+                        'covering to separate tissues in the surgical bed. In '
+                        'addition, the company offers AxoTouch two point '
+                        'discriminator, a tool that is used for measuring the '
+                        'innervation density of surface area of the skin. It '
+                        'provides its products to hospitals, surgery centers, '
+                        'and military hospitals plastic reconstructive '
+                        'surgeons, orthopedic and plastic hand surgeons, and '
+                        'various oral and maxillofacial surgeons in the United '
+                        'States, Canada, the United Kingdom and other European '
+                        'countries, South Korea, and internationally. AxoGen, '
+                        'Inc. is headquartered in Alachua, Florida.',
+ 'longName': 'AxoGen, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 467599968,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_20946777',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -27823000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 12.04,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '386 462 6800',
+ 'previousClose': 12.035,
+ 'priceHint': 2,
+ 'priceToBook': 3.7632,
+ 'priceToSalesTrailing12Months': 4.3421736,
+ 'profitMargins': -0.25837,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.15,
+ 'regularMarketDayLow': 11.64,
+ 'regularMarketOpen': 12.04,
+ 'regularMarketPreviousClose': 12.035,
+ 'regularMarketPrice': 12.04,
+ 'regularMarketVolume': 136802,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 39761900,
+ 'sharesPercentSharesOut': 0.032,
+ 'sharesShort': 1270654,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1177428,
+ 'shortName': 'AxoGen, Inc.',
+ 'shortPercentOfFloat': 0.039100002,
+ 'shortRatio': 3.34,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'AXGN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.706,
+ 'twoHundredDayAverage': 10.795899,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '7bcdc4f6-2582-3323-ab9e-9d3722f90de9',
+ 'volume': 136802,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.axogeninc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '32615'}

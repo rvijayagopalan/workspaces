@@ -1,0 +1,163 @@
+{'52WeekChange': -0.31975365,
+ 'SandP52WeekChange': None,
+ 'address1': '1398 Central Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 32.99,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 105912,
+ 'averageVolume': 133369,
+ 'averageVolume10days': 105912,
+ 'beta': 1.258823,
+ 'beta3Year': None,
+ 'bid': 30.07,
+ 'bidSize': 800,
+ 'bookValue': 42.212,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Dubuque',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 31.85,
+ 'dayLow': 31.11,
+ 'dividendRate': 0.8,
+ 'dividendYield': 0.0254,
+ 'earningsQuarterlyGrowth': -0.364,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.52,
+ 'enterpriseValue': 1333405184,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 31.872572,
+ 'fiftyTwoWeekHigh': 51.85,
+ 'fiftyTwoWeekLow': 25.26,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.17,
+ 'floatShares': 32768544,
+ 'forwardEps': 2.77,
+ 'forwardPE': 11.256318,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1817,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.06266,
+ 'heldPercentInstitutions': 0.5801,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1072742400,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/htlf.com',
+ 'longBusinessSummary': 'Heartland Financial USA, Inc., a multi-bank holding '
+                        'company, provides commercial, small business, and '
+                        'consumer banking services to individuals and '
+                        'businesses in the United States. It accepts various '
+                        'deposit products, including checking and other demand '
+                        'deposit accounts; NOW, savings, money market, '
+                        'individual retirement, and health savings accounts; '
+                        'certificates of deposit; and other time deposits. The '
+                        'company also offers commercial and industrial loans; '
+                        'commercial real estate loans; real estate mortgage '
+                        'loans; small business loans; agricultural loans; '
+                        'consumer loans comprising motor vehicle and home '
+                        'improvement loans, home equity line of credit, and '
+                        'fixed rate home equity and personal lines of credit; '
+                        'and credit cards for commercial, business, and '
+                        'personal use. In addition, it provides online '
+                        'banking, mobile banking, telephone banking, bill '
+                        'payment, automated clearing house, wire transfer, '
+                        'zero balance account, transaction reporting, lock '
+                        'box, remote deposit capture, accounts receivable, '
+                        'investment sweep account, reconciliation, treasury '
+                        'management, foreign exchange, and various fraud '
+                        'prevention services, such as check and electronic '
+                        'positive pay, and virus/malware protection service, '
+                        'as well as commercial purchasing and merchant credit '
+                        'cards, debit cards, and automated teller machines. '
+                        'Further, the company offers investment services, such '
+                        'as mutual funds, annuities, retirement products, '
+                        'education savings products, brokerage services, '
+                        'employer sponsored plans, and insurance products, as '
+                        'well as vehicle, property and casualty, and life and '
+                        'disability insurance products. Additionally, it is '
+                        'involved in the community development, consumer '
+                        'finance, multi-line insurance agency, and property '
+                        'management businesses. The company operates through '
+                        '115 banking locations in Iowa, Illinois, Wisconsin, '
+                        'New Mexico, Arizona, Montana, Colorado, Minnesota, '
+                        'Kansas, Missouri, Texas, and California. Heartland '
+                        'Financial USA, Inc. was founded in 1981 and is '
+                        'headquartered in Dubuque, Iowa.',
+ 'longName': 'Heartland Financial USA, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1147679744,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_528408',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 137672000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 31.51,
+ 'openInterest': None,
+ 'payoutRatio': 0.191,
+ 'pegRatio': 1.25,
+ 'phone': '563-589-2100',
+ 'previousClose': 31.475,
+ 'priceHint': 2,
+ 'priceToBook': 0.73865247,
+ 'priceToSalesTrailing12Months': 2.169367,
+ 'profitMargins': 0.26023,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 31.85,
+ 'regularMarketDayLow': 31.11,
+ 'regularMarketOpen': 31.51,
+ 'regularMarketPreviousClose': 31.475,
+ 'regularMarketPrice': 31.51,
+ 'regularMarketVolume': 61921,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 36808200,
+ 'sharesPercentSharesOut': 0.0146,
+ 'sharesShort': 537261,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 355965,
+ 'shortName': 'Heartland Financial USA, Inc.',
+ 'shortPercentOfFloat': 0.0156,
+ 'shortRatio': 4.04,
+ 'startDate': None,
+ 'state': 'IA',
+ 'strikePrice': None,
+ 'symbol': 'HTLF',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.72,
+ 'trailingAnnualDividendYield': 0.022875298,
+ 'trailingEps': 3.76,
+ 'trailingPE': 8.292553,
+ 'twoHundredDayAverage': 36.43259,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '155506d0-3b0e-310e-a458-60b0ad9dc3be',
+ 'volume': 61921,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.htlf.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '52001'}

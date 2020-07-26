@@ -1,0 +1,159 @@
+{'52WeekChange': -0.44071025,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '6830 Old Dominion Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 8.87,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 57225,
+ 'averageVolume': 96296,
+ 'averageVolume10days': 57225,
+ 'beta': 1.023529,
+ 'beta3Year': None,
+ 'bid': 8.83,
+ 'bidSize': 800,
+ 'bookValue': 15.591,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'McLean',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9.15,
+ 'dayLow': 8.81,
+ 'dividendRate': 0.4,
+ 'dividendYield': 0.0437,
+ 'earningsQuarterlyGrowth': -0.996,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.809,
+ 'enterpriseValue': 441954752,
+ 'exDividendDate': 1588896000,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '703-893-7488',
+ 'fiftyDayAverage': 9.401714,
+ 'fiftyTwoWeekHigh': 16.85,
+ 'fiftyTwoWeekLow': 7.58,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.32,
+ 'floatShares': 18459451,
+ 'forwardEps': 0.86,
+ 'forwardPE': 10.255814,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 350,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.08473,
+ 'heldPercentInstitutions': 0.75877,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1177891200,
+ 'lastSplitFactor': '11:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sonabank.com',
+ 'longBusinessSummary': 'Southern National Bancorp of Virginia, Inc. operates '
+                        'as the bank holding company for Sonabank that '
+                        'provides commercial banking services to individuals '
+                        'and small and medium sized businesses in the United '
+                        'States. Its deposit products include '
+                        'noninterest-bearing and interest-bearing checking, '
+                        'commercial checking, money market, and savings '
+                        'accounts, as well as certificates of deposit. The '
+                        "company's loan portfolio comprises commercial "
+                        'mortgage and non-mortgage loans, including commercial '
+                        'real estate loans, construction and permanent loans, '
+                        'development and builder loans, accounts receivable '
+                        'financing, lines of credit, equipment and vehicle '
+                        'loans, leasing, and commercial overdraft protection; '
+                        'construction loans for commercial, multifamily, and '
+                        'other non-residential properties; commercial business '
+                        'loans, such as lines of credit, revolving credit '
+                        'facilities, demand loans, term loans, equipment '
+                        'loans, small business administration loans, stand-by '
+                        'letters of credit, and unsecured loans; residential '
+                        'mortgage lending; and secured and unsecured consumer '
+                        'loans. It also offers cash management services '
+                        'comprising investment/sweep, zero balance, and '
+                        'controlled disbursement accounts; and wire transfer, '
+                        'employer/payroll processing, night depository, '
+                        'lockbox, depository transfer, merchant, ACH '
+                        'origination, check 21 processing, and asset based '
+                        'lending, as well as mobile banking application '
+                        'services for personal and business accounts. In '
+                        'addition, the company provides other consumer/retail '
+                        'products and services that include debit and credit '
+                        "cards, ATM services, travelers' checks, notary "
+                        'services, and online banking services. As of December '
+                        '31, 2019, it operated forty-five full-service '
+                        'branches, which included thirty-eight in Virginia and '
+                        'seven in Maryland. Southern National Bancorp of '
+                        'Virginia, Inc. was founded in 2004 and is based in '
+                        'McLean, Virginia.',
+ 'longName': 'Southern National Bancorp of Virginia, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 214305712,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_28536710',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 27174000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 9.15,
+ 'openInterest': None,
+ 'payoutRatio': 0.333,
+ 'pegRatio': None,
+ 'phone': '703-893-7400',
+ 'previousClose': 9.15,
+ 'priceHint': 2,
+ 'priceToBook': 0.56571096,
+ 'priceToSalesTrailing12Months': 2.331767,
+ 'profitMargins': 0.29567,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9.15,
+ 'regularMarketDayLow': 8.81,
+ 'regularMarketOpen': 9.15,
+ 'regularMarketPreviousClose': 9.15,
+ 'regularMarketPrice': 9.15,
+ 'regularMarketVolume': 40269,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 24297700,
+ 'sharesPercentSharesOut': 0.0069,
+ 'sharesShort': 167576,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 205721,
+ 'shortName': 'Southern National Bancorp of Vi',
+ 'shortPercentOfFloat': 0.0084,
+ 'shortRatio': 1.93,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'SONA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.38,
+ 'trailingAnnualDividendYield': 0.041530054,
+ 'trailingEps': 1.11,
+ 'trailingPE': 7.9459457,
+ 'twoHundredDayAverage': 11.336835,
+ 'volume': 40269,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sonabank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '22101'}

@@ -1,0 +1,155 @@
+{'52WeekChange': -0.074251294,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'One Technology Way',
+ 'address2': 'PO Box 9106',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 112.24,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 3980225,
+ 'averageVolume': 2743563,
+ 'averageVolume10days': 3980225,
+ 'beta': 1.354061,
+ 'beta3Year': None,
+ 'bid': 112.22,
+ 'bidSize': 900,
+ 'bookValue': 31.461,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Norwood',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 113.96,
+ 'dayLow': 110.86,
+ 'dividendRate': 2.48,
+ 'dividendYield': 0.0222,
+ 'earningsQuarterlyGrowth': -0.272,
+ 'enterpriseToEbitda': 20.331,
+ 'enterpriseToRevenue': 8.425,
+ 'enterpriseValue': 46708482048,
+ 'exDividendDate': 1590624000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 119.80371,
+ 'fiftyTwoWeekHigh': 127.39,
+ 'fiftyTwoWeekLow': 79.08,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.22,
+ 'floatShares': 366991443,
+ 'forwardEps': 5.39,
+ 'forwardPE': 20.818182,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 16400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0032600001,
+ 'heldPercentInstitutions': 0.91448,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1572652800,
+ 'lastMarket': None,
+ 'lastSplitDate': 953164800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/analog.com',
+ 'longBusinessSummary': 'Analog Devices, Inc. designs, manufactures, and '
+                        'markets integrated circuits (ICs), algorithms, '
+                        'software, and subsystems that leverage analog, '
+                        'mixed-signal, and digital signal processing '
+                        'technologies. The company offers data converter '
+                        'products, which translate real-world analog signals '
+                        'into digital data, as well as translates digital data '
+                        'into analog signals; high-performance amplifiers to '
+                        'condition analog signals; and radio frequency and '
+                        'microwave ICs to support cellular infrastructure. It '
+                        'also provides power management and reference products '
+                        'for power management and conversion applications in '
+                        'the automotive, communications, industrial, and '
+                        'high-end consumer markets; and microelectromechanical '
+                        'systems technology solutions, including '
+                        'accelerometers used to sense acceleration, gyroscopes '
+                        'to sense rotation, and inertial measurement units to '
+                        'sense multiple degrees of freedom. In addition, the '
+                        'company offers isolators for various applications, '
+                        'such as universal serial bus isolation in patient '
+                        'monitors; and smart metering and satellite '
+                        'applications, as well as digital signal processing '
+                        'products for high-speed numeric calculations. The '
+                        'company serves clients in industrial, automotive, '
+                        'consumer, and communications markets through a direct '
+                        'sales force, third-party distributors, and '
+                        'independent sales representatives in the United '
+                        'States, the rest of North and South America, Europe, '
+                        'Japan, China, and the rest of Asia, as well as '
+                        'through its Website. It has a strategic collaboration '
+                        'with Pinpoint Science Inc. to advance the development '
+                        'and manufacture of novel nanosensor diagnostics. '
+                        'Analog Devices, Inc. was founded in 1965 and is '
+                        'headquartered in Norwood, Massachusetts.',
+ 'longName': 'Analog Devices, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 41400328192,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_251411',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588377600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1110340992,
+ 'nextFiscalYearEnd': 1635811200,
+ 'open': 110.99,
+ 'openInterest': None,
+ 'payoutRatio': 0.7492,
+ 'pegRatio': 2.98,
+ 'phone': '781-329-4700',
+ 'previousClose': 111.94,
+ 'priceHint': 2,
+ 'priceToBook': 3.566638,
+ 'priceToSalesTrailing12Months': 7.467609,
+ 'profitMargins': 0.20051001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 113.96,
+ 'regularMarketDayLow': 110.86,
+ 'regularMarketOpen': 110.99,
+ 'regularMarketPreviousClose': 111.94,
+ 'regularMarketPrice': 110.99,
+ 'regularMarketVolume': 3736051,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 368953984,
+ 'sharesPercentSharesOut': 0.0121,
+ 'sharesShort': 4451611,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3991314,
+ 'shortName': 'Analog Devices, Inc.',
+ 'shortPercentOfFloat': 0.0121,
+ 'shortRatio': 1.88,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'ADI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.32,
+ 'trailingAnnualDividendYield': 0.020725388,
+ 'trailingEps': 2.991,
+ 'trailingPE': 37.51588,
+ 'twoHundredDayAverage': 110.47712,
+ 'volume': 3736051,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.analog.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02062'}

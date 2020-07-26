@@ -1,0 +1,155 @@
+{'52WeekChange': -0.6129613,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '12420 Stonebridge Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.3,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 261325,
+ 'averageVolume': 294273,
+ 'averageVolume10days': 261325,
+ 'beta': 1.522128,
+ 'beta3Year': None,
+ 'bid': 3.83,
+ 'bidSize': 800,
+ 'bookValue': 8.251,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Roanoke',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.395,
+ 'dayLow': 4.23,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.922,
+ 'enterpriseToRevenue': 0.622,
+ 'enterpriseValue': 294440288,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 4.806286,
+ 'fiftyTwoWeekHigh': 12.75,
+ 'fiftyTwoWeekLow': 3.12,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 22127876,
+ 'forwardEps': 0.77,
+ 'forwardPE': 5.584416,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2700,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.34159002,
+ 'heldPercentInstitutions': 0.66699,
+ 'industry': 'Footwear & Accessories',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580515200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/verabradley.com',
+ 'longBusinessSummary': 'Vera Bradley, Inc., together with its subsidiaries, '
+                        "designs, manufactures, and sells women's handbags, "
+                        'luggage and travel items, fashion and home '
+                        'accessories, and gifts. It operates through three '
+                        'segments: Vera Bradley Direct, Vera Bradley Indirect, '
+                        'and Pura Vida. The company offers bag products, such '
+                        'as totes, crossbodies, satchels, clutches, backpacks, '
+                        'baby bags, and lunch bags; accessories, including '
+                        'wallets, wristlets, eyeglass cases, scarves, and '
+                        'various technology accessories; bracelets, rings, and '
+                        'necklaces under Pura Vida brand name; and travel '
+                        'products consisting of rolling luggage, cosmetics, '
+                        'and travel and packing accessories, as well as travel '
+                        'bags comprising duffel and weekend bags. It also '
+                        'provides home products that include throw blankets, '
+                        'beach towels, and comforters, as well as items, such '
+                        'as mugs and tumblers; and other products, including '
+                        'apparel/footwear, stationery, and merchandising '
+                        'products, as well as freight, licensing, and gift '
+                        'card breakage services. The company sells its Vera '
+                        'Bradley branded products through its full-line and '
+                        'factory outlet stores in the United States; and '
+                        'verabradley.com, an online outlet site, as well as '
+                        'its annual outlet sale in Fort Wayne, Indiana. As of '
+                        'February 1, 2020, it operated 88 full-line and 63 '
+                        'factory outlet stores. The company sells its Pura '
+                        'Vida branded products through wholesale retailers, as '
+                        'well as through Pura Vida websites, including '
+                        'www.puravidabracelets.com and '
+                        'www.puravidabracelets.eu. It also sells its Vera '
+                        'Bradley branded products to approximately 2,200 '
+                        'specialty retail locations, department stores, '
+                        'national accounts, third party e-commerce sites, and '
+                        'third-party inventory liquidators, as well as through '
+                        'licensing agreements. Vera Bradley, Inc. was founded '
+                        'in 1982 and is headquartered in Roanoke, Indiana.',
+ 'longName': 'Vera Bradley, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 143620432,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4524855',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588377600,
+ 'navPrice': None,
+ 'netIncomeToCommon': -3685000,
+ 'nextFiscalYearEnd': 1643673600,
+ 'open': 4.31,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.17,
+ 'phone': '877 708 8372',
+ 'previousClose': 4.305,
+ 'priceHint': 4,
+ 'priceToBook': 0.5211489,
+ 'priceToSalesTrailing12Months': 0.30332112,
+ 'profitMargins': 0.00658,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.395,
+ 'regularMarketDayLow': 4.23,
+ 'regularMarketOpen': 4.31,
+ 'regularMarketPreviousClose': 4.305,
+ 'regularMarketPrice': 4.31,
+ 'regularMarketVolume': 146194,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 33400100,
+ 'sharesPercentSharesOut': 0.0458,
+ 'sharesShort': 1529750,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1542004,
+ 'shortName': 'Vera Bradley, Inc.',
+ 'shortPercentOfFloat': 0.066199996,
+ 'shortRatio': 4.04,
+ 'startDate': None,
+ 'state': 'IN',
+ 'strikePrice': None,
+ 'symbol': 'VRA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.109,
+ 'twoHundredDayAverage': 6.3105035,
+ 'volume': 146194,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.verabradley.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '46783'}

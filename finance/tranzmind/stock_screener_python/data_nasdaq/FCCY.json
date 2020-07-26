@@ -1,0 +1,158 @@
+{'52WeekChange': -0.32563257,
+ 'SandP52WeekChange': None,
+ 'address1': '2650 Route 130',
+ 'address2': 'PO Box 634',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 12.35,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 7612,
+ 'averageVolume': 16998,
+ 'averageVolume10days': 7612,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 10,
+ 'bidSize': 800,
+ 'bookValue': 16.969,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cranbury',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.33,
+ 'dayLow': 11.9,
+ 'dividendRate': 0.36,
+ 'dividendYield': 0.0297,
+ 'earningsQuarterlyGrowth': 0.095,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.392,
+ 'enterpriseValue': 252751616,
+ 'exDividendDate': 1589155200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 12.452857,
+ 'fiftyTwoWeekHigh': 22.91,
+ 'fiftyTwoWeekLow': 9.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 8333133,
+ 'forwardEps': 1.07,
+ 'forwardPE': 11.121494,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 221,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.120629996,
+ 'heldPercentInstitutions': 0.39043,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1452556800,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/1stconstitution.com',
+ 'longBusinessSummary': '1st Constitution Bancorp operates as the bank holding '
+                        'company for 1st Constitution Bank that provides '
+                        'commercial and retail banking services in New Jersey. '
+                        'The company offers deposit products, including '
+                        'interest bearing demand deposits, such as '
+                        'interest-bearing checking accounts, money market '
+                        'accounts, and NOW accounts; and non-interest bearing '
+                        'demand, savings, and time deposits, as well as '
+                        'certificates of deposit. It also provides commercial '
+                        'loans, including term loans, lines of credit, and '
+                        'loans secured by equipment and receivables; secured '
+                        'and unsecured short-to-medium term commercial loans '
+                        'to businesses for working capital, business '
+                        'expansion, and the purchase of equipment and '
+                        'machinery; and construction loans to real estate '
+                        'developers for the acquisition, development, and '
+                        'construction of residential and commercial '
+                        'properties. In addition, the company offers '
+                        'residential first mortgage loans secured by '
+                        'owner-occupied property; construction loans; reverse '
+                        'mortgages; second mortgage home improvement loans; '
+                        'home equity lines of credit; and non-residential '
+                        'consumer loans for automobiles, recreation vehicles, '
+                        'and boats, as well as secured and unsecured personal '
+                        'loans, and deposit account secured loans, as well as '
+                        'online and mobile banking services. It serves '
+                        'corporations, individuals, partnerships, and other '
+                        'community organizations, as well as small businesses '
+                        'and not-for-profit organizations. The company '
+                        'operated through 26 additional branch offices in '
+                        'Middlesex, Monmouth, Mercer, Ocean, and Somerset '
+                        'counties, as well as Fort Lee area of Bergen County, '
+                        'New Jersey. 1st Constitution Bancorp was founded in '
+                        '1989 and is headquartered in Cranbury, New Jersey.',
+ 'longName': '1st Constitution Bancorp',
+ 'market': 'us_market',
+ 'marketCap': 121395464,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3110137',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 13978000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 12.33,
+ 'openInterest': None,
+ 'payoutRatio': 0.2143,
+ 'pegRatio': 1.36,
+ 'phone': '609-655-4500',
+ 'previousClose': 12.26,
+ 'priceHint': 2,
+ 'priceToBook': 0.7012788,
+ 'priceToSalesTrailing12Months': 2.1095011,
+ 'profitMargins': 0.24290001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.33,
+ 'regularMarketDayLow': 11.9,
+ 'regularMarketOpen': 12.33,
+ 'regularMarketPreviousClose': 12.26,
+ 'regularMarketPrice': 12.33,
+ 'regularMarketVolume': 3838,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 10201300,
+ 'sharesPercentSharesOut': 0.0091,
+ 'sharesShort': 93280,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 56863,
+ 'shortName': '1st Constitution Bancorp (NJ)',
+ 'shortPercentOfFloat': 0.0104,
+ 'shortRatio': 5.82,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'FCCY',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.33,
+ 'trailingAnnualDividendYield': 0.026916804,
+ 'trailingEps': 1.465,
+ 'trailingPE': 8.122867,
+ 'twoHundredDayAverage': 14.896619,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '488b9992-34f8-357f-81f9-5793ce0d6140',
+ 'volume': 3838,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.1stconstitution.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '08512'}

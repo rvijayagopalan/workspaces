@@ -1,0 +1,153 @@
+{'52WeekChange': -0.2878499,
+ 'SandP52WeekChange': None,
+ 'address1': '206 Van Vorst Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.24,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 862,
+ 'averageVolume': 2328,
+ 'averageVolume10days': 862,
+ 'beta': 1.377591,
+ 'beta3Year': None,
+ 'bid': 10.4,
+ 'bidSize': 1100,
+ 'bookValue': 13.194,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Jersey City',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 10.4069,
+ 'dayLow': 10.403,
+ 'dividendRate': 0.24,
+ 'dividendYield': 0.0214,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 12.997,
+ 'enterpriseToRevenue': 0.45,
+ 'enterpriseValue': 211974144,
+ 'exDividendDate': 1594684800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.348001,
+ 'fiftyTwoWeekHigh': 17.6,
+ 'fiftyTwoWeekLow': 6.08,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.46,
+ 'floatShares': 11562823,
+ 'forwardEps': 0.72,
+ 'forwardPE': 14.44861,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6935,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.24486999,
+ 'heldPercentInstitutions': 0.51432997,
+ 'industry': 'Electronic Components',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 944092800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/belfuse.com',
+ 'longBusinessSummary': 'Bel Fuse Inc. designs, manufactures, markets, and '
+                        'sells products that are used in the networking, '
+                        'telecommunication, high-speed data transmission, '
+                        'commercial aerospace, military, broadcasting, '
+                        'transportation, and consumer electronic industries in '
+                        'the United States, Macao, the United Kingdom, '
+                        'Slovakia, Germany, Switzerland, and internationally. '
+                        'It offers magnetic products, such as integrated '
+                        'connector modules; power transformers; SMD power '
+                        'inductors and SMPS transformers; and telecom discrete '
+                        'components. The company also provides power solutions '
+                        'and protection products comprising front-end power '
+                        'supplies; board-mount power products; industrial '
+                        'power products; external power products; module '
+                        'products; and circuit protection products. In '
+                        'addition, it offers connectivity solutions, which '
+                        'includes expanded beam fiber optic connectors, cable '
+                        'assemblies, and active optical devices; copper-based '
+                        'connectors/cable assemblies; radio frequency '
+                        'connectors, cable assemblies, microwave devices, and '
+                        'low loss cables; and RJ and USB connectors, and cable '
+                        'assemblies. The company sells its products under the '
+                        'Bel, TRP Connector, MagJack, Signal, Bel Power '
+                        'Solutions, Melcher, CUI, Stratos, Fibreco, Cinch, '
+                        'Johnson, Trompeter, Midwest Microwave, Semflex, and '
+                        'Stewart Connector brands through direct strategic '
+                        'account managers, regional sales managers working '
+                        'with independent sales representative organizations, '
+                        'and authorized distributors. Bel Fuse Inc. was '
+                        'founded in 1949 and is headquartered in Jersey City, '
+                        'New Jersey.',
+ 'longName': 'Bel Fuse Inc.',
+ 'market': 'us_market',
+ 'marketCap': 127269264,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_254235',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -13678000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 10.4069,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '201 432 0463',
+ 'previousClose': 11.195,
+ 'priceHint': 2,
+ 'priceToBook': 0.7884644,
+ 'priceToSalesTrailing12Months': 0.27021018,
+ 'profitMargins': -0.029040001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 10.4069,
+ 'regularMarketDayLow': 10.403,
+ 'regularMarketOpen': 10.4069,
+ 'regularMarketPreviousClose': 11.195,
+ 'regularMarketPrice': 10.4069,
+ 'regularMarketVolume': 637,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 2144910,
+ 'sharesPercentSharesOut': 0.00090000004,
+ 'sharesShort': 11571,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 11796,
+ 'shortName': 'Bel Fuse Inc.',
+ 'shortPercentOfFloat': 0.0089,
+ 'shortRatio': 4.69,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'BELFA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.28,
+ 'trailingAnnualDividendYield': 0.025011167,
+ 'trailingEps': -1.113,
+ 'twoHundredDayAverage': 10.491295,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '0a39a1ba-d96b-3e2c-95eb-022d12b40355',
+ 'volume': 637,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.belfuse.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07302'}

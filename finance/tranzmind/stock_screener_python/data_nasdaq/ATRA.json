@@ -1,0 +1,149 @@
+{'52WeekChange': -0.061820626,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '611 Gateway Boulevard',
+ 'address2': 'Suite 900',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.81,
+ 'askSize': 3200,
+ 'averageDailyVolume10Day': 569675,
+ 'averageVolume': 1626282,
+ 'averageVolume10days': 569675,
+ 'beta': 2.336694,
+ 'beta3Year': None,
+ 'bid': 13.8,
+ 'bidSize': 900,
+ 'bookValue': 4.289,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'South San Francisco',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.99,
+ 'dayLow': 13.39,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -2.079,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 613305728,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 12.797,
+ 'fiftyTwoWeekHigh': 19.36,
+ 'fiftyTwoWeekLow': 4.52,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 43240735,
+ 'forwardEps': -4.08,
+ 'forwardPE': -3.384804,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 409,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02456,
+ 'heldPercentInstitutions': 1.07985,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/atarabio.com',
+ 'longBusinessSummary': 'Atara Biotherapeutics, Inc., an off-the-shelf T-cell '
+                        'immunotherapy company, develops treatments for '
+                        'patients with cancer, autoimmune, and viral diseases '
+                        'in the United States. It is developing tabelecleucel, '
+                        'a T-cell immunotherapy that is Phase III clinical '
+                        'trials for the treatment of rituximab-refractory '
+                        'epstein-barr virus (EBV) associated post-transplant '
+                        'lymphoproliferative disorder, as well as other EBV '
+                        'associated hematologic and solid tumors, including '
+                        'nasopharyngeal carcinoma. The company is also '
+                        'developing next-generation CAR T immunotherapies for '
+                        'patients with hematologic malignancies and solid '
+                        'tumors, and autoimmune and viral diseases, including '
+                        'ATA2271 for mesothelin; ATA2321 for acute myeloid '
+                        'leukemia; and ATA2431 and ATA3219 for B-cell '
+                        'lymphomas, as well as ATA188 and ATA190 that are in '
+                        'Phase I clinical trials for the treatment of multiple '
+                        'sclerosis. In addition, it is developing ATA621 '
+                        'against the BK and JC viruses; ATA368 for patients '
+                        'with human papillomavirus and associated cancers; '
+                        'ATA520 to treat Wilms tumor 1; and ATA230 against '
+                        'cytomegalovirus and related diseases. The company has '
+                        'a license agreement with Memorial Sloan Kettering '
+                        'Cancer Center; license, and research and development '
+                        'collaboration agreement with QIMR Berghofer Medical '
+                        'Research Institute; and strategic collaboration with '
+                        'H. Lee Moffitt Cancer Center. Atara Biotherapeutics, '
+                        'Inc. was founded in 2012 and is headquartered in '
+                        'South San Francisco, California.',
+ 'longName': 'Atara Biotherapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1020698432,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_248196818',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -298228000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.92,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '650 278 8930',
+ 'previousClose': 13.97,
+ 'priceHint': 2,
+ 'priceToBook': 3.2198648,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.99,
+ 'regularMarketDayLow': 13.39,
+ 'regularMarketOpen': 13.92,
+ 'regularMarketPreviousClose': 13.97,
+ 'regularMarketPrice': 13.92,
+ 'regularMarketVolume': 555232,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 73910096,
+ 'sharesPercentSharesOut': 0.1834,
+ 'sharesShort': 13558513,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 11868405,
+ 'shortName': 'Atara Biotherapeutics, Inc.',
+ 'shortPercentOfFloat': 0.2134,
+ 'shortRatio': 7.91,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'ATRA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -5.415,
+ 'twoHundredDayAverage': 11.638381,
+ 'volume': 555232,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.atarabio.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94080'}

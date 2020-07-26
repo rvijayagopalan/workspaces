@@ -1,0 +1,161 @@
+{'52WeekChange': -0.0057504773,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '7043 South 300 West',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 84.89,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 11487,
+ 'averageVolume': 16536,
+ 'averageVolume10days': 11487,
+ 'beta': 0.387675,
+ 'beta3Year': None,
+ 'bid': 84.83,
+ 'bidSize': 2200,
+ 'bookValue': 25.913,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Midvale',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 88.24,
+ 'dayLow': 83.93,
+ 'dividendRate': 1.12,
+ 'dividendYield': 0.012999999,
+ 'earningsQuarterlyGrowth': 0,
+ 'enterpriseToEbitda': 10.946,
+ 'enterpriseToRevenue': 5.722,
+ 'enterpriseValue': 269377760,
+ 'exDividendDate': 1592265600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '801-566-7305',
+ 'fiftyDayAverage': 91.67286,
+ 'fiftyTwoWeekHigh': 112.26,
+ 'fiftyTwoWeekLow': 75.33,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.4,
+ 'floatShares': 3160027,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 182,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.07394,
+ 'heldPercentInstitutions': 0.76387,
+ 'industry': 'Medical Instruments & Supplies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 732758400,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/utahmed.com',
+ 'longBusinessSummary': 'Utah Medical Products, Inc. manufactures and '
+                        'distributes medical devices for the healthcare '
+                        'industry in the United States, Europe, and '
+                        'internationally. The company offers fetal monitoring '
+                        'accessories, vacuum-assisted delivery systems, and '
+                        'other labor and delivery tools; DISPOSA-HOOD, an '
+                        'infant respiratory hood; and DELTRAN PLUS, a blood '
+                        'pressure monitoring system. It also provides '
+                        'umbilical vessel catheters; DIALY-NATE, a disposable '
+                        'peritoneal dialysis set; PALA-NATE, a silicone oral '
+                        'protection device; URI-CATH, a urinary drainage '
+                        'system; NUTRI-CATH, a feeding device; MYELO-NATE, a '
+                        'lumbar sampling kit; HEMO-NATE, a disposable filter; '
+                        'and catheterization procedure tray of instruments and '
+                        'supplies. In addition, the company offers LETZ system '
+                        'to excise cervical intraepithelial neoplasia; '
+                        'FINESSE+ generators; loop, ball, and needle '
+                        'electrodes; FILTRESSE evacuators; other specialty '
+                        'electrodes and supplies, and gynecologic tools; '
+                        'Femcare trocars, cannulae, laparoscopic instruments, '
+                        'and accessories; and EPITOME, an electrosurgical '
+                        'scalpel. Further, it provides Filshie Clip system, a '
+                        'female surgical contraception; PATHFINDER PLUS, an '
+                        'endoscopic irrigation device; suprapubic '
+                        'catheterization; LIBERTY system to treat and control '
+                        'urinary incontinence in women; ENDOCURETTE, a curette '
+                        'for uterine endometrial tissue sampling; '
+                        'TVUS/HSG-Cath to assess abnormal or dysfunctional '
+                        'uterine bleeding and other suspected abnormalities of '
+                        'the uterus; and LUMIN to manipulate the uterus in '
+                        'laparoscopic procedures. Additionally, the company '
+                        'offers DELTRAN, a disposable pressure transducer; and '
+                        'pressure monitoring accessories, components, and '
+                        'other molded parts. It serves neonatal intensive care '
+                        "units, labor and delivery departments, women's health "
+                        'centers in hospitals, outpatient clinics, and '
+                        "physician's offices through direct customer service "
+                        'and sales force, independent consultants and '
+                        'manufacturer representatives. The company was founded '
+                        'in 1978 and is headquartered in Midvale, Utah.',
+ 'longName': 'Utah Medical Products, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 308595136,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_311227',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 14728000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 88.24,
+ 'openInterest': None,
+ 'payoutRatio': 0.28170002,
+ 'pegRatio': None,
+ 'phone': '801-566-1200',
+ 'previousClose': 86.02,
+ 'priceHint': 2,
+ 'priceToBook': 3.2694016,
+ 'priceToSalesTrailing12Months': 6.5555325,
+ 'profitMargins': 0.31287,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 88.24,
+ 'regularMarketDayLow': 83.93,
+ 'regularMarketOpen': 88.24,
+ 'regularMarketPreviousClose': 86.02,
+ 'regularMarketPrice': 88.24,
+ 'regularMarketVolume': 7519,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 3642530,
+ 'sharesPercentSharesOut': 0.0292,
+ 'sharesShort': 106510,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 97884,
+ 'shortName': 'Utah Medical Products, Inc.',
+ 'shortPercentOfFloat': 0.036199998,
+ 'shortRatio': 3.95,
+ 'startDate': None,
+ 'state': 'UT',
+ 'strikePrice': None,
+ 'symbol': 'UTMD',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.11,
+ 'trailingAnnualDividendYield': 0.012903976,
+ 'trailingEps': 3.943,
+ 'trailingPE': 21.486177,
+ 'twoHundredDayAverage': 90.36237,
+ 'volume': 7519,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.utahmed.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '84047'}

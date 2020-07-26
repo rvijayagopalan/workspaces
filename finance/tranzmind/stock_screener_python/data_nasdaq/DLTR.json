@@ -1,0 +1,159 @@
+{'52WeekChange': -0.09217715,
+ 'SandP52WeekChange': None,
+ 'address1': '500 Volvo Parkway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 95.6,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 1831650,
+ 'averageVolume': 2582471,
+ 'averageVolume10days': 1831650,
+ 'beta': 0.628571,
+ 'beta3Year': None,
+ 'bid': 95.01,
+ 'bidSize': 900,
+ 'bookValue': 27.49,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chesapeake',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 97.24,
+ 'dayLow': 95.34,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.076,
+ 'enterpriseToEbitda': 13.684,
+ 'enterpriseToRevenue': 1.301,
+ 'enterpriseValue': 31347816448,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 92.459145,
+ 'fiftyTwoWeekHigh': 119.71,
+ 'fiftyTwoWeekLow': 60.2,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 233911140,
+ 'forwardEps': 5.64,
+ 'forwardPE': 16.950356,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 56900,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.014839999,
+ 'heldPercentInstitutions': 0.96138,
+ 'industry': 'Discount Stores',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580515200,
+ 'lastMarket': None,
+ 'lastSplitDate': 1340755200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/dollartree.com',
+ 'longBusinessSummary': 'Dollar Tree, Inc. operates discount variety retail '
+                        'stores. It operates through two segments, Dollar Tree '
+                        'and Family Dollar. The Dollar Tree segment offers '
+                        'merchandise at the fixed price of $1.00. It provides '
+                        'consumable merchandise, including candy and food, and '
+                        'health and beauty care, as well as everyday '
+                        'consumables, such as household paper and chemicals, '
+                        'and frozen and refrigerated food; variety merchandise '
+                        'comprising toys, durable housewares, gifts, '
+                        'stationery, party goods, greeting cards, softlines, '
+                        'and other items; and seasonal goods that include '
+                        "Valentine's Day, Easter, Halloween, and Christmas "
+                        'merchandise. This segment operates 7,505 stores under '
+                        'the Dollar Tree and Dollar Tree Canada brands, as '
+                        'well as 13 distribution centers in the United States '
+                        'and 2 in Canada; and a store support center in '
+                        'Chesapeake, Virginia. The Family Dollar segment '
+                        'operates general merchandise discount retail stores '
+                        'that offer consumable merchandise, which comprise '
+                        'food and beverages, tobacco, health and beauty aids, '
+                        'household chemicals, paper products, hardware and '
+                        'automotive supplies, diapers, batteries, and pet food '
+                        'and supplies; and home products, including '
+                        'housewares, home décor, and giftware, as well as '
+                        'domestics, such as comforters, sheets, and towels. '
+                        'Its stores also provides apparel and accessories '
+                        'merchandise comprising clothing, fashion accessories, '
+                        'and shoes; and seasonal and electronics merchandise '
+                        "that include Valentine's Day, Easter, Halloween, and "
+                        'Christmas merchandise, as well as personal '
+                        'electronics, which comprise pre-paid cellular phones '
+                        'and services, stationery and school supplies, and '
+                        'toys. This segment operates 7,783 stores under the '
+                        'Family Dollar brand; and 11 distribution centers. The '
+                        'company was founded in 1986 and is headquartered in '
+                        'Chesapeake, Virginia.',
+ 'longName': 'Dollar Tree, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 22679377920,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_27685',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588377600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 806700032,
+ 'nextFiscalYearEnd': 1643673600,
+ 'open': 96.41,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.74,
+ 'phone': '757 321 5000',
+ 'previousClose': 96.32,
+ 'priceHint': 2,
+ 'priceToBook': 3.4776282,
+ 'priceToSalesTrailing12Months': 0.94148666,
+ 'profitMargins': 0.03349,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 97.24,
+ 'regularMarketDayLow': 95.34,
+ 'regularMarketOpen': 96.41,
+ 'regularMarketPreviousClose': 96.32,
+ 'regularMarketPrice': 96.41,
+ 'regularMarketVolume': 1195886,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 237232000,
+ 'sharesPercentSharesOut': 0.0178,
+ 'sharesShort': 4228434,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3931769,
+ 'shortName': 'Dollar Tree, Inc.',
+ 'shortPercentOfFloat': 0.023,
+ 'shortRatio': 1.54,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'DLTR',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3.388,
+ 'trailingPE': 28.217237,
+ 'twoHundredDayAverage': 85.260864,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '93813a67-1334-34e6-a70f-a46e06dc4100',
+ 'volume': 1195886,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.dollartree.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '23320'}

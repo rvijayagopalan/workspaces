@@ -1,0 +1,164 @@
+{'52WeekChange': -0.061833024,
+ 'SandP52WeekChange': None,
+ 'address1': '8755 West Higgins Road',
+ 'address2': 'Suite 500',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 172.8,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 75112,
+ 'averageVolume': 121487,
+ 'averageVolume10days': 75112,
+ 'beta': 1.136694,
+ 'beta3Year': None,
+ 'bid': 172.54,
+ 'bidSize': 800,
+ 'bookValue': 60.835,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chicago',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 175.43,
+ 'dayLow': 172.46,
+ 'dividendRate': 1.92,
+ 'dividendYield': 0.011,
+ 'earningsQuarterlyGrowth': -0.334,
+ 'enterpriseToEbitda': 15.42,
+ 'enterpriseToRevenue': 3.063,
+ 'enterpriseValue': 4423731712,
+ 'exDividendDate': 1589932800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 169.43314,
+ 'fiftyTwoWeekHigh': 196,
+ 'fiftyTwoWeekLow': 103.63,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.9,
+ 'floatShares': 23667492,
+ 'forwardEps': 6.2,
+ 'forwardPE': 27.841936,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 11300,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.024130002,
+ 'heldPercentInstitutions': 0.99331003,
+ 'industry': 'Electronic Components',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 865987200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/littelfuse.com',
+ 'longBusinessSummary': 'Littelfuse, Inc. manufactures and sells circuit '
+                        'protection, power control, and sensing products in '
+                        'the Asia-Pacific, the Americas, and Europe. The '
+                        "company's Electronics segment offers fuses and fuse "
+                        'accessories, positive temperature coefficient '
+                        'resettable fuses, solid state relays, polymer '
+                        'electrostatic discharge suppressors, varistors, '
+                        'magnetic sensing products, gas discharge tubes, and '
+                        'position, fluid, and temperature sensors; and '
+                        'discrete transient voltage suppressor (TVS) diodes, '
+                        'TVS diode arrays, protection and switching '
+                        'thyristors, metal-oxide-semiconductor field-effect '
+                        'transistors, integrated circuits, silicon carbide '
+                        'diodes, and insulated gate bipolar transistors. This '
+                        'segment markets its products to industrial and '
+                        'automotive electronics, electric vehicle and related '
+                        'infrastructure, data and telecommunications, medical '
+                        'devices, alternative energy, consumer electronics, '
+                        'and white goods markets. Its Automotive segment '
+                        'provides blade fuses, battery cable protectors, '
+                        'resettable fuses, and high-current and high-voltage '
+                        'fuses for hybrid and electric vehicles; fuses, '
+                        'switches, relays, and power distribution modules for '
+                        'the commercial vehicle industry; and automotive '
+                        'sensor products to monitor the passenger occupants. '
+                        'This segment serves original equipment manufacturers, '
+                        'Tier-I suppliers, and parts distributors in the '
+                        'passenger car, heavy duty truck, off-road vehicles, '
+                        'material handling, agricultural, construction, and '
+                        "other commercial vehicle end markets. The company's "
+                        'Industrial segment offers power fuses and holders, '
+                        'protection relays and controls, and other circuit '
+                        'protection products for use in oil, gas, mining, '
+                        'alternative energy, electric vehicle infrastructure, '
+                        'non-residential construction, HVAC systems, elevator, '
+                        'and other industrial equipment applications. It sells '
+                        'its products through distributors, direct sales '
+                        "force, and manufacturers' representatives. "
+                        'Littelfuse, Inc. was founded in 1927 and is '
+                        'headquartered in Chicago, Illinois.',
+ 'longName': 'Littelfuse, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4190661120,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_327381',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 126737000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 173.85,
+ 'openInterest': None,
+ 'payoutRatio': 0.3652,
+ 'pegRatio': 4.14,
+ 'phone': '773 628 1000',
+ 'previousClose': 174.94,
+ 'priceHint': 2,
+ 'priceToBook': 2.8375113,
+ 'priceToSalesTrailing12Months': 2.9011776,
+ 'profitMargins': 0.087740004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 175.43,
+ 'regularMarketDayLow': 172.46,
+ 'regularMarketOpen': 173.85,
+ 'regularMarketPreviousClose': 174.94,
+ 'regularMarketPrice': 173.85,
+ 'regularMarketVolume': 59178,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 24276800,
+ 'sharesPercentSharesOut': 0.0233,
+ 'sharesShort': 564654,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 554215,
+ 'shortName': 'Littelfuse, Inc.',
+ 'shortPercentOfFloat': 0.0238,
+ 'shortRatio': 4.45,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'LFUS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.87,
+ 'trailingAnnualDividendYield': 0.010689379,
+ 'trailingEps': 5.121,
+ 'trailingPE': 33.70826,
+ 'twoHundredDayAverage': 160.06612,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '4c68476d-ec30-3f92-873c-de27cddb1647',
+ 'volume': 59178,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.littelfuse.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60631'}

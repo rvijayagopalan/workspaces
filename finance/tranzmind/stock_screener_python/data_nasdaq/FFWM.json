@@ -1,0 +1,159 @@
+{'52WeekChange': 0.07185233,
+ 'SandP52WeekChange': None,
+ 'address1': '18101 Von Karman Avenue',
+ 'address2': 'Suite 700',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.16,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 365212,
+ 'averageVolume': 234784,
+ 'averageVolume10days': 365212,
+ 'beta': 1.50196,
+ 'beta3Year': None,
+ 'bid': 16.13,
+ 'bidSize': 1200,
+ 'bookValue': 14.313,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Irvine',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 16.31,
+ 'dayLow': 15.8,
+ 'dividendRate': 0.28,
+ 'dividendYield': 0.0174,
+ 'earningsQuarterlyGrowth': 0.439,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.908,
+ 'enterpriseValue': 1069334976,
+ 'exDividendDate': 1595462400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 15.727715,
+ 'fiftyTwoWeekHigh': 17.64,
+ 'fiftyTwoWeekLow': 8.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 39072595,
+ 'forwardEps': 1.68,
+ 'forwardPE': 9.589287,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 493,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.14309,
+ 'heldPercentInstitutions': 0.61054003,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1484784000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/firstfoundationinc.com',
+ 'longBusinessSummary': 'First Foundation Inc., through its subsidiaries, '
+                        'provides financial services to individuals, '
+                        'businesses, and other organizations in the United '
+                        'States. It operates in two segments, Banking; and '
+                        'Investment Management and Wealth Planning. The '
+                        'company offers a range of bank deposit products, '
+                        'including personal and business checking accounts, '
+                        'savings accounts, interest-bearing negotiable order '
+                        'of withdrawal accounts, money market accounts, and '
+                        'time certificates of deposit; and loan products '
+                        'consisting of multifamily and single family '
+                        'residential real estate loans, commercial real estate '
+                        'loans, and commercial term loans and lines of credit, '
+                        'as well as consumer loans, such as personal '
+                        'installment loans and lines of credit, and home '
+                        'equity lines of credit. It also provides various '
+                        'specialized services comprising trust services, '
+                        'online banking, remote deposit capture services, '
+                        'merchant credit card services, ATM cards, Visa debit '
+                        'cards, and business sweep accounts, as well as '
+                        'insurance brokerage services and equipment financing '
+                        'solutions. In addition, the company offers investment '
+                        'management and financial planning services; treasury '
+                        'management services; advisory and coordination '
+                        'services in the areas of estate planning, retirement '
+                        'planning, and charitable and business ownership '
+                        'issues; and financial, investment, and economic '
+                        'advisory and related services. Further, it provides '
+                        'support services, including the processing and '
+                        'transmission of financial and economic data for '
+                        'charitable organizations. The company operates '
+                        'through a network of 20 branch offices and 2 loan '
+                        'production offices in California, Nevada, and Hawaii. '
+                        'The company was founded in 1990 and is headquartered '
+                        'in Irvine, California.',
+ 'longName': 'First Foundation Inc.',
+ 'market': 'us_market',
+ 'marketCap': 718913600,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_82388385',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 63635000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 16.01,
+ 'openInterest': None,
+ 'payoutRatio': 0.1702,
+ 'pegRatio': 1.44,
+ 'phone': '949-202-4160',
+ 'previousClose': 16.26,
+ 'priceHint': 2,
+ 'priceToBook': 1.1255503,
+ 'priceToSalesTrailing12Months': 3.2998576,
+ 'profitMargins': 0.29209,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 16.31,
+ 'regularMarketDayLow': 15.8,
+ 'regularMarketOpen': 16.01,
+ 'regularMarketPreviousClose': 16.26,
+ 'regularMarketPrice': 16.01,
+ 'regularMarketVolume': 483202,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 44625300,
+ 'sharesPercentSharesOut': 0.020599999,
+ 'sharesShort': 917520,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 720989,
+ 'shortName': 'First Foundation Inc.',
+ 'shortPercentOfFloat': 0.0235,
+ 'shortRatio': 3.91,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'FFWM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.24,
+ 'trailingAnnualDividendYield': 0.014760147,
+ 'trailingEps': 1.41,
+ 'trailingPE': 11.425532,
+ 'twoHundredDayAverage': 14.230108,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '0fcaaf4d-2b6a-35cf-a905-98f274aa2ea1',
+ 'volume': 483202,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.firstfoundationinc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92612'}

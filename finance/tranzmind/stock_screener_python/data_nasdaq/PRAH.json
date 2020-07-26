@@ -1,0 +1,159 @@
+{'52WeekChange': 0.0068762302,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '4130 ParkLake Avenue',
+ 'address2': 'Suite 400',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 102.4,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 210450,
+ 'averageVolume': 393065,
+ 'averageVolume10days': 210450,
+ 'beta': 1.10028,
+ 'beta3Year': None,
+ 'bid': 102.34,
+ 'bidSize': 1800,
+ 'bookValue': 17.405,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Raleigh',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 104.03,
+ 'dayLow': 101.66,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.078,
+ 'enterpriseToEbitda': 16.737,
+ 'enterpriseToRevenue': 2.522,
+ 'enterpriseValue': 7888861696,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '919 786 8201',
+ 'fiftyDayAverage': 98.20943,
+ 'fiftyTwoWeekHigh': 113.315,
+ 'fiftyTwoWeekLow': 58.67,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 63532909,
+ 'forwardEps': 5.62,
+ 'forwardPE': 18.238434,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 17500,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00247,
+ 'heldPercentInstitutions': 0.99865997,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/prahs.com',
+ 'longBusinessSummary': 'PRA Health Sciences, Inc., a contract research '
+                        'organization, provides outsourced clinical '
+                        'development and data solution services to the '
+                        'biotechnology and pharmaceutical industries '
+                        'worldwide. The company operates in two segments, '
+                        'Clinical Research and Data Solutions. The Clinical '
+                        'Research segment offers product registration '
+                        'services, including clinical trial management, '
+                        'project management, regulatory affairs, therapeutic '
+                        'expertise, clinical operations, data and programming, '
+                        'safety and risk management, biostatistics and medical '
+                        'writing, quality assurance, and late phase services. '
+                        'It also provides strategic solutions, such as '
+                        'embedded, functional services provider, staff '
+                        'augmentation, and custom-built development solutions, '
+                        'as well as commercialization services; and early '
+                        'development services for Phase I and Phase IIa '
+                        'studies, as well as bioanalytical analysis. The Data '
+                        'Solutions segment offers data, analytics, technology, '
+                        'and consulting solutions to the life sciences market. '
+                        'Its services include market intelligence services, '
+                        'such as targeting and compensation, and '
+                        'pharmaceutical audit suite services; consulting and '
+                        'services comprising brand analytics, managed markets, '
+                        'commercial effectiveness, and scientific '
+                        'studies/clinical hubs; and technology-enabled '
+                        'products and services that clients to access and '
+                        'analyze Symphony Health and integrated third-party '
+                        'data. PRA Health Sciences, Inc. conducts clinical '
+                        'trials in the areas of pharmaceutical development, '
+                        'including oncology, immunology, central nervous '
+                        'system, inflammation, respiratory, cardiometabolic, '
+                        'and infectious diseases. The company was formerly '
+                        'known as PRA Global Holdings, Inc. and changed its '
+                        'name to PRA Health Sciences, Inc. in July 2014. PRA '
+                        'Health Sciences, Inc. was founded in 1976 and is '
+                        'headquartered in Raleigh, North Carolina.',
+ 'longName': 'PRA Health Sciences, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 6531648512,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_33184',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 239596000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 103.76,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.07,
+ 'phone': '919 786 8200',
+ 'previousClose': 103.93,
+ 'priceHint': 2,
+ 'priceToBook': 5.889112,
+ 'priceToSalesTrailing12Months': 2.0881577,
+ 'profitMargins': 0.0766,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 104.03,
+ 'regularMarketDayLow': 101.66,
+ 'regularMarketOpen': 103.76,
+ 'regularMarketPreviousClose': 103.93,
+ 'regularMarketPrice': 103.76,
+ 'regularMarketVolume': 275689,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 63723400,
+ 'sharesPercentSharesOut': 0.0223,
+ 'sharesShort': 1420112,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1765024,
+ 'shortName': 'PRA Health Sciences, Inc.',
+ 'shortPercentOfFloat': 0.0328,
+ 'shortRatio': 3.35,
+ 'startDate': None,
+ 'state': 'NC',
+ 'strikePrice': None,
+ 'symbol': 'PRAH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3.66,
+ 'trailingPE': 28.005465,
+ 'twoHundredDayAverage': 95.35921,
+ 'volume': 275689,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://prahs.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '27612'}

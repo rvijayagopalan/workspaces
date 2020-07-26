@@ -1,0 +1,156 @@
+{'52WeekChange': 0.1963687,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3050 Bowers Avenue',
+ 'address2': 'PO Box 58039',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 60.75,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 5752250,
+ 'averageVolume': 7842690,
+ 'averageVolume10days': 5752250,
+ 'beta': 1.395518,
+ 'beta3Year': None,
+ 'bid': 60.3,
+ 'bidSize': 1800,
+ 'bookValue': 9.846,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Santa Clara',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 61.35,
+ 'dayLow': 59.62,
+ 'dividendRate': 0.88,
+ 'dividendYield': 0.0138,
+ 'earningsQuarterlyGrowth': 0.134,
+ 'enterpriseToEbitda': 14.084,
+ 'enterpriseToRevenue': 3.687,
+ 'enterpriseValue': 56911974400,
+ 'exDividendDate': 1597795200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 60.87257,
+ 'fiftyTwoWeekHigh': 69.44,
+ 'fiftyTwoWeekLow': 36.64,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.5,
+ 'floatShares': 912364301,
+ 'forwardEps': 4.31,
+ 'forwardPE': 14.064965,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 22700,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0036199999,
+ 'heldPercentInstitutions': 0.85346,
+ 'industry': 'Semiconductor Equipment & Materials',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1572134400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1019001600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/appliedmaterials.com',
+ 'longBusinessSummary': 'Applied Materials, Inc. provides manufacturing '
+                        'equipment, services, and software to the '
+                        'semiconductor, display, and related industries. It '
+                        'operates through three segments: Semiconductor '
+                        'Systems, Applied Global Services, and Display and '
+                        'Adjacent Markets. The Semiconductor Systems segment '
+                        'develops, manufactures, and sells various '
+                        'manufacturing equipment that is used to fabricate '
+                        'semiconductor chips or integrated circuits. This '
+                        'segment also offers various technologies, including '
+                        'epitaxy, ion implantation, oxidation and nitridation, '
+                        'rapid thermal processing, physical vapor deposition, '
+                        'chemical vapor deposition, chemical mechanical '
+                        'planarization, electrochemical deposition, atomic '
+                        'layer deposition, etching, and selective removal, as '
+                        'well as metrology and inspection tools. The Applied '
+                        'Global Services segment provides integrated solutions '
+                        'to optimize equipment and fab performance and '
+                        'productivity comprising spares, upgrades, services, '
+                        'remanufactured earlier generation equipment, and '
+                        'factory automation software for semiconductor, '
+                        'display, and other products. The Display and Adjacent '
+                        'Markets segment offers products for manufacturing '
+                        'liquid crystal displays; organic light-emitting '
+                        'diodes; and other display technologies for TVs, '
+                        'monitors, laptops, personal computers, electronic '
+                        'tablets, smart phones, and other consumer-oriented '
+                        'devices, as well as equipment for flexible '
+                        'substrates. The company serves manufacturers of '
+                        'semiconductor wafers and chips, liquid crystal and '
+                        'organic light-emitting diode displays, and other '
+                        'electronic devices. It operates in the United States, '
+                        'China, Korea, Taiwan, Japan, Southeast Asia, and '
+                        'Europe. Applied Materials, Inc. was founded in 1967 '
+                        'and is headquartered in Santa Clara, California.',
+ 'longName': 'Applied Materials, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 55556956160,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_251230',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1587859200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 2916000000,
+ 'nextFiscalYearEnd': 1635292800,
+ 'open': 60.37,
+ 'openInterest': None,
+ 'payoutRatio': 0.2675,
+ 'pegRatio': 0.8,
+ 'phone': '408-727-5555',
+ 'previousClose': 63.63,
+ 'priceHint': 2,
+ 'priceToBook': 6.156815,
+ 'priceToSalesTrailing12Months': 3.599414,
+ 'profitMargins': 0.18892,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 61.35,
+ 'regularMarketDayLow': 59.62,
+ 'regularMarketOpen': 60.37,
+ 'regularMarketPreviousClose': 63.63,
+ 'regularMarketPrice': 60.37,
+ 'regularMarketVolume': 11040982,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 916478976,
+ 'sharesPercentSharesOut': 0.02,
+ 'sharesShort': 18340579,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 23601982,
+ 'shortName': 'Applied Materials, Inc.',
+ 'shortPercentOfFloat': 0.0201,
+ 'shortRatio': 2.48,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'AMAT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.85,
+ 'trailingAnnualDividendYield': 0.013358478,
+ 'trailingEps': 3.136,
+ 'trailingPE': 19.330357,
+ 'twoHundredDayAverage': 56.393238,
+ 'volume': 11040982,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.appliedmaterials.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95052'}

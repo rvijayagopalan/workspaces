@@ -1,0 +1,162 @@
+{'52WeekChange': 0.14056218,
+ 'SandP52WeekChange': None,
+ 'address1': '301 1st Street, SW',
+ 'address2': 'Suite 200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 5.6,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 198512,
+ 'averageVolume': 355323,
+ 'averageVolume10days': 198512,
+ 'beta': 1.044257,
+ 'beta3Year': None,
+ 'bid': 5.58,
+ 'bidSize': 800,
+ 'bookValue': 2.223,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Roanoke',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 5.71,
+ 'dayLow': 5.52,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 18.343,
+ 'enterpriseToRevenue': 2.057,
+ 'enterpriseValue': 149815760,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 5.814857,
+ 'fiftyTwoWeekHigh': 9.32,
+ 'fiftyTwoWeekLow': 4.25,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 27529379,
+ 'forwardEps': 0.25,
+ 'forwardPE': 22.28,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 277,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.06361,
+ 'heldPercentInstitutions': 0.41192,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/lunainc.com',
+ 'longBusinessSummary': 'Luna Innovations Incorporated develops, manufactures, '
+                        'and markets fiber optic sensing, and test and '
+                        'measurement products worldwide. It operates in two '
+                        'segments, Products and Licensing, and Technology '
+                        'Development. The Products and Licensing segment '
+                        'offers test and measurement products, which include '
+                        'optical vector analyzer, optical backscatter '
+                        'reflectometers, and the Phoenix family of tunable '
+                        'lasers; optical distributed sensor interrogator '
+                        'sensing solutions for distributed strain and '
+                        'temperature measurements; and Hyperion sensing '
+                        'solution that enable full-spectrum data acquisition '
+                        'and flexible peak detect algorithms of fiber-bragg '
+                        'grating (FBG), long period FBGs and fabry-perot '
+                        'sensors with low-latency access to data for closed '
+                        'loop feedback applications. This segment also '
+                        'provides general photonics comprising components, '
+                        'modules, and instruments to measure, manage, and '
+                        'control polarization and group delay in fiber optic '
+                        'networks; tunable lasers; and TeraMetrix products to '
+                        'measure and verify physical properties online and in '
+                        'real-time to reduce raw materials and rework costs in '
+                        'manufacturing processes as well as to conduct quality '
+                        'control monitoring utilizing terahertz measurement '
+                        'technologies. The Technology Development segment '
+                        'provides applied research for customers principally '
+                        'in the areas of sensing and instrumentation, advanced '
+                        'materials, and health sciences. The company sells its '
+                        'products to telecommunications companies, defense '
+                        'agencies, government system integrators, researchers, '
+                        'original equipment manufacturers, distributors, '
+                        'testing labs, and strategic partners directly, as '
+                        'well as through manufacturer representative '
+                        'organizations, partner and distribution channels, '
+                        'technical sales engineers, value added resellers, and '
+                        'independent sales representatives. Luna Innovations '
+                        'Incorporated was founded in 1990 and is headquartered '
+                        'in Roanoke, Virginia.',
+ 'longName': 'Luna Innovations Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 169810368,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_5645849',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 4334095,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 5.69,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '540-769-8400',
+ 'previousClose': 5.68,
+ 'priceHint': 2,
+ 'priceToBook': 2.505623,
+ 'priceToSalesTrailing12Months': 2.3318005,
+ 'profitMargins': 0.042579997,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 5.71,
+ 'regularMarketDayLow': 5.52,
+ 'regularMarketOpen': 5.69,
+ 'regularMarketPreviousClose': 5.68,
+ 'regularMarketPrice': 5.69,
+ 'regularMarketVolume': 120400,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 30486600,
+ 'sharesPercentSharesOut': 0.0401,
+ 'sharesShort': 1221006,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 474582,
+ 'shortName': 'Luna Innovations Incorporated',
+ 'shortPercentOfFloat': 0.042600002,
+ 'shortRatio': 2.73,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'LUNA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.094,
+ 'trailingPE': 59.25532,
+ 'twoHundredDayAverage': 6.7653236,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '7e015e3e-d140-3722-8004-786f0281a295',
+ 'volume': 120400,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.lunainc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '24011'}

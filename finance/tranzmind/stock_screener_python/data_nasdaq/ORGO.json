@@ -1,0 +1,153 @@
+{'52WeekChange': -0.23483366,
+ 'SandP52WeekChange': None,
+ 'address1': '85 Dan Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.83,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 286300,
+ 'averageVolume': 216693,
+ 'averageVolume10days': 286300,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 3.75,
+ 'bidSize': 900,
+ 'bookValue': 0.382,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Canton',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.99,
+ 'dayLow': 3.75,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -19.52,
+ 'enterpriseToRevenue': 1.74,
+ 'enterpriseValue': 462072768,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.813857,
+ 'fiftyTwoWeekHigh': 8.336,
+ 'fiftyTwoWeekLow': 2.472,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 11606084,
+ 'forwardEps': -0.52,
+ 'forwardPE': -7.2307696,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 835,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.65300006,
+ 'heldPercentInstitutions': 0.27615,
+ 'industry': 'Drug Manufacturers—Specialty & Generic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/organogenesis.com',
+ 'longBusinessSummary': 'Organogenesis Holdings Inc., a regenerative medicine '
+                        'company, focuses on the development, manufacture, and '
+                        'commercialization of solutions for the advanced wound '
+                        'care, and surgical and sports medicine markets '
+                        "primarily in the United States. The company's "
+                        'advanced wound care products include Apligraf for the '
+                        'treatment of venous leg ulcers and diabetic foot '
+                        'ulcers (DFUs); Dermagraft for treating DFUs; PuraPly '
+                        'AM to address biofilm across a range of wound types; '
+                        'and Affinity and NuShield to address various wound '
+                        'sizes and types. Its surgical and sports medicine '
+                        'products comprise ReNu for in-office joint and tendon '
+                        'applications; NuCel for bony fusion in the spine and '
+                        'extremities; NuShield and Affinity for surgical '
+                        'applications in targeted soft tissue repairs; and '
+                        'PuraPly AM for the surgical treatment of open wounds. '
+                        "The company's pipeline products include TransCyte for "
+                        'the treatment of second- and third-degree burns; '
+                        'PuraForce, a bioengineered porcine collagen surgical '
+                        'matrix for use in soft tissue reinforcement '
+                        'applications; Novachor for the treatment of chronic '
+                        'and acute wounds; Gintuit for the treatment of '
+                        'mucogingival conditions in adults; and PuraPly XT and '
+                        'PuraPly MZ for the treatment of chronic and acute '
+                        'wounds, as well as for surgical treatment of open '
+                        'wounds. It serves hospitals, wound care centers, '
+                        'government facilities, ambulatory service centers, '
+                        'and physician offices. The company sells its products '
+                        'through direct sales representatives and independent '
+                        'agencies. Organogenesis Holdings Inc. was founded in '
+                        '1985 and is headquartered in Canton, Massachusetts.',
+ 'longName': 'Organogenesis Holdings Inc.',
+ 'market': 'us_market',
+ 'marketCap': 398966080,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_294048',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -41746000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.99,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '781 575 0775',
+ 'previousClose': 3.91,
+ 'priceHint': 4,
+ 'priceToBook': 9.842932,
+ 'priceToSalesTrailing12Months': 1.5021878,
+ 'profitMargins': -0.15475,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.99,
+ 'regularMarketDayLow': 3.75,
+ 'regularMarketOpen': 3.99,
+ 'regularMarketPreviousClose': 3.91,
+ 'regularMarketPrice': 3.99,
+ 'regularMarketVolume': 56653,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 106108000,
+ 'sharesPercentSharesOut': 0.0045,
+ 'sharesShort': 474430,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 354712,
+ 'shortName': 'Organogenesis Holdings Inc.',
+ 'shortPercentOfFloat': 0.0112,
+ 'shortRatio': 2.26,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'ORGO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.433,
+ 'twoHundredDayAverage': 3.8965468,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '57bdb2b0-fbe2-332a-aca5-568eca4ff9a3',
+ 'volume': 56653,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://organogenesis.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02021'}

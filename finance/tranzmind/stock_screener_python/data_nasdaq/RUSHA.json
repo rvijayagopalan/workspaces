@@ -1,0 +1,156 @@
+{'52WeekChange': 0.29367828,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '555 IH 35 South',
+ 'address2': 'Suite 500',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 48.55,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 192275,
+ 'averageVolume': 189760,
+ 'averageVolume10days': 192275,
+ 'beta': 1.306442,
+ 'beta3Year': None,
+ 'bid': 48.45,
+ 'bidSize': 1800,
+ 'bookValue': 32.833,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New Braunfels',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 49.4,
+ 'dayLow': 47.61,
+ 'dividendRate': 0.52,
+ 'dividendYield': 0.0107,
+ 'earningsQuarterlyGrowth': -0.596,
+ 'enterpriseToEbitda': 9.034,
+ 'enterpriseToRevenue': 0.579,
+ 'enterpriseValue': 3012679168,
+ 'exDividendDate': 1588723200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 42.028286,
+ 'fiftyTwoWeekHigh': 49.79,
+ 'fiftyTwoWeekLow': 27.25,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 34437151,
+ 'forwardEps': 2.47,
+ 'forwardPE': 19.635628,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7244,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.014040001,
+ 'heldPercentInstitutions': 1.0049701,
+ 'industry': 'Auto & Truck Dealerships',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1192060800,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/rushenterprises.com',
+ 'longBusinessSummary': 'Rush Enterprises, Inc., through its subsidiaries, '
+                        'operates as an integrated retailer of commercial '
+                        'vehicles and related services in the United States. '
+                        'The company operates a network of commercial vehicle '
+                        'dealerships under the Rush Truck Centers name. Its '
+                        'Rush Truck Centers primarily sell commercial vehicles '
+                        'manufactured by Peterbilt, International, Hino, Ford, '
+                        'Isuzu, Mitsubishi Fuso, IC Bus, or Blue Bird; '
+                        'provides new and used commercial vehicles, and '
+                        'aftermarket parts, as well as service and repair, '
+                        'financing, and leasing and rental services; and '
+                        'offers property and casualty insurance, including '
+                        'collision and liability insurance on commercial '
+                        'vehicles, cargo insurance, and credit life insurance '
+                        'to its commercial vehicle customers. The company also '
+                        'offers equipment installation and repair, parts '
+                        'installation, and paint and body repair services; new '
+                        'vehicle pre-delivery inspection, truck modification, '
+                        'and natural gas fuel system installation services; '
+                        'body, chassis upfit, and component installation '
+                        'services, as well as sells tires for use on '
+                        'commercial vehicles, new and used trailers, and '
+                        'vehicle telematics products; and manufactures '
+                        'compressed natural gas fuel systems and related '
+                        'component parts for commercial vehicles. It serves '
+                        'regional and national truck fleets, corporations, '
+                        'local and state governments, and owner operators. The '
+                        'company operates a network of centers located in the '
+                        'states of Alabama, Arizona, California, Colorado, '
+                        'Florida, Georgia, Idaho, Illinois, Indiana, Kansas, '
+                        'Kentucky, Missouri, Nevada, Nebraska, New Mexico, '
+                        'North Carolina, Ohio, Oklahoma, Pennsylvania, '
+                        'Tennessee, Texas, Utah, and Virginia. Rush '
+                        'Enterprises, Inc. was founded in 1965 and is '
+                        'headquartered in New Braunfels, Texas.',
+ 'longName': 'Rush Enterprises, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1689643008,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_365852',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 102781000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 48,
+ 'openInterest': None,
+ 'payoutRatio': 0.1496,
+ 'pegRatio': -6.95,
+ 'phone': '830 302 5200',
+ 'previousClose': 48.55,
+ 'priceHint': 2,
+ 'priceToBook': 1.4771724,
+ 'priceToSalesTrailing12Months': 0.3245479,
+ 'profitMargins': 0.01974,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 49.4,
+ 'regularMarketDayLow': 47.61,
+ 'regularMarketOpen': 48,
+ 'regularMarketPreviousClose': 48.55,
+ 'regularMarketPrice': 48,
+ 'regularMarketVolume': 391176,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 27728500,
+ 'sharesPercentSharesOut': 0.0153,
+ 'sharesShort': 549675,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 484224,
+ 'shortName': 'Rush Enterprises, Inc.',
+ 'shortPercentOfFloat': 0.0231,
+ 'shortRatio': 2.93,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'RUSHA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.53,
+ 'trailingAnnualDividendYield': 0.01091658,
+ 'trailingEps': 2.77,
+ 'trailingPE': 17.509026,
+ 'twoHundredDayAverage': 39.43108,
+ 'volume': 391176,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.rushenterprises.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '78130'}

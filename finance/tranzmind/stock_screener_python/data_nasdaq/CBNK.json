@@ -1,0 +1,153 @@
+{'52WeekChange': -0.06842536,
+ 'SandP52WeekChange': None,
+ 'address1': '2275 Research Boulevard',
+ 'address2': 'Suite 600',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.49,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 9975,
+ 'averageVolume': 13784,
+ 'averageVolume10days': 9975,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 11.25,
+ 'bidSize': 1000,
+ 'bookValue': 10.284,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Rockville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.5,
+ 'dayLow': 11.25,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.183,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': -0.006,
+ 'enterpriseValue': -619080,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.561143,
+ 'fiftyTwoWeekHigh': 15.07,
+ 'fiftyTwoWeekLow': 6.98,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 7915354,
+ 'forwardEps': 1.16,
+ 'forwardPE': 9.74138,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 244,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.40737,
+ 'heldPercentInstitutions': 0.27796,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/capitalbankmd.com',
+ 'longBusinessSummary': 'Capital Bancorp, Inc. operates as the bank holding '
+                        'company for Capital Bank, N.A. that provides various '
+                        'commercial banking products and services to '
+                        'businesses, not-for-profit associations, and '
+                        'entrepreneurs in the United States. It operates '
+                        'through three divisions: Commercial Banking, Capital '
+                        'Bank Home Loans, and OpenSky. The company offers a '
+                        'range of deposit products and services, including '
+                        'various checking and savings accounts, certificates '
+                        'of deposit, money market accounts, debit cards, '
+                        'remote deposit capture services, online and mobile '
+                        'banking services, e-statements, and bank-by-mail and '
+                        'direct deposit services, as well as business '
+                        'accounts, and cash and treasury management services. '
+                        'It also provides lending services, such as '
+                        'residential and commercial real estate, construction, '
+                        'and commercial business loans, as well as credit '
+                        'cards; and loans to individuals comprising secured '
+                        'and unsecured installment and term, car, and boat '
+                        'loans. In addition, the company originates '
+                        'residential mortgages for sale in the secondary '
+                        'market; and offers short-term secured real estate '
+                        'financing services. It operates through five '
+                        'commercial bank branches, four mortgage offices, one '
+                        'loan production office, a limited service branch, '
+                        'corporate offices, and operations facilities in the '
+                        'Washington, D.C. and Baltimore, Maryland. The company '
+                        'was incorporated in 1998 and is headquartered in '
+                        'Rockville, Maryland.',
+ 'longName': 'Capital Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 156188608,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3554903',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 17247000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 11.32,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '301-468-8848',
+ 'previousClose': 11.3,
+ 'priceHint': 2,
+ 'priceToBook': 1.0987942,
+ 'priceToSalesTrailing12Months': 1.5658163,
+ 'profitMargins': 0.1729,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.5,
+ 'regularMarketDayLow': 11.25,
+ 'regularMarketOpen': 11.32,
+ 'regularMarketPreviousClose': 11.3,
+ 'regularMarketPrice': 11.32,
+ 'regularMarketVolume': 9805,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 13822000,
+ 'sharesPercentSharesOut': 0.0038,
+ 'sharesShort': 52293,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 33720,
+ 'shortName': 'Capital Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0064999997,
+ 'shortRatio': 3.17,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'CBNK',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.23,
+ 'trailingPE': 9.186992,
+ 'twoHundredDayAverage': 11.854317,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '98fafb77-3c14-3092-8390-87519d7153a0',
+ 'volume': 9805,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://capitalbankmd.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20850'}

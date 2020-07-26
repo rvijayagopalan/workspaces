@@ -1,0 +1,157 @@
+{'52WeekChange': -0.28226268,
+ 'SandP52WeekChange': None,
+ 'address1': '2401 East Katella Avenue',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 25.1,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 49500,
+ 'averageVolume': 65201,
+ 'averageVolume10days': 49500,
+ 'beta': 1.269467,
+ 'beta3Year': None,
+ 'bid': 23.01,
+ 'bidSize': 800,
+ 'bookValue': 13.895,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Anaheim',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 25.48,
+ 'dayLow': 24.9,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 21.824,
+ 'enterpriseToRevenue': 0.942,
+ 'enterpriseValue': 430596704,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '714 940 4920',
+ 'fiftyDayAverage': 24.757143,
+ 'fiftyTwoWeekHigh': 39.96,
+ 'fiftyTwoWeekLow': 17.92,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 10228322,
+ 'forwardEps': 2.3,
+ 'forwardPE': 10.873914,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1451,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.05831,
+ 'heldPercentInstitutions': 0.90212995,
+ 'industry': 'Engineering & Construction',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577404800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/willdan.com',
+ 'longBusinessSummary': 'Willdan Group, Inc., together with its subsidiaries, '
+                        'provides professional, technical and consulting '
+                        'services primarily in the United States. It operates '
+                        'in two segments, Energy, and Engineering and '
+                        'Consulting. The Energy segment offers comprehensive '
+                        'audit and surveys, program design, master planning, '
+                        'demand reduction, grid optimization, benchmarking '
+                        'analyses, design engineering, construction '
+                        'management, performance contracting, installation, '
+                        'alternative financing, and measurement and '
+                        'verification services, as well as software and data '
+                        'analytics. The Engineering and Consulting segment '
+                        'provides building and safety, city engineering, code '
+                        'enforcement, development plan review and inspection, '
+                        'disaster recovery, geotechnical and earthquake '
+                        'engineering, planning and surveying, contract staff '
+                        'support, program and construction management, '
+                        'structural engineering, transportation and traffic '
+                        'engineering, and water resources services. This '
+                        'segment also offers district administration, '
+                        'financial consulting, and federal compliance '
+                        'services; emergency preparedness, planning, training, '
+                        'and exercise services; and communications and '
+                        'technology services. The company serves public and '
+                        'governmental agencies, including cities, counties, '
+                        'redevelopment agencies, water districts, school '
+                        'districts, and universities; investor and municipal '
+                        'owned energy utilities; state and federal agencies; '
+                        'commercial and industrial firms; and tribal '
+                        'governments, as well as various other special '
+                        'districts and agencies. Willdan Group, Inc. was '
+                        'founded in 1964 and is headquartered in Anaheim, '
+                        'California.',
+ 'longName': 'Willdan Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 291366496,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4331586',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585872000,
+ 'navPrice': None,
+ 'netIncomeToCommon': -2896000,
+ 'nextFiscalYearEnd': 1640563200,
+ 'open': 25.18,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '714 940 6300',
+ 'previousClose': 25.25,
+ 'priceHint': 2,
+ 'priceToBook': 1.799928,
+ 'priceToSalesTrailing12Months': 0.63710064,
+ 'profitMargins': -0.0063300002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.48,
+ 'regularMarketDayLow': 24.9,
+ 'regularMarketOpen': 25.18,
+ 'regularMarketPreviousClose': 25.25,
+ 'regularMarketPrice': 25.18,
+ 'regularMarketVolume': 46583,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 11650000,
+ 'sharesPercentSharesOut': 0.055999998,
+ 'sharesShort': 652561,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 574479,
+ 'shortName': 'Willdan Group, Inc.',
+ 'shortPercentOfFloat': 0.0598,
+ 'shortRatio': 8.54,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'WLDN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.258,
+ 'twoHundredDayAverage': 26.505468,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '1d7dbf89-355a-333a-acb2-516758ab35a7',
+ 'volume': 46583,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.willdan.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92806'}

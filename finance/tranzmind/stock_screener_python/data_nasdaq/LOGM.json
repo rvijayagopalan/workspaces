@@ -1,0 +1,156 @@
+{'52WeekChange': 0.11220777,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '320 Summer Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 85.7,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 361100,
+ 'averageVolume': 582277,
+ 'averageVolume10days': 361100,
+ 'beta': 0.774229,
+ 'beta3Year': None,
+ 'bid': 85.63,
+ 'bidSize': 800,
+ 'bookValue': 56.361,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Boston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 85.725,
+ 'dayLow': 85.5,
+ 'dividendRate': 1.3,
+ 'dividendYield': 0.0152,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 13.584,
+ 'enterpriseToRevenue': 3.368,
+ 'enterpriseValue': 4294898176,
+ 'exDividendDate': 1573516800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 85.31143,
+ 'fiftyTwoWeekHigh': 86.63,
+ 'fiftyTwoWeekLow': 62.02,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 45152524,
+ 'forwardEps': 5.36,
+ 'forwardPE': 15.977612,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3936,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02016,
+ 'heldPercentInstitutions': 0.96264,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1245888000,
+ 'lastSplitFactor': '1:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/logmeininc.com',
+ 'longBusinessSummary': 'LogMeIn, Inc. provides a portfolio of cloud-based '
+                        'communication and collaboration, identity and access, '
+                        'and customer engagement and support solutions. It '
+                        'enables people to connect with each other worldwide '
+                        'to drive meaningful interactions, deepen '
+                        'relationships, and create better outcomes for '
+                        'individuals and businesses. The company offers '
+                        'GoToConnect, a video and audio conferencing solution; '
+                        'GoToMeeting, an online meeting and collaboration '
+                        'solution; GoToRoom for configuration of video and '
+                        'audio conferencing solution in their physical '
+                        'conference or huddle rooms; GoToTraining, an online '
+                        'training product for interactive training sessions; '
+                        'GoToWebinar, a do-it-yourself Webinar product for '
+                        'organizations; Grasshopper telephony solution; Jive, '
+                        'a cloud-based phone service; join.me, an online '
+                        'meeting and screen sharing services; and OpenVoice, a '
+                        'reservation-less audio conferencing service. It also '
+                        'provides Bold360, an omni-channel engagement platform '
+                        'solution; Bold360 service, an automated digital '
+                        'engagement solution; RescueAssist, GoToAssist '
+                        'Corporate, and GoToAssist Seeit, which are '
+                        'easy-to-use cloud-based remote support solutions; '
+                        'LogMeIn Rescue, a remote support and customer care '
+                        'service; and LogMeIn Rescue+Mobile and Rescue Lens '
+                        'that are Web-based remote support services. In '
+                        'addition, the company offers LogMeIn Central, a '
+                        'Web-based management console; GoToMyPC that enables '
+                        'mobile workstyles; LogMeIn Pro, a remote access '
+                        'service; and LastPass, a password management and '
+                        'single sign on solution. It serves enterprise '
+                        'customers, small and medium businesses, IT service '
+                        'providers, mobile carriers, customer service centers, '
+                        'OEMs, and consumers. The company was formerly known '
+                        'as 3am Labs, Inc. and changed its name to LogMeIn, '
+                        'Inc. in March 2006. LogMeIn, Inc. was founded in 2003 '
+                        'and is headquartered in Boston, Massachusetts.',
+ 'longName': 'LogMeIn, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4176731392,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_11461566',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -16801000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 85.5,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 7.71,
+ 'phone': '781 638 9050',
+ 'previousClose': 85.64,
+ 'priceHint': 2,
+ 'priceToBook': 1.5194904,
+ 'priceToSalesTrailing12Months': 3.275693,
+ 'profitMargins': -0.01318,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 85.725,
+ 'regularMarketDayLow': 85.5,
+ 'regularMarketOpen': 85.5,
+ 'regularMarketPreviousClose': 85.64,
+ 'regularMarketPrice': 85.5,
+ 'regularMarketVolume': 309311,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 48770800,
+ 'sharesPercentSharesOut': 0.0859,
+ 'sharesShort': 4188076,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4289002,
+ 'shortName': 'LogMeIn, Inc.',
+ 'shortPercentOfFloat': 0.0867,
+ 'shortRatio': 7.64,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'LOGM',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.975,
+ 'trailingAnnualDividendYield': 0.011384867,
+ 'trailingEps': -0.342,
+ 'twoHundredDayAverage': 84.67338,
+ 'volume': 309311,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.logmeininc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02210'}

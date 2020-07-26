@@ -1,0 +1,153 @@
+{'52WeekChange': -0.416,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '28969 Information Lane',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 9.53,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 18587,
+ 'averageVolume': 34196,
+ 'averageVolume10days': 18587,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 9.49,
+ 'bidSize': 1000,
+ 'bookValue': 15.977,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Easton',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9.91,
+ 'dayLow': 9.455,
+ 'dividendRate': 0.48,
+ 'dividendYield': 0.051599998,
+ 'earningsQuarterlyGrowth': 0.263,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': -0.024,
+ 'enterpriseValue': -1407260,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.179143,
+ 'fiftyTwoWeekHigh': 17.9,
+ 'fiftyTwoWeekLow': 7.63,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 12258069,
+ 'forwardEps': 0.98,
+ 'forwardPE': 9.683673,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 294,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01905,
+ 'heldPercentInstitutions': 0.74249,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1149552000,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/shoreunitedbank.com',
+ 'longBusinessSummary': 'Shore Bancshares, Inc. operates as a bank holding '
+                        'company for the Shore United Bank that provides '
+                        'various commercial banking products and services to '
+                        'individuals, businesses, and other organizations. It '
+                        'offers various deposit products, including checking, '
+                        'savings, and money market accounts; and regular and '
+                        'IRA certificates of deposit, as well as CDARS '
+                        'programs and cash management services. The company '
+                        'also provides commercial loans, such as secured and '
+                        'unsecured loans, working capital loans, lines of '
+                        'credit, term loans, accounts receivable financing, '
+                        'real estate acquisition and development loans, '
+                        'construction loans, and letters of credit; '
+                        'residential real estate construction loans; '
+                        'residential mortgage loans; and loans to consumers '
+                        'comprising home equity, automobile, installment, home '
+                        'improvement, and personal lines of credit. In '
+                        'addition, it offers safe deposit boxes; debit and '
+                        'credit cards; direct deposit of payroll; merchant '
+                        'credit card clearing services; telephone, mobile, and '
+                        'Internet banking services; and automatic teller '
+                        'machine (ATM) services. Further, the company provides '
+                        'non-deposit products, such as mutual funds and '
+                        'annuities, and discount brokerage services; and '
+                        'trust, asset management, and financial planning '
+                        'services. It operates 21 full service branches, 23 '
+                        'ATMs, 2 loan production offices in Baltimore City, '
+                        'Baltimore County, Howard County, Kent County, Queen '
+                        "Anne's County, Caroline County, Talbot County, "
+                        'Worcester, and Dorchester County in Maryland; Kent '
+                        'County, Delaware; and Accomack County, Virginia. '
+                        'Shore Bancshares, Inc. was founded in 1876 and is '
+                        'headquartered in Easton, Maryland.',
+ 'longName': 'Shore Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 118849912,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_632444',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 16681000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 9.63,
+ 'openInterest': None,
+ 'payoutRatio': 0.3577,
+ 'pegRatio': 0.96,
+ 'phone': '410-763-7800',
+ 'previousClose': 9.31,
+ 'priceHint': 2,
+ 'priceToBook': 0.5939788,
+ 'priceToSalesTrailing12Months': 1.9945611,
+ 'profitMargins': 0.27981,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9.91,
+ 'regularMarketDayLow': 9.455,
+ 'regularMarketOpen': 9.63,
+ 'regularMarketPreviousClose': 9.31,
+ 'regularMarketPrice': 9.63,
+ 'regularMarketVolume': 12463,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 12523700,
+ 'sharesPercentSharesOut': 0.010299999,
+ 'sharesShort': 129436,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 62586,
+ 'shortName': 'Shore Bancshares Inc',
+ 'shortPercentOfFloat': 0.0105,
+ 'shortRatio': 3.19,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'SHBI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.46,
+ 'trailingAnnualDividendYield': 0.049409237,
+ 'trailingEps': 1.324,
+ 'trailingPE': 7.1676736,
+ 'twoHundredDayAverage': 11.777986,
+ 'volume': 12463,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.shoreunitedbank.com/shore-bancshares--inc-',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '21601'}

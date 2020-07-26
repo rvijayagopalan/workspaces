@@ -1,0 +1,158 @@
+{'52WeekChange': -0.2399103,
+ 'SandP52WeekChange': None,
+ 'address1': '401 North 31st Street',
+ 'address2': 'PO Box 30918',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 30.31,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 150050,
+ 'averageVolume': 243587,
+ 'averageVolume10days': 150050,
+ 'beta': 1.15126,
+ 'beta3Year': None,
+ 'bid': 30.29,
+ 'bidSize': 800,
+ 'bookValue': 30.302,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Billings',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 30.88,
+ 'dayLow': 30.22,
+ 'dividendRate': 1.36,
+ 'dividendYield': 0.0446,
+ 'earningsQuarterlyGrowth': -0.296,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.878,
+ 'enterpriseValue': 1794106624,
+ 'exDividendDate': 1588896000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 30.621714,
+ 'fiftyTwoWeekHigh': 43.83,
+ 'fiftyTwoWeekLow': 24.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.8,
+ 'floatShares': 35879616,
+ 'forwardEps': 2.29,
+ 'forwardPE': 13.218341,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2473,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01395,
+ 'heldPercentInstitutions': 0.76919997,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/FIBK.com',
+ 'longBusinessSummary': 'First Interstate BancSystem, Inc. operates as the '
+                        'bank holding company for First Interstate Bank that '
+                        'provides range of banking products and services in '
+                        'the United States. Its deposit products include '
+                        'checking, savings, time, and demand deposits; and '
+                        'repurchase agreements primarily for commercial and '
+                        "municipal depositors. The company's loan portfolio "
+                        'consists of real estate loans, including commercial '
+                        'real estate, construction, residential, agricultural, '
+                        'and other real estate loans; consumer loans; '
+                        'commercial loans; and other loans, including fixed '
+                        'and variable rate loans. It also provides a range of '
+                        'trust, employee benefit, investment management, '
+                        'insurance, agency, and custodial services to '
+                        'individuals, businesses, and nonprofit organizations, '
+                        'which include the administration of estates and '
+                        'personal trusts; management of investment accounts '
+                        'for individuals, employee benefit plans, and '
+                        'charitable foundations; and insurance planning. In '
+                        'addition, the company offers marketing, credit '
+                        'review, credit cards, mortgage loan sales and '
+                        'servicing, indirect consumer loan purchasing and '
+                        'processing, loan collection services, and Internet '
+                        'and mobile banking services. It serves individuals, '
+                        'businesses, municipalities, and other entities in '
+                        'various industries, including agriculture, '
+                        'construction, energy, healthcare and professional '
+                        'services, education, governmental services, mining, '
+                        'technology, retail and wholesale trade, and tourism. '
+                        'The company operates 152 banking offices located in '
+                        'Idaho, Montana, Oregon, South Dakota, Washington, and '
+                        'Wyoming. First Interstate BancSystem, Inc. was '
+                        'incorporated in 1971 and is headquartered in '
+                        'Billings, Montana.',
+ 'longName': 'First Interstate BancSystem, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1954252416,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1035501',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 168700000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 30.54,
+ 'openInterest': None,
+ 'payoutRatio': 0.4903,
+ 'pegRatio': 1.66,
+ 'phone': '406-255-5390',
+ 'previousClose': 30.51,
+ 'priceHint': 2,
+ 'priceToBook': 0.998944,
+ 'priceToSalesTrailing12Months': 3.135332,
+ 'profitMargins': 0.27066,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 30.88,
+ 'regularMarketDayLow': 30.22,
+ 'regularMarketOpen': 30.54,
+ 'regularMarketPreviousClose': 30.51,
+ 'regularMarketPrice': 30.54,
+ 'regularMarketVolume': 97422,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 42465600,
+ 'sharesPercentSharesOut': 0.020599999,
+ 'sharesShort': 1328487,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1108907,
+ 'shortName': 'First Interstate BancSystem, In',
+ 'shortPercentOfFloat': 0.0321,
+ 'shortRatio': 4.74,
+ 'startDate': None,
+ 'state': 'MT',
+ 'strikePrice': None,
+ 'symbol': 'FIBK',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.3,
+ 'trailingAnnualDividendYield': 0.04260898,
+ 'trailingEps': 2.589,
+ 'trailingPE': 11.691773,
+ 'twoHundredDayAverage': 32.55885,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '952a202c-e3a6-379d-9858-c9e5c2324429',
+ 'volume': 97422,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.FIBK.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '59116'}

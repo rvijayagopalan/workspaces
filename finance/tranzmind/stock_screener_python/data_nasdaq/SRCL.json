@@ -1,0 +1,149 @@
+{'52WeekChange': 0.33479214,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2355 Waukegan Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 61.09,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 306687,
+ 'averageVolume': 532079,
+ 'averageVolume10days': 306687,
+ 'beta': 1.145658,
+ 'beta3Year': None,
+ 'bid': 61.07,
+ 'bidSize': 900,
+ 'bookValue': 24.904,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Bannockburn',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 62.18,
+ 'dayLow': 60.76,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 16.005,
+ 'enterpriseToRevenue': 2.625,
+ 'enterpriseValue': 8569039872,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '847 367 9493',
+ 'fiftyDayAverage': 57.494286,
+ 'fiftyTwoWeekHigh': 67.94,
+ 'fiftyTwoWeekLow': 38.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 91295464,
+ 'forwardEps': 2.33,
+ 'forwardPE': 26.180258,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 19500,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00278,
+ 'heldPercentInstitutions': 1.16776,
+ 'industry': 'Waste Management',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1180656000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/stericycle.com',
+ 'longBusinessSummary': 'Stericycle, Inc., together with its subsidiaries, '
+                        'provides regulated and compliance solutions to the '
+                        'healthcare, retail, and commercial businesses in the '
+                        'United States, Europe, and internationally. It '
+                        'operates through three segments: North America RWCS; '
+                        'International RWCS; and Domestic Communication and '
+                        'Related Services. It collects and processes regulated '
+                        'and specialized waste for disposal services; and '
+                        'collects personal and confidential information for '
+                        'secure destruction, recall/return, and communication '
+                        "services. The company's services also include medical "
+                        'waste disposal, pharmaceutical waste disposal, '
+                        'hazardous waste management, sustainability solutions '
+                        'for expired or unused inventory, secure information '
+                        'destruction of documents and e-media, and compliance '
+                        'services; and regulated recall and returns management '
+                        'communication, logistics, and data management '
+                        'services for expired, withdrawn, or recalled '
+                        'products. In addition, it offers compliance programs '
+                        'under the Steri-Safe, Clinical Services, First '
+                        'Practice Management, SeguriMed, and EnviroAssure '
+                        'brand names. The company serves healthcare '
+                        'businesses, including hospitals, physician and dental '
+                        'practices, outpatient clinics, long-term care '
+                        'facilities, etc.; retailers and manufacturers; '
+                        'financial and professional service providers; '
+                        'governmental entities; and other businesses. '
+                        'Stericycle, Inc. was founded in 1989 and is '
+                        'headquartered in Bannockburn, Illinois.',
+ 'longName': 'Stericycle, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 5576437248,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34780',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -329100000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 61.77,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3,
+ 'phone': '847 367 5910',
+ 'previousClose': 61.77,
+ 'priceHint': 2,
+ 'priceToBook': 2.4494057,
+ 'priceToSalesTrailing12Months': 1.7085719,
+ 'profitMargins': -0.10083,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 62.18,
+ 'regularMarketDayLow': 60.76,
+ 'regularMarketOpen': 61.77,
+ 'regularMarketPreviousClose': 61.77,
+ 'regularMarketPrice': 61.77,
+ 'regularMarketVolume': 341201,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 91417000,
+ 'sharesPercentSharesOut': 0.055,
+ 'sharesShort': 5025175,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5147169,
+ 'shortName': 'Stericycle, Inc.',
+ 'shortPercentOfFloat': 0.055,
+ 'shortRatio': 9,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'SRCL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -3.611,
+ 'twoHundredDayAverage': 55.511223,
+ 'volume': 341201,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.stericycle.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60015'}

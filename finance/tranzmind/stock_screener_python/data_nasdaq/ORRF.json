@@ -1,0 +1,150 @@
+{'52WeekChange': -0.3664087,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '77 East King Street',
+ 'address2': 'PO Box 250',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.22,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 16637,
+ 'averageVolume': 24071,
+ 'averageVolume10days': 16637,
+ 'beta': 0.902521,
+ 'beta3Year': None,
+ 'bid': 13.73,
+ 'bidSize': 800,
+ 'bookValue': 20.13,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Shippensburg',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.29,
+ 'dayLow': 13.59,
+ 'dividendRate': 0.68,
+ 'dividendYield': 0.0478,
+ 'earningsQuarterlyGrowth': 1.367,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.525,
+ 'enterpriseValue': 362136320,
+ 'exDividendDate': 1596153600,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 13.752,
+ 'fiftyTwoWeekHigh': 23.48,
+ 'fiftyTwoWeekLow': 11.4,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.09,
+ 'floatShares': 10212429,
+ 'forwardEps': 1.38,
+ 'forwardPE': 10.086957,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 439,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.034679998,
+ 'heldPercentInstitutions': 0.45793,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1179878400,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/orrstown.com',
+ 'longBusinessSummary': 'Orrstown Financial Services, Inc. operates as the '
+                        'holding company for Orrstown Bank that provides '
+                        'commercial banking and trust services in the United '
+                        'States. The company accepts various deposits, '
+                        'including checking, savings, time, demand, and money '
+                        'market deposits. It also offers commercial loans, '
+                        'such as commercial real estate, equipment, working '
+                        'capital, construction, and other commercial purpose '
+                        'loans, as well as industrial loans; consumer loans '
+                        'comprising home equity and other consumer loans, as '
+                        'well as home equity lines of credit; residential '
+                        'mortgage loans; agribusiness loans; acquisition and '
+                        'development loans; municipal loans; and installment '
+                        'and other loans. In addition, the company provides '
+                        'renders services as trustee, executor, administrator, '
+                        'guardian, managing agent, custodian, and investment '
+                        'advisor, as well as provides other fiduciary services '
+                        'under the Orrstown Financial Advisors and Wheatland '
+                        'name; and offers retail brokerage services through a '
+                        'third-party broker/dealer arrangement. Further, it '
+                        'offers investment advisory services through an office '
+                        'in Lancaster County, Pennsylvania. As of April 21, '
+                        '2020, it had offices in Berks, Cumberland, Dauphin, '
+                        'Franklin, Lancaster, Perry, and York counties, '
+                        'Pennsylvania; and Anne Arundel, Baltimore, Howard, '
+                        'and Washington counties, Maryland, as well as '
+                        'Baltimore City, Maryland. Orrstown Financial '
+                        'Services, Inc. was founded in 1919 and is '
+                        'headquartered in Shippensburg, Pennsylvania.',
+ 'longName': 'Orrstown Financial Services, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 156030672,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3174385',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 22562000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.13,
+ 'openInterest': None,
+ 'payoutRatio': 0.3092,
+ 'pegRatio': None,
+ 'phone': '717-532-6114',
+ 'previousClose': 14.24,
+ 'priceHint': 2,
+ 'priceToBook': 0.69150525,
+ 'priceToSalesTrailing12Months': 1.518931,
+ 'profitMargins': 0.21964,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.29,
+ 'regularMarketDayLow': 13.59,
+ 'regularMarketOpen': 14.13,
+ 'regularMarketPreviousClose': 14.24,
+ 'regularMarketPrice': 14.13,
+ 'regularMarketVolume': 21723,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 11209100,
+ 'sharesPercentSharesOut': 0.0081,
+ 'sharesShort': 90253,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 49944,
+ 'shortName': 'Orrstown Financial Services Inc',
+ 'shortPercentOfFloat': 0.0084,
+ 'shortRatio': 3.43,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'ORRF',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.64,
+ 'trailingAnnualDividendYield': 0.04494382,
+ 'trailingEps': 2.046,
+ 'trailingPE': 6.8035192,
+ 'twoHundredDayAverage': 15.738418,
+ 'volume': 21723,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.orrstown.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '17257'}

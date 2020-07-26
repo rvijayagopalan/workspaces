@@ -1,0 +1,153 @@
+{'52WeekChange': -0.7102941,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '215 First Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 49.25,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 551425,
+ 'averageVolume': 876690,
+ 'averageVolume10days': 551425,
+ 'beta': 2.679551,
+ 'beta3Year': None,
+ 'bid': 47,
+ 'bidSize': 900,
+ 'bookValue': 16.357,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 47.62,
+ 'dayLow': 45.35,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -2.423,
+ 'enterpriseToRevenue': 186.113,
+ 'enterpriseValue': 1617138432,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '617 299 8379',
+ 'fiftyDayAverage': 41.64343,
+ 'fiftyTwoWeekHigh': 174.73,
+ 'fiftyTwoWeekLow': 25.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 50945398,
+ 'forwardEps': -9.19,
+ 'forwardPE': -5.1447225,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 675,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01831,
+ 'heldPercentInstitutions': 1.0971,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sagerx.com',
+ 'longBusinessSummary': 'Sage Therapeutics, Inc., a biopharmaceutical company, '
+                        'develops and commercializes novel medicines to treat '
+                        'central nervous system (CNS) disorders. Its lead '
+                        'product candidate is ZULRESSO, a proprietary '
+                        'intravenous formulation of brexanolone for the '
+                        'treatment of postpartum depression (PPD). The '
+                        "company's product pipeline also includes SAGE-217, a "
+                        'novel neuroactive steroid, which is in Phase III '
+                        'clinical trials for treating PPD, major depressive '
+                        'disorders, bipolar depression, and generalized '
+                        'anxiety disorders; and SAGE-324, a novel compound '
+                        'that is in Phase II clinical trial to treat essential '
+                        'tremors, as well as has completed Phase I clinical '
+                        "trial for epileptiform disorders and Parkinson's "
+                        'diseases. In addition, its product pipeline comprises '
+                        'SAGE-718, an oxysterol-based positive allosteric '
+                        'modulator of the NMDA receptor, which has completed '
+                        'Phase I clinical trial for the treatment of '
+                        "depression, Huntington's disease, Alzheimer's "
+                        'disease, attention deficit hyperactivity disorder, '
+                        'schizophrenia, and neuropathic pain. Further, the '
+                        'company is developing SAGE-904, an oral therapy that '
+                        'is in Phase I clinical trial for disorders associated '
+                        'with NMDA hypofunction; and SAGE-689 for '
+                        'intramuscular administration. Sage Therapeutics, Inc. '
+                        'has a strategic collaboration with Shionogi & Co., '
+                        'Ltd. for the development and commercialization of '
+                        'SAGE-217 in Japan, Taiwan, and South Korea. The '
+                        'company was formerly known as Sterogen Biopharma, '
+                        'Inc. and changed its name to Sage Therapeutics, Inc. '
+                        'in September 2011. Sage Therapeutics, Inc. was '
+                        'founded in 2010 and is headquartered in Cambridge, '
+                        'Massachusetts.',
+ 'longName': 'Sage Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2454673408,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_141821364',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -643571968,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 46.4,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.36,
+ 'phone': '617 299 8380',
+ 'previousClose': 46.92,
+ 'priceHint': 2,
+ 'priceToBook': 2.8905056,
+ 'priceToSalesTrailing12Months': 282.50357,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 47.62,
+ 'regularMarketDayLow': 45.35,
+ 'regularMarketOpen': 46.4,
+ 'regularMarketPreviousClose': 46.92,
+ 'regularMarketPrice': 46.4,
+ 'regularMarketVolume': 478238,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 51917800,
+ 'sharesPercentSharesOut': 0.1377,
+ 'sharesShort': 7148625,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6543608,
+ 'shortName': 'Sage Therapeutics, Inc.',
+ 'shortPercentOfFloat': 0.1903,
+ 'shortRatio': 7.63,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'SAGE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -12.451,
+ 'twoHundredDayAverage': 46.08662,
+ 'volume': 478238,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sagerx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02142'}

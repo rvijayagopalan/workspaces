@@ -1,0 +1,154 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '2111 North Molter Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 67.82,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 179837,
+ 'averageVolume': 316293,
+ 'averageVolume10days': 179837,
+ 'beta': 1.323809,
+ 'beta3Year': None,
+ 'bid': 67.77,
+ 'bidSize': 800,
+ 'bookValue': 19.184,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Liberty Lake',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 69.63,
+ 'dayLow': 67.59,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 13.839,
+ 'enterpriseToRevenue': 1.445,
+ 'enterpriseValue': 3593526528,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 67.26171,
+ 'fiftyTwoWeekHigh': 88.32,
+ 'fiftyTwoWeekLow': 40.48,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 39758652,
+ 'forwardEps': 3.46,
+ 'forwardPE': 19.569365,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6700,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0124699995,
+ 'heldPercentInstitutions': 1.00807,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/itron.com',
+ 'longBusinessSummary': 'Itron, Inc., a technology and service company, '
+                        'provides end-to-end solutions that help manage '
+                        'operations in the energy, water, and smart city space '
+                        'worldwide. The company operates through three '
+                        'segments: Device Solutions, Networked Solutions, and '
+                        'Outcomes. The Device Solutions segment offers '
+                        'hardware products that are used for measurement, '
+                        'control, or sensing. The Networked Solutions segment '
+                        'provides a combination of communicating devices, such '
+                        'as smart meters, modules, endpoints, and sensors; '
+                        'network infrastructure; and associated application '
+                        'software for acquiring and transporting '
+                        'application-specific data. The Outcomes segment '
+                        'offers enhanced software and services for managing, '
+                        'organizing, analyzing, and interpreting data to '
+                        'enhance decision making, maximize operational '
+                        'profitability, drive resource efficiency, and deliver '
+                        'results for consumers, utilities, and smart cities. '
+                        'In addition, it offers software implementation, '
+                        'project management, installation, consulting, and '
+                        'post-sale maintenance support services, as well as '
+                        'cloud and software-as-a-service; and extended or '
+                        'customer-specific warranties. It offers its products '
+                        'and services under the Itron brand. The company '
+                        'markets its products directly through its sales '
+                        'force, as well as through indirect sales force '
+                        'consisting of distributors, sales representatives, '
+                        'partners, and meter manufacturer representatives to '
+                        'utilities and municipalities. Itron, Inc. was founded '
+                        'in 1977 and is headquartered in Liberty Lake, '
+                        'Washington.',
+ 'longName': 'Itron, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2722219520,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_30323',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 59597000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 69.63,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.99,
+ 'phone': '509-924-9900',
+ 'previousClose': 69.75,
+ 'priceHint': 2,
+ 'priceToBook': 3.5295036,
+ 'priceToSalesTrailing12Months': 1.0948838,
+ 'profitMargins': 0.02397,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 69.63,
+ 'regularMarketDayLow': 67.59,
+ 'regularMarketOpen': 69.63,
+ 'regularMarketPreviousClose': 69.75,
+ 'regularMarketPrice': 69.63,
+ 'regularMarketVolume': 127346,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 40204100,
+ 'sharesPercentSharesOut': 0.0231,
+ 'sharesShort': 928741,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 640875,
+ 'shortName': 'Itron, Inc.',
+ 'shortPercentOfFloat': 0.026800001,
+ 'shortRatio': 3.01,
+ 'startDate': None,
+ 'state': 'WA',
+ 'strikePrice': None,
+ 'symbol': 'ITRI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.485,
+ 'trailingPE': 45.59596,
+ 'twoHundredDayAverage': 69.13518,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b266edee-5d4c-32ad-aa65-806e28d515a6',
+ 'volume': 127346,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.itron.com/na',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '99019'}

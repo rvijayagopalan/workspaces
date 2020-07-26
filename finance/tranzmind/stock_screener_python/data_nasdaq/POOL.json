@@ -1,0 +1,155 @@
+{'52WeekChange': 0.5908711,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '109 Northpark Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 304.59,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 408437,
+ 'averageVolume': 318760,
+ 'averageVolume10days': 408437,
+ 'beta': 0.828011,
+ 'beta3Year': None,
+ 'bid': 304.22,
+ 'bidSize': 900,
+ 'bookValue': 12.178,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Covington',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 306.69,
+ 'dayLow': 295.09,
+ 'dividendRate': 2.32,
+ 'dividendYield': 0.0077,
+ 'earningsQuarterlyGrowth': 0.199,
+ 'enterpriseToEbitda': 31.231,
+ 'enterpriseToRevenue': 3.705,
+ 'enterpriseValue': 12742066176,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '985 801 5716',
+ 'fiftyDayAverage': 273.14487,
+ 'fiftyTwoWeekHigh': 318.71,
+ 'fiftyTwoWeekLow': 160.35,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.1,
+ 'floatShares': 38647495,
+ 'forwardEps': 7.49,
+ 'forwardPE': 40.623497,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4500,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03261,
+ 'heldPercentInstitutions': 0.96046996,
+ 'industry': 'Leisure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1095033600,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/poolcorp.com',
+ 'longBusinessSummary': 'Pool Corporation distributes swimming pool supplies, '
+                        'equipment, and related leisure products in North '
+                        'America, Europe, South America, and Australia. The '
+                        'company offers maintenance products, including '
+                        'chemicals, supplies, and pool accessories; repair and '
+                        'replacement parts for pool equipment, such as '
+                        'cleaners, filters, heaters, pumps, and lights; '
+                        'packaged pool kits comprising walls, liners, braces, '
+                        'and coping for in-ground and above-ground pools; pool '
+                        'equipment and components for new pool construction '
+                        'and the remodeling of existing pools; and irrigation '
+                        'and landscape products consisting of irrigation '
+                        'system components, and professional lawn care '
+                        'equipment and supplies. It also provides building '
+                        'materials, such as concrete, plumbing and electrical '
+                        'components, functional and decorative pool surfaces, '
+                        'decking materials, tiles, hardscapes, and natural '
+                        'stones for use in pool installations and remodeling; '
+                        'and commercial products, such as ASME heaters, safety '
+                        'equipment, and commercial pumps and filters. In '
+                        'addition, the company offers discretionary '
+                        'recreational and related outdoor lifestyle products '
+                        "that enhance consumers' use and enjoyment of outdoor "
+                        'living spaces, such as spas, grills, and components '
+                        'for outdoor kitchens. It serves swimming pool '
+                        'remodelers and builders; specialty retailers that '
+                        'sell swimming pool supplies; swimming pool repair and '
+                        'service businesses; irrigation construction and '
+                        'landscape maintenance contractors; golf courses; and '
+                        'commercial customers that serve hotels, universities, '
+                        'and community recreational facilities. As of December '
+                        '31, 2018, the company operated 364 sales centers. '
+                        'Pool Corporation was founded in 1993 and is '
+                        'headquartered in Covington, Louisiana.',
+ 'longName': 'Pool Corporation',
+ 'market': 'us_market',
+ 'marketCap': 12151174144,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34117',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 286015008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 298,
+ 'openInterest': None,
+ 'payoutRatio': 0.3465,
+ 'pegRatio': 2.58,
+ 'phone': '985 892 5521',
+ 'previousClose': 300.58,
+ 'priceHint': 2,
+ 'priceToBook': 24.985218,
+ 'priceToSalesTrailing12Months': 3.5334818,
+ 'profitMargins': 0.083170004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 306.69,
+ 'regularMarketDayLow': 295.09,
+ 'regularMarketOpen': 298,
+ 'regularMarketPreviousClose': 300.58,
+ 'regularMarketPrice': 298,
+ 'regularMarketVolume': 468244,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 39935500,
+ 'sharesPercentSharesOut': 0.020399999,
+ 'sharesShort': 812700,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1143734,
+ 'shortName': 'Pool Corporation',
+ 'shortPercentOfFloat': 0.021,
+ 'shortRatio': 2.9,
+ 'startDate': None,
+ 'state': 'LA',
+ 'strikePrice': None,
+ 'symbol': 'POOL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.23,
+ 'trailingAnnualDividendYield': 0.00741899,
+ 'trailingEps': 7,
+ 'trailingPE': 43.46714,
+ 'twoHundredDayAverage': 230.06683,
+ 'volume': 468244,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.poolcorp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '70433'}

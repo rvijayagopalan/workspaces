@@ -1,0 +1,148 @@
+{'52WeekChange': 0.2427746,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '640 Lee Road',
+ 'address2': 'Suite 200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.23,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 1466462,
+ 'averageVolume': 705582,
+ 'averageVolume10days': 1466462,
+ 'beta': 1.16,
+ 'beta3Year': None,
+ 'bid': 2.12,
+ 'bidSize': 1000,
+ 'bookValue': 1.391,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Wayne',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.27,
+ 'dayLow': 2.08,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -0.33,
+ 'enterpriseToRevenue': 5.859,
+ 'enterpriseValue': 25608642,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 1.76,
+ 'fiftyTwoWeekHigh': 3.34,
+ 'fiftyTwoWeekLow': 0.7,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 26251036,
+ 'forwardEps': -1.48,
+ 'forwardPE': -1.4527028,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 75,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.10009,
+ 'heldPercentInstitutions': 0.84812,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/aclaristx.com',
+ 'longBusinessSummary': 'Aclaris Therapeutics, Inc., a biopharmaceutical '
+                        'company, focuses on developing drug candidates for '
+                        'immuno-inflammatory diseases in the United States. It '
+                        'operates in two segments, Therapeutics and Contract '
+                        'Research. The company offers ESKATA, a formulation of '
+                        'high-concentration hydrogen peroxide topical solution '
+                        'for raised seborrheic keratosis, a common '
+                        'non-malignant skin tumor. It is also developing '
+                        'A-101, a high-concentration formulation of hydrogen '
+                        'peroxide that is in Phase III clinical trial for '
+                        'common warts; and ATI-501 and ATI-502 Janus kinase '
+                        '(JAK) inhibitors, which are in Phase II clinical '
+                        'trials for alopecia areata (AA) and other '
+                        'dermatological indications. In addition, the '
+                        "company's products under development include ATI-450 "
+                        'an investigational oral, novel, small molecule '
+                        'selective MK2 inhibitor compound for the treatment of '
+                        'rheumatoid arthritis; ATI-1777 soft inhibitor for '
+                        'atopic dermatitis; and ATI-2138, an investigational '
+                        'oral ITK/TXK/JAK3, or ITJ, inhibitor compound, for '
+                        'the treatment of psoriasis inflammatory bowel '
+                        'disease. Further, it provides contract research '
+                        'services. Aclaris Therapeutics, Inc. has a license '
+                        'and collaboration agreement with Rigel '
+                        'Pharmaceuticals, Inc. for the development and '
+                        'commercialization of JAK inhibitors. The company was '
+                        'founded in 2012 and is headquartered in Wayne, '
+                        'Pennsylvania.',
+ 'longName': 'Aclaris Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 90012552,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_216879819',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -101589000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.19,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.01,
+ 'phone': '484 324 7933',
+ 'previousClose': 2.24,
+ 'priceHint': 4,
+ 'priceToBook': 1.5456506,
+ 'priceToSalesTrailing12Months': 20.593126,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.27,
+ 'regularMarketDayLow': 2.08,
+ 'regularMarketOpen': 2.19,
+ 'regularMarketPreviousClose': 2.24,
+ 'regularMarketPrice': 2.19,
+ 'regularMarketVolume': 645287,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 41832200,
+ 'sharesPercentSharesOut': 0.0327,
+ 'sharesShort': 1370272,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1743956,
+ 'shortName': 'Aclaris Therapeutics, Inc.',
+ 'shortPercentOfFloat': 0.0344,
+ 'shortRatio': 1.38,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'ACRS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -3.365,
+ 'twoHundredDayAverage': 1.4174173,
+ 'volume': 645287,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.aclaristx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '19087'}

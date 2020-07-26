@@ -1,0 +1,151 @@
+{'52WeekChange': -0.34619093,
+ 'SandP52WeekChange': None,
+ 'address1': '40, avenue Monterey',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.39,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 72225,
+ 'averageVolume': 153765,
+ 'averageVolume10days': 72225,
+ 'beta': 1.674509,
+ 'beta3Year': None,
+ 'bid': 10,
+ 'bidSize': 800,
+ 'bookValue': -2.107,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Luxembourg City',
+ 'companyOfficers': [],
+ 'country': 'Luxembourg',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.55,
+ 'dayLow': 13.15,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 9.952,
+ 'enterpriseToRevenue': 0.678,
+ 'enterpriseValue': 406749088,
+ 'exDividendDate': 1355443200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 13.240286,
+ 'fiftyTwoWeekHigh': 23.58,
+ 'fiftyTwoWeekLow': 6,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 4999354,
+ 'forwardEps': 1.46,
+ 'forwardPE': 9.171233,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3283,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.44044998,
+ 'heldPercentInstitutions': 0.59306,
+ 'industry': 'Mortgage Finance',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/altisource.com',
+ 'longBusinessSummary': 'Altisource Portfolio Solutions S.A. operates as an '
+                        'integrated service provider and marketplace for the '
+                        'real estate and mortgage industries in the United '
+                        'States and internationally. It provides property '
+                        'preservation and inspection services, including '
+                        'vendor management, marketplace transaction '
+                        'management, payment management technologies, and a '
+                        'vendor management oversight software-as-a-service '
+                        '(SaaS) platform. The company also offers Hubzu, an '
+                        'online real estate auction platform, as well as real '
+                        'estate auction, real estate brokerage, and asset '
+                        'management services; and Equator, a SaaS-based '
+                        'technology to manage real estate owned, short sales, '
+                        'foreclosure, bankruptcy, and eviction processes. In '
+                        'addition, it provides mortgage origination loan '
+                        'fulfillment, certification and certification '
+                        'insurance services, technologies, title insurance '
+                        'agent, settlement and valuation services, residential '
+                        'and commercial construction inspection and risk '
+                        'mitigation, foreclosure trustee, and commercial loan '
+                        'technology services. Further, the company offers '
+                        'Vendorly, a SaaS-based vendor management platform, as '
+                        'well as support services for Federal Housing '
+                        'Administration mortgages. It serves financial '
+                        'institutions, government-sponsored enterprises, '
+                        'utility companies, commercial banks, servicers, '
+                        'investors, non-bank originators, correspondent '
+                        'lenders, and mortgage bankers. Altisource Portfolio '
+                        'Solutions S.A. was incorporated in 1999 and is '
+                        'headquartered in Luxembourg.',
+ 'longName': 'Altisource Portfolio Solutions S.A.',
+ 'market': 'us_market',
+ 'marketCap': 208487664,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_59049563',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -316435008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.44,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.93,
+ 'phone': '352 2469 7900',
+ 'previousClose': 13.56,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 0.3473868,
+ 'profitMargins': -0.52725,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.55,
+ 'regularMarketDayLow': 13.15,
+ 'regularMarketOpen': 13.44,
+ 'regularMarketPreviousClose': 13.56,
+ 'regularMarketPrice': 13.44,
+ 'regularMarketVolume': 58826,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 15570400,
+ 'sharesPercentSharesOut': 0.052800003,
+ 'sharesShort': 822677,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 924991,
+ 'shortName': 'Altisource Portfolio Solutions ',
+ 'shortPercentOfFloat': 0.1542,
+ 'shortRatio': 4.87,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'ASPS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -20.037,
+ 'twoHundredDayAverage': 12.836547,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '97a2476b-7659-303d-ab55-17a4bcd17c42',
+ 'volume': 58826,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.altisource.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '2163'}

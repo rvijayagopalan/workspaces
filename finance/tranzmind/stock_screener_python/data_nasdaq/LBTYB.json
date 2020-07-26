@@ -1,0 +1,153 @@
+{'52WeekChange': -0.1991263,
+ 'SandP52WeekChange': None,
+ 'address1': 'Griffin House',
+ 'address2': '161 Hammersmith Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24.31,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 200,
+ 'averageVolume': 7731,
+ 'averageVolume10days': 200,
+ 'beta': 1.252661,
+ 'beta3Year': None,
+ 'bid': 22.46,
+ 'bidSize': 1000,
+ 'bookValue': 21.355,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'London',
+ 'companyOfficers': [],
+ 'country': 'United Kingdom',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.39,
+ 'dayLow': 23.1,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 134.686,
+ 'enterpriseToEbitda': 7.816,
+ 'enterpriseToRevenue': 3.103,
+ 'enterpriseValue': 35840733184,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 23.296858,
+ 'fiftyTwoWeekHigh': 58.31,
+ 'fiftyTwoWeekLow': 15.98,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 505159805,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 20200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.97967005,
+ 'heldPercentInstitutions': 0.0028,
+ 'industry': 'Entertainment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1466467200,
+ 'lastSplitFactor': '9:8',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/libertyglobal.com',
+ 'longBusinessSummary': 'Liberty Global plc, together with its subsidiaries, '
+                        'provides video, broadband Internet, fixed-line '
+                        'telephony, mobile, and other communications services '
+                        'to residential customers and businesses in Europe. It '
+                        'offers Wi-Fi and Internet services, such as email, '
+                        'address book, and parental controls; security; online '
+                        'storage solutions and Web spaces; and Connect Box, a '
+                        'connectivity device that delivers in-home Wi-Fi '
+                        'coverage. The company also provides community Wi-Fi '
+                        'via routers in home, which provides access to the '
+                        'Internet; public Wi-Fi access points in train '
+                        'stations, hotels, bars, restaurants, and other public '
+                        'places. In addition, its cable operations comprise '
+                        'various tiers of digital video programming and audio '
+                        'services, as well as offers digital video recorders, '
+                        'multimedia home gateway systems, and various mobile '
+                        "applications. The company's channel offerings include "
+                        'general entertainment, sports, movies, documentaries, '
+                        'lifestyles, news, adult, children, and ethnic and '
+                        'foreign channels. Further, it provides mobile '
+                        'services, such as voice, short message service, and '
+                        'Internet access; and circuit-switched telephony '
+                        'services. Additionally, the company offers voice, '
+                        'advanced data, video, wireless, cloud-based services, '
+                        'and mobile and converged fixed-mobile services to '
+                        'small or home offices, small businesses, and medium '
+                        'and large enterprises, as well as on a wholesale '
+                        'basis to other operators. Liberty Global plc was '
+                        'founded in 2004 and is based in London, the United '
+                        'Kingdom.',
+ 'longName': 'Liberty Global plc',
+ 'market': 'us_market',
+ 'marketCap': 13446583296,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_9956099',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -260400000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 23.645,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '44 20 8483 6300',
+ 'previousClose': 22,
+ 'priceHint': 2,
+ 'priceToBook': 1.0952939,
+ 'priceToSalesTrailing12Months': 1.164277,
+ 'profitMargins': 1.0792199,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.39,
+ 'regularMarketDayLow': 23.1,
+ 'regularMarketOpen': 23.645,
+ 'regularMarketPreviousClose': 22,
+ 'regularMarketPrice': 23.645,
+ 'regularMarketVolume': 224,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 12561900,
+ 'sharesPercentSharesOut': 0,
+ 'sharesShort': 268,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1485,
+ 'shortName': 'Liberty Global plc',
+ 'shortPercentOfFloat': 0.0002,
+ 'shortRatio': 0.16,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'LBTYB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 18.387,
+ 'trailingPE': 1.2720945,
+ 'twoHundredDayAverage': 21.794533,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '9b5d8932-465c-37ef-b686-8972c6c84eff',
+ 'volume': 224,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.libertyglobal.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'W6 8BS'}

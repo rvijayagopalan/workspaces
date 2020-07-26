@@ -1,0 +1,155 @@
+{'52WeekChange': -0.3340757,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '299 SW Clay Street',
+ 'address2': 'Suite 350',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.94,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 207037,
+ 'averageVolume': 262730,
+ 'averageVolume10days': 207037,
+ 'beta': 1.389915,
+ 'beta3Year': None,
+ 'bid': 17.63,
+ 'bidSize': 800,
+ 'bookValue': 24.747,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Portland',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 18.22,
+ 'dayLow': 17.87,
+ 'dividendRate': 0.75,
+ 'dividendYield': 0.041500002,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 9.129,
+ 'enterpriseToRevenue': 0.413,
+ 'enterpriseValue': 741068416,
+ 'exDividendDate': 1588896000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 17.257715,
+ 'fiftyTwoWeekHigh': 27.47,
+ 'fiftyTwoWeekLow': 10.09,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.53,
+ 'floatShares': 25653710,
+ 'forwardEps': 0.79,
+ 'forwardPE': 22.70886,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3363,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.057789996,
+ 'heldPercentInstitutions': 0.93268996,
+ 'industry': 'Steel',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1567209600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1080259200,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/schnitzersteel.com',
+ 'longBusinessSummary': 'Schnitzer Steel Industries, Inc. recycles ferrous and '
+                        'nonferrous scrap metals; and manufactures finished '
+                        'steel products worldwide. The company operates in two '
+                        'segments, Auto and Metals Recycling (AMR), and '
+                        'Cascade Steel and Scrap (CSS). The AMR segment '
+                        'acquires, processes, and recycles scrap metals, as '
+                        'well as processes mixed and large pieces of scrap '
+                        'metal into smaller pieces by crushing, torching, '
+                        'shearing, shredding, and sorting. This segment offers '
+                        'ferrous recycled scrap metal, a feedstock used in the '
+                        'production of finished steel products; and nonferrous '
+                        'products, including aluminum, copper, stainless '
+                        'steel, nickel, brass, titanium, lead, high '
+                        'temperature alloys, and joint products. It sells '
+                        'ferrous and nonferrous recycled metal products to '
+                        'steel mills, foundries, refineries, smelters, '
+                        'wholesalers, and recycled metal processors. This '
+                        'segment also procures salvaged vehicles and sells '
+                        'serviceable used auto parts from these vehicles '
+                        'through its 51 self-service auto parts stores in the '
+                        'United States and Western Canada, as well as sells '
+                        'auto bodies and component parts, such as engines, '
+                        'transmissions, and alternators to wholesalers. The '
+                        'CSS segment produces various finished steel products '
+                        'using ferrous recycled scrap metal and other raw '
+                        'materials. It provides semi-finished goods, which '
+                        'include billets; and finished goods consisting of '
+                        'rebar, coiled rebar, wire rods, merchant bars, and '
+                        'other specialty products. This segment serves steel '
+                        'service centers, construction industry '
+                        'subcontractors, steel fabricators, wire drawers, and '
+                        'farm and wood products suppliers. Schnitzer Steel '
+                        'Industries, Inc. was founded in 1906 and is '
+                        'headquartered in Portland, Oregon.',
+ 'longName': 'Schnitzer Steel Industries, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 486165056,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_334984',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1590883200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 3554000,
+ 'nextFiscalYearEnd': 1630368000,
+ 'open': 18.06,
+ 'openInterest': None,
+ 'payoutRatio': 6.25,
+ 'pegRatio': 6.02,
+ 'phone': '503-224-9900',
+ 'previousClose': 18.07,
+ 'priceHint': 2,
+ 'priceToBook': 0.72493637,
+ 'priceToSalesTrailing12Months': 0.27076122,
+ 'profitMargins': 0.00193,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.22,
+ 'regularMarketDayLow': 17.87,
+ 'regularMarketOpen': 18.06,
+ 'regularMarketPreviousClose': 18.07,
+ 'regularMarketPrice': 18.06,
+ 'regularMarketVolume': 135307,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Basic Materials',
+ 'sharesOutstanding': 26943100,
+ 'sharesPercentSharesOut': 0.023699999,
+ 'sharesShort': 641796,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 547026,
+ 'shortName': 'Schnitzer Steel Industries, Inc',
+ 'shortPercentOfFloat': 0.0315,
+ 'shortRatio': 1.92,
+ 'startDate': None,
+ 'state': 'OR',
+ 'strikePrice': None,
+ 'symbol': 'SCHN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.75,
+ 'trailingAnnualDividendYield': 0.04150526,
+ 'trailingEps': 0.126,
+ 'trailingPE': 142.38095,
+ 'twoHundredDayAverage': 16.100073,
+ 'volume': 135307,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.schnitzersteel.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '97201'}

@@ -1,0 +1,160 @@
+{'52WeekChange': -0.21168965,
+ 'SandP52WeekChange': None,
+ 'address1': '7830 Old Georgetown Road',
+ 'address2': 'Third Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 31.79,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 124550,
+ 'averageVolume': 157109,
+ 'averageVolume10days': 124550,
+ 'beta': 1.10028,
+ 'beta3Year': None,
+ 'bid': 31.4,
+ 'bidSize': 800,
+ 'bookValue': 36.863,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Bethesda',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 32.59,
+ 'dayLow': 31.17,
+ 'dividendRate': 0.88,
+ 'dividendYield': 0.0291,
+ 'earningsQuarterlyGrowth': -0.225,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.229,
+ 'enterpriseValue': 1002999104,
+ 'exDividendDate': 1594684800,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 31.642857,
+ 'fiftyTwoWeekHigh': 49.84,
+ 'fiftyTwoWeekLow': 23.08,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 30130791,
+ 'forwardEps': 3.7,
+ 'forwardPE': 8.494595,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 492,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.08683,
+ 'heldPercentInstitutions': 0.75792,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1369785600,
+ 'lastSplitFactor': '11:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/eaglebankcorp.com',
+ 'longBusinessSummary': 'Eagle Bancorp, Inc. operates as the bank holding '
+                        'company for EagleBank that provides commercial and '
+                        'consumer banking services primarily in the United '
+                        'States. It accepts business and personal checking, '
+                        'NOW, tiered savings, and money market accounts, as '
+                        'well as individual retirement, certificate of '
+                        'deposit, and investment sweep accounts; and time '
+                        'deposits. The company also offers various commercial '
+                        'and consumer lending products comprising commercial '
+                        'loans for working capital, equipment purchases, real '
+                        'estate lines of credit, and government contract '
+                        'financing; asset based lending and accounts '
+                        'receivable financing; construction and commercial '
+                        'real estate loans; business equipment financing; '
+                        'consumer home equity lines of credit, personal lines '
+                        'of credit, and term loans; consumer installment '
+                        'loans, such as auto and personal loans; personal '
+                        'credit cards; and residential mortgage loans. In '
+                        'addition, it provides online and mobile banking '
+                        'services; and other services, including cash '
+                        'management services, business sweep accounts, lock '
+                        'boxes, remote deposit captures, account '
+                        'reconciliation services, merchant card services, '
+                        'safety deposit boxes, and automated clearing house '
+                        'origination, as well as after-hours depositories and '
+                        'ATM services. Further, the company offers insurance '
+                        'products and services through a referral program, as '
+                        'well as investment advisory services. The company '
+                        'serves sole proprietors, small and medium-sized '
+                        'businesses, partnerships, corporations, non-profit '
+                        'organizations and associations, and individuals, as '
+                        'well as investors. As of December 31, 2019, it '
+                        'operated 20 banking offices comprising 6 in Suburban '
+                        'Maryland, 5 in the District of Columbia, and 9 in '
+                        'Northern Virginia. Eagle Bancorp, Inc. was founded in '
+                        '1997 and is headquartered in Bethesda, Maryland.',
+ 'longName': 'Eagle Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1012825472,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_526429',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 123930000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 32.16,
+ 'openInterest': None,
+ 'payoutRatio': 0.1692,
+ 'pegRatio': 3.49,
+ 'phone': '301-986-1800',
+ 'previousClose': 32.1,
+ 'priceHint': 2,
+ 'priceToBook': 0.8526165,
+ 'priceToSalesTrailing12Months': 3.2609832,
+ 'profitMargins': 0.39902002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 32.59,
+ 'regularMarketDayLow': 31.17,
+ 'regularMarketOpen': 32.16,
+ 'regularMarketPreviousClose': 32.1,
+ 'regularMarketPrice': 32.16,
+ 'regularMarketVolume': 87659,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 32224800,
+ 'sharesPercentSharesOut': 0.0139999995,
+ 'sharesShort': 452516,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 629283,
+ 'shortName': 'Eagle Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.016900001,
+ 'shortRatio': 2.44,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'EGBN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.88,
+ 'trailingAnnualDividendYield': 0.027414331,
+ 'trailingEps': 3.734,
+ 'trailingPE': 8.417247,
+ 'twoHundredDayAverage': 35.101006,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '8fbc1738-e550-32ce-b5bb-78ea95897ace',
+ 'volume': 87659,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.eaglebankcorp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20814-2432'}

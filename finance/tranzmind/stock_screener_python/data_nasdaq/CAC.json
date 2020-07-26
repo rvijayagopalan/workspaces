@@ -1,0 +1,150 @@
+{'52WeekChange': -0.24675328,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2 Elm Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 33.71,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 51337,
+ 'averageVolume': 61687,
+ 'averageVolume10days': 51337,
+ 'beta': 0.963025,
+ 'beta3Year': None,
+ 'bid': 33.61,
+ 'bidSize': 800,
+ 'bookValue': 32.952,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Camden',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 34.51,
+ 'dayLow': 33.62,
+ 'dividendRate': 1.32,
+ 'dividendYield': 0.0385,
+ 'earningsQuarterlyGrowth': -0.055,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 5.44,
+ 'enterpriseValue': 912899264,
+ 'exDividendDate': 1594684800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 33.918285,
+ 'fiftyTwoWeekHigh': 48.48,
+ 'fiftyTwoWeekLow': 25.74,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.58,
+ 'floatShares': 14542313,
+ 'forwardEps': 2.73,
+ 'forwardPE': 12.322344,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 650,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02454,
+ 'heldPercentInstitutions': 0.67509,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1475452800,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/camdennational.com',
+ 'longBusinessSummary': 'Camden National Corporation operates as the holding '
+                        'company for Camden National Bank that provides '
+                        'commercial and consumer banking products and services '
+                        'to consumer, institutional, municipal, non-profit, '
+                        'and commercial customers. It offers various deposit '
+                        'products, including demand, checking, saving, and '
+                        'money market accounts; and time deposits, as well as '
+                        'certificates of deposit. The company also originates '
+                        'single family and multi-family residential loans, '
+                        'commercial real estate loans, business loans, '
+                        'municipal loans, and various consumer loans, as well '
+                        'as loans for the construction of residential homes, '
+                        'multi-family properties, and commercial real estate '
+                        'properties; and commercial lending to the small '
+                        'business medical field, including dentists, '
+                        'optometrists, and veterinarians. In addition, the '
+                        'company provides brokerage and insurance services '
+                        'through its financial offerings consisting of '
+                        'college, retirement, estate planning, mutual funds, '
+                        'strategic asset management accounts, and variable and '
+                        'fixed annuities. Further, it offers a range of '
+                        'investment management, financial planning, fiduciary, '
+                        'asset management, and wealth management services, as '
+                        'well as serves as trustee. As of December 31, 2019, '
+                        'the Bank had 60 branches in 16 counties; 71 ATMs; '
+                        'commercial loan production offices in Manchester and '
+                        'Portsmouth, New Hampshire; and a mortgage loan '
+                        'production office in Braintree, Massachusetts. The '
+                        'company was founded in 1875 and is headquartered in '
+                        'Camden, Maine.',
+ 'longName': 'Camden National Corporation',
+ 'market': 'us_market',
+ 'marketCap': 503079456,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_366107',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 56303000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 34.31,
+ 'openInterest': None,
+ 'payoutRatio': 0.3351,
+ 'pegRatio': None,
+ 'phone': '207-236-8821',
+ 'previousClose': 34.26,
+ 'priceHint': 2,
+ 'priceToBook': 1.0208788,
+ 'priceToSalesTrailing12Months': 2.9981434,
+ 'profitMargins': 0.33626,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 34.51,
+ 'regularMarketDayLow': 33.62,
+ 'regularMarketOpen': 34.31,
+ 'regularMarketPreviousClose': 34.26,
+ 'regularMarketPrice': 34.31,
+ 'regularMarketVolume': 58627,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 14951600,
+ 'sharesPercentSharesOut': 0.0347,
+ 'sharesShort': 518371,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 444973,
+ 'shortName': 'Camden National Corporation',
+ 'shortPercentOfFloat': 0.0355,
+ 'shortRatio': 8.03,
+ 'startDate': None,
+ 'state': 'ME',
+ 'strikePrice': None,
+ 'symbol': 'CAC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.26,
+ 'trailingAnnualDividendYield': 0.036777586,
+ 'trailingEps': 3.671,
+ 'trailingPE': 9.163715,
+ 'twoHundredDayAverage': 36.208202,
+ 'volume': 58627,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.camdennational.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '04843'}

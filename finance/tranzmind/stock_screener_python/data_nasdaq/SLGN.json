@@ -1,0 +1,154 @@
+{'52WeekChange': 0.22601628,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '4 Landmark Square',
+ 'address2': 'Suite 400',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 37.7,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 776837,
+ 'averageVolume': 671780,
+ 'averageVolume10days': 776837,
+ 'beta': 0.673389,
+ 'beta3Year': None,
+ 'bid': 37.69,
+ 'bidSize': 2200,
+ 'bookValue': 9.826,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Stamford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 38.2,
+ 'dayLow': 37.53,
+ 'dividendRate': 0.48,
+ 'dividendYield': 0.0126,
+ 'earningsQuarterlyGrowth': 1.526,
+ 'enterpriseToEbitda': 11.317,
+ 'enterpriseToRevenue': 1.636,
+ 'enterpriseValue': 7487667712,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '203 975 7902',
+ 'fiftyDayAverage': 33.10657,
+ 'fiftyTwoWeekHigh': 38.99,
+ 'fiftyTwoWeekLow': 24.65,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.32,
+ 'floatShares': 78304978,
+ 'forwardEps': 2.82,
+ 'forwardPE': 13.368794,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 13220,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.29636,
+ 'heldPercentInstitutions': 0.68219,
+ 'industry': 'Packaging & Containers',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1496102400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/silganholdings.com',
+ 'longBusinessSummary': 'Silgan Holdings Inc., together with its subsidiaries, '
+                        'manufactures and sells rigid packaging for consumer '
+                        'goods products in North America, Europe, and '
+                        'internationally. It operates through three segments: '
+                        'Metal Containers, Closures, and Plastic Containers. '
+                        'The Metal Containers segment manufactures and sells '
+                        'steel and aluminum containers for food products, such '
+                        'as pet food, vegetables, soups, proteins, tomato '
+                        'based products, adult nutritional drinks, fruits, and '
+                        'other miscellaneous food products, as well as general '
+                        'line metal containers primarily for chemicals. The '
+                        'Closures segment offers a range of metal and plastic '
+                        'closures, and dispensing systems for use in food, '
+                        'beverage, health care, garden, personal care, home, '
+                        'and beauty products, as well as capping/sealing '
+                        'equipment and detection systems. The Plastic '
+                        'Containers segment manufactures and sells custom '
+                        'designed and stock plastic containers for use in '
+                        'personal care and health care; food and beverage; '
+                        'household and industrial chemical; pharmaceutical; '
+                        'pet food and care; agricultural; automotive; and '
+                        'marine chemical products. This segment also provides '
+                        'plastic thermoformed barrier and non-barrier bowls, '
+                        'and trays for food products, such as soups, other '
+                        'ready-to-eat meals, and pet food products, as well as '
+                        'thermoformed plastic tubs for food, household, and '
+                        'personal care products, including soft fabric wipes. '
+                        'The company markets its products primarily through '
+                        'direct sales force, as well as through a network of '
+                        'distributors and an online shopping catalog. Silgan '
+                        'Holdings Inc. was founded in 1987 and is '
+                        'headquartered in Stamford, Connecticut.',
+ 'longName': 'Silgan Holdings Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4179836672,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34335',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 251914000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 37.82,
+ 'openInterest': None,
+ 'payoutRatio': 0.2446,
+ 'pegRatio': 2.41,
+ 'phone': '203 975 7110',
+ 'previousClose': 37.99,
+ 'priceHint': 2,
+ 'priceToBook': 3.8367596,
+ 'priceToSalesTrailing12Months': 0.9133406,
+ 'profitMargins': 0.05505,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 38.2,
+ 'regularMarketDayLow': 37.53,
+ 'regularMarketOpen': 37.82,
+ 'regularMarketPreviousClose': 37.99,
+ 'regularMarketPrice': 37.82,
+ 'regularMarketVolume': 590492,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 110871000,
+ 'sharesPercentSharesOut': 0.0278,
+ 'sharesShort': 3085257,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2426500,
+ 'shortName': 'Silgan Holdings Inc.',
+ 'shortPercentOfFloat': 0.0394,
+ 'shortRatio': 4.87,
+ 'startDate': None,
+ 'state': 'CT',
+ 'strikePrice': None,
+ 'symbol': 'SLGN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.46,
+ 'trailingAnnualDividendYield': 0.012108449,
+ 'trailingEps': 2.26,
+ 'trailingPE': 16.681416,
+ 'twoHundredDayAverage': 31.712086,
+ 'volume': 590492,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.silganholdings.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '06901'}

@@ -1,0 +1,162 @@
+{'52WeekChange': 0.0050287247,
+ 'SandP52WeekChange': None,
+ 'address1': '1345 Avenue of Americas',
+ 'address2': '15th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.92,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 73362,
+ 'averageVolume': 87457,
+ 'averageVolume10days': 73362,
+ 'beta': 1.60112,
+ 'beta3Year': None,
+ 'bid': 13,
+ 'bidSize': 900,
+ 'bookValue': 2.331,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.98,
+ 'dayLow': 13.12,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -5.786,
+ 'enterpriseToRevenue': 932.856,
+ 'enterpriseValue': 271139168,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '347 679 8203',
+ 'fiftyDayAverage': 14.570286,
+ 'fiftyTwoWeekHigh': 18.99,
+ 'fiftyTwoWeekLow': 10.98,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 9712736,
+ 'forwardEps': -2.63,
+ 'forwardPE': -5.0874524,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 217,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.35514,
+ 'heldPercentInstitutions': 0.295,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1359590400,
+ 'lastSplitFactor': '1:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cellbiomedgroup.com',
+ 'longBusinessSummary': 'Cellular Biomedicine Group, Inc., a clinical stage '
+                        'biopharmaceutical company, develops immunotherapies '
+                        'for cancer and stem cell therapies for degenerative '
+                        'diseases in Greater China. The company develops '
+                        'treatments utilizing proprietary cell based '
+                        'technologies, including immune cell therapy for '
+                        'treating a range of cancer indications comprising '
+                        'technologies in chimeric antigen receptor modified T '
+                        'cells (CAR-T), T-cells with genetically modified, '
+                        'tumor antigen-specific T-cell receptors, and next '
+                        'generation neoantigen-reactive bio-markers based '
+                        'tumor infiltrating lymphocytes; and human '
+                        'adipose-derived mesenchymal progenitor cells for the '
+                        "treatment of joint diseases The company's CAR-T "
+                        'products include CD20 for use in anti-tumor '
+                        'activities; CD22, a surface maker highly expressed in '
+                        'B cell malignancies in hairy cell leukemia; and '
+                        'B-cell maturation antigen therapies for treating '
+                        'refractory multiple myeloma in patients. It also '
+                        'develops NKG2D CAR therapies for use in NK cell '
+                        'signaling; alpha fetoprotein TCR-T therapies for '
+                        'treating hepatocellular carcinoma; tumor infiltrating '
+                        'lymphocyte therapies for treating immunogenic '
+                        'cancers; and knee osteoarthritis therapies, including '
+                        'AlloJoin therapy, which is in a Phase II clinical '
+                        'trial, as well as Re-Join that has completed the '
+                        'Phase IIb clinical trial. In addition, it engages in '
+                        'biopharmaceutical businesses, including research and '
+                        'development, technical support, technical service, '
+                        'and technology transfer activities in biomedical '
+                        'technology field; manufacturing non-food, '
+                        'pharmaceutical polypeptides, and medical devices; and '
+                        'the wholesale of cosmetics, sanitary products, and '
+                        'biological agents. The company has a collaboration '
+                        'agreement with Novartis Pharma AG to manufacture and '
+                        'supply their CAR-T cell therapy Kymriah in China. '
+                        'Cellular Biomedicine Group, Inc. was incorporated in '
+                        '2001 and is headquartered in New York, New York.',
+ 'longName': 'Cellular Biomedicine Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 259455600,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_224236494',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -52194764,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.97,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '347 905 5663',
+ 'previousClose': 13.99,
+ 'priceHint': 2,
+ 'priceToBook': 5.7400255,
+ 'priceToSalesTrailing12Months': 892.6583,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.98,
+ 'regularMarketDayLow': 13.12,
+ 'regularMarketOpen': 13.97,
+ 'regularMarketPreviousClose': 13.99,
+ 'regularMarketPrice': 13.97,
+ 'regularMarketVolume': 54341,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 19391300,
+ 'sharesPercentSharesOut': 0.0275,
+ 'sharesShort': 532675,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 300241,
+ 'shortName': 'Cellular Biomedicine Group, Inc',
+ 'shortPercentOfFloat': 0.0361,
+ 'shortRatio': 6.49,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'CBMG',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.707,
+ 'twoHundredDayAverage': 15.234173,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '381b59a4-93b4-3f79-8617-b9d28b4daccd',
+ 'volume': 54341,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cellbiomedgroup.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10105'}

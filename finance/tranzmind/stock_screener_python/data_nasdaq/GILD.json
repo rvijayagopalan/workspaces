@@ -1,0 +1,164 @@
+{'52WeekChange': 0.12910938,
+ 'SandP52WeekChange': None,
+ 'address1': '333 Lakeside Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 73.72,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 6147162,
+ 'averageVolume': 12201233,
+ 'averageVolume10days': 6147162,
+ 'beta': 0.710364,
+ 'beta3Year': None,
+ 'bid': 73.67,
+ 'bidSize': 1300,
+ 'bookValue': 17.597,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Foster City',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 75.65,
+ 'dayLow': 73.125,
+ 'dividendRate': 2.72,
+ 'dividendYield': 0.036,
+ 'earningsQuarterlyGrowth': -0.215,
+ 'enterpriseToEbitda': 14.378,
+ 'enterpriseToRevenue': 4.207,
+ 'enterpriseValue': 95557058560,
+ 'exDividendDate': 1591833600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '650-578-9264',
+ 'fiftyDayAverage': 75.82,
+ 'fiftyTwoWeekHigh': 85.97,
+ 'fiftyTwoWeekLow': 60.89,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.71,
+ 'floatShares': 1252679996,
+ 'forwardEps': 6.86,
+ 'forwardPE': 10.734694,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 11800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0040599997,
+ 'heldPercentInstitutions': 0.80768996,
+ 'industry': 'Drug Manufacturers—General',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1359331200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/gilead.com',
+ 'longBusinessSummary': 'Gilead Sciences, Inc., a research-based '
+                        'biopharmaceutical company, discovers, develops, and '
+                        'commercializes medicines in the areas of unmet '
+                        'medical needs in the United States, Europe, and '
+                        "internationally. The company's products include "
+                        'Biktarvy, Descovy, Odefsey, Genvoya, Stribild, '
+                        'Complera/Eviplera, Atripla, and Truvada for the '
+                        'treatment of human immunodeficiency virus (HIV) '
+                        'infection; and Vosevi, Vemlidy, Epclusa, Harvoni, and '
+                        'Viread products for treating liver diseases. It also '
+                        'provides Yescarta, a chimeric antigen receptor T cell '
+                        'therapy for adult patients with relapsed or '
+                        'refractory large B-cell lymphoma; Zydelig, a kinase '
+                        'inhibitor; Letairis, an oral formulation of an '
+                        'endothelin receptor antagonist for pulmonary arterial '
+                        'hypertension; Ranexa, a tablet to treat chronic '
+                        'angina; and AmBisome, an antifungal agent to treat '
+                        'serious invasive fungal infections. In addition, the '
+                        'company offers its products under the name Cayston, '
+                        'Emtriva, Hepsera, Sovaldi, and Tybost. Further, it '
+                        'develops product candidates for the treatment of '
+                        'viral diseases, inflammatory and fibrotic diseases, '
+                        'and oncology. The company markets its products '
+                        'through its commercial teams; and in conjunction with '
+                        'third-party distributors and corporate partners. '
+                        'Gilead Sciences, Inc. has collaboration agreements '
+                        'with Bristol-Myers Squibb Company; Janssen Sciences '
+                        'Ireland UC; Japan Tobacco Inc.; Galapagos NV; Second '
+                        'Genome; Gadeta; Carna Biosciences Inc.; Nurix '
+                        'Therapeutics, Inc.; Humanigen, Inc.; Kiniksa '
+                        'Pharmaceuticals, Ltd.; Kyverna Therapeutics, Inc.; '
+                        'Glympse Bio, Inc.; Renown Institute for Health '
+                        'Innovation; Goldfinch Bio, Inc.; Insitro, Inc.; Novo '
+                        'Nordisk A/S; Yuhan Corporation; Kite Pharma, Inc.; '
+                        'oNKo-innate Pty. Ltd.; and Roche Holding AG. The '
+                        'company has partnership with Arcus Biosciences, Inc. '
+                        'to co-develop and co-commercialize next-generation '
+                        'cancer immunotherapies. Gilead Sciences, Inc. was '
+                        'founded in 1987 and is headquartered in Foster City, '
+                        'California.',
+ 'longName': 'Gilead Sciences, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 92371812352,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_29002',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 4961999872,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 75.47,
+ 'openInterest': None,
+ 'payoutRatio': 0.65900004,
+ 'pegRatio': 11.56,
+ 'phone': '650-574-3000',
+ 'previousClose': 75.56,
+ 'priceHint': 2,
+ 'priceToBook': 4.184804,
+ 'priceToSalesTrailing12Months': 4.0663767,
+ 'profitMargins': 0.21844,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 75.65,
+ 'regularMarketDayLow': 73.125,
+ 'regularMarketOpen': 75.47,
+ 'regularMarketPreviousClose': 75.56,
+ 'regularMarketPrice': 75.47,
+ 'regularMarketVolume': 8148980,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 1254370048,
+ 'sharesPercentSharesOut': 0.0183,
+ 'sharesShort': 22934264,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 24137815,
+ 'shortName': 'Gilead Sciences, Inc.',
+ 'shortPercentOfFloat': 0.0183,
+ 'shortRatio': 2.17,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'GILD',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.57,
+ 'trailingAnnualDividendYield': 0.034012705,
+ 'trailingEps': 3.896,
+ 'trailingPE': 18.901438,
+ 'twoHundredDayAverage': 73.47813,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '8659e669-8ec5-3b0f-9929-db5db506231f',
+ 'volume': 8148980,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.gilead.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94404'}

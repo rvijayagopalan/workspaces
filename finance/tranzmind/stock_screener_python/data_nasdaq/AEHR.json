@@ -1,0 +1,159 @@
+{'52WeekChange': 0.5602838,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '400 Kato Terrace',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.23,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 305287,
+ 'averageVolume': 87968,
+ 'averageVolume10days': 305287,
+ 'beta': 0.715966,
+ 'beta3Year': None,
+ 'bid': 2.17,
+ 'bidSize': 800,
+ 'bookValue': 0.61,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Fremont',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.24,
+ 'dayLow': 2.15,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -22.918,
+ 'enterpriseToRevenue': 2.208,
+ 'enterpriseValue': 49220000,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '510-623-9450',
+ 'fiftyDayAverage': 1.9962857,
+ 'fiftyTwoWeekHigh': 2.78,
+ 'fiftyTwoWeekLow': 1.1,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 18559380,
+ 'forwardEps': 0.1,
+ 'forwardPE': 22,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.11165,
+ 'heldPercentInstitutions': 0.25564,
+ 'industry': 'Semiconductor Equipment & Materials',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1590883200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/aehr.com',
+ 'longBusinessSummary': 'Aehr Test Systems primarily designs, engineers, '
+                        'manufactures, and sells test and burn-in equipment '
+                        'for use in the semiconductor industry in the United '
+                        'State, Asia, Europe, and internationally. It provides '
+                        'full wafer contact test systems, test during burn-in '
+                        'systems, test fixtures, and related accessories. The '
+                        'company offers Advanced Burn-in and Test System '
+                        'family of packaged part burn-in and test systems, '
+                        'which perform test during burn-in of complex devices, '
+                        'such as digital signal processors, microprocessors, '
+                        'microcontrollers, and systems-on-a-chip, as well as '
+                        'individual temperature control for high-power '
+                        'advanced logic devices. It also provides FOX systems, '
+                        'which are full wafer contact parallel test and '
+                        'burn-in systems designed to make contact with various '
+                        'pads of a wafer simultaneously; WaferPak contactor '
+                        'that includes a full-wafer probe card for use in '
+                        'testing wafers in FOX systems; DiePak carrier, a '
+                        'reusable and temporary package that enables '
+                        'integrated circuit (IC) manufacturers to perform test '
+                        'and burn-in of singulated bare die or very small '
+                        'multi-IC modules; and test fixtures that hold the '
+                        'devices undergoing test or burn-in and electrically '
+                        'connect the devices under test to the system '
+                        'electronics. In addition, the company offers WaferPak '
+                        'Aligner, which performs automatic alignment of the '
+                        "customer's wafer to the WaferPak contactor; and "
+                        'DiePak Loader that performs automatic loading of the '
+                        "customer's modules to the DiePak carrier. Further, "
+                        'Aehr Test Systems provides customer service and '
+                        'support programs, including system installation, '
+                        'system repair, applications engineering support, '
+                        'spare parts inventory, customer training, and '
+                        'documentation services. It markets and sells its '
+                        'products to semiconductor manufacturers, '
+                        'semiconductor contract assemblers, electronics '
+                        'manufacturers, and burn-in and test service companies '
+                        'through a network of distributors and sales '
+                        'representatives. Aehr Test Systems was founded in '
+                        '1977 and is headquartered in Fremont, California.',
+ 'longName': 'Aehr Test Systems',
+ 'market': 'us_market',
+ 'marketCap': 50633000,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_24413',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1590883200,
+ 'navPrice': None,
+ 'netIncomeToCommon': -2802000,
+ 'nextFiscalYearEnd': 1653955200,
+ 'open': 2.17,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.22,
+ 'phone': '510-623-9400',
+ 'previousClose': 2.19,
+ 'priceHint': 4,
+ 'priceToBook': 3.6065574,
+ 'priceToSalesTrailing12Months': 2.2714548,
+ 'profitMargins': -0.1257,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.24,
+ 'regularMarketDayLow': 2.15,
+ 'regularMarketOpen': 2.17,
+ 'regularMarketPreviousClose': 2.19,
+ 'regularMarketPrice': 2.17,
+ 'regularMarketVolume': 20179,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 23015000,
+ 'sharesPercentSharesOut': 0.0053,
+ 'sharesShort': 122131,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 141857,
+ 'shortName': 'Aehr Test Systems',
+ 'shortPercentOfFloat': 0.006,
+ 'shortRatio': 1.56,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'AEHR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.122,
+ 'twoHundredDayAverage': 1.843669,
+ 'volume': 20179,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.aehr.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94539'}

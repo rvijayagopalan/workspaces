@@ -1,0 +1,152 @@
+{'52WeekChange': 0.111111045,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '123 West Election Road',
+ 'address2': 'Suite 100',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 7.15,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 10050,
+ 'averageVolume': 51666,
+ 'averageVolume10days': 10050,
+ 'beta': 0.779831,
+ 'beta3Year': None,
+ 'bid': 5.5,
+ 'bidSize': 1300,
+ 'bookValue': 10.169,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Draper',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 5.77,
+ 'dayLow': 5.5684,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.262,
+ 'enterpriseToEbitda': 7.386,
+ 'enterpriseToRevenue': 0.86,
+ 'enterpriseValue': 258954816,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 6.5534286,
+ 'fiftyTwoWeekHigh': 7.54,
+ 'fiftyTwoWeekLow': 3.76,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 9348018,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1125,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.39983,
+ 'heldPercentInstitutions': 0.33835,
+ 'industry': 'Credit Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1594166400,
+ 'lastSplitFactor': '1:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/securitynational.com',
+ 'longBusinessSummary': 'Security National Financial Corporation engages in '
+                        'life insurance, cemetery and mortuary, and mortgage '
+                        "businesses. The company's Life Insurance segment is "
+                        'involved in selling and servicing lines of life '
+                        'insurance, annuity products, and accident and health '
+                        'insurance. It offers various life insurance products, '
+                        'including funeral plans and interest-sensitive life '
+                        'insurance, as well as other traditional life, '
+                        'accident, and health insurance products; annuity '
+                        'products comprising single and flexible premium '
+                        'deferred annuities, and immediate annuities; and '
+                        "diver's accident policies. This segment also cedes "
+                        'and assumes various risks with various authorized '
+                        'unaffiliated reinsurers pursuant to reinsurance '
+                        'treaties. Its Cemetery and Mortuary segment operates '
+                        'eight mortuaries and five cemeteries in Utah; and one '
+                        'cemetery in California. This segment also markets '
+                        'plots, interment vaults, mausoleum crypts, markers, '
+                        'caskets, flowers, and other death care related '
+                        'products; and provides professional services of '
+                        'funeral directors, opening and closing of graves, use '
+                        'of chapels and viewing rooms, and use of automobiles '
+                        "and clothing. The company's Mortgage segment "
+                        'originates and underwrites residential and commercial '
+                        'loans for new construction, existing homes, and real '
+                        'estate projects primarily in Florida, Nevada, Texas, '
+                        'and Utah. It offers residential mortgage lending '
+                        'services to real estate brokers and independent '
+                        'mortgage loan originators. Security National '
+                        'Financial Corporation was founded in 1965 and is '
+                        'headquartered in Draper, Utah.',
+ 'longName': 'Security National Financial Corporation',
+ 'market': 'us_market',
+ 'marketCap': 108855744,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_301590',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 10387650,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 5.77,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '801-264-1060',
+ 'previousClose': 5.73,
+ 'priceHint': 2,
+ 'priceToBook': 0.5605271,
+ 'priceToSalesTrailing12Months': 0.36143562,
+ 'profitMargins': 0.03449,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 5.77,
+ 'regularMarketDayLow': 5.5684,
+ 'regularMarketOpen': 5.77,
+ 'regularMarketPreviousClose': 5.73,
+ 'regularMarketPrice': 5.77,
+ 'regularMarketVolume': 7721,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 16546100,
+ 'sharesPercentSharesOut': 0.012999999,
+ 'sharesShort': 248686,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 18817,
+ 'shortName': 'Security National Financial Cor',
+ 'shortPercentOfFloat': 0.0242,
+ 'shortRatio': 2.59,
+ 'startDate': None,
+ 'state': 'UT',
+ 'strikePrice': None,
+ 'symbol': 'SNFCA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.556,
+ 'trailingPE': 10.251799,
+ 'twoHundredDayAverage': 5.6651077,
+ 'volume': 7721,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.securitynational.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '84020'}

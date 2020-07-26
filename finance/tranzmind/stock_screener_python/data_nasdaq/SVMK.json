@@ -1,0 +1,149 @@
+{'52WeekChange': 0.2320838,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'One Curiosity Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 22.37,
+ 'askSize': 4000,
+ 'averageDailyVolume10Day': 595587,
+ 'averageVolume': 1160100,
+ 'averageVolume10days': 595587,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 22.35,
+ 'bidSize': 800,
+ 'bookValue': 2.226,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Mateo',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 22.78,
+ 'dayLow': 21.97,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -69.078,
+ 'enterpriseToRevenue': 9.915,
+ 'enterpriseValue': 3242658048,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 22.750856,
+ 'fiftyTwoWeekHigh': 24.74,
+ 'fiftyTwoWeekLow': 9.35,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 116018713,
+ 'forwardEps': 0.06,
+ 'forwardPE': 372.5,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1220,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.15126,
+ 'heldPercentInstitutions': 0.78240997,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/surveymonkey.com',
+ 'longBusinessSummary': 'SVMK Inc. provides survey software products and '
+                        'purpose-built solutions that enable organizations to '
+                        'engage with their customers, employees, and the '
+                        'markets they research and serve in the United States '
+                        "and internationally. The company's cloud-based SaaS "
+                        'platform helps individuals and organizations to '
+                        'design and distribute surveys approximately 190 '
+                        'countries and territories. Its offers SurveyMonkey '
+                        'CX, a customer experience (CX) and feedback solution '
+                        'that transforms customer feedback into actionable '
+                        'insights; TechValidate, a marketing content '
+                        'automation solution; and SurveyMonkey Engage, an '
+                        'employee engagement solution, which measures employee '
+                        'experiences within an organization. The company also '
+                        'provides SurveyMonkey Audience, a market research '
+                        'solution that enables organizations to gain real-time '
+                        'actionable data from targeted panelists; SurveyMonkey '
+                        'Apply, an application management solution that is '
+                        'primarily used by educational institutions and '
+                        'non-profits seeking to allocate scholarships and '
+                        'grants; and Wufoo, an easy-to-use form builder that '
+                        'helps users create Web and mobile forms, collect file '
+                        'uploads, and receive online payments. In addition, it '
+                        'offers GetFeedback, a CX solution designed for the '
+                        'salesforce ecosystem; and Usabilla, which provides '
+                        'voice of customer technology. The company was '
+                        'formerly known as SurveyMonkey Inc. and changed its '
+                        'name to SVMK Inc. in March 2013. SVMK Inc. was '
+                        'founded in 1999 and is headquartered in San Mateo, '
+                        'California.',
+ 'longName': 'SVMK Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3085864448,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_25576389',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -80332000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 22.55,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 60.15,
+ 'phone': '650 543 8400',
+ 'previousClose': 22.76,
+ 'priceHint': 2,
+ 'priceToBook': 10.040431,
+ 'priceToSalesTrailing12Months': 9.435596,
+ 'profitMargins': -0.24563,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 22.78,
+ 'regularMarketDayLow': 21.97,
+ 'regularMarketOpen': 22.55,
+ 'regularMarketPreviousClose': 22.76,
+ 'regularMarketPrice': 22.55,
+ 'regularMarketVolume': 488247,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 138070000,
+ 'sharesPercentSharesOut': 0.028199999,
+ 'sharesShort': 3898923,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2074056,
+ 'shortName': 'SVMK Inc.',
+ 'shortPercentOfFloat': 0.0433,
+ 'shortRatio': 2.98,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'SVMK',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.599,
+ 'twoHundredDayAverage': 18.376404,
+ 'volume': 488247,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.surveymonkey.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94403'}

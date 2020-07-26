@@ -1,0 +1,155 @@
+{'52WeekChange': 0.17355669,
+ 'SandP52WeekChange': None,
+ 'address1': 'South County Business Park',
+ 'address2': 'Leopardstown',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 185.01,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 264500,
+ 'averageVolume': 250144,
+ 'averageVolume10days': 264500,
+ 'beta': 0.859383,
+ 'beta3Year': None,
+ 'bid': 184.97,
+ 'bidSize': 1200,
+ 'bookValue': 28.83,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Dublin',
+ 'companyOfficers': [],
+ 'country': 'Ireland',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 188.97,
+ 'dayLow': 182.155,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.48,
+ 'enterpriseToEbitda': 20.592,
+ 'enterpriseToRevenue': 3.494,
+ 'enterpriseValue': 9682514944,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '353 1 247 6260',
+ 'fiftyDayAverage': 170.24228,
+ 'fiftyTwoWeekHigh': 199.83,
+ 'fiftyTwoWeekLow': 104.28,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 51852917,
+ 'forwardEps': 7.52,
+ 'forwardPE': 24.609043,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 15150,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.013990001,
+ 'heldPercentInstitutions': 0.97207,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1218585600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/iconplc.com',
+ 'longBusinessSummary': 'ICON Public Limited Company, a clinical research '
+                        'organization, provides outsourced development '
+                        'services to the pharmaceutical, biotechnology, and '
+                        'medical device industries in Ireland, rest of Europe, '
+                        'the United States, and internationally. It '
+                        'specializes in the strategic development, management, '
+                        'and analysis of programs that support various stages '
+                        'of the clinical development process from compound '
+                        'selection to Phase I-IV clinical studies. The '
+                        "company's clinical development services include "
+                        'product development planning, strategic consulting, '
+                        'study protocol preparation, clinical pharmacology, '
+                        'pharmacokinetic and pharmacodynamic analysis, site '
+                        'feasibility, patient recruitment and retention, '
+                        'digital patient and site, project management, '
+                        'clinical operations/monitoring, patient centric '
+                        'monitoring, data management, and adaptive and virtual '
+                        'trial services. Its clinical development services '
+                        'also comprise medical imaging, biostatistics, medical '
+                        'affairs, pharmacovigilance, strategic regulatory, '
+                        'electronic endpoint adjudication, medical writing and '
+                        'publishing, interactive response technologies, '
+                        'functional, strategic resourcing central laboratory, '
+                        'bioanalytical laboratory, biomarket development, '
+                        'strategy and analytics, late phase research, patient '
+                        'centered science, and medical device and diagnostics '
+                        'research services, as well as access, '
+                        'commercialization, and communication services, and '
+                        'research trials for us government agencies. The '
+                        'company was founded in 1990 and is headquartered in '
+                        'Dublin, Ireland.',
+ 'longName': 'ICON Public Limited Company',
+ 'market': 'us_market',
+ 'marketCap': 9717278720,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_397809',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 328240000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 188.97,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 4.7,
+ 'phone': '353 1 291 2000',
+ 'previousClose': 189.06,
+ 'priceHint': 2,
+ 'priceToBook': 6.419008,
+ 'priceToSalesTrailing12Months': 3.5065491,
+ 'profitMargins': 0.12027001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 188.97,
+ 'regularMarketDayLow': 182.155,
+ 'regularMarketOpen': 188.97,
+ 'regularMarketPreviousClose': 189.06,
+ 'regularMarketPrice': 188.97,
+ 'regularMarketVolume': 267645,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 52508800,
+ 'sharesPercentSharesOut': 0.0113,
+ 'sharesShort': 592066,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 648424,
+ 'shortName': 'ICON plc',
+ 'shortPercentOfFloat': 0.0114,
+ 'shortRatio': 2.56,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'ICLR',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 6.083,
+ 'trailingPE': 30.422487,
+ 'twoHundredDayAverage': 161.12094,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b2bb319f-0763-3a31-bb0d-c06ea5b90dbf',
+ 'volume': 267645,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.iconplc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '18'}

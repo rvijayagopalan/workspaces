@@ -1,0 +1,161 @@
+{'52WeekChange': 0.23094094,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '919 East Hillsdale Boulevard',
+ 'address2': '4th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 110.23,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 363462,
+ 'averageVolume': 590023,
+ 'averageVolume10days': 363462,
+ 'beta': 1.00224,
+ 'beta3Year': None,
+ 'bid': 110.19,
+ 'bidSize': 800,
+ 'bookValue': 9.91,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Foster City',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 111.5,
+ 'dayLow': 109.285,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.409,
+ 'enterpriseToEbitda': 37.083,
+ 'enterpriseToRevenue': 12.071,
+ 'enterpriseValue': 4014046464,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '650 801 6101',
+ 'fiftyDayAverage': 106.07657,
+ 'fiftyTwoWeekHigh': 119.2,
+ 'fiftyTwoWeekLow': 63.37,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 33463427,
+ 'forwardEps': 2.77,
+ 'forwardPE': 39.812275,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1322,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.13509,
+ 'heldPercentInstitutions': 0.92169,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/qualys.com',
+ 'longBusinessSummary': 'Qualys, Inc. provides cloud-based platform that '
+                        'delivers information technology (IT), security, and '
+                        'compliance solutions in the United States and '
+                        'internationally. The company offers Qualys Cloud '
+                        'Apps, which includes Asset Inventory, CMDB Sync, '
+                        'Vulnerability Management, Continuous Monitoring, '
+                        'Patch Management, Threat Protection, Security '
+                        'Configuration Assessment, Indication of Compromise, '
+                        'Policy Compliance, PCI Compliance, Security '
+                        'Assessment Questionnaire, File Integrity Monitoring, '
+                        'Web Application Scanning, and Web Application '
+                        'Firewall, as well as Cloud Inventory, Cloud Security '
+                        'Assessment, and Container Security. Its integrated '
+                        'suite of security and compliance solutions delivered '
+                        'on its Qualys Cloud Platform enables customers to '
+                        'identify IT assets, collect and analyze IT security '
+                        'data, discover and prioritize vulnerabilities, '
+                        'recommend and implement remediation actions, and '
+                        'verify the implementation of such actions. The '
+                        'company also provides core services, including asset '
+                        'tagging and management, reporting and dashboards, '
+                        'questionnaires and collaboration, remediation and '
+                        'workflow, big data correlation and analytics engine, '
+                        'and alerts and notifications, which enable integrated '
+                        'workflows, management and real-time analysis, and '
+                        'reporting across IT, security, and compliance '
+                        'solutions. The company markets and sells its IT, '
+                        'security, and compliance solutions to customers '
+                        'directly through its sales teams, as well as '
+                        'indirectly through its network of channel partners, '
+                        'such as security consulting organizations, managed '
+                        'service providers and resellers, and consulting '
+                        'firms. It serves enterprises, government entities, '
+                        'and small and medium-sized businesses in various '
+                        'industries, including education, financial services, '
+                        'government, healthcare, insurance, manufacturing, '
+                        'media, retail, technology, and utilities. The company '
+                        'was founded in 1999 and is headquartered in Foster '
+                        'City, California.',
+ 'longName': 'Qualys, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4296398336,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_125618',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 74764000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 111.5,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 5.6,
+ 'phone': '650 801 6100',
+ 'previousClose': 111.57,
+ 'priceHint': 2,
+ 'priceToBook': 11.128154,
+ 'priceToSalesTrailing12Months': 12.920449,
+ 'profitMargins': 0.22483,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 111.5,
+ 'regularMarketDayLow': 109.285,
+ 'regularMarketOpen': 111.5,
+ 'regularMarketPreviousClose': 111.57,
+ 'regularMarketPrice': 111.5,
+ 'regularMarketVolume': 328404,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 38959000,
+ 'sharesPercentSharesOut': 0.1533,
+ 'sharesShort': 5970810,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5698592,
+ 'shortName': 'Qualys, Inc.',
+ 'shortPercentOfFloat': 0.2091,
+ 'shortRatio': 7.36,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'QLYS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.821,
+ 'trailingPE': 60.56013,
+ 'twoHundredDayAverage': 96.41576,
+ 'volume': 328404,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.qualys.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94404'}

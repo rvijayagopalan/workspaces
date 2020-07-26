@@ -1,0 +1,157 @@
+{'52WeekChange': -0.0945946,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Building #7',
+ 'address2': 'Industrial Park',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.13,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 22462,
+ 'averageVolume': 32679,
+ 'averageVolume10days': 22462,
+ 'beta': 0.654901,
+ 'beta3Year': None,
+ 'bid': 2.01,
+ 'bidSize': 1400,
+ 'bookValue': 0.92,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': "Yokne'am Illit",
+ 'companyOfficers': [],
+ 'country': 'Israel',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.05,
+ 'dayLow': 2,
+ 'dividendRate': 0.24,
+ 'dividendYield': 0.1182,
+ 'earningsQuarterlyGrowth': -0.214,
+ 'enterpriseToEbitda': 4.983,
+ 'enterpriseToRevenue': 1.035,
+ 'enterpriseValue': 25056980,
+ 'exDividendDate': 1585008000,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '972 4 993 7776',
+ 'fiftyDayAverage': 2.0528572,
+ 'fiftyTwoWeekHigh': 2.64,
+ 'fiftyTwoWeekLow': 1.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 12.18,
+ 'floatShares': 16581799,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 204,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.16668,
+ 'heldPercentInstitutions': 0.16582,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/mindcti.com',
+ 'longBusinessSummary': 'MIND C.T.I. Ltd., together with its subsidiaries, '
+                        'designs, develops, markets, supports, implements, and '
+                        'operates real-time and offline convergent billing and '
+                        'customer care software solutions in the United '
+                        'States, the United Kingdom, Europe, Israel, and '
+                        'internationally. The company offers billing and '
+                        'customer care solutions that support various '
+                        'services, such as voice, data, and content services, '
+                        'as well as prepaid, postpaid, and pay-in-advance '
+                        'payment models in a single platform. Its solutions '
+                        'also include a workflow engine to support the '
+                        'implementation of business processes, including '
+                        'subscriber registration, order management, trouble '
+                        'ticket, and debt collection; and an integral point of '
+                        'sale solution that covers all dealer, store and '
+                        'cashier management, and sales processes. In addition, '
+                        'the company offers professional services comprising '
+                        'installation, turnkey project implementation '
+                        'services, customer support, training and maintenance '
+                        'services, software and process customization, and '
+                        'project management, as well as managed services, '
+                        'including day to day billing operational tasks '
+                        'primarily to its billing and customer care customers. '
+                        'Further, it provides PhonEX ONE, a call management '
+                        'system that collects, records, and stores call '
+                        'information, which is used by corporations for '
+                        'telecom expense management, call accounting, traffic '
+                        'analysis, and fraud detection. The company offers its '
+                        'products directly, as well as through network '
+                        'equipment vendors and systems integrators, and '
+                        'resellers primarily to communication providers, such '
+                        'as traditional wireline and wireless, voice over IP, '
+                        'broadband IP network operators, LTE operators, cable '
+                        'operators, and mobile virtual network operators. The '
+                        'company was founded in 1995 and is headquartered in '
+                        "Yokne'am Illit, Israel.",
+ 'longName': 'MIND C.T.I. Ltd',
+ 'market': 'us_market',
+ 'marketCap': 39991564,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_111790',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 4745000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.02,
+ 'openInterest': None,
+ 'payoutRatio': 1.0435,
+ 'pegRatio': None,
+ 'phone': '972 4 993 6666',
+ 'previousClose': 2.03,
+ 'priceHint': 4,
+ 'priceToBook': 2.1847825,
+ 'priceToSalesTrailing12Months': 1.6517931,
+ 'profitMargins': 0.19599001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.05,
+ 'regularMarketDayLow': 2,
+ 'regularMarketOpen': 2.02,
+ 'regularMarketPreviousClose': 2.03,
+ 'regularMarketPrice': 2.02,
+ 'regularMarketVolume': 17011,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 19896300,
+ 'sharesPercentSharesOut': 0.0005,
+ 'sharesShort': 9098,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 16559,
+ 'shortName': 'MIND C.T.I. Ltd.',
+ 'shortPercentOfFloat': 0.0005,
+ 'shortRatio': 0.25,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'MNDO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.24,
+ 'trailingAnnualDividendYield': 0.1182266,
+ 'trailingEps': 0.23,
+ 'trailingPE': 8.73913,
+ 'twoHundredDayAverage': 2.0997121,
+ 'volume': 17011,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.mindcti.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20692'}

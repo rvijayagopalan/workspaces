@@ -1,0 +1,152 @@
+{'52WeekChange': -0.52046776,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '600 Fifth Avenue',
+ 'address2': '16th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 18.99,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 121125,
+ 'averageVolume': 296723,
+ 'averageVolume10days': 121125,
+ 'beta': 1.514845,
+ 'beta3Year': None,
+ 'bid': 17.9,
+ 'bidSize': 800,
+ 'bookValue': 8.404,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 18.96,
+ 'dayLow': 17.9903,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -84.893,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 611317824,
+ 'exDividendDate': 1589328000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 19.13,
+ 'fiftyTwoWeekHigh': 42.77,
+ 'fiftyTwoWeekLow': 13.68,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 12694801,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 19,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0081,
+ 'heldPercentInstitutions': 0.96489996,
+ 'industry': 'Telecom Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1055721600,
+ 'lastSplitFactor': '1:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/loral.com',
+ 'longBusinessSummary': 'Loral Space & Communications Inc., a satellite '
+                        'communications company, offers satellite-based '
+                        'communications services to the broadcast, telecom, '
+                        'corporate, and government customers worldwide. As of '
+                        'December 31, 2019, the company provided satellite '
+                        'services to its customers through a fleet of 16 '
+                        'in-orbit geostationary satellites; and owned the '
+                        'Canadian Ka-band payload on the ViaSat-1 satellite. '
+                        'It also offers video distribution and direct-to-home '
+                        '(DTH) video, as well as end-to-end communications '
+                        'services using satellite and hybrid satellite-ground '
+                        'networks; and broadcast services, including DTH, '
+                        'video distribution and contribution, and satellite '
+                        'transmission services for the broadcast of video '
+                        'news, sports, and live event coverage. In addition, '
+                        'the company provides telecommunication carrier and '
+                        'integrator services; maritime and aeronautical '
+                        'services; satellite services to the Canadian '
+                        'government; two-way broadband Internet services; '
+                        'communications services to the on and off shore oil '
+                        'and gas, and mining industries; and satellite '
+                        'operator services. Further, it is involved in the '
+                        'installation and maintenance of the end user '
+                        'terminal; maintenance of the VSAT hub; and provision '
+                        'of satellite capacity. Additionally, the company '
+                        'offers consulting services related to space and '
+                        'earth, government studies, satellite control '
+                        'services, and research and development; and X-band '
+                        'communications services to the United States, '
+                        'Spanish, and allied government users. Loral Space & '
+                        'Communications Inc. was founded in 1996 and is '
+                        'headquartered in New York, New York.',
+ 'longName': 'Loral Space & Communications Inc.',
+ 'market': 'us_market',
+ 'marketCap': 558027712,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34590',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -70104000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 18.7,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '212 697 1105',
+ 'previousClose': 18.85,
+ 'priceHint': 2,
+ 'priceToBook': 2.146597,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.96,
+ 'regularMarketDayLow': 17.9903,
+ 'regularMarketOpen': 18.7,
+ 'regularMarketPreviousClose': 18.85,
+ 'regularMarketPrice': 18.7,
+ 'regularMarketVolume': 95419,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 21427100,
+ 'sharesPercentSharesOut': 0.0222,
+ 'sharesShort': 686810,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 365470,
+ 'shortName': 'Loral Space and Communications,',
+ 'shortPercentOfFloat': 0.054,
+ 'shortRatio': 2.81,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'LORL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.272,
+ 'twoHundredDayAverage': 23.03921,
+ 'volume': 95419,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.loral.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10020'}

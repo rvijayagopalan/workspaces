@@ -1,0 +1,162 @@
+{'52WeekChange': -0.3357771,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'One Oxford Centre',
+ 'address2': 'Suite 2700 301 Grant Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.61,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 174762,
+ 'averageVolume': 167300,
+ 'averageVolume10days': 174762,
+ 'beta': 2.041456,
+ 'beta3Year': None,
+ 'bid': 13.59,
+ 'bidSize': 800,
+ 'bookValue': 17.311,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Pittsburgh',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.97,
+ 'dayLow': 13.545,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.292,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.076,
+ 'enterpriseValue': 192371568,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '412-304-0391',
+ 'fiftyDayAverage': 15.002857,
+ 'fiftyTwoWeekHigh': 26.43,
+ 'fiftyTwoWeekLow': 7.59,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 27348199,
+ 'forwardEps': 1.45,
+ 'forwardPE': 9.372414,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 276,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.18047,
+ 'heldPercentInstitutions': 0.75638,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/tristatecapitalbank.com',
+ 'longBusinessSummary': 'TriState Capital Holdings, Inc. operates as the bank '
+                        'holding company for TriState Capital Bank that '
+                        'provides various commercial and private banking '
+                        'services to middle-market businesses and '
+                        'high-net-worth individuals in the United States. It '
+                        'operates in two segments, Bank and Investment '
+                        "Management. The company's deposit products include "
+                        'checking accounts, money market deposit accounts, and '
+                        "certificates of deposit, as well as promontory's "
+                        'certificate of deposit account registry services and '
+                        'insured cash sweep services. It also provides loans '
+                        'that are secured by cash, marketable securities, cash '
+                        'value life insurance, residential property, or other '
+                        'financial assets, as well as commercial and '
+                        'industrial loans, commercial real estate loans, '
+                        'personal loans, asset-based loans, acquisition '
+                        'financing, and letters of credit. In addition, the '
+                        'company offers liquidity and treasury management '
+                        'services, such as online balance reporting, online '
+                        'bill payment, remote deposit, liquidity, wire and '
+                        'ACH, foreign exchange, and controlled disbursement '
+                        'services; and equity and fixed income advisory and '
+                        'sub-advisory services to third party mutual funds and '
+                        'series trust mutual funds, as well as separately '
+                        'managed accounts primarily comprising '
+                        'ultra-high-net-worth and institutional clients that '
+                        'include corporations, ERISA plans, Taft-Hartley '
+                        'funds, municipalities, endowments, and foundations. '
+                        'Further, it provides cash management services; and '
+                        'capital market services, which comprise interest rate '
+                        'swaps and investment management products, as well as '
+                        'engages in wholesaling and marketing the investment '
+                        'products and services. The company offers its '
+                        'products and services through its main office located '
+                        'in Pittsburgh, Pennsylvania, as well as through its '
+                        'four additional representative offices in Cleveland, '
+                        'Ohio; Philadelphia, Pennsylvania; Edison, New Jersey; '
+                        'and New York, New York. TriState Capital Holdings, '
+                        'Inc. was incorporated in 2006 and is headquartered in '
+                        'Pittsburgh, Pennsylvania.',
+ 'longName': 'TriState Capital Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 405683264,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_45759542',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 46386000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.78,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.03,
+ 'phone': '412-304-0304',
+ 'previousClose': 13.79,
+ 'priceHint': 2,
+ 'priceToBook': 0.7850499,
+ 'priceToSalesTrailing12Months': 2.2699885,
+ 'profitMargins': 0.30346,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.97,
+ 'regularMarketDayLow': 13.545,
+ 'regularMarketOpen': 13.78,
+ 'regularMarketPreviousClose': 13.79,
+ 'regularMarketPrice': 13.78,
+ 'regularMarketVolume': 140298,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 29851600,
+ 'sharesPercentSharesOut': 0.0291,
+ 'sharesShort': 869745,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 753528,
+ 'shortName': 'TriState Capital Holdings, Inc.',
+ 'shortPercentOfFloat': 0.0373,
+ 'shortRatio': 5.09,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'TSC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.621,
+ 'trailingPE': 8.383714,
+ 'twoHundredDayAverage': 16.276762,
+ 'volume': 140298,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.tristatecapitalbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '15219'}

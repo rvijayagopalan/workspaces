@@ -1,0 +1,164 @@
+{'52WeekChange': -0.10217178,
+ 'SandP52WeekChange': None,
+ 'address1': '701 Market Street',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 110.2,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 796075,
+ 'averageVolume': 1101949,
+ 'averageVolume10days': 796075,
+ 'beta': 1.217927,
+ 'beta3Year': None,
+ 'bid': 110.16,
+ 'bidSize': 800,
+ 'bookValue': 12.376,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Philadelphia',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 111.67,
+ 'dayLow': 108.06,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 38.952,
+ 'enterpriseToRevenue': 4.165,
+ 'enterpriseValue': 7008374784,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 106.098854,
+ 'fiftyTwoWeekHigh': 137.97,
+ 'fiftyTwoWeekLow': 47.53,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 54649763,
+ 'forwardEps': 3.66,
+ 'forwardPE': 30.103825,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.021440001,
+ 'heldPercentInstitutions': 1.02544,
+ 'industry': 'Specialty Retail',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580515200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/fivebelow.com',
+ 'longBusinessSummary': 'Five Below, Inc. operates as a specialty value '
+                        'retailer in the United States. It offers accessories, '
+                        'including novelty socks, sunglasses, jewelry, '
+                        'scarves, gloves, hair accessories, athletic tops and '
+                        'bottoms, and T-shirts, as well as nail polishes, lip '
+                        'glosses, fragrances, and branded cosmetics; and items '
+                        'used to complete and personalize living space, '
+                        'including glitter lamps, posters, frames, fleece '
+                        'blankets, plush items, pillows, candles, incense, '
+                        'lighting, novelty décor, and related items, as well '
+                        'as provides storage options for the customers room. '
+                        'The company also provides sport balls; team sports '
+                        'merchandise and fitness accessories, such as hand '
+                        'weights, jump ropes, and gym balls; games, including '
+                        'name brand board games, puzzles, collectibles, and '
+                        'toys covering remote control; and pool, beach, and '
+                        'outdoor toys, as well as games and accessories. In '
+                        'addition, it offers accessories, such as cases, '
+                        'chargers, headphones, and other related items for '
+                        'cell phones, tablets, audio, and computers; books, '
+                        'video games, and DVDs; craft activity kits; arts and '
+                        'crafts supplies that consist of crayons, markers, and '
+                        'stickers; and trend-right items for school comprising '
+                        'backpacks, fashion notebooks and journals, novelty '
+                        'pens and pencils, locker accessories, and everyday '
+                        'name brand items. Further, the company provides party '
+                        'goods, decorations, gag gifts, and greeting cards, as '
+                        'well as every day and special occasion merchandise '
+                        'products; assortment of classic and novelty candy '
+                        'bars, movie-size box candy, seasonal-related candy, '
+                        'and gum and snack food; chilled drinks through '
+                        'coolers; and seasonally-specific items used to '
+                        'celebrate and decorate for events. It primarily '
+                        'serves tween and teen customers. As of February 1, '
+                        '2020, Five Below, Inc. operated 900 stores in 36 '
+                        'states. The company was formerly known as Cheap '
+                        'Holdings, Inc. and changed its name to Five Below, '
+                        'Inc. in August 2002. Five Below, Inc. was founded in '
+                        '2002 and is headquartered in Philadelphia, '
+                        'Pennsylvania.',
+ 'longName': 'Five Below, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 6143196160,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_11464323',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588377600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 98812000,
+ 'nextFiscalYearEnd': 1643673600,
+ 'open': 108.14,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 4.73,
+ 'phone': '215-546-7909',
+ 'previousClose': 109.14,
+ 'priceHint': 2,
+ 'priceToBook': 8.902715,
+ 'priceToSalesTrailing12Months': 3.650435,
+ 'profitMargins': 0.058720004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 111.67,
+ 'regularMarketDayLow': 108.06,
+ 'regularMarketOpen': 108.14,
+ 'regularMarketPreviousClose': 109.14,
+ 'regularMarketPrice': 108.14,
+ 'regularMarketVolume': 679652,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 55756000,
+ 'sharesPercentSharesOut': 0.092700005,
+ 'sharesShort': 5170490,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5270951,
+ 'shortName': 'Five Below, Inc.',
+ 'shortPercentOfFloat': 0.0947,
+ 'shortRatio': 3.77,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'FIVE',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.761,
+ 'trailingPE': 62.566723,
+ 'twoHundredDayAverage': 97.81547,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '180bb5e3-81e3-36e2-a46b-88c92770ee75',
+ 'volume': 679652,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.fivebelow.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '19106'}

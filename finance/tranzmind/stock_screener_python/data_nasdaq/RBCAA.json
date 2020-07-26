@@ -1,0 +1,152 @@
+{'52WeekChange': -0.36027426,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '601 West Market Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 44,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 22925,
+ 'averageVolume': 28976,
+ 'averageVolume10days': 22925,
+ 'beta': 0.67619,
+ 'beta3Year': None,
+ 'bid': 30.7,
+ 'bidSize': 900,
+ 'bookValue': 38.053,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Louisville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 31.605,
+ 'dayLow': 30.65,
+ 'dividendRate': 1.14,
+ 'dividendYield': 0.0366,
+ 'earningsQuarterlyGrowth': -0.122,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.727,
+ 'enterpriseValue': 475270336,
+ 'exDividendDate': 1600300800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 31.800858,
+ 'fiftyTwoWeekHigh': 49.76,
+ 'fiftyTwoWeekLow': 27.05,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.49,
+ 'floatShares': 10309735,
+ 'forwardEps': 3.12,
+ 'forwardPE': 9.86859,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1094,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.48496,
+ 'heldPercentInstitutions': 0.32319,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1174435200,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/republicbank.com',
+ 'longBusinessSummary': 'Republic Bancorp, Inc., a financial holding company, '
+                        'provides banking products and services in the United '
+                        'States. It operates through five segments: '
+                        'Traditional Banking, Warehouse Lending, Mortgage '
+                        'Banking, Tax Refund Solutions, and Republic Credit '
+                        'Solutions. The company accepts demand, savings, time, '
+                        'and brokered and other certificates of deposits; and '
+                        'money market and individual retirement accounts. Its '
+                        'loan products include single family, first lien '
+                        'residential real estate, and adjustable rate mortgage '
+                        'loans; commercial real estate, construction and land '
+                        'development, and commercial and industrial loans; '
+                        'home improvement and home equity, and secured and '
+                        'unsecured personal loans; and aircraft loans. The '
+                        'company also offers credit cards; title insurance and '
+                        'other financial products and services; and memory '
+                        'banking, private banking, lockbox processing, remote '
+                        'deposit capture, business online banking, account '
+                        'reconciliation, automated clearing house processing, '
+                        'and Internet and mobile banking services. In '
+                        'addition, it provides short-term and revolving credit '
+                        'facilities to mortgage bankers; tax refund solutions, '
+                        'which facilitate the receipt and payment of federal '
+                        'and state tax refund products through third-party tax '
+                        'preparers and tax-preparation software providers; and '
+                        'general purpose reloadable prepaid cards through '
+                        'third party service providers. Further, the company '
+                        'offers consumer credit products; and property and '
+                        'casualty insurance products. As of December 31, 2019, '
+                        'it operated 41 full-service banking centers and two '
+                        'loan production offices. Republic Bancorp, Inc. is '
+                        'headquartered in Louisville, Kentucky.',
+ 'longName': 'Republic Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 575668352,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_388375',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 86677000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 31.48,
+ 'openInterest': None,
+ 'payoutRatio': 0.2651,
+ 'pegRatio': 1.04,
+ 'phone': '502-584-3600',
+ 'previousClose': 31.29,
+ 'priceHint': 2,
+ 'priceToBook': 0.8091346,
+ 'priceToSalesTrailing12Months': 2.0920918,
+ 'profitMargins': 0.315,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 31.605,
+ 'regularMarketDayLow': 30.65,
+ 'regularMarketOpen': 31.48,
+ 'regularMarketPreviousClose': 31.29,
+ 'regularMarketPrice': 31.48,
+ 'regularMarketVolume': 17944,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 18696600,
+ 'sharesPercentSharesOut': 0.0064999997,
+ 'sharesShort': 136511,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 112607,
+ 'shortName': 'Republic Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.010199999,
+ 'shortRatio': 4.81,
+ 'startDate': None,
+ 'state': 'KY',
+ 'strikePrice': None,
+ 'symbol': 'RBCAA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.1,
+ 'trailingAnnualDividendYield': 0.035155002,
+ 'trailingEps': 4.106,
+ 'trailingPE': 7.4987826,
+ 'twoHundredDayAverage': 34.733524,
+ 'volume': 17944,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.republicbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '40202'}

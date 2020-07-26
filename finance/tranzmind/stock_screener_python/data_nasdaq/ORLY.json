@@ -1,0 +1,152 @@
+{'52WeekChange': 0.16691422,
+ 'SandP52WeekChange': None,
+ 'address1': '233 South Patterson Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 442.55,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 530500,
+ 'averageVolume': 595117,
+ 'averageVolume10days': 530500,
+ 'beta': 1.068347,
+ 'beta3Year': None,
+ 'bid': 442.31,
+ 'bidSize': 800,
+ 'bookValue': 1.467,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Springfield',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 451.23,
+ 'dayLow': 442.15,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.065,
+ 'enterpriseToEbitda': 17.869,
+ 'enterpriseToRevenue': 3.817,
+ 'enterpriseValue': 38996074496,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 425.7,
+ 'fiftyTwoWeekHigh': 463.02,
+ 'fiftyTwoWeekLow': 251.52,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 72940798,
+ 'forwardEps': 19.97,
+ 'forwardPE': 22.150227,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 79778,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.016549999,
+ 'heldPercentInstitutions': 0.8804,
+ 'industry': 'Specialty Retail',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1118880000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/oreillyauto.com',
+ 'longBusinessSummary': "O'Reilly Automotive, Inc., together with its "
+                        'subsidiaries, engages in the retail of automotive '
+                        'aftermarket parts, tools, supplies, equipment, and '
+                        'accessories in the United States. The company '
+                        'provides new and remanufactured automotive hard parts '
+                        'and maintenance items, such as alternators, '
+                        'batteries, brake system components, belts, chassis '
+                        'parts, driveline parts, engine parts, fuel pumps, '
+                        'hoses, starters, temperature control, water pumps, '
+                        'antifreeze, lighting products, appearance products, '
+                        'engine additives, filters, fluids, and oil and wiper '
+                        'blades; and accessories, such as floor mats, seat '
+                        'covers, and truck accessories. Its stores offer auto '
+                        'body paint and related materials, automotive tools, '
+                        'and professional service provider service equipment. '
+                        "The company's stores also offer enhanced services and "
+                        'programs comprising used oil, oil filter, and battery '
+                        'recycling; battery, wiper, and bulb replacement; '
+                        'battery diagnostic testing; electrical and module '
+                        'testing; check engine light code extraction; loaner '
+                        'tool program; drum and rotor resurfacing; custom '
+                        'hydraulic hoses; professional paint shop mixing and '
+                        'related materials; and machine shops. Its stores '
+                        'provide do-it-yourself and professional service '
+                        'provider customers a selection of products for '
+                        'domestic and imported automobiles, vans, and trucks. '
+                        'As of December 31, 2019, the company operated 5,439 '
+                        "stores. O'Reilly Automotive, Inc. was founded in 1957 "
+                        'and is headquartered in Springfield, Missouri.',
+ 'longName': "O'Reilly Automotive, Inc.",
+ 'market': 'us_market',
+ 'marketCap': 32832952320,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_324289',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1370328064,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 446.04,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.81,
+ 'phone': '417 862 6708',
+ 'previousClose': 447.85,
+ 'priceHint': 2,
+ 'priceToBook': 301.52692,
+ 'priceToSalesTrailing12Months': 3.2139182,
+ 'profitMargins': 0.13414,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 451.23,
+ 'regularMarketDayLow': 442.15,
+ 'regularMarketOpen': 446.04,
+ 'regularMarketPreviousClose': 447.85,
+ 'regularMarketPrice': 446.04,
+ 'regularMarketVolume': 623672,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 74225600,
+ 'sharesPercentSharesOut': 0.0164,
+ 'sharesShort': 1219132,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1175888,
+ 'shortName': "O'Reilly Automotive, Inc.",
+ 'shortPercentOfFloat': 0.0167,
+ 'shortRatio': 2.05,
+ 'startDate': None,
+ 'state': 'MO',
+ 'strikePrice': None,
+ 'symbol': 'ORLY',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 17.821,
+ 'trailingPE': 24.82128,
+ 'twoHundredDayAverage': 391.99994,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'bceb4e90-14a6-3e82-9996-5bc5c2d46a10',
+ 'volume': 623672,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.oreillyauto.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '65802'}

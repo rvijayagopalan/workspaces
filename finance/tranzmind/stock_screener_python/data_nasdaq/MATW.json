@@ -1,0 +1,164 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': 'Two NorthShore Center',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 25.2,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 266387,
+ 'averageVolume': 264417,
+ 'averageVolume10days': 266387,
+ 'beta': 1.137815,
+ 'beta3Year': None,
+ 'bid': 19.57,
+ 'bidSize': 1400,
+ 'bookValue': 18.873,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Pittsburgh',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 19.995,
+ 'dayLow': 19.45,
+ 'dividendRate': 0.84,
+ 'dividendYield': 0.0424,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 10.234,
+ 'enterpriseToRevenue': 1.054,
+ 'enterpriseValue': 1593690112,
+ 'exDividendDate': 1588291200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '412-442-8290',
+ 'fiftyDayAverage': 19.26743,
+ 'fiftyTwoWeekHigh': 40.36,
+ 'fiftyTwoWeekLow': 17.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.59,
+ 'floatShares': 29947902,
+ 'forwardEps': 2.9,
+ 'forwardPE': 6.7482758,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 11000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.03299,
+ 'heldPercentInstitutions': 0.88208,
+ 'industry': 'Conglomerates',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/matw.com',
+ 'longBusinessSummary': 'Matthews International Corporation provides brand '
+                        'solutions, memorialization products, and industrial '
+                        "products worldwide. The company's SGK Brand Solutions "
+                        'segment provides brand development and graphic design '
+                        'services, such as visual intellectual properties, '
+                        'packaging, and content creation; brand deployment and '
+                        'activation services, including design and production '
+                        'of merchandising exhibits and shopper experiences in '
+                        'digital and printed media channels; and consulting '
+                        'services to brand owners on workflow best practices, '
+                        'management and technologies, printing quality, '
+                        'measurement, and consistency. This segment also '
+                        'produces digital packaging artwork files, and '
+                        'pre-media graphics services for print and digital '
+                        'channels, as well as image carriers comprising '
+                        'printing plates and gravure cylinders; and develops '
+                        'digital tools. Its Memorialization segment '
+                        'manufactures and markets a range of memorialization '
+                        'products for use in cemeteries, funeral homes, and '
+                        'crematories. This segment offers cast bronze '
+                        'memorials, flush bronze and granite memorials, '
+                        'upright granite memorials and monuments, cremation '
+                        'memorialization products, granite benches, flower '
+                        'vases, crypt plates and letters, cremation urns, '
+                        'niche units, cemetery features and statues, caskets, '
+                        'community and family mausoleums, bronze plaques, '
+                        'letters, emblems, vases, lights, and photo ceramics, '
+                        'as well as architectural products to identify or '
+                        'commemorate people, places, events, and '
+                        "accomplishments. The company's Industrial "
+                        'Technologies segment designs, manufactures, and '
+                        'distributes marking and coding equipment and '
+                        'consumables, industrial automation products, and '
+                        'order fulfillment systems for identifying, tracking, '
+                        'picking, and conveying consumer and industrial '
+                        'products. This segment serves manufacturers, '
+                        'suppliers, and distributors of durable goods and '
+                        'building products; consumer goods manufacturers; and '
+                        'pharmaceutical producers. Matthews International '
+                        'Corporation was founded in 1850 and is based in '
+                        'Pittsburgh, Pennsylvania.',
+ 'longName': 'Matthews International Corporation',
+ 'market': 'us_market',
+ 'marketCap': 611940160,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_335798',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -153332000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 19.94,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': -0.77,
+ 'phone': '412-442-8200',
+ 'previousClose': 19.83,
+ 'priceHint': 2,
+ 'priceToBook': 1.036931,
+ 'priceToSalesTrailing12Months': 0.4048715,
+ 'profitMargins': -0.10145,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 19.995,
+ 'regularMarketDayLow': 19.45,
+ 'regularMarketOpen': 19.94,
+ 'regularMarketPreviousClose': 19.83,
+ 'regularMarketPrice': 19.94,
+ 'regularMarketVolume': 132085,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 31269300,
+ 'sharesPercentSharesOut': 0.0332,
+ 'sharesShort': 1037606,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1263558,
+ 'shortName': 'Matthews International Corporat',
+ 'shortPercentOfFloat': 0.0471,
+ 'shortRatio': 3.53,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'MATW',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.83,
+ 'trailingAnnualDividendYield': 0.041855775,
+ 'trailingEps': -4.914,
+ 'twoHundredDayAverage': 25.374891,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '5ae5b05f-792e-3dd6-af35-7b6aa9850daf',
+ 'volume': 132085,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.matw.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '15212'}

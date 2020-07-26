@@ -1,0 +1,158 @@
+{'52WeekChange': -0.084178865,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '551 Fifth Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 29.85,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 4262,
+ 'averageVolume': 5242,
+ 'averageVolume10days': 4262,
+ 'beta': 0.006722,
+ 'beta3Year': None,
+ 'bid': 24,
+ 'bidSize': 1100,
+ 'bookValue': 5.638,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 25.46,
+ 'dayLow': 23.5,
+ 'dividendRate': 0.84,
+ 'dividendYield': 0.0345,
+ 'earningsQuarterlyGrowth': 1.02,
+ 'enterpriseToEbitda': 24.007,
+ 'enterpriseToRevenue': 5.42,
+ 'enterpriseValue': 215082864,
+ 'exDividendDate': 1595548800,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 25.782572,
+ 'fiftyTwoWeekHigh': 36.6,
+ 'fiftyTwoWeekLow': 18.4,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.55,
+ 'floatShares': 981571,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 162,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.89812,
+ 'heldPercentInstitutions': 0.07979,
+ 'industry': 'Financial Data & Stock Exchanges',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1556582400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/valueline.com',
+ 'longBusinessSummary': 'Value Line, Inc., together with its subsidiaries, '
+                        'produces and sells investment periodicals and related '
+                        'publications primarily in the United States. Its '
+                        'investment periodicals and related publications cover '
+                        'a range of investments, including stocks, mutual '
+                        'funds, exchange traded funds (ETFs), options, and '
+                        'convertible securities. The company offers research '
+                        'services, such as The Value Line Investment Survey, '
+                        'The Value Line Investment Survey - Small and Mid-Cap, '
+                        'The Value Line 600, and The Value Line Fund Advisor '
+                        'Plus, which provide statistical and text coverage of '
+                        'various investment securities, with an emphasis '
+                        'placed on its proprietary research, analysis, and '
+                        'statistical ranks. It also provides niche newsletters '
+                        'comprising Value Line Select, Value Line Select: '
+                        'Dividend Income & Growth, Value Line Select: ETFs, '
+                        'and The Value Line Special Situations Service that '
+                        'offer information on a less comprehensive basis for '
+                        'securities that are of particular interest to '
+                        'subscribers; digital versions of its products through '
+                        'its Website, valueline.com; and investment analysis '
+                        'software, such as The Value Line Investment Analyzer, '
+                        'which includes data sorting and filtering tools. In '
+                        'addition, the company offers current and historical '
+                        'financial databases comprising DataFile, estimates '
+                        'and projections, convertibles, and mutual funds '
+                        'through online; and copyright data products, which '
+                        'include unit investment trusts, variable annuities, '
+                        'managed accounts, and EFTs. Further, it places '
+                        "advertising on behalf of the company's publications; "
+                        'and provides subscription fulfillment and subscriber '
+                        'relation services. The company serves individual and '
+                        'professional investors, as well as institutions, '
+                        'including municipal and university libraries, and '
+                        'investment firms. Value Line, Inc. was founded in '
+                        '1931 and is headquartered in New York, New York. '
+                        'Value Line, Inc. operates as a subsidiary of Arnold '
+                        'Bernhard & Co, Inc.',
+ 'longName': 'Value Line, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 244360848,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_311579',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1580428800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 15146000,
+ 'nextFiscalYearEnd': 1619740800,
+ 'open': 23.99,
+ 'openInterest': None,
+ 'payoutRatio': 0.5096,
+ 'pegRatio': None,
+ 'phone': '212-907-1500',
+ 'previousClose': 24.14,
+ 'priceHint': 2,
+ 'priceToBook': 4.5069175,
+ 'priceToSalesTrailing12Months': 6.157822,
+ 'profitMargins': 0.38167,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.46,
+ 'regularMarketDayLow': 23.5,
+ 'regularMarketOpen': 23.99,
+ 'regularMarketPreviousClose': 24.14,
+ 'regularMarketPrice': 23.99,
+ 'regularMarketVolume': 5906,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 9616720,
+ 'sharesPercentSharesOut': 0.0014,
+ 'sharesShort': 13357,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 11139,
+ 'shortName': 'Value Line, Inc.',
+ 'shortPercentOfFloat': 0.0136,
+ 'shortRatio': 1.66,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'VALU',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.8,
+ 'trailingAnnualDividendYield': 0.03314002,
+ 'trailingEps': 1.568,
+ 'trailingPE': 16.205357,
+ 'twoHundredDayAverage': 29.271942,
+ 'volume': 5906,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.valueline.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10176'}

@@ -1,0 +1,161 @@
+{'52WeekChange': 0.45138896,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '980 Rock Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27.19,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 263687,
+ 'averageVolume': 651242,
+ 'averageVolume10days': 263687,
+ 'beta': 1.109243,
+ 'beta3Year': None,
+ 'bid': 27.15,
+ 'bidSize': 800,
+ 'bookValue': 19.998,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Jose',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 27.665,
+ 'dayLow': 26.72,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.485,
+ 'enterpriseToEbitda': 7.748,
+ 'enterpriseToRevenue': 0.354,
+ 'enterpriseValue': 1168821504,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '408-503-8008',
+ 'fiftyDayAverage': 28.972,
+ 'fiftyTwoWeekHigh': 33.3,
+ 'fiftyTwoWeekLow': 15.76,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 37710067,
+ 'forwardEps': 2.18,
+ 'forwardPE': 12.463303,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3670,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.15560001,
+ 'heldPercentInstitutions': 0.41245997,
+ 'industry': 'Computer Hardware',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/supermicro.com',
+ 'longBusinessSummary': 'Super Micro Computer, Inc., together with its '
+                        'subsidiaries, develops and manufactures '
+                        'high-performance server and storage solutions based '
+                        'on modular and open architecture. Its solutions range '
+                        'from complete server, storage, modular blade servers, '
+                        'blades, and workstations to full racks, networking '
+                        'devices, server management software, server '
+                        'sub-systems, and support and services. The company '
+                        'also provides a range of application-optimized server '
+                        'solutions, including storage, rackmount and blade '
+                        'server and storage systems, and subsystems and '
+                        'accessories; and server software management '
+                        'solutions, such as Server Management suite, including '
+                        'Supermicro Server Manager, Supermicro Power '
+                        'Management software, Supermicro Update Manager, and '
+                        'SuperDoctor 5. In addition, it offers server '
+                        'subsystems and accessories comprising server boards, '
+                        'chassis, power supplies, and other accessories. '
+                        'Further, the company provides server and storage '
+                        'systems integration, configuration, and software '
+                        'upgrade and update services; and technical '
+                        'documentation services, as well as identifies service '
+                        'requirements, creates and executes project plans, and '
+                        'conducts verification testing and training services. '
+                        'Additionally, it offers help desk services and '
+                        'on-site product support services for its server and '
+                        'storage systems; and customer support services, '
+                        'including ongoing maintenance and technical support '
+                        'for its products. The company provides its products '
+                        'to cloud computing, data center, enterprise, big '
+                        'data, artificial intelligence and machine learning, '
+                        'high performance computing, edge computing, and '
+                        'Internet of Things/embedded markets. It sells its '
+                        'products through direct sales force, distributors, '
+                        'value added resellers, system integrators, and '
+                        'original equipment manufacturers. The company has '
+                        'operations primarily in the United States, Europe, '
+                        'Asia, and internationally. Super Micro Computer, Inc. '
+                        'was founded in 1993 and is headquartered in San Jose, '
+                        'California.',
+ 'longName': 'Super Micro Computer, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1410764160,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_6479558',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 89568000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 27.55,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.09,
+ 'phone': '408-503-8000',
+ 'previousClose': 27.62,
+ 'priceHint': 2,
+ 'priceToBook': 1.3586359,
+ 'priceToSalesTrailing12Months': 0.4278428,
+ 'profitMargins': 0.02716,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 27.665,
+ 'regularMarketDayLow': 26.72,
+ 'regularMarketOpen': 27.55,
+ 'regularMarketPreviousClose': 27.62,
+ 'regularMarketPrice': 27.55,
+ 'regularMarketVolume': 181102,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 51923600,
+ 'sharesPercentSharesOut': 0.0699,
+ 'sharesShort': 3631164,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 464479,
+ 'shortName': 'Super Micro Computer, Inc.',
+ 'shortPercentOfFloat': 0.082399994,
+ 'shortRatio': 2.94,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'SMCI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.709,
+ 'trailingPE': 15.898186,
+ 'twoHundredDayAverage': 25.576115,
+ 'volume': 181102,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.supermicro.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95131'}

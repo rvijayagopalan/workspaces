@@ -1,0 +1,148 @@
+{'52WeekChange': -0.07359141,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1521 Westbranch Drive',
+ 'address2': 'Suite 100',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24.18,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 6262,
+ 'averageVolume': 15793,
+ 'averageVolume10days': 6262,
+ 'beta': 1.469467,
+ 'beta3Year': None,
+ 'bid': 24.08,
+ 'bidSize': 800,
+ 'bookValue': 11.166,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'McLean',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': None,
+ 'dayHigh': 24.19,
+ 'dayLow': 24.1221,
+ 'dividendRate': 1.59,
+ 'dividendYield': 0.0659,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 15.818,
+ 'enterpriseValue': 979483520,
+ 'exDividendDate': 1597968000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '703-287-5801',
+ 'fiftyDayAverage': 24.18,
+ 'fiftyTwoWeekHigh': 26.44,
+ 'fiftyTwoWeekLow': 12.05,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': None,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.01587,
+ 'industry': 'Asset Management',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/gladstoneinvestment.com',
+ 'longBusinessSummary': 'Gladstone Investment Corporation is a private equity '
+                        'fund specializing in lower middle market, '
+                        'acquisitions, mature stage, buyouts; '
+                        'recapitalizations; refinancing existing debt; senior '
+                        'debt securities such as senior loans, senior term '
+                        'loans, lines of credit, and senior notes; senior '
+                        'subordinated debt securities such as senior '
+                        'subordinated loans and senior subordinated notes; '
+                        'junior subordinated debt securities such as '
+                        'subordinated notes and mezzanine loans; limited '
+                        'liability company interests, and warrants or options. '
+                        'The fund does not invest in start-ups. The fund seek '
+                        'to invest in manufacturing, consumer products and '
+                        'business services/ distribution sector. It seeks to '
+                        'invest in small and mid-sized companies based in the '
+                        'United States. The fund prefers to make debt '
+                        'investments between $5 million and $30 million and '
+                        'equity investments between $10 million and $40 '
+                        'million in companies. The fund seeks to invest in '
+                        'companies with sales between $20 million and $100 '
+                        'million. The fund invest in companies with EBITDA '
+                        'from $3 million to $20 million. It seeks minority '
+                        'equity ownership and prefers to hold a board seat in '
+                        'its portfolio companies. It also prefers to take '
+                        'majority stake in its portfolio companies. The fund '
+                        'typically holds its investments for seven years and '
+                        'exits via sale or recapitalization, initial public '
+                        'offering, or sale to third party.',
+ 'longName': 'Gladstone Investment Corporation',
+ 'market': 'us_market',
+ 'marketCap': 345473888,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_21880789',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -7234000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 24.17,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '703-287-5800',
+ 'previousClose': 24.06,
+ 'priceHint': 2,
+ 'priceToBook': 2.1646068,
+ 'priceToSalesTrailing12Months': 5.578998,
+ 'profitMargins': -0.11682,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 24.19,
+ 'regularMarketDayLow': 24.1221,
+ 'regularMarketOpen': 24.17,
+ 'regularMarketPreviousClose': 24.06,
+ 'regularMarketPrice': 24.17,
+ 'regularMarketVolume': 2475,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 32822500,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': None,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'Gladstone Investment Corporatio',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': None,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'GAINL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.822,
+ 'trailingAnnualDividendYield': 0.03416459,
+ 'trailingEps': -0.22,
+ 'twoHundredDayAverage': 24.108633,
+ 'volume': 2475,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.gladstoneinvestment.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '22102'}

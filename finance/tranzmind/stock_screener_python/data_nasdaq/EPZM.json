@@ -1,0 +1,159 @@
+{'52WeekChange': 0.057419896,
+ 'SandP52WeekChange': None,
+ 'address1': '400 Technology Square',
+ 'address2': '4th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.84,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 939075,
+ 'averageVolume': 1150292,
+ 'averageVolume10days': 939075,
+ 'beta': 2.095798,
+ 'beta3Year': None,
+ 'bid': 14.23,
+ 'bidSize': 800,
+ 'bookValue': 3.01,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.6,
+ 'dayLow': 13.75,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -6.067,
+ 'enterpriseToRevenue': 69.011,
+ 'enterpriseValue': 1191344896,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '617 349 0707',
+ 'fiftyDayAverage': 16.458857,
+ 'fiftyTwoWeekHigh': 27.82,
+ 'fiftyTwoWeekLow': 9.74,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 82761034,
+ 'forwardEps': -2.09,
+ 'forwardPE': -6.8564596,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 203,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0404,
+ 'heldPercentInstitutions': 1.00971,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/epizyme.com',
+ 'longBusinessSummary': 'Epizyme, Inc., a late-stage biopharmaceutical '
+                        'company, discovers, develops, and commercializes '
+                        'novel epigenetic medicines for patients with cancer '
+                        'and other diseases primarily in the United States. '
+                        "The company's lead products candidate is "
+                        'tazemetostat, an inhibitor of the EZH2 histone '
+                        'methyltransferase, which is in the Phase II clinical '
+                        'trial for patients with relapsed or refractory '
+                        'non-hodgkin lymphoma (NHL); Phase II clinical trial '
+                        'for relapsed or refractory patients with mesothelioma '
+                        'characterized by BAP1 loss-of-function; and Phase II '
+                        'clinical trial for adults and Phase I clinical trial '
+                        'for children with epithelioid sarcoma and other '
+                        'INI1-negative solid tumors. It also develops '
+                        'tazemetostat in combination with R-CHOP that is in '
+                        'the Phase Ib/II clinical trials in elderly patients '
+                        'with DLBCL; and tazemetostat in combination with '
+                        'PD-L1 inhibitor, which is in the Phase Ib/II clinical '
+                        'trials for the treatment of patients with relapsed or '
+                        'refractory metastatic non-small cell lung cancer. In '
+                        'addition, the company is developing EZM8266, a G9a '
+                        'inhibitor that is in the Phase 1 study for the '
+                        'treatment of sickle cell disease; pinometostat, which '
+                        'is in the preclinical studies stage for the treatment '
+                        'of acute myeloid leukemia and acute lymphoblastic '
+                        'leukemia; PRMT5 inhibitor that is in Phase II '
+                        'clinical trial for patients with solid tumors and '
+                        'NHL; and PRMT1 inhibitor, which is in the Phase 1 '
+                        'clinical trial. Epizyme, Inc. has collaboration '
+                        'agreements with Celgene Corporation; Genentech Inc.; '
+                        'Glaxo Group Limited; Boehringer Ingelheim '
+                        'International GmbH; Roche Molecular Systems, Inc.; '
+                        'Lymphoma Study Association; and Eisai Co. Ltd. The '
+                        'company was founded in 2007 and is headquartered in '
+                        'Cambridge, Massachusetts.',
+ 'longName': 'Epizyme, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1448204160,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_54339075',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -191892992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.93,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.16,
+ 'phone': '617 229 5872',
+ 'previousClose': 14.18,
+ 'priceHint': 2,
+ 'priceToBook': 4.7607975,
+ 'priceToSalesTrailing12Months': 83.89064,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.6,
+ 'regularMarketDayLow': 13.75,
+ 'regularMarketOpen': 13.93,
+ 'regularMarketPreviousClose': 14.18,
+ 'regularMarketPrice': 13.93,
+ 'regularMarketVolume': 832205,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 101061000,
+ 'sharesPercentSharesOut': 0.1093,
+ 'sharesShort': 11041686,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7636461,
+ 'shortName': 'Epizyme, Inc.',
+ 'shortPercentOfFloat': 0.1478,
+ 'shortRatio': 6.26,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'EPZM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.04,
+ 'twoHundredDayAverage': 18.801655,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'df4243f0-ec53-31f7-8399-4c1b724aec54',
+ 'volume': 832205,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.epizyme.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02139'}

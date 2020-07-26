@@ -1,0 +1,154 @@
+{'52WeekChange': 1.0918367,
+ 'SandP52WeekChange': None,
+ 'address1': '10260 Bubb Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.02,
+ 'askSize': 3100,
+ 'averageDailyVolume10Day': 955337,
+ 'averageVolume': 1683569,
+ 'averageVolume10days': 955337,
+ 'beta': 2.162464,
+ 'beta3Year': None,
+ 'bid': 2.01,
+ 'bidSize': 4000,
+ 'bookValue': 0.072,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cupertino',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.07,
+ 'dayLow': 2.005,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -16.526,
+ 'enterpriseToRevenue': 13.055,
+ 'enterpriseValue': 368269440,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '408-777-3577',
+ 'fiftyDayAverage': 2.2654285,
+ 'fiftyTwoWeekHigh': 3.95,
+ 'fiftyTwoWeekLow': 0.94,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 173166169,
+ 'forwardEps': -0.21,
+ 'forwardPE': -9.571429,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 87,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.033010002,
+ 'heldPercentInstitutions': 0.46598998,
+ 'industry': 'Drug Manufacturers—Specialty & Generic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/durect.com',
+ 'longBusinessSummary': 'DURECT Corporation, a biopharmaceutical company, '
+                        'researches and develops medicines based on its '
+                        'epigenetic regulator and pharmaceutical programs. The '
+                        'company offers ALZET product line that consists of '
+                        'osmotic pumps and accessories used for experimental '
+                        'research in mice, rats, and other laboratory animals; '
+                        'and a range of biodegradable polymers for '
+                        'pharmaceutical and medical device clients for use as '
+                        'raw materials in their products under the LACTEL '
+                        'brand. Its product pipeline consists of multiple '
+                        'investigational drug candidates in development, such '
+                        'as DUR-928, an endogenous, orally bioavailable small '
+                        'molecule that is in Phase I and II development stage '
+                        'to play a regulatory role in lipid homeostasis, '
+                        "inflammation, and cell survival. The company's oral "
+                        'and injectable delivery technologies are designed to '
+                        'enable new indications and enhanced attributes for '
+                        'small-molecule and biologic drugs, including POSIMIR, '
+                        'an investigational analgesic product intended to '
+                        'deliver bupivacaine to provide up to 3 days of pain '
+                        'relief after surgery. DURECT Corporation markets and '
+                        'sells its ALZET and LACTEL product lines through '
+                        'direct sales force in the United States, as well as '
+                        'through a network of distributors in Japan, Europe, '
+                        'and internationally. The company has strategic '
+                        'collaboration and other agreements with Virginia '
+                        'Commonwealth University Intellectual Property '
+                        'Foundation; Indivior UK Ltd.; Santen Pharmaceutical '
+                        'Co., Ltd.; Sandoz AG; and Zogenix, Inc. DURECT '
+                        'Corporation was founded in 1998 and is headquartered '
+                        'in Cupertino, California.',
+ 'longName': 'DURECT Corporation',
+ 'market': 'us_market',
+ 'marketCap': 394010240,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_27768',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -23396000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.04,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.91,
+ 'phone': '408-777-1417',
+ 'previousClose': 2.05,
+ 'priceHint': 4,
+ 'priceToBook': 27.916668,
+ 'priceToSalesTrailing12Months': 13.968032,
+ 'profitMargins': -0.82941,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.07,
+ 'regularMarketDayLow': 2.005,
+ 'regularMarketOpen': 2.04,
+ 'regularMarketPreviousClose': 2.05,
+ 'regularMarketPrice': 2.04,
+ 'regularMarketVolume': 680892,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 196024992,
+ 'sharesPercentSharesOut': 0.0792,
+ 'sharesShort': 15524271,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5916320,
+ 'shortName': 'DURECT Corporation',
+ 'shortPercentOfFloat': 0.0917,
+ 'shortRatio': 5.93,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'DRRX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.132,
+ 'twoHundredDayAverage': 2.0584173,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e77ce79d-8bdf-33c2-8d1b-fd9ac415ef17',
+ 'volume': 680892,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.durect.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95014'}

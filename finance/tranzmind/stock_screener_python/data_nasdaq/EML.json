@@ -1,0 +1,162 @@
+{'52WeekChange': -0.3814115,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '112 Bridge Street',
+ 'address2': 'PO Box 460',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 16.82,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 17162,
+ 'averageVolume': 12809,
+ 'averageVolume10days': 17162,
+ 'beta': 0.960224,
+ 'beta3Year': None,
+ 'bid': 16.04,
+ 'bidSize': 1100,
+ 'bookValue': 16.869,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Naugatuck',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 16.89,
+ 'dayLow': 15.78,
+ 'dividendRate': 0.44,
+ 'dividendYield': 0.025899999,
+ 'earningsQuarterlyGrowth': 0.843,
+ 'enterpriseToEbitda': 6.57,
+ 'enterpriseToRevenue': 0.753,
+ 'enterpriseValue': 192805360,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '203-723-8653',
+ 'fiftyDayAverage': 17.762571,
+ 'fiftyTwoWeekHigh': 31.97,
+ 'fiftyTwoWeekLow': 15.28,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.95,
+ 'floatShares': 5368896,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1399,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.051030003,
+ 'heldPercentInstitutions': 0.66591,
+ 'industry': 'Tools & Accessories',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 1161129600,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/easterncompany.com',
+ 'longBusinessSummary': 'The Eastern Company designs, manufactures, and sells '
+                        'various engineered solutions for various industrial '
+                        'markets in the United States and internationally. The '
+                        'company operates through three segments: Industrial '
+                        'Hardware, Security Products, and Metal Products. The '
+                        'Industrial Hardware segment designs, manufactures, '
+                        'and markets custom and standard vehicular and '
+                        'industrial hardware, including turnkey returnable '
+                        'packaging solutions; passenger restraint and '
+                        'vehicular locks, latches, and hinges; mirrors and '
+                        'mirror-cameras; light-weight sleeper boxes; and truck '
+                        'bodies. It also designs and manufactures fasteners '
+                        'and other closure devices to secure access doors on '
+                        'various type of industrial equipment, such as metal '
+                        'cabinets, machinery housings, and electronic '
+                        'instruments. This segment sells its products directly '
+                        "to original equipment manufacturers (OEM's) and "
+                        'distributors through in-house sales personnel and '
+                        'outside sales representatives. The Security Products '
+                        'segment designs and manufactures engineered security '
+                        'and access solutions in the form of mechanical, '
+                        "electronic, and wireless products for OEM's contract "
+                        'equipment manufacturers and industrial distributors; '
+                        'designs, manufactures, and markets timers, drop '
+                        'meters, coin chutes, money boxes, meter cases, mobile '
+                        'payment apps, smart cards, value transfer stations, '
+                        'smart card readers, card management software, and '
+                        'access control units that are used primarily in the '
+                        'commercial laundry market; and supplies printed '
+                        'circuit boards and other electronic assemblies to '
+                        'OEMs in various industries. The Metal Products '
+                        'segment designs and manufactures ductile and '
+                        'malleable iron castings, such as valves, rings, '
+                        'torque screws, bean clamps, and concrete anchors for '
+                        'a range of industrial markets, including oil, water, '
+                        'gas; and truck/automotive rail, and '
+                        'military/aerospace, as well as offers expansion '
+                        'shells to support the roofs of underground mines. The '
+                        'Eastern Company was founded in 1858 and is based in '
+                        'Naugatuck, Connecticut.',
+ 'longName': 'The Eastern Company',
+ 'market': 'us_market',
+ 'marketCap': 99940912,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_175181',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 14590999,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 16.89,
+ 'openInterest': None,
+ 'payoutRatio': 0.18879999,
+ 'pegRatio': None,
+ 'phone': '203-729-2255',
+ 'previousClose': 17,
+ 'priceHint': 2,
+ 'priceToBook': 0.9508567,
+ 'priceToSalesTrailing12Months': 0.39011213,
+ 'profitMargins': 0.056950003,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 16.89,
+ 'regularMarketDayLow': 15.78,
+ 'regularMarketOpen': 16.89,
+ 'regularMarketPreviousClose': 17,
+ 'regularMarketPrice': 16.89,
+ 'regularMarketVolume': 53637,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 6230730,
+ 'sharesPercentSharesOut': 0.0061000003,
+ 'sharesShort': 38163,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 31001,
+ 'shortName': 'Eastern Company (The)',
+ 'shortPercentOfFloat': 0.0091,
+ 'shortRatio': 2.95,
+ 'startDate': None,
+ 'state': 'CT',
+ 'strikePrice': None,
+ 'symbol': 'EML',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.44,
+ 'trailingAnnualDividendYield': 0.025882352,
+ 'trailingEps': 2.33,
+ 'trailingPE': 6.884121,
+ 'twoHundredDayAverage': 21.579424,
+ 'volume': 53637,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.easterncompany.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '06770'}

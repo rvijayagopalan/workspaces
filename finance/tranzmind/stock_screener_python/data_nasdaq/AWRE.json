@@ -1,0 +1,159 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '40 Middlesex Turnpike',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.42,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 9200,
+ 'averageVolume': 19819,
+ 'averageVolume10days': 9200,
+ 'beta': 0.115406,
+ 'beta3Year': None,
+ 'bid': 3.12,
+ 'bidSize': 1100,
+ 'bookValue': 2.435,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Bedford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.42,
+ 'dayLow': 3.06,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -5.383,
+ 'enterpriseToRevenue': 2.231,
+ 'enterpriseValue': 26747850,
+ 'exDividendDate': 1406246400,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '781 276 4001',
+ 'fiftyDayAverage': 3.2474287,
+ 'fiftyTwoWeekHigh': 3.88,
+ 'fiftyTwoWeekLow': 2.02,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 12689304,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 71,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.39831,
+ 'heldPercentInstitutions': 0.35614,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/aware.com',
+ 'longBusinessSummary': 'Aware, Inc. provides software and services for the '
+                        'biometrics industry in the United States, the United '
+                        'Kingdom, Brazil, and internationally. It offers '
+                        'biometrics software products, including biometric '
+                        'search and matching software development kits (SDKs), '
+                        'biometric enrollment SDKs and application program '
+                        'interfaces (APIs), identity text analytics SDK Â\x96 '
+                        'Inquire, biometric services platform Â\x96 BioSP, and '
+                        'cluster-based matching platform Â\x96 Astra; and '
+                        'integrated solutions comprising Knomi, AwareABIS, '
+                        'WebEnroll, and Indigo, as well as biometric '
+                        'applications that enable various functions in '
+                        'biometrics systems, such as enrollment, analysis, and '
+                        'processing of biometric images and data on '
+                        'workstations or mobile devices; integration of '
+                        'peripheral biometric capture devices; centralized '
+                        'workflow, transaction processing, and subsystem '
+                        'integration; matching of biometric samples against '
+                        'biometric databases to authenticate or verify '
+                        'identities; and analysis and processing of text-based '
+                        'identity data. The company also provides imaging '
+                        'products for medical applications, such as JPEG2000 '
+                        'product to compress, store, and display images, as '
+                        'well as software maintenance services. In addition, '
+                        'it offers software engineering services comprising '
+                        'project planning and management; system design; '
+                        'software design, development, customization, '
+                        'configuration, and testing; and software integration '
+                        "and installation. The company's software products are "
+                        'used in government and commercial biometrics systems '
+                        'to identify or authenticate people. It sells its '
+                        'biometrics software products and services through '
+                        'systems integrators, OEMs, value added resellers, and '
+                        'directly to end user customers. Aware, Inc. was '
+                        'founded in 1986 and is headquartered in Bedford, '
+                        'Massachusetts.',
+ 'longName': 'Aware, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 73174464,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_348808',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -9628000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.06,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '781 276 4000',
+ 'previousClose': 3.31,
+ 'priceHint': 4,
+ 'priceToBook': 1.396304,
+ 'priceToSalesTrailing12Months': 6.1029577,
+ 'profitMargins': -0.80300003,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.42,
+ 'regularMarketDayLow': 3.06,
+ 'regularMarketOpen': 3.06,
+ 'regularMarketPreviousClose': 3.31,
+ 'regularMarketPrice': 3.06,
+ 'regularMarketVolume': 3801,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 21521900,
+ 'sharesPercentSharesOut': 0.0015,
+ 'sharesShort': 31568,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 31057,
+ 'shortName': 'Aware, Inc.',
+ 'shortPercentOfFloat': 0.002,
+ 'shortRatio': 2.22,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'AWRE',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.45,
+ 'twoHundredDayAverage': 3.08482,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '22a31981-47ef-303d-9638-28d86402d0e4',
+ 'volume': 3801,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.aware.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01730'}

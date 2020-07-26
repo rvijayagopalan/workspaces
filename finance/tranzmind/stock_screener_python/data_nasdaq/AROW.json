@@ -1,0 +1,163 @@
+{'52WeekChange': -0.11303854,
+ 'SandP52WeekChange': None,
+ 'address1': '250 Glen Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 28.49,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 33725,
+ 'averageVolume': 33484,
+ 'averageVolume10days': 33725,
+ 'beta': 0.634733,
+ 'beta3Year': None,
+ 'bid': 28.37,
+ 'bidSize': 800,
+ 'bookValue': 21.164,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Glens Falls',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 29.03,
+ 'dayLow': 28.06,
+ 'dividendRate': 1.04,
+ 'dividendYield': 0.0358,
+ 'earningsQuarterlyGrowth': 0.025,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.567,
+ 'enterpriseValue': 297068704,
+ 'exDividendDate': 1591056000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 28.468857,
+ 'fiftyTwoWeekHigh': 38.31,
+ 'fiftyTwoWeekLow': 20.79,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.08,
+ 'floatShares': 14506203,
+ 'forwardEps': 2.41,
+ 'forwardPE': 11.817427,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 520,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.03319,
+ 'heldPercentInstitutions': 0.42824,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1568592000,
+ 'lastSplitFactor': '103:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/arrowfinancial.com',
+ 'longBusinessSummary': 'Arrow Financial Corporation, a bank holding company, '
+                        'provides commercial and consumer banking, and '
+                        "financial products and services. The company's "
+                        'deposit products include demand deposits, '
+                        'interest-bearing checking accounts, savings deposits, '
+                        'time deposits, and other time deposits. Its lending '
+                        'activities comprise commercial loans, such as term '
+                        'loans, time notes, and lines of credit; and '
+                        'commercial real estate loans to finance real estate '
+                        'purchases, refinancing, expansions, and improvements '
+                        'to commercial properties, as well as commercial '
+                        'construction and land development loans to finance '
+                        "projects. The company's lending activities also "
+                        'include consumer installment loans to finance '
+                        'personal expenditures, personal lines of credit, '
+                        'overdraft protection, and automobile loans; and '
+                        'residential real estate loans, fixed home equity '
+                        'loans, and home equity lines of credit for consumers '
+                        'to finance home improvements, debt consolidation, '
+                        'education, and other uses. In addition, it maintains '
+                        'an indirect lending program; and sells residential '
+                        'real estate loan originations into the secondary '
+                        'market. Further, the company provides retirement '
+                        'planning, trust, and estate administration services '
+                        'for individuals; and pension, profit-sharing, and '
+                        'employee benefit plan administration services for '
+                        'corporations. Additionally, it offers insurance '
+                        'agency services comprising group health care policies '
+                        'and life insurance, and property and casualty '
+                        'insurance products; and investment advisory services '
+                        'to its proprietary mutual funds, as well as holds a '
+                        'real estate investment trust. The company operates in '
+                        'the northeastern region of New York State in Warren, '
+                        'Washington, Saratoga, Essex, Clinton, Rensselaer, '
+                        'Albany, and Schenectady counties, as well as '
+                        'surrounding areas. It owns twenty-seven branch '
+                        'banking offices; and leases thirteen branch banking '
+                        'offices, as well as two residential loan origination '
+                        'offices. The company was founded in 1851 and is '
+                        'headquartered in Glens Falls, New York.',
+ 'longName': 'Arrow Financial Corporation',
+ 'market': 'us_market',
+ 'marketCap': 427501888,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_251652',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 37093000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 28.74,
+ 'openInterest': None,
+ 'payoutRatio': 0.41869998,
+ 'pegRatio': 1.78,
+ 'phone': '518-745-1000',
+ 'previousClose': 29.02,
+ 'priceHint': 2,
+ 'priceToBook': 1.3456813,
+ 'priceToSalesTrailing12Months': 3.6937995,
+ 'profitMargins': 0.3205,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 29.03,
+ 'regularMarketDayLow': 28.06,
+ 'regularMarketOpen': 28.74,
+ 'regularMarketPreviousClose': 29.02,
+ 'regularMarketPrice': 28.74,
+ 'regularMarketVolume': 33407,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 15010600,
+ 'sharesPercentSharesOut': 0.0069999998,
+ 'sharesShort': 105067,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 61686,
+ 'shortName': 'Arrow Financial Corporation',
+ 'shortPercentOfFloat': 0.0073,
+ 'shortRatio': 2.87,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'AROW',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.032,
+ 'trailingAnnualDividendYield': 0.03556168,
+ 'trailingEps': 2.47,
+ 'trailingPE': 11.530364,
+ 'twoHundredDayAverage': 29.854532,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '374d6140-d012-32d9-9f1b-8b846992b2a0',
+ 'volume': 33407,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.arrowfinancial.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '12801'}

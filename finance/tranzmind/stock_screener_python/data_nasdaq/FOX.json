@@ -1,0 +1,155 @@
+{'52WeekChange': -0.30301422,
+ 'SandP52WeekChange': None,
+ 'address1': '1211 Avenue of the Americas',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 26.5,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 1252725,
+ 'averageVolume': 1306461,
+ 'averageVolume10days': 1252725,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 26.48,
+ 'bidSize': 800,
+ 'bookValue': 16.753,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 27.19,
+ 'dayLow': 26.18,
+ 'dividendRate': 0.46,
+ 'dividendYield': 0.0178,
+ 'earningsQuarterlyGrowth': -0.853,
+ 'enterpriseToEbitda': 7.426,
+ 'enterpriseToRevenue': 1.645,
+ 'enterpriseValue': 20392560640,
+ 'exDividendDate': 1583193600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 26.999172,
+ 'fiftyTwoWeekHigh': 38.84,
+ 'fiftyTwoWeekLow': 19.13,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 461707435,
+ 'forwardEps': 2.35,
+ 'forwardPE': 11.272341,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7700,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.39560002,
+ 'heldPercentInstitutions': 0.5957,
+ 'industry': 'Broadcasting',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/foxcorporation.com',
+ 'longBusinessSummary': 'Fox Corporation operates as a news, sports, and '
+                        'entertainment company in the United States. The '
+                        'company operates through Cable Network Programming; '
+                        'Television; and Other, Corporate and Eliminations '
+                        'segments. The Cable Network Programming segment '
+                        'produces and licenses news, business news, and sports '
+                        'content for distribution primarily through cable '
+                        'television systems, direct broadcast satellite '
+                        'operators, telecommunications companies, and online '
+                        'multi-channel video programming distributors. It '
+                        'operates FOX News, a national cable news channel; FOX '
+                        'Business, a business news national cable channel; FS1 '
+                        'and FS2 multi-sport national networks; FOX Sports '
+                        'Racing, a video programming service that comprise '
+                        'motor sports programming; and FOX Soccer Plus video '
+                        'programming network for live soccer and rugby '
+                        'competitions; FOX Deportes, a Spanish-language sports '
+                        'programming service; and Big Ten Network, a national '
+                        'video programming service. The Television segment '
+                        'acquires, produces, markets, and distributes '
+                        'broadcast network programming. It operates The FOX '
+                        'Network, a national television broadcast network that '
+                        'broadcasts sports programming and entertainment. This '
+                        'segment owns and operates 28 broadcast television '
+                        'stations. The Other, Corporate and Eliminations '
+                        'segment owns the FOX Studios lot that provides '
+                        'production services, including 15 sound stages, 4 '
+                        'scoring and mixing stages, 2 broadcast studios, '
+                        'theaters and screening rooms, editing bays, and other '
+                        'production facilities in Los Angeles, California. The '
+                        'company was incorporated in 2018 and is based in New '
+                        'York, New York.',
+ 'longName': 'Fox Corporation',
+ 'market': 'us_market',
+ 'marketCap': 16030768128,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_546623668',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1331000064,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 26.48,
+ 'openInterest': None,
+ 'payoutRatio': 0.3209,
+ 'pegRatio': 2.72,
+ 'phone': '212-852-7000',
+ 'previousClose': 26.13,
+ 'priceHint': 2,
+ 'priceToBook': 1.5812093,
+ 'priceToSalesTrailing12Months': 1.2930124,
+ 'profitMargins': 0.10736,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 27.19,
+ 'regularMarketDayLow': 26.18,
+ 'regularMarketOpen': 26.48,
+ 'regularMarketPreviousClose': 26.13,
+ 'regularMarketPrice': 26.48,
+ 'regularMarketVolume': 857369,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 261078000,
+ 'sharesPercentSharesOut': 0.0046,
+ 'sharesShort': 2751995,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2212171,
+ 'shortName': 'Fox Corporation',
+ 'shortPercentOfFloat': 0.0175,
+ 'shortRatio': 1.81,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'FOX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.69,
+ 'trailingAnnualDividendYield': 0.02640643,
+ 'trailingEps': 2.149,
+ 'trailingPE': 12.326664,
+ 'twoHundredDayAverage': 28.83393,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '1cbdb804-3b37-37c9-8a83-582f9218c8b4',
+ 'volume': 857369,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.foxcorporation.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10036'}

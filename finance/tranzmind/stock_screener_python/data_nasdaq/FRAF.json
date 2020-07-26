@@ -1,0 +1,152 @@
+{'52WeekChange': -0.33625656,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '20 South Main Street',
+ 'address2': 'PO Box 6010',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24.5,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 7737,
+ 'averageVolume': 10938,
+ 'averageVolume10days': 7737,
+ 'beta': 0.674509,
+ 'beta3Year': None,
+ 'bid': 24.15,
+ 'bidSize': 1100,
+ 'bookValue': 29.742,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chambersburg',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 25.26,
+ 'dayLow': 24.22,
+ 'dividendRate': 1.2,
+ 'dividendYield': 0.0477,
+ 'earningsQuarterlyGrowth': -0.469,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.502,
+ 'enterpriseValue': 83161072,
+ 'exDividendDate': 1596672000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 25.258858,
+ 'fiftyTwoWeekHigh': 38.99,
+ 'fiftyTwoWeekLow': 20.27,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.09,
+ 'floatShares': 4135689,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 283,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.04141,
+ 'heldPercentInstitutions': 0.21145001,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1088467200,
+ 'lastSplitFactor': '125:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/franklinfin.com',
+ 'longBusinessSummary': 'Franklin Financial Services Corporation operates as '
+                        'the bank holding company for Farmers and Merchants '
+                        'Trust Company of Chambersburg that provides '
+                        'commercial, retail banking, and trust services to '
+                        'small and medium-sized businesses, individuals, '
+                        'governmental entities, and non-profit organizations '
+                        'in Pennsylvania. It offers various deposit products, '
+                        'including checking, savings, and time deposit '
+                        'accounts. The company also provides commercial real '
+                        'estate, construction and land development, '
+                        'agricultural, commercial and industrial, and '
+                        'residential mortgage loans, as well as installment '
+                        'and revolving loans to consumers; and secured and '
+                        'unsecured commercial and industrial loans, including '
+                        'accounts receivable and inventory financing, and '
+                        'commercial equipment financing. In addition, it '
+                        'offers various investment and trust services '
+                        'comprising estate planning and administration, '
+                        'corporate and personal trust fund management, '
+                        'pension, and profit sharing and other employee '
+                        'benefit funds management services, as well as '
+                        'custodial services; sells mutual funds, annuities, '
+                        'and insurance products; and offers safe deposit '
+                        'facilities and fiduciary services. Further, the '
+                        'company, through its subsidiary, Franklin Future Fund '
+                        'Inc., operates as a non-bank investment company that '
+                        'makes venture capital investments. It operates 22 '
+                        'community banking offices in Franklin, Cumberland, '
+                        'Fulton, and Huntingdon counties in Pennsylvania. The '
+                        'company was founded in 1906 and is headquartered in '
+                        'Chambersburg, Pennsylvania.',
+ 'longName': 'Franklin Financial Services Corporation',
+ 'market': 'us_market',
+ 'marketCap': 105135144,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3110623',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 14597000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 24.85,
+ 'openInterest': None,
+ 'payoutRatio': 0.36040002,
+ 'pegRatio': None,
+ 'phone': '717-264-6116',
+ 'previousClose': 25.15,
+ 'priceHint': 2,
+ 'priceToBook': 0.8143366,
+ 'priceToSalesTrailing12Months': 1.899289,
+ 'profitMargins': 0.2637,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.26,
+ 'regularMarketDayLow': 24.22,
+ 'regularMarketOpen': 24.85,
+ 'regularMarketPreviousClose': 25.15,
+ 'regularMarketPrice': 24.85,
+ 'regularMarketVolume': 4439,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 4340840,
+ 'sharesPercentSharesOut': 0.0070999996,
+ 'sharesShort': 30748,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 14934,
+ 'shortName': 'Franklin Financial Services Cor',
+ 'shortPercentOfFloat': 0.0075,
+ 'shortRatio': 2.35,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'FRAF',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.2,
+ 'trailingAnnualDividendYield': 0.04771372,
+ 'trailingEps': 3.334,
+ 'trailingPE': 7.264547,
+ 'twoHundredDayAverage': 28.777338,
+ 'volume': 4439,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.franklinfin.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '17201'}

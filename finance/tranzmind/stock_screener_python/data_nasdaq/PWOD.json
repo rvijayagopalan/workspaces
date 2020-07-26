@@ -1,0 +1,153 @@
+{'52WeekChange': -0.32531452,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '300 Market Street',
+ 'address2': 'PO Box 967',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 20.6,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 8475,
+ 'averageVolume': 10690,
+ 'averageVolume10days': 8475,
+ 'beta': 0.62745,
+ 'beta3Year': None,
+ 'bid': 20.32,
+ 'bidSize': 900,
+ 'bookValue': 22.66,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Williamsport',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 20.79,
+ 'dayLow': 20.38,
+ 'dividendRate': 1.28,
+ 'dividendYield': 0.0612,
+ 'earningsQuarterlyGrowth': -0.114,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.082,
+ 'enterpriseValue': 118623056,
+ 'exDividendDate': 1591574400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 22.312286,
+ 'fiftyTwoWeekHigh': 36.27,
+ 'fiftyTwoWeekLow': 18.72,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 4.4,
+ 'floatShares': 6758189,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 334,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03872,
+ 'heldPercentInstitutions': 0.27507,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1569888000,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pwod.com',
+ 'longBusinessSummary': 'Penns Woods Bancorp, Inc. operates as the bank '
+                        'holding company for Jersey Shore State Bank and '
+                        'Luzerne Bank, which provides commercial and retail '
+                        'banking services to individuals, partnerships, '
+                        'non-profit organizations, and corporations. The '
+                        'company accepts time, demand, and savings deposits, '
+                        'including super NOW accounts, statement savings '
+                        'accounts, money market accounts, and certificates of '
+                        'deposit, as well as checking accounts and IRAs. It '
+                        'also offers loan products comprising residential, '
+                        'commercial, and construction real estate loans; '
+                        'agricultural loans for the purchase or improvement of '
+                        'real estate; commercial loans for the acquisition and '
+                        'improvement of real estate, purchase of equipment, '
+                        'and working capital purposes; letters of credit; '
+                        'consumer loans, such as residential mortgages, home '
+                        'equity loans and lines, automobile financing, '
+                        'personal loans and lines of credit, and overdraft and '
+                        'check lines; and revolving credit loans with '
+                        'overdraft protection. In addition, the company '
+                        'provides securities brokerage and financial planning '
+                        'services, which include the sale of life insurance '
+                        'products, annuities, and estate planning services; '
+                        'property and casualty, and auto insurance products; '
+                        'safe deposit services; ATM services; and Internet and '
+                        'telephone banking services. Further, it engages in '
+                        'real estate transactions and investment activities. '
+                        'The company operates through a network of twenty-six '
+                        'offices located in Clinton, Lycoming, Centre, '
+                        'Montour, Union, and Luzerne counties, Pennsylvania. '
+                        'Penns Woods Bancorp, Inc. was incorporated in 1983 '
+                        'and is based in Williamsport, Pennsylvania.',
+ 'longName': 'Penns Woods Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 143523088,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_375948',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 14316000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 20.68,
+ 'openInterest': None,
+ 'payoutRatio': 0.6119,
+ 'pegRatio': None,
+ 'phone': '570-322-1111',
+ 'previousClose': 20.92,
+ 'priceHint': 2,
+ 'priceToBook': 0.8993821,
+ 'priceToSalesTrailing12Months': 2.5194075,
+ 'profitMargins': 0.25129998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 20.79,
+ 'regularMarketDayLow': 20.38,
+ 'regularMarketOpen': 20.68,
+ 'regularMarketPreviousClose': 20.92,
+ 'regularMarketPrice': 20.68,
+ 'regularMarketVolume': 5873,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 7042350,
+ 'sharesPercentSharesOut': 0.006,
+ 'sharesShort': 42314,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 25042,
+ 'shortName': 'Penns Woods Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0061000003,
+ 'shortRatio': 3.35,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'PWOD',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.27,
+ 'trailingAnnualDividendYield': 0.060707457,
+ 'trailingEps': 2.012,
+ 'trailingPE': 10.129224,
+ 'twoHundredDayAverage': 25.185467,
+ 'volume': 5873,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pwod.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '17703-0967'}

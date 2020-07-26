@@ -1,0 +1,154 @@
+{'52WeekChange': -0.38477647,
+ 'SandP52WeekChange': None,
+ 'address1': '652 Albany Shaker Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 8.81,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 11550,
+ 'averageVolume': 19165,
+ 'averageVolume10days': 11550,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 7.9,
+ 'bidSize': 1000,
+ 'bookValue': 8.957,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Albany',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 8.94,
+ 'dayLow': 8.72,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.822,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 0.174,
+ 'enterpriseValue': 7937551,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '518-730-3000',
+ 'fiftyDayAverage': 9.096857,
+ 'fiftyTwoWeekHigh': 15.35,
+ 'fiftyTwoWeekLow': 8.06,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 10536935,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 247,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.55764,
+ 'heldPercentInstitutions': 0.16305,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pioneerbanking.com',
+ 'longBusinessSummary': 'Pioneer Bancorp, Inc. operates as a holding company '
+                        'for Pioneer Savings Bank that provides various '
+                        'banking products and services in New York. The '
+                        'company accepts various deposit products, such as '
+                        'demand, savings, and money market accounts, as well '
+                        'as certificates of deposit accounts. Its loan '
+                        'products include commercial real estate, commercial '
+                        'and industrial, commercial construction, one- to '
+                        'four-family residential real estate, home equity, and '
+                        'consumer loans; and home equity lines of credit. The '
+                        'company also invests in the U.S. governmental '
+                        'securities, fixed rate collateralized mortgage '
+                        'obligations, mortgage-backed securities, fixed-rate '
+                        'investment grade bonds, and equity securities. In '
+                        'addition, the company offers personal and commercial '
+                        'insurance products, including homeowners, automobile, '
+                        'and comprehensive business insurance; employee '
+                        'benefit products and services, such as group health, '
+                        'dental, disability, and life insurance products, as '
+                        'well as defined contribution, defined benefit '
+                        'administration, and human resource management '
+                        'services; and wealth management services comprising '
+                        'investment advice, retirement income planning, estate '
+                        'planning, business succession, and employer '
+                        'retirement planning. As of July 17, 2019, it operated '
+                        '22 banking offices in Albany, Greene, Rensselaer, '
+                        'Saratoga, Schenectady, and Warren Counties in New '
+                        'York. The company was founded in 1889 and is based in '
+                        'Albany, New York. Pioneer Bancorp, Inc. is as a '
+                        'subsidiary of Pioneer Bancorp, MHC.',
+ 'longName': 'Pioneer Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 226525552,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_30660066',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -2991000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 8.8458,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '518-730-3999',
+ 'previousClose': 8.81,
+ 'priceHint': 2,
+ 'priceToBook': 0.9735403,
+ 'priceToSalesTrailing12Months': 4.9534354,
+ 'profitMargins': -0.0654,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 8.94,
+ 'regularMarketDayLow': 8.72,
+ 'regularMarketOpen': 8.8458,
+ 'regularMarketPreviousClose': 8.81,
+ 'regularMarketPrice': 8.8458,
+ 'regularMarketVolume': 10096,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 25977700,
+ 'sharesPercentSharesOut': 0.0091,
+ 'sharesShort': 237561,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 150082,
+ 'shortName': 'Pioneer Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0207,
+ 'shortRatio': 10.63,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'PBFS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.073,
+ 'trailingPE': 119.45206,
+ 'twoHundredDayAverage': 11.041007,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f1c09e15-31b7-35d4-acea-8f71423e5c54',
+ 'volume': 10096,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pioneerbanking.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '12211'}

@@ -1,0 +1,161 @@
+{'52WeekChange': -0.23333025,
+ 'SandP52WeekChange': None,
+ 'address1': '6200 South Gilmore Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 83.29,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 1142312,
+ 'averageVolume': 1608371,
+ 'averageVolume10days': 1142312,
+ 'beta': 0.521568,
+ 'beta3Year': None,
+ 'bid': 72.95,
+ 'bidSize': 900,
+ 'bookValue': 50.012,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Fairfield',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 83.73,
+ 'dayLow': 81.905,
+ 'dividendRate': 2.4,
+ 'dividendYield': 0.029000001,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 88.264,
+ 'enterpriseToRevenue': 2.446,
+ 'enterpriseValue': 13857511424,
+ 'exDividendDate': 1592265600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 68.34314,
+ 'fiftyTwoWeekHigh': 118.19,
+ 'fiftyTwoWeekLow': 46.07,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.68,
+ 'floatShares': 156537074,
+ 'forwardEps': 3.67,
+ 'forwardPE': 22.678474,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5148,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.06571,
+ 'heldPercentInstitutions': 0.64910007,
+ 'industry': 'Insurance—Property & Casualty',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1112572800,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cinfin.com',
+ 'longBusinessSummary': 'Cincinnati Financial Corporation, together with its '
+                        'subsidiary, provides property casualty insurance '
+                        'products in the United States. The company operates '
+                        'in five segments: Commercial Lines Insurance, '
+                        'Personal Lines Insurance, Excess and Surplus Lines '
+                        'Insurance, Life Insurance, and Investments. The '
+                        'Commercial Lines Insurance segment offers coverage '
+                        'for commercial casualty, commercial property, '
+                        "commercial auto, and workers' compensation. It also "
+                        'provides director and officer liability insurance, '
+                        'contract and commercial surety bonds, and fidelity '
+                        'bonds; and machinery and equipment coverage. The '
+                        'Personal Lines Insurance segment offers personal auto '
+                        'insurance; homeowners insurance; and dwelling fire, '
+                        'inland marine, personal umbrella liability, and '
+                        'watercraft coverages to individuals. The Excess and '
+                        'Surplus Lines Insurance segment offers commercial '
+                        'casualty insurance that covers businesses for '
+                        'third-party liability from accidents occurring on '
+                        'their premises or arising out of their operations, '
+                        'such as injuries sustained from products; and '
+                        'commercial property insurance, which insures '
+                        'buildings, inventory, equipment, and business income '
+                        'from loss or damage due to various causes, such as '
+                        'fire, wind, hail, water, theft, and vandalism. The '
+                        'Life Insurance segment provides term life insurance '
+                        'products; universal life insurance products; worksite '
+                        'products, such as term life; and whole life insurance '
+                        'products, as well as markets deferred annuities and '
+                        'immediate annuities. The Investments segment invests '
+                        'in fixed-maturity investments, including taxable and '
+                        'tax-exempt bonds, and redeemable preferred stocks; '
+                        'and equity investments comprising common and '
+                        'nonredeemable preferred stocks. The company also '
+                        'offers commercial leasing and financing services; and '
+                        'insurance brokerage services. Cincinnati Financial '
+                        'Corporation was founded in 1950 and is headquartered '
+                        'in Fairfield, Ohio.',
+ 'longName': 'Cincinnati Financial Corporation',
+ 'market': 'us_market',
+ 'marketCap': 13383550976,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_260681',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 76000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 83.01,
+ 'openInterest': None,
+ 'payoutRatio': 7.125,
+ 'pegRatio': -5.29,
+ 'phone': '513-870-2000',
+ 'previousClose': 82.67,
+ 'priceHint': 2,
+ 'priceToBook': 1.6642007,
+ 'priceToSalesTrailing12Months': 2.362081,
+ 'profitMargins': 0.013409999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 83.73,
+ 'regularMarketDayLow': 81.905,
+ 'regularMarketOpen': 83.01,
+ 'regularMarketPreviousClose': 82.67,
+ 'regularMarketPrice': 83.01,
+ 'regularMarketVolume': 1039660,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 160802000,
+ 'sharesPercentSharesOut': 0.0252,
+ 'sharesShort': 4058532,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2951348,
+ 'shortName': 'Cincinnati Financial Corporatio',
+ 'shortPercentOfFloat': 0.0313,
+ 'shortRatio': 2.59,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'CINF',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.28,
+ 'trailingAnnualDividendYield': 0.027579533,
+ 'trailingEps': 0.466,
+ 'trailingPE': 178.60516,
+ 'twoHundredDayAverage': 81.02,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b2e48529-032e-3596-9b1c-09d0c88a349a',
+ 'volume': 1039660,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cinfin.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '45014-5141'}

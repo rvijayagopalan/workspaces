@@ -1,0 +1,154 @@
+{'52WeekChange': -0.4660465,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1836 Spirit of Texas Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.53,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 50800,
+ 'averageVolume': 51163,
+ 'averageVolume10days': 50800,
+ 'beta': 1.04448,
+ 'beta3Year': None,
+ 'bid': 11.51,
+ 'bidSize': 1000,
+ 'bookValue': 20.012,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Conroe',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.65,
+ 'dayLow': 11.48,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.32,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.573,
+ 'enterpriseValue': 157123216,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '281-516-4920',
+ 'fiftyDayAverage': 11.962857,
+ 'fiftyTwoWeekHigh': 23.48,
+ 'fiftyTwoWeekLow': 8.96,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 13224779,
+ 'forwardEps': 0.85,
+ 'forwardPE': 13.505881,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 395,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.22048001,
+ 'heldPercentInstitutions': 0.40633,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sotb.com',
+ 'longBusinessSummary': 'Spirit of Texas Bancshares, Inc. operates as the '
+                        'holding company for Spirit of Texas Bank SSB that '
+                        'provides various commercial and retail banking '
+                        'services. It offers checking, money market, savings, '
+                        'and individual retirement accounts, as well as '
+                        'various certificates of deposit. The company also '
+                        'provides commercial and industrial loans; 1-4 single '
+                        'family residential real estate loans; construction, '
+                        'land, and development loans; commercial real estate '
+                        'loans, such as owner and nonowner-occupied commercial '
+                        'real estate loans, other commercial real estate '
+                        'loans, and multifamily loans and farmland; consumer '
+                        'loans and leases; and municipal and other loans. In '
+                        'addition, it offers a range of ancillary banking '
+                        'services, including treasury management, wire '
+                        'transfer, ATM access, and co-branded credit card '
+                        'services; consumer and commercial online banking '
+                        'services; merchant services, including credit card '
+                        'processing; and mobile applications, safe deposit '
+                        'boxes, and debit and credit cards. Further, the '
+                        'company invests in U.S. Treasury bills and notes, as '
+                        'well as in securities of federally sponsored '
+                        'agencies, such as Federal Home Loan Bank bonds. As of '
+                        'April 16, 2020, it operated through a network of 41 '
+                        'full-service branches located in the Houston, '
+                        'Dallas/Fort Worth, Austin, Bryan/College Station, San '
+                        'Antonio-New Braunfels, Corpus Christi, and Tyler '
+                        'metropolitan areas, as well as offices in North '
+                        'Central Texas. The company serves individuals, '
+                        'professionals, small and medium-sized businesses, and '
+                        'commercial companies. Spirit of Texas Bancshares, '
+                        'Inc. was founded in 2008 and is headquartered in '
+                        'Conroe, Texas.',
+ 'longName': 'Spirit of Texas Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 199391520,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_558228554',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 23267000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 11.59,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 18.4,
+ 'phone': '936-521-1836',
+ 'previousClose': 11.59,
+ 'priceHint': 2,
+ 'priceToBook': 0.5736558,
+ 'priceToSalesTrailing12Months': 1.9962908,
+ 'profitMargins': 0.23295,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.65,
+ 'regularMarketDayLow': 11.48,
+ 'regularMarketOpen': 11.59,
+ 'regularMarketPreviousClose': 11.59,
+ 'regularMarketPrice': 11.59,
+ 'regularMarketVolume': 19435,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 17368600,
+ 'sharesPercentSharesOut': 0.0154,
+ 'sharesShort': 271478,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 223278,
+ 'shortName': 'Spirit of Texas Bancshares, Inc',
+ 'shortPercentOfFloat': 0.0201,
+ 'shortRatio': 6.22,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'STXB',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.341,
+ 'trailingPE': 8.560776,
+ 'twoHundredDayAverage': 14.185756,
+ 'volume': 19435,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sotb.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '77301'}

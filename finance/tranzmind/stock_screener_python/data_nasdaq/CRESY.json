@@ -1,0 +1,154 @@
+{'52WeekChange': -0.6310212,
+ 'SandP52WeekChange': None,
+ 'address1': 'Moreno 877',
+ 'address2': '23rd Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.83,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 258650,
+ 'averageVolume': 258374,
+ 'averageVolume10days': 258650,
+ 'beta': 1.366435,
+ 'beta3Year': None,
+ 'bid': 3.73,
+ 'bidSize': 900,
+ 'bookValue': 20.97,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Buenos Aires',
+ 'companyOfficers': [],
+ 'country': 'Argentina',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.86,
+ 'dayLow': 3.74,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 187503792,
+ 'exDividendDate': 1510272000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.5222857,
+ 'fiftyTwoWeekHigh': 10.68,
+ 'fiftyTwoWeekLow': 2.32,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 27460692,
+ 'forwardEps': 2.19,
+ 'forwardPE': 1.739726,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0057300003,
+ 'heldPercentInstitutions': 0.27449,
+ 'industry': 'Farm Products',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1541635200,
+ 'lastSplitFactor': '1:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cresud.com.ar',
+ 'longBusinessSummary': 'Cresud Sociedad Anónima Comercial, Inmobiliaria, '
+                        'Financiera y Agropecuaria, an agricultural company, '
+                        'produces basic agricultural commodities in Brazil and '
+                        'other Latin American countries. It operates through '
+                        'Agricultural Business, and Urban Properties and '
+                        'Investment Business segments. The Agricultural '
+                        'Business segment is involved in the planting, '
+                        'harvesting, and sale of crops, such as wheat, corn, '
+                        'soybeans, cotton, and sunflower, as well as '
+                        'sugarcane; sale of grain derivatives, including flour '
+                        'and oil; breeding, purchasing, and fattening of '
+                        'cattle for sale to meat processors and local '
+                        'livestock auction markets; provision of agricultural '
+                        'services; leasing of farms to third parties; disposal '
+                        'and development of farmlands; and feedlot farming, as '
+                        'well as meat slaughtering and processing activities. '
+                        'The Urban Properties and Investment Business segment '
+                        'leases, rents, and services commercial and other '
+                        'spaces in shopping malls; leases offices and other '
+                        'rental spaces; develops, maintains, and sells '
+                        'undeveloped parcels of land and/or trading '
+                        'properties; operates hotels; and provides consumer '
+                        'financing services, as well as engages in '
+                        'entertainment activities. It also operates '
+                        'residential properties and supermarkets; and offers '
+                        'mobile communication, landline telephone, '
+                        'international telephone, Internet connectivity, and '
+                        'television services, as well as engages in '
+                        'technological development, tourism, oil and gas, and '
+                        'electronics businesses. The company was founded in '
+                        '1936 and is headquartered in Buenos Aires, Argentina.',
+ 'longName': 'Cresud Sociedad Anonima Comercial, Inmobiliaria, Financiera y '
+             'Agropecuaria',
+ 'market': 'us_market',
+ 'marketCap': 310656352,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_405851',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 3.83,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '54 11 4814 7800',
+ 'previousClose': 3.83,
+ 'priceHint': 4,
+ 'priceToBook': 0.18168813,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': -0.20346001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.86,
+ 'regularMarketDayLow': 3.74,
+ 'regularMarketOpen': 3.83,
+ 'regularMarketPreviousClose': 3.83,
+ 'regularMarketPrice': 3.83,
+ 'regularMarketVolume': 135812,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 50164300,
+ 'sharesPercentSharesOut': 0.0138,
+ 'sharesShort': 693598,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 888275,
+ 'shortName': 'Cresud S.A.C.I.F. y A.',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 3.14,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'CRESY',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.026,
+ 'trailingAnnualDividendYield': 0.006788512,
+ 'trailingEps': 5.42,
+ 'trailingPE': 0.702952,
+ 'twoHundredDayAverage': 4.012374,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e22dffb6-656e-36b1-aa0c-e5646ae11bda',
+ 'volume': 135812,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cresud.com.ar',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'C1091AAQ'}

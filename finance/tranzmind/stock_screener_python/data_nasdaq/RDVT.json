@@ -1,0 +1,148 @@
+{'52WeekChange': -0.0162822,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2650 North Military Trail',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.57,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 45150,
+ 'averageVolume': 88903,
+ 'averageVolume10days': 45150,
+ 'beta': 0.385449,
+ 'beta3Year': None,
+ 'bid': 14.39,
+ 'bidSize': 2200,
+ 'bookValue': 3.746,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Boca Raton',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.92,
+ 'dayLow': 14.38,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -18.012,
+ 'enterpriseToRevenue': 4.713,
+ 'enterpriseValue': 159550224,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 17.238857,
+ 'fiftyTwoWeekHigh': 28.698,
+ 'fiftyTwoWeekLow': 10.33,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 6273714,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 107,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.53051996,
+ 'heldPercentInstitutions': 0.20639999,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/redviolet.com',
+ 'longBusinessSummary': 'Red Violet, Inc., a software and services company, '
+                        'specializes in data fusion and analytics providing '
+                        'cloud-based mission-critical information solutions to '
+                        'enterprises in the United States. It offers idiCORE, '
+                        'an investigative solution used to address various '
+                        'organizational challenges, which include due '
+                        'diligence, risk mitigation, identity authentication, '
+                        'and legislative compliance; and FOREWARN, an '
+                        'app-based solution that provides instant knowledge '
+                        'before face-to-face engagement with a consumer, and '
+                        'help professionals to identify and mitigate risk. The '
+                        'company serves financial services, insurance, '
+                        'healthcare, retail, and telecommunication companies; '
+                        'law enforcement and government agencies; and '
+                        'collections, corporate security, and investigative '
+                        'law firms, as well as various types of corporate risk '
+                        'for purposes, such as identity verification, risk '
+                        'assessment, fraud detection, and compliance. It '
+                        'markets its products and services through value-added '
+                        'distributors, resellers, and strategic partners; and '
+                        'trade shows and seminars, advertising, public '
+                        'relations, distribution of sales literature, and '
+                        'product specifications and ongoing communication with '
+                        'prospective clients, distributors, resellers, '
+                        'strategic partners, and installed base of current '
+                        'clients, as well as through direct sales. The company '
+                        'was founded in 2017 and is headquartered in Boca '
+                        'Raton, Florida.',
+ 'longName': 'Red Violet, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 168171008,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_536884102',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -11179000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.75,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '561 757 4000',
+ 'previousClose': 14.89,
+ 'priceHint': 2,
+ 'priceToBook': 3.8707955,
+ 'priceToSalesTrailing12Months': 4.9678307,
+ 'profitMargins': -0.33023,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.92,
+ 'regularMarketDayLow': 14.38,
+ 'regularMarketOpen': 14.75,
+ 'regularMarketPreviousClose': 14.89,
+ 'regularMarketPrice': 14.75,
+ 'regularMarketVolume': 34746,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 11598000,
+ 'sharesPercentSharesOut': 0.109799996,
+ 'sharesShort': 1273163,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1050492,
+ 'shortName': 'Red Violet, Inc.',
+ 'shortPercentOfFloat': 0.1983,
+ 'shortRatio': 9.23,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'RDVT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.008,
+ 'twoHundredDayAverage': 19.188057,
+ 'volume': 34746,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.redviolet.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '33431'}

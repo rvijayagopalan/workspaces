@@ -1,0 +1,157 @@
+{'52WeekChange': 0.13333344,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '4281 Technology Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.76,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 388937,
+ 'averageVolume': 384709,
+ 'averageVolume10days': 388937,
+ 'beta': 2.019607,
+ 'beta3Year': None,
+ 'bid': 4.64,
+ 'bidSize': 2900,
+ 'bookValue': 4.624,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Fremont',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 5.27,
+ 'dayLow': 4.75,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.751,
+ 'enterpriseToEbitda': 143.502,
+ 'enterpriseToRevenue': 2.217,
+ 'enterpriseValue': 179807488,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '510-353-0668',
+ 'fiftyDayAverage': 4.8514285,
+ 'fiftyTwoWeekHigh': 5.99,
+ 'fiftyTwoWeekLow': 1.85,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 37401537,
+ 'forwardEps': 0.18,
+ 'forwardPE': 26.444445,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 988,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.06172,
+ 'heldPercentInstitutions': 0.60688,
+ 'industry': 'Semiconductor Equipment & Materials',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/axt.com',
+ 'longBusinessSummary': 'AXT, Inc. researches, develops, and produces compound '
+                        'and single element semiconductor substrates. It '
+                        'produces semiconductor substrates using its '
+                        'proprietary vertical gradient freeze technology. The '
+                        'company offers indium phosphide (InP) for use in '
+                        'fiber optic lasers and detectors, passive optical '
+                        'networks, data center connectivity, silicon '
+                        'photonics, photonic integrated circuits, terrestrial '
+                        'solar cells, radio frequency amplifier and switching, '
+                        'infrared light-emitting diode (LEDs) motion control, '
+                        'and infrared thermal imaging. It also provides '
+                        'semi-insulating gallium arsenide (GaAs) substrates '
+                        'for applications in power amplifiers, direct '
+                        'broadcast television, transistors, satellite '
+                        'communications, and solar cells; and semi-conducting '
+                        'GaAs substrates that are used in 3-D sensing, data '
+                        'center communication, high brightness LEDs, lasers, '
+                        'near-infrared sensors, printer head lasers and LEDs, '
+                        'optical couplers, solar cells, and night vision '
+                        'goggles, as well as laser machining, cutting, and '
+                        'drilling. In addition, the company offers germanium '
+                        '(Ge) substrates for use in satellite solar cells, '
+                        'optical sensors and detectors, terrestrial '
+                        'concentrated photo voltaic cells, multi-junction '
+                        'solar cells for satellites, and infrared detectors. '
+                        'Further, it provides materials, including raw '
+                        'gallium, gallium alloys, InP poly-crystal, high '
+                        'purity gallium, arsenic, Ge, Ge dioxide, pyrolytic '
+                        'boron nitride crucibles, and boron oxide. AXT, Inc. '
+                        'sells its products through direct salesforce in the '
+                        'United States, China, and Europe, as well as through '
+                        'independent sales representatives and distributors in '
+                        'Japan, Taiwan, Korea, and internationally. The '
+                        'company was formerly known as American Xtal '
+                        'Technology, Inc. and changed its name to AXT, Inc. in '
+                        'July 2000. AXT, Inc. was founded in 1986 and is '
+                        'headquartered in Fremont, California.',
+ 'longName': 'AXT, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 194426496,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_383981',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': -2941000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 5.23,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 13.2,
+ 'phone': '510-438-4700',
+ 'previousClose': 5.28,
+ 'priceHint': 4,
+ 'priceToBook': 1.0294118,
+ 'priceToSalesTrailing12Months': 2.397131,
+ 'profitMargins': -0.03408,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 5.27,
+ 'regularMarketDayLow': 4.75,
+ 'regularMarketOpen': 5.23,
+ 'regularMarketPreviousClose': 5.28,
+ 'regularMarketPrice': 5.23,
+ 'regularMarketVolume': 446098,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 40845900,
+ 'sharesPercentSharesOut': 0.028800001,
+ 'sharesShort': 1175954,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1155763,
+ 'shortName': 'AXT Inc',
+ 'shortPercentOfFloat': 0.0304,
+ 'shortRatio': 3.73,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'AXTI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.075,
+ 'twoHundredDayAverage': 4.2715106,
+ 'volume': 446098,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.axt.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94538'}

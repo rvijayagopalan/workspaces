@@ -1,0 +1,150 @@
+{'52WeekChange': 0.5504787,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '100 First Street',
+ 'address2': 'Suite 600',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 205.62,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 1370975,
+ 'averageVolume': 2027287,
+ 'averageVolume10days': 1370975,
+ 'beta': 1.057065,
+ 'beta3Year': None,
+ 'bid': 204,
+ 'bidSize': 800,
+ 'bookValue': 3.315,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Francisco',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 208.95,
+ 'dayLow': 199.102,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -142.716,
+ 'enterpriseToRevenue': 39.364,
+ 'enterpriseValue': 25338945536,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 200.70589,
+ 'fiftyTwoWeekHigh': 224.9,
+ 'fiftyTwoWeekLow': 88.66,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 114875997,
+ 'forwardEps': -0.02,
+ 'forwardPE': -10282,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2379,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01581,
+ 'heldPercentInstitutions': 0.79955,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/okta.com',
+ 'longBusinessSummary': 'Okta, Inc. provides identity management platforms for '
+                        'enterprises, small and medium-sized businesses, '
+                        'universities, non-profits, and government agencies in '
+                        'the United States and internationally. The company '
+                        'offers Okta Identity Cloud, a platform that offers a '
+                        'suite of products to manage and secure identities, '
+                        'such as Universal Directory, a cloud-based system of '
+                        'record to store and secure user, application, and '
+                        'device profiles for an organization; and Single '
+                        'Sign-On that enables users to access their '
+                        'applications in the cloud or on-premise from various '
+                        'devices with a single entry of their user '
+                        'credentials. It also provides Adaptive Multi-Factor '
+                        'Authentication, a product that provides an additional '
+                        'layer of security for cloud, mobile, and Web '
+                        'applications, as well as for data; Lifecycle '
+                        'Management, which enables IT organizations or '
+                        "developers to manage a user's identity throughout its "
+                        'lifecycle; API Access Management that enables '
+                        'organizations to secure APIs; Advanced Server Access '
+                        'to secure cloud infrastructure; and Access Gateway '
+                        'that enables organizations to extend the Okta '
+                        'Identity Cloud from the cloud to their existing '
+                        'on-premise applications. In addition, the company '
+                        'offers customer support and training, and '
+                        'professional services. Okta, Inc. sells its products '
+                        'directly to customers through sales force, as well as '
+                        'through channel partners. The company was formerly '
+                        'known as Saasure, Inc. Okta, Inc. was founded in 2009 '
+                        'and is headquartered in San Francisco, California.',
+ 'longName': 'Okta, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 25624594432,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_109373551',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -214608992,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 202.57,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -41.35,
+ 'phone': '888 722 7871',
+ 'previousClose': 206.77,
+ 'priceHint': 2,
+ 'priceToBook': 62.03318,
+ 'priceToSalesTrailing12Months': 39.8081,
+ 'profitMargins': -0.3334,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 208.95,
+ 'regularMarketDayLow': 199.102,
+ 'regularMarketOpen': 202.57,
+ 'regularMarketPreviousClose': 206.77,
+ 'regularMarketPrice': 202.57,
+ 'regularMarketVolume': 920584,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 116135000,
+ 'sharesPercentSharesOut': 0.0525,
+ 'sharesShort': 6546343,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6980592,
+ 'shortName': 'Okta, Inc.',
+ 'shortPercentOfFloat': 0.0571,
+ 'shortRatio': 2.72,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'OKTA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.79,
+ 'twoHundredDayAverage': 155.74138,
+ 'volume': 920584,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.okta.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94105'}

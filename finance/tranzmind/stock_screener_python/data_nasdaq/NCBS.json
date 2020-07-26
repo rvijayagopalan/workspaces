@@ -1,0 +1,160 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '111 North Washington Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 56.87,
+ 'askSize': 3000,
+ 'averageDailyVolume10Day': 27600,
+ 'averageVolume': 29769,
+ 'averageVolume10days': 27600,
+ 'beta': 0.741176,
+ 'beta3Year': None,
+ 'bid': 56.6,
+ 'bidSize': 900,
+ 'bookValue': 49.092,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Green Bay',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 57.41,
+ 'dayLow': 56.6,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.273,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.926,
+ 'enterpriseValue': 492748352,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 54.259144,
+ 'fiftyTwoWeekHigh': 75.99,
+ 'fiftyTwoWeekLow': 45.33,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 9121458,
+ 'forwardEps': 4.13,
+ 'forwardPE': 13.803873,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 544,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.109840006,
+ 'heldPercentInstitutions': 0.40015,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/nicoletbank.com',
+ 'longBusinessSummary': 'Nicolet Bankshares, Inc. operates as the holding '
+                        'company for Nicolet National Bank that provides '
+                        'commercial and retail banking services for businesses '
+                        'and individuals. The company accepts checking, '
+                        'savings, and money market accounts; various '
+                        'certificates of deposit; and individual retirement '
+                        'accounts. It also offers commercial loans, including '
+                        'commercial, industrial, and business loans and lines '
+                        'of credit; owner-occupied commercial real estate '
+                        'loans; agricultural (AG) production and AG real '
+                        'estate loans; commercial real estate investment real '
+                        'estate loans; construction and land development '
+                        'loans; residential real estate loans, such as '
+                        'residential first lien mortgages, junior lien '
+                        'mortgages, home equity loans, lines of credit, and '
+                        'residential construction loans; and consumer loans. '
+                        'In addition, the company provides cash management, '
+                        'international banking, personal brokerage, safe '
+                        'deposit boxes, and trust and fiduciary services, as '
+                        'well as wealth management and retirement plan '
+                        'services. Further, it offers mortgage refinancing; '
+                        'online services, such as commercial, retail, and '
+                        'trust online banking; automated bill payment, mobile '
+                        'banking deposits and account access, remote deposit '
+                        'capture, and telephone banking services; and other '
+                        'services consisting of wire transfers, debit cards, '
+                        'credit cards, pre-paid gift cards, direct deposits, '
+                        'and official bank checks. Additionally, the company '
+                        'provides investment strategy and transactional '
+                        'services to financial institutions. As of December '
+                        '31, 2018, it operated 38 branches located in '
+                        'northeast and central Wisconsin, as well as in '
+                        'Menominee, Michigan. The company was formerly known '
+                        'as Green Bay Financial Corporation and changed its '
+                        'name to Nicolet Bankshares, Inc. in March 2002. '
+                        'Nicolet Bankshares, Inc. was founded in 2000 and is '
+                        'headquartered in Green Bay, Wisconsin.',
+ 'longName': 'Nicolet Bankshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 594272192,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3565990',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 49858000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 57.01,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.87,
+ 'phone': '920-430-1400',
+ 'previousClose': 56.6,
+ 'priceHint': 2,
+ 'priceToBook': 1.161289,
+ 'priceToSalesTrailing12Months': 3.529016,
+ 'profitMargins': 0.29608,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 57.41,
+ 'regularMarketDayLow': 56.6,
+ 'regularMarketOpen': 57.01,
+ 'regularMarketPreviousClose': 56.6,
+ 'regularMarketPrice': 57.01,
+ 'regularMarketVolume': 27878,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 10424000,
+ 'sharesPercentSharesOut': 0.0286,
+ 'sharesShort': 297650,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 276516,
+ 'shortName': 'Nicolet Bankshares Inc.',
+ 'shortPercentOfFloat': 0.0322,
+ 'shortRatio': 10.72,
+ 'startDate': None,
+ 'state': 'WI',
+ 'strikePrice': None,
+ 'symbol': 'NCBS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 4.799,
+ 'trailingPE': 11.879559,
+ 'twoHundredDayAverage': 59.341293,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '7699b26d-15c9-3c30-a76a-6d4a2f16058e',
+ 'volume': 27878,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.nicoletbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '54301'}

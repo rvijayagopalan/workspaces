@@ -1,0 +1,154 @@
+{'52WeekChange': -0.41889882,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Univest Plaza',
+ 'address2': '14 North Main Street PO Box 197',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 15.65,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 122262,
+ 'averageVolume': 121358,
+ 'averageVolume10days': 122262,
+ 'beta': 1.021288,
+ 'beta3Year': None,
+ 'bid': 15.64,
+ 'bidSize': 800,
+ 'bookValue': 22.426,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Souderton',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 16.095,
+ 'dayLow': 15.585,
+ 'dividendRate': 0.8,
+ 'dividendYield': 0.0504,
+ 'earningsQuarterlyGrowth': -0.873,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 5.092,
+ 'enterpriseValue': 971857024,
+ 'exDividendDate': 1590969600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 15.637143,
+ 'fiftyTwoWeekHigh': 27.8,
+ 'fiftyTwoWeekLow': 13.2,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.34,
+ 'floatShares': 27950972,
+ 'forwardEps': 1.27,
+ 'forwardPE': 12.299212,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 873,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02419,
+ 'heldPercentInstitutions': 0.77324,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1114992000,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/univest.net',
+ 'longBusinessSummary': 'Univest Financial Corporation operates as the holding '
+                        'company for Univest Bank and Trust Co. that provides '
+                        'banking products and services primarily in '
+                        'Pennsylvania. It operates through three segments: '
+                        'Banking, Wealth Management, and Insurance. The '
+                        'Banking segment provides a range of banking services, '
+                        'such as deposit making, loan origination and '
+                        'servicing, mortgage banking, other general banking '
+                        'services, and equipment lease financing for '
+                        'individuals, businesses, municipalities, and '
+                        'nonprofit organizations. The Wealth Management '
+                        'segment offers trust and investment advisory '
+                        'services, guardian and custodian services, and other '
+                        'trust and brokerage services, as well as manages '
+                        'private investment accounts for individuals and '
+                        'institutions. The Insurance segment includes a '
+                        'full-service insurance brokerage agency offering '
+                        'commercial property and casualty insurance, group '
+                        'life and health coverage, employee benefit solutions, '
+                        'personal insurance lines, and human resources '
+                        'consulting services. The company also offers '
+                        'investment consulting and management, fiduciary, '
+                        'financial and retirement planning, investment '
+                        'management services. It serves customers in Bucks, '
+                        'Berks, Chester, Delaware, Lancaster, Lehigh, '
+                        'Montgomery, Northampton, and Philadelphia counties in '
+                        'Pennsylvania; and Atlantic and Cape May counties in '
+                        'New Jersey through 55 banking offices. The company '
+                        'was formerly known as Univest Corporation of '
+                        'Pennsylvania and changed its name to Univest '
+                        'Financial Corporation in January 2019. Univest '
+                        'Financial Corporation was founded in 1876 and is '
+                        'headquartered in Souderton, Pennsylvania.',
+ 'longName': 'Univest Financial Corporation',
+ 'market': 'us_market',
+ 'marketCap': 455905632,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_311084',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 36095000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 15.88,
+ 'openInterest': None,
+ 'payoutRatio': 0.4651,
+ 'pegRatio': 3.64,
+ 'phone': '215-721-2400',
+ 'previousClose': 15.87,
+ 'priceHint': 2,
+ 'priceToBook': 0.69651294,
+ 'priceToSalesTrailing12Months': 2.3885913,
+ 'profitMargins': 0.18911,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 16.095,
+ 'regularMarketDayLow': 15.585,
+ 'regularMarketOpen': 15.88,
+ 'regularMarketPreviousClose': 15.87,
+ 'regularMarketPrice': 15.88,
+ 'regularMarketVolume': 129085,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 29187300,
+ 'sharesPercentSharesOut': 0.0172,
+ 'sharesShort': 501270,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 360893,
+ 'shortName': 'Univest Financial Corporation',
+ 'shortPercentOfFloat': 0.0176,
+ 'shortRatio': 4.01,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'UVSP',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.8,
+ 'trailingAnnualDividendYield': 0.050409578,
+ 'trailingEps': 1.233,
+ 'trailingPE': 12.668288,
+ 'twoHundredDayAverage': 18.729425,
+ 'volume': 129085,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.univest.net',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '18964'}

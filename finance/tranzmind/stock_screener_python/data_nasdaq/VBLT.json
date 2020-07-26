@@ -1,0 +1,150 @@
+{'52WeekChange': -0.0075758696,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '8 HaSatat Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1.31,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 186775,
+ 'averageVolume': 605331,
+ 'averageVolume10days': 186775,
+ 'beta': 0.796638,
+ 'beta3Year': None,
+ 'bid': 1.28,
+ 'bidSize': 800,
+ 'bookValue': 0.864,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': "Modi'in",
+ 'companyOfficers': [],
+ 'country': 'Israel',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1.32,
+ 'dayLow': 1.2501,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -0.954,
+ 'enterpriseToRevenue': 27.191,
+ 'enterpriseValue': 19278584,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '972 8 993 5001',
+ 'fiftyDayAverage': 1.2698286,
+ 'fiftyTwoWeekHigh': 1.64,
+ 'fiftyTwoWeekLow': 0.9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 20406899,
+ 'forwardEps': -0.54,
+ 'forwardPE': -2.4259257,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 38,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.26728,
+ 'heldPercentInstitutions': 0.22850999,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/vblrx.com',
+ 'longBusinessSummary': 'Vascular Biogenics Ltd., a clinical-stage '
+                        'biopharmaceutical company, focuses on the discovery, '
+                        'development, and commercialization of treatments for '
+                        "cancer. The company's program is based on its "
+                        'proprietary vascular targeting system platform '
+                        'technology, which utilizes genetically targeted '
+                        'therapy to destroy newly formed or angiogenic blood '
+                        'vessels. Its lead product candidate is VB-111, a '
+                        'gene-based biologic that is in Phase III clinical '
+                        'trials for the treatment of recurrent glioblastoma, '
+                        'an aggressive form of brain cancer; and in Phase III '
+                        'clinical trials for recurrent platinum-resistant '
+                        'ovarian cancer, as well as for Phase II clinical '
+                        'trials for iodine-resistant differentiated thyroid '
+                        'cancer. The company is also developing VB-111, which '
+                        'is in Phase I clinical trials for the treatment of '
+                        'patients with various types of advanced metastatic '
+                        'cancer types, including thyroid cancer, '
+                        'neuroendocrine cancer, renal cell carcinoma, and lung '
+                        'cancer. In addition, it is developing VB-511, an '
+                        'anti-angiogenic candidate for oncology; VB-211 and '
+                        'VB-411, which are pro-angiogenic candidates for the '
+                        'treatment of peripheral vascular diseases; VB-201, a '
+                        'Lecinoxoid-based compound for the control of chronic '
+                        'inflammatory disorders; and VB-600 that is in '
+                        'pre-clinical stage for targeting of MOSPD2 for '
+                        'immuno-oncology and anti-inflammatory applications. '
+                        'The company was formerly known as Medicard Ltd. and '
+                        'changed its name to Vascular Biogenics Ltd. in '
+                        'January 2003. Vascular Biogenics Ltd. was founded in '
+                        "2000 and is headquartered in Modi'in, Israel.",
+ 'longName': 'Vascular Biogenics Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 62744676,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4211633',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -20628000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 1.28,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '972 8 993 5000',
+ 'previousClose': 1.29,
+ 'priceHint': 4,
+ 'priceToBook': 1.5162036,
+ 'priceToSalesTrailing12Months': 88.49743,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.32,
+ 'regularMarketDayLow': 1.2501,
+ 'regularMarketOpen': 1.28,
+ 'regularMarketPreviousClose': 1.29,
+ 'regularMarketPrice': 1.28,
+ 'regularMarketVolume': 124220,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 47896700,
+ 'sharesPercentSharesOut': 0.0063,
+ 'sharesShort': 302130,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 282972,
+ 'shortName': 'Vascular Biogenics Ltd.',
+ 'shortPercentOfFloat': 0.0081,
+ 'shortRatio': 0.4,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'VBLT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.574,
+ 'twoHundredDayAverage': 1.3109713,
+ 'volume': 124220,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.vblrx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '78106'}

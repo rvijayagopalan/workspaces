@@ -1,0 +1,158 @@
+{'52WeekChange': 0.3278196,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '14507 Frontier Road',
+ 'address2': 'PO Box 45308',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 44.16,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 934462,
+ 'averageVolume': 1276092,
+ 'averageVolume10days': 934462,
+ 'beta': 0.894117,
+ 'beta3Year': None,
+ 'bid': 44.15,
+ 'bidSize': 900,
+ 'bookValue': 15.951,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Omaha',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 44.62,
+ 'dayLow': 43.82,
+ 'dividendRate': 0.36,
+ 'dividendYield': 0.0082,
+ 'earningsQuarterlyGrowth': -0.361,
+ 'enterpriseToEbitda': 7.231,
+ 'enterpriseToRevenue': 1.317,
+ 'enterpriseValue': 3239582464,
+ 'exDividendDate': 1593648000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 42.97743,
+ 'fiftyTwoWeekHigh': 46.95,
+ 'fiftyTwoWeekLow': 28.99,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.9,
+ 'floatShares': 58992473,
+ 'forwardEps': 2.39,
+ 'forwardPE': 18.472803,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 12736,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.37713,
+ 'heldPercentInstitutions': 0.64799005,
+ 'industry': 'Trucking',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1064966400,
+ 'lastSplitFactor': '5:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/werner.com',
+ 'longBusinessSummary': 'Werner Enterprises, Inc., a transportation and '
+                        'logistics company, engages in transporting truckload '
+                        'shipments of general commodities in interstate and '
+                        'intrastate commerce in the United States, Mexico, '
+                        'Canada, China, and internationally. It operates in '
+                        'two segments, Truckload Transportation Services and '
+                        'Werner Logistics. The Truckload Transportation '
+                        'Services segment operates medium-to-long-haul van '
+                        'fleet, which transports various consumer nondurable '
+                        'products and other commodities in truckload '
+                        'quantities using dry van trailers; the expedited '
+                        'fleet that offers time-sensitive truckload services '
+                        'using driver teams; regional short-haul fleet, which '
+                        'provides comparable truckload van service in the '
+                        'United States; and temperature controlled fleet that '
+                        'offers truckload services for temperature sensitive '
+                        'products using temperature-controlled trailers. It '
+                        'transports retail store merchandise, consumer '
+                        'products, grocery products, and manufactured '
+                        'products. The Werner Logistics segment provides '
+                        'non-asset-based transportation and logistics '
+                        'services, including truck brokerage; logistics '
+                        'management services and solutions; rail '
+                        'transportation through alliances with rail and '
+                        'drayage providers; management of shipments from '
+                        'origin to destination using a combination of air, '
+                        'ocean, truck, and rail transportation modes; and home '
+                        'and business deliveries of heavy items using liftgate '
+                        'straight truck. As of December 31, 2019, the company '
+                        'had a fleet of 8,000 trucks, which included 7,460 '
+                        'company-operated, as well as 540 owned and operated '
+                        'by independent contractors; 24,145 company-owned '
+                        'trailers that comprised dry vans, flatbeds, and '
+                        'temperature-controlled and other specialized '
+                        'trailers; and 33 intermodal drayage trucks. Werner '
+                        'Enterprises, Inc. was founded in 1956 and is '
+                        'headquartered in Omaha, Nebraska.',
+ 'longName': 'Werner Enterprises, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3050632704,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_313266',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 153916000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 43.92,
+ 'openInterest': None,
+ 'payoutRatio': 0.16360001,
+ 'pegRatio': 20.23,
+ 'phone': '402 895 6640',
+ 'previousClose': 43.96,
+ 'priceHint': 2,
+ 'priceToBook': 2.7678516,
+ 'priceToSalesTrailing12Months': 1.23995,
+ 'profitMargins': 0.06256,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 44.62,
+ 'regularMarketDayLow': 43.82,
+ 'regularMarketOpen': 43.92,
+ 'regularMarketPreviousClose': 43.96,
+ 'regularMarketPrice': 43.92,
+ 'regularMarketVolume': 647603,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 69097000,
+ 'sharesPercentSharesOut': 0.050100002,
+ 'sharesShort': 3458807,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4632369,
+ 'shortName': 'Werner Enterprises, Inc.',
+ 'shortPercentOfFloat': 0.0787,
+ 'shortRatio': 1.73,
+ 'startDate': None,
+ 'state': 'NE',
+ 'strikePrice': None,
+ 'symbol': 'WERN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.36,
+ 'trailingAnnualDividendYield': 0.008189264,
+ 'trailingEps': 2.202,
+ 'trailingPE': 20.049955,
+ 'twoHundredDayAverage': 39.290215,
+ 'volume': 647603,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.werner.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '68145-0308'}

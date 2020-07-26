@@ -1,0 +1,152 @@
+{'52WeekChange': -0.30864197,
+ 'SandP52WeekChange': None,
+ 'address1': '104-110 Avenue C',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 8.92,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 32075,
+ 'averageVolume': 61180,
+ 'averageVolume10days': 32075,
+ 'beta': 0.644257,
+ 'beta3Year': None,
+ 'bid': 8.51,
+ 'bidSize': 2200,
+ 'bookValue': 12.395,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Bayonne',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9,
+ 'dayLow': 8.82,
+ 'dividendRate': 0.56,
+ 'dividendYield': 0.0625,
+ 'earningsQuarterlyGrowth': -0.538,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': -1.265,
+ 'enterpriseValue': -103991048,
+ 'exDividendDate': 1596672000,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 9.029715,
+ 'fiftyTwoWeekHigh': 14.5,
+ 'fiftyTwoWeekLow': 8.19,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 4.51,
+ 'floatShares': 14302616,
+ 'forwardEps': 0.71,
+ 'forwardPE': 12.492958,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 365,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.12985,
+ 'heldPercentInstitutions': 0.38067,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1130457600,
+ 'lastSplitFactor': '125:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bcb.bank',
+ 'longBusinessSummary': 'BCB Bancorp, Inc. operates as a bank holding company '
+                        'for BCB Community Bank, a state-chartered commercial '
+                        'bank that provides banking products and services to '
+                        'businesses and individuals in the United States. The '
+                        'company offers deposit products, including interest '
+                        'and non-interest bearing demand, NOW, savings and '
+                        'club, money market, term certificate, interest '
+                        'bearing checking, and individual retirement accounts. '
+                        'It also provides loans, such as commercial and '
+                        'multi-family real estate loans, commercial and '
+                        'residential property construction loans, commercial '
+                        'business loans, small business administration loans, '
+                        'home equity loans and home equity lines of credit, '
+                        'and consumer loans; and residential loans secured by '
+                        'one-to-four family dwellings, condominiums, and '
+                        'cooperative units. In addition, the company offers '
+                        'retail and commercial banking services comprising '
+                        'wire transfers, money orders, safe deposit boxes, '
+                        'night depository services, debit cards, online and '
+                        'mobile banking services, gift cards, fraud detection '
+                        'services, and automated teller services. As of '
+                        'January 31, 2019, it operated 28 branch offices in '
+                        'Bayonne, Carteret, Colonia, Edison, Hoboken, '
+                        'Fairfield, Holmdel, Jersey City, Lodi, Lyndhurst, '
+                        'Maplewood, Monroe Township, Parsippany, Plainsboro, '
+                        'Rutherford, South Orange, Union, and Woodbridge, New '
+                        'Jersey; and 3 branches in Hicksville and Staten '
+                        'Island, New York. The company was founded in 2000 and '
+                        'is headquartered in Bayonne, New Jersey.',
+ 'longName': 'BCB Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 153139664,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3103321',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 16733000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 8.97,
+ 'openInterest': None,
+ 'payoutRatio': 0.56,
+ 'pegRatio': 1.76,
+ 'phone': '201-823-0700',
+ 'previousClose': 8.96,
+ 'priceHint': 2,
+ 'priceToBook': 0.7156111,
+ 'priceToSalesTrailing12Months': 1.8626957,
+ 'profitMargins': 0.2202,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9,
+ 'regularMarketDayLow': 8.82,
+ 'regularMarketOpen': 8.97,
+ 'regularMarketPreviousClose': 8.96,
+ 'regularMarketPrice': 8.97,
+ 'regularMarketVolume': 17477,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 17264900,
+ 'sharesPercentSharesOut': 0.0138,
+ 'sharesShort': 237526,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 250049,
+ 'shortName': 'BCB Bancorp, Inc. (NJ)',
+ 'shortPercentOfFloat': 0.0161,
+ 'shortRatio': 3.94,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'BCBP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.56,
+ 'trailingAnnualDividendYield': 0.0625,
+ 'trailingEps': 0.993,
+ 'trailingPE': 8.932528,
+ 'twoHundredDayAverage': 10.587986,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '1ca7d9d8-8410-3a7f-99c7-534d3ad56ddf',
+ 'volume': 17477,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bcb.bank',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07002'}

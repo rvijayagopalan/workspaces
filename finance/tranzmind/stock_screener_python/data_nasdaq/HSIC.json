@@ -1,0 +1,155 @@
+{'52WeekChange': 0.008554459,
+ 'SandP52WeekChange': None,
+ 'address1': '135 Duryea Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 69.13,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1573825,
+ 'averageVolume': 1641919,
+ 'averageVolume10days': 1573825,
+ 'beta': 0.935014,
+ 'beta3Year': None,
+ 'bid': 53.01,
+ 'bidSize': 800,
+ 'bookValue': 20.884,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Melville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 68.33,
+ 'dayLow': 66.42,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.187,
+ 'enterpriseToEbitda': 12.324,
+ 'enterpriseToRevenue': 1.138,
+ 'enterpriseValue': 11438269440,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 60.682858,
+ 'fiftyTwoWeekHigh': 73.99,
+ 'fiftyTwoWeekLow': 41.85,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 141158612,
+ 'forwardEps': 3.35,
+ 'forwardPE': 20.008955,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 19000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.010980001,
+ 'heldPercentInstitutions': 1.11142,
+ 'industry': 'Medical Distribution',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 1549584000,
+ 'lastSplitFactor': '1275:1000',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/henryschein.com',
+ 'longBusinessSummary': 'Henry Schein, Inc., a solutions company for health '
+                        'care professionals, provides health care products and '
+                        'services to office-based dental practitioners and '
+                        'laboratories, physician practices, government, '
+                        'institutional health care clinics, and other '
+                        'alternate care clinics worldwide. It operates in two '
+                        'segments, Health Care Distribution, and Technology '
+                        'and Value-Added Services. The Health Care '
+                        'Distribution segment offers dental products, '
+                        'including infection-control products, handpieces, '
+                        'preventatives, impression materials, composites, '
+                        'anesthetics, teeth, dental implants, gypsum, '
+                        'acrylics, articulators, abrasives, dental chairs, '
+                        'delivery units and lights, X-ray supplies and '
+                        'equipment, and high-tech and digital restoration '
+                        'equipment, as well as equipment repair services. This '
+                        'segment also provides medical products comprising '
+                        'branded and generic pharmaceuticals, vaccines, '
+                        'surgical products, diagnostic tests, '
+                        'infection-control products, X-ray products, '
+                        'equipment, and vitamins. The Technology and '
+                        'Value-Added Services segment offers software, '
+                        'technology, and other value-added services that '
+                        'include practice management software systems for '
+                        'dental and medical practitioners. This segment also '
+                        'provides value-added practice solutions, which '
+                        'comprise financial services on a non-recourse basis, '
+                        'e-services, practice technology, network, and '
+                        'hardware services, as well as continuing education '
+                        'services for practitioners. Henry Schein, Inc. was '
+                        'founded in 1932 and is headquartered in Melville, New '
+                        'York.',
+ 'longName': 'Henry Schein, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 9568934912,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_339447',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 712820992,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 68.01,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 6.75,
+ 'phone': '631-843-5500',
+ 'previousClose': 68.38,
+ 'priceHint': 2,
+ 'priceToBook': 3.209634,
+ 'priceToSalesTrailing12Months': 0.9517156,
+ 'profitMargins': 0.07113,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 68.33,
+ 'regularMarketDayLow': 66.42,
+ 'regularMarketOpen': 68.01,
+ 'regularMarketPreviousClose': 68.38,
+ 'regularMarketPrice': 68.01,
+ 'regularMarketVolume': 926966,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 142756000,
+ 'sharesPercentSharesOut': 0.0996,
+ 'sharesShort': 14221753,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 14047105,
+ 'shortName': 'Henry Schein, Inc.',
+ 'shortPercentOfFloat': 0.1297,
+ 'shortRatio': 8.58,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'HSIC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 4.854,
+ 'trailingPE': 13.809229,
+ 'twoHundredDayAverage': 59.774963,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'fb438f27-8a30-30bb-b14a-d6711f450eda',
+ 'volume': 926966,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.henryschein.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '11747'}

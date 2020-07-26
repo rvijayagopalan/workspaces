@@ -1,0 +1,155 @@
+{'52WeekChange': -0.675063,
+ 'SandP52WeekChange': None,
+ 'address1': '3150 Sabre Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 7.55,
+ 'askSize': 2900,
+ 'averageDailyVolume10Day': 4380837,
+ 'averageVolume': 8665933,
+ 'averageVolume10days': 4380837,
+ 'beta': 1.743417,
+ 'beta3Year': None,
+ 'bid': 7.46,
+ 'bidSize': 21500,
+ 'bookValue': 2.446,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Southlake',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 7.67,
+ 'dayLow': 7.41,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 18.64,
+ 'enterpriseToRevenue': 1.45,
+ 'enterpriseValue': 5199166976,
+ 'exDividendDate': 1584576000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 8.257428,
+ 'fiftyTwoWeekHigh': 25.44,
+ 'fiftyTwoWeekLow': 3.3,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.58,
+ 'floatShares': 274313681,
+ 'forwardEps': -0.38,
+ 'forwardPE': -19.578947,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 9250,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0051700003,
+ 'heldPercentInstitutions': 0.93513,
+ 'industry': 'Information Technology Services',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sabre.com',
+ 'longBusinessSummary': 'Sabre Corporation, through its subsidiary, Sabre '
+                        'Holdings Corporation, provides technology solutions '
+                        'to the travel and tourism industry worldwide. It '
+                        'operates in three segments: Travel Network, Airline '
+                        'Solutions, and Hospitality Solutions. The Travel '
+                        'Network segment operates as a business-to-business '
+                        'travel marketplace that offers travel content, such '
+                        'as inventory, prices, and availability from a range '
+                        'of travel suppliers, including airlines, hotels, car '
+                        'rental brands, rail carriers, cruise lines, and tour '
+                        'operators with a network of travel buyers comprising '
+                        'online and offline travel agencies, travel management '
+                        'companies, and corporate travel departments. The '
+                        'Airline Solutions segment provides a portfolio of '
+                        'software technology products and solutions through '
+                        'software-as-a-service (SaaS) and hosted delivery '
+                        'models to airlines and other travel suppliers. Its '
+                        'products include SabreSonic Customer Sales & Service, '
+                        'a reservation system that provides capabilities '
+                        'around managing sales and customer service across an '
+                        "airline's touch points; Sabre AirVision Marketing & "
+                        'Planning, a set of airline commercial planning '
+                        'solutions; and Sabre AirCentre Enterprise Operations, '
+                        'a set of solutions for planning and management of '
+                        'airline, airport, and customer operations. The '
+                        'Hospitality Solutions segment provides software and '
+                        'solutions to hoteliers through SaaS and hosted '
+                        'delivery model. It offers SynXis, a central '
+                        'reservation system; SynXis Property Manager Solution '
+                        'for property management; and marketing, professional, '
+                        'and revenue management services. The company was '
+                        'founded in 2006 and is headquartered in Southlake, '
+                        'Texas.',
+ 'longName': 'Sabre Corporation',
+ 'market': 'us_market',
+ 'marketCap': 2049891200,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_254517933',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -108498000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 7.67,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 0.19,
+ 'phone': '682 605 1000',
+ 'previousClose': 7.74,
+ 'priceHint': 2,
+ 'priceToBook': 3.0417006,
+ 'priceToSalesTrailing12Months': 0.5718599,
+ 'profitMargins': -0.03095,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 7.67,
+ 'regularMarketDayLow': 7.41,
+ 'regularMarketOpen': 7.67,
+ 'regularMarketPreviousClose': 7.74,
+ 'regularMarketPrice': 7.67,
+ 'regularMarketVolume': 4301079,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 275523008,
+ 'sharesPercentSharesOut': 0.11270001,
+ 'sharesShort': 31063223,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 29897699,
+ 'shortName': 'Sabre Corporation',
+ 'shortPercentOfFloat': 0.1258,
+ 'shortRatio': 3.32,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'SABR',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.56,
+ 'trailingAnnualDividendYield': 0.072351426,
+ 'trailingEps': -0.407,
+ 'twoHundredDayAverage': 11.14831,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '0c75db04-aef2-30a9-9e44-889332ef9142',
+ 'volume': 4301079,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sabre.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '76092'}

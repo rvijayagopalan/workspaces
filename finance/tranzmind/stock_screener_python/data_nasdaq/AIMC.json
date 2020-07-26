@@ -1,0 +1,160 @@
+{'52WeekChange': 0.22300887,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '300 Granite Street',
+ 'address2': 'Suite 201',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 34.54,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 323225,
+ 'averageVolume': 440287,
+ 'averageVolume10days': 323225,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 34.48,
+ 'bidSize': 800,
+ 'bookValue': 27.995,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Braintree',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 35.67,
+ 'dayLow': 32.98,
+ 'dividendRate': 0.16,
+ 'dividendYield': 0.0049,
+ 'earningsQuarterlyGrowth': -0.252,
+ 'enterpriseToEbitda': 10.546,
+ 'enterpriseToRevenue': 2.098,
+ 'enterpriseValue': 3607830016,
+ 'exDividendDate': 1600300800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '781 843 0709',
+ 'fiftyDayAverage': 31.857428,
+ 'fiftyTwoWeekHigh': 38.43,
+ 'fiftyTwoWeekLow': 12,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.94,
+ 'floatShares': 63855808,
+ 'forwardEps': 2.44,
+ 'forwardPE': 14.159836,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 9200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.011670001,
+ 'heldPercentInstitutions': 1.05423,
+ 'industry': 'Specialty Industrial Machinery',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/altramotion.com',
+ 'longBusinessSummary': 'Altra Industrial Motion Corp. designs, produces, and '
+                        'markets a range of electromechanical power '
+                        'transmission motion control products for use in '
+                        'various motion related applications, and high-volume '
+                        'manufacturing and non-manufacturing processes '
+                        'worldwide. It operates in two segments, Power '
+                        'Transmission Technologies and Automation & Specialty. '
+                        'The Power Transmission Technologies segment offers '
+                        'couplings, such as gear couplings, diaphragm and disc '
+                        'couplings, elastomeric couplings, miniature and '
+                        'precision couplings, joints, mill spindles, and shaft '
+                        'locking devices under the Ameridrives, Bibby, '
+                        "Guardian, Huco, Lamiflex, Stromag, and TB Wood's "
+                        'brands; clutches and brakes under the Industrial '
+                        'Clutch, Formsprag, Stieber, Stromag, Svendborg, '
+                        'Twiflex, and Wichita brands; electromagnetic clutches '
+                        'and brakes under the Inertia Dynamics, Matrix, '
+                        'Stromag, and Warner Electric brands; and gears under '
+                        'the Bauer Gear Motor, Boston Gear, Delroyd, and '
+                        'Nuttall brands. The Automation & Specialty segment '
+                        'provides rotary precision motion solutions, including '
+                        'servo and stepper motors, precision linear actuators, '
+                        'and electronic drives and motion controllers, as well '
+                        'as related software under the Kollmorgen brand; and '
+                        'miniature motors, as well as motion control products, '
+                        'such as brush and brushless DC, can stack, and disc '
+                        'magnet motors under the Portescap brand. This segment '
+                        'also offers linear bearings, guides, glides, lead and '
+                        'ball screws, industrial linear actuators, resolvers, '
+                        'and inductors for the transition of rotary motion to '
+                        'linear motion under the Thomson brand; and heavy-duty '
+                        'diesel engine brake systems and valve actuation '
+                        'mechanisms, including compression release, and '
+                        'bleeder and exhaust brakes under the Jacobs Vehicle '
+                        'Systems brand. The company was formerly known as '
+                        'Altra Holdings, Inc. and changed its name to Altra '
+                        'Industrial Motion Corp. in November 2013. Altra '
+                        'Industrial Motion Corp. was incorporated in 2004 and '
+                        'is headquartered in Braintree, Massachusetts.',
+ 'longName': 'Altra Industrial Motion Corp.',
+ 'market': 'us_market',
+ 'marketCap': 2233557248,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34265589',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': -32000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 35.67,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 1.24,
+ 'phone': '781 917 0600',
+ 'previousClose': 34.12,
+ 'priceHint': 2,
+ 'priceToBook': 1.2341489,
+ 'priceToSalesTrailing12Months': 1.2987307,
+ 'profitMargins': -0.018609999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 35.67,
+ 'regularMarketDayLow': 32.98,
+ 'regularMarketOpen': 35.67,
+ 'regularMarketPreviousClose': 34.12,
+ 'regularMarketPrice': 35.67,
+ 'regularMarketVolume': 473962,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 64647100,
+ 'sharesPercentSharesOut': 0.024,
+ 'sharesShort': 1551319,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1605384,
+ 'shortName': 'Altra Industrial Motion Corp.',
+ 'shortPercentOfFloat': 0.024300002,
+ 'shortRatio': 3.65,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'AIMC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.68,
+ 'trailingAnnualDividendYield': 0.01992966,
+ 'trailingEps': -0.501,
+ 'twoHundredDayAverage': 28.366835,
+ 'volume': 473962,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.altramotion.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02184'}

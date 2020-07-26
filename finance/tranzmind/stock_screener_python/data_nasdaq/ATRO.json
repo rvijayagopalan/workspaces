@@ -1,0 +1,151 @@
+{'52WeekChange': -0.75370175,
+ 'SandP52WeekChange': None,
+ 'address1': '130 Commerce Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 9.65,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 252237,
+ 'averageVolume': 462665,
+ 'averageVolume10days': 252237,
+ 'beta': 1.721568,
+ 'beta3Year': None,
+ 'bid': 9.01,
+ 'bidSize': 900,
+ 'bookValue': 10.203,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'East Aurora',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9.47,
+ 'dayLow': 8.99,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.696,
+ 'enterpriseToRevenue': 0.625,
+ 'enterpriseValue': 451231872,
+ 'exDividendDate': 759456000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.355143,
+ 'fiftyTwoWeekHigh': 38.04,
+ 'fiftyTwoWeekLow': 6.99,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 26951055,
+ 'forwardEps': 0,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.02579,
+ 'heldPercentInstitutions': 0.88738996,
+ 'industry': 'Aerospace & Defense',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1539216000,
+ 'lastSplitFactor': '1182:1000',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/astronics.com',
+ 'longBusinessSummary': 'Astronics Corporation, through its subsidiaries, '
+                        'designs and manufactures products for the aerospace, '
+                        'defence, and electronic industries in the United '
+                        'States, North America, Asia, Europe, South America, '
+                        'and internationally. It operates in two segments, '
+                        'Aerospace and Test Systems. The Aerospace segment '
+                        'offers lighting and safety systems, electrical power '
+                        'generation systems, distribution and motions systems, '
+                        'aircraft structures, avionics products, system '
+                        'certification, and other products. This segment '
+                        'serves airframe manufacturers (OEM) that build '
+                        'aircraft for the commercial, military, and general '
+                        'aviation markets; suppliers; and aircraft operators, '
+                        'such as airlines and branches of the U.S. Department '
+                        'of Defense. The Test Systems segment designs, '
+                        'develops, manufactures, and maintains automated test '
+                        'systems that support the aerospace, and '
+                        'communications and weapons test systems, as well as '
+                        'training and simulation devices for commercial and '
+                        'military applications. It serves OEMs and prime '
+                        'government contractors for electronics and military '
+                        'products. The company also provides cabin management, '
+                        'connectivity equipment, and in-flight entertainment '
+                        'systems for a range of aircraft; and wireless '
+                        'communication testing primarily for the civil land '
+                        'mobile radio market, as well as design consultancy '
+                        'services for the aerospace industry. Astronics '
+                        'Corporation was founded in 1968 and is headquartered '
+                        'in East Aurora, New York.',
+ 'longName': 'Astronics Corporation',
+ 'market': 'us_market',
+ 'marketCap': 278035200,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_252033',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': -93092000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 9.24,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.06,
+ 'phone': '716 805 1599',
+ 'previousClose': 9.315,
+ 'priceHint': 2,
+ 'priceToBook': 0.88405377,
+ 'priceToSalesTrailing12Months': 0.38503057,
+ 'profitMargins': -0.12892,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9.47,
+ 'regularMarketDayLow': 8.99,
+ 'regularMarketOpen': 9.24,
+ 'regularMarketPreviousClose': 9.315,
+ 'regularMarketPrice': 9.24,
+ 'regularMarketVolume': 148490,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 23258600,
+ 'sharesPercentSharesOut': 0.027999999,
+ 'sharesShort': 859717,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 844496,
+ 'shortName': 'Astronics Corporation',
+ 'shortPercentOfFloat': 0.0446,
+ 'shortRatio': 1.23,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'ATRO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.948,
+ 'twoHundredDayAverage': 14.419856,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '11da2a0a-8dc5-33c9-a3aa-724a73dd21a3',
+ 'volume': 148490,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.astronics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '14052'}

@@ -1,0 +1,157 @@
+{'52WeekChange': -0.44556743,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '20 Lower Main Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 19.5,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 11787,
+ 'averageVolume': 20058,
+ 'averageVolume10days': 11787,
+ 'beta': 0.77703,
+ 'beta3Year': None,
+ 'bid': 19.2,
+ 'bidSize': 1300,
+ 'bookValue': 16.496,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Morrisville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 19.4,
+ 'dayLow': 18.95,
+ 'dividendRate': 1.28,
+ 'dividendYield': 0.0643,
+ 'earningsQuarterlyGrowth': -0.162,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.5,
+ 'enterpriseValue': 100286976,
+ 'exDividendDate': 1595548800,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 18.614286,
+ 'fiftyTwoWeekHigh': 38.79,
+ 'fiftyTwoWeekLow': 16.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.25,
+ 'floatShares': 3689623,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 201,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.22587,
+ 'heldPercentInstitutions': 0.16804,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1060560000,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ublocal.com',
+ 'longBusinessSummary': 'Union Bankshares, Inc. operates as the bank holding '
+                        'company for Union Bank that provides retail, '
+                        'commercial, and municipal banking services in '
+                        'northern Vermont and New Hampshire. It offers retail '
+                        'depository services, such as personal checking, '
+                        'savings, money market, IRA/SEP/KEOGH, and health '
+                        'savings accounts, as well as certificates of deposit. '
+                        'The company also provides and commercial real estate '
+                        'loans; consumer loans; and municipal loans; '
+                        'commercial loans for plant and equipment, working '
+                        'capital, real estate renovation, and other business '
+                        'purposes to business owners and investors; and '
+                        'residential real estate loans. In addition, it offers '
+                        'small business administration guaranteed, and '
+                        'residential construction and mortgage loans; online '
+                        'cash management services, including account '
+                        'reconciliation, credit card depository, automated '
+                        'clearing house origination, wire transfers, and night '
+                        'depository services; merchant credit card services; '
+                        'remote deposit capture services; and online mortgage '
+                        'application services. Further, the company provides '
+                        'business checking accounts; standby letters of '
+                        'credit, bank checks or money orders, and safe deposit '
+                        'boxes; ATM services and cards; debit cards; and '
+                        'telephone, Internet, and mobile banking services; '
+                        'home improvement loans and overdraft checking '
+                        'facility against preauthorized lines of credit; '
+                        'customer repurchase agreement sweeps; and asset '
+                        'management, fiduciary, and trust services. The '
+                        'company offers retail banking services to '
+                        'individuals; and commercial banking services to small '
+                        'and medium sized corporations, partnerships, and sole '
+                        'proprietorships, as well as nonprofit organizations, '
+                        'local municipalities, and school districts. The '
+                        'company operates 18 banking offices, 2 loan centers, '
+                        'and various ATMs. Union Bankshares, Inc. was founded '
+                        'in 1891 and is headquartered in Morrisville, Vermont.',
+ 'longName': 'Union Bankshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 86110064,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_526309',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 10223000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 19.35,
+ 'openInterest': None,
+ 'payoutRatio': 0.5482,
+ 'pegRatio': None,
+ 'phone': '802-888-6600',
+ 'previousClose': 19.58,
+ 'priceHint': 2,
+ 'priceToBook': 1.1669495,
+ 'priceToSalesTrailing12Months': 2.1467943,
+ 'profitMargins': 0.25487,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 19.4,
+ 'regularMarketDayLow': 18.95,
+ 'regularMarketOpen': 19.35,
+ 'regularMarketPreviousClose': 19.58,
+ 'regularMarketPrice': 19.35,
+ 'regularMarketVolume': 11308,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 4473250,
+ 'sharesPercentSharesOut': 0.0072000003,
+ 'sharesShort': 32321,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 61191,
+ 'shortName': 'Union Bankshares, Inc.',
+ 'shortPercentOfFloat': 0.0082,
+ 'shortRatio': 0.78,
+ 'startDate': None,
+ 'state': 'VT',
+ 'strikePrice': None,
+ 'symbol': 'UNB',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.25,
+ 'trailingAnnualDividendYield': 0.06384066,
+ 'trailingEps': 2.287,
+ 'trailingPE': 8.417141,
+ 'twoHundredDayAverage': 24.586475,
+ 'volume': 11308,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ublocal.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '05661'}

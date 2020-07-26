@@ -1,0 +1,162 @@
+{'52WeekChange': 0.87397265,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '9220 Kirby Drive',
+ 'address2': 'Suite 500',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 7.49,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 285887,
+ 'averageVolume': 214836,
+ 'averageVolume10days': 285887,
+ 'beta': -0.731652,
+ 'beta3Year': None,
+ 'bid': 6.48,
+ 'bidSize': 900,
+ 'bookValue': 1.663,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Houston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 7.2,
+ 'dayLow': 6.77,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 48.178,
+ 'enterpriseToRevenue': 2.324,
+ 'enterpriseValue': 117938552,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 6.8185716,
+ 'fiftyTwoWeekHigh': 8.2,
+ 'fiftyTwoWeekLow': 3.46,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 11949624,
+ 'forwardEps': 0.12,
+ 'forwardPE': 56.958336,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 159,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.33917,
+ 'heldPercentInstitutions': 0.19364001,
+ 'industry': 'Waste Management',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 901238400,
+ 'lastSplitFactor': '5:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sharpsinc.com',
+ 'longBusinessSummary': 'Sharps Compliance Corp. provides medical, '
+                        'pharmaceutical, and hazardous waste management '
+                        'services in the United States. It offers Sharps '
+                        'Recovery System for the containment, transportation, '
+                        'treatment, and tracking of medical waste generated '
+                        'outside the hospital and health care facility '
+                        'settings; TakeAway Recovery System for the treatment '
+                        'of used needles, syringes, and other used healthcare '
+                        'products; Route-Based Pickup Service, which offers '
+                        'medical and hazardous waste pick-up services; and '
+                        'MedSafe, a solution for the safe collection, '
+                        'transportation, and proper disposal of unwanted and '
+                        'expired ultimate-user medications. The company also '
+                        'provides TakeAway Medication Recovery System, a '
+                        'solution that facilitates the proper disposal of '
+                        'unused medications; Black Pail Program for Rx, a '
+                        'solution with minimal segregation for the disposal of '
+                        'various pharmaceuticals; Hazardous Drug Spill Control '
+                        'Kit for the cleanup of chemotherapy and other HD '
+                        'spills; TakeAway Recycle System, a solution for the '
+                        'collection and recycling of single-use medical '
+                        'devices from surgical centers and other healthcare '
+                        'facilities; ComplianceTRAC, a Web-based compliance '
+                        'and training program; and Universal Waste Shipback '
+                        'Systems, a solution for the collection, '
+                        'transportation, and recycling of light bulbs, '
+                        'batteries, and other mercury containing devices. In '
+                        'addition, it offers other solutions, such as TakeAway '
+                        'Environmental Return System, SharpsTracer, Sharps '
+                        'Secure, Needle Disposal System, Complete Needle '
+                        'Collection and Disposal System, Pitch-It IV Poles, '
+                        'Asset Return System, and Spill Kit Recovery System, '
+                        'as well as Sharps MWMS, a medical waste management '
+                        'system. The company serves customers in home health '
+                        'care, retail clinics and immunizing pharmacies, '
+                        'pharmaceutical manufacturers, professional offices, '
+                        'assisted living and long-term care facilities, '
+                        'government, consumers, and commercial markets, as '
+                        'well as distributors. Sharps Compliance Corp. was '
+                        'founded in 1992 and is headquartered in Houston, '
+                        'Texas.',
+ 'longName': 'Sharps Compliance Corp.',
+ 'market': 'us_market',
+ 'marketCap': 111789840,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_397839',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 590000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 7.2,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 32.22,
+ 'phone': '713-432-0300',
+ 'previousClose': 7.25,
+ 'priceHint': 2,
+ 'priceToBook': 4.110042,
+ 'priceToSalesTrailing12Months': 2.2026687,
+ 'profitMargins': 0.01163,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 7.2,
+ 'regularMarketDayLow': 6.77,
+ 'regularMarketOpen': 7.2,
+ 'regularMarketPreviousClose': 7.25,
+ 'regularMarketPrice': 7.2,
+ 'regularMarketVolume': 151860,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 16355500,
+ 'sharesPercentSharesOut': 0.0499,
+ 'sharesShort': 816105,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 492981,
+ 'shortName': 'Sharps Compliance Corp.',
+ 'shortPercentOfFloat': 0.057600003,
+ 'shortRatio': 3.3,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'SMED',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.036,
+ 'trailingPE': 189.86111,
+ 'twoHundredDayAverage': 6.204604,
+ 'volume': 151860,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sharpsinc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '77054'}

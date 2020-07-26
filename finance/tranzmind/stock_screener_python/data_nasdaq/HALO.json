@@ -1,0 +1,160 @@
+{'52WeekChange': 0.62120295,
+ 'SandP52WeekChange': None,
+ 'address1': '11388 Sorrento Valley Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27.13,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 970987,
+ 'averageVolume': 1416665,
+ 'averageVolume10days': 970987,
+ 'beta': 1.830812,
+ 'beta3Year': None,
+ 'bid': 26,
+ 'bidSize': 800,
+ 'bookValue': 0.429,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Diego',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 27.27,
+ 'dayLow': 26.25,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -85.625,
+ 'enterpriseToRevenue': 22.585,
+ 'enterpriseValue': 3712972800,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '858 704 8311',
+ 'fiftyDayAverage': 26.130001,
+ 'fiftyTwoWeekHigh': 29.34,
+ 'fiftyTwoWeekLow': 12.71,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 126805841,
+ 'forwardEps': 1.42,
+ 'forwardPE': 19.133804,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 132,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01204,
+ 'heldPercentInstitutions': 1.01781,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/halozyme.com',
+ 'longBusinessSummary': 'Halozyme Therapeutics, Inc. operates as a biopharma '
+                        'technology platform company in the United States, '
+                        "Switzerland, and internationally. The company's "
+                        'products are based on the ENHANZE drug delivery '
+                        'technology, a patented recombinant human '
+                        'hyaluronidase enzyme (rHuPH20) that enables the '
+                        'subcutaneous delivery of injectable biologics, such '
+                        'as monoclonal antibodies and other therapeutic '
+                        'molecules, as well as small molecules and fluids. Its '
+                        'proprietary product include Hylenex recombinant, a '
+                        'formulation of rHuPH20 to facilitate subcutaneous '
+                        'fluid administration for achieving hydration; to '
+                        'enhance the dispersion and absorption of other '
+                        'injected drugs in subcutaneous urography; and to '
+                        'improve resorption of radiopaque agents. The company '
+                        'is also developing Perjeta for breast cancer; RITUXAN '
+                        'HYCELA and MabThera SC for the treatment of '
+                        'non-Hodgkin lymphoma and chronic lymphocytic leukemia '
+                        '(CLL); RITUXAN SC for patients with CLL; and HYQVIA '
+                        'for the treatment of immunodeficiency disorders. In '
+                        'addition, it is developing Tecentriq for non-small '
+                        'cell lung cancer; OCREVUS for multiple sclerosis; '
+                        'DARZALEX for the treatment of patients with '
+                        'amyloidosis, smoldering myeloma, and multiple '
+                        'myeloma; nivolumab for the treatment of solid tumors; '
+                        'ALXN1210 and ALXN1810 subcutaneous formulations; '
+                        'ARGX-113, a human neonatal Fc receptor; ARGX-117 to '
+                        'treat autoimmune diseases; and BMS-986179, an '
+                        'anti-CD-73 antibody. The company has collaborations '
+                        'with F. Hoffmann-La Roche, Ltd.; Hoffmann-La Roche, '
+                        'Inc.; Baxalta US Inc.; Baxalta GmbH; Pfizer Inc.; '
+                        'Janssen Biotech, Inc.; AbbVie, Inc.; Eli Lilly and '
+                        'Company; Bristol-Myers Squibb Company; Alexion Pharma '
+                        'Holding; ARGENX BVBA; and National Institute of '
+                        'Allergy and Infectious Diseases. Halozyme '
+                        'Therapeutics, Inc. was founded in 1998 and is '
+                        'headquartered in San Diego, California.',
+ 'longName': 'Halozyme Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3690093824,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_7931206',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -80139000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 27.17,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.75,
+ 'phone': '858 794 8889',
+ 'previousClose': 27.22,
+ 'priceHint': 2,
+ 'priceToBook': 63.333336,
+ 'priceToSalesTrailing12Months': 22.446238,
+ 'profitMargins': -0.48747003,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 27.27,
+ 'regularMarketDayLow': 26.25,
+ 'regularMarketOpen': 27.17,
+ 'regularMarketPreviousClose': 27.22,
+ 'regularMarketPrice': 27.17,
+ 'regularMarketVolume': 1112537,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 135815008,
+ 'sharesPercentSharesOut': 0.1204,
+ 'sharesShort': 16347735,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 16108961,
+ 'shortName': 'Halozyme Therapeutics, Inc.',
+ 'shortPercentOfFloat': 0.1354,
+ 'shortRatio': 11.67,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'HALO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.563,
+ 'twoHundredDayAverage': 21.734604,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'aa1169be-b80b-3480-8b26-f57e5230a087',
+ 'volume': 1112537,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.halozyme.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92121'}

@@ -1,0 +1,151 @@
+{'52WeekChange': -0.4087671,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Resurgens Plaza',
+ 'address2': 'Suite 1600 945 East Paces Ferry Road NE',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 10.81,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 52700,
+ 'averageVolume': 94020,
+ 'averageVolume10days': 52700,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 10.77,
+ 'bidSize': 800,
+ 'bookValue': 15.647,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Atlanta',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.39,
+ 'dayLow': 10.75,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.937,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.6,
+ 'enterpriseValue': 270848864,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 11.55,
+ 'fiftyTwoWeekHigh': 20.21,
+ 'fiftyTwoWeekLow': 8.89,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 20667245,
+ 'forwardEps': 0.99,
+ 'forwardPE': 10.89899,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 202,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03002,
+ 'heldPercentInstitutions': 0.8937,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/atlanticcapitalbank.com',
+ 'longBusinessSummary': 'Atlantic Capital Bancshares, Inc. operates as the '
+                        'bank holding company for Atlantic Capital Bank, N.A. '
+                        'that provides banking products and services. The '
+                        'company offers non-interest and interest bearing '
+                        'demand, savings and money market, time, and brokered '
+                        'deposits. It also provides working capital and '
+                        'equipment loans, loans supported by owner-occupied '
+                        'real estate, revolving lines of credit, term loans, '
+                        'and letters of credit; secured installment and term '
+                        'loans, and home equity lines of credit; and '
+                        'commercial real estate loans, including secured '
+                        'construction loans, secured mini-permanent loans, and '
+                        'secured or unsecured lines of credit, as well as '
+                        'small business administration and franchise finance '
+                        'loans. In addition, the company offers cash and '
+                        'treasury management, capital market, payment '
+                        'processing, commercial and not-for-profit banking, '
+                        'payroll, electronic payment, and online and mobile '
+                        'banking services. It serves small and medium sized '
+                        'businesses and commercial enterprises, franchisees, '
+                        'not for profit enterprises, commercial real estate '
+                        'developers and individual clients, public real estate '
+                        'investment trusts and other commercial real estate '
+                        'clients, and professional services businesses. The '
+                        'company primarily operates a loan production office '
+                        'in Cobb County, Georgia; and 5 additional locations '
+                        'located in Cobb County, Fulton County, and '
+                        'Athens-Clarke County, Georgia; and Hamilton County, '
+                        'Tennessee. The company was founded in 2006 and is '
+                        'headquartered in Atlanta, Georgia.',
+ 'longName': 'Atlantic Capital Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 231564192,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_37501994',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 18682000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 11.13,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.28,
+ 'phone': '404-995-6050',
+ 'previousClose': 11.25,
+ 'priceHint': 2,
+ 'priceToBook': 0.689589,
+ 'priceToSalesTrailing12Months': 3.077756,
+ 'profitMargins': 0.25651,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.39,
+ 'regularMarketDayLow': 10.75,
+ 'regularMarketOpen': 11.13,
+ 'regularMarketPreviousClose': 11.25,
+ 'regularMarketPrice': 11.13,
+ 'regularMarketVolume': 57774,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 21461000,
+ 'sharesPercentSharesOut': 0.0093,
+ 'sharesShort': 198567,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 238070,
+ 'shortName': 'Atlantic Capital Bancshares, In',
+ 'shortPercentOfFloat': 0.0113,
+ 'shortRatio': 1.65,
+ 'startDate': None,
+ 'state': 'GA',
+ 'strikePrice': None,
+ 'symbol': 'ACBI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.871,
+ 'trailingPE': 12.38806,
+ 'twoHundredDayAverage': 13.647697,
+ 'volume': 57774,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.atlanticcapitalbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '30326'}

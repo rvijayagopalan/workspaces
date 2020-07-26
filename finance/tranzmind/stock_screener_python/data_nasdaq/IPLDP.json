@@ -1,0 +1,154 @@
+{'52WeekChange': -0.0039185286,
+ 'SandP52WeekChange': None,
+ 'address1': 'Alliant Energy Tower',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 25.49,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 9262,
+ 'averageVolume': 10438,
+ 'averageVolume10days': 9262,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 25.4,
+ 'bidSize': 1100,
+ 'bookValue': 253.942,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cedar Rapids',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': None,
+ 'dayHigh': 25.49,
+ 'dayLow': 25.44,
+ 'dividendRate': 1.27,
+ 'dividendYield': 0.050300002,
+ 'earningsQuarterlyGrowth': 0.524,
+ 'enterpriseToEbitda': 4.883,
+ 'enterpriseToRevenue': 1.784,
+ 'enterpriseValue': 3663052800,
+ 'exDividendDate': 1590624000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 25.317999,
+ 'fiftyTwoWeekHigh': 26.44,
+ 'fiftyTwoWeekLow': 19.55,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 4.9,
+ 'floatShares': None,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1418,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.35608003,
+ 'industry': 'Utilities—Regulated Electric',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': '',
+ 'longBusinessSummary': 'Interstate Power and Light Company, a public utility '
+                        'company, generates and distributes electricity, and '
+                        'distributes and transports natural gas to retail '
+                        'customers in Iowa. The company operates through three '
+                        'segments: Electric Operations, Gas Operations, and '
+                        'Other. It generates electricity from coal, natural '
+                        'gas, and wind energy; and purchases electricity from '
+                        'wholesale energy markets. The company also sells '
+                        'electricity to wholesale customers, including '
+                        'municipalities and rural electric cooperatives in '
+                        'Minnesota, Illinois, and Iowa. In addition, it '
+                        'generates and distributes steam for customers in '
+                        'Cedar Rapids, Iowa; and owns overhead electric '
+                        'distribution lines, underground electric distribution '
+                        'cables, and substation distribution transformers, as '
+                        'well as gas mains in Iowa. The company provides '
+                        'utility services to incorporated communities. It '
+                        'offers electric utility services to retail customers '
+                        'in various industries, such as farming, agriculture, '
+                        'industrial manufacturing, chemical, and packaging '
+                        'industries, as well as gas utility services for '
+                        'various industries comprising research, education, '
+                        'hospitality, manufacturing, and chemicals. As of '
+                        'December 31, 2019, Interstate Power and Light Company '
+                        'supplied electric service to approximately 490,000 '
+                        'retail customers and natural gas service to '
+                        'approximately 225,000 retail customers. The company '
+                        'was formerly known as Iowa Railway and Light '
+                        'Corporation. Interstate Power and Light Company was '
+                        'incorporated in 1925 and is based in Cedar Rapids, '
+                        'Iowa. Interstate Power and Light Company is a '
+                        'subsidiary of Alliant Energy Corporation.',
+ 'longName': 'Interstate Power and Light Company',
+ 'market': 'us_market',
+ 'marketCap': 340153152,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_281820',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 313400000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 25.45,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '319-786-4411',
+ 'previousClose': 25.42,
+ 'priceHint': 2,
+ 'priceToBook': 0.10018036,
+ 'priceToSalesTrailing12Months': 0.16565362,
+ 'profitMargins': 0.15759,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.49,
+ 'regularMarketDayLow': 25.44,
+ 'regularMarketOpen': 25.45,
+ 'regularMarketPreviousClose': 25.42,
+ 'regularMarketPrice': 25.45,
+ 'regularMarketVolume': 11748,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Utilities',
+ 'sharesOutstanding': 13370800,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': None,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'Interstate Power and Light Comp',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': None,
+ 'startDate': None,
+ 'state': 'IA',
+ 'strikePrice': None,
+ 'symbol': 'IPLDP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 23.439,
+ 'trailingPE': 1.0853705,
+ 'twoHundredDayAverage': 25.10295,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '8f271505-0920-3f0f-9caf-a6b773fb9d2b',
+ 'volume': 11748,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '52401'}

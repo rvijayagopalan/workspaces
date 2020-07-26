@@ -1,0 +1,151 @@
+{'52WeekChange': 0.68840575,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3980 Premier Drive',
+ 'address2': 'Suite 310',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.41,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 231275,
+ 'averageVolume': 439069,
+ 'averageVolume10days': 231275,
+ 'beta': -1.829012,
+ 'beta3Year': None,
+ 'bid': 2.32,
+ 'bidSize': 800,
+ 'bookValue': -1.384,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'High Point',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.44,
+ 'dayLow': 2.31,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -6.952,
+ 'enterpriseToRevenue': 87.106,
+ 'enterpriseValue': 161233840,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '336 841 0310',
+ 'fiftyDayAverage': 2.473457,
+ 'fiftyTwoWeekHigh': 4.23,
+ 'fiftyTwoWeekLow': 1.23,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 9791217,
+ 'forwardEps': -0.59,
+ 'forwardPE': -3.9491525,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 26,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.76633,
+ 'heldPercentInstitutions': 0.01988,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/vtvtherapeutics.com',
+ 'longBusinessSummary': 'vTv Therapeutics Inc., a clinical-stage '
+                        'biopharmaceutical company, discovers and develops '
+                        'orally administered small molecule drug candidates to '
+                        'fill unmet medical needs. The company is developing '
+                        'Azeliragon, an orally administered, small molecule '
+                        'antagonist targeting the receptor for advanced '
+                        'glycation end products, which is in Phase II clinical '
+                        "trials for the treatment of mild Alzheimer's disease. "
+                        'It is also developing TTP399, an orally administered, '
+                        'liver-selective glucokinase activator that has '
+                        'completed Phase II clinical trials to treat type 2 '
+                        'diabetes, as well as is in Phase II/III clinical '
+                        'trials for treating type 1 diabetes; and TTP273, an '
+                        'orally administered, non-peptidic agonist that '
+                        'targets the glucagon-like peptide-1 receptor, which '
+                        'has completed Phase II clinical trials for the '
+                        'treatment of type 2 diabetes. In addition, the '
+                        'company is developing HPP737, HPP971, and HPP3033 for '
+                        'the treatment of chronic disease. It has a license '
+                        'agreement with Reneo Pharmaceuticals, Inc. to develop '
+                        'and commercialize peroxisome proliferation activated '
+                        'receptor delta agonist program, including the '
+                        'compound HPP593. vTv Therapeutics Inc. also has '
+                        'license and research agreements with Hangzhou '
+                        'Zhongmei Huadong Pharmaceutical Co., Ltd.; Newsoara '
+                        'Biopharma Co., Ltd.; JDRF International; Novo Nordisk '
+                        'A/S; and Columbia University. The company was founded '
+                        'in 2015 and is headquartered in High Point, North '
+                        'Carolina. vTv Therapeutics Inc. is a subsidiary of '
+                        'MacAndrews & Forbes Incorporated.',
+ 'longName': 'vTv Therapeutics Inc.',
+ 'market': 'us_market',
+ 'marketCap': 159343328,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_304063261',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -16754000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.44,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '336 841 0300',
+ 'previousClose': 2.44,
+ 'priceHint': 4,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 86.085,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.44,
+ 'regularMarketDayLow': 2.31,
+ 'regularMarketOpen': 2.44,
+ 'regularMarketPreviousClose': 2.44,
+ 'regularMarketPrice': 2.44,
+ 'regularMarketVolume': 167444,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 45293500,
+ 'sharesPercentSharesOut': 0.0307,
+ 'sharesShort': 2099733,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1785177,
+ 'shortName': 'vTv Therapeutics Inc.',
+ 'shortPercentOfFloat': 0.1901,
+ 'shortRatio': 3.18,
+ 'startDate': None,
+ 'state': 'NC',
+ 'strikePrice': None,
+ 'symbol': 'VTVT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.473,
+ 'twoHundredDayAverage': 2.433892,
+ 'volume': 167444,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.vtvtherapeutics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '27265'}

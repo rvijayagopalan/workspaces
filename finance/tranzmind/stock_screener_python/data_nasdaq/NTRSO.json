@@ -1,0 +1,160 @@
+{'52WeekChange': 'Infinity',
+ 'SandP52WeekChange': None,
+ 'address1': '50 South La Salle Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 26.72,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 27412,
+ 'averageVolume': 61677,
+ 'averageVolume10days': 27412,
+ 'beta': 1.094117,
+ 'beta3Year': None,
+ 'bid': 24.51,
+ 'bidSize': 900,
+ 'bookValue': None,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chicago',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': None,
+ 'dayHigh': 26.7259,
+ 'dayLow': 26.55,
+ 'dividendRate': 1.18,
+ 'dividendYield': 0.044299997,
+ 'earningsQuarterlyGrowth': -0.195,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.622,
+ 'enterpriseValue': 15887921152,
+ 'exDividendDate': 1600041600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 25.671715,
+ 'fiftyTwoWeekHigh': 26.734,
+ 'fiftyTwoWeekLow': 17.1,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 205011143,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 20200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.21476,
+ 'industry': 'Asset Management',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/northerntrust.com',
+ 'longBusinessSummary': 'Northern Trust Corporation, a financial holding '
+                        'company, provides wealth management, asset servicing, '
+                        'asset management, and banking solutions for '
+                        'corporations, institutions, families, and individuals '
+                        'worldwide. It operates in two segments, Corporate & '
+                        'Institutional Services (C&IS) and Wealth Management. '
+                        'The C&IS segment offers asset servicing and related '
+                        'services, including custody, fund administration, '
+                        'investment operations outsourcing, investment '
+                        'management, investment risk and analytical services, '
+                        'employee benefit services, securities lending, '
+                        'foreign exchange, treasury management, brokerage '
+                        'services, transition management services, banking, '
+                        'and cash management services. This segment serves '
+                        'corporate and public retirement funds, foundations, '
+                        'endowments, fund managers, insurance companies, '
+                        'sovereign wealth funds, and other institutional '
+                        'investors. The Wealth Management segment offers '
+                        'trust, investment management, custody, and '
+                        'philanthropic; financial consulting; guardianship and '
+                        'estate administration; family business consulting; '
+                        'family financial education; brokerage services; and '
+                        'private and business banking services. This segment '
+                        'serves high-net-worth individuals and families, '
+                        'business owners, executives, professionals, retirees, '
+                        'and established privately-held businesses. The '
+                        'company also provides asset management services, such '
+                        'as active and passive equity; active and passive '
+                        'fixed income; cash management; alternative asset '
+                        'classes comprising private equity and hedge funds of '
+                        'funds; and multi-manager advisory services and '
+                        'products through separately managed accounts, bank '
+                        'common and collective funds, registered investment '
+                        'companies, exchange traded funds, non-U.S. collective '
+                        'investment funds, and unregistered private investment '
+                        'funds. In addition, it offers overlay and other risk '
+                        'management services. The company was founded in 1889 '
+                        'and is headquartered in Chicago, Illinois.',
+ 'longName': 'Northern Trust Corporation',
+ 'market': 'us_market',
+ 'marketCap': None,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_291896',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1355000064,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 26.56,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '312-630-6000',
+ 'previousClose': 26.6,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.23589,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 26.7259,
+ 'regularMarketDayLow': 26.55,
+ 'regularMarketOpen': 26.56,
+ 'regularMarketPreviousClose': 26.6,
+ 'regularMarketPrice': 26.56,
+ 'regularMarketVolume': 37009,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': None,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': None,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'Northern Trust Corporation - De',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': None,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'NTRSO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': None,
+ 'twoHundredDayAverage': 25.122482,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '322daea1-15ad-3253-a419-0f44272e197e',
+ 'volume': 37009,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.northerntrust.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60603'}

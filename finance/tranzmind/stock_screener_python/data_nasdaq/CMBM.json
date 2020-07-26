@@ -1,0 +1,155 @@
+{'52WeekChange': 0.24448907,
+ 'SandP52WeekChange': None,
+ 'address1': '3800 Golf Road',
+ 'address2': 'Suite 360',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 12.65,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 124287,
+ 'averageVolume': 70000,
+ 'averageVolume10days': 124287,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 12.3,
+ 'bidSize': 1000,
+ 'bookValue': 1.557,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Rolling Meadows',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.88,
+ 'dayLow': 12.44,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 17.786,
+ 'enterpriseToRevenue': 1.457,
+ 'enterpriseValue': 377820704,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 8.291715,
+ 'fiftyTwoWeekHigh': 13.2,
+ 'fiftyTwoWeekLow': 3.57,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 5503835,
+ 'forwardEps': 0.8,
+ 'forwardPE': 15.775,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 533,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.051269997,
+ 'heldPercentInstitutions': 0.89216006,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cambiumnetworks.com',
+ 'longBusinessSummary': 'Cambium Networks Corporation, through its '
+                        'subsidiaries, provides wireless broadband networking '
+                        'infrastructure products and solutions for network '
+                        'operators. Its wireless fabric includes intelligent '
+                        'radios, smart antennas, radio frequency (RF) '
+                        'algorithms, wireless-aware switches, and network '
+                        'management software. The company offers '
+                        'point-to-point solutions that are connected to '
+                        'high-speed, high-bandwidth wireline networks; and '
+                        'wireless broadband backhaul to facilities or '
+                        'point-to-multipoint access points deployed throughout '
+                        'a network over distances of approximately 100 '
+                        'kilometers and at 2 gigabytes per second. Its cnPilot '
+                        'and Xirrus Wi-Fi solution provides distributed access '
+                        'to individual users in indoor settings, such as '
+                        'office complexes, and outdoor settings, such as '
+                        'athletic stadiums; cnReach solutions offer '
+                        'narrow-band connectivity for sensors and devices; '
+                        'embedded proprietary RF technology and software '
+                        'enables automated optimization of data flow at the '
+                        'outermost points in the network; and cnMatrix '
+                        'cloud-managed wireless-aware switching solution '
+                        'provides the interface between wireless and wired '
+                        'networks. The company serves medium-sized wireless '
+                        'Internet service providers, enterprises, and '
+                        'government agencies in North America, Europe, the '
+                        'Middle East, Africa, Central and Latin America, and '
+                        'the Asia-Pacific. The company was formerly known as '
+                        'Vector Cambium Holdings (Cayman), Ltd. and changed '
+                        'its name to Cambium Networks Corporation in 2018. '
+                        'Cambium Networks Corporation was founded in 2011 and '
+                        'is headquartered in Rolling Meadows, Illinois.',
+ 'longName': 'Cambium Networks Corporation',
+ 'market': 'us_market',
+ 'marketCap': 324132064,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_614180001',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -20301000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 12.45,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.88,
+ 'phone': '888 863 5250',
+ 'previousClose': 12.42,
+ 'priceHint': 2,
+ 'priceToBook': 8.10533,
+ 'priceToSalesTrailing12Months': 1.2498103,
+ 'profitMargins': -0.07828,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.88,
+ 'regularMarketDayLow': 12.44,
+ 'regularMarketOpen': 12.45,
+ 'regularMarketPreviousClose': 12.42,
+ 'regularMarketPrice': 12.45,
+ 'regularMarketVolume': 83858,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 25684000,
+ 'sharesPercentSharesOut': 0.0037,
+ 'sharesShort': 94939,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 33378,
+ 'shortName': 'Cambium Networks Corporation',
+ 'shortPercentOfFloat': 0.0172,
+ 'shortRatio': 1.44,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'CMBM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.892,
+ 'twoHundredDayAverage': 6.572662,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'a5d211f3-6387-30a0-942d-4257d6a22e64',
+ 'volume': 83858,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cambiumnetworks.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60008'}

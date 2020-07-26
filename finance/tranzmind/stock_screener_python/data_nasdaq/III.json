@@ -1,0 +1,158 @@
+{'52WeekChange': -0.24814814,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2187 Atlantic Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.09,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 88400,
+ 'averageVolume': 138933,
+ 'averageVolume10days': 88400,
+ 'beta': 0.338935,
+ 'beta3Year': None,
+ 'bid': 2.03,
+ 'bidSize': 1300,
+ 'bookValue': 1.833,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Stamford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.04,
+ 'dayLow': 1.98,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 8.506,
+ 'enterpriseToRevenue': 0.64,
+ 'enterpriseValue': 169454272,
+ 'exDividendDate': 1421107200,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 2.0565715,
+ 'fiftyTwoWeekHigh': 3.76,
+ 'fiftyTwoWeekLow': 1.61,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 31472156,
+ 'forwardEps': 0.2,
+ 'forwardPE': 10.15,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1300,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.28621,
+ 'heldPercentInstitutions': 0.5219,
+ 'industry': 'Information Technology Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/isg-one.com',
+ 'longBusinessSummary': 'Information Services Group, Inc. operates as a '
+                        'technology research and advisory company in the '
+                        'Americas, Europe, and the Asia Pacific. The company '
+                        'offers digital transformation services, including '
+                        'automation, cloud, and data analytics; sourcing '
+                        'advisory; managed governance and risk; network '
+                        'carrier; technology strategy and operations design; '
+                        'change management; and market intelligence and '
+                        'technology research and analysis services. It '
+                        'supports private and public sector organizations to '
+                        'transform and optimize their operational '
+                        'environments. The company also provides subscription '
+                        'research, and advisory and strategy consulting '
+                        'services for senior business and IT executives, '
+                        'technology and software vendors, and business/IT '
+                        'services providers; and consulting services, such as '
+                        'business advisory services, data and analytics, '
+                        'digital solutions, network advisory services, '
+                        'organizational change management, automation, human '
+                        'resources technology and delivery services, software '
+                        'advisory services, and sourcing solutions. In '
+                        'addition, it offers ISG GovernX third-party '
+                        'management services that assist clients with '
+                        'monitoring and managing their supplier relationships, '
+                        'as well as provides them with real-time market '
+                        'intelligence and insights; and a range of industry '
+                        'conferences. The company serves private sector '
+                        'clients operating in the financial services, '
+                        'telecommunications, healthcare and pharmaceuticals, '
+                        'manufacturing, transportation and travel, and energy '
+                        'and utilities industries; and public sector '
+                        'customers, including state and local governments, '
+                        'airport and transit authorities, and national and '
+                        'provincial government units. Information Services '
+                        'Group, Inc. has a strategic partnership with NICE to '
+                        'expand its automation ecosystem. The company was '
+                        'founded in 2006 and is headquartered in Stamford, '
+                        'Connecticut.',
+ 'longName': 'Information Services Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 96654184,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_28638526',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 2879000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.03,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.59,
+ 'phone': '203 517 3100',
+ 'previousClose': 2.03,
+ 'priceHint': 4,
+ 'priceToBook': 1.1074741,
+ 'priceToSalesTrailing12Months': 0.365171,
+ 'profitMargins': 0.010880001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.04,
+ 'regularMarketDayLow': 1.98,
+ 'regularMarketOpen': 2.03,
+ 'regularMarketPreviousClose': 2.03,
+ 'regularMarketPrice': 2.03,
+ 'regularMarketVolume': 86329,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 47612900,
+ 'sharesPercentSharesOut': 0.0058999998,
+ 'sharesShort': 280697,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 193986,
+ 'shortName': 'Information Services Group, Inc',
+ 'shortPercentOfFloat': 0.0095999995,
+ 'shortRatio': 1.5,
+ 'startDate': None,
+ 'state': 'CT',
+ 'strikePrice': None,
+ 'symbol': 'III',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.059,
+ 'trailingPE': 34.40678,
+ 'twoHundredDayAverage': 2.4133093,
+ 'volume': 86329,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.isg-one.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '06902'}

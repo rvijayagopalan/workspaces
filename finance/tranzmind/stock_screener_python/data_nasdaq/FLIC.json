@@ -1,0 +1,163 @@
+{'52WeekChange': -0.31969076,
+ 'SandP52WeekChange': None,
+ 'address1': '10 Glen Head Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.61,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 65125,
+ 'averageVolume': 97998,
+ 'averageVolume10days': 65125,
+ 'beta': 0.538935,
+ 'beta3Year': None,
+ 'bid': 14.55,
+ 'bidSize': 900,
+ 'bookValue': 15.803,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Glen Head',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 15.07,
+ 'dayLow': 14.52,
+ 'dividendRate': 0.72,
+ 'dividendYield': 0.0481,
+ 'earningsQuarterlyGrowth': -0.156,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 7.06,
+ 'enterpriseValue': 763111680,
+ 'exDividendDate': 1594166400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 15.393143,
+ 'fiftyTwoWeekHigh': 25.53,
+ 'fiftyTwoWeekLow': 12.16,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.68,
+ 'floatShares': 22464446,
+ 'forwardEps': 1.54,
+ 'forwardPE': 9.454546,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 341,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.056550004,
+ 'heldPercentInstitutions': 0.56311,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1480377600,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/fnbli.com',
+ 'longBusinessSummary': 'The First of Long Island Corporation operates as the '
+                        'holding company for The First National Bank of Long '
+                        'Island that provides financial services to small and '
+                        'medium-sized businesses, professionals, consumers, '
+                        'public bodies, and other organizations. Its deposit '
+                        'products include business and small business '
+                        'checking, personal checking products, savings '
+                        'accounts, negotiable order of withdrawal accounts and '
+                        'IOLA, escrow service accounts, rent security '
+                        'accounts, time deposits, holiday club accounts, and '
+                        'individual retirement accounts, as well as money '
+                        "market products. The company's loan portfolio "
+                        'comprises commercial and industrial loans, small '
+                        'business credit scored loans, residential and '
+                        'commercial mortgage loans, home equity lines of '
+                        'credit, construction loans, and commercial and '
+                        'standby letters of credit, as well as auto, home '
+                        'improvement, and other consumer loans. It also offers '
+                        'account reconciliation services, ACH origination, ATM '
+                        'banking and deposit automation, bank by mail, bill '
+                        'payment, cash management services, collection '
+                        'services, controlled disbursement accounts, foreign '
+                        'currency sales and purchases, healthcare remittance '
+                        'automation, debit cards, lock box services, merchant '
+                        'credit card services, and mobile capture services, as '
+                        'well as mutual funds, annuities, and life insurance. '
+                        'In addition, the company provides night depository '
+                        'services, payroll services, personal money orders, '
+                        'remote deposit, safe deposit boxes, securities '
+                        'transactions, signature guarantee services, travelers '
+                        'checks, investment management and trust services, '
+                        'domestic and international wire transfers, and '
+                        'withholding tax depository services, as well as '
+                        'drive-through, mobile, online, and telephone banking '
+                        'services. It operates through a network of 51 '
+                        'branches, including 6 full-service branches in '
+                        'Queens, 3 in Brooklyn, and 2 commercial banking '
+                        'offices in Manhattan. The First of Long Island '
+                        'Corporation was founded in 1927 and is headquartered '
+                        'in Glen Head, New York.',
+ 'longName': 'The First of Long Island Corporation',
+ 'market': 'us_market',
+ 'marketCap': 347191936,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_272192',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 39862000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.99,
+ 'openInterest': None,
+ 'payoutRatio': 0.4383,
+ 'pegRatio': 1.38,
+ 'phone': '516-671-4900',
+ 'previousClose': 14.96,
+ 'priceHint': 2,
+ 'priceToBook': 0.92134404,
+ 'priceToSalesTrailing12Months': 3.2123013,
+ 'profitMargins': 0.36881,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 15.07,
+ 'regularMarketDayLow': 14.52,
+ 'regularMarketOpen': 14.99,
+ 'regularMarketPreviousClose': 14.96,
+ 'regularMarketPrice': 14.99,
+ 'regularMarketVolume': 42402,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 23845600,
+ 'sharesPercentSharesOut': 0.0159,
+ 'sharesShort': 378857,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 148772,
+ 'shortName': 'The First of Long Island Corpor',
+ 'shortPercentOfFloat': 0.0168,
+ 'shortRatio': 3.22,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'FLIC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.71,
+ 'trailingAnnualDividendYield': 0.047459893,
+ 'trailingEps': 1.62,
+ 'trailingPE': 8.987655,
+ 'twoHundredDayAverage': 17.56144,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '78d475b4-9948-3c3b-a371-5af4ff62f2ff',
+ 'volume': 42402,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.fnbli.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '11545'}

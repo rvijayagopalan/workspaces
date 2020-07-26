@@ -1,0 +1,154 @@
+{'52WeekChange': -0.68565816,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '880 Steel Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1.64,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 1441512,
+ 'averageVolume': 1804301,
+ 'averageVolume10days': 1441512,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 1.6,
+ 'bidSize': 900,
+ 'bookValue': 4.165,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Valley City',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1.65,
+ 'dayLow': 1.55,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 8.775,
+ 'enterpriseToRevenue': 0.374,
+ 'enterpriseValue': 345610240,
+ 'exDividendDate': 1355788800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 1.4717143,
+ 'fiftyTwoWeekHigh': 5.5,
+ 'fiftyTwoWeekLow': 0.75,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 13955227,
+ 'forwardEps': 0.6,
+ 'forwardPE': 2.6666665,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3600,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.35472,
+ 'heldPercentInstitutions': 0.40807998,
+ 'industry': 'Auto Parts',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1572480000,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/shiloh.com',
+ 'longBusinessSummary': 'Shiloh Industries, Inc., together with its '
+                        'subsidiaries, designs, engineers, and manufactures '
+                        'lightweight technologies for the automotive and '
+                        'commercial vehicle markets worldwide. It produces '
+                        'components primarily for body structure, chassis, and '
+                        'propulsion systems. The company offers solution '
+                        'materials, including aluminum, magnesium, steel, high '
+                        'strength steel alloys, and acoustic laminates; body '
+                        'structure components, such as shock towers, '
+                        'instrument panels/cross car beams, torque boxes, '
+                        'tunnel and seat supports, seat back frames, hinge '
+                        'pillars, liftgates, door inners, roof supports/roof '
+                        'panels, dashpanels, and body sides; and chassis '
+                        'systems components comprising cross members, frame '
+                        'rails, axle carriers, bearing caps, axle covers, PTU '
+                        'covers, axle tubes, rack and pinion housings, '
+                        'steering column housings, knuckles, links, wheel '
+                        'hubs, steering pumps, brake components, wheel blanks, '
+                        'and flanges. It also provides propulsion systems '
+                        'components consisting of battery boxes and closures, '
+                        'beam axle housings, planetary carriers, clutch '
+                        'housings, transmission gear housings, engine valve '
+                        'covers, valve bodies, rocker arm spacers, heat '
+                        'shields, exhaust manifolds, cones, baffles, muffler '
+                        'shells, engine oil pans, transmission fluid pans, '
+                        'front covers, and transmission covers. In addition, '
+                        'the company produces structural products, such as '
+                        'charger boxes, control boxes, motor housings, battery '
+                        'covers, battery box trays, and battery box rails for '
+                        'electric vehicles. It offers its products under the '
+                        'BlankLight, CastLight, StampLight, and ShilohCore '
+                        'brands. The company serves original equipment '
+                        'manufacturers and tier 1 suppliers. Shiloh '
+                        'Industries, Inc. was founded in 1950 and is '
+                        'headquartered in Valley City, Ohio.',
+ 'longName': 'Shiloh Industries, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 38732960,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_325589',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -78748000,
+ 'nextFiscalYearEnd': 1635638400,
+ 'open': 1.65,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '330-558-2600',
+ 'previousClose': 1.66,
+ 'priceHint': 4,
+ 'priceToBook': 0.38415366,
+ 'priceToSalesTrailing12Months': 0.041927047,
+ 'profitMargins': -0.08524,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.65,
+ 'regularMarketDayLow': 1.55,
+ 'regularMarketOpen': 1.65,
+ 'regularMarketPreviousClose': 1.66,
+ 'regularMarketPrice': 1.65,
+ 'regularMarketVolume': 710076,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 24208100,
+ 'sharesPercentSharesOut': 0.0034999999,
+ 'sharesShort': 85026,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 175503,
+ 'shortName': 'Shiloh Industries, Inc.',
+ 'shortPercentOfFloat': 0.0056,
+ 'shortRatio': 0.04,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'SHLO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -3.335,
+ 'twoHundredDayAverage': 1.9166187,
+ 'volume': 710076,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.shiloh.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '44280'}

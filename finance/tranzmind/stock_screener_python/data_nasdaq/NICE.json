@@ -1,0 +1,156 @@
+{'52WeekChange': 0.33169532,
+ 'SandP52WeekChange': None,
+ 'address1': '13 Zarchin Street',
+ 'address2': 'PO Box 690',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 203.98,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 198212,
+ 'averageVolume': 258076,
+ 'averageVolume10days': 198212,
+ 'beta': 0.245573,
+ 'beta3Year': None,
+ 'bid': 200.06,
+ 'bidSize': 900,
+ 'bookValue': 36.586,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': "Ra'anana",
+ 'companyOfficers': [],
+ 'country': 'Israel',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 200.33,
+ 'dayLow': 196.6,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.246,
+ 'enterpriseToEbitda': 29.811,
+ 'enterpriseToRevenue': 7.853,
+ 'enterpriseValue': 12621803520,
+ 'exDividendDate': 1487808000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 193.09686,
+ 'fiftyTwoWeekHigh': 206.5,
+ 'fiftyTwoWeekLow': 110.59,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': None,
+ 'forwardEps': 6.28,
+ 'forwardPE': 31.834394,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5996,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00097000005,
+ 'heldPercentInstitutions': 0.53532004,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1149033600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/nice.com',
+ 'longBusinessSummary': 'NICE Ltd. provides enterprise software solutions '
+                        'worldwide. The company operates in two segments, '
+                        'Customer Engagement, and Financial Crime and '
+                        'Compliance. It offers CXone, a cloud native open '
+                        'platform that supports contact centers ranging from '
+                        'small single sites to distributed remote agents and '
+                        'enterprises; and a digital-first omnichannel customer '
+                        'engagement platform that supports various digital and '
+                        'self-service channels, which allows organizations to '
+                        'add and integrate new and emerging channels. The '
+                        'company also provides AI driven smarter processes and '
+                        'adaptive workforce engagement solutions. In addition, '
+                        'it offers NICE platform, a financial crime and '
+                        'compliance solution that handles various process, '
+                        'including detection, investigation, remediation, and '
+                        'reporting; and X-Sight, a cloud-based financial crime '
+                        'risk management platform-as-a-service. Further, the '
+                        'company provides professional service and support at '
+                        'various stages of the technology lifecycle, including '
+                        'defining requirements, planning, design, '
+                        'implementation, customization, optimization, '
+                        'maintenance, and ongoing support. It serves customers '
+                        'across various verticals, including banking, '
+                        'financial, telecommunications, healthcare, insurance, '
+                        'retail, travel, gaming, public safety, and state and '
+                        'local government. The company sells its solutions and '
+                        'products directly to customers, as well as indirectly '
+                        'through selected partners. NICE Ltd. has a strategic '
+                        'partnership with Information Services Group, Inc. to '
+                        'expand the automation ecosystem. The company was '
+                        'formerly known as NICE-Systems Ltd. and changed its '
+                        'name to NICE Ltd. in June 2016. NICE Ltd. was founded '
+                        "in 1986 and is based in Ra'anana, Israel.",
+ 'longName': 'NICE Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 12710633472,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_32181',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 195038000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 198.17,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.15,
+ 'phone': '972 9 775 3151',
+ 'previousClose': 200.54,
+ 'priceHint': 2,
+ 'priceToBook': 5.4643855,
+ 'priceToSalesTrailing12Months': 7.9080014,
+ 'profitMargins': 0.12134,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 200.33,
+ 'regularMarketDayLow': 196.6,
+ 'regularMarketOpen': 198.17,
+ 'regularMarketPreviousClose': 200.54,
+ 'regularMarketPrice': 198.17,
+ 'regularMarketVolume': 228703,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 62398200,
+ 'sharesPercentSharesOut': 0.0195,
+ 'sharesShort': 1516891,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1632761,
+ 'shortName': 'NICE Ltd',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 4.56,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'NICE',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.16,
+ 'trailingAnnualDividendYield': 0.00079784583,
+ 'trailingEps': 3.007,
+ 'trailingPE': 66.48487,
+ 'twoHundredDayAverage': 171.91597,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '99df5bd3-5711-3615-9753-15f590990b3a',
+ 'volume': 228703,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.nice.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '4310602'}

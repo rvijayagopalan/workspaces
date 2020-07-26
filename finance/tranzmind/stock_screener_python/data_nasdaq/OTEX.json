@@ -1,0 +1,163 @@
+{'52WeekChange': 0.022242427,
+ 'SandP52WeekChange': None,
+ 'address1': '275 Frank Tompa Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 44.47,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 566125,
+ 'averageVolume': 548142,
+ 'averageVolume10days': 566125,
+ 'beta': 0.722128,
+ 'beta3Year': None,
+ 'bid': 29.21,
+ 'bidSize': 1400,
+ 'bookValue': 14.76,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Waterloo',
+ 'companyOfficers': [],
+ 'country': 'Canada',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 44.89,
+ 'dayLow': 44.3201,
+ 'dividendRate': 0.7,
+ 'dividendYield': 0.0155,
+ 'earningsQuarterlyGrowth': -0.643,
+ 'enterpriseToEbitda': 16.827,
+ 'enterpriseToRevenue': 4.974,
+ 'enterpriseValue': 15072159744,
+ 'exDividendDate': 1590624000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '519-888-0677',
+ 'fiftyDayAverage': 43.04457,
+ 'fiftyTwoWeekHigh': 47.85,
+ 'fiftyTwoWeekLow': 29.12,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.53,
+ 'floatShares': 267042057,
+ 'forwardEps': 3.06,
+ 'forwardPE': 14.545752,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 15000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01791,
+ 'heldPercentInstitutions': 0.74513,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1485302400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/opentext.com',
+ 'longBusinessSummary': 'Open Text Corporation provides a suite of software '
+                        'products and services. The company offers content '
+                        'services; business network, a cloud-based platform '
+                        'that facilitates collaboration and exchange of '
+                        'information inside and outside of organizations; '
+                        'artificial intelligence and analytics solutions; and '
+                        'OpenText EIM platform that provides multi-level, '
+                        'multi-role, and multi context security information '
+                        'platforms. OpenText also provides digital process '
+                        'automation, which enables organizations to transform '
+                        'into digital data-driven businesses through '
+                        'automation; Customer Experience Management, a set of '
+                        'processes used to track customer interactions '
+                        'throughout the customer journey; Magellan, an '
+                        'artificial intelligence (AI) and analytics platform '
+                        'that combines open source machine learning with '
+                        'advanced analysis and is able to merge, manage, and '
+                        'analyze both structured and unstructured, textual '
+                        'content; and Discovery suite that provides forensics '
+                        'and unstructured data analytics for searching, '
+                        'collecting, and investigating enterprise data to '
+                        'manage legal obligations and risk. In addition, the '
+                        'company offers customer support programs that include '
+                        'access to software upgrades, a knowledge base, '
+                        'discussions, product information, and an online '
+                        'mechanism to post and review trouble tickets. '
+                        'Further, it provides professional services, such as '
+                        'consulting and learning services relating to the '
+                        'implementation, training, and integration of its '
+                        "licensed product offerings into the customers' "
+                        'systems, as well as cloud services. The company '
+                        'serves organizations, enterprise companies, '
+                        'mid-market companies, and public sector agencies '
+                        'worldwide. It has strategic partnerships with SAP SE, '
+                        'Microsoft Corporation, Oracle Corporation, '
+                        'Salesforce.com Corporation, Accenture plc, Deloitte '
+                        'Consulting LLP, Tata Consultancy Services, ATOS, and '
+                        'Ernst & Young. The company was founded in 1991 and is '
+                        'headquartered in Waterloo, Canada.',
+ 'longName': 'Open Text Corporation',
+ 'market': 'us_market',
+ 'marketCap': 12045963264,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_108839',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 279816000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 44.75,
+ 'openInterest': None,
+ 'payoutRatio': 0.6781,
+ 'pegRatio': 2.19,
+ 'phone': '519-888-7111',
+ 'previousClose': 45.04,
+ 'priceHint': 2,
+ 'priceToBook': 3.0155826,
+ 'priceToSalesTrailing12Months': 3.975113,
+ 'profitMargins': 0.09234,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 44.89,
+ 'regularMarketDayLow': 44.3201,
+ 'regularMarketOpen': 44.75,
+ 'regularMarketPreviousClose': 45.04,
+ 'regularMarketPrice': 44.75,
+ 'regularMarketVolume': 347899,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 270795008,
+ 'sharesPercentSharesOut': 0.0227,
+ 'sharesShort': 6136360,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6184852,
+ 'shortName': 'Open Text Corporation',
+ 'shortPercentOfFloat': 0.0231,
+ 'shortRatio': 10.93,
+ 'startDate': None,
+ 'state': 'ON',
+ 'strikePrice': None,
+ 'symbol': 'OTEX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.698,
+ 'trailingAnnualDividendYield': 0.015497335,
+ 'trailingEps': 1.035,
+ 'trailingPE': 43.00483,
+ 'twoHundredDayAverage': 41.223022,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'd8810248-5ac8-392b-be92-edd0439edd15',
+ 'volume': 347899,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.opentext.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'N2L 0A1'}

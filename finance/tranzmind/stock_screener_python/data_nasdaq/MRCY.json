@@ -1,0 +1,157 @@
+{'52WeekChange': 0.11015642,
+ 'SandP52WeekChange': None,
+ 'address1': '50 Minuteman Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 77.26,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 313600,
+ 'averageVolume': 540280,
+ 'averageVolume10days': 313600,
+ 'beta': 1.00056,
+ 'beta3Year': None,
+ 'bid': 77.27,
+ 'bidSize': 800,
+ 'bookValue': 24.709,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Andover',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 78.6,
+ 'dayLow': 76.5601,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.67,
+ 'enterpriseToEbitda': 29.674,
+ 'enterpriseToRevenue': 5.501,
+ 'enterpriseValue': 4160020992,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '978-256-3599',
+ 'fiftyDayAverage': 78.374,
+ 'fiftyTwoWeekHigh': 96.29,
+ 'fiftyTwoWeekLow': 52.24,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 54625754,
+ 'forwardEps': 2.36,
+ 'forwardPE': 32.72034,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1884,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01958,
+ 'heldPercentInstitutions': 0.98269,
+ 'industry': 'Aerospace & Defense',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 945734400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/mrcy.com',
+ 'longBusinessSummary': 'Mercury Systems, Inc. provides sensor and safety '
+                        'critical mission processing subsystems for various '
+                        'critical aerospace, commercial aviation, defence, and '
+                        'intelligence programs in the United States, Europe, '
+                        "and the Asia Pacific. The company's products and "
+                        'solutions are deployed in approximately 300 programs '
+                        'with 25 defence prime contractors and commercial '
+                        'aviation customers. It offers hardware products, '
+                        'including components, such as power amplifiers and '
+                        'limiters, switches, oscillators, filters, equalizers, '
+                        'digital and analog converters, chips, monolithic '
+                        'microwave integrated circuits, and memory and storage '
+                        'devices; embedded processing modules and boards, '
+                        'switch fabric boards, high speed input/output boards, '
+                        'digital receiver boards, multi-chip modules, '
+                        'integrated radio frequency and microwave '
+                        'multi-function assemblies, tuners, and transceivers, '
+                        'as well as graphics and video processing, and '
+                        'Ethernet and input-output boards; and integrated '
+                        'subsystems. The company also designs, markets, and '
+                        'licenses software and middleware environments to '
+                        'enhance development and execution of signal and image '
+                        'processing applications on a range of heterogeneous '
+                        'and multi-computing platforms, as well as designs, '
+                        'markets, and sells software and firmware designed to '
+                        'protect electronic systems that are critical to '
+                        'national security. In addition, it offers subsystem '
+                        'level and safety-critical engineering, and ongoing '
+                        'systems integration services. The company was '
+                        'formerly known as Mercury Computer Systems, Inc. and '
+                        'changed its name to Mercury Systems, Inc. in November '
+                        '2012. Mercury Systems, Inc. was founded in 1981 and '
+                        'is headquartered in Andover, Massachusetts.',
+ 'longName': 'Mercury Systems, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4293331712,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_376921',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585267200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 71292000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 78.49,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.71,
+ 'phone': '978-256-1300',
+ 'previousClose': 78.81,
+ 'priceHint': 2,
+ 'priceToBook': 3.1251771,
+ 'priceToSalesTrailing12Months': 5.6775384,
+ 'profitMargins': 0.094280005,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 78.6,
+ 'regularMarketDayLow': 76.5601,
+ 'regularMarketOpen': 78.49,
+ 'regularMarketPreviousClose': 78.81,
+ 'regularMarketPrice': 78.49,
+ 'regularMarketVolume': 195168,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 55598700,
+ 'sharesPercentSharesOut': 0.0279,
+ 'sharesShort': 1548989,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1931992,
+ 'shortName': 'Mercury Systems Inc',
+ 'shortPercentOfFloat': 0.0383,
+ 'shortRatio': 1.82,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'MRCY',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.316,
+ 'trailingPE': 58.677814,
+ 'twoHundredDayAverage': 78.69223,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '678b3050-814b-3459-9024-7a32f32b13ac',
+ 'volume': 195168,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.mrcy.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01810'}

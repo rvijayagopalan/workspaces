@@ -1,0 +1,162 @@
+{'52WeekChange': 0.096547484,
+ 'SandP52WeekChange': None,
+ 'address1': '530 Fairview Avenue North',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 37.11,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 356950,
+ 'averageVolume': 492530,
+ 'averageVolume10days': 356950,
+ 'beta': 1.280112,
+ 'beta3Year': None,
+ 'bid': 33.01,
+ 'bidSize': 1000,
+ 'bookValue': 3.584,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Seattle',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 35.94,
+ 'dayLow': 33.49,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -14.355,
+ 'enterpriseToRevenue': 9.79,
+ 'enterpriseValue': 1218721280,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '206 378 6288',
+ 'fiftyDayAverage': 33.518,
+ 'fiftyTwoWeekHigh': 38.4,
+ 'fiftyTwoWeekLow': 13.85,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 37446027,
+ 'forwardEps': -1.94,
+ 'forwardPE': -17.62371,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 551,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.008640001,
+ 'heldPercentInstitutions': 1.1235399,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/nanostring.com',
+ 'longBusinessSummary': 'NanoString Technologies, Inc. provides life science '
+                        'tools for translational research and molecular '
+                        'diagnostic products worldwide. The company offers '
+                        'nCounter Analysis System, an automated, '
+                        'multi-application, digital detection, and counting '
+                        'system. It provides nCounter MAX and FLEX systems '
+                        'that include Prep Station, an automated liquid '
+                        'handling component that processes and prepares '
+                        'samples for data collection; and nCounter Digital '
+                        'Analyzer, which collects data from samples by taking '
+                        'images of the immobilized fluorescent reporters in '
+                        'the sample cartridge and processing the data into '
+                        'output files. The company also offers nCounter SPRINT '
+                        'Profiler, an instrument that provides liquid handling '
+                        'steps and the digital analysis through use of a '
+                        'microfluidic cartridge; and nSolver Analysis '
+                        'Software, a data analysis program that enables '
+                        'researchers to check, normalize, and analyze their '
+                        'data. In addition, it provides custom CodeSets; and '
+                        'pan cancer and 360 gene expression, CAR-T '
+                        'characterization, neuropathology and '
+                        'neuro-inflammation gene expression, autoimmune '
+                        'disease gene expression, miRNA expression, human '
+                        'organ transplant, human and mouse metabolic pathway, '
+                        'and human and mouse fibrosis panels. Further, the '
+                        'company offers nCounter based reagents that allow '
+                        'users to design customized assays; Master Kits, such '
+                        'as ancillary reagents and plasticware to setup and '
+                        'process samples in the nCounter Prep Station and '
+                        'nCounter Digital Analyzer; and Prosigna molecular '
+                        'diagnostic test kits. The company is also developing '
+                        'GeoMx DSP system to enable the field of spatial '
+                        'genomics; and Hyb & Seq molecular profiling system to '
+                        'determine and analyze gene sequences within '
+                        'biological samples. It has collaboration with Celgene '
+                        'Corporation; Merck & Co., Inc.; Medivation, Inc.; and '
+                        'Astellas Pharma, Inc. NanoString Technologies, Inc. '
+                        'was founded in 2003 and is headquartered in Seattle, '
+                        'Washington.',
+ 'longName': 'NanoString Technologies, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1289954432,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_9648933',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -57422000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 35.94,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '206 378 6266',
+ 'previousClose': 35.89,
+ 'priceHint': 2,
+ 'priceToBook': 9.539619,
+ 'priceToSalesTrailing12Months': 10.362329,
+ 'profitMargins': -0.46128,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 35.94,
+ 'regularMarketDayLow': 33.49,
+ 'regularMarketOpen': 35.94,
+ 'regularMarketPreviousClose': 35.89,
+ 'regularMarketPrice': 35.94,
+ 'regularMarketVolume': 216738,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 37729000,
+ 'sharesPercentSharesOut': 0.0775,
+ 'sharesShort': 2924940,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2656312,
+ 'shortName': 'NanoString Technologies, Inc.',
+ 'shortPercentOfFloat': 0.0992,
+ 'shortRatio': 5.24,
+ 'startDate': None,
+ 'state': 'WA',
+ 'strikePrice': None,
+ 'symbol': 'NSTG',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.597,
+ 'twoHundredDayAverage': 30.191511,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'aeb5a716-3dc3-335b-9fb2-14cb6d4a5f9d',
+ 'volume': 216738,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.nanostring.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '98109'}

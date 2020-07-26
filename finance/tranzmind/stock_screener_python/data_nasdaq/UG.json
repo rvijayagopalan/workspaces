@@ -1,0 +1,161 @@
+{'52WeekChange': -0.28426915,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '230 Marcus Boulevard',
+ 'address2': 'PO Box 18050',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.78,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 6987,
+ 'averageVolume': 7825,
+ 'averageVolume10days': 6987,
+ 'beta': 0.065546,
+ 'beta3Year': None,
+ 'bid': 12.89,
+ 'bidSize': 1100,
+ 'bookValue': 2.486,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Hauppauge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.45,
+ 'dayLow': 13.83,
+ 'dividendRate': 0.84,
+ 'dividendYield': 0.0583,
+ 'earningsQuarterlyGrowth': -0.354,
+ 'enterpriseToEbitda': 9.968,
+ 'enterpriseToRevenue': 4.087,
+ 'enterpriseValue': 56164136,
+ 'exDividendDate': 1591056000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '631 273 0858',
+ 'fiftyDayAverage': 15.048572,
+ 'fiftyTwoWeekHigh': 20.89,
+ 'fiftyTwoWeekLow': 10.65,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 5.43,
+ 'floatShares': 2616419,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 23,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.37825,
+ 'heldPercentInstitutions': 0.27381,
+ 'industry': 'Household & Personal Products',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 495331200,
+ 'lastSplitFactor': '6:5',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/u-g.com',
+ 'longBusinessSummary': 'United-Guardian, Inc. manufactures and markets '
+                        'cosmetic ingredients, pharmaceuticals, medical '
+                        'lubricants, and specialty industrial products in the '
+                        'United States and internationally. It offers cosmetic '
+                        'ingredients, including LUBRAJEL line of water-based '
+                        'moisturizing and lubricating gel formulations; '
+                        'LUBRAJEL PF and NORGEL, a preservative-free form of '
+                        'LUBRAJEL; LUBRAJEL NATURAL, which are natural '
+                        'ingredients for cosmetic use; LUBRAJEL MARINE; '
+                        'LUBRASIL, a special formulation of LUBRAJEL in which '
+                        'silicone oil is incorporated into a LUBRAJEL base; '
+                        'LUBRAJEL II XD; LUBRASLIDE and B-122 powdered '
+                        'lubricants that are used in the manufacture of '
+                        'pressed powders, eyeliners, and rouges; KLENSOFT, a '
+                        'surfactant, which is used in shampoos, shower gels, '
+                        'makeup removers, and other cosmetic formulations; and '
+                        'ORCHID COMPLEX, an oil-soluble base for skin creams, '
+                        'lotions, cleansers, and other cosmetics. The '
+                        "company's medical lubricants comprise LUBRAJEL RR and "
+                        'RC, which are water-based lubricant gels for urinary '
+                        'catheters; LUBRAJEL MG to lubricate urinary '
+                        'catheters, pre-lubricated enema tips, and other '
+                        'medical devices; LUBRAJEL LC and LUBRAJEL FA that are '
+                        'LUBRAJEL formulations for oral care; and LUBRAJEL '
+                        'FLUID to lubricate water-soluble products. Its '
+                        'pharmaceutical products consist of RENACIDIN, a '
+                        'prescription drug to prevent and dissolve '
+                        'calcifications in urethral catheters and the urinary '
+                        'bladder; and CLORPACTIN WCS-90, an antimicrobial '
+                        'product to treat infections in the urinary bladder. '
+                        "The company's industrial products include DESELEX, a "
+                        'sequestering and chelating agent used for '
+                        'manufacturing detergents; and THOROCLENS, a '
+                        'chlorine-based cleanser. It also conducts research '
+                        'and development, primarily related to the development '
+                        'of cosmetic ingredients. The company markets its '
+                        'products through marketing partners, distributors, '
+                        'and wholesalers. United-Guardian, Inc. was founded in '
+                        '1942 and is headquartered in Hauppauge, New York.',
+ 'longName': 'United-Guardian, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 65009628,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_310712',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 4329324,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.36,
+ 'openInterest': None,
+ 'payoutRatio': 1.1702,
+ 'pegRatio': None,
+ 'phone': '631 273 0900',
+ 'previousClose': 14.4013,
+ 'priceHint': 2,
+ 'priceToBook': 5.691874,
+ 'priceToSalesTrailing12Months': 4.7308354,
+ 'profitMargins': 0.31505,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.45,
+ 'regularMarketDayLow': 13.83,
+ 'regularMarketOpen': 14.36,
+ 'regularMarketPreviousClose': 14.4013,
+ 'regularMarketPrice': 14.36,
+ 'regularMarketVolume': 14564,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 4594320,
+ 'sharesPercentSharesOut': 0.001,
+ 'sharesShort': 4680,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3318,
+ 'shortName': 'United-Guardian, Inc.',
+ 'shortPercentOfFloat': 0.0014,
+ 'shortRatio': 0.56,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'UG',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.1,
+ 'trailingAnnualDividendYield': 0.076381996,
+ 'trailingEps': 0.942,
+ 'trailingPE': 15.021232,
+ 'twoHundredDayAverage': 15.472086,
+ 'volume': 14564,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.u-g.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '11788'}

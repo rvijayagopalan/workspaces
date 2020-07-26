@@ -1,0 +1,158 @@
+{'52WeekChange': 0.42695284,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '400 Atlantic Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 561.98,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 816837,
+ 'averageVolume': 1040750,
+ 'averageVolume10days': 816837,
+ 'beta': 1.031372,
+ 'beta3Year': None,
+ 'bid': 433.77,
+ 'bidSize': 1000,
+ 'bookValue': 126.91,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Stamford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 562.97,
+ 'dayLow': 554.36,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.565,
+ 'enterpriseToEbitda': 12.868,
+ 'enterpriseToRevenue': 4.672,
+ 'enterpriseValue': 216277762048,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 533.94684,
+ 'fiftyTwoWeekHigh': 571.6,
+ 'fiftyTwoWeekLow': 345.67,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 134737685,
+ 'forwardEps': 18.19,
+ 'forwardPE': 30.880701,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 95100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.27046,
+ 'heldPercentInstitutions': 0.65629,
+ 'industry': 'Entertainment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1463529600,
+ 'lastSplitFactor': '0:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/corporate.charter.com',
+ 'longBusinessSummary': 'Charter Communications, Inc., through its '
+                        'subsidiaries, provides cable services to residential '
+                        'and commercial customers in the United States. It '
+                        'offers subscription-based video services, including '
+                        'video on demand, high definition television, digital '
+                        'video recorder, pay-per-view, and spectrum mobile and '
+                        'spectrum guide services, as well as ad-supported free '
+                        'online video products. The company also provides '
+                        'Internet services, such as security suite that '
+                        'protects computers from viruses and spyware; in-home '
+                        'WiFi, which provides customers with high performance '
+                        'wireless routers to enhance their in-home wireless '
+                        'Internet experience; out-of-home WiFi; and Spectrum '
+                        'WiFi. In addition, it offers voice communications '
+                        'services using voice over Internet protocol '
+                        'technology; and broadband communications solutions, '
+                        'such as Internet access, data networking, fiber '
+                        'connectivity, video entertainment, and business '
+                        'telephone services to cellular towers and office '
+                        'buildings for business and carrier organizations. '
+                        'Further, the company provides video programming, '
+                        'static IP and business WiFi, email and security, and '
+                        'multi-line telephone services, as well as Web-based '
+                        'service management; sells local advertising across '
+                        'various platforms for networks, such as MTV, CNN, and '
+                        'ESPN; Audience App for optimizes linear inventory; '
+                        'and sells video and online advertising inventory to '
+                        'local, regional, and national advertising customers. '
+                        'Additionally, it offers communications products and '
+                        'managed service solutions; data connectivity services '
+                        'to mobile and wireline carriers on a wholesale basis; '
+                        'and owns and operates regional sports networks and '
+                        'local sports, news, and community channels. As of '
+                        'December 31, 2019, the company served approximately '
+                        '29.2 million residential and small and medium '
+                        'business customers. Charter Communications, Inc. was '
+                        'founded in 1993 and is based in Stamford, '
+                        'Connecticut.',
+ 'longName': 'Charter Communications, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 115971579904,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_19609',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1811000064,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 558.62,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.04,
+ 'phone': '203-905-7801',
+ 'previousClose': 560.42,
+ 'priceHint': 2,
+ 'priceToBook': 4.4261284,
+ 'priceToSalesTrailing12Months': 2.5050023,
+ 'profitMargins': 0.03912,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 562.97,
+ 'regularMarketDayLow': 554.36,
+ 'regularMarketOpen': 558.62,
+ 'regularMarketPreviousClose': 560.42,
+ 'regularMarketPrice': 558.62,
+ 'regularMarketVolume': 568066,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 234196000,
+ 'sharesPercentSharesOut': 0.038599998,
+ 'sharesShort': 7972678,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 9253066,
+ 'shortName': 'Charter Communications, Inc.',
+ 'shortPercentOfFloat': 0.0682,
+ 'shortRatio': 6.99,
+ 'startDate': None,
+ 'state': 'CT',
+ 'strikePrice': None,
+ 'symbol': 'CHTR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 8.226,
+ 'trailingPE': 68.28592,
+ 'twoHundredDayAverage': 503.9982,
+ 'volume': 568066,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://corporate.charter.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '06901'}

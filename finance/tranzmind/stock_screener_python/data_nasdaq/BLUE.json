@@ -1,0 +1,151 @@
+{'52WeekChange': -0.530478,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '60 Binney Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 64.14,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 681050,
+ 'averageVolume': 1325190,
+ 'averageVolume10days': 681050,
+ 'beta': 2.353501,
+ 'beta3Year': None,
+ 'bid': 64.15,
+ 'bidSize': 900,
+ 'bookValue': 20.144,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 64.76,
+ 'dayLow': 63.1916,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -3.439,
+ 'enterpriseToRevenue': 52.986,
+ 'enterpriseValue': 2864751616,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 64.28915,
+ 'fiftyTwoWeekHigh': 141,
+ 'fiftyTwoWeekLow': 38.95,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 55376076,
+ 'forwardEps': -12.12,
+ 'forwardPE': -5.3003297,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1153,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0061799996,
+ 'heldPercentInstitutions': 1.0996,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bluebirdbio.com',
+ 'longBusinessSummary': 'bluebird bio, Inc., a clinical-stage biotechnology '
+                        'company, focuses on developing transformative gene '
+                        'therapies for severe genetic diseases and cancer. Its '
+                        'product candidates in severe genetic diseases include '
+                        'LentiGlobin, which is in various clinical studies for '
+                        'the treatment of transfusion-dependent '
+                        'Ã\x9f-thalassemia and severe sickle cell disease; and '
+                        'Lenti-D that is in Phase II/III clinical trials for '
+                        'the treatment of cerebral adrenoleukodystrophy, a '
+                        "rare hereditary neurological disorder. The company's "
+                        'product candidates in oncology include bb2121 and '
+                        'bb21217, which are chimeric antigen receptor T (CAR '
+                        'T) cell product candidates for the treatment of '
+                        'multiple myeloma. It has a strategic collaboration '
+                        'with Celgene Corporation to discover, develop, and '
+                        'commercialize disease-altering gene therapies in '
+                        'oncology; and Regeneron Pharmaceuticals, Inc. to '
+                        'discover, develop, and commercialize various immune '
+                        'cell therapies for cancer. The company also has '
+                        'collaborations with Medigene AG to discover T cell '
+                        'receptor (TCR) product candidates in the field of '
+                        'cancer; Gritstone Oncology, Inc. to discover TCR '
+                        'product candidates in the field of cancer; TC '
+                        'BioPharm Limited to research and develop gamma delta '
+                        'CAR T cells directed at hematologic and solid tumor '
+                        'targets; and Novo Nordisk A/S to develop in vivo '
+                        'genome editing treatments for genetic diseases. The '
+                        'company was formerly known as Genetix '
+                        'Pharmaceuticals, Inc., and changed its name to '
+                        'bluebird bio, Inc. in September 2010. bluebird bio, '
+                        'Inc. was founded in 1992 and is headquartered in '
+                        'Cambridge, Massachusetts.',
+ 'longName': 'bluebird bio, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3575090688,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_28921',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -827772992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 64.66,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.16,
+ 'phone': '339-499-9300',
+ 'previousClose': 65.26,
+ 'priceHint': 2,
+ 'priceToBook': 3.189039,
+ 'priceToSalesTrailing12Months': 66.124565,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 64.76,
+ 'regularMarketDayLow': 63.1916,
+ 'regularMarketOpen': 64.66,
+ 'regularMarketPreviousClose': 65.26,
+ 'regularMarketPrice': 64.66,
+ 'regularMarketVolume': 449505,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 55652100,
+ 'sharesPercentSharesOut': 0.1321,
+ 'sharesShort': 7349303,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7594325,
+ 'shortName': 'bluebird bio, Inc.',
+ 'shortPercentOfFloat': 0.21049999,
+ 'shortRatio': 6.35,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'BLUE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -14.955,
+ 'twoHundredDayAverage': 65.89094,
+ 'volume': 449505,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bluebirdbio.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02142'}

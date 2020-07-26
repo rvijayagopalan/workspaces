@@ -1,0 +1,156 @@
+{'52WeekChange': -0.17315179,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '545 East John Carpenter Freeway',
+ 'address2': 'Suite 700',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 84.98,
+ 'askSize': 2900,
+ 'averageDailyVolume10Day': 259412,
+ 'averageVolume': 532528,
+ 'averageVolume10days': 259412,
+ 'beta': 1.872268,
+ 'beta3Year': None,
+ 'bid': 84.96,
+ 'bidSize': 1300,
+ 'bookValue': 46.313,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Irving',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 85.14,
+ 'dayLow': 84.12,
+ 'dividendRate': 2.24,
+ 'dividendYield': 0.026400002,
+ 'earningsQuarterlyGrowth': 1.859,
+ 'enterpriseToEbitda': 9.461,
+ 'enterpriseToRevenue': 3.343,
+ 'enterpriseValue': 11714987008,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 85.40971,
+ 'fiftyTwoWeekHigh': 133.25,
+ 'fiftyTwoWeekLow': 43.37,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.74,
+ 'floatShares': 43581811,
+ 'forwardEps': 11.13,
+ 'forwardPE': 7.637017,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 13589,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03478,
+ 'heldPercentInstitutions': 1.11777,
+ 'industry': 'Broadcasting',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/nexstar.tv',
+ 'longBusinessSummary': 'Nexstar Media Group, Inc. operates as a television '
+                        'broadcasting and digital media company in the United '
+                        'States. The company focuses on the acquisition, '
+                        'development, and operation of television stations and '
+                        'interactive community websites in small and '
+                        'medium-sized markets. It offers free over-the-air '
+                        'programming to television viewing audiences. As of '
+                        'December 31, 2019, the company provided sales, '
+                        'programming, and other services through various local '
+                        'service agreements to 36 power television stations '
+                        'owned by independent third parties; and owned, '
+                        'operated, programmed, or provided sales and other '
+                        'services to 197 television stations in 115 markets in '
+                        'the states of Alabama, Arkansas, California, '
+                        'Colorado, Connecticut, District of Columbia, Florida, '
+                        'Georgia, Hawaii, Illinois, Indiana, Iowa, Kansas, '
+                        'Louisiana, Maryland, Massachusetts, Michigan, '
+                        'Mississippi, Missouri, Montana, Nevada, New Mexico, '
+                        'New York, North Carolina, North Dakota, Ohio, '
+                        'Oklahoma, Oregon, Pennsylvania, Rhode Island, South '
+                        'Carolina, South Dakota, Tennessee, Texas, Utah, '
+                        'Vermont, Virginia, Washington, West Virginia, and '
+                        'Wisconsin. It also offers digital publishing and '
+                        'content management platform, digital video '
+                        'advertising platform, social media advertising '
+                        'platform, and other digital media solutions to media '
+                        'publishers and advertisers, as well as owns WGN '
+                        'America, a national general entertainment cable '
+                        'network. The company affiliates of ABC, NBC, FOX, '
+                        'CBS, The CW, MNTV and other broadcast television '
+                        'networks. The company was formerly known as Nexstar '
+                        'Broadcasting Group, Inc. and changed its name to '
+                        'Nexstar Media Group, Inc. in January 2017. Nexstar '
+                        'Media Group, Inc. was founded in 1996 and is '
+                        'headquartered in Irving, Texas.',
+ 'longName': 'Nexstar Media Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3847346432,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_518638',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 332281984,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 84.44,
+ 'openInterest': None,
+ 'payoutRatio': 0.2748,
+ 'pegRatio': 0.12,
+ 'phone': '972-373-8800',
+ 'previousClose': 84.83,
+ 'priceHint': 2,
+ 'priceToBook': 1.8353379,
+ 'priceToSalesTrailing12Months': 1.0978307,
+ 'profitMargins': 0.09482,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 85.14,
+ 'regularMarketDayLow': 84.12,
+ 'regularMarketOpen': 84.44,
+ 'regularMarketPreviousClose': 84.83,
+ 'regularMarketPrice': 84.44,
+ 'regularMarketVolume': 201363,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 45262900,
+ 'sharesPercentSharesOut': 0.0689,
+ 'sharesShort': 3118116,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3101964,
+ 'shortName': 'Nexstar Media Group, Inc.',
+ 'shortPercentOfFloat': 0.0715,
+ 'shortRatio': 6,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'NXST',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.91,
+ 'trailingAnnualDividendYield': 0.02251562,
+ 'trailingEps': 6.938,
+ 'trailingPE': 12.2513685,
+ 'twoHundredDayAverage': 88.91834,
+ 'volume': 201363,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.nexstar.tv',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75062'}

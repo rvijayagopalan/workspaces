@@ -1,0 +1,164 @@
+{'52WeekChange': -0.46137333,
+ 'SandP52WeekChange': None,
+ 'address1': '175 Cabot Street',
+ 'address2': 'Suite 210',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 7.55,
+ 'askSize': 3200,
+ 'averageDailyVolume10Day': 2050,
+ 'averageVolume': 4938,
+ 'averageVolume10days': 2050,
+ 'beta': 1.845378,
+ 'beta3Year': None,
+ 'bid': 7.47,
+ 'bidSize': 900,
+ 'bookValue': 6.686,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lowell',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 7.55,
+ 'dayLow': 7.5078,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -142.299,
+ 'enterpriseToRevenue': 0.309,
+ 'enterpriseValue': 23621650,
+ 'exDividendDate': 1582761600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 8.124286,
+ 'fiftyTwoWeekHigh': 15.85,
+ 'fiftyTwoWeekLow': 4.51,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 5.03,
+ 'floatShares': 2594141,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 114,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.22467,
+ 'heldPercentInstitutions': 0.33111998,
+ 'industry': 'Information Technology Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': 924480000,
+ 'lastSplitFactor': '11:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cspi.com',
+ 'longBusinessSummary': 'CSP Inc. develops and markets IT integration '
+                        'solutions, security products, managed IT services, '
+                        'purpose built network adapters, and cluster computer '
+                        'systems for commercial and defense customers '
+                        "worldwide. The company's High Performance Products "
+                        'segment offers ARIA Software-Defined Security, a '
+                        'cybersecurity solution; Myricom network adapters '
+                        'comprising Ethernet adapters and specialized software '
+                        'of ARC Series and Secure Intelligent Adapters; ARIA '
+                        'security appliances for network security services; '
+                        'nVoy Series, including Packet Broker and Packet '
+                        'Recorder appliances; and multicomputer products for '
+                        'digital signal processing applications in the defense '
+                        'markets. Its Technology Solutions segment provides '
+                        'third-party computer hardware and software as a value '
+                        'added reseller to various customers in Web and '
+                        'infrastructure hosting, education, '
+                        'telecommunications, healthcare services, '
+                        'distribution, financial and professional services, '
+                        'and manufacturing industries. This segment also '
+                        'offers professional IT consulting services, such as '
+                        'implementation, integration, migration, '
+                        'configuration, installation, and project management; '
+                        'storage and virtualization solutions; enterprise '
+                        'security intrusion prevention, network access '
+                        'control, and unified threat management services; and '
+                        'IT security compliance services. In addition, this '
+                        'segment provides unified communications, wireless, '
+                        'and routing and switching solutions; custom software '
+                        'applications and solutions development and support '
+                        'services; maintenance and technical support services; '
+                        'and managed IT services, such as monitoring, '
+                        'reporting, and management of alerts for the '
+                        'resolution and preventive general IT, as well as IT '
+                        'security support tasks. Further, this segment offers '
+                        'managed and cloud services, such as proactive '
+                        'monitoring and remote management of IT '
+                        'infrastructure, managed and hosted unified '
+                        'communication services, security, and backup and '
+                        'replication. CSP Inc. was founded in 1968 and is '
+                        'headquartered in Lowell, Massachusetts.',
+ 'longName': 'CSP Inc.',
+ 'market': 'us_market',
+ 'marketCap': 32114680,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_257127',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -1074000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 7.53,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '978-954-5038',
+ 'previousClose': 7.53,
+ 'priceHint': 2,
+ 'priceToBook': 1.1292253,
+ 'priceToSalesTrailing12Months': 0.4203602,
+ 'profitMargins': -0.01406,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 7.55,
+ 'regularMarketDayLow': 7.5078,
+ 'regularMarketOpen': 7.53,
+ 'regularMarketPreviousClose': 7.53,
+ 'regularMarketPrice': 7.53,
+ 'regularMarketVolume': 1123,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 4253600,
+ 'sharesPercentSharesOut': 0.00059999997,
+ 'sharesShort': 2366,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 849,
+ 'shortName': 'CSP Inc.',
+ 'shortPercentOfFloat': 0.00059999997,
+ 'shortRatio': 0.49,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'CSPI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.6,
+ 'trailingAnnualDividendYield': 0.07968128,
+ 'trailingEps': -0.27,
+ 'twoHundredDayAverage': 9.941583,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'ad4bee6c-b255-37e7-a160-d18bc6b01c09',
+ 'volume': 1123,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cspi.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01854'}

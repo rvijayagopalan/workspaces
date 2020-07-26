@@ -1,0 +1,154 @@
+{'52WeekChange': -0.33214712,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '6 Logue Court',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 22.52,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 83687,
+ 'averageVolume': 116304,
+ 'averageVolume10days': 83687,
+ 'beta': 1.290196,
+ 'beta3Year': None,
+ 'bid': 22.45,
+ 'bidSize': 800,
+ 'bookValue': 35.417,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Greenville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 24.59,
+ 'dayLow': 22.43,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.854,
+ 'enterpriseToEbitda': 8.089,
+ 'enterpriseToRevenue': 0.236,
+ 'enterpriseValue': 898004160,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 23.980572,
+ 'fiftyTwoWeekHigh': 39.01,
+ 'fiftyTwoWeekLow': 13.78,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 25134659,
+ 'forwardEps': 2.48,
+ 'forwardPE': 9.080646,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2700,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02016,
+ 'heldPercentInstitutions': 0.99092,
+ 'industry': 'Electronics & Computer Distribution',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1149552000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/scansource.com',
+ 'longBusinessSummary': 'ScanSource, Inc. distributes technology products and '
+                        'solutions in the United States, Canada, Brazil, Latin '
+                        'America, and Europe. It operates in two segments, '
+                        'Worldwide Barcode, Networking & Security; and '
+                        'Worldwide Communications & Services. The Worldwide '
+                        'Barcode, Networking & Security segment offers a '
+                        'portfolio of solutions primarily for enterprise '
+                        'mobile computing, data capture, barcode printing, '
+                        'point of sale (POS), payments, networking, electronic '
+                        'physical security, cyber security, and other '
+                        'technologies. This segment offers data capture and '
+                        'POS solutions to automate the collection, processing, '
+                        'and communication of information for commercial and '
+                        'industrial applications, including retail sales, '
+                        'distribution, shipping, inventory control, materials '
+                        'handling, warehouse management, and health care '
+                        'applications. It also provides electronic physical '
+                        'security products, such as identification, access '
+                        'control, video surveillance, intrusion-related, and '
+                        'wireless and networking infrastructure products; and '
+                        'video conferencing, cloud, POS portal, and other '
+                        'services. The Worldwide Communications & Services '
+                        'segment offers a portfolio of solutions primarily for '
+                        'communications technologies and services comprising '
+                        'voice, video conferencing, wireless, data networking, '
+                        'cyber security, digital networks, cable, unified '
+                        'communications and collaboration, cloud, and '
+                        'technology services, as well as IP networks and other '
+                        'solutions for various vertical markets comprising '
+                        'education, healthcare, and government. The company '
+                        'also provides professional, contact center, and '
+                        'infrastructure services. ScanSource, Inc. was founded '
+                        'in 1992 and is headquartered in Greenville, South '
+                        'Carolina.',
+ 'longName': 'ScanSource, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 570787456,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_345452',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 36186000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 24.59,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.84,
+ 'phone': '864-288-2432',
+ 'previousClose': 24.72,
+ 'priceHint': 2,
+ 'priceToBook': 0.6358529,
+ 'priceToSalesTrailing12Months': 0.14974833,
+ 'profitMargins': 0.00949,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 24.59,
+ 'regularMarketDayLow': 22.43,
+ 'regularMarketOpen': 24.59,
+ 'regularMarketPreviousClose': 24.72,
+ 'regularMarketPrice': 24.59,
+ 'regularMarketVolume': 98238,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 25345800,
+ 'sharesPercentSharesOut': 0.016900001,
+ 'sharesShort': 427769,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 409629,
+ 'shortName': 'ScanSource, Inc.',
+ 'shortPercentOfFloat': 0.0239,
+ 'shortRatio': 3.55,
+ 'startDate': None,
+ 'state': 'SC',
+ 'strikePrice': None,
+ 'symbol': 'SCSC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.42,
+ 'trailingPE': 15.859156,
+ 'twoHundredDayAverage': 25.84554,
+ 'volume': 98238,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.scansource.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '29615'}

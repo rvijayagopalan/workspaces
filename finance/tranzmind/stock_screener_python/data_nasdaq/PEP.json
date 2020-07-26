@@ -1,0 +1,150 @@
+{'52WeekChange': 0.034440756,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '700 Anderson Hill Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 136.89,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 4183512,
+ 'averageVolume': 5542168,
+ 'averageVolume10days': 4183512,
+ 'beta': 0.589355,
+ 'beta3Year': None,
+ 'bid': 135.75,
+ 'bidSize': 800,
+ 'bookValue': 9.019,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Purchase',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 138.63,
+ 'dayLow': 135.39,
+ 'dividendRate': 4.09,
+ 'dividendYield': 0.0298,
+ 'earningsQuarterlyGrowth': -0.191,
+ 'enterpriseToEbitda': 18.151,
+ 'enterpriseToRevenue': 3.316,
+ 'enterpriseValue': 224344145920,
+ 'exDividendDate': 1599091200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 132.71515,
+ 'fiftyTwoWeekHigh': 147.2,
+ 'fiftyTwoWeekLow': 101.42,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.84,
+ 'floatShares': 1380922026,
+ 'forwardEps': 5.94,
+ 'forwardPE': 22.905724,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 267000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0014200001,
+ 'heldPercentInstitutions': 0.73529,
+ 'industry': 'Beverages—Non-Alcoholic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 833328000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pepsico.com',
+ 'longBusinessSummary': 'PepsiCo, Inc. operates as a food and beverage company '
+                        'worldwide. The company operates through seven '
+                        'segments: FLNA, QFNA, PBNA, LatAm, Europe, AMESA, and '
+                        'APAC. It offers branded dips, cheese-flavored snacks, '
+                        'and tortillas, as well as corn, potato, and tortilla '
+                        'chips; cereals, rice, pasta, mixes and syrups, '
+                        'granola bars, grits, oat squares, oatmeal, rice '
+                        'cakes, simply granola, and side dishes; beverage '
+                        'concentrates, fountain syrups, and finished goods; '
+                        'ready-to-drink tea, coffee, and juices; and dairy '
+                        'products. The company provides its products primarily '
+                        "under the Cheetos, Doritos, Fritos, Lay's, Ruffles, "
+                        "Tostitos, Aunt Jemima, Cap'n crunch, Life, Pasta "
+                        'Roni, Quaker Chewy, Quaker, Rice-A-Roni, Aquafina, '
+                        'Diet Mountain Dew, Diet Pepsi, Gatorade, Mountain '
+                        'Dew, Pepsi, Propel, Sierra Mist, Tropicana, '
+                        'Emperador, Marias Gamesa, Rosquinhas Mabel, Sabritas, '
+                        'Saladitas, 7UP, Gatorade, H2oh!, Manzanita Sol, '
+                        'Mirinda, Pepsi, Pepsi Black, San Carlos, Toddy, '
+                        'Agusha, Chudo, and Domik v Derevne brands. It serves '
+                        'wholesale and other distributors, foodservice '
+                        'customers, grocery stores, drug stores, convenience '
+                        'stores, discount/dollar stores, mass merchandisers, '
+                        'membership stores, hard discounters, e-commerce '
+                        'retailers and authorized independent bottlers, and '
+                        'others through a network of direct-store-delivery, '
+                        'customer warehouse, and distributor networks, as well '
+                        'as directly to consumers through e-commerce platforms '
+                        'and retailers. The company was founded in 1898 and is '
+                        'headquartered in Purchase, New York.',
+ 'longName': 'PepsiCo, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 189722066944,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_32854',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1592006400,
+ 'navPrice': None,
+ 'netIncomeToCommon': 6849999872,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 136.99,
+ 'openInterest': None,
+ 'payoutRatio': 0.7934,
+ 'pegRatio': 4.67,
+ 'phone': '914 253 2000',
+ 'previousClose': 137.08,
+ 'priceHint': 2,
+ 'priceToBook': 15.085929,
+ 'priceToSalesTrailing12Months': 2.8042994,
+ 'profitMargins': 0.10125,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 138.63,
+ 'regularMarketDayLow': 135.39,
+ 'regularMarketOpen': 136.99,
+ 'regularMarketPreviousClose': 137.08,
+ 'regularMarketPrice': 136.99,
+ 'regularMarketVolume': 3300145,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 1394400000,
+ 'sharesPercentSharesOut': 0.0064,
+ 'sharesShort': 8830888,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 11709659,
+ 'shortName': 'Pepsico, Inc.',
+ 'shortPercentOfFloat': 0.0064,
+ 'shortRatio': 1.62,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'PEP',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 3.888,
+ 'trailingAnnualDividendYield': 0.028362999,
+ 'trailingEps': 4.903,
+ 'trailingPE': 27.750357,
+ 'twoHundredDayAverage': 133.51547,
+ 'volume': 3300145,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pepsico.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10577'}

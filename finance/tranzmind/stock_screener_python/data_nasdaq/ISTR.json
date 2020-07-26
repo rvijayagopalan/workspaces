@@ -1,0 +1,157 @@
+{'52WeekChange': -0.4394064,
+ 'SandP52WeekChange': None,
+ 'address1': '10500 Coursey Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.8,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 10200,
+ 'averageVolume': 30952,
+ 'averageVolume10days': 10200,
+ 'beta': 0.668347,
+ 'beta3Year': None,
+ 'bid': 13.65,
+ 'bidSize': 800,
+ 'bookValue': 22.272,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Baton Rouge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.76,
+ 'dayLow': 13.65,
+ 'dividendRate': 0.24,
+ 'dividendYield': 0.0176,
+ 'earningsQuarterlyGrowth': -0.134,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.247,
+ 'enterpriseValue': 226295824,
+ 'exDividendDate': 1593648000,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 14.096572,
+ 'fiftyTwoWeekHigh': 26.46,
+ 'fiftyTwoWeekLow': 8.49,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.54,
+ 'floatShares': 7739981,
+ 'forwardEps': 1.09,
+ 'forwardPE': 12.522935,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 336,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.07363,
+ 'heldPercentInstitutions': 0.6048,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/investarbank.com',
+ 'longBusinessSummary': 'Investar Holding Corporation operates as the bank '
+                        'holding company for Investar Bank that provides '
+                        'various commercial banking products to individuals '
+                        'and small to medium-sized businesses in South '
+                        'Louisiana. The company offers various deposit '
+                        'products and services, such as savings, checking, '
+                        'money market, and individual retirement accounts, as '
+                        'well as various certificates of deposit; debit cards; '
+                        'and mobile banking services. It also provides '
+                        'commercial real estate loans; commercial and '
+                        'industrial loans, including working capital lines of '
+                        'credit and equipment loans; loans for the '
+                        'construction of commercial projects, and single '
+                        'family residential and multifamily properties; '
+                        'one-to-four family residential real estate loans, '
+                        'such as second and other second mortgage loans; '
+                        'consumer loans, such as secured and unsecured '
+                        'installment and term loans, second mortgages, home '
+                        'equity loans and lines of credit, and auto loans, as '
+                        'well as loans for personal, family, and household '
+                        'purposes. In addition, the company offers cash '
+                        'management products, including remote deposit '
+                        'capture, virtual vault, electronic statements, '
+                        'positive pay, ACH origination and wire transfer, '
+                        'investment sweep accounts, and business Internet '
+                        'banking services. Further, it provides various other '
+                        "banking services, such as cashiers' checks, direct "
+                        'deposit of payroll and social security checks, night '
+                        'depository, bank-by-mail, automated teller machine, '
+                        'interactive teller machines, merchant card, and '
+                        'mobile wallet payment services. The company operates '
+                        'through a network of 30 full service branches. '
+                        'Investar Holding Corporation was founded in 2006 and '
+                        'is headquartered in Baton Rouge, Louisiana.',
+ 'longName': 'Investar Holding Corporation',
+ 'market': 'us_market',
+ 'marketCap': 149313248,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_257190537',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 12795000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.75,
+ 'openInterest': None,
+ 'payoutRatio': 0.17950001,
+ 'pegRatio': None,
+ 'phone': '225-227-2222',
+ 'previousClose': 13.6,
+ 'priceHint': 2,
+ 'priceToBook': 0.61287713,
+ 'priceToSalesTrailing12Months': 2.1427193,
+ 'profitMargins': 0.18469,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.76,
+ 'regularMarketDayLow': 13.65,
+ 'regularMarketOpen': 13.75,
+ 'regularMarketPreviousClose': 13.6,
+ 'regularMarketPrice': 13.75,
+ 'regularMarketVolume': 9481,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 10938700,
+ 'sharesPercentSharesOut': 0.01,
+ 'sharesShort': 109928,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 38613,
+ 'shortName': 'Investar Holding Corporation',
+ 'shortPercentOfFloat': 0.0109,
+ 'shortRatio': 3.01,
+ 'startDate': None,
+ 'state': 'LA',
+ 'strikePrice': None,
+ 'symbol': 'ISTR',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.24,
+ 'trailingAnnualDividendYield': 0.017647058,
+ 'trailingEps': 1.202,
+ 'trailingPE': 11.356072,
+ 'twoHundredDayAverage': 15.991654,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '7b656a57-efaa-3827-bbf3-18471592bc47',
+ 'volume': 9481,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.investarbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '70816'}

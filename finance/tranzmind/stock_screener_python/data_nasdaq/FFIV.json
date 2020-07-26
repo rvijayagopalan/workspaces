@@ -1,0 +1,150 @@
+{'52WeekChange': 0.00059115887,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '801 5th Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 152.35,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 842337,
+ 'averageVolume': 884847,
+ 'averageVolume10days': 842337,
+ 'beta': 1.092997,
+ 'beta3Year': None,
+ 'bid': 152.28,
+ 'bidSize': 800,
+ 'bookValue': 32.958,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Seattle',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 155.275,
+ 'dayLow': 151.48,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.471,
+ 'enterpriseToEbitda': 17.233,
+ 'enterpriseToRevenue': 4.014,
+ 'enterpriseValue': 9258278912,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '206-272-5556',
+ 'fiftyDayAverage': 142.41257,
+ 'fiftyTwoWeekHigh': 156.36,
+ 'fiftyTwoWeekLow': 79.78,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 60654173,
+ 'forwardEps': 9.7,
+ 'forwardPE': 15.705154,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5605,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0032300001,
+ 'heldPercentInstitutions': 0.95009005,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1187654400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/f5.com',
+ 'longBusinessSummary': 'F5 Networks, Inc. provides multi-cloud application '
+                        'services for the availability, security, performance, '
+                        'and availability of network applications, servers, '
+                        "and storage systems. The company's primary "
+                        'application delivery technology is Traffic Management '
+                        "Operating System that enable company's products to "
+                        'intercept, inspect, and act on the contents of '
+                        'traffic. It offers Local Traffic Manager; DNS '
+                        'solution for application security services; BIG-IP '
+                        'management and orchestration software; BIG-IP Virtual '
+                        'Edition and BIG-IP Cloud Edition software; Advanced '
+                        'Firewall Manager, a firewall software; and '
+                        'Application Security Manager and Access Policy '
+                        'Manager software products. The company also provides '
+                        'cloud-based managed services. In addition, it offers '
+                        'a range of professional services, including '
+                        'consulting, training, installation, maintenance, and '
+                        'other technical support services. The company sells '
+                        'its products to large enterprise businesses, public '
+                        'sector institutions, governments, and service '
+                        'providers through distributors, value-added '
+                        'resellers, managed service providers, and systems '
+                        'integrators in the Americas, Europe, the Middle East, '
+                        'Africa, Japan, and the Asia Pacific region. F5 '
+                        'Networks, Inc. has partnerships with public cloud '
+                        'providers, such as Amazon Web Services, Microsoft '
+                        'Azure, Google Cloud Platform, and Alibaba Cloud. The '
+                        'company was founded in 1996 and is headquartered in '
+                        'Seattle, Washington.',
+ 'longName': 'F5 Networks, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 9276973056,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_90323',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 340648000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 154.21,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 5.16,
+ 'phone': '206-272-5555',
+ 'previousClose': 154.71,
+ 'priceHint': 2,
+ 'priceToBook': 4.6222463,
+ 'priceToSalesTrailing12Months': 4.022037,
+ 'profitMargins': 0.14769,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 155.275,
+ 'regularMarketDayLow': 151.48,
+ 'regularMarketOpen': 154.21,
+ 'regularMarketPreviousClose': 154.71,
+ 'regularMarketPrice': 154.21,
+ 'regularMarketVolume': 641819,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 60896500,
+ 'sharesPercentSharesOut': 0.045500003,
+ 'sharesShort': 2769337,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2108997,
+ 'shortName': 'F5 Networks, Inc.',
+ 'shortPercentOfFloat': 0.0512,
+ 'shortRatio': 3.66,
+ 'startDate': None,
+ 'state': 'WA',
+ 'strikePrice': None,
+ 'symbol': 'FFIV',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 5.61,
+ 'trailingPE': 27.155079,
+ 'twoHundredDayAverage': 130.31892,
+ 'volume': 641819,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.f5.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '98104'}

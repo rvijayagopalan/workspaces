@@ -1,0 +1,157 @@
+{'52WeekChange': 0.002828002,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '41280 Bridge Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 18.69,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 324075,
+ 'averageVolume': 417110,
+ 'averageVolume10days': 324075,
+ 'beta': 1.417927,
+ 'beta3Year': None,
+ 'bid': 17.73,
+ 'bidSize': 800,
+ 'bookValue': None,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Novi',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 18.05,
+ 'dayLow': 17.35,
+ 'dividendRate': 0.1,
+ 'dividendYield': 0.0056,
+ 'earningsQuarterlyGrowth': 4.591,
+ 'enterpriseToEbitda': 10.074,
+ 'enterpriseToRevenue': 0.915,
+ 'enterpriseValue': 696935040,
+ 'exDividendDate': 1589500800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 16.562286,
+ 'fiftyTwoWeekHigh': 19.05,
+ 'fiftyTwoWeekLow': 14.7,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.22,
+ 'floatShares': 33860243,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1768,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.09634,
+ 'heldPercentInstitutions': 0.73642,
+ 'industry': 'Farm & Heavy Construction Machinery',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/theshyftgroup.com',
+ 'longBusinessSummary': 'The Shyft Group, Inc., through its subsidiary Spartan '
+                        'Motors USA, Inc., manufactures and assembles '
+                        'specialty vehicles for the commercial vehicle and '
+                        'recreational vehicle industries in the United States '
+                        'and internationally. It operates through two '
+                        'segments, Fleet Vehicles and Services (FVS), and '
+                        'Specialty Chassis and Vehicles (SCV). The FVS segment '
+                        'manufactures and sells various commercial vehicles '
+                        'that are used in the e-commerce/last mile/parcel '
+                        'delivery, beverage and grocery delivery, laundry and '
+                        'linen, mobile retail, and trades and construction '
+                        'industries. This segment markets its commercial '
+                        'vehicles under the Aeromaster, Velocity, Ultimate, '
+                        'Trademaster, Metromaster, Utilivan, Utilimaster Upfit '
+                        'Services, and Reach brand names. It also installs '
+                        'specialty interior and exterior up-fit equipment for '
+                        'walk-in vans, truck bodies, and passenger vans under '
+                        'Specialty Up-fit name; and provides aftermarket '
+                        'support, including parts sales and field services. '
+                        'The SCV engages in the engineering and manufacture of '
+                        'luxury class A diesel motor home chassis; manufacture '
+                        'and assemble of truck body options for various '
+                        'trades, service truck bodies, stake body trucks, '
+                        'contractor trucks, and dump bed trucks; and provision '
+                        'of chassis and complete vehicle assembly services for '
+                        'military vehicles, drill rigs, shuttle bus chassis, '
+                        'and other specialty chassis and vehicles. This '
+                        'segment also offers assembly services for Isuzu N-gas '
+                        'and F-series chassis; and parts and accessories for '
+                        'its motor home, defense, and specialty chassis, as '
+                        'well as maintenance and repair services for its motor '
+                        'home and specialty chassis. The company sells its '
+                        'products to commercial users, original equipment '
+                        'manufacturers, dealers, individual end users, and '
+                        'municipalities and other governmental entities. The '
+                        'company was formerly known as Spartan Motors, Inc. '
+                        'and changed its name to The Shyft Group, Inc. in June '
+                        '2020. The Shyft Group, Inc. was founded in 1975 and '
+                        'is headquartered in Novi, Michigan.',
+ 'longName': 'The Shyft Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 623447040,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 43630000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 17.76,
+ 'openInterest': None,
+ 'payoutRatio': 0.0813,
+ 'pegRatio': 1.06,
+ 'phone': '517-543-6400',
+ 'previousClose': 17.88,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 0.81894153,
+ 'profitMargins': -0.00808,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.05,
+ 'regularMarketDayLow': 17.35,
+ 'regularMarketOpen': 17.76,
+ 'regularMarketPreviousClose': 17.88,
+ 'regularMarketPrice': 17.76,
+ 'regularMarketVolume': 383220,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 35163400,
+ 'sharesPercentSharesOut': 0.0232,
+ 'sharesShort': 814943,
+ 'sharesShortPreviousMonthDate': 1589500800,
+ 'sharesShortPriorMonth': 651573,
+ 'shortName': 'The Shyft Group, Inc.',
+ 'shortPercentOfFloat': 0.0241,
+ 'shortRatio': 2.91,
+ 'startDate': None,
+ 'state': 'MI',
+ 'strikePrice': None,
+ 'symbol': 'SHYF',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': None,
+ 'twoHundredDayAverage': 16.790962,
+ 'volume': 383220,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.theshyftgroup.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '48375'}

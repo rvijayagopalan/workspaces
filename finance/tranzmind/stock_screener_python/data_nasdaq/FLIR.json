@@ -1,0 +1,151 @@
+{'52WeekChange': -0.18726438,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '27700 SW Parkway Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 41,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 1137800,
+ 'averageVolume': 1916976,
+ 'averageVolume10days': 1137800,
+ 'beta': 1.570308,
+ 'beta3Year': None,
+ 'bid': 40.75,
+ 'bidSize': 800,
+ 'bookValue': 13.075,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Wilsonville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 41.9,
+ 'dayLow': 40.895,
+ 'dividendRate': 0.68,
+ 'dividendYield': 0.0162,
+ 'earningsQuarterlyGrowth': -0.75,
+ 'enterpriseToEbitda': 15.111,
+ 'enterpriseToRevenue': 3.132,
+ 'enterpriseValue': 5928742400,
+ 'exDividendDate': 1590019200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 41.385715,
+ 'fiftyTwoWeekHigh': 59.44,
+ 'fiftyTwoWeekLow': 23.85,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.38,
+ 'floatShares': 129650384,
+ 'forwardEps': 2.29,
+ 'forwardPE': 17.890831,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4265,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00958,
+ 'heldPercentInstitutions': 0.99188006,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1197331200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/flir.com',
+ 'longBusinessSummary': 'FLIR Systems, Inc. designs, develops, markets, and '
+                        'distributes thermal imaging systems, visible-light '
+                        'imaging systems, locater systems, measurement and '
+                        'diagnostic systems, and threat-detection solutions '
+                        'worldwide. The company operates in three segments: '
+                        'Industrial Business Unit, Government and Defense '
+                        'Business Unit, and Commercial Business Unit. The '
+                        'Industrial Business Unit segment offers thermal and '
+                        'visible-spectrum imaging camera cores and components '
+                        'for parties that create thermal, industrial, and '
+                        'other types of imaging systems; and products, such as '
+                        'thermal imaging cameras, gas detection cameras, '
+                        'firefighting cameras, process automation cameras, and '
+                        'environmental test and measurement devices. The '
+                        'Government and Defense Business Unit segment offers '
+                        'airborne, land, maritime, man-portable multi-spectrum '
+                        'imaging systems, radars, lasers, imaging components, '
+                        'integrated multi-sensor system platforms, CBRNE '
+                        'detectors, and nano-class UAS solutions, as well as '
+                        'services related to these systems. The Commercial '
+                        'Business Unit segment provides thermal and '
+                        'visible-spectrum security cameras, digital and '
+                        'networked video recorders, and related software and '
+                        'accessories; networked marine electronic systems that '
+                        'include multi-function helm displays, navigational '
+                        'instruments, autopilots, radars, sonar systems, '
+                        'thermal and visible imaging systems; communications '
+                        'equipment for boats, traffic cameras, sensors and '
+                        'associated traffic management software; and handheld '
+                        'thermal imagers. FLIR Systems, Inc. was founded in '
+                        '1978 and is headquartered in Wilsonville, Oregon.',
+ 'longName': 'FLIR Systems, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 5360596992,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_327408',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 125273000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 41.8,
+ 'openInterest': None,
+ 'payoutRatio': 0.73910004,
+ 'pegRatio': 7.78,
+ 'phone': '503 498 3547',
+ 'previousClose': 41.89,
+ 'priceHint': 2,
+ 'priceToBook': 3.133461,
+ 'priceToSalesTrailing12Months': 2.8314812,
+ 'profitMargins': 0.06617,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 41.9,
+ 'regularMarketDayLow': 40.895,
+ 'regularMarketOpen': 41.8,
+ 'regularMarketPreviousClose': 41.89,
+ 'regularMarketPrice': 41.8,
+ 'regularMarketVolume': 660357,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 130842000,
+ 'sharesPercentSharesOut': 0.0172,
+ 'sharesShort': 2246336,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2283075,
+ 'shortName': 'FLIR Systems, Inc.',
+ 'shortPercentOfFloat': 0.0196,
+ 'shortRatio': 1.24,
+ 'startDate': None,
+ 'state': 'OR',
+ 'strikePrice': None,
+ 'symbol': 'FLIR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.68,
+ 'trailingAnnualDividendYield': 0.016232992,
+ 'trailingEps': 0.921,
+ 'trailingPE': 44.484257,
+ 'twoHundredDayAverage': 43.67252,
+ 'volume': 660357,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.flir.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '97070'}

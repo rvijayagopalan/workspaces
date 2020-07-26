@@ -1,0 +1,156 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '346 North Mayo Trail',
+ 'address2': 'P.O. Box 2947',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 33.01,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 47400,
+ 'averageVolume': 51460,
+ 'averageVolume10days': 47400,
+ 'beta': 0.799439,
+ 'beta3Year': None,
+ 'bid': 31.78,
+ 'bidSize': 1200,
+ 'bookValue': 35.507,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Pikeville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 32.75,
+ 'dayLow': 31.97,
+ 'dividendRate': 1.52,
+ 'dividendYield': 0.0469,
+ 'earningsQuarterlyGrowth': 0.072,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.907,
+ 'enterpriseValue': 876404928,
+ 'exDividendDate': 1591920000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 32.111427,
+ 'fiftyTwoWeekHigh': 47.54,
+ 'fiftyTwoWeekLow': 26.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.25,
+ 'floatShares': 15083220,
+ 'forwardEps': 2.68,
+ 'forwardPE': 11.947762,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 979,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0504,
+ 'heldPercentInstitutions': 0.61701,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1399939200,
+ 'lastSplitFactor': '11:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ctbi.com',
+ 'longBusinessSummary': 'Community Trust Bancorp, Inc. operates as the bank '
+                        'holding company for Community Trust Bank, Inc. that '
+                        'provides commercial and personal banking services to '
+                        'small and mid-sized communities. The company accepts '
+                        'time and demand deposits, Keogh plans, and savings '
+                        'certificates, as well as checking and savings, '
+                        'regular, individual retirement, NOW, and money market '
+                        'accounts. It also offers loan products, such as '
+                        'commercial and residential real estate loans; '
+                        'commercial, construction and development, mortgage, '
+                        'and personal loans, as well as consumer, and secured '
+                        'and unsecured loans; and lease-financing, lines of '
+                        'credit, revolving lines of credit, and term loans, as '
+                        'well as other specialized loans, including '
+                        'asset-based financing. In addition, the company '
+                        'provides cash management, safe deposit boxes rental, '
+                        'and funds transfer services; issues letters of '
+                        'credit; and acts as a trustee of personal trusts, '
+                        'executor of estates, trustee for employee benefit '
+                        'trusts, and paying agent for bond and stock issues, '
+                        'as well as an investment agent and depositor for '
+                        'securities. Further, it offers full service '
+                        'securities brokerage, and trust and wealth management '
+                        'services; debit cards; annuity and life insurance '
+                        'products; and repurchase agreements, as well as '
+                        'mobile, telephone, and Internet banking services. The '
+                        'company operates 79 banking locations in eastern, '
+                        'northeastern, central, south central Kentucky, '
+                        'southern West Virginia, and northeastern Tennessee; 4 '
+                        'trust offices in Kentucky; and 1 trust office in '
+                        'Tennessee. Community Trust Bancorp, Inc. was founded '
+                        'in 1903 and is headquartered in Pikeville, Kentucky.',
+ 'longName': 'Community Trust Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 569783104,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_296863',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 57508000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 32.5,
+ 'openInterest': None,
+ 'payoutRatio': 0.4691,
+ 'pegRatio': 2.09,
+ 'phone': '606-432-1414',
+ 'previousClose': 32.44,
+ 'priceHint': 2,
+ 'priceToBook': 0.901794,
+ 'priceToSalesTrailing12Months': 3.1903286,
+ 'profitMargins': 0.322,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 32.75,
+ 'regularMarketDayLow': 31.97,
+ 'regularMarketOpen': 32.5,
+ 'regularMarketPreviousClose': 32.44,
+ 'regularMarketPrice': 32.5,
+ 'regularMarketVolume': 47769,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 17794600,
+ 'sharesPercentSharesOut': 0.0117999995,
+ 'sharesShort': 209568,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 134319,
+ 'shortName': 'Community Trust Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0138,
+ 'shortRatio': 3.75,
+ 'startDate': None,
+ 'state': 'KY',
+ 'strikePrice': None,
+ 'symbol': 'CTBI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.52,
+ 'trailingAnnualDividendYield': 0.046855737,
+ 'trailingEps': 3.24,
+ 'trailingPE': 9.882716,
+ 'twoHundredDayAverage': 35.44144,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'bd3747f9-e142-3169-bff9-4192d18ff739',
+ 'volume': 47769,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ctbi.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '41501'}

@@ -1,0 +1,162 @@
+{'52WeekChange': 1.9320111,
+ 'SandP52WeekChange': None,
+ 'address1': '301 Binney Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 33,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 752787,
+ 'averageVolume': 1124190,
+ 'averageVolume10days': 752787,
+ 'beta': 1.512044,
+ 'beta3Year': None,
+ 'bid': 24.08,
+ 'bidSize': 1400,
+ 'bookValue': 3.72,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 30.87,
+ 'dayLow': 29.73,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -10.625,
+ 'enterpriseToRevenue': 110.04,
+ 'enterpriseValue': 3151982080,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '617 621 0431',
+ 'fiftyDayAverage': 34.284286,
+ 'fiftyTwoWeekHigh': 39.88,
+ 'fiftyTwoWeekLow': 10.28,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 113367321,
+ 'forwardEps': -1.79,
+ 'forwardPE': -16.759777,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 118,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00984,
+ 'heldPercentInstitutions': 1.03484,
+ 'industry': 'Drug Manufacturers—Specialty & Generic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/momentapharma.com',
+ 'longBusinessSummary': 'Momenta Pharmaceuticals, Inc., a biotechnology '
+                        'company, focuses on the discovery and development of '
+                        'novel biologic therapies for the treatment of rare '
+                        'immune-mediated diseases in the United States. Its '
+                        'novel therapeutic programs include M281, a '
+                        'fully-human anti-neonatal Fc receptor (FcRn), '
+                        'aglycosylated immunoglobulin G (IgG1), and monoclonal '
+                        'antibody to reduce circulating IgG antibodies by '
+                        'blocking endogenous IgG recycling via FcRn; M230, a '
+                        'recombinant trivalent human IgG1 Fc multimer '
+                        'containing three IgG Fc regions joined to maximize '
+                        'activity; and M254, a hyper-sialylated immunoglobulin '
+                        'to treat various inflammatory diseases, including '
+                        'idiopathic thrombocytopenic purpura and chronic '
+                        'inflammatory demyelinating polyneuropathy. The '
+                        "company's biosimilar programs comprise M923, a "
+                        'biosimilar of HUMIRA for the treatment of patients '
+                        "with rheumatoid arthritis, crohn's disease, "
+                        'ulcerative colitis, and psoriasis; and M710, a '
+                        'biosimilar of EYLEA for the treatment of neovascular '
+                        'age-related macular degeneration, macular edema '
+                        'following retinal vein occlusion, diabetic macular '
+                        'edema (DME), and diabetic retinopathy in patients '
+                        'with DME. Its complex generics programs include '
+                        'Enoxaparin sodium injection, a generic version of '
+                        'LOVENOX that is indicated for the prevention and '
+                        'treatment of deep vein thrombosis, as well as '
+                        'supports the treatment of acute coronary syndromes; '
+                        'GLATOPA, a generic version of once-daily COPAXONE for '
+                        'the treatment of patients with relapsing forms of '
+                        'multiple sclerosis; and GLATOPA, a generic version of '
+                        'three-times-weekly COPAXONE. The company has '
+                        'collaboration and license agreements with Sandoz AG, '
+                        'Mylan Ireland Limited, and CSL Behring Recombinant '
+                        'Facility AG. The company was formerly known as '
+                        'Mimeon, Inc. and changed its name to Momenta '
+                        'Pharmaceuticals, Inc. in September 2002. Momenta '
+                        'Pharmaceuticals, Inc. was founded in 2001 and is '
+                        'headquartered in Cambridge, Massachusetts.',
+ 'longName': 'Momenta Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3529169920,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_5684719',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -284767008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 30.57,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.13,
+ 'phone': '617 491 9700',
+ 'previousClose': 31.05,
+ 'priceHint': 2,
+ 'priceToBook': 8.064516,
+ 'priceToSalesTrailing12Months': 123.208,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 30.87,
+ 'regularMarketDayLow': 29.73,
+ 'regularMarketOpen': 30.57,
+ 'regularMarketPreviousClose': 31.05,
+ 'regularMarketPrice': 30.57,
+ 'regularMarketVolume': 862346,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 115717000,
+ 'sharesPercentSharesOut': 0.069299996,
+ 'sharesShort': 8146960,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6186062,
+ 'shortName': 'Momenta Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.1161,
+ 'shortRatio': 5.47,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'MNTA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.736,
+ 'twoHundredDayAverage': 30.51223,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '32830aac-448a-3ee6-b41d-8cfdefe0f601',
+ 'volume': 862346,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.momentapharma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02142'}

@@ -1,0 +1,154 @@
+{'52WeekChange': 0.7488445,
+ 'SandP52WeekChange': None,
+ 'address1': 'Baarerstrasse 14',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 90.44,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 810762,
+ 'averageVolume': 1101358,
+ 'averageVolume10days': 810762,
+ 'beta': 2.33419,
+ 'beta3Year': None,
+ 'bid': 90.35,
+ 'bidSize': 1100,
+ 'bookValue': 14.552,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Zug',
+ 'companyOfficers': [],
+ 'country': 'Switzerland',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 90.83,
+ 'dayLow': 87.22,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 169.487,
+ 'enterpriseToRevenue': 16.152,
+ 'enterpriseValue': 4674632704,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 78.50657,
+ 'fiftyTwoWeekHigh': 97.824,
+ 'fiftyTwoWeekLow': 32.3,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 50681918,
+ 'forwardEps': -5.21,
+ 'forwardPE': -17.34165,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 304,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.20944999,
+ 'heldPercentInstitutions': 0.55734,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/crisprtx.com',
+ 'longBusinessSummary': 'CRISPR Therapeutics AG, a gene editing company, '
+                        'focuses on developing transformative gene-based '
+                        'medicines for serious human diseases. It develops its '
+                        'products using Clustered Regularly Interspaced Short '
+                        'Palindromic Repeats (CRISPR)/CRISPR-associated '
+                        'protein 9 (Cas9), a gene editing technology that '
+                        'allows for precise directed changes to genomic DNA. '
+                        'It has a portfolio of therapeutic programs in a range '
+                        'of disease areas, including hemoglobinopathies, '
+                        'oncology, regenerative medicine, and rare diseases. '
+                        "The company's lead product candidate is CTX001, an ex "
+                        'vivo CRISPR gene-edited therapy for treating patients '
+                        'suffering from transfusion-dependent beta thalassemia '
+                        "or severe sickle cell disease in which a patient's "
+                        'hematopoietic stem cells are engineered to produce '
+                        'high levels of fetal hemoglobin in red blood cells. '
+                        'It is also developing CTX110, a donor-derived '
+                        'gene-edited allogeneic CAR-T therapy targeting '
+                        'cluster of differentiation 19 positive malignancies. '
+                        'In addition, the company is developing allogeneic '
+                        'CAR-T programs comprising CTX120 targeting B-cell '
+                        'maturation antigen for the treatment of multiple '
+                        'myeloma; and CTX130 for the treatment of solid tumors '
+                        'and hematologic malignancies. Further, it engages in '
+                        'developing regenerative medicine programs in '
+                        'diabetes; and in vivo and other genetic disease '
+                        'programs to treat glycogen storage disease Ia, '
+                        'Duchenne muscular dystrophy, and cystic fibrosis. The '
+                        'company has strategic partnerships with Bayer '
+                        'Healthcare LLC, Vertex Pharmaceuticals Incorporated, '
+                        'and ViaCyte, Inc. CRISPR Therapeutics AG is '
+                        'headquartered in Zug, Switzerland.',
+ 'longName': 'CRISPR Therapeutics AG',
+ 'market': 'us_market',
+ 'marketCap': 6204306944,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_262549448',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 45535000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 88.9,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '41 41 561 3277',
+ 'previousClose': 90.8,
+ 'priceHint': 2,
+ 'priceToBook': 6.2087684,
+ 'priceToSalesTrailing12Months': 21.437109,
+ 'profitMargins': 0.15732999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 90.83,
+ 'regularMarketDayLow': 87.22,
+ 'regularMarketOpen': 88.9,
+ 'regularMarketPreviousClose': 90.8,
+ 'regularMarketPrice': 88.9,
+ 'regularMarketVolume': 986175,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 68669696,
+ 'sharesPercentSharesOut': 0.0665,
+ 'sharesShort': 4137765,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3886113,
+ 'shortName': 'CRISPR Therapeutics AG',
+ 'shortPercentOfFloat': 0.077,
+ 'shortRatio': 4.12,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'CRSP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.766,
+ 'trailingPE': 117.95039,
+ 'twoHundredDayAverage': 59.24338,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '10230d3e-917c-3849-a2ff-4a032541eb82',
+ 'volume': 986175,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.crisprtx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '6300'}

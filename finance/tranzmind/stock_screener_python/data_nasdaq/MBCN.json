@@ -1,0 +1,153 @@
+{'52WeekChange': -0.09113002,
+ 'SandP52WeekChange': None,
+ 'address1': '15985 East High Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 6975,
+ 'averageVolume': 21823,
+ 'averageVolume10days': 6975,
+ 'beta': 0.798319,
+ 'beta3Year': None,
+ 'bid': 11.9,
+ 'bidSize': 800,
+ 'bookValue': 22.085,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Middlefield',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 18.79,
+ 'dayLow': 18.59,
+ 'dividendRate': 0.6,
+ 'dividendYield': 0.0321,
+ 'earningsQuarterlyGrowth': -0.098,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.335,
+ 'enterpriseValue': 98872896,
+ 'exDividendDate': 1591142400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '440-632-1700',
+ 'fiftyDayAverage': 19.839714,
+ 'fiftyTwoWeekHigh': 28.8,
+ 'fiftyTwoWeekLow': 12,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.7,
+ 'floatShares': 5906088,
+ 'forwardEps': 1.36,
+ 'forwardPE': 13.801471,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 194,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.06879,
+ 'heldPercentInstitutions': 0.2773,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1573516800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/middlefieldbank.bank',
+ 'longBusinessSummary': 'Middlefield Banc Corp. operates as the bank holding '
+                        'company for The Middlefield Banking Company that '
+                        'provides various commercial banking services to small '
+                        'and medium-sized businesses, professionals, small '
+                        'business owners, and retail customers in northeastern '
+                        'and central Ohio. It accepts checking, savings, '
+                        'negotiable order of withdrawal, and money market '
+                        'accounts, as well as time certificates of deposit and '
+                        'IRA accounts. The company offers operational and '
+                        'working capital, term business, residential '
+                        'construction, professional, and residential and '
+                        'mortgage loans, as well as consumer installment loans '
+                        'for home improvements, automobiles, boats, and other '
+                        'personal expenditures; loans to finance capital '
+                        'purchases; selected guaranteed or subsidized loan '
+                        'programs for small businesses; and agricultural '
+                        'loans. It also provides safe deposit facilities, '
+                        "travelers' and official checks, money orders, and ATM "
+                        'services; online banking and bill payment services to '
+                        'individuals; and online cash management services to '
+                        'business customers. In addition, the company resolves '
+                        'and disposes troubled assets in Ohio. As of December '
+                        '31, 2019, it had financial service offices in '
+                        'Beachwood, Chardon, Cortland, Dublin, Garrettsville, '
+                        'Mantua, Middlefield, Newbury, Orwell, Powell, Solon, '
+                        'Sunbury, Twinsburg, Plain City, and Westerville, as '
+                        'well as a loan production office in Mentor, Ohio. The '
+                        'company was founded in 1901 and is headquartered in '
+                        'Middlefield, Ohio.',
+ 'longName': 'Middlefield Banc Corp.',
+ 'market': 'us_market',
+ 'marketCap': 119554952,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_6565757',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 10417000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 18.65,
+ 'openInterest': None,
+ 'payoutRatio': 0.3676,
+ 'pegRatio': None,
+ 'phone': '440-632-1666',
+ 'previousClose': 18.7,
+ 'priceHint': 2,
+ 'priceToBook': 0.84989816,
+ 'priceToSalesTrailing12Months': 2.823488,
+ 'profitMargins': 0.24601,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.79,
+ 'regularMarketDayLow': 18.59,
+ 'regularMarketOpen': 18.65,
+ 'regularMarketPreviousClose': 18.7,
+ 'regularMarketPrice': 18.65,
+ 'regularMarketVolume': 5176,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 6369470,
+ 'sharesPercentSharesOut': 0.0216,
+ 'sharesShort': 137840,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 10278,
+ 'shortName': 'Middlefield Banc Corp.',
+ 'shortPercentOfFloat': 0.0233,
+ 'shortRatio': 3.02,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'MBCN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.59,
+ 'trailingAnnualDividendYield': 0.0315508,
+ 'trailingEps': 1.602,
+ 'trailingPE': 11.716604,
+ 'twoHundredDayAverage': 20.189352,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f8c39286-da85-3428-ad66-e41d2ad60c9e',
+ 'volume': 5176,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.middlefieldbank.bank',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '44062-0035'}

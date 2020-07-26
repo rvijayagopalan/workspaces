@@ -1,0 +1,160 @@
+{'52WeekChange': -0.70583224,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '600 East Greenwich Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 7.06,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 14550,
+ 'averageVolume': 54049,
+ 'averageVolume10days': 14550,
+ 'beta': 0.552941,
+ 'beta3Year': None,
+ 'bid': 6.89,
+ 'bidSize': 3200,
+ 'bookValue': 10.101,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'West Warwick',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 7.085,
+ 'dayLow': 6.91,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.746,
+ 'enterpriseToEbitda': 9.401,
+ 'enterpriseToRevenue': 0.506,
+ 'enterpriseValue': 64827356,
+ 'exDividendDate': 1585094400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 7.2117143,
+ 'fiftyTwoWeekHigh': 24.61,
+ 'fiftyTwoWeekLow': 5.29,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.94,
+ 'floatShares': 6009072,
+ 'forwardEps': 0.28,
+ 'forwardPE': 24.678572,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 365,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.05954,
+ 'heldPercentInstitutions': 0.61401004,
+ 'industry': 'Computer Hardware',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1151884800,
+ 'lastSplitFactor': '5:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/astronovainc.com',
+ 'longBusinessSummary': 'AstroNova, Inc. designs, develops, manufactures, and '
+                        'distributes specialty printers, and data acquisition '
+                        'and analysis systems in the United States, Europe, '
+                        'Asia, Canada, Central and South America, and '
+                        'internationally. The company operates through two '
+                        'segments, Product Identification (PI) and Test & '
+                        'Measurement (T&M). The PI segment offers tabletop and '
+                        'production-ready digital color label printers, as '
+                        'well as specialty OEM printing systems under the '
+                        'QuickLabel brand; digital color label mini-presses '
+                        'and inline specialty printing systems under the '
+                        'TrojanLabel brand; and labels, tags, inks, toner, and '
+                        'thermal transfer materials under the GetLabels brand. '
+                        'This segment also develops and licenses various '
+                        'specialized software used to design and manage labels '
+                        'and print images, as well as manage and operate its '
+                        'printers and presses on an automated basis. It serves '
+                        'chemicals, cosmetics, food and beverage, medical '
+                        'products, pharmaceuticals, and other industries, as '
+                        'well as brand owners, label converters, commercial '
+                        'printers, and packaging manufacturers. The T&M '
+                        'segment offers airborne printing solutions, such as '
+                        'ToughWriter used to print hard copies of navigation '
+                        'maps, arrival and departure information, flight '
+                        'itineraries, weather maps, performance data, '
+                        'passenger data, and various air traffic control data; '
+                        'ToughSwitch, an ethernet switches used to connect '
+                        'multiple computers or Ethernet devices; PTA-45B '
+                        'cockpit printers; TMX high-speed data acquisition '
+                        'systems; Daxus DXS-100 distributed data acquisition '
+                        'systems; SmartCorder DDX100 portable data acquisition '
+                        'systems; EV-500, a digital strip chart recording '
+                        'system; and Miltope and RITEC branded airborne '
+                        'printers. This segment serves aerospace and defense, '
+                        'automotive, commercial airline, energy, manufacturing '
+                        'and transportation industries. The company was '
+                        'formerly known as Astro-Med, Inc. and changed its '
+                        'name to AstroNova, Inc. in May 2016. AstroNova, Inc. '
+                        'was founded in 1969 and is headquartered in West '
+                        'Warwick, Rhode Island.',
+ 'longName': 'AstroNova, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 49498332,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_251995',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588377600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 491000,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 6.93,
+ 'openInterest': None,
+ 'payoutRatio': 4,
+ 'pegRatio': None,
+ 'phone': '401 828 4000',
+ 'previousClose': 6.9,
+ 'priceHint': 2,
+ 'priceToBook': 0.6840907,
+ 'priceToSalesTrailing12Months': 0.38615063,
+ 'profitMargins': 0.0038299998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 7.085,
+ 'regularMarketDayLow': 6.91,
+ 'regularMarketOpen': 6.93,
+ 'regularMarketPreviousClose': 6.9,
+ 'regularMarketPrice': 6.93,
+ 'regularMarketVolume': 4547,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 7163290,
+ 'sharesPercentSharesOut': 0.0222,
+ 'sharesShort': 159239,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 158538,
+ 'shortName': 'AstroNova, Inc.',
+ 'shortPercentOfFloat': 0.0231,
+ 'shortRatio': 1.96,
+ 'startDate': None,
+ 'state': 'RI',
+ 'strikePrice': None,
+ 'symbol': 'ALOT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.21,
+ 'trailingAnnualDividendYield': 0.030434782,
+ 'trailingEps': 0.069,
+ 'trailingPE': 100.14493,
+ 'twoHundredDayAverage': 8.711943,
+ 'volume': 4547,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.astronovainc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02893'}

@@ -1,0 +1,164 @@
+{'52WeekChange': -0.15944988,
+ 'SandP52WeekChange': None,
+ 'address1': '2 Gansevoort Street',
+ 'address2': '9th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 18.07,
+ 'askSize': 2900,
+ 'averageDailyVolume10Day': 20150,
+ 'averageVolume': 23777,
+ 'averageVolume10days': 20150,
+ 'beta': 2.170868,
+ 'beta3Year': None,
+ 'bid': 17.8,
+ 'bidSize': 900,
+ 'bookValue': 0.474,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': None,
+ 'dayHigh': 18.18,
+ 'dayLow': 18.0236,
+ 'dividendRate': 2.34,
+ 'dividendYield': 0.1289,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -15.635,
+ 'enterpriseToRevenue': 35.022,
+ 'enterpriseValue': 1508392448,
+ 'exDividendDate': 1576108800,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 18.173971,
+ 'fiftyTwoWeekHigh': 21.95,
+ 'fiftyTwoWeekLow': 12,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 59169413,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 93,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.04087,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/fortressbiotech.com',
+ 'longBusinessSummary': 'Fortress Biotech, Inc. develops and commercializes '
+                        'pharmaceutical and biotechnology products. It markets '
+                        'dermatology products, such as Targadox for acne; '
+                        'Exelderm cream for ringworm and jock itch symptoms; '
+                        'Ceracade for dry skin conditions; Luxamend for '
+                        'dressing and managing wounds; Ala-Scalp and Triderm, '
+                        'which are used for the inflammatory and pruritic '
+                        'manifestations of corticosteroid-responsive '
+                        'dermatoses; and Ala-Quin, an antibacterial and '
+                        'antifungal cream. The company also develops MB-107, a '
+                        'gene therapy for X-linked severe combined '
+                        'immunodeficiency; CAEL-101, a Phase Ia/Ib trial that '
+                        'reduces amyloid deposits in the tissues and organs; '
+                        'CD123 chimeric antigen receptor engineered T-cell '
+                        '(CAR T) program for acute myeloid leukemia; CD20 CAR '
+                        'T program for B cell non-Hodgkin lymphoma; and CS1 '
+                        'CAR T for multiple myeloma and light chain '
+                        'amyloidosis. In addition, it develops MB-101 for '
+                        'Glioblastoma (GBM); MB-103 for GBM, and breast cancer '
+                        'and brain metastases; MB-105 for prostate and '
+                        'pancreatic cancers; intravenous Tramadol for '
+                        'post-operative pain; CK-101, a Phase I/II clinical '
+                        'trial for treating patients with EGFR '
+                        'mutation-positive non-small cell lung cancer; CK-301, '
+                        'a Phase I clinical trial for metastatic cancer; '
+                        'Triplex, a Phase I study recombinant modified '
+                        'vaccinia ankara viral vector vaccine; ConVax, a '
+                        'recombinant modified vaccinia ankara viral vector '
+                        'vaccine; CEVA-101 for traumatic brain injury; CEVA-D, '
+                        'a bioreactor device that enhances the '
+                        'anti-inflammatory potency of bone marrow-derived '
+                        'cells; Tamid-001, a gene therapy for '
+                        'mucopolysaccharidosis type I disorder; CNDO-109, a '
+                        'lysate that activates donor natural killer cells; and '
+                        'methazalomide products. The company has collaboration '
+                        'arrangements with some universities, research '
+                        'institutes, and pharmaceutical companies. The company '
+                        'was formerly known as Coronado Biosciences, Inc. and '
+                        'changed its name to Fortress Biotech, Inc. in April '
+                        '2015. Fortress Biotech, Inc. was founded in 2006 and '
+                        'is based in New York, New York.',
+ 'longName': 'Fortress Biotech, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 96997408,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_61731337',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -53722000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 18.18,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '781 652 4500',
+ 'previousClose': 18.15,
+ 'priceHint': 2,
+ 'priceToBook': 38.12236,
+ 'priceToSalesTrailing12Months': 2.2520876,
+ 'profitMargins': -1.24732,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.18,
+ 'regularMarketDayLow': 18.0236,
+ 'regularMarketOpen': 18.18,
+ 'regularMarketPreviousClose': 18.15,
+ 'regularMarketPrice': 18.18,
+ 'regularMarketVolume': 6234,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 56679500,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': None,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'Fortress Biotech, Inc. - 9.375%',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': None,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'FBIOP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.919,
+ 'twoHundredDayAverage': 18.587467,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '519aaf33-2bcc-3da3-a8c8-568c9fd45fac',
+ 'volume': 6234,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.fortressbiotech.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10014'}

@@ -1,0 +1,160 @@
+{'52WeekChange': 1.0728793,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2485 Augustine Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 69.45,
+ 'askSize': 3200,
+ 'averageDailyVolume10Day': 81354862,
+ 'averageVolume': 59729530,
+ 'averageVolume10days': 81354862,
+ 'beta': 2.12549,
+ 'beta3Year': None,
+ 'bid': 69.42,
+ 'bidSize': 1100,
+ 'bookValue': 2.594,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Santa Clara',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 69.94,
+ 'dayLow': 64.05,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 9.125,
+ 'enterpriseToEbitda': 79.482,
+ 'enterpriseToRevenue': 11.124,
+ 'enterpriseValue': 80594616320,
+ 'exDividendDate': 798940800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 54.88286,
+ 'fiftyTwoWeekHigh': 69.94,
+ 'fiftyTwoWeekLow': 27.43,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 1163167743,
+ 'forwardEps': 1.53,
+ 'forwardPE': 45.359478,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 11400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00605,
+ 'heldPercentInstitutions': 0.78194,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 966902400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/amd.com',
+ 'longBusinessSummary': 'Advanced Micro Devices, Inc. operates as a '
+                        'semiconductor company worldwide. The company operates '
+                        'in two segments, Computing and Graphics; and '
+                        'Enterprise, Embedded and Semi-Custom. Its products '
+                        'include x86 microprocessors as an accelerated '
+                        'processing unit, chipsets, discrete and integrated '
+                        'graphics processing units (GPUs), data center and '
+                        'professional GPUs, and development services; and '
+                        'server and embedded processors, and semi-custom '
+                        'System-on-Chip (SoC) products, development services, '
+                        'and technology for game consoles. The company '
+                        'provides x86 microprocessors for desktop PCs under '
+                        'the AMD Ryzen, AMD Ryzen PRO, Ryzen, Threadripper, '
+                        'AMD A-Series, AMD FX, AMD Athlon, AMD Athlon PRO, and '
+                        'AMD Pro A-Series processors brands; microprocessors '
+                        'for notebook and 2-in-1s under the AMD Ryzen '
+                        'processors with Radeon Vega GPUs, AMD A-Series, AMD '
+                        'Athlon, AMD Ryzen PRO, and AMD Pro A-Series '
+                        'processors brands; microprocessors for servers under '
+                        'the AMD EPYC and AMD Opteron brands; and chipsets '
+                        'under the AMD trademark. It also offers discrete GPUs '
+                        'for desktop and notebook PCs under the AMD Radeon '
+                        'graphics and AMD Embedded Radeon brands; professional '
+                        'graphics products under the AMD Radeon Pro and AMD '
+                        'FirePro graphics brands; and Radeon Instinct '
+                        'accelerators for servers. In addition, the company '
+                        'provides embedded processor solutions for interactive '
+                        'digital signage, casino gaming, and medical imaging '
+                        'under the AMD Opteron, AMD Athlon, AMD Geode, AMD '
+                        'Ryzen, AMD EPYC, AMD R-Series, and G-Series '
+                        'processors brands; and customer-specific solutions '
+                        'based on AMD CPU, GPU, and multi-media technologies, '
+                        'as well as semi-custom SoC products. It serves '
+                        'original equipment and design manufacturers, '
+                        'datacenters, original design manufacturers, system '
+                        'integrators, independent distributors, online '
+                        'retailers, and add-in-board manufacturers through its '
+                        'direct sales force, independent distributors, and '
+                        'sales representatives. The company was founded in '
+                        '1969 and is headquartered in Santa Clara, California.',
+ 'longName': 'Advanced Micro Devices, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 81280589824,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_168864',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 487000000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 64.18,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.78,
+ 'phone': '408 749 4000',
+ 'previousClose': 59.57,
+ 'priceHint': 2,
+ 'priceToBook': 26.754047,
+ 'priceToSalesTrailing12Months': 11.218853,
+ 'profitMargins': 0.06722,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 69.94,
+ 'regularMarketDayLow': 64.05,
+ 'regularMarketOpen': 64.18,
+ 'regularMarketPreviousClose': 59.57,
+ 'regularMarketPrice': 64.18,
+ 'regularMarketVolume': 204341943,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 1171190016,
+ 'sharesPercentSharesOut': 0.041500002,
+ 'sharesShort': 48615536,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 55190563,
+ 'shortName': 'Advanced Micro Devices, Inc.',
+ 'shortPercentOfFloat': 0.0418,
+ 'shortRatio': 0.91,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'AMD',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.426,
+ 'trailingPE': 162.9108,
+ 'twoHundredDayAverage': 51.347984,
+ 'volume': 204341943,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.amd.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95054'}

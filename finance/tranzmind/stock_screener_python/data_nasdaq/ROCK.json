@@ -1,0 +1,161 @@
+{'52WeekChange': 0.21263409,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3556 Lake Shore Road',
+ 'address2': 'PO Box 2028',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 59.25,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 121175,
+ 'averageVolume': 200188,
+ 'averageVolume10days': 121175,
+ 'beta': 1.360784,
+ 'beta3Year': None,
+ 'bid': 20.2,
+ 'bidSize': 900,
+ 'bookValue': 20.905,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Buffalo',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 52.02,
+ 'dayLow': 50.65,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.901,
+ 'enterpriseToEbitda': 12.569,
+ 'enterpriseToRevenue': 1.485,
+ 'enterpriseValue': 1587641856,
+ 'exDividendDate': 1230595200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 48.064285,
+ 'fiftyTwoWeekHigh': 56.58,
+ 'fiftyTwoWeekLow': 30.6,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 32152852,
+ 'forwardEps': 2.92,
+ 'forwardPE': 17.421232,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1932,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00857,
+ 'heldPercentInstitutions': 1.03615,
+ 'industry': 'Building Products & Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1099267200,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/gibraltar1.com',
+ 'longBusinessSummary': 'Gibraltar Industries, Inc. manufactures and '
+                        'distributes building products for the renewable '
+                        'energy, conservation, residential, industrial, and '
+                        'infrastructure markets in North America and Asia. It '
+                        'operates through three segments: Renewable Energy and '
+                        'Conservation, Residential Products, and Industrial '
+                        'and Infrastructure Products. The Renewable Energy and '
+                        'Conservation segment designs, engineers, '
+                        'manufactures, and installs solar racking and '
+                        'electrical balance of systems, greenhouses, and '
+                        'botanical extraction systems. The Residential '
+                        'Products segment offers roof and foundation '
+                        'ventilation products and accessories, such as solar '
+                        'powered units; mail and electronic package solutions, '
+                        'including single mailboxes, cluster style mail and '
+                        'parcel boxes for single and multi-family housing, and '
+                        'electronic package locker systems; roof edgings and '
+                        'flashings; soffits and trims; drywall corner beads; '
+                        'metal roofing products and accessories; rain '
+                        'dispersion products comprising gutters and '
+                        'accessories; and exterior retractable awnings. This '
+                        'segment also provides electronic parcel lockers, '
+                        'rooftop safety kits, chimney caps, heat trace coils '
+                        'and exterior products, remote-controlled deck awnings '
+                        'for sun protection, and solar-powered ventilation '
+                        'products. The Industrial and Infrastructure Products '
+                        'segment offers expanded and perforated metals used in '
+                        'walkways, catwalks, architectural facades, perimeter '
+                        'security barriers, shelving, and other applications; '
+                        'fiberglass; and expansion joint systems, bearing '
+                        'assemblies, and pavement sealing systems used in '
+                        'bridges, elevated highways, airport runways, and rail '
+                        'crossings. This segment also provides architectural '
+                        'facades for buildings; and perimeter security '
+                        'barriers for protecting critical infrastructure. It '
+                        'serves solar developers, growers of food and plants, '
+                        'home improvement retailers, wholesalers, '
+                        'distributors, and contractors. Gibraltar Industries, '
+                        'Inc. was incorporated in 1993 and is headquartered in '
+                        'Buffalo, New York.',
+ 'longName': 'Gibraltar Industries, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1648640768,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_334367',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 70805000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 52.02,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.1,
+ 'phone': '716 826 6500',
+ 'previousClose': 52.03,
+ 'priceHint': 2,
+ 'priceToBook': 2.433389,
+ 'priceToSalesTrailing12Months': 1.5415623,
+ 'profitMargins': 0.06621,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 52.02,
+ 'regularMarketDayLow': 50.65,
+ 'regularMarketOpen': 52.02,
+ 'regularMarketPreviousClose': 52.03,
+ 'regularMarketPrice': 52.02,
+ 'regularMarketVolume': 93024,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 32408900,
+ 'sharesPercentSharesOut': 0.041100003,
+ 'sharesShort': 1332324,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1232034,
+ 'shortName': 'Gibraltar Industries, Inc.',
+ 'shortPercentOfFloat': 0.048899997,
+ 'shortRatio': 5.77,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'ROCK',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.168,
+ 'trailingPE': 23.464022,
+ 'twoHundredDayAverage': 47.36475,
+ 'volume': 93024,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.gibraltar1.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '14219-0228'}

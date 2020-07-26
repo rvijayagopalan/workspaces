@@ -1,0 +1,160 @@
+{'52WeekChange': 1.9810297,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Guanjie Building',
+ 'address2': 'Southeast 1st Floor 10# Jiuxianqiao East Road Chaoyang District',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 22.01,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 1224687,
+ 'averageVolume': 1492138,
+ 'averageVolume10days': 1224687,
+ 'beta': 0.364145,
+ 'beta3Year': None,
+ 'bid': 21.98,
+ 'bidSize': 800,
+ 'bookValue': 6.868,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Beijing',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 22.18,
+ 'dayLow': 21.1,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 2454998528,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '86 10 8456 4234',
+ 'fiftyDayAverage': 21.664858,
+ 'fiftyTwoWeekHigh': 30.44,
+ 'fiftyTwoWeekLow': 6.31,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 77367049,
+ 'forwardEps': 0.05,
+ 'forwardPE': 440,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2295,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01699,
+ 'heldPercentInstitutions': 0.50056,
+ 'industry': 'Information Technology Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/21vianet.com',
+ 'longBusinessSummary': '21Vianet Group, Inc. provides carrier and '
+                        'cloud-neutral Internet data center services to '
+                        'Internet companies, government entities, blue-chip '
+                        'enterprises, and small-to mid-sized enterprises in '
+                        "the People's Republic of China. The company operates "
+                        'in two segments, Hosting and Related Services, and '
+                        'Managed Network Services. It offers hosting and '
+                        'related services to house servers and networking '
+                        'equipment in its data centers, and connects them '
+                        "through a data transmission network. The company's "
+                        'hosting and related services include managed hosting '
+                        'services that offer data center space to house its '
+                        "customers' servers and networking equipment, and "
+                        'provide tailored server administration services; and '
+                        'interconnectivity services that enable customers to '
+                        'connect their servers with Internet backbones and '
+                        'other networks through its border gateway protocol '
+                        'network or single-line, dual-line, or multiple-line '
+                        'network. Its hosting and related services also '
+                        'comprise cloud services that enable businesses to run '
+                        'their applications over the Internet using its IT '
+                        'infrastructure; virtual private network services; '
+                        'Hybrid IT Services, which provide customers with a '
+                        'complete package of infrastructure service offerings; '
+                        'and other value-added services, such as firewall, '
+                        'server load balancing, data backup and recovery, data '
+                        'center management, server management, and backup '
+                        'server services. In addition, the company provides '
+                        'traffic charts and analysis, gateway monitoring for '
+                        'servers, domain name system setup, defense mechanism '
+                        'against distributed denial of service attacks, basic '
+                        'setting of switches and routers, and virus '
+                        'protections; and managed network service. As of '
+                        'December 31, 2019, it operated 26 self-built and 51 '
+                        'partnered data centers located in approximately 20 '
+                        'cities with 36,291 cabinets. It has a strategic '
+                        'partnership with Microsoft Corporation. 21Vianet '
+                        'Group, Inc. was founded in 1999 and is headquartered '
+                        "in Beijing, the People's Republic of China.",
+ 'longName': '21Vianet Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2485097984,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_129459462',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 21.35,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -51.75,
+ 'phone': '86 10 8456 2121',
+ 'previousClose': 22.17,
+ 'priceHint': 2,
+ 'priceToBook': 3.2032614,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': -0.08151,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 22.18,
+ 'regularMarketDayLow': 21.1,
+ 'regularMarketOpen': 21.35,
+ 'regularMarketPreviousClose': 22.17,
+ 'regularMarketPrice': 21.35,
+ 'regularMarketVolume': 710821,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 112959000,
+ 'sharesPercentSharesOut': 0.0098,
+ 'sharesShort': 1193288,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1148884,
+ 'shortName': '21Vianet Group, Inc.',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 0.54,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'VNET',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.766,
+ 'trailingPE': 28.720627,
+ 'twoHundredDayAverage': 15.674316,
+ 'volume': 710821,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.21vianet.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '100016'}

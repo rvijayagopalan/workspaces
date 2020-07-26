@@ -1,0 +1,160 @@
+{'52WeekChange': -0.61659193,
+ 'SandP52WeekChange': None,
+ 'address1': '520 Pike Street',
+ 'address2': 'Suite 2000',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1.67,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 99212,
+ 'averageVolume': 254853,
+ 'averageVolume10days': 99212,
+ 'beta': 1.895238,
+ 'beta3Year': None,
+ 'bid': 1.66,
+ 'bidSize': 1000,
+ 'bookValue': 1.756,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Seattle',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1.72,
+ 'dayLow': 1.6501,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -12.051,
+ 'enterpriseToRevenue': 0.386,
+ 'enterpriseValue': 40346996,
+ 'exDividendDate': 1520380800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '206-331-3695',
+ 'fiftyDayAverage': 1.6157143,
+ 'fiftyTwoWeekHigh': 4.49,
+ 'fiftyTwoWeekLow': 1.1,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 23380964,
+ 'forwardEps': -0.02,
+ 'forwardPE': -83.5,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 291,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.09951,
+ 'heldPercentInstitutions': 0.80304,
+ 'industry': 'Advertising Agencies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/marchex.com',
+ 'longBusinessSummary': 'Marchex, Inc. operates as a call analytics company '
+                        'that helps businesses connect, drive, measure, and '
+                        'convert callers into customers. Its products include '
+                        'Marchex Call Analytics, an analytics platform for '
+                        'enterprises that depend on inbound phone calls to '
+                        'drive sales, appointments, and reservations; Marchex '
+                        'Speech Analytics that enable actionable insights for '
+                        'enterprise, mid-sized, and small businesses; Text '
+                        'Analytics and Communications, which enable businesses '
+                        'to send and receive text/SMS messages with customers; '
+                        'Call Monitoring; Marchex Omnichannel Analytics Cloud '
+                        'products, such as Marchex Search Analytics, a product '
+                        'for search marketers that drive phone calls from '
+                        'search campaigns, as well as Marchex Display and '
+                        'Video Analytics, a product for marketers that buy '
+                        'digital display advertising; Marchex Site Analytics, '
+                        'a product for marketers that can drive phone calls '
+                        'from Websites; and Marchex Social Analytics, a '
+                        'product for marketers that buy social media '
+                        'advertising. The company also offers Marchex Audience '
+                        'Targeting that leverages call data to automatically '
+                        'build audience segments for display and social media '
+                        'platforms; and Marchex Call Marketplace, a mobile '
+                        'advertising network for businesses that depend on '
+                        'inbound phone calls to drive sales, as well as '
+                        'provides advertisers ad placements across various '
+                        'mobile and online media sources to deliver qualified '
+                        'calls to their businesses. In addition, it provides '
+                        'Local Leads platform, a service advertising solution '
+                        'for small business resellers, such as Yellow Pages '
+                        'providers and vertical marketing service providers to '
+                        'sell call advertising, search marketing, and other '
+                        'lead generation products through their existing sales '
+                        'channels to small business advertisers. Marchex, Inc. '
+                        'was founded in 2003 and is headquartered in Seattle, '
+                        'Washington.',
+ 'longName': 'Marchex, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 74363432,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_8163421',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -27618000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 1.72,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.57,
+ 'phone': '206-331-3300',
+ 'previousClose': 1.71,
+ 'priceHint': 4,
+ 'priceToBook': 0.951025,
+ 'priceToSalesTrailing12Months': 0.7115369,
+ 'profitMargins': -0.26426,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.72,
+ 'regularMarketDayLow': 1.6501,
+ 'regularMarketOpen': 1.72,
+ 'regularMarketPreviousClose': 1.71,
+ 'regularMarketPrice': 1.72,
+ 'regularMarketVolume': 66081,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 39868100,
+ 'sharesPercentSharesOut': 0.020299999,
+ 'sharesShort': 903031,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 833583,
+ 'shortName': 'Marchex, Inc.',
+ 'shortPercentOfFloat': 0.0295,
+ 'shortRatio': 2.09,
+ 'startDate': None,
+ 'state': 'WA',
+ 'strikePrice': None,
+ 'symbol': 'MCHX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.5,
+ 'trailingAnnualDividendYield': 0.29239765,
+ 'trailingEps': -0.601,
+ 'twoHundredDayAverage': 2.0892806,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f03628d1-4ad0-3d36-86c5-65ec8b6c86a3',
+ 'volume': 66081,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.marchex.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '98101'}

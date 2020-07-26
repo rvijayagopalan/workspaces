@@ -1,0 +1,153 @@
+{'52WeekChange': -0.23544097,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '500 Bicentennial Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 9.5,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 2062,
+ 'averageVolume': 5726,
+ 'averageVolume10days': 2062,
+ 'beta': 0.912044,
+ 'beta3Year': None,
+ 'bid': 8.91,
+ 'bidSize': 800,
+ 'bookValue': 11.236,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Santa Rosa',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9.45,
+ 'dayLow': 9.185,
+ 'dividendRate': 0.48,
+ 'dividendYield': 0.053000003,
+ 'earningsQuarterlyGrowth': 0.695,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.548,
+ 'enterpriseValue': 95265280,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '707-568-7090',
+ 'fiftyDayAverage': 9.740857,
+ 'fiftyTwoWeekHigh': 13.21,
+ 'fiftyTwoWeekLow': 6.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.66,
+ 'floatShares': 4978468,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 93,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.18611,
+ 'heldPercentInstitutions': 0.14172,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1489536000,
+ 'lastSplitFactor': '125:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/summitstatebank.com',
+ 'longBusinessSummary': 'Summit State Bank provides various banking products '
+                        'and services to individuals and businesses primarily '
+                        'in Sonoma County, California. It offers personal and '
+                        'business checking, money market, sweep, savings, and '
+                        'demand accounts; time certificates of deposit; and '
+                        'specialized deposit accounts, such as professional, '
+                        'small business packaged, tiered, and Keogh and '
+                        'individual retirement accounts. The company also '
+                        'provides loans, including commercial loans and '
+                        'leases; lines of credit; commercial real estate, '
+                        'small business administration, residential mortgage, '
+                        'and construction loans; and home equity lines of '
+                        'credit, as well as term loans, credit lines to '
+                        'individuals, equipment loans, and business lines of '
+                        'credit. Its loan products also comprise loans for '
+                        'accounts receivable and inventory financing, loans to '
+                        'agriculture-related businesses, and equipment and '
+                        'expansion financing programs. In addition, the '
+                        'company provides Internet and telephone banking; and '
+                        'other services, including banking by appointment, '
+                        'online banking, direct payroll and social security '
+                        'deposits, letters of credit, access to national '
+                        'automated teller machine networks, courier, safe '
+                        'deposit boxes, night depository facilities, notary, '
+                        'travelers checks, lockbox, and banking by mail. '
+                        'Further, it offers cash management and electronic '
+                        'bill payment services. The company operates through '
+                        'five depository offices located in Santa Rosa, '
+                        'Rohnert Park, Healdsburg, and Petaluma, as well as '
+                        'loan production office in Roseville, California. '
+                        'Summit State Bank was founded in 1982 and is '
+                        'headquartered in Santa Rosa, California.',
+ 'longName': 'Summit State Bank',
+ 'market': 'us_market',
+ 'marketCap': 57357720,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1034431',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 7467000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 9.185,
+ 'openInterest': None,
+ 'payoutRatio': 0.38709998,
+ 'pegRatio': None,
+ 'phone': '707-568-6000',
+ 'previousClose': 9.06,
+ 'priceHint': 2,
+ 'priceToBook': 0.84104663,
+ 'priceToSalesTrailing12Months': 2.1360688,
+ 'profitMargins': 0.27808002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9.45,
+ 'regularMarketDayLow': 9.185,
+ 'regularMarketOpen': 9.185,
+ 'regularMarketPreviousClose': 9.06,
+ 'regularMarketPrice': 9.185,
+ 'regularMarketVolume': 539,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 6069600,
+ 'sharesPercentSharesOut': 0.00090000004,
+ 'sharesShort': 5222,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3577,
+ 'shortName': 'Summit State Bank',
+ 'shortPercentOfFloat': 0.001,
+ 'shortRatio': 1.26,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'SSBI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.48,
+ 'trailingAnnualDividendYield': 0.05298013,
+ 'trailingEps': 1.23,
+ 'trailingPE': 7.6829267,
+ 'twoHundredDayAverage': 10.121007,
+ 'volume': 539,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.summitstatebank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95403'}

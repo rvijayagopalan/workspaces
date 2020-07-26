@@ -1,0 +1,163 @@
+{'52WeekChange': -0.39886135,
+ 'SandP52WeekChange': None,
+ 'address1': '1100 CommScope Place, SE',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 8.65,
+ 'askSize': 4000,
+ 'averageDailyVolume10Day': 6392937,
+ 'averageVolume': 4648395,
+ 'averageVolume10days': 6392937,
+ 'beta': 1.555742,
+ 'beta3Year': None,
+ 'bid': 8.6,
+ 'bidSize': 36200,
+ 'bookValue': 2.928,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Hickory',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9.04,
+ 'dayLow': 8.62,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 10.792,
+ 'enterpriseToRevenue': 1.32,
+ 'enterpriseValue': 12250515456,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 9,
+ 'fiftyTwoWeekHigh': 15.79,
+ 'fiftyTwoWeekLow': 5.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 145248879,
+ 'forwardEps': 1.96,
+ 'forwardPE': 4.413265,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 30000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01811,
+ 'heldPercentInstitutions': 1.0507901,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/commscope.com',
+ 'longBusinessSummary': 'CommScope Holding Company, Inc. provides '
+                        'infrastructure solutions for communications and '
+                        "entertainment networks worldwide. The company's "
+                        'Connectivity segment offers fiber optic, copper '
+                        'cable, and connectivity solutions for use in data '
+                        'centers, business enterprises, telecommunications, '
+                        'cable television, and residential broadband networks. '
+                        'Its Mobility segment provides building blocks for '
+                        'cellular base station sites and related connectivity; '
+                        'indoor, small cell, and distributed antenna wireless '
+                        'systems; and wireless network backhaul planning and '
+                        "optimization solutions. The company's Customer "
+                        'Premises Equipment segment provides subscriber-based '
+                        'solutions that support broadband and video '
+                        'applications connecting cable, telecommunications, '
+                        'and satellite service providers. This segment offers '
+                        'devices that provide residential connectivity to '
+                        "service provider's network, such as digital "
+                        'subscriber line, cable modems, and telephony and data '
+                        'gateways that incorporate routing and Wi-Fi '
+                        'functionality. It also provides set top boxes that '
+                        'support cable, satellite, and IPTV content delivery, '
+                        'as well as digital video recorders, high definition '
+                        'set top boxes, and hybrid set top devices. Its '
+                        'Network & Cloud Segment offers cable modem '
+                        'termination systems, video infrastructure, '
+                        'distribution and transmission equipment, and cloud '
+                        'solutions that enable facility-based service '
+                        'providers to construct residential and metro '
+                        "distribution network. The company's Ruckus segment "
+                        'provides converged wired and wireless networks for '
+                        'enterprises and service providers. This segment '
+                        'offers indoor and outdoor Wi-Fi and LTE access '
+                        'points, access, and aggregation switches; IoT suite, '
+                        'and on-premises and cloud-based control and '
+                        'management systems; and software and '
+                        'software-as-a-service applications for security, '
+                        'location, reporting, and analytics. The company was '
+                        'formerly known as Cedar I Holding Company, Inc. '
+                        'CommScope Holding Company, Inc. was founded in 1976 '
+                        'and is headquartered in Hickory, North Carolina.',
+ 'longName': 'CommScope Holding Company, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1694318720,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_26765',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -1144600064,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 8.93,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -30.96,
+ 'phone': '828 324 2200',
+ 'previousClose': 8.975,
+ 'priceHint': 2,
+ 'priceToBook': 2.9542348,
+ 'priceToSalesTrailing12Months': 0.18260106,
+ 'profitMargins': -0.11715999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9.04,
+ 'regularMarketDayLow': 8.62,
+ 'regularMarketOpen': 8.93,
+ 'regularMarketPreviousClose': 8.975,
+ 'regularMarketPrice': 8.93,
+ 'regularMarketVolume': 2606108,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 195284000,
+ 'sharesPercentSharesOut': 0.053400002,
+ 'sharesShort': 10463117,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 9727986,
+ 'shortName': 'CommScope Holding Company, Inc.',
+ 'shortPercentOfFloat': 0.0614,
+ 'shortRatio': 2.22,
+ 'startDate': None,
+ 'state': 'NC',
+ 'strikePrice': None,
+ 'symbol': 'COMM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -5.893,
+ 'twoHundredDayAverage': 10.375863,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '70a7ffaa-baee-3fd9-a899-30ffa9127040',
+ 'volume': 2606108,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.commscope.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '28602'}

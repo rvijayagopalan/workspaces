@@ -1,0 +1,158 @@
+{'52WeekChange': 0.6172179,
+ 'SandP52WeekChange': None,
+ 'address1': '1111 Marcus Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 32.91,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 465287,
+ 'averageVolume': 974668,
+ 'averageVolume10days': 465287,
+ 'beta': 0.807282,
+ 'beta3Year': None,
+ 'bid': 32.89,
+ 'bidSize': 800,
+ 'bookValue': 14.112,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lake Success',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 33.352,
+ 'dayLow': 32.6517,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 20.034,
+ 'enterpriseToRevenue': 1.677,
+ 'enterpriseValue': 3764610560,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 31.475714,
+ 'fiftyTwoWeekHigh': 33.4,
+ 'fiftyTwoWeekLow': 17.94,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 83509651,
+ 'forwardEps': 1.01,
+ 'forwardPE': 32.55446,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5441,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.025179999,
+ 'heldPercentInstitutions': 1.0570301,
+ 'industry': 'Packaged Foods',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1419897600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/hain.com',
+ 'longBusinessSummary': 'The Hain Celestial Group, Inc. manufactures, markets, '
+                        'distributes, and sells organic and natural products. '
+                        'It operates in seven segments: the United States, '
+                        "United Kingdom, Tilda, Ella's Kitchen UK, Canada, "
+                        'Europe, and Hain Ventures. The company offers infant '
+                        'formula; infant, toddler, and kids food; diapers and '
+                        'wipes; rice and grain-based products; plant-based '
+                        'beverages and frozen desserts, such as soy, rice, '
+                        'oat, almond, and coconut; and flour and baking mixes, '
+                        'breads, hot and cold cereals, pasta, and condiments. '
+                        'It also provides cooking and culinary oils; granolas; '
+                        'cereal bars; canned, chilled fresh, aseptic, and '
+                        'instant soups; yogurts, chilis, chocolate, and nut '
+                        'butters; and juices, including cold-pressed juice. In '
+                        'addition, the company offers hot-eating desserts, '
+                        'cookies, frozen fruit and vegetables, pre-cut fresh '
+                        'fruits, refrigerated and frozen plant-based '
+                        'meat-alternative products, jams, fruit spreads, '
+                        'jellies, honey, natural sweeteners, and marmalade '
+                        'products, as well as other food products. Further, it '
+                        'provides snack products comprising potato, root '
+                        'vegetable and other exotic vegetable chips, straws, '
+                        'tortilla chips, whole grain chips, pita chips, and '
+                        'puffs; and personal care products that include skin, '
+                        'hair, and oral care products, as well as deodorants, '
+                        'baby care items, body washes, sunscreens, and '
+                        'lotions. Additionally, the company offers herbal, '
+                        'green, black, wellness, rooibos, and chai tea under '
+                        'the Celestial Seasonings brand. It sells its products '
+                        'through specialty and natural food distributors, '
+                        'supermarkets, natural food stores, mass-market and '
+                        'e-commerce retailers, food service channels and '
+                        'clubs, and drug and convenience stores in '
+                        'approximately 80 countries worldwide. The company was '
+                        'founded in 1993 and is headquartered in Lake Success, '
+                        'New York.',
+ 'longName': 'The Hain Celestial Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3352247552,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_413188',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 18081000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 33.14,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -2.96,
+ 'phone': '516-587-5000',
+ 'previousClose': 33.25,
+ 'priceHint': 2,
+ 'priceToBook': 2.329932,
+ 'priceToSalesTrailing12Months': 1.4929905,
+ 'profitMargins': -0.04329,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 33.352,
+ 'regularMarketDayLow': 32.6517,
+ 'regularMarketOpen': 33.14,
+ 'regularMarketPreviousClose': 33.25,
+ 'regularMarketPrice': 33.14,
+ 'regularMarketVolume': 327026,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 101954000,
+ 'sharesPercentSharesOut': 0.0838,
+ 'sharesShort': 8539101,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 9338686,
+ 'shortName': 'The Hain Celestial Group, Inc.',
+ 'shortPercentOfFloat': 0.106000006,
+ 'shortRatio': 7.77,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'HAIN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.936,
+ 'twoHundredDayAverage': 27.586979,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '1866d771-48ca-35db-af99-04783cfb0c2d',
+ 'volume': 327026,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.hain.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '11042'}

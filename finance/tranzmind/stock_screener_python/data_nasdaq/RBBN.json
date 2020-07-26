@@ -1,0 +1,149 @@
+{'52WeekChange': -0.15983611,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '4 Technology Park Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.16,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 166887,
+ 'averageVolume': 407682,
+ 'averageVolume10days': 166887,
+ 'beta': 0.949579,
+ 'beta3Year': None,
+ 'bid': 4.07,
+ 'bidSize': 1800,
+ 'bookValue': 3.846,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Westford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.19,
+ 'dayLow': 4.08,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 23.11,
+ 'enterpriseToRevenue': 1.622,
+ 'enterpriseValue': 976758400,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 4.101714,
+ 'fiftyTwoWeekHigh': 5.93,
+ 'fiftyTwoWeekLow': 1.95,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 115473252,
+ 'forwardEps': 0.44,
+ 'forwardPE': 9.318182,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2209,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.19506,
+ 'heldPercentInstitutions': 0.62973,
+ 'industry': 'Telecom Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1422576000,
+ 'lastSplitFactor': '1:5',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ribboncommunications.com',
+ 'longBusinessSummary': 'Ribbon Communications Inc. provides networked '
+                        'software solutions in the United States, Europe, the '
+                        'Middle East, Africa, Japan, other Asia Pacific, and '
+                        'internationally. The company offers service provider '
+                        'solutions, such as fixed network transformation, '
+                        'mobile network evolution, secure network '
+                        'interconnects, managed intelligent edge, cloud '
+                        'communications as a service, and communications '
+                        'analytics and security solutions. Its enterprise '
+                        'solutions include secure communications, real-time '
+                        'communications, session border controller, '
+                        'intelligent edge, and Microsoft Skype for Business '
+                        'and Teams software solutions, as well as analytics '
+                        'solutions that allows enterprises to connect securely '
+                        'to SIP trunks and modernize communications networks. '
+                        'The company also offers solution and business '
+                        'consulting, system integration, deployment, and '
+                        'managed care services; and support services, such as '
+                        'managing software updates, appliance maintenance, '
+                        'appliance spare services and managed spares programs, '
+                        'and emergency assistance during disaster recovery. It '
+                        'serves telecommunications, wireless and cable service '
+                        'providers, and enterprises through direct sales and '
+                        'indirect channels. The company was formerly known as '
+                        'Sonus Networks, Inc. and changed its name to Ribbon '
+                        'Communications Inc. in November 2017. Ribbon '
+                        'Communications Inc. was founded in 1997 and is '
+                        'headquartered in Westford, Massachusetts. Ribbon '
+                        'Communications Inc. operates as a subsidiary of JPMC '
+                        'Heritage Parent LLC.',
+ 'longName': 'Ribbon Communications Inc.',
+ 'market': 'us_market',
+ 'marketCap': 593561088,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34555',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -132413000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 4.18,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.17,
+ 'phone': '978 614 8100',
+ 'previousClose': 4.225,
+ 'priceHint': 4,
+ 'priceToBook': 1.0660427,
+ 'priceToSalesTrailing12Months': 0.9857117,
+ 'profitMargins': -0.21989,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.19,
+ 'regularMarketDayLow': 4.08,
+ 'regularMarketOpen': 4.18,
+ 'regularMarketPreviousClose': 4.225,
+ 'regularMarketPrice': 4.18,
+ 'regularMarketVolume': 123306,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 144771008,
+ 'sharesPercentSharesOut': 0.018,
+ 'sharesShort': 2606126,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1848617,
+ 'shortName': 'Ribbon Communications Inc.',
+ 'shortPercentOfFloat': 0.038599998,
+ 'shortRatio': 5.3,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'RBBN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.172,
+ 'twoHundredDayAverage': 3.414964,
+ 'volume': 123306,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ribboncommunications.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01886'}

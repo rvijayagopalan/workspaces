@@ -1,0 +1,154 @@
+{'52WeekChange': 0.41486073,
+ 'SandP52WeekChange': None,
+ 'address1': '4505 Emperor Boulevard',
+ 'address2': 'Suite 200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.47,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 5601250,
+ 'averageVolume': 9506330,
+ 'averageVolume10days': 5601250,
+ 'beta': 2.87675,
+ 'beta3Year': None,
+ 'bid': 4.44,
+ 'bidSize': 4000,
+ 'bookValue': 0.024,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Durham',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.54,
+ 'dayLow': 4.33,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -5.969,
+ 'enterpriseToRevenue': 13.787,
+ 'enterpriseValue': 658608832,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '919-859-1314',
+ 'fiftyDayAverage': 4.696857,
+ 'fiftyTwoWeekHigh': 6.29,
+ 'fiftyTwoWeekLow': 1.38,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 135457470,
+ 'forwardEps': -0.76,
+ 'forwardPE': -5.8552628,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 140,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00955,
+ 'heldPercentInstitutions': 0.90202004,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/biocryst.com',
+ 'longBusinessSummary': 'BioCryst Pharmaceuticals, Inc., a biotechnology '
+                        'company, discovers oral and small-molecule medicines. '
+                        'The company markets peramivir injection, an '
+                        'intravenous neuraminidase inhibitor, for the '
+                        'treatment of acute uncomplicated influenza under the '
+                        'RAPIVAB, ALPIVAB, RAPIACTA, and PERAMIFLU names; and '
+                        'Mundesine, an oral purine nucleoside phosphorylase '
+                        'inhibitor for peripheral T-cell lymphoma. It is also '
+                        'developing BCX7353, an oral serine protease inhibitor '
+                        'and oral dose formulation that is in Phase III '
+                        'clinical trials to treat hereditary angioedema; '
+                        'BCX9930, an oral factor D inhibitor, which is in '
+                        'Phase I clinical trials for mediated diseases; '
+                        'BCX9250, an oral activin receptor-like kinase-2 '
+                        'inhibitors that is in preclinical trials to treat '
+                        'fibrodysplasia ossificans progressive; and '
+                        'Galidesivir, an RNA dependent-RNA polymerase '
+                        'inhibitor, which is in Phase I clinical trials to '
+                        'treat various RNA viruses, including Marburg, Yellow '
+                        'Fever, Ebola, and Zika. The company has '
+                        'collaborations and in-license relationships with U.S. '
+                        'Department of Health and Human Services; National '
+                        'Institute of Allergy and Infectious Diseases; Seqirus '
+                        'UK Limited; Shionogi & Co., Ltd.; Green Cross '
+                        'Corporation; Mundipharma International Holdings '
+                        'Limited; and The University of Alabama at Birmingham, '
+                        'as well as Albert Einstein College of Medicine of '
+                        'Yeshiva University and Industrial Research, Ltd. '
+                        'BioCryst Pharmaceuticals, Inc. was founded in 1986 '
+                        'and is headquartered in Durham, North Carolina.',
+ 'longName': 'BioCryst Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 784984384,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_25594',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -115442000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 4.494,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.26,
+ 'phone': '919-859-1302',
+ 'previousClose': 4.57,
+ 'priceHint': 4,
+ 'priceToBook': 185.41666,
+ 'priceToSalesTrailing12Months': 16.432238,
+ 'profitMargins': -2.41657,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.54,
+ 'regularMarketDayLow': 4.33,
+ 'regularMarketOpen': 4.494,
+ 'regularMarketPreviousClose': 4.57,
+ 'regularMarketPrice': 4.494,
+ 'regularMarketVolume': 4403218,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 176400992,
+ 'sharesPercentSharesOut': 0.18200001,
+ 'sharesShort': 32096579,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 18431728,
+ 'shortName': 'BioCryst Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.19559999,
+ 'shortRatio': 4.15,
+ 'startDate': None,
+ 'state': 'NC',
+ 'strikePrice': None,
+ 'symbol': 'BCRX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.912,
+ 'twoHundredDayAverage': 3.5844605,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '96bb866f-1671-37bb-8fb4-22c003011687',
+ 'volume': 4403218,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.biocryst.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '27703'}

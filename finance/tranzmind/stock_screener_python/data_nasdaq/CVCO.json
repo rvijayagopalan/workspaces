@@ -1,0 +1,153 @@
+{'52WeekChange': 0.15304542,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3636 North Central Avenue',
+ 'address2': 'Suite 1200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 186.88,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 29212,
+ 'averageVolume': 57611,
+ 'averageVolume10days': 29212,
+ 'beta': 1.612885,
+ 'beta3Year': None,
+ 'bid': 185.01,
+ 'bidSize': 1200,
+ 'bookValue': 66.235,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Phoenix',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 189.1625,
+ 'dayLow': 180.61,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.399,
+ 'enterpriseToEbitda': 16.599,
+ 'enterpriseToRevenue': 1.394,
+ 'enterpriseValue': 1480506624,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '602 256 6189',
+ 'fiftyDayAverage': 189.94057,
+ 'fiftyTwoWeekHigh': 236.1,
+ 'fiftyTwoWeekLow': 99.58,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 8516163,
+ 'forwardEps': 7.6,
+ 'forwardPE': 24.485527,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0625,
+ 'heldPercentInstitutions': 0.93305,
+ 'industry': 'Residential Construction',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585353600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1107216000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cavco.com',
+ 'longBusinessSummary': 'Cavco Industries, Inc. designs, produces, and retails '
+                        'manufactured homes primarily in the United States. It '
+                        'operates in two segments, Factory-Built Housing and '
+                        'Financial Services. The company markets its '
+                        'manufactured homes under the Cavco, Fleetwood, Palm '
+                        'Harbor, Fairmont, Friendship, Chariot Eagle, and '
+                        'Destiny brands. It also builds park model RVs; '
+                        'vacation cabins; and systems-built commercial '
+                        'structures, including apartment buildings, '
+                        'condominiums, hotels, workforce housing, schools, and '
+                        'housing for the United States military troops. In '
+                        'addition, the company produces various modular homes, '
+                        'such as single and multi-module ranch, split-level, '
+                        'and Cape Cod style homes, as well as two and three '
+                        'story homes and multi-family units primarily under '
+                        'the Nationwide Homes brand. Further, it provides '
+                        'conforming mortgages, non-conforming mortgages, and '
+                        'home-only loans to purchasers of various brands of '
+                        'factory-built homes sold by company-owned retail '
+                        'sales centers, as well as various independent '
+                        'distributors, builders, communities, and developers. '
+                        'Additionally, the company offers property and '
+                        'casualty insurance to owners of manufactured homes. '
+                        'As of March 28, 2020, it operated 39 retail centers '
+                        'in Oregon, Arizona, New Mexico, Texas, Oklahoma, and '
+                        'Florida, Texas. The company also distributes its '
+                        'homes through a network of independent distribution '
+                        'points in 42 states and Canada; and through planned '
+                        'community operators and residential developers. Cavco '
+                        'Industries, Inc. was founded in 1965 and is '
+                        'headquartered in Phoenix, Arizona.',
+ 'longName': 'Cavco Industries, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1707048192,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_258733',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 75066000,
+ 'nextFiscalYearEnd': 1648425600,
+ 'open': 188.11,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.14,
+ 'phone': '602 256 6263',
+ 'previousClose': 187.55,
+ 'priceHint': 2,
+ 'priceToBook': 2.8095417,
+ 'priceToSalesTrailing12Months': 1.6077322,
+ 'profitMargins': 0.070700005,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 189.1625,
+ 'regularMarketDayLow': 180.61,
+ 'regularMarketOpen': 188.11,
+ 'regularMarketPreviousClose': 187.55,
+ 'regularMarketPrice': 188.11,
+ 'regularMarketVolume': 25132,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 9173240,
+ 'sharesPercentSharesOut': 0.0171,
+ 'sharesShort': 157222,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 172849,
+ 'shortName': 'Cavco Industries, Inc.',
+ 'shortPercentOfFloat': 0.0231,
+ 'shortRatio': 2.72,
+ 'startDate': None,
+ 'state': 'AZ',
+ 'strikePrice': None,
+ 'symbol': 'CVCO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 8.1,
+ 'trailingPE': 22.974073,
+ 'twoHundredDayAverage': 180.56122,
+ 'volume': 25132,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cavco.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '85012'}

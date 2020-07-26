@@ -1,0 +1,155 @@
+{'52WeekChange': -0.5995233,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '15115 Park Row Boulevard',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.31,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 7567700,
+ 'averageVolume': 1547841,
+ 'averageVolume10days': 7567700,
+ 'beta': 1.614565,
+ 'beta3Year': None,
+ 'bid': 3.31,
+ 'bidSize': 1200,
+ 'bookValue': 0.799,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Houston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.39,
+ 'dayLow': 2.95,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.161,
+ 'enterpriseToRevenue': 0.72,
+ 'enterpriseValue': 175748896,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '281 674 0101',
+ 'fiftyDayAverage': 2.1188571,
+ 'fiftyTwoWeekHigh': 9.6,
+ 'fiftyTwoWeekLow': 0.77,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 10522383,
+ 'forwardEps': -1.59,
+ 'forwardPE': -2.1132073,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 625,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02723,
+ 'heldPercentInstitutions': 0.88661003,
+ 'industry': 'Oil & Gas Equipment & Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/rig.net',
+ 'longBusinessSummary': 'RigNet, Inc., a technology company, provides '
+                        'customized communications services, applications, and '
+                        'cybersecurity solutions in the United States and '
+                        'internationally. The company operates through three '
+                        'segments: Managed Communications Services, '
+                        'Applications and Internet-of-Things (Apps & IoT), and '
+                        'Systems Integration. The Managed Communications '
+                        'Services segment provides remote communication, '
+                        'telephony, and technology services for offshore and '
+                        'onshore drilling rigs and production facilities, '
+                        'support vessels, and other remote sites. This segment '
+                        'also sells communications equipment; and provides '
+                        'installation and maintenance services. The Apps & IoT '
+                        'segment offers applications over-the-top of the '
+                        'network layer, including Software as a Service '
+                        'offerings, such as a real-time machine learning and '
+                        'artificial intelligence data platform; Cyphre '
+                        'encryption; cybersecurity services; edge computing '
+                        'solution services that assist customers with '
+                        'collecting and standardizing the complex data '
+                        'produced by edge devices; applications for safety and '
+                        'workforce productivity; and other value-added '
+                        'services. This segment also provides private '
+                        'machine-to-machine IoT data networks, including '
+                        'supervisory control and data acquisition. The Systems '
+                        'Integration segment engages in the design, '
+                        'consulting, engineering, project management, '
+                        'procurement, testing, installation, commissioning, '
+                        'and maintenance of telecommunications systems. This '
+                        'segment also provides monitoring and maintenance for '
+                        'fire and gas detection systems; and programmable '
+                        'logic controller and automation control systems. '
+                        'RigNet, Inc. was founded in 2000 and is headquartered '
+                        'in Houston, Texas.',
+ 'longName': 'RigNet, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 68730816,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1303088',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -34014000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.58,
+ 'phone': '281 674 0100',
+ 'previousClose': 3.13,
+ 'priceHint': 4,
+ 'priceToBook': 4.2052565,
+ 'priceToSalesTrailing12Months': 0.28147373,
+ 'profitMargins': -0.1393,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.39,
+ 'regularMarketDayLow': 2.95,
+ 'regularMarketOpen': 3,
+ 'regularMarketPreviousClose': 3.13,
+ 'regularMarketPrice': 3,
+ 'regularMarketVolume': 3663629,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Energy',
+ 'sharesOutstanding': 20455600,
+ 'sharesPercentSharesOut': 0.0248,
+ 'sharesShort': 508117,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 536886,
+ 'shortName': 'RigNet, Inc.',
+ 'shortPercentOfFloat': 0.0554,
+ 'shortRatio': 0.41,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'RNET',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.701,
+ 'twoHundredDayAverage': 2.5292087,
+ 'volume': 3663629,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.rig.net',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '77084-4947'}

@@ -1,0 +1,162 @@
+{'52WeekChange': 0.7777778,
+ 'SandP52WeekChange': None,
+ 'address1': '24 Crosby Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 8.86,
+ 'askSize': 2900,
+ 'averageDailyVolume10Day': 834675,
+ 'averageVolume': 990625,
+ 'averageVolume10days': 834675,
+ 'beta': 1.614565,
+ 'beta3Year': None,
+ 'bid': 8.52,
+ 'bidSize': 1200,
+ 'bookValue': -0.201,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Bedford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 8.73,
+ 'dayLow': 8.24,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -5.84,
+ 'enterpriseToRevenue': 73.725,
+ 'enterpriseValue': 467709792,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '781 275 7562',
+ 'fiftyDayAverage': 8.166857,
+ 'fiftyTwoWeekHigh': 9.27,
+ 'fiftyTwoWeekLow': 2.46,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 46656373,
+ 'forwardEps': -0.42,
+ 'forwardPE': -20.333334,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 161,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.098900005,
+ 'heldPercentInstitutions': 0.50828,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ocutx.com',
+ 'longBusinessSummary': 'Ocular Therapeutix, Inc., a biopharmaceutical '
+                        'company, focuses on the formulation, development, and '
+                        'commercialization of therapies for diseases and '
+                        'conditions of the eye using its bioresorbable '
+                        'hydrogel platform technology. The company markets '
+                        'ReSure Sealant, a hydrogel ophthalmic wound sealant '
+                        'to seal corneal incisions following cataract surgery. '
+                        'Its lead product candidate is DEXTENZA (dexamethasone '
+                        'ophthalmic insert), which has completed two Phase III '
+                        'clinical trials for the treatment of post-surgical '
+                        'ocular pain and inflammation, and allergic '
+                        'conjunctivitis; and DEXTENZA, which is in Phase III '
+                        'clinical trials for the treatment of dry eye '
+                        'diseases. The company also develops OTX-TP '
+                        '(intracanalicular travoprost insert), which is in '
+                        'Phase III clinical trials for the reduction of '
+                        'intraocular pressure (IOP) in patients with glaucoma '
+                        'and ocular hypertension; OTX-TIC, an intracameral '
+                        'travoprost implant, which is in Phase I clinical '
+                        'trials for the reduction of IOP in patients with '
+                        'moderate to severe glaucoma and ocular hypertension; '
+                        'OTX-TKI, an intravitreal tyrosine kinase inhibitor '
+                        'implant, which is in Phase I clinical trials for the '
+                        'treatment of wet age-related macular '
+                        'degeneration(AMD). Its various preclinical programs '
+                        'include OTX- BPI for the treatment of acute ocular '
+                        'pain; OTX-BDI to treat post-operative Pain, and '
+                        'inflammation and bacterial infection; OTX-CSI to '
+                        'treat dry-eye disease; and OTX-IVT, an intravitreal '
+                        'aflibercept implant for the treatment of wet AMD and '
+                        'other back-of-the-eye diseases. The company has '
+                        'strategic collaboration with Regeneron '
+                        'Pharmaceuticals, Inc. (Regeneron) for the development '
+                        "and commercialization of products using the Company's "
+                        'sustained-release hydrogel in combination with '
+                        "Regeneron's large molecule VEGF-targeting compounds "
+                        'for the treatment of retinal diseases. Ocular '
+                        'Therapeutix, Inc. was founded in 2006 and is '
+                        'headquartered in Bedford, Massachusetts.',
+ 'longName': 'Ocular Therapeutix, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 536084832,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_41955650',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -90760000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 8.67,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '781 357 4000',
+ 'previousClose': 8.64,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 84.502655,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 8.73,
+ 'regularMarketDayLow': 8.24,
+ 'regularMarketOpen': 8.67,
+ 'regularMarketPreviousClose': 8.64,
+ 'regularMarketPrice': 8.67,
+ 'regularMarketVolume': 410214,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 62773400,
+ 'sharesPercentSharesOut': 0.0937,
+ 'sharesShort': 5881397,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5448440,
+ 'shortName': 'Ocular Therapeutix, Inc.',
+ 'shortPercentOfFloat': 0.1071,
+ 'shortRatio': 5.97,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'OCUL',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.903,
+ 'twoHundredDayAverage': 6.104712,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b2e86f5b-6ae3-30af-bdc2-4b9ad5a2cf9e',
+ 'volume': 410214,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ocutx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01730'}

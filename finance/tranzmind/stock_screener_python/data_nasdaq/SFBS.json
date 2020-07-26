@@ -1,0 +1,160 @@
+{'52WeekChange': 0.106420994,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2500 Woodcrest Place',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 37.29,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 214187,
+ 'averageVolume': 207914,
+ 'averageVolume10days': 214187,
+ 'beta': 1.314845,
+ 'beta3Year': None,
+ 'bid': 37.26,
+ 'bidSize': 900,
+ 'bookValue': 16.967,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Birmingham',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 37.75,
+ 'dayLow': 36.97,
+ 'dividendRate': 0.7,
+ 'dividendYield': 0.0187,
+ 'earningsQuarterlyGrowth': 0.135,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.868,
+ 'enterpriseValue': 1157096576,
+ 'exDividendDate': 1593475200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 35.028,
+ 'fiftyTwoWeekHigh': 40.9,
+ 'fiftyTwoWeekLow': 21.76,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.93,
+ 'floatShares': 46675056,
+ 'forwardEps': 2.47,
+ 'forwardPE': 15.068827,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 500,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.10526,
+ 'heldPercentInstitutions': 0.528,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1482278400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/servisfirstbank.com',
+ 'longBusinessSummary': 'ServisFirst Bancshares, Inc. operates as the bank '
+                        'holding company for ServisFirst Bank that provides '
+                        'banking services to individual and corporate '
+                        'customers in the United States. It offers demand, '
+                        'time, savings, and other deposits; checking, money '
+                        'market, and IRA accounts; and certificates of '
+                        'deposit. The company also provides commercial lending '
+                        'products, such as seasonal loans, bridge loans, and '
+                        'term loans for working capital, expansion of the '
+                        'business, acquisition of property, and plant and '
+                        'equipment, as well as commercial lines of credit; '
+                        'commercial real estate loans, construction and '
+                        'development loans, and residential real estate loans; '
+                        'and consumer loans, such as home equity loans, '
+                        'vehicle financing, loans secured by deposits, and '
+                        'secured and unsecured personal loans. In addition, it '
+                        'offers other banking products and services comprising '
+                        'telephone and mobile banking, direct deposit, '
+                        "Internet banking, traveler's checks, safe deposit "
+                        'boxes, attorney trust accounts, automatic account '
+                        'transfers, automated teller machines, and debit card '
+                        'systems, as well as Visa credit cards; treasury and '
+                        'cash management services; wire transfer, night '
+                        'depository, banking-by-mail, and remote capture '
+                        'services; and correspondent banking services to other '
+                        'financial institutions. Further, the company, through '
+                        'its subsidiary, SF Intermediate Holding Company, '
+                        'Inc., operates as a real estate investment trust for '
+                        'the United States income tax purposes; and holds and '
+                        'manages participations in residential mortgages and '
+                        'commercial real estate loans originated by '
+                        'ServisFirst Bank in Alabama, Florida, Georgia, and '
+                        'Tennessee. It operates 20 full-service banking '
+                        'offices located in Jefferson, Shelby, Madison, '
+                        'Montgomery, Mobile, Baldwin, and Houston Counties in '
+                        'Alabama; Escambia and Hillsborough Counties in '
+                        'Florida; Cobb and Douglas Counties in Georgia; '
+                        'Charleston County in South Carolina; and Davidson '
+                        'County in Tennessee. The company was founded in 2005 '
+                        'and is headquartered in Birmingham, Alabama.',
+ 'longName': 'ServisFirst Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2005201536,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_23904070',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 153763008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 37.55,
+ 'openInterest': None,
+ 'payoutRatio': 0.2377,
+ 'pegRatio': None,
+ 'phone': '205-949-0302',
+ 'previousClose': 37.49,
+ 'priceHint': 2,
+ 'priceToBook': 2.1936703,
+ 'priceToSalesTrailing12Months': 6.703199,
+ 'profitMargins': 0.51422,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 37.75,
+ 'regularMarketDayLow': 36.97,
+ 'regularMarketOpen': 37.55,
+ 'regularMarketPreviousClose': 37.49,
+ 'regularMarketPrice': 37.55,
+ 'regularMarketVolume': 216967,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 53874300,
+ 'sharesPercentSharesOut': 0.056399997,
+ 'sharesShort': 3036131,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2836194,
+ 'shortName': 'ServisFirst Bancshares, Inc.',
+ 'shortPercentOfFloat': 0.0753,
+ 'shortRatio': 13.78,
+ 'startDate': None,
+ 'state': 'AL',
+ 'strikePrice': None,
+ 'symbol': 'SFBS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.675,
+ 'trailingAnnualDividendYield': 0.018004801,
+ 'trailingEps': 2.84,
+ 'trailingPE': 13.105635,
+ 'twoHundredDayAverage': 34.002735,
+ 'volume': 216967,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.servisfirstbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '35209'}

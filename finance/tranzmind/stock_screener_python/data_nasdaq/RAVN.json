@@ -1,0 +1,156 @@
+{'52WeekChange': -0.38631284,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '205 East 6th Street',
+ 'address2': 'PO Box 5107',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 21.99,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 339037,
+ 'averageVolume': 221938,
+ 'averageVolume10days': 339037,
+ 'beta': 1.372549,
+ 'beta3Year': None,
+ 'bid': 21.98,
+ 'bidSize': 1800,
+ 'bookValue': 8.696,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Sioux Falls',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.13,
+ 'dayLow': 21.91,
+ 'dividendRate': 0.52,
+ 'dividendYield': 0.0225,
+ 'earningsQuarterlyGrowth': -0.694,
+ 'enterpriseToEbitda': 17.885,
+ 'enterpriseToRevenue': 2.138,
+ 'enterpriseValue': 792805632,
+ 'exDividendDate': 1594857600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 21.450571,
+ 'fiftyTwoWeekHigh': 38,
+ 'fiftyTwoWeekLow': 16.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.94,
+ 'floatShares': 35290974,
+ 'forwardEps': 0.72,
+ 'forwardPE': 30.513887,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1362,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01337,
+ 'heldPercentInstitutions': 0.78233004,
+ 'industry': 'Specialty Industrial Machinery',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1343260800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ravenind.com',
+ 'longBusinessSummary': 'Raven Industries, Inc., a technology company, '
+                        'provides various products to customers in the '
+                        'industrial, agricultural, geo-membrane, construction, '
+                        'aerospace/defense, and commercial lighter-than-air '
+                        'markets worldwide. It operates in three segments: '
+                        'Applied Technology, Engineered Films, and Aerostar. '
+                        'The Applied Technology segment designs, manufactures, '
+                        'sells, and services precision agriculture products '
+                        'and information management tools that enable farmers '
+                        'to enhance farm yields. Its products include '
+                        'application controls, GPS-guidance steering systems, '
+                        'field computers, automatic boom controls, machine '
+                        'automation, information management tools, and '
+                        'injection systems, as well as Slingshot, a '
+                        'communications platform for its ag retailers, custom '
+                        'applicators, and enterprise farms; and services '
+                        'comprise high-speed in-field Internet connectivity '
+                        'and cloud-based data management. This segment sells '
+                        'its products to original equipment manufacturers and '
+                        'through aftermarket distribution partners. The '
+                        'Engineered Films segment produces plastic films and '
+                        'sheeting for geo-membrane, agricultural, '
+                        'construction, and industrial applications; and offers '
+                        'design-build and installation services for plastic '
+                        'films and sheeting. This segment sells its products '
+                        'directly to end-customers and through independent '
+                        'third-party distributors. The Aerostar segment offers '
+                        'high-altitude stratospheric platforms, technical '
+                        'services, and radar systems to provide research, '
+                        'communications, and situational awareness '
+                        'capabilities to governmental and commercial customers '
+                        'in the aerospace and defense, and commercial '
+                        'lighter-than-air markets. Raven Industries, Inc. was '
+                        'founded in 1956 and is headquartered in Sioux Falls, '
+                        'South Dakota.',
+ 'longName': 'Raven Industries, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 787288320,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_299412',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 26033000,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 23.13,
+ 'openInterest': None,
+ 'payoutRatio': 0.72220004,
+ 'pegRatio': 2.55,
+ 'phone': '605 336 2750',
+ 'previousClose': 23.11,
+ 'priceHint': 2,
+ 'priceToBook': 2.5264487,
+ 'priceToSalesTrailing12Months': 2.1229408,
+ 'profitMargins': 0.070199996,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.13,
+ 'regularMarketDayLow': 21.91,
+ 'regularMarketOpen': 23.13,
+ 'regularMarketPreviousClose': 23.11,
+ 'regularMarketPrice': 23.13,
+ 'regularMarketVolume': 124684,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 35834700,
+ 'sharesPercentSharesOut': 0.0148,
+ 'sharesShort': 528967,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 528672,
+ 'shortName': 'Raven Industries, Inc.',
+ 'shortPercentOfFloat': 0.0201,
+ 'shortRatio': 2.2,
+ 'startDate': None,
+ 'state': 'SD',
+ 'strikePrice': None,
+ 'symbol': 'RAVN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.52,
+ 'trailingAnnualDividendYield': 0.022501081,
+ 'trailingEps': 0.719,
+ 'trailingPE': 30.556328,
+ 'twoHundredDayAverage': 24.525108,
+ 'volume': 124684,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ravenind.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '57117-5107'}

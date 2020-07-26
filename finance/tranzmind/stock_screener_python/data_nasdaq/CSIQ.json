@@ -1,0 +1,158 @@
+{'52WeekChange': 0.12493873,
+ 'SandP52WeekChange': None,
+ 'address1': '545 Speedvale Avenue West',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.25,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 1087662,
+ 'averageVolume': 909836,
+ 'averageVolume10days': 1087662,
+ 'beta': 1.568627,
+ 'beta3Year': None,
+ 'bid': 22.24,
+ 'bidSize': 2200,
+ 'bookValue': 24.453,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Guelph',
+ 'companyOfficers': [],
+ 'country': 'Canada',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 22.88,
+ 'dayLow': 22.125,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 4.641,
+ 'enterpriseToRevenue': 0.727,
+ 'enterpriseValue': 2573262336,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '519-837-2550',
+ 'fiftyDayAverage': 20.568571,
+ 'fiftyTwoWeekHigh': 25.85,
+ 'fiftyTwoWeekLow': 12,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 40883573,
+ 'forwardEps': 3.14,
+ 'forwardPE': 7.2468147,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 13478,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.23431,
+ 'heldPercentInstitutions': 0.49126998,
+ 'industry': 'Solar',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/canadiansolar.com',
+ 'longBusinessSummary': 'Canadian Solar Inc., together with its subsidiaries, '
+                        'designs, develops, manufactures, and sells solar '
+                        'ingots, wafers, cells, modules, and other solar power '
+                        'products. The company operates through two segments, '
+                        'Module and System Solutions (MSS), and Energy. The '
+                        'MSS segment engages in the design, development, '
+                        'manufacture, and sale of a range of solar power '
+                        'products, including standard solar modules, specialty '
+                        'solar products, and solar system kits that are a '
+                        'ready-to-install packages comprising inverters, '
+                        'racking systems, and other accessories. It also '
+                        'provides engineering, procurement, and construction; '
+                        'and operation and maintenance (O&M) services. This '
+                        "segment's energy solution products include solar "
+                        'inverters and energy storage systems for utility, '
+                        'commercial, residential, and specialty product '
+                        'applications. Its O&M services include inspections, '
+                        'repair, and replacement of plant equipment; and site '
+                        'management and administrative support services for '
+                        'solar power projects. The Energy segment engages in '
+                        'the development and sale of solar power projects; and '
+                        'operation of solar power plants and sale of '
+                        'electricity. As of January 31, 2020, this segment had '
+                        'a fleet of solar power plants in operation with an '
+                        'aggregate capacity of approximately 880.2 MWp. The '
+                        "company's primary customers include distributors, "
+                        'system integrators, project developers, and '
+                        'installers/EPC companies. Canadian Solar Inc. sells '
+                        'its products primarily under its Canadian Solar brand '
+                        'name; and on an OEM basis. It has operations in North '
+                        'America, South America, Europe, South Africa, the '
+                        'Middle East, Australia, Asia, and internationally. '
+                        'The company was founded in 2001 and is headquartered '
+                        'in Guelph, Canada.',
+ 'longName': 'Canadian Solar Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1343493888,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_29762552',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 299380992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 22.63,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.39,
+ 'phone': '519-837-1881',
+ 'previousClose': 22.96,
+ 'priceHint': 2,
+ 'priceToBook': 0.93056065,
+ 'priceToSalesTrailing12Months': 0.37935743,
+ 'profitMargins': 0.08454,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 22.88,
+ 'regularMarketDayLow': 22.125,
+ 'regularMarketOpen': 22.63,
+ 'regularMarketPreviousClose': 22.96,
+ 'regularMarketPrice': 22.63,
+ 'regularMarketVolume': 754130,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 59041700,
+ 'sharesPercentSharesOut': 0.0402,
+ 'sharesShort': 2371336,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3080562,
+ 'shortName': 'Canadian Solar Inc.',
+ 'shortPercentOfFloat': 0.052600004,
+ 'shortRatio': 2.72,
+ 'startDate': None,
+ 'state': 'ON',
+ 'strikePrice': None,
+ 'symbol': 'CSIQ',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 4.924,
+ 'trailingPE': 4.621243,
+ 'twoHundredDayAverage': 19.410215,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f14bf373-d6ec-3126-964b-78233cc4bb42',
+ 'volume': 754130,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.canadiansolar.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'N1K 1E6'}

@@ -1,0 +1,151 @@
+{'52WeekChange': -0.30978262,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '405 5th Street',
+ 'address2': 'Box 846',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 19.3,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 12512,
+ 'averageVolume': 15926,
+ 'averageVolume10days': 12512,
+ 'beta': 0.670028,
+ 'beta3Year': None,
+ 'bid': 19.05,
+ 'bidSize': 800,
+ 'bookValue': 20.514,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Ames',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 19.3,
+ 'dayLow': 19.03,
+ 'dividendRate': 1,
+ 'dividendYield': 0.0521,
+ 'earningsQuarterlyGrowth': -0.161,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 0.939,
+ 'enterpriseValue': 49883092,
+ 'exDividendDate': 1596067200,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '515-663-3033',
+ 'fiftyDayAverage': 19.371714,
+ 'fiftyTwoWeekHigh': 29.3,
+ 'fiftyTwoWeekLow': 17.25,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.25,
+ 'floatShares': 8969394,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 285,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0116799995,
+ 'heldPercentInstitutions': 0.34013999,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1121644800,
+ 'lastSplitFactor': '3:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/amesnational.com',
+ 'longBusinessSummary': 'Ames National Corporation operates as a multi-bank '
+                        'holding company that provides banking products and '
+                        'services primarily in Adams, Boone, Clarke, Hancock, '
+                        'Marshall, Polk, Ringgold, Story, Taylor, and Union '
+                        'counties in the central, north-central, and '
+                        'south-central Iowa. The company offers a range of '
+                        'deposits, including checking and savings accounts; '
+                        'and time deposits of various types comprising money '
+                        'market accounts and certificates of deposit. It also '
+                        'provides loans, such as short-term and medium-term '
+                        'commercial and agricultural real estate loans, '
+                        'residential real estate loans, equipment loans, '
+                        'vehicle loans, personal loans and lines of credit, '
+                        'and home improvement loans, as well as agricultural '
+                        'and business operating loans and lines of credit; and '
+                        'originates mortgage loans for sale into the secondary '
+                        'market. In addition, the company offers cash '
+                        'management, merchant credit card processing, safe '
+                        'deposit box, wire transfer, direct deposit of payroll '
+                        'and social security check, and automated/video teller '
+                        'machine access services; and automatic drafts for '
+                        'various accounts, as well as trust services '
+                        'comprising wealth management services. Further, it '
+                        'provides farm management, investment, and custodial '
+                        'services for individuals, businesses, and non-profit '
+                        'organizations; and online management, mobile banking, '
+                        'and private banking services. Ames National '
+                        'Corporation was founded in 1903 and is based in Ames, '
+                        'Iowa.',
+ 'longName': 'Ames National Corporation',
+ 'market': 'us_market',
+ 'marketCap': 173788384,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1342563',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 16511247,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 19.18,
+ 'openInterest': None,
+ 'payoutRatio': 0.548,
+ 'pegRatio': None,
+ 'phone': '515-232-6251',
+ 'previousClose': 19.185,
+ 'priceHint': 2,
+ 'priceToBook': 0.92863405,
+ 'priceToSalesTrailing12Months': 3.271224,
+ 'profitMargins': 0.31079,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 19.3,
+ 'regularMarketDayLow': 19.03,
+ 'regularMarketOpen': 19.18,
+ 'regularMarketPreviousClose': 19.185,
+ 'regularMarketPrice': 19.18,
+ 'regularMarketVolume': 9982,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 9122750,
+ 'sharesPercentSharesOut': 0.0075,
+ 'sharesShort': 67974,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 55852,
+ 'shortName': 'Ames National Corporation',
+ 'shortPercentOfFloat': 0.0078,
+ 'shortRatio': 3.62,
+ 'startDate': None,
+ 'state': 'IA',
+ 'strikePrice': None,
+ 'symbol': 'ATLO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.97,
+ 'trailingAnnualDividendYield': 0.050560337,
+ 'trailingEps': 1.789,
+ 'trailingPE': 10.648406,
+ 'twoHundredDayAverage': 21.844677,
+ 'volume': 9982,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.amesnational.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '50010'}

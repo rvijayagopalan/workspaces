@@ -1,0 +1,150 @@
+{'52WeekChange': 0.17605639,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'No. 10 Cen Shan Road',
+ 'address2': 'Shuige Industrial Zone',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1.7,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 276162,
+ 'averageVolume': 273106,
+ 'averageVolume10days': 276162,
+ 'beta': -0.368067,
+ 'beta3Year': None,
+ 'bid': 1.65,
+ 'bidSize': 900,
+ 'bookValue': 3.126,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lishui',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1.73,
+ 'dayLow': 1.58,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 30.523,
+ 'enterpriseToRevenue': 0.979,
+ 'enterpriseValue': 48197544,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 1.3396,
+ 'fiftyTwoWeekHigh': 2.55,
+ 'fiftyTwoWeekLow': 0.81,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 15438771,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 71,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.40827,
+ 'heldPercentInstitutions': 0.028989999,
+ 'industry': 'Household & Personal Products',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/tantech.cn',
+ 'longBusinessSummary': 'Tantech Holdings Ltd. develops and manufactures '
+                        'bamboo-based charcoal products for industrial energy, '
+                        'household cooking, heating, purification, '
+                        'agricultural, and cleaning applications in the '
+                        "People's Republic of China and internationally. The "
+                        'company operates in three segments: Consumer '
+                        'Products, Trading, and Electric Vehicle. It provides '
+                        'pressed and formed charcoal briquettes for use in '
+                        'grills, incense burners, and other applications under '
+                        'the Algold brand. The company also offers Charcoal '
+                        'Doctor branded products, such as air purifiers and '
+                        'humidifiers, automotive accessories for air '
+                        'purification, underfloor humidity control products, '
+                        'pillows and mattresses, wardrobe deodorizers, mouse '
+                        'pads and wrist mats, refrigerator deodorants, '
+                        'charcoal toilet cleaner disks, liquid charcoal '
+                        'cleaners, shoe insoles, and decorative charcoal '
+                        'gifts. In addition, it provides bamboo vinegar, a '
+                        'liquid byproduct for use in disinfectants, '
+                        'detergents, lotions, specialized soaps, toilet '
+                        'cleaners, and fertilizers, as well as in various '
+                        'agricultural applications; and trades in charcoal '
+                        'products. Further, the company develops, '
+                        'manufactures, and sells electric buses and specialty '
+                        'electric vehicles, such as electric logistics cars, '
+                        'brushless cleaning cars, electric cleaning cars, '
+                        'special emergency vehicles, and funeral cars; and '
+                        'solar cells, lithium-ion batteries, auto parts, and '
+                        'electric control systems. Tantech Holdings Ltd. was '
+                        'founded in 2001 and is headquartered in Lishui, the '
+                        "People's Republic of China.",
+ 'longName': 'Tantech Holdings Ltd',
+ 'market': 'us_market',
+ 'marketCap': 47955408,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_272216006',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1577750400,
+ 'navPrice': None,
+ 'netIncomeToCommon': -6057555,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 1.65,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '86 57 8226 2305',
+ 'previousClose': 1.64,
+ 'priceHint': 4,
+ 'priceToBook': 0.53103006,
+ 'priceToSalesTrailing12Months': 0.9740982,
+ 'profitMargins': -0.12913,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.73,
+ 'regularMarketDayLow': 1.58,
+ 'regularMarketOpen': 1.65,
+ 'regularMarketPreviousClose': 1.64,
+ 'regularMarketPrice': 1.65,
+ 'regularMarketVolume': 357680,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 28853200,
+ 'sharesPercentSharesOut': 0.0073,
+ 'sharesShort': 209906,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 265333,
+ 'shortName': 'Tantech Holdings Ltd.',
+ 'shortPercentOfFloat': 0.0123000005,
+ 'shortRatio': 1.18,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'TANH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.22,
+ 'twoHundredDayAverage': 1.2045395,
+ 'volume': 357680,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.tantech.cn',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '323000'}

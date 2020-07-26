@@ -1,0 +1,151 @@
+{'52WeekChange': 0.554054,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'One Washington Square',
+ 'address2': 'Suite 1350 510-530 Walnut Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.48,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 78300,
+ 'averageVolume': 291847,
+ 'averageVolume10days': 78300,
+ 'beta': 1.22745,
+ 'beta3Year': None,
+ 'bid': 2.3,
+ 'bidSize': 800,
+ 'bookValue': 6.119,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Philadelphia',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.39,
+ 'dayLow': 2.3,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 8.079,
+ 'enterpriseToRevenue': 3.086,
+ 'enterpriseValue': 506553568,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 2.8248572,
+ 'fiftyTwoWeekHigh': 4.2,
+ 'fiftyTwoWeekLow': 1,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 29463952,
+ 'forwardEps': -0.21,
+ 'forwardPE': -10.952381,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 292,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02416,
+ 'heldPercentInstitutions': 0.72173,
+ 'industry': 'Farm Products',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/agrofresh.com',
+ 'longBusinessSummary': 'AgroFresh Solutions, Inc. provides science-based '
+                        'solutions, data-driven technologies, and services to '
+                        'enhance the quality and extend the shelf life of '
+                        'fresh produce. It offers solutions in various fresh '
+                        'produce categories, including apples, bananas, '
+                        'cherries, citrus, and pears, as well as avocados, '
+                        'kiwifruits, melons, ornamentals, peaches and '
+                        'nectarines, plums, tomatoes, and others. The company '
+                        'supports growers, packers, and retailers by providing '
+                        'post-harvest solutions across the industry to enhance '
+                        "crop values while conserving planet's resources and "
+                        "reducing food waste. The company's flagship product "
+                        'is the SmartFresh system that regulates the '
+                        'post-harvest ripening effects of ethylene to preserve '
+                        'the texture, firmness, taste, and appearance of '
+                        'produce during storage, transportation, and retail '
+                        'display. It also provides Harvista technology for use '
+                        'in pre-harvest management of pome fruit, apples, '
+                        'pears, cherries, and blueberries. In addition, the '
+                        'company is developing RipeLock, a packaging- based '
+                        'freshness technology solution for fruits and '
+                        'vegetables; FreshCloud, a suite of monitoring and '
+                        'screening solutions; and LandSpring, a '
+                        '1-Methylcyclopropene technology targeted to '
+                        'transplanted vegetable seedlings. It operates in '
+                        'North America, Europe, the Middle East, and Africa, '
+                        'as well as Latin America and the Asia Pacific. The '
+                        'company was formerly known as Boulevard Acquisition '
+                        'Corp. and changed its name to AgroFresh Solutions, '
+                        'Inc. in July 2015. AgroFresh Solutions, Inc. is '
+                        'headquartered in Philadelphia, Pennsylvania.',
+ 'longName': 'AgroFresh Solutions, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 119725120,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_254287707',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -51861000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.39,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.64,
+ 'phone': '267 317 9139',
+ 'previousClose': 2.39,
+ 'priceHint': 4,
+ 'priceToBook': 0.3758784,
+ 'priceToSalesTrailing12Months': 0.729373,
+ 'profitMargins': -0.31594,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.39,
+ 'regularMarketDayLow': 2.3,
+ 'regularMarketOpen': 2.39,
+ 'regularMarketPreviousClose': 2.39,
+ 'regularMarketPrice': 2.39,
+ 'regularMarketVolume': 33325,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 52054400,
+ 'sharesPercentSharesOut': 0.0539,
+ 'sharesShort': 2803549,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1040975,
+ 'shortName': 'AgroFresh Solutions, Inc.',
+ 'shortPercentOfFloat': 0.1287,
+ 'shortRatio': 6.76,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'AGFS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.032,
+ 'twoHundredDayAverage': 2.32223,
+ 'volume': 33325,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.agrofresh.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '19106'}

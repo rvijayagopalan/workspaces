@@ -1,0 +1,164 @@
+{'52WeekChange': 0.40489066,
+ 'SandP52WeekChange': None,
+ 'address1': '107 West Franklin Street',
+ 'address2': 'PO Box 638',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 100,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 189125,
+ 'averageVolume': 246179,
+ 'averageVolume10days': 189125,
+ 'beta': 2.472829,
+ 'beta3Year': None,
+ 'bid': 63.59,
+ 'bidSize': 800,
+ 'bookValue': 21.076,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Elkhart',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 64.81,
+ 'dayLow': 63.5,
+ 'dividendRate': 1,
+ 'dividendYield': 0.0154,
+ 'earningsQuarterlyGrowth': 0.016,
+ 'enterpriseToEbitda': 9.951,
+ 'enterpriseToRevenue': 0.944,
+ 'enterpriseValue': 2188374016,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '574 522 5213',
+ 'fiftyDayAverage': 59.92857,
+ 'fiftyTwoWeekHigh': 67.5,
+ 'fiftyTwoWeekLow': 16.7,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 22053072,
+ 'forwardEps': 3.79,
+ 'forwardPE': 16.80211,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7500,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.06007,
+ 'heldPercentInstitutions': 0.96402,
+ 'industry': 'Building Products & Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1515628800,
+ 'lastSplitFactor': '1:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/patrickind.com',
+ 'longBusinessSummary': 'Patrick Industries, Inc. manufactures and distributes '
+                        'building products and materials for the recreational '
+                        'vehicle, marine, manufactured housing, and industrial '
+                        'markets in the United States and Canada. Its '
+                        'Manufacturing segment manufactures and sells '
+                        'furniture, shelving, walls, countertops, and cabinet '
+                        'products; cabinet doors, fiberglass bath fixtures, '
+                        'and tile systems; hardwood furniture, vinyl printing, '
+                        'solid surface, granite, and quartz countertop '
+                        'fabrication products; RV paintings; fabricated '
+                        'aluminum products; decorative vinyl and paper '
+                        'laminated panels; fiberglass and plastic components; '
+                        'softwoods lumber; custom cabinets; polymer-based '
+                        'flooring products; and electrical systems and '
+                        'components, including instrument and dash panels, and '
+                        'other products. This segment also provides wrapped '
+                        'vinyl, paper, and hardwood profile moldings; interior '
+                        'passage doors; slide-out trim and fascia products; '
+                        'thermoformed shower surrounds; specialty bath and '
+                        'closet building products; fiberglass and plastic helm '
+                        'systems and components; wiring and wire harnesses; '
+                        'aluminum fuel tanks; boat covers, towers, tops, and '
+                        'frames; CNC molds and composite parts; and slotwall '
+                        "panels and components. The company's Distribution "
+                        'segment distributes pre-finished wall and ceiling '
+                        'panels, drywall and drywall finishing products, '
+                        'electronics, audio systems components, appliances, '
+                        'wiring products, electrical and plumbing products, '
+                        'cement siding products, raw and processed lumber, '
+                        'fiber reinforced polyester products, interior passage '
+                        'doors, roofing products, laminate and ceramic '
+                        'flooring products, shower doors, furniture, '
+                        'fireplaces and surrounds, interior and exterior '
+                        'lighting products, and other products. This segment '
+                        'also offers transportation and logistics services. It '
+                        'offers its products through a network of '
+                        'manufacturing and distribution centers. The company '
+                        'was founded in 1959 and is headquartered in Elkhart, '
+                        'Indiana.',
+ 'longName': 'Patrick Industries, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1496747520,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_295249',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585440000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 89904000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 64.49,
+ 'openInterest': None,
+ 'payoutRatio': 0.1295,
+ 'pegRatio': -94.5,
+ 'phone': '574 294 7511',
+ 'previousClose': 64.92,
+ 'priceHint': 2,
+ 'priceToBook': 3.0214462,
+ 'priceToSalesTrailing12Months': 0.6456797,
+ 'profitMargins': 0.03878,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 64.81,
+ 'regularMarketDayLow': 63.5,
+ 'regularMarketOpen': 64.49,
+ 'regularMarketPreviousClose': 64.92,
+ 'regularMarketPrice': 64.49,
+ 'regularMarketVolume': 111733,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 23504200,
+ 'sharesPercentSharesOut': 0.0504,
+ 'sharesShort': 1184067,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1378349,
+ 'shortName': 'Patrick Industries, Inc.',
+ 'shortPercentOfFloat': 0.0631,
+ 'shortRatio': 4.75,
+ 'startDate': None,
+ 'state': 'IN',
+ 'strikePrice': None,
+ 'symbol': 'PATK',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.5,
+ 'trailingAnnualDividendYield': 0.007701787,
+ 'trailingEps': 3.86,
+ 'trailingPE': 16.49741,
+ 'twoHundredDayAverage': 48.25367,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'eef4efb0-d2e3-30ff-8bf5-0afc13ef29b7',
+ 'volume': 111733,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.patrickind.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '46515'}

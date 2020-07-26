@@ -1,0 +1,160 @@
+{'52WeekChange': 0.7564461,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '5320 Legacy Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 166.72,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 147725,
+ 'averageVolume': 346328,
+ 'averageVolume10days': 147725,
+ 'beta': 2.032529,
+ 'beta3Year': None,
+ 'bid': 157.21,
+ 'bidSize': 800,
+ 'bookValue': 6.879,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Plano',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 158.61,
+ 'dayLow': 153.91,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -14.77,
+ 'enterpriseToRevenue': 237.349,
+ 'enterpriseValue': 4770724864,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 156.992,
+ 'fiftyTwoWeekHigh': 257.965,
+ 'fiftyTwoWeekLow': 70,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 25759295,
+ 'forwardEps': -10.47,
+ 'forwardPE': -15.029608,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 220,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.052410003,
+ 'heldPercentInstitutions': 0.82027,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/reatapharma.com',
+ 'longBusinessSummary': 'Reata Pharmaceuticals, Inc., a clinical stage '
+                        'biopharmaceutical company, develops novel '
+                        'therapeutics for patients with serious or '
+                        'life-threatening diseases by targeting molecular '
+                        'pathways that regulate cellular metabolism and '
+                        'inflammation. The company is developing Phase III '
+                        'clinical trial programs, including bardoxolone methyl '
+                        '(bardoxolone) for the treatment of patients with '
+                        'chronic kidney disease(CKD) caused by Alport '
+                        'syndrome, as well as for a form of pulmonary arterial '
+                        'hypertension associated with connective tissue '
+                        'disease; omaveloxolone that is Phase II clinical '
+                        "trial to treat Friedreich's ataxia; and conduct phase "
+                        '2 study for various form of CKD, such as IgA '
+                        'nephropathy, type 1 diabetic, and focal segmental '
+                        'glomerulosclerosis. It is also developing RTA 901, '
+                        'which completed Phase 1 clinical trials for the '
+                        'treatment of neurological diseases, such as diabetic '
+                        'neuropathy; and RORgT Inhibitors that are in the '
+                        'preclinical development phase for the potential '
+                        'treatment of a range of autoimmune, inflammatory, and '
+                        'fibrotic diseases. In addition, the company offers '
+                        'bardoxolone for the treatment of Autosomal Dominant '
+                        'Polycystic Kidney Disease (ADPKD), as well as '
+                        'initiated phase 3 Falcon trial for the treatment of '
+                        'ADPKD. Further, it has a strategic collaboration '
+                        'agreement with Kyowa Kirin Co., Ltd. to develop and '
+                        'commercialize bardoxolone for renal, cardiovascular, '
+                        'diabetes, and various other related metabolic '
+                        'indications in Japan, China, Hong Kong, Macao, South '
+                        'Korea, Taiwan, Thailand, Singapore, the Philippines, '
+                        'Malaysia, Indonesia, Brunei, Vietnam, Laos, Myanmar, '
+                        'and Cambodia; and AbbVie Inc. to jointly research, '
+                        'develop, and commercialize all second- and '
+                        'later-generation Nrf2 activators for all indications '
+                        'other than renal, cardiovascular, and metabolic '
+                        'indications. The company was formerly known as Reata '
+                        'Discovery, Inc. and changed its name to Reata '
+                        'Pharmaceuticals, Inc. in May 2005. Reata '
+                        'Pharmaceuticals, Inc. was founded in 2002 and is '
+                        'headquartered in Plano, Texas.',
+ 'longName': 'Reata Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 5283865600,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_6966894',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -309955008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 155.54,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '972 865 2219',
+ 'previousClose': 156.71,
+ 'priceHint': 2,
+ 'priceToBook': 22.875418,
+ 'priceToSalesTrailing12Months': 262.87888,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 158.61,
+ 'regularMarketDayLow': 153.91,
+ 'regularMarketOpen': 155.54,
+ 'regularMarketPreviousClose': 156.71,
+ 'regularMarketPrice': 155.54,
+ 'regularMarketVolume': 132154,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 28508000,
+ 'sharesPercentSharesOut': 0.1058,
+ 'sharesShort': 3551443,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3485742,
+ 'shortName': 'Reata Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.1696,
+ 'shortRatio': 6.27,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'RETA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -9.915,
+ 'twoHundredDayAverage': 169.75633,
+ 'volume': 132154,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.reatapharma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75024'}

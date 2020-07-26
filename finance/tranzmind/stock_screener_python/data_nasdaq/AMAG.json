@@ -1,0 +1,151 @@
+{'52WeekChange': 0.17785633,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1100 Winter Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 10.48,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 607562,
+ 'averageVolume': 567998,
+ 'averageVolume10days': 607562,
+ 'beta': 0.95014,
+ 'beta3Year': None,
+ 'bid': 10.01,
+ 'bidSize': 1200,
+ 'bookValue': 7.697,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Waltham',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 10.64,
+ 'dayLow': 9.78,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -5.375,
+ 'enterpriseToRevenue': 1.63,
+ 'enterpriseValue': 522521056,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '617 649 1654',
+ 'fiftyDayAverage': 7.9574285,
+ 'fiftyTwoWeekHigh': 13.53,
+ 'fiftyTwoWeekLow': 4.41,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 16728213,
+ 'forwardEps': 0.19,
+ 'forwardPE': 52.63158,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 440,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01745,
+ 'heldPercentInstitutions': 1.3431599,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 685843200,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/amagpharma.com',
+ 'longBusinessSummary': 'AMAG Pharmaceuticals, Inc., a pharmaceutical company, '
+                        'develops, manufactures, and commercializes '
+                        "therapeutics for maternal and women's health, and "
+                        'anemia management in the United States. The company '
+                        'markets Feraheme (ferumoxytol), an intravenous iron '
+                        'replacement therapeutic agent for the treatment of '
+                        'iron deficiency anemia in adult patients who have '
+                        'intolerance to oral iron or have had unsatisfactory '
+                        'response to oral iron, as well as patients who have '
+                        'chronic kidney disease; Makena, a hydroxyprogesterone '
+                        'caproate injection to reduce the risk of preterm '
+                        'birth in women pregnant with a single baby who have a '
+                        'history of singleton spontaneous preterm birth; '
+                        'Intrarosa(prasterone) vaginal insert steroid for the '
+                        'treatment of dyspareunia due to menopause; and '
+                        'Vyleesi (bremelanotide), an auto-injector device for '
+                        'the treatment of hypoactive sexual desire disorder in '
+                        'pre-menopausal women. Its product candidates also '
+                        'include AMAG-423 (ovine), an antibody fragment, which '
+                        'is in Phase 2b/3a trial for the treatment of severe '
+                        'preeclampsia in pregnant women; and Ciraparantag, an '
+                        'anticoagulant reversal agent that is in planned Phase '
+                        '2b trial for the treatment of novel oral '
+                        'anticoagulants or low molecular weight heparin. The '
+                        'company sells Feraheme to authorized wholesalers and '
+                        'specialty distributors. The company has license '
+                        'agreements with Endoceutics, Inc., Palatin '
+                        'Technologies, Inc., Velo Bio, LLC, Prasco, LLC, '
+                        'Perosphere Pharmaceuticals Inc., and Antares Pharma, '
+                        'Inc. AMAG Pharmaceuticals, Inc. was founded in 1981 '
+                        'and is headquartered in Waltham, Massachusetts.',
+ 'longName': 'AMAG Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 342728000,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_247782',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -368863008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 10.22,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.86,
+ 'phone': '617 498 3300',
+ 'previousClose': 10.075,
+ 'priceHint': 2,
+ 'priceToBook': 1.2992074,
+ 'priceToSalesTrailing12Months': 1.0689939,
+ 'profitMargins': -1.1505101,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 10.64,
+ 'regularMarketDayLow': 9.78,
+ 'regularMarketOpen': 10.22,
+ 'regularMarketPreviousClose': 10.075,
+ 'regularMarketPrice': 10.22,
+ 'regularMarketVolume': 938225,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 34272800,
+ 'sharesPercentSharesOut': 0.35950002,
+ 'sharesShort': 12321041,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 12355253,
+ 'shortName': 'AMAG Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.7554,
+ 'shortRatio': 20.17,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'AMAG',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -10.871,
+ 'twoHundredDayAverage': 8.140791,
+ 'volume': 938225,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.amagpharma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02451'}

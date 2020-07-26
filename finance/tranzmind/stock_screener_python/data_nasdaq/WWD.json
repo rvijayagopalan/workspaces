@@ -1,0 +1,161 @@
+{'52WeekChange': -0.30532044,
+ 'SandP52WeekChange': None,
+ 'address1': '1081 Woodward Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 80.13,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 332450,
+ 'averageVolume': 549903,
+ 'averageVolume10days': 332450,
+ 'beta': 1.524929,
+ 'beta3Year': None,
+ 'bid': 80.1,
+ 'bidSize': 1000,
+ 'bookValue': 30.736,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Fort Collins',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 80.97,
+ 'dayLow': 79.99,
+ 'dividendRate': 0.33,
+ 'dividendYield': 0.004,
+ 'earningsQuarterlyGrowth': 0.177,
+ 'enterpriseToEbitda': 12.202,
+ 'enterpriseToRevenue': 2.049,
+ 'enterpriseValue': 6001310208,
+ 'exDividendDate': 1589500800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '970-498-3050',
+ 'fiftyDayAverage': 77.65686,
+ 'fiftyTwoWeekHigh': 129.06,
+ 'fiftyTwoWeekLow': 46.51,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.71,
+ 'floatShares': 58086270,
+ 'forwardEps': 3.15,
+ 'forwardPE': 25.4,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 9023,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.06934,
+ 'heldPercentInstitutions': 0.84251,
+ 'industry': 'Aerospace & Defense',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1203033600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/woodward.com',
+ 'longBusinessSummary': 'Woodward, Inc. designs, manufactures, and services '
+                        'control solutions for the aerospace and industrial '
+                        'markets worldwide. The company operates in two '
+                        'segments, Aerospace and Industrial. The Aerospace '
+                        'segment offers fuel pumps, metering units, actuators, '
+                        'air valves, specialty valves, fuel nozzles, and '
+                        'thrust reverser actuation systems for turbine engines '
+                        'and nacelles; and flight deck controls, actuators, '
+                        'servo controls, and motors and sensors for aircraft '
+                        'that are used on commercial and private aircraft and '
+                        'rotorcraft, as well as on military fixed-wing '
+                        'aircraft and rotorcraft, guided weapons, and other '
+                        'defense systems. It also provides aftermarket '
+                        'maintenance, repair and overhaul, and other services '
+                        'to commercial airlines, repair facilities, military '
+                        'depots, third party repair shops, and other end '
+                        'users. This segment sells its products to original '
+                        'equipment manufacturers (OEMs), tier-one suppliers, '
+                        'and various contractors, as well as through '
+                        'aftermarket sales of components, such as provisioning '
+                        'spares or replacements, and spare parts. The '
+                        'Industrial segment designs, produces, and services '
+                        'systems and products for the management of fuel, air, '
+                        'fluids, gases, motion, combustion, and electricity. '
+                        'Its products include actuators, valves, pumps, fuel '
+                        'injection systems, solenoids, ignition systems, speed '
+                        'controls, electronics and software, power converters, '
+                        'sensors, and other devices that measure, communicate, '
+                        'and protect electrical distribution systems for use '
+                        'in industrial gas turbines, steam turbines, '
+                        'reciprocating engines, electric power generation and '
+                        'power distribution systems, wind turbines, and '
+                        'compressors. This segment sells its aftermarket '
+                        'products, and other related services to OEMs through '
+                        'an independent network of distributors, as well as '
+                        'directly to end users. The company was founded in '
+                        '1870 and is headquartered in Fort Collins, Colorado.',
+ 'longName': 'Woodward, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4983791104,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_314690',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 277593984,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 80.02,
+ 'openInterest': None,
+ 'payoutRatio': 0.17889999,
+ 'pegRatio': 4.4,
+ 'phone': '970-482-5811',
+ 'previousClose': 80.43,
+ 'priceHint': 2,
+ 'priceToBook': 2.6031365,
+ 'priceToSalesTrailing12Months': 1.7014654,
+ 'profitMargins': 0.09477,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 80.97,
+ 'regularMarketDayLow': 79.99,
+ 'regularMarketOpen': 80.02,
+ 'regularMarketPreviousClose': 80.43,
+ 'regularMarketPrice': 80.02,
+ 'regularMarketVolume': 296692,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 62289600,
+ 'sharesPercentSharesOut': 0.0484,
+ 'sharesShort': 3013664,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2688998,
+ 'shortName': 'Woodward, Inc.',
+ 'shortPercentOfFloat': 0.056500003,
+ 'shortRatio': 5.14,
+ 'startDate': None,
+ 'state': 'CO',
+ 'strikePrice': None,
+ 'symbol': 'WWD',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.767,
+ 'trailingAnnualDividendYield': 0.009536243,
+ 'trailingEps': 4.29,
+ 'trailingPE': 18.65035,
+ 'twoHundredDayAverage': 82.64266,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '3c062dd8-5e3d-38c3-a776-4bcb17c1a242',
+ 'volume': 296692,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.woodward.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '80524'}

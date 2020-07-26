@@ -1,0 +1,155 @@
+{'52WeekChange': -0.42956978,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2211 South 47th Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 26.12,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 711937,
+ 'averageVolume': 1101909,
+ 'averageVolume10days': 711937,
+ 'beta': 1.364145,
+ 'beta3Year': None,
+ 'bid': 26.1,
+ 'bidSize': 800,
+ 'bookValue': 37.234,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Phoenix',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 26.78,
+ 'dayLow': 26.03,
+ 'dividendRate': 0.84,
+ 'dividendYield': 0.0323,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 8.138,
+ 'enterpriseToRevenue': 0.224,
+ 'enterpriseValue': 4073848064,
+ 'exDividendDate': 1591056000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 27.108572,
+ 'fiftyTwoWeekHigh': 46.41,
+ 'fiftyTwoWeekLow': 17.85,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.83,
+ 'floatShares': 98038655,
+ 'forwardEps': 1.51,
+ 'forwardPE': 17.298014,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 15500,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00775,
+ 'heldPercentInstitutions': 0.98319,
+ 'industry': 'Electronics & Computer Distribution',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561766400,
+ 'lastMarket': None,
+ 'lastSplitDate': 970185600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/avnet.com',
+ 'longBusinessSummary': 'Avnet, Inc., a technology solutions company, markets, '
+                        'sells, and distributes electronic components. The '
+                        'company operates through two segments, Electronic '
+                        'Components and Farnell. The Electronic Components '
+                        'segment markets, sells, and distributes '
+                        'semiconductors, and interconnect, passive, and '
+                        'electromechanical devices; and other integrated '
+                        'components from electronic component manufacturers. '
+                        'It also offers design chain support that provides '
+                        'engineers with technical design solutions; '
+                        'engineering and technical resources to support '
+                        'product design, bill of materials development, and '
+                        'technical education and training; and supply chain '
+                        'solutions that provide support and logistical '
+                        'services to original equipment manufacturers, '
+                        'electronic manufacturing service providers, and '
+                        'electronic component manufacturers. In addition, this '
+                        'segment provides integrated solutions, such as '
+                        'technical design, integration, and assembly of '
+                        'embedded products, and systems and solutions '
+                        'primarily for industrial applications, as well as for '
+                        'intelligent embedded and innovative display solutions '
+                        'comprising touch and passive displays. Further, it '
+                        'develops and manufactures standard board and '
+                        'industrial subsystems, and application-specific '
+                        'devices that enable it to produce systems tailored to '
+                        'specific customer requirements. This segment serves '
+                        'various markets, including automotive, medical, '
+                        'defense, aerospace, telecommunications, and digital '
+                        'editing. The Farnell segment distributes kits, tools, '
+                        'and electronic and industrial automation components, '
+                        'as well as test and measurement products to engineers '
+                        'and entrepreneurs. It has operations in the Americas, '
+                        'Europe, the Middle East, Africa, and the Asia '
+                        'Pacific. Avnet, Inc. was founded in 1921 and is '
+                        'headquartered in Phoenix, Arizona.',
+ 'longName': 'Avnet, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2579264000,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_253018',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': -116822000,
+ 'nextFiscalYearEnd': 1624924800,
+ 'open': 26.39,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 1.78,
+ 'phone': '480-643-2000',
+ 'previousClose': 26.52,
+ 'priceHint': 2,
+ 'priceToBook': 0.70150936,
+ 'priceToSalesTrailing12Months': 0.14206484,
+ 'profitMargins': -0.00634,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 26.78,
+ 'regularMarketDayLow': 26.03,
+ 'regularMarketOpen': 26.39,
+ 'regularMarketPreviousClose': 26.52,
+ 'regularMarketPrice': 26.39,
+ 'regularMarketVolume': 502152,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 98746704,
+ 'sharesPercentSharesOut': 0.028800001,
+ 'sharesShort': 2844112,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2858871,
+ 'shortName': 'Avnet, Inc.',
+ 'shortPercentOfFloat': 0.0372,
+ 'shortRatio': 2.39,
+ 'startDate': None,
+ 'state': 'AZ',
+ 'strikePrice': None,
+ 'symbol': 'AVT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.83,
+ 'trailingAnnualDividendYield': 0.031297132,
+ 'trailingEps': -1.126,
+ 'twoHundredDayAverage': 30.09331,
+ 'volume': 502152,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.avnet.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '85034'}

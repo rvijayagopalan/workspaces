@@ -1,0 +1,163 @@
+{'52WeekChange': -0.019800365,
+ 'SandP52WeekChange': None,
+ 'address1': '7475 Lusk Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 58.61,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 866812,
+ 'averageVolume': 907225,
+ 'averageVolume10days': 866812,
+ 'beta': 1.385434,
+ 'beta3Year': None,
+ 'bid': 55.86,
+ 'bidSize': 800,
+ 'bookValue': 15.361,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Diego',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 58.82,
+ 'dayLow': 57.02,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.436,
+ 'enterpriseToEbitda': 14.427,
+ 'enterpriseToRevenue': 3.128,
+ 'enterpriseValue': 3607316992,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '800 475 9134',
+ 'fiftyDayAverage': 57.722572,
+ 'fiftyTwoWeekHigh': 81.91,
+ 'fiftyTwoWeekLow': 28.55,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 50842057,
+ 'forwardEps': 2.46,
+ 'forwardPE': 23.817072,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00721,
+ 'heldPercentInstitutions': 1.06826,
+ 'industry': 'Medical Devices',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/nuvasive.com',
+ 'longBusinessSummary': 'NuVasive, Inc., a medical device company, develops '
+                        'and markets minimally disruptive surgical products '
+                        'and procedurally integrated solutions for spine '
+                        'surgery. Its products focus on applications for spine '
+                        'fusion surgery, including ancillary products and '
+                        'services used to aid in the surgical procedure. The '
+                        "company's principal products include Maximum Access "
+                        'Surgery, a minimally disruptive surgical platform, '
+                        'which includes its software-driven nerve detection '
+                        'and avoidance systems, and intraoperative monitoring '
+                        '(IOM) services and support; MaXcess, an integrated '
+                        'split-blade retractor system; and various specialized '
+                        'implants and biologics. Its spine surgery product '
+                        'line offerings comprises products for the '
+                        'thoracolumbar and the cervical spine, which are '
+                        'primarily used to enable surgeons to access the spine '
+                        'to perform restorative and fusion procedures in a '
+                        "minimally disruptive fashion. The company's biologics "
+                        'products include Osteocel Plus and Pro, a cellular '
+                        'bone matrix; Formagraft, a collagen-based synthetic '
+                        'bone substitute; AttraX, a synthetic bone graft '
+                        'material; and Propel DBM, a moldable demineralized '
+                        'bone matrix putty and gel. Its IOM services are used '
+                        'for onsite and remote monitoring of the neurological '
+                        'systems of patients undergoing spinal and '
+                        'brain-related surgeries. The company also provides '
+                        'implants used for interbody disc height restoration; '
+                        'and fixation products, including pedicle screws, '
+                        'rods, and plates. In addition, it offers Integrated '
+                        'Global Alignment platform for assessing, preserving, '
+                        'and restoring spinal alignment; MAGEC-early onset '
+                        'scoliosis, a spinal bracing and distraction system; '
+                        'and Precice, a limb lengthening system. The company '
+                        'sells its products to patients, surgeons, hospitals, '
+                        'and insurers through independent sales agents, '
+                        'directly-employed sales personnel, and distributors '
+                        'in the United States and internationally. NuVasive, '
+                        'Inc. was founded in 1997 and is headquartered in San '
+                        'Diego, California.',
+ 'longName': 'NuVasive, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3002649600,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_32305',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 61146000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 57.98,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 7.64,
+ 'phone': '858 909 1800',
+ 'previousClose': 57.92,
+ 'priceHint': 2,
+ 'priceToBook': 3.8142047,
+ 'priceToSalesTrailing12Months': 2.6038108,
+ 'profitMargins': 0.05302,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 58.82,
+ 'regularMarketDayLow': 57.02,
+ 'regularMarketOpen': 57.98,
+ 'regularMarketPreviousClose': 57.92,
+ 'regularMarketPrice': 57.98,
+ 'regularMarketVolume': 640057,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 51248500,
+ 'sharesPercentSharesOut': 0.1333,
+ 'sharesShort': 6830423,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5658078,
+ 'shortName': 'NuVasive, Inc.',
+ 'shortPercentOfFloat': 0.20549999,
+ 'shortRatio': 7.27,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'NUVA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.147,
+ 'trailingPE': 51.08108,
+ 'twoHundredDayAverage': 61.402733,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '6746bb3c-c4da-30b0-8665-6972e187a8e1',
+ 'volume': 640057,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.nuvasive.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92121'}

@@ -1,0 +1,155 @@
+{'52WeekChange': -0.18944842,
+ 'SandP52WeekChange': None,
+ 'address1': '1213 Elko Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 6.42,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 43062,
+ 'averageVolume': 51047,
+ 'averageVolume10days': 43062,
+ 'beta': 1.009523,
+ 'beta3Year': None,
+ 'bid': 6.3,
+ 'bidSize': 1300,
+ 'bookValue': 3.859,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Sunnyvale',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.7,
+ 'dayLow': 6.3,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -8.915,
+ 'enterpriseToRevenue': 1.91,
+ 'enterpriseValue': 82801968,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '408 331 9795',
+ 'fiftyDayAverage': 6.884286,
+ 'fiftyTwoWeekHigh': 9,
+ 'fiftyTwoWeekLow': 4.75,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 17006095,
+ 'forwardEps': -0.33,
+ 'forwardPE': -19.090908,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 166,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.27645,
+ 'heldPercentInstitutions': 0.31757,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/gsitechnology.com',
+ 'longBusinessSummary': 'GSI Technology, Inc., a fabless semiconductor '
+                        'company, designs, develops, and markets semiconductor '
+                        'memory solutions to networking, industrial, medical, '
+                        'aerospace, and military customers in the United '
+                        'States, China, Singapore, Germany, the Netherlands, '
+                        'and internationally. It offers static random access '
+                        'memory (SRAM) products, such as SyncBurst for '
+                        'microprocessor cache and other applications; No Bus '
+                        'Turnaround SRAMs to address the needs of networking '
+                        'and telecom applications; SigmaQuad and SigmaDDR '
+                        'products for density and random transaction rate '
+                        'requirements of networking and telecom applications; '
+                        'and radiation-hardened and radiation-tolerant SRAMs '
+                        'for aerospace and military applications, such as '
+                        'networking satellites and missiles. Its products are '
+                        'used in a range of networking and telecommunications '
+                        'equipment, including core routers, multi-service '
+                        'access routers, universal gateways, enterprise edge '
+                        'routers, service provider edge routers, optical edge '
+                        'routers, fast Ethernet switches, wireless base '
+                        'stations, and network access equipment; military and '
+                        'aerospace applications, such as radar and guidance '
+                        'systems and satellites; professional audio '
+                        'applications comprising sound mixing systems; test '
+                        'and measurement applications, consisting of '
+                        'high-speed testers; and automotive applications such '
+                        'as smart cruise control; and medical applications, '
+                        'including ultrasound and CAT scan equipment. The '
+                        'company markets its products through a network of '
+                        'independent sales representatives and distributors. '
+                        'GSI Technology, Inc. was founded in 1995 and is '
+                        'headquartered in Sunnyvale, California.',
+ 'longName': 'GSI Technology, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 148729152,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_9650326',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -10337000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 6.68,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -1.88,
+ 'phone': '408 331 8800',
+ 'previousClose': 6.76,
+ 'priceHint': 2,
+ 'priceToBook': 1.6325474,
+ 'priceToSalesTrailing12Months': 3.4314458,
+ 'profitMargins': -0.23849002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.7,
+ 'regularMarketDayLow': 6.3,
+ 'regularMarketOpen': 6.68,
+ 'regularMarketPreviousClose': 6.76,
+ 'regularMarketPrice': 6.68,
+ 'regularMarketVolume': 42160,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 23607800,
+ 'sharesPercentSharesOut': 0.0066000004,
+ 'sharesShort': 154636,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 103450,
+ 'shortName': 'GSI Technology, Inc.',
+ 'shortPercentOfFloat': 0.0085,
+ 'shortRatio': 2.64,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'GSIT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.45,
+ 'twoHundredDayAverage': 7.1607194,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b134400b-d781-323e-9885-5adb6cac29d0',
+ 'volume': 42160,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.gsitechnology.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94089'}

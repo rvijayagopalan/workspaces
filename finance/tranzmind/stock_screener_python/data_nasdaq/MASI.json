@@ -1,0 +1,164 @@
+{'52WeekChange': 0.48845947,
+ 'SandP52WeekChange': None,
+ 'address1': '52 Discovery',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 233.46,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 452600,
+ 'averageVolume': 651469,
+ 'averageVolume10days': 452600,
+ 'beta': 0.918767,
+ 'beta3Year': None,
+ 'bid': 233.7,
+ 'bidSize': 900,
+ 'bookValue': 23.159,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Irvine',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 235.29,
+ 'dayLow': 226.43,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.307,
+ 'enterpriseToEbitda': 46.505,
+ 'enterpriseToRevenue': 12.303,
+ 'enterpriseValue': 12005190656,
+ 'exDividendDate': 1353628800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '949 297 7001',
+ 'fiftyDayAverage': 227.78114,
+ 'fiftyTwoWeekHigh': 258,
+ 'fiftyTwoWeekLow': 139.36,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 49928502,
+ 'forwardEps': 4.07,
+ 'forwardPE': 57.36118,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1600,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.078049995,
+ 'heldPercentInstitutions': 0.85837996,
+ 'industry': 'Medical Instruments & Supplies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/masimo.com',
+ 'longBusinessSummary': 'Masimo Corporation, a medical technology company, '
+                        'develops, manufactures, and markets noninvasive '
+                        'monitoring technologies and hospital automation '
+                        'solutions worldwide. The company offers Masimo Signal '
+                        'Extraction Technology (SET) pulse oximetry with '
+                        'measure-through motion and low perfusion pulse '
+                        'oximetry monitoring to address the primary '
+                        'limitations of conventional pulse oximetry. It also '
+                        'provides Masimo rainbow SET platform that includes '
+                        'rainbow SET Pulse CO-Oximetry products that '
+                        'noninvasively monitor hemoglobin species, including '
+                        'oxygen saturation, pulse rate, perfusion index, pleth '
+                        'variability index, and respiration rate from the '
+                        'pleth; noninvasively monitor hemoglobin '
+                        'concentration, and carboxyhemoglobin and '
+                        'methemoglobin; monitor arterial oxygen saturation and '
+                        'acoustic respiration rate; and calculates oxygen '
+                        'content and oxygen reserve index. In addition, the '
+                        'company offers SedLine brain function monitoring '
+                        "technology to measure the brain's electrical activity "
+                        'by detecting EEG signals; capnography and gas '
+                        'monitoring products comprising external '
+                        'plug-in-and-measure capnography and gas analyzers, '
+                        'integrated modules, handheld capnograph and '
+                        'capnometer devices, and capnography sampling lines; '
+                        'and O3 regional oximetry for tissue oxygen saturation '
+                        'measurement. Further, it provides Patient SafetyNet, '
+                        'a surveillance, remote monitoring, and clinician '
+                        'notification solution; MyView, a wireless '
+                        'presence-detection system; and connectivity devices. '
+                        'Additionally, the company offers Trace, a patient '
+                        'data visualization and reporting software for Masimo '
+                        'Root and Radical-7 monitors. The company provides its '
+                        'products directly, as well as through distributors '
+                        'and original equipment manufacturers partners to '
+                        'hospitals, emergency medical service providers, '
+                        'physician offices, home care providers, long term '
+                        'care facilities, veterinarians, and consumers. Masimo '
+                        'Corporation was founded in 1989 and is headquartered '
+                        'in Irvine, California.',
+ 'longName': 'Masimo Corporation',
+ 'market': 'us_market',
+ 'marketCap': 12633781248,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_31167',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 211350000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 235.29,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 5.97,
+ 'phone': '949 297 7000',
+ 'previousClose': 237.96,
+ 'priceHint': 2,
+ 'priceToBook': 10.080747,
+ 'priceToSalesTrailing12Months': 12.947127,
+ 'profitMargins': 0.21659,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 235.29,
+ 'regularMarketDayLow': 226.43,
+ 'regularMarketOpen': 235.29,
+ 'regularMarketPreviousClose': 237.96,
+ 'regularMarketPrice': 235.29,
+ 'regularMarketVolume': 411042,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 54115400,
+ 'sharesPercentSharesOut': 0.025,
+ 'sharesShort': 1353416,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1513773,
+ 'shortName': 'Masimo Corporation',
+ 'shortPercentOfFloat': 0.0312,
+ 'shortRatio': 2.16,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'MASI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3.691,
+ 'trailingPE': 63.251152,
+ 'twoHundredDayAverage': 201.14087,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e632c796-2b7c-370d-8fe5-85eca27f2bf0',
+ 'volume': 411042,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.masimo.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92618'}

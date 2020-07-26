@@ -1,0 +1,160 @@
+{'52WeekChange': 0.05383885,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '15 Elizabeth Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 43.65,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 354900,
+ 'averageVolume': 529992,
+ 'averageVolume10days': 354900,
+ 'beta': 1.487955,
+ 'beta3Year': None,
+ 'bid': 43.65,
+ 'bidSize': 1800,
+ 'bookValue': 16.005,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chelmsford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 45.19,
+ 'dayLow': 43.27,
+ 'dividendRate': 0.4,
+ 'dividendYield': 0.0088,
+ 'earningsQuarterlyGrowth': 1.668,
+ 'enterpriseToEbitda': 25.791,
+ 'enterpriseToRevenue': 3.612,
+ 'enterpriseValue': 3011545600,
+ 'exDividendDate': 1591228800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '978-262-2500',
+ 'fiftyDayAverage': 43.738285,
+ 'fiftyTwoWeekHigh': 50.35,
+ 'fiftyTwoWeekLow': 21.19,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.97,
+ 'floatShares': 70783762,
+ 'forwardEps': 1.21,
+ 'forwardPE': 36.07438,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.020769998,
+ 'heldPercentInstitutions': 0.99932,
+ 'industry': 'Semiconductor Equipment & Materials',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/brooks.com',
+ 'longBusinessSummary': 'Brooks Automation, Inc. provides automation and '
+                        'cryogenic solutions worldwide. The company operates '
+                        'in two segments, Brooks Semiconductor Solutions Group '
+                        'and Brooks Life Science Systems. The Brooks '
+                        'Semiconductor Solutions Group segment offers wafer '
+                        'automation and contamination controls solutions and '
+                        'services. Its products include atmospheric and vacuum '
+                        'robots, robotic modules, and tool automation systems '
+                        'that offer precision handling and clean wafer '
+                        'environments; and automated cleaning and inspection '
+                        'systems for wafer carriers, reticle pod cleaners, and '
+                        'stockers. This segment also offers repair, '
+                        'diagnostic, and installation services, as well as '
+                        'spare parts and productivity enhancement upgrade '
+                        'services. The Brooks Life Science Systems segment '
+                        'provides automated cold storage systems; consumables, '
+                        'including various formats of racks, tubes, caps, '
+                        'plates, and foils; and instruments used for labeling, '
+                        'bar coding, capping, de-capping, auditing, sealing, '
+                        'peeling, and piercing tubes and plates. It also '
+                        'provides sample management services, such as on-site '
+                        'and off-site sample storage, cold chain logistics, '
+                        'sample transport and collection relocation, '
+                        'bio-processing solutions, disaster recovery, and '
+                        'business continuity, as well as project management '
+                        'and consulting. In addition, this segment offers '
+                        'sample intelligence software solutions and customer '
+                        'technology integration; laboratory work flow '
+                        'scheduling for life science tools and instrument work '
+                        'cells, sample inventory and logistics, environmental '
+                        'and temperature monitoring, and clinical trial and '
+                        'consent management, as well as planning, data '
+                        'management, virtualization, and visualization '
+                        'services; and gene sequencing analysis and synthesis '
+                        'services. The company serves the semiconductor '
+                        'capital equipment and life sciences sample management '
+                        'markets in approximately 50 countries. Brooks '
+                        'Automation, Inc. was founded in 1978 and is '
+                        'headquartered in Chelmsford, Massachusetts.',
+ 'longName': 'Brooks Automation, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3219580416,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_336648',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 28483000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 45.19,
+ 'openInterest': None,
+ 'payoutRatio': 1.0526,
+ 'pegRatio': 4.28,
+ 'phone': '978-262-2400',
+ 'previousClose': 45.7,
+ 'priceHint': 2,
+ 'priceToBook': 2.727273,
+ 'priceToSalesTrailing12Months': 3.8612509,
+ 'profitMargins': 0.52981,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 45.19,
+ 'regularMarketDayLow': 43.27,
+ 'regularMarketOpen': 45.19,
+ 'regularMarketPreviousClose': 45.7,
+ 'regularMarketPrice': 45.19,
+ 'regularMarketVolume': 378747,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 73759000,
+ 'sharesPercentSharesOut': 0.051999997,
+ 'sharesShort': 3838256,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3344185,
+ 'shortName': 'Brooks Automation, Inc.',
+ 'shortPercentOfFloat': 0.0705,
+ 'shortRatio': 7.16,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'BRKS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.4,
+ 'trailingAnnualDividendYield': 0.008752735,
+ 'trailingEps': 6.031,
+ 'trailingPE': 7.2376056,
+ 'twoHundredDayAverage': 38.16453,
+ 'volume': 378747,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.brooks.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01824'}

@@ -1,0 +1,161 @@
+{'52WeekChange': -0.04320991,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '11950 Democracy Drive',
+ 'address2': 'Suite 600',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.11,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 204412,
+ 'averageVolume': 393898,
+ 'averageVolume10days': 204412,
+ 'beta': 0.916526,
+ 'beta3Year': None,
+ 'bid': 2.99,
+ 'bidSize': 800,
+ 'bookValue': 3.496,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Reston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.33,
+ 'dayLow': 3.08,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -37.019,
+ 'enterpriseToRevenue': 1.189,
+ 'enterpriseValue': 446780352,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '703-438-2051',
+ 'fiftyDayAverage': 3.238,
+ 'fiftyTwoWeekHigh': 5.51,
+ 'fiftyTwoWeekLow': 1.43,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 48121391,
+ 'forwardEps': -0.64,
+ 'forwardPE': -4.84375,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1300,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.18314,
+ 'heldPercentInstitutions': 0.79011,
+ 'industry': 'Advertising Agencies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/comscore.com',
+ 'longBusinessSummary': 'comScore, Inc. operates as an information and '
+                        'analytics company that measures audiences, consumer '
+                        'behavior, and advertising across media platforms '
+                        'worldwide. The company offers ratings and planning '
+                        'products and services, including Media Metrix and '
+                        'Mobile Metrix, which measure Websites and apps on '
+                        'computers, smartphones, and tablets; Video Metrix '
+                        'that delivers unduplicated measurement of digital '
+                        'video consumption, as well as provides TV-comparable '
+                        'reach and engagement metrics, and audience '
+                        'demographics; Plan Metrix, which offers an '
+                        'understanding of consumer lifestyle; validated '
+                        'Campaign Essentials (vCE) that validates whether '
+                        'digital ad impressions are visible to humans, '
+                        'identifies those that are fraudulent, and verifies '
+                        'that ads are shown in brand safe content and '
+                        'delivered to the right audience targets; and Campaign '
+                        "Ratings, which expands upon vCE's verification, as "
+                        'well as provides unduplicated reporting to negotiate '
+                        'and evaluate campaigns across media platforms. Its '
+                        'ratings and planning products and services also '
+                        'comprises TV Essentials that combines TV viewing '
+                        'information with marketing segmentation and consumer '
+                        'databases; StationView Essentials to understand '
+                        'consumer viewing patterns and characteristics; '
+                        'OnDemand Essentials that provides transactional '
+                        'tracking and reporting; and Cross-Platform Suite, '
+                        'which integrates person-level linear TV viewership '
+                        'with digital audience data. The company also offers '
+                        'analytics and optimization products and services that '
+                        'provide end-to-end solutions for planning, '
+                        'optimization, and evaluation of advertising campaigns '
+                        'and brand protection. In addition, it offers movies '
+                        'reporting and analytics products and services to '
+                        'measure movie viewership and box office results by '
+                        'capturing movie ticket sales in real time or near '
+                        'real time, which include box office analytics, trend '
+                        'analysis, and insights for movie studios and movie '
+                        'theater operators. The company was founded in 1999 '
+                        'and is headquartered in Reston, Virginia.',
+ 'longName': 'comScore, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 219681808,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_33539685',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -324665984,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.24,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.19,
+ 'phone': '703-438-2000',
+ 'previousClose': 3.24,
+ 'priceHint': 4,
+ 'priceToBook': 0.88672763,
+ 'priceToSalesTrailing12Months': 0.5844482,
+ 'profitMargins': -0.86375,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.33,
+ 'regularMarketDayLow': 3.08,
+ 'regularMarketOpen': 3.24,
+ 'regularMarketPreviousClose': 3.24,
+ 'regularMarketPrice': 3.24,
+ 'regularMarketVolume': 103515,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 70865104,
+ 'sharesPercentSharesOut': 0.056900002,
+ 'sharesShort': 4035109,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3671548,
+ 'shortName': 'comScore, Inc.',
+ 'shortPercentOfFloat': 0.0797,
+ 'shortRatio': 10.66,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'SCOR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -4.909,
+ 'twoHundredDayAverage': 3.3167627,
+ 'volume': 103515,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.comscore.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20190'}

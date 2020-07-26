@@ -1,0 +1,155 @@
+{'52WeekChange': 0.0479213,
+ 'SandP52WeekChange': None,
+ 'address1': '4600 Silicon Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 65.95,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 1046412,
+ 'averageVolume': 1421601,
+ 'averageVolume10days': 1046412,
+ 'beta': 1.117647,
+ 'beta3Year': None,
+ 'bid': 65.94,
+ 'bidSize': 800,
+ 'bookValue': 17.933,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Durham',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 66.57,
+ 'dayLow': 64.68,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 730.986,
+ 'enterpriseToRevenue': 7.16,
+ 'enterpriseValue': 6798172160,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '919-313-5558',
+ 'fiftyDayAverage': 61.585144,
+ 'fiftyTwoWeekHigh': 67.8,
+ 'fiftyTwoWeekLow': 27.77,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 107608445,
+ 'forwardEps': -0.32,
+ 'forwardPE': -206.40627,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5319,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0066000004,
+ 'heldPercentInstitutions': 0.97906,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 976492800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cree.com',
+ 'longBusinessSummary': 'Cree, Inc. provides lighting-class light emitting '
+                        'diode (LED) and semiconductor products for power and '
+                        'radio-frequency (RF) applications in the United '
+                        'States, China, Europe, and internationally. It '
+                        'operates in two segments, Wolfspeed and LED Products. '
+                        'The Wolfspeed segment offers silicon carbide (SiC) '
+                        'materials for RF, power switching, gemstones, and '
+                        'other applications. It also provides SiC power device '
+                        'products, including SiC Schottky diodes, metal oxide '
+                        'semiconductor field effect transistors (MOSFETs), '
+                        'power modules, and gate driver boards for electric '
+                        'vehicles, including charging infrastructure, server '
+                        'power supplies, solar inverters, uninterruptible '
+                        'power supplies, industrial power supplies, and other '
+                        'applications. In addition, this segment offers '
+                        'gallium nitride (GaN) die, high-electron mobility '
+                        'transistors (HEMTs), monolithic microwave integrated '
+                        'circuits (MMICs), and laterally diffused MOSFET '
+                        '(LDMOS) power transistors for telecommunications '
+                        'infrastructure, military, and other commercial '
+                        'applications; and custom die manufacturing services '
+                        'for GaN HEMTs and MMICs. The LED Products segment '
+                        'provides blue and green LED chip products for video '
+                        'screens, gaming displays, function indicator lights '
+                        'and automotive backlights, headlamps, and directional '
+                        'indicators. It also offers XLamp LED components and '
+                        'LED modules for lighting applications; and surface '
+                        'mount and through-hole packaged LED products for '
+                        'video, signage, general illumination, transportation, '
+                        'gaming, and specialty lighting applications. The '
+                        'company was founded in 1987 and is headquartered in '
+                        'Durham, North Carolina.',
+ 'longName': 'Cree, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 7143968256,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_197012',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585440000,
+ 'navPrice': None,
+ 'netIncomeToCommon': -186700000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 65.4,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 6.04,
+ 'phone': '919-407-5300',
+ 'previousClose': 66.04,
+ 'priceHint': 2,
+ 'priceToBook': 3.683154,
+ 'priceToSalesTrailing12Months': 7.5239263,
+ 'profitMargins': -0.30110002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 66.57,
+ 'regularMarketDayLow': 64.68,
+ 'regularMarketOpen': 65.4,
+ 'regularMarketPreviousClose': 66.04,
+ 'regularMarketPrice': 65.4,
+ 'regularMarketVolume': 583833,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 108160000,
+ 'sharesPercentSharesOut': 0.116000004,
+ 'sharesShort': 12547054,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 11798908,
+ 'shortName': 'Cree, Inc.',
+ 'shortPercentOfFloat': 0.13239999,
+ 'shortRatio': 8.71,
+ 'startDate': None,
+ 'state': 'NC',
+ 'strikePrice': None,
+ 'symbol': 'CREE',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.666,
+ 'twoHundredDayAverage': 48.630863,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'eacad62f-c4be-3b37-b7ed-b470c2d4c653',
+ 'volume': 583833,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cree.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '27703'}

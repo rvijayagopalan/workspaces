@@ -1,0 +1,159 @@
+{'52WeekChange': 0.3763044,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1725 Shepherd Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 44.78,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 149000,
+ 'averageVolume': 163185,
+ 'averageVolume10days': 149000,
+ 'beta': 1.22521,
+ 'beta3Year': None,
+ 'bid': 44.75,
+ 'bidSize': 800,
+ 'bookValue': 27.108,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chattanooga',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 45.94,
+ 'dayLow': 44.57,
+ 'dividendRate': 0.44,
+ 'dividendYield': 0.0097,
+ 'earningsQuarterlyGrowth': 0.446,
+ 'enterpriseToEbitda': 18.197,
+ 'enterpriseToRevenue': 0.858,
+ 'enterpriseValue': 971756928,
+ 'exDividendDate': 1589328000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '423 899 4456',
+ 'fiftyDayAverage': 45.504284,
+ 'fiftyTwoWeekHigh': 49.18,
+ 'fiftyTwoWeekLow': 25.17,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.93,
+ 'floatShares': 22172945,
+ 'forwardEps': 1.57,
+ 'forwardPE': 28.560509,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3753,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01883,
+ 'heldPercentInstitutions': 0.98793,
+ 'industry': 'Farm & Heavy Construction Machinery',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 916704000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/astecindustries.com',
+ 'longBusinessSummary': 'Astec Industries, Inc. manufactures and sells '
+                        'equipment and components for the road building, '
+                        'aggregate processing, geothermal, water, oil and gas, '
+                        'and wood processing industries in the United States '
+                        "and internationally. The company's Infrastructure "
+                        'Group segment designs, engineers, manufactures, '
+                        'markets, services, and installs asphalt plants and '
+                        'their related components, asphalt pavers, screeds, '
+                        'milling machines, material transfer vehicles, '
+                        'stabilizers, and related ancillary equipment. This '
+                        'segment serves asphalt producers, highway and heavy '
+                        'equipment contractors, utility contractors, and '
+                        'governmental agencies through direct sales staff and '
+                        'independent distributors. Its Aggregate and Mining '
+                        'Group segment focuses on designing and manufacturing '
+                        'heavy processing equipment, as well as servicing and '
+                        'supplying parts for the aggregate, metallic mining, '
+                        'recycling, ports, and bulk handling markets. This '
+                        'segment serves highway and heavy equipment '
+                        'contractors, sand and gravel producers, recycle and '
+                        'crushing contractors, mine operators, quarry '
+                        'operators, port and inland terminal authorities, '
+                        'power stations, and governmental agencies through '
+                        'direct sales employees and independent distributors. '
+                        "The company's Energy Group segment supplies heavy "
+                        'equipment, such as heaters, drilling rigs, concrete '
+                        'plants, wood chippers and grinders, pump trailers, '
+                        'storage equipment, construction, and water well '
+                        'industries, as well as commercial and industrial '
+                        'burners that are used primarily in commercial, '
+                        'industrial, and process heating applications. It '
+                        'serves oil and gas field operators, industrial '
+                        'product manufacturers, independent contractors, ready '
+                        'mix concrete producers, heating equipment '
+                        'distributors, and government agencies through '
+                        'employee sales agents, manufacturer representatives, '
+                        'and distributors. The company was founded in 1972 and '
+                        'is based in Chattanooga, Tennessee.',
+ 'longName': 'Astec Industries, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1012747264,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_251951',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 28676000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 45.46,
+ 'openInterest': None,
+ 'payoutRatio': 0.34919998,
+ 'pegRatio': 5.75,
+ 'phone': '423 899 5898',
+ 'previousClose': 45.45,
+ 'priceHint': 2,
+ 'priceToBook': 1.6541243,
+ 'priceToSalesTrailing12Months': 0.8941152,
+ 'profitMargins': 0.025320001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 45.94,
+ 'regularMarketDayLow': 44.57,
+ 'regularMarketOpen': 45.46,
+ 'regularMarketPreviousClose': 45.45,
+ 'regularMarketPrice': 45.46,
+ 'regularMarketVolume': 180403,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 22585800,
+ 'sharesPercentSharesOut': 0.0484,
+ 'sharesShort': 1093766,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 875080,
+ 'shortName': 'Astec Industries, Inc.',
+ 'shortPercentOfFloat': 0.0582,
+ 'shortRatio': 6.52,
+ 'startDate': None,
+ 'state': 'TN',
+ 'strikePrice': None,
+ 'symbol': 'ASTE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.44,
+ 'trailingAnnualDividendYield': 0.009680968,
+ 'trailingEps': 1.261,
+ 'trailingPE': 35.55908,
+ 'twoHundredDayAverage': 40.71453,
+ 'volume': 180403,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.astecindustries.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '37421'}

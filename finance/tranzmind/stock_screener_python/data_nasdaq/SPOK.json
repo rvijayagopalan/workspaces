@@ -1,0 +1,159 @@
+{'52WeekChange': -0.36049718,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '6850 Versar Center',
+ 'address2': 'Suite 420',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 9.28,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 54162,
+ 'averageVolume': 78323,
+ 'averageVolume10days': 54162,
+ 'beta': 0.099719,
+ 'beta3Year': None,
+ 'bid': 9.25,
+ 'bidSize': 900,
+ 'bookValue': 12.782,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Springfield',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9.6408,
+ 'dayLow': 9.25,
+ 'dividendRate': 0.5,
+ 'dividendYield': 0.0521,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -38.134,
+ 'enterpriseToRevenue': 0.77,
+ 'enterpriseValue': 120006232,
+ 'exDividendDate': 1590019200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 9.547428,
+ 'fiftyTwoWeekHigh': 14.89,
+ 'fiftyTwoWeekLow': 8.53,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.35,
+ 'floatShares': 16036595,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 620,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.025150001,
+ 'heldPercentInstitutions': 0.84999,
+ 'industry': 'Telecom Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/spok.com',
+ 'longBusinessSummary': 'Spok Holdings, Inc., through its subsidiary, Spok, '
+                        'Inc., provides various communications solutions to '
+                        'healthcare, government, and other enterprises in the '
+                        'United States, Europe, Canada, Australia, Asia, and '
+                        'the Middle East. The company provides one-way '
+                        'messaging, including numeric messaging services, '
+                        'which enable subscribers to receive messages '
+                        'comprising numbers, such as phone numbers; and '
+                        'alphanumeric messages, including numbers and letters '
+                        'that enable subscribers to receive text messages. It '
+                        'also offers two-way messaging services that enable '
+                        'subscribers to send and receive messages to and from '
+                        'other wireless messaging devices, such as pagers, '
+                        'personal digital assistants, and personal computers; '
+                        'and voice mail, personalized greeting, message '
+                        'storage and retrieval, and equipment loss and/or '
+                        'maintenance protection to one-way and two-way '
+                        'messaging subscribers. In addition, the company '
+                        'develops, sells, and supports enterprise-wide systems '
+                        'to automate, centralize, and standardize clinical '
+                        'communications for contact centers, clinical alerting '
+                        'and notification, mobile communications, and '
+                        'messaging, as well as for public safety '
+                        'notifications. Further, it sells devices to resellers '
+                        'who lease or resell them to their subscribers; '
+                        'ancillary services, such as voicemail and equipment '
+                        'loss or maintenance protection, as well as provides a '
+                        'suite of professional services. The company serves '
+                        'businesses, professionals, management personnel, '
+                        'medical personnel, field sales personnel and service '
+                        'forces, members of the construction industry and '
+                        'construction trades, real estate brokers and '
+                        'developers, sales and services organizations, '
+                        'specialty trade organizations, manufacturing '
+                        'organizations, and government agencies. The company '
+                        'was formerly known as USA Mobility, Inc. and changed '
+                        'its name to Spok Holdings, Inc. in July 2014. Spok '
+                        'Holdings, Inc. was founded in 2004 and is '
+                        'headquartered in Springfield, Virginia.',
+ 'longName': 'Spok Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 176160400,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_10622427',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -16046000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 9.59,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '800-611-8488',
+ 'previousClose': 9.59,
+ 'priceHint': 2,
+ 'priceToBook': 0.7244563,
+ 'priceToSalesTrailing12Months': 1.130741,
+ 'profitMargins': -0.103,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9.6408,
+ 'regularMarketDayLow': 9.25,
+ 'regularMarketOpen': 9.59,
+ 'regularMarketPreviousClose': 9.59,
+ 'regularMarketPrice': 9.59,
+ 'regularMarketVolume': 23352,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 19023800,
+ 'sharesPercentSharesOut': 0.0063,
+ 'sharesShort': 119879,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 131700,
+ 'shortName': 'Spok Holdings, Inc.',
+ 'shortPercentOfFloat': 0.0082,
+ 'shortRatio': 1.52,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'SPOK',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.5,
+ 'trailingAnnualDividendYield': 0.052137643,
+ 'trailingEps': -0.845,
+ 'twoHundredDayAverage': 10.37482,
+ 'volume': 23352,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.spok.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '22151'}

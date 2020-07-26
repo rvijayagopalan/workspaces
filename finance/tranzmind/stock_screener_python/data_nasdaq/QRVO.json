@@ -1,0 +1,154 @@
+{'52WeekChange': 0.49866092,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '7628 Thorndike Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 112,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1320487,
+ 'averageVolume': 1449006,
+ 'averageVolume10days': 1320487,
+ 'beta': 1.402801,
+ 'beta3Year': None,
+ 'bid': 111.04,
+ 'bidSize': 800,
+ 'bookValue': 37.45,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Greensboro',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 117.49,
+ 'dayLow': 111.31,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.181,
+ 'enterpriseToEbitda': 14.214,
+ 'enterpriseToRevenue': 4.252,
+ 'enterpriseValue': 13773772800,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 112.34,
+ 'fiftyTwoWeekHigh': 122.365,
+ 'fiftyTwoWeekLow': 67.54,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 114029742,
+ 'forwardEps': 7.07,
+ 'forwardPE': 15.830268,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7900,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0046900003,
+ 'heldPercentInstitutions': 0.93228996,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585353600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1420156800,
+ 'lastSplitFactor': '1:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/qorvo.com',
+ 'longBusinessSummary': 'Qorvo, Inc. develops and commercializes technologies '
+                        'and products for wireless and wired connectivity '
+                        'worldwide. The company operates in two segments, '
+                        'Mobile Products, and Infrastructure and Defense '
+                        'Products. The company offers integrated modules '
+                        'incorporating switches, power amplifiers, filters and '
+                        'duplexers, antenna tuners, RF power management '
+                        'integrated circuits, multimode/multi-band PAs and '
+                        'transmit modules, antenna-plexers, discrete filters '
+                        'and duplexers, discrete switches, and UWB system '
+                        'solutions, as well as envelope tracking power '
+                        'management solutions, antenna control solutions, and '
+                        'UWB system solutions supporting secure, low power, '
+                        'location, and communication services. It also '
+                        'provides integrated solutions that include switch-LNA '
+                        'modules, variable gain amplifiers, and integrated PA '
+                        'Doherty modules for massive '
+                        'multiple-input/multiple-output systems; RF products '
+                        'and compound semiconductor foundry services to '
+                        'defense primes and other global defense and aerospace '
+                        'customers; Wi-Fi customer premises equipment, '
+                        'including power amplifiers, switches, low noise '
+                        'amplifiers, and bulk acoustic wave filters; '
+                        'system-on-a-chip hardware, firmware, and application '
+                        'software for smart home applications; automotive RF '
+                        'connectivity products and metal oxide semiconductor '
+                        'based UWB chip and module system solutions; and power '
+                        'application controllers and programmable analog power '
+                        'ICs. The company sells its products directly to '
+                        'original equipment manufacturers and original design '
+                        'manufacturers, as well as through a network of sales '
+                        'representative firms and distributors. Qorvo, Inc. '
+                        'was founded in 1957 and is headquartered in '
+                        'Greensboro, North Carolina.',
+ 'longName': 'Qorvo, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 12806333440,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_33821',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 334324992,
+ 'nextFiscalYearEnd': 1648425600,
+ 'open': 117.33,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.33,
+ 'phone': '336 664 1233',
+ 'previousClose': 118.15,
+ 'priceHint': 2,
+ 'priceToBook': 2.988518,
+ 'priceToSalesTrailing12Months': 3.9536202,
+ 'profitMargins': 0.10321,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 117.49,
+ 'regularMarketDayLow': 111.31,
+ 'regularMarketOpen': 117.33,
+ 'regularMarketPreviousClose': 118.15,
+ 'regularMarketPrice': 117.33,
+ 'regularMarketVolume': 2527920,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 114424000,
+ 'sharesPercentSharesOut': 0.0196,
+ 'sharesShort': 2240589,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3082146,
+ 'shortName': 'Qorvo, Inc.',
+ 'shortPercentOfFloat': 0.0223,
+ 'shortRatio': 1.67,
+ 'startDate': None,
+ 'state': 'NC',
+ 'strikePrice': None,
+ 'symbol': 'QRVO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.8,
+ 'trailingPE': 39.971428,
+ 'twoHundredDayAverage': 100.95654,
+ 'volume': 2527920,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.qorvo.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '27409-9421'}

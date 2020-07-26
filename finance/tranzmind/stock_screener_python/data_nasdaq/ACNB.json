@@ -1,0 +1,158 @@
+{'52WeekChange': -0.39205158,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '16 Lincoln Square',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.2,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 11050,
+ 'averageVolume': 21142,
+ 'averageVolume10days': 11050,
+ 'beta': 0.054341,
+ 'beta3Year': None,
+ 'bid': 22.56,
+ 'bidSize': 1400,
+ 'bookValue': 28.489,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Gettysburg',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.05,
+ 'dayLow': 22.64,
+ 'dividendRate': 1,
+ 'dividendYield': 0.044099998,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.147,
+ 'enterpriseValue': 170990672,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 24.356571,
+ 'fiftyTwoWeekHigh': 37.9,
+ 'fiftyTwoWeekLow': 20.05,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.94,
+ 'floatShares': 8332473,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 374,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03364,
+ 'heldPercentInstitutions': 0.22207001,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1196208000,
+ 'lastSplitFactor': '105:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/acnb.com',
+ 'longBusinessSummary': 'ACNB Corporation, a financial holding company, '
+                        'provides banking, insurance, and financial services '
+                        'to individual, business, and government customers in '
+                        'the United States. The company offers checking, '
+                        'savings, and money market deposit accounts, as well '
+                        'as time deposits and debit cards. It also provides '
+                        'commercial lending products, such as commercial '
+                        'mortgages, real estate development and construction '
+                        'loans, accounts receivable and inventory financing, '
+                        'and agricultural and governmental loans; consumer '
+                        'lending products comprising home equity loans and '
+                        'lines of credit, automobile and recreational vehicle '
+                        'loans, manufactured housing loans, and personal lines '
+                        'of credit; and mortgage lending programs consisting '
+                        'of personal residential mortgages, and residential '
+                        'construction and investment mortgage loans. In '
+                        'addition, the company provides estate settlement '
+                        'services; other services that are related to '
+                        'testamentary trusts, life insurance trusts, '
+                        'charitable remainder trusts, guardianships, powers of '
+                        'attorney, custodial accounts, and investment '
+                        'management and advisory accounts; and retail '
+                        'brokerage services. Further, it acts as a trustee to '
+                        'invest in, protect, manage, and distribute financial '
+                        'assets. Additionally, the company offers property and '
+                        'casualty, life, and health insurance products to '
+                        'commercial and individual clients; and online, '
+                        'telephone, and mobile banking, as well as automated '
+                        'teller machine services. ACNB Corporation operates '
+                        'through a network of 22 community banking offices '
+                        'located in Adams, Cumberland, Franklin, and York '
+                        'counties, southcentral Pennsylvania; 7 community '
+                        'banking offices located in Carroll county, Maryland; '
+                        'and loan production offices located in York, York '
+                        'County, Pennsylvania, as well as in Hunt Valley, '
+                        'Baltimore County, Maryland. The company was founded '
+                        'in 1857 and is headquartered in Gettysburg, '
+                        'Pennsylvania.',
+ 'longName': 'ACNB Corporation',
+ 'market': 'us_market',
+ 'marketCap': 196286752,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_246951',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 16634000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 22.88,
+ 'openInterest': None,
+ 'payoutRatio': 0.41919997,
+ 'pegRatio': None,
+ 'phone': '717-334-3161',
+ 'previousClose': 22.67,
+ 'priceHint': 2,
+ 'priceToBook': 0.79469264,
+ 'priceToSalesTrailing12Months': 2.4645827,
+ 'profitMargins': 0.20886,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.05,
+ 'regularMarketDayLow': 22.64,
+ 'regularMarketOpen': 22.88,
+ 'regularMarketPreviousClose': 22.67,
+ 'regularMarketPrice': 22.88,
+ 'regularMarketVolume': 7412,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 8669910,
+ 'sharesPercentSharesOut': 0.0094,
+ 'sharesShort': 81453,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 44395,
+ 'shortName': 'ACNB Corporation',
+ 'shortPercentOfFloat': 0.0097,
+ 'shortRatio': 3.52,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'ACNB',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1,
+ 'trailingAnnualDividendYield': 0.04411116,
+ 'trailingEps': 2.242,
+ 'trailingPE': 10.098126,
+ 'twoHundredDayAverage': 27.65885,
+ 'volume': 7412,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.acnb.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '17325'}

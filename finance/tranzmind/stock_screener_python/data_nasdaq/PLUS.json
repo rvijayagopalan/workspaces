@@ -1,0 +1,156 @@
+{'52WeekChange': 0.0026459694,
+ 'SandP52WeekChange': None,
+ 'address1': '13595 Dulles Technology Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 73.11,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 69212,
+ 'averageVolume': 73457,
+ 'averageVolume10days': 69212,
+ 'beta': 1.110364,
+ 'beta3Year': None,
+ 'bid': 67.25,
+ 'bidSize': 800,
+ 'bookValue': 36.011,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Herndon',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 75.51,
+ 'dayLow': 72.705,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.12,
+ 'enterpriseToEbitda': 9.552,
+ 'enterpriseToRevenue': 0.7,
+ 'enterpriseValue': 1112014976,
+ 'exDividendDate': 1355356800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '703-984-8600',
+ 'fiftyDayAverage': 71.14,
+ 'fiftyTwoWeekHigh': 99.63,
+ 'fiftyTwoWeekLow': 42.53,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 13151718,
+ 'forwardEps': 5.85,
+ 'forwardPE': 12.471795,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1579,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.02412,
+ 'heldPercentInstitutions': 0.96626,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1491177600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/eplus.com',
+ 'longBusinessSummary': 'ePlus inc., through its subsidiaries, provides '
+                        'information technology solutions that enable '
+                        'organizations to optimize their information '
+                        'technology (IT) environment and supply chain '
+                        'processes in the United States. It operates in two '
+                        'segments, Technology and Financing. The Technology '
+                        'segment offers hardware, perpetual and subscription '
+                        'software, maintenance, software assurance, and '
+                        'internally-provided and outsourced services; and '
+                        'professional and managed services, including ePlus '
+                        'managed, professional, security, ePlus Cloud '
+                        'Consulting, staff augmentation, server and desktop '
+                        'support, and project management services. The '
+                        'Financing segment specializes in leasing and '
+                        'financing arrangements, such as sales-type and '
+                        'operating leases; loans and consumption-based '
+                        'financing arrangements; and underwriting and '
+                        'management of IT equipment and assets. Its financing '
+                        'operations comprise sales, pricing, credit, '
+                        'contracts, accounting, risk management, and asset '
+                        'management. This segment primarily finances IT, '
+                        'communication-related, and medical equipment; and '
+                        'industrial machinery and equipment, office furniture '
+                        'and general office equipment, transportation '
+                        'equipment, and other general business equipment '
+                        'directly, as well as through vendors. ePlus inc. '
+                        'serves commercial entities, state and local '
+                        'governments, government contractors, and educational '
+                        'institutions. The company was formerly known as MLC '
+                        'Holdings, Inc. and changed its name to ePlus inc. in '
+                        '1999. ePlus inc. was founded in 1990 and is '
+                        'headquartered in Herndon, Virginia.',
+ 'longName': 'ePlus inc.',
+ 'market': 'us_market',
+ 'marketCap': 984930816,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_31639',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 69082000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 75.51,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.9,
+ 'phone': '703-984-8400',
+ 'previousClose': 75.79,
+ 'priceHint': 2,
+ 'priceToBook': 2.0260475,
+ 'priceToSalesTrailing12Months': 0.62007576,
+ 'profitMargins': 0.04349,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 75.51,
+ 'regularMarketDayLow': 72.705,
+ 'regularMarketOpen': 75.51,
+ 'regularMarketPreviousClose': 75.79,
+ 'regularMarketPrice': 75.51,
+ 'regularMarketVolume': 37702,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 13499600,
+ 'sharesPercentSharesOut': 0.0145000005,
+ 'sharesShort': 195307,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 170559,
+ 'shortName': 'ePlus inc.',
+ 'shortPercentOfFloat': 0.0174,
+ 'shortRatio': 2.33,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'PLUS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 5.15,
+ 'trailingPE': 14.16699,
+ 'twoHundredDayAverage': 71.75065,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '883acd43-c775-37e1-83ba-ced84ccf6ed7',
+ 'volume': 37702,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.eplus.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20171-3413'}

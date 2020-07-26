@@ -1,0 +1,153 @@
+{'52WeekChange': -0.32166302,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '220 Alhambra Circle',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 9.46,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 2150,
+ 'averageVolume': 1871,
+ 'averageVolume10days': 2150,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 9.25,
+ 'bidSize': 1100,
+ 'bookValue': 19.899,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Coral Gables',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9.4601,
+ 'dayLow': 9.25,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 6.619,
+ 'enterpriseValue': 1343244032,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '305-460-4010',
+ 'fiftyDayAverage': 10.440857,
+ 'fiftyTwoWeekHigh': 17.5,
+ 'fiftyTwoWeekLow': 8.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 29767637,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 829,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.37227002,
+ 'heldPercentInstitutions': 0.025799999,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1540339200,
+ 'lastSplitFactor': '1:3',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/amerantbank.com',
+ 'longBusinessSummary': 'Amerant Bancorp Inc. operates as the bank holding '
+                        'company for Amerant Bank, N.A. that provides banking '
+                        'products and services to individuals and businesses '
+                        'in the United States and internationally. It offers a '
+                        'range of checking and savings accounts, certificates '
+                        'of deposit, and money market accounts. The company '
+                        'also provides variable and fixed rate commercial real '
+                        'estate loans; loans secured by owner-occupied '
+                        'properties; loans to domestic and foreign individuals '
+                        'primarily secured by personal residence; working '
+                        'capital loans, asset-based lending, participations in '
+                        'shared national credits, purchased receivables, and '
+                        'small business administration loans; loans to '
+                        'financial institutions and acceptances; and consumer '
+                        'loans and overdrafts. In addition, it offers trust '
+                        'and estate planning products and services, brokerage '
+                        'and investment advisory services in global capital '
+                        'markets, and wealth management and fiduciary '
+                        'services. Further, the company provides debit and '
+                        'credit cards; remote deposit capture, online and '
+                        'mobile banking, night depository, direct deposit, and '
+                        "treasury management services; and cashier's checks, "
+                        'safe deposit boxes, and letters of credit, as well as '
+                        'automated teller machines. As of April 10, 2020, it '
+                        'operated 27 banking centers comprising 19 in South '
+                        'Florida and 8 in Houston, Texas, as well as loan '
+                        'production offices in Dallas, Texas, and New York. '
+                        'The company was formerly known as Mercantil Bank '
+                        'Holding Corporation and changed its name to Amerant '
+                        'Bancorp Inc. in June 2019. Amerant Bancorp Inc. was '
+                        'founded in 1979 and is headquartered in Coral Gables, '
+                        'Florida.',
+ 'longName': 'Amerant Bancorp Inc.',
+ 'market': 'us_market',
+ 'marketCap': 527365664,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4920873',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 13509000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 9.25,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '305-460-8728',
+ 'previousClose': 9.45,
+ 'priceHint': 2,
+ 'priceToBook': 0.47540078,
+ 'priceToSalesTrailing12Months': 2.5985005,
+ 'profitMargins': 0.06656,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9.4601,
+ 'regularMarketDayLow': 9.25,
+ 'regularMarketOpen': 9.25,
+ 'regularMarketPreviousClose': 9.45,
+ 'regularMarketPrice': 9.25,
+ 'regularMarketVolume': 2252,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 13286100,
+ 'sharesPercentSharesOut': 0.0001,
+ 'sharesShort': 4671,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1335,
+ 'shortName': 'Amerant Bancorp Inc.',
+ 'shortPercentOfFloat': 0.0004,
+ 'shortRatio': 2.28,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'AMTBB',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.94,
+ 'trailingAnnualDividendYield': 0.0994709,
+ 'trailingEps': 0.32,
+ 'trailingPE': 29.5625,
+ 'twoHundredDayAverage': 11.382158,
+ 'volume': 2252,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.amerantbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '33134'}

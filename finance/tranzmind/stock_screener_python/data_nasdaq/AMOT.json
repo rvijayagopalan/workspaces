@@ -1,0 +1,155 @@
+{'52WeekChange': -0.08060008,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '495 Commerce Drive',
+ 'address2': 'Suite 3',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 38,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 18775,
+ 'averageVolume': 42895,
+ 'averageVolume10days': 18775,
+ 'beta': 1.763585,
+ 'beta3Year': None,
+ 'bid': 36.12,
+ 'bidSize': 1200,
+ 'bookValue': 12.531,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Amherst',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 36.73,
+ 'dayLow': 36.025,
+ 'dividendRate': 0.12,
+ 'dividendYield': 0.0033000002,
+ 'earningsQuarterlyGrowth': -0.097,
+ 'enterpriseToEbitda': 11.099,
+ 'enterpriseToRevenue': 1.321,
+ 'enterpriseValue': 488075328,
+ 'exDividendDate': 1589932800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 35.304855,
+ 'fiftyTwoWeekHigh': 49.98,
+ 'fiftyTwoWeekLow': 19,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.37,
+ 'floatShares': 7534347,
+ 'forwardEps': 1.49,
+ 'forwardPE': 24.268456,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1700,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.23155001,
+ 'heldPercentInstitutions': 0.5528,
+ 'industry': 'Electronic Components',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 525312000,
+ 'lastSplitFactor': '102:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/alliedmotion.com',
+ 'longBusinessSummary': 'Allied Motion Technologies Inc., together with its '
+                        'subsidiaries, designs, manufactures, and sells '
+                        'precision and specialty controlled motion components '
+                        'and systems that are used in a range of industries '
+                        'worldwide. It provides automotive brushless (BL) DC '
+                        'motors, power steering solutions, and special purpose '
+                        'motors; fractional horsepower permanent magnet DC and '
+                        'BLDC motors serving a range of original equipment '
+                        'applications; and high performance BLDC motors, '
+                        'including servo motors, frameless motors, torque '
+                        'motors, slot less motors, high resolution encoders, '
+                        'and motor/encoder assemblies. The company also offers '
+                        'gearing solutions in stand-alone and integrated '
+                        'gearing/motor configurations; advanced electronic '
+                        'motion control products and custom solutions, such as '
+                        'integrated power electronics, digital controls, and '
+                        'network communications for motor control and power '
+                        'conversion; and steering system components. In '
+                        'addition, it provides fractional horsepower BLDC '
+                        'outer rotor motors and traditional BLDC motor part '
+                        'sets; synchronous BLDC servo motor solutions and '
+                        'asynchronous BLDC motors; trolleys for use in medical '
+                        'environments; and active and passive products to '
+                        'monitor and resolve power quality and harmonic '
+                        'distortion issues, as well as electronic controls and '
+                        'platform based integrated steering system solutions. '
+                        'The company sells its products to end customers and '
+                        'original equipment manufacturers in vehicle, medical, '
+                        'aerospace and defense, and industrial markets through '
+                        'direct sales force, as well as authorized '
+                        "manufacturers' representatives, agents, and "
+                        'distributors. Allied Motion Technologies Inc. was '
+                        'founded in 1962 and is headquartered in Amherst, New '
+                        'York.',
+ 'longName': 'Allied Motion Technologies Inc.',
+ 'market': 'us_market',
+ 'marketCap': 352001312,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_177779',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 16587000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 36.73,
+ 'openInterest': None,
+ 'payoutRatio': 0.069,
+ 'pegRatio': 1.49,
+ 'phone': '716 242 8634',
+ 'previousClose': 36.71,
+ 'priceHint': 2,
+ 'priceToBook': 2.8856435,
+ 'priceToSalesTrailing12Months': 0.95246184,
+ 'profitMargins': 0.04488,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 36.73,
+ 'regularMarketDayLow': 36.025,
+ 'regularMarketOpen': 36.73,
+ 'regularMarketPreviousClose': 36.71,
+ 'regularMarketPrice': 36.73,
+ 'regularMarketVolume': 15998,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 9734550,
+ 'sharesPercentSharesOut': 0.0114,
+ 'sharesShort': 111412,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 78771,
+ 'shortName': 'Allied Motion Technologies, Inc',
+ 'shortPercentOfFloat': 0.0146,
+ 'shortRatio': 2.6,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'AMOT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.12,
+ 'trailingAnnualDividendYield': 0.003268864,
+ 'trailingEps': 1.74,
+ 'trailingPE': 20.781609,
+ 'twoHundredDayAverage': 35.433308,
+ 'volume': 15998,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.alliedmotion.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '14228'}

@@ -1,0 +1,153 @@
+{'52WeekChange': 0.70710385,
+ 'SandP52WeekChange': None,
+ 'address1': '333 Allerton Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 92.31,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 304575,
+ 'averageVolume': 711546,
+ 'averageVolume10days': 304575,
+ 'beta': 2.284117,
+ 'beta3Year': None,
+ 'bid': 92.23,
+ 'bidSize': 1100,
+ 'bookValue': 7.489,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'South San Francisco',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 94.423,
+ 'dayLow': 91.26,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -12.617,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 4007400192,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 96.09543,
+ 'fiftyTwoWeekHigh': 126.301,
+ 'fiftyTwoWeekLow': 42.65,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 45402687,
+ 'forwardEps': -6.6,
+ 'forwardPE': -13.972728,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 246,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.03787,
+ 'heldPercentInstitutions': 1.07995,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/myokardia.com',
+ 'longBusinessSummary': 'MyoKardia, Inc., a clinical stage biopharmaceutical '
+                        'company, discovers, develops, and commercializes '
+                        'targeted therapies for the treatment of serious and '
+                        'neglected rare cardiovascular diseases. Its lead '
+                        'product candidate is mavacamten, an orally '
+                        'administered small molecule, which is in Phase III '
+                        'clinical trial that is designed to reduce left '
+                        'ventricular contractility to alleviate the functional '
+                        'consequences and symptoms of obstructive hypertrophic '
+                        'cardiomyopathy (HCM) and prevent or reverse HCM '
+                        'progression, as well as in Phase II clinical trial '
+                        'for non-obstructive HCM. The company also develops '
+                        'MYK-491, an orally-administered small molecule, which '
+                        'is in Phase IIa clinical trial that is designed to '
+                        'restore normal cardiac muscle contractility in the '
+                        'diseased dilated cardiomyopathy (DCM) heart. Its '
+                        'preclinical programs include MYK-224, a HCM-targeting '
+                        'candidate that is designed to reduce excess cardiac '
+                        'contractility and enhance diastolic function; LUS-1, '
+                        'which is used to counteract a muscle abnormality that '
+                        'results in impaired relaxation of the left ventricle; '
+                        'and ACT-1 targeting genetic DCM due to sarcomeric '
+                        'mutations and impaired calcium regulation. The '
+                        'company has a collaboration with 23andMe, Inc., a '
+                        'consumer genetics and research company; and a '
+                        'strategic collaboration and license agreement with '
+                        'Fulcrum Therapeutics, Inc. to discover, develop and '
+                        'commercialize novel targeted therapies for the '
+                        'treatment of genetic cardiomyopathies. Myokardia, '
+                        'Inc. was founded in 2012 and is headquartered in '
+                        'South San Francisco, California.',
+ 'longName': 'MyoKardia, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4304903680,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_217502341',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -308611008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 93.04,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.83,
+ 'phone': '650 741 0900',
+ 'previousClose': 93.72,
+ 'priceHint': 2,
+ 'priceToBook': 12.314061,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 94.423,
+ 'regularMarketDayLow': 91.26,
+ 'regularMarketOpen': 93.04,
+ 'regularMarketPreviousClose': 93.72,
+ 'regularMarketPrice': 93.04,
+ 'regularMarketVolume': 286151,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 46680800,
+ 'sharesPercentSharesOut': 0.1093,
+ 'sharesShort': 5102157,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4375011,
+ 'shortName': 'MyoKardia, Inc.',
+ 'shortPercentOfFloat': 0.3321,
+ 'shortRatio': 10.54,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'MYOK',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -6.668,
+ 'twoHundredDayAverage': 76.236725,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'eaba7f0f-d742-36d3-b560-764813abb49f',
+ 'volume': 286151,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.myokardia.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94080'}

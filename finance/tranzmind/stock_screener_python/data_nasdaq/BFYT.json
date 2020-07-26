@@ -1,0 +1,154 @@
+{'52WeekChange': 'Infinity',
+ 'SandP52WeekChange': None,
+ 'address1': '3450 Buschwood Park Drive',
+ 'address2': 'Suite 200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 31.05,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1001375,
+ 'averageVolume': 759331,
+ 'averageVolume10days': 1001375,
+ 'beta': 1.034733,
+ 'beta3Year': None,
+ 'bid': 31.04,
+ 'bidSize': 1300,
+ 'bookValue': None,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Tampa',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 31.1,
+ 'dayLow': 30.98,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 14.085,
+ 'enterpriseToRevenue': 1.722,
+ 'enterpriseValue': 630508032,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 22.704,
+ 'fiftyTwoWeekHigh': 31.42,
+ 'fiftyTwoWeekLow': 15.6,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 8159777,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 342,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.13116,
+ 'heldPercentInstitutions': 0.97623,
+ 'industry': 'Healthcare Plans',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/benefytt.com',
+ 'longBusinessSummary': 'Benefytt Technologies, Inc., a health insurance '
+                        'technology company, primarily engages in the '
+                        'development and operation of private e-commerce '
+                        'health insurance marketplaces, consumer engagement '
+                        'platforms, agency technology systems, and insurance '
+                        'policy administration platforms in the United States. '
+                        'It operates in two segments, Medicare and IFP. The '
+                        'Medicare segment is involved in consumer engagement '
+                        'activities, which generate leads to third-parties and '
+                        'feed to its business process outsourcing partners and '
+                        'captive distribution channels to support the '
+                        'distribution of a range of Medicare-related health '
+                        'insurance plans, including Medicare Advantage, '
+                        'Medicare Supplement, and Medicare Part D prescription '
+                        'drug plans. The IFP segment sells and services '
+                        'individual and family health insurance plans (IFP), '
+                        'including short-term medical and health benefit '
+                        'insurance plans. It also provides supplemental '
+                        'products, which include a variety of additional '
+                        'insurance and non-insurance products. Benefytt '
+                        'Technologies, Inc. also operates direct-to-consumer '
+                        'site, HealthInsurance.com, which provides seniors and '
+                        'Medicare-eligible consumers the ability to access '
+                        'online comparison tools and educational resources '
+                        'that enable efficient self-guided navigation of '
+                        'available Medicare health insurance options. The '
+                        'company was formerly known as Health Insurance '
+                        'Innovations, Inc. and changed its name to Benefytt '
+                        'Technologies, Inc. in March 2020. Benefytt '
+                        'Technologies, Inc. was incorporated in 2012 and is '
+                        'based in Tampa, Florida.',
+ 'longName': 'Benefytt Technologies, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 442627040,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_225447775',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -15983000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 31,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.87,
+ 'phone': '813-397-1187',
+ 'previousClose': 31.02,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 1.2092214,
+ 'profitMargins': -0.04366,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 31.1,
+ 'regularMarketDayLow': 30.98,
+ 'regularMarketOpen': 31,
+ 'regularMarketPreviousClose': 31.02,
+ 'regularMarketPrice': 31,
+ 'regularMarketVolume': 629291,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 13567600,
+ 'sharesPercentSharesOut': 0.38369998,
+ 'sharesShort': 5465026,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4997079,
+ 'shortName': 'Benefytt Technologies, Inc.',
+ 'shortPercentOfFloat': 0.5937,
+ 'shortRatio': 13.19,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'BFYT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': None,
+ 'twoHundredDayAverage': 22.193628,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '4c609dec-aa31-3e30-b7c2-114c7737e402',
+ 'volume': 629291,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.benefytt.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '33618'}

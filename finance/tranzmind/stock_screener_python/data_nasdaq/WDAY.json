@@ -1,0 +1,159 @@
+{'52WeekChange': -0.13985884,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '6110 Stoneridge Mall Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 183.76,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 1339162,
+ 'averageVolume': 2101222,
+ 'averageVolume10days': 1339162,
+ 'beta': 1.553501,
+ 'beta3Year': None,
+ 'bid': 181.04,
+ 'bidSize': 1100,
+ 'bookValue': 11.064,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Pleasanton',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 184.94,
+ 'dayLow': 181.2101,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -269.45,
+ 'enterpriseToRevenue': 11.12,
+ 'enterpriseValue': 42485248000,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 185.484,
+ 'fiftyTwoWeekHigh': 217,
+ 'fiftyTwoWeekLow': 107.75,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 172939368,
+ 'forwardEps': 2.76,
+ 'forwardPE': 66.22464,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 12400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.010290001,
+ 'heldPercentInstitutions': 0.92102,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/workday.com',
+ 'longBusinessSummary': 'Workday, Inc. provides enterprise cloud applications '
+                        'worldwide. Its applications help its customers to '
+                        'manage critical business functions and optimize their '
+                        'financial and human capital resources. The company '
+                        'offers Workday Financial Management application that '
+                        'provides functions of general ledger, accounting, '
+                        'accounts payable and receivable, cash and asset '
+                        'management, revenue management, and grants '
+                        'management, as well as project and resource '
+                        'management, time and expense tracking, project '
+                        'billing, revenue recognition, financial reporting, '
+                        'and analytics. It also provides Workday Human Capital '
+                        'Management (HCM) application, which includes human '
+                        'resources management, such as workforce lifecycle and '
+                        'organization management, compensation, absence, and '
+                        'employee benefits administration; and global talent '
+                        'management comprising goal and performance '
+                        'management, succession planning, and career and '
+                        'development planning, as well as Skills cloud, a '
+                        'machine-learning-powered universal skills language to '
+                        'help source, utilize, develop, and retain talent. In '
+                        'addition, the company offers business planning, '
+                        'analytics, and other solutions, including Insights '
+                        'Business Planning Cloud, a solution for finance, '
+                        'human resource, and sales planning; Workday Prism '
+                        'Analytics that enables customers to bring together '
+                        'various data with analytics tools for financial and '
+                        'people analytics to make business decisions; Workday '
+                        'Student, a student and faculty lifecycle information '
+                        'system to help colleges and universities; and Workday '
+                        'Data-as-a-Service that provides data to customers to '
+                        'enable informed decision-making. It serves '
+                        'technology, financial services, business and '
+                        'professional services, healthcare and life sciences, '
+                        'manufacturing, retail and hospitality, education, and '
+                        'government and non-profit industries. The company was '
+                        'formerly known as North Tahoe Power Tools, Inc. and '
+                        'changed its name to Workday, Inc. in July 2005. '
+                        'Workday, Inc. was founded in 2005 and is '
+                        'headquartered in Pleasanton, California.',
+ 'longName': 'Workday, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 42953297920,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_23815047',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -522767008,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 183.37,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.77,
+ 'phone': '925-951-9000',
+ 'previousClose': 185.37,
+ 'priceHint': 2,
+ 'priceToBook': 16.520245,
+ 'priceToSalesTrailing12Months': 11.242742,
+ 'profitMargins': -0.13683,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 184.94,
+ 'regularMarketDayLow': 181.2101,
+ 'regularMarketOpen': 183.37,
+ 'regularMarketPreviousClose': 185.37,
+ 'regularMarketPrice': 183.37,
+ 'regularMarketVolume': 1015851,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 174000000,
+ 'sharesPercentSharesOut': 0.028499998,
+ 'sharesShort': 6687789,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5439256,
+ 'shortName': 'Workday, Inc.',
+ 'shortPercentOfFloat': 0.044499997,
+ 'shortRatio': 3.36,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'WDAY',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.277,
+ 'twoHundredDayAverage': 167.88345,
+ 'volume': 1015851,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.workday.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94588'}

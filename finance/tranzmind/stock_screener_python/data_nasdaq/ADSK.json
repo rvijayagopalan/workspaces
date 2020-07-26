@@ -1,0 +1,158 @@
+{'52WeekChange': 0.43073046,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '111 McInnis Parkway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 232.95,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 997637,
+ 'averageVolume': 1570646,
+ 'averageVolume10days': 997637,
+ 'beta': 1.603361,
+ 'beta3Year': None,
+ 'bid': 230.91,
+ 'bidSize': 1000,
+ 'bookValue': -0.635,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Rafael',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 235.995,
+ 'dayLow': 230.24,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 91.944,
+ 'enterpriseToRevenue': 15.086,
+ 'enterpriseValue': 51663233024,
+ 'exDividendDate': 1111449600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '415 507 5100',
+ 'fiftyDayAverage': 236.82457,
+ 'fiftyTwoWeekHigh': 251.39,
+ 'fiftyTwoWeekLow': 125.38,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 218830659,
+ 'forwardEps': 5.36,
+ 'forwardPE': 43.44776,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 10100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00149,
+ 'heldPercentInstitutions': 0.97695,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1103587200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/autodesk.com',
+ 'longBusinessSummary': 'Autodesk, Inc. operates as a software design and '
+                        'services company worldwide. The company offers '
+                        'AutoCAD, a professional design, drafting, detailing, '
+                        'and visualization software; AutoCAD Civil 3D, a '
+                        'surveying, design, analysis, and documentation '
+                        'solution for civil engineering, including land '
+                        'development, transportation, and environmental '
+                        'projects; AutoCAD LT, a drafting and detailing '
+                        'software; BIM 360, a construction management '
+                        'cloud-based software; computer-aided manufacturing '
+                        '(CAM) software for computer numeric control '
+                        'machining, inspection, and modelling for '
+                        'manufacturing; Fusion 360, a 3D CAD, CAM, and '
+                        'computer-aided engineering tool; and Industry '
+                        'Collections software products for professionals in '
+                        'architecture, engineering and construction, product '
+                        'design and manufacturing, and media and entertainment '
+                        'industries. It also provides Inventor tools for 3D '
+                        'mechanical design, simulation, analysis, tooling, '
+                        'visualization, and documentation; Maya and 3ds Max '
+                        'software products that offer 3D modeling, animation, '
+                        'effects, rendering, and compositing solutions; and '
+                        'PlanGrid, a cloud-based field collaboration software, '
+                        'which provides general contractors, subcontractors, '
+                        'owners, and architects access to construction '
+                        'information in real-time. In addition, the company '
+                        'offers Revit software for building information '
+                        'modeling; Shotgun, a cloud-based software for review '
+                        'and production tracking in the media and '
+                        'entertainment industry; and Vault, a data management '
+                        'software to manage data in one central location, '
+                        'accelerate design processes, and streamline '
+                        'internal/external collaboration. Autodesk, Inc. sells '
+                        'its products and services to customers directly, as '
+                        'well as through distributors and resellers. The '
+                        'company was founded in 1982 and is headquartered in '
+                        'San Rafael, California.',
+ 'longName': 'Autodesk, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 51046596608,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_119902',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 305200000,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 234.14,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.9,
+ 'phone': '415 507 5000',
+ 'previousClose': 237.34,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 14.906292,
+ 'profitMargins': 0.08912,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 235.995,
+ 'regularMarketDayLow': 230.24,
+ 'regularMarketOpen': 234.14,
+ 'regularMarketPreviousClose': 237.34,
+ 'regularMarketPrice': 234.14,
+ 'regularMarketVolume': 959726,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 219196992,
+ 'sharesPercentSharesOut': 0.0135,
+ 'sharesShort': 2952313,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3680237,
+ 'shortName': 'Autodesk, Inc.',
+ 'shortPercentOfFloat': 0.0135,
+ 'shortRatio': 1.6,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'ADSK',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.364,
+ 'trailingPE': 170.73314,
+ 'twoHundredDayAverage': 196.21878,
+ 'volume': 959726,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.autodesk.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94903'}

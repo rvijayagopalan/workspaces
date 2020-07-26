@@ -1,0 +1,158 @@
+{'52WeekChange': -0.43466175,
+ 'SandP52WeekChange': None,
+ 'address1': '42 East Lancaster Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 12.25,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 3725,
+ 'averageVolume': 34812,
+ 'averageVolume10days': 3725,
+ 'beta': 0.833053,
+ 'beta3Year': None,
+ 'bid': 12.2,
+ 'bidSize': 1400,
+ 'bookValue': 18.897,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Paoli',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.485,
+ 'dayLow': 12.15,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.03,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.542,
+ 'enterpriseValue': 127807616,
+ 'exDividendDate': 1293580800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '610-695-3675',
+ 'fiftyDayAverage': 12.268571,
+ 'fiftyTwoWeekHigh': 23.75,
+ 'fiftyTwoWeekLow': 10.06,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 4664379,
+ 'forwardEps': 1.05,
+ 'forwardPE': 11.619048,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 89,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.042630002,
+ 'heldPercentInstitutions': 0.63005,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1350000000,
+ 'lastSplitFactor': '2687:2500',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ir.malvernbancorp.com',
+ 'longBusinessSummary': 'Malvern Bancorp, Inc. operates as the bank holding '
+                        'company for Malvern Bank that provides various '
+                        'banking products and services to consumer and '
+                        'business customers in Pennsylvania. The company '
+                        'accepts checking accounts, retirement accounts, money '
+                        'market accounts, time and savings accounts, interest '
+                        'and non-interest bearing accounts, NOW accounts, and '
+                        'CDARS/ICS reciprocal deposits. Its loan products '
+                        'include residential mortgage loans, such as one class '
+                        'and one-to four-family first lien residential '
+                        'mortgage loans; residential and commercial '
+                        'construction loans, and land loans; commercial loans, '
+                        'such as commercial real estate loans, multi-family '
+                        'real estate loans, industrial loans, and commercial '
+                        'business loans; and consumer loans comprising home '
+                        'equity lines of credit, second mortgage loans, and '
+                        'unsecured consumer lines of credit. The company also '
+                        'offers credit cards; wealth management and advisory '
+                        'services, such as liquidity management, investment, '
+                        '401(k) accounts and planning, custody, lending, '
+                        'wealth planning, trust and fiduciary, family wealth '
+                        'advisory, and philanthropic advisory services; '
+                        'insurance services; and wire transfer, automated '
+                        'teller, Internet banking, ACH origination, telephone '
+                        'and mobile banking, safe deposit box, and remote '
+                        'deposit capture banking services. As of September 30, '
+                        '2019, it owns and maintains its headquarters and five '
+                        'full-service financial centers; leases financial '
+                        'centers in Glen Mills and Villanova, Pennsylvania; '
+                        'private banking offices in Morristown, New Jersey and '
+                        'Palm Beach, Florida; and leases representative office '
+                        'in Montchanin, Delaware. Malvern Bancorp, Inc. was '
+                        'founded in 1887 and is headquartered in Paoli, '
+                        'Pennsylvania.',
+ 'longName': 'Malvern Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 93133216,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_39578041',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 8048000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 12.485,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '610-644-9400',
+ 'previousClose': 12.2,
+ 'priceHint': 2,
+ 'priceToBook': 0.64560515,
+ 'priceToSalesTrailing12Months': 3.3095205,
+ 'profitMargins': 0.28599,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.485,
+ 'regularMarketDayLow': 12.15,
+ 'regularMarketOpen': 12.485,
+ 'regularMarketPreviousClose': 12.2,
+ 'regularMarketPrice': 12.485,
+ 'regularMarketVolume': 2035,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 7633870,
+ 'sharesPercentSharesOut': 0.0053,
+ 'sharesShort': 40519,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 67994,
+ 'shortName': 'Malvern Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0055,
+ 'shortRatio': 0.59,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'MLVF',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.049,
+ 'trailingPE': 11.630123,
+ 'twoHundredDayAverage': 14.930287,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '6c30bc42-6b0e-3dd9-be85-728cf9b3d3fe',
+ 'volume': 2035,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://ir.malvernbancorp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '19301'}

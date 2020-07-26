@@ -1,0 +1,154 @@
+{'52WeekChange': 0.5239564,
+ 'SandP52WeekChange': None,
+ 'address1': 'One Vision Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 64.25,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 676562,
+ 'averageVolume': 1103007,
+ 'averageVolume10days': 676562,
+ 'beta': 1.782072,
+ 'beta3Year': None,
+ 'bid': 64.23,
+ 'bidSize': 800,
+ 'bookValue': 7.732,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Natick',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 64.44,
+ 'dayLow': 63.165,
+ 'dividendRate': 0.22,
+ 'dividendYield': 0.0034,
+ 'earningsQuarterlyGrowth': -0.381,
+ 'enterpriseToEbitda': 66.792,
+ 'enterpriseToRevenue': 14.798,
+ 'enterpriseValue': 10645327872,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 59.904858,
+ 'fiftyTwoWeekHigh': 65,
+ 'fiftyTwoWeekLow': 35.2,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.42,
+ 'floatShares': 164056468,
+ 'forwardEps': 0.96,
+ 'forwardPE': 66.895836,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2267,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04415,
+ 'heldPercentInstitutions': 0.9468,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1512345600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cognex.com',
+ 'longBusinessSummary': 'Cognex Corporation provides machine vision products '
+                        'that capture and analyze visual information in order '
+                        'to automate manufacturing and distribution tasks '
+                        'worldwide. Its machine vision products are used to '
+                        'automate the manufacture and tracking of discrete '
+                        'items, including mobile phones, aspirin bottles, and '
+                        'automobile tires by locating, identifying, '
+                        'inspecting, and measuring them during the '
+                        'manufacturing or distribution process. The company '
+                        'offers VisionPro software, a suite of patented vision '
+                        'tools for advanced programming; Cognex Designer that '
+                        'allows customers to build vision applications with a '
+                        'graphical, flowchart-based programming environment; '
+                        'and Cognex deep learning vision software. It also '
+                        'provides general-purpose vision systems for vision '
+                        'tasks, including part location, identification, '
+                        'measurement, assembly verification, and robotic '
+                        'guidance; and vision sensors for vision applications, '
+                        'such as checking the presence and size of parts; the '
+                        'In-Sight product line of vision systems and sensors. '
+                        'In addition, the company offers ID products '
+                        'comprising DataMan image-based barcode readers and '
+                        'barcode verifiers, as well as vision-enabled mobile '
+                        'terminals for industrial barcode reading '
+                        'applications. It sells its products to consumer '
+                        'electronics, automotive, consumer products, food and '
+                        'beverage, pharmaceuticals, and medical devices '
+                        'industries, as well as through a network of '
+                        'distributors and integrators. The company was founded '
+                        'in 1981 and is headquartered in Natick, '
+                        'Massachusetts.',
+ 'longName': 'Cognex Corporation',
+ 'market': 'us_market',
+ 'marketCap': 11025803264,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_26658',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585440000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 191238000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 63.59,
+ 'openInterest': None,
+ 'payoutRatio': 0.1927,
+ 'pegRatio': 7.26,
+ 'phone': '508 650 3000',
+ 'previousClose': 64.25,
+ 'priceHint': 2,
+ 'priceToBook': 8.305742,
+ 'priceToSalesTrailing12Months': 15.326899,
+ 'profitMargins': 0.26584,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 64.44,
+ 'regularMarketDayLow': 63.165,
+ 'regularMarketOpen': 63.59,
+ 'regularMarketPreviousClose': 64.25,
+ 'regularMarketPrice': 63.59,
+ 'regularMarketVolume': 601618,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 171688000,
+ 'sharesPercentSharesOut': 0.045300003,
+ 'sharesShort': 7781221,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6772384,
+ 'shortName': 'Cognex Corporation',
+ 'shortPercentOfFloat': 0.047399998,
+ 'shortRatio': 6.27,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'CGNX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.21,
+ 'trailingAnnualDividendYield': 0.0032684824,
+ 'trailingEps': 1.09,
+ 'trailingPE': 58.91743,
+ 'twoHundredDayAverage': 53.34554,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '66a28a3b-b34a-35e3-9843-b1bcd3be3cc9',
+ 'volume': 601618,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cognex.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01760-2059'}

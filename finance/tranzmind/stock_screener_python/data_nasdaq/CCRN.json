@@ -1,0 +1,159 @@
+{'52WeekChange': -0.30984455,
+ 'SandP52WeekChange': None,
+ 'address1': '5201 Congress Avenue',
+ 'address2': 'Suite 100B',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.93,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 202450,
+ 'averageVolume': 325969,
+ 'averageVolume10days': 202450,
+ 'beta': 1.023529,
+ 'beta3Year': None,
+ 'bid': 5.37,
+ 'bidSize': 800,
+ 'bookValue': 4.454,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Boca Raton',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.75,
+ 'dayLow': 6.41,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 15.677,
+ 'enterpriseToRevenue': 0.398,
+ 'enterpriseValue': 333565216,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 6.0517144,
+ 'fiftyTwoWeekHigh': 13.42,
+ 'fiftyTwoWeekLow': 4.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 34844676,
+ 'forwardEps': 0.2,
+ 'forwardPE': 33.05,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1600,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.06235,
+ 'heldPercentInstitutions': 0.97116,
+ 'industry': 'Staffing & Employment Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/crosscountryhealthcare.com',
+ 'longBusinessSummary': 'Cross Country Healthcare, Inc. provides talent '
+                        'management and other consultative services for '
+                        'healthcare clients in the United States. The company '
+                        'operates in three segments: Nurse and Allied '
+                        'Staffing, Physician Staffing, and Search. The Nurse '
+                        'and Allied Staffing segment offers traditional '
+                        'staffing, including temporary and permanent placement '
+                        'of travel nurses and allied professionals, '
+                        'branch-based local nurses, and allied staffing; '
+                        'short-term staffing of registered nurses, licensed '
+                        'practical nurses, certified nurse assistants, '
+                        'practitioners, pharmacists, and other allied '
+                        'professionals on per diem and short-term assignments; '
+                        'and travel allied professionals on long-term contract '
+                        'assignments, as well as workforce solutions, '
+                        'including MSP, OWS, RPO, IRP, EMR, and consulting '
+                        'services. It serves public and private acute care and '
+                        'non-acute care hospitals, government facilities, '
+                        'public and charter schools, outpatient clinics, '
+                        'ambulatory care facilities, physician practice '
+                        'groups, retailers, and other healthcare providers '
+                        'under the Cross Country brand. The Physician Staffing '
+                        'segment provides physicians in various specialties, '
+                        'certified registered nurse anesthetists, nurse '
+                        'practitioners, and physician assistants under the '
+                        'Cross Country Locums brand as independent contractors '
+                        'on temporary assignments at various healthcare '
+                        'facilities, such as acute and non-acute care '
+                        'facilities, medical group practices, government '
+                        'facilities, and managed care organizations. The '
+                        'Search segment offers retained and contingent search '
+                        'services for physicians, healthcare executives, and '
+                        'other healthcare professionals, as well as '
+                        'recruitment process outsourcing. The company was '
+                        'founded in 1986 and is headquartered in Boca Raton, '
+                        'Florida.',
+ 'longName': 'Cross Country Healthcare, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 247613904,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_27189',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -58035000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 6.66,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -20.36,
+ 'phone': '561 998 2232',
+ 'previousClose': 6.66,
+ 'priceHint': 2,
+ 'priceToBook': 1.4840593,
+ 'priceToSalesTrailing12Months': 0.29579365,
+ 'profitMargins': -0.06933,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.75,
+ 'regularMarketDayLow': 6.41,
+ 'regularMarketOpen': 6.66,
+ 'regularMarketPreviousClose': 6.66,
+ 'regularMarketPrice': 6.66,
+ 'regularMarketVolume': 193342,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 37460500,
+ 'sharesPercentSharesOut': 0.016900001,
+ 'sharesShort': 631623,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 990197,
+ 'shortName': 'Cross Country Healthcare, Inc.',
+ 'shortPercentOfFloat': 0.021300001,
+ 'shortRatio': 2.15,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'CCRN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.618,
+ 'twoHundredDayAverage': 7.5182014,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'be436185-b320-3ef3-bf3a-eb9ce7471111',
+ 'volume': 193342,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.crosscountryhealthcare.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '33487'}

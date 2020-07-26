@@ -1,0 +1,152 @@
+{'52WeekChange': -0.25641024,
+ 'SandP52WeekChange': None,
+ 'address1': '4000 Ponce De Leon Boulevard',
+ 'address2': 'Suite 650',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 9.3,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 45000,
+ 'averageVolume': 55853,
+ 'averageVolume10days': 45000,
+ 'beta': 0.869467,
+ 'beta3Year': None,
+ 'bid': 9.25,
+ 'bidSize': 1000,
+ 'bookValue': 5.577,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Coral Gables',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9.38,
+ 'dayLow': 9.24,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 9.326,
+ 'enterpriseToRevenue': 3.301,
+ 'enterpriseValue': 484208768,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 9.368,
+ 'fiftyTwoWeekHigh': 15.34,
+ 'fiftyTwoWeekLow': 8,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 17041962,
+ 'forwardEps': -0.11,
+ 'forwardPE': -84.09091,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 330,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.15119,
+ 'heldPercentInstitutions': 0.65915,
+ 'industry': 'Entertainment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/hemispheretv.com',
+ 'longBusinessSummary': 'Hemisphere Media Group, Inc., the Spanish-language '
+                        'media company, operates broadcast and cable '
+                        'television networks, and digital content platforms. '
+                        'It operates Cinelatino, a cable movie network with '
+                        'approximately 21 million subscribers in the United '
+                        'States, Latin America, and Canada; WAPA, a broadcast '
+                        'television network and television content producer; '
+                        'and WAPA.TV, a news and entertainment Website, as '
+                        'well as distributes WAPA2 Deportes, a sports '
+                        'television network in Puerto Rico. The company also '
+                        'operates WAPA America, a cable television network '
+                        'that serves approximately 4.4 million subscribers in '
+                        'the United States; and Pasiones, a cable television '
+                        'network that offers telenovelas and serialized dramas '
+                        'to approximately 4.4 million subscribers in the '
+                        'United States and approximately 16.0 million '
+                        'subscribers in Latin America. In addition, it '
+                        'operates Centroamerica TV, a cable television network '
+                        'that offers news and entertainment, and soccer '
+                        'programming to approximately 4.3 million subscribers '
+                        'in the United States; and Television Dominicana, a '
+                        'cable television network that provides news and '
+                        'entertainment to approximately 2.3 million '
+                        'subscribers in the United States. Further, the '
+                        'company distributes content to broadcast and cable '
+                        'television networks; and OTT and SVOD platforms in '
+                        'Latin America. Hemisphere Media Group, Inc. was '
+                        'founded in 2013 and is headquartered in Coral Gables, '
+                        'Florida.',
+ 'longName': 'Hemisphere Media Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 368571808,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_226584812',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -11109000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 9.32,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '305-421-6364',
+ 'previousClose': 9.28,
+ 'priceHint': 2,
+ 'priceToBook': 1.6585978,
+ 'priceToSalesTrailing12Months': 2.5126584,
+ 'profitMargins': -0.075729996,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9.38,
+ 'regularMarketDayLow': 9.24,
+ 'regularMarketOpen': 9.32,
+ 'regularMarketPreviousClose': 9.28,
+ 'regularMarketPrice': 9.32,
+ 'regularMarketVolume': 19155,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 20125200,
+ 'sharesPercentSharesOut': 0.0045,
+ 'sharesShort': 177789,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 89962,
+ 'shortName': 'Hemisphere Media Group, Inc.',
+ 'shortPercentOfFloat': 0.0108,
+ 'shortRatio': 3.22,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'HMTV',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.291,
+ 'twoHundredDayAverage': 10.493957,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '8170aca7-de5d-3fe8-8d1d-d835aab2176e',
+ 'volume': 19155,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.hemispheretv.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '33146'}

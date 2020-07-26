@@ -1,0 +1,151 @@
+{'52WeekChange': 0.27617323,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '60 Leveroni Court',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 77.75,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 377887,
+ 'averageVolume': 529376,
+ 'averageVolume10days': 377887,
+ 'beta': 2.267226,
+ 'beta3Year': None,
+ 'bid': 77.7,
+ 'bidSize': 1200,
+ 'bookValue': 10.24,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Novato',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 78.52,
+ 'dayLow': 76.14,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -9.226,
+ 'enterpriseToRevenue': 33.039,
+ 'enterpriseValue': 4025861376,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '415 483 8810',
+ 'fiftyDayAverage': 78.81371,
+ 'fiftyTwoWeekHigh': 91.77,
+ 'fiftyTwoWeekLow': 31.99,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 56337510,
+ 'forwardEps': -4.95,
+ 'forwardPE': -15.711111,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 740,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.06138,
+ 'heldPercentInstitutions': 1.01472,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1389916800,
+ 'lastSplitFactor': '1:3',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ultragenyx.com',
+ 'longBusinessSummary': 'Ultragenyx Pharmaceutical Inc., a biopharmaceutical '
+                        'company, focuses on the identification, acquisition, '
+                        'development, and commercialization of novel products '
+                        'for the treatment of rare and ultra-rare genetic '
+                        'diseases in the United States. Its biologic products '
+                        'include Crysvita (burosumab), an antibody targeting '
+                        'fibroblast growth factor 23 for the treatment of '
+                        'X-linked hypophosphatemia; and Mepsevii, an enzyme '
+                        'replacement therapy for the treatment of children and '
+                        'adults with Mucopolysaccharidosis VII. The company is '
+                        'also developing small-molecule pipeline comprising '
+                        'UX007, a synthetic triglyceride for the treatment of '
+                        'long chain fatty-acid oxidation disorders, which is a '
+                        'set of rare metabolic diseases that prevents the '
+                        'conversion of fat into energy; and gene therapy '
+                        'pipeline consisting of DTX301, an adeno-associated '
+                        'virus 8 gene therapy product candidate for the '
+                        'treatment of patients with ornithine '
+                        'transcarbamylase, as well as DTX401, an AAV8 gene '
+                        'therapy clinical candidate for the treatment of '
+                        'patients with glycogen storage disease type Ia. In '
+                        'addition, the company is developing UX068, which is '
+                        'in preclinical development for the treatment of '
+                        'creatine transporter deficiency (CTD); and UX053 for '
+                        'the treatment of glycogen storage disease type III. '
+                        'Ultragenyx Pharmaceutical Inc. has collaboration and '
+                        'license agreement with Arcturus Therapeutics Holdings '
+                        'Inc. to develop additional nucleic acid therapies for '
+                        'rare diseases. Ultragenyx Pharmaceutical Inc. was '
+                        'founded in 2010 and is headquartered in Novato, '
+                        'California.',
+ 'longName': 'Ultragenyx Pharmaceutical Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4646694912,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_117471985',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -424996000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 78.01,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.72,
+ 'phone': '415 483 8800',
+ 'previousClose': 78.93,
+ 'priceHint': 2,
+ 'priceToBook': 7.5947266,
+ 'priceToSalesTrailing12Months': 38.134235,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 78.52,
+ 'regularMarketDayLow': 76.14,
+ 'regularMarketOpen': 78.01,
+ 'regularMarketPreviousClose': 78.93,
+ 'regularMarketPrice': 78.01,
+ 'regularMarketVolume': 377239,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 59749200,
+ 'sharesPercentSharesOut': 0.1284,
+ 'sharesShort': 7670727,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7594644,
+ 'shortName': 'Ultragenyx Pharmaceutical Inc.',
+ 'shortPercentOfFloat': 0.1774,
+ 'shortRatio': 13.58,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'RARE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -7.356,
+ 'twoHundredDayAverage': 62.609962,
+ 'volume': 377239,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ultragenyx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94949'}

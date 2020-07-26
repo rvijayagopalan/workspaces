@@ -1,0 +1,153 @@
+{'52WeekChange': -0.31669992,
+ 'SandP52WeekChange': None,
+ 'address1': '1141-A Cummings Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 66.2,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 91325,
+ 'averageVolume': 142988,
+ 'averageVolume10days': 91325,
+ 'beta': 1.015126,
+ 'beta3Year': None,
+ 'bid': 58.78,
+ 'bidSize': 800,
+ 'bookValue': 16.03,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Santa Paula',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 61.86,
+ 'dayLow': 60.41,
+ 'dividendRate': 1.1,
+ 'dividendYield': 0.0179,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 21.885,
+ 'enterpriseToRevenue': 0.984,
+ 'enterpriseValue': 1186538368,
+ 'exDividendDate': 1573689600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 60.671143,
+ 'fiftyTwoWeekHigh': 99.71,
+ 'fiftyTwoWeekLow': 48.31,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.31,
+ 'floatShares': 16320034,
+ 'forwardEps': 3.21,
+ 'forwardPE': 18.890965,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3657,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.07355,
+ 'heldPercentInstitutions': 0.95899004,
+ 'industry': 'Packaged Foods',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1572480000,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/calavo.com',
+ 'longBusinessSummary': 'Calavo Growers, Inc. markets and distributes '
+                        'avocados, prepared avocados, and other perishable '
+                        'foods to retail grocery and foodservice customers, '
+                        'club stores, mass merchandisers, food distributors, '
+                        'and wholesale customers worldwide. It operates in '
+                        'three segments: Fresh Products, Calavo Foods, and '
+                        'Renaissance Food Group (RFG). The Fresh products '
+                        'segment distributes avocados and other fresh produce '
+                        'products; and procures avocados grown in California, '
+                        'Mexico, and Peru, as well as various other '
+                        'commodities, including tomatoes and papayas. The '
+                        'Calavo Foods segment is involved in purchasing, '
+                        'manufacturing, and distributing prepared avocado '
+                        'products, including guacamole and salsa. The RFG '
+                        'segment manufactures and distributes fresh-cut fruits '
+                        'and vegetables, fresh prepared entrée salads, wraps, '
+                        'sandwiches, and fresh snacking products, as well as '
+                        'ready-to-heat entrees, other hot bar and various deli '
+                        'items, meals kits and related components, and salad '
+                        'kits. The company offers its products under the '
+                        'Calavo and RFG brands, and related logos; and Avo '
+                        'Fresco, Bueno, Calavo Gold, Calavo Salsa Lisa, Salsa '
+                        'Lisa, Celebrate the Taste, El Dorado, Fresh Ripe, '
+                        'Select, Taste of Paradise, The First Name in '
+                        'Avocados, Tico, Mfresh, Maui Fresh International, '
+                        'Triggered Avocados, ProRipeVIP, RIPE NOW!, Garden '
+                        'Highway Fresh Cut, Garden Highway, and Garden Highway '
+                        'Chef Essentials trademarks. Calavo Growers, Inc. was '
+                        'founded in 1924 and is headquartered in Santa Paula, '
+                        'California.',
+ 'longName': 'Calavo Growers, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1069598656,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2765632',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 11598000,
+ 'nextFiscalYearEnd': 1635638400,
+ 'open': 61.86,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.29,
+ 'phone': '805-525-1245',
+ 'previousClose': 61.62,
+ 'priceHint': 2,
+ 'priceToBook': 3.7829068,
+ 'priceToSalesTrailing12Months': 0.8868794,
+ 'profitMargins': 0.00962,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 61.86,
+ 'regularMarketDayLow': 60.41,
+ 'regularMarketOpen': 61.86,
+ 'regularMarketPreviousClose': 61.62,
+ 'regularMarketPrice': 61.86,
+ 'regularMarketVolume': 68226,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 17638500,
+ 'sharesPercentSharesOut': 0.1508,
+ 'sharesShort': 2659607,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2717141,
+ 'shortName': 'Calavo Growers, Inc.',
+ 'shortPercentOfFloat': 0.19379999,
+ 'shortRatio': 16.79,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'CVGW',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.1,
+ 'trailingAnnualDividendYield': 0.017851347,
+ 'trailingEps': 0.661,
+ 'trailingPE': 91.739784,
+ 'twoHundredDayAverage': 64.18705,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f9c7c563-8692-3003-9988-5c2edb7a0aa9',
+ 'volume': 68226,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.calavo.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '93060'}

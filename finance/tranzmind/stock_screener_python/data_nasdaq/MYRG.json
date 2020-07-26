@@ -1,0 +1,163 @@
+{'52WeekChange': -0.12153804,
+ 'SandP52WeekChange': None,
+ 'address1': '1701 Golf Road',
+ 'address2': 'Suite 3-1012',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 31.77,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 71712,
+ 'averageVolume': 97893,
+ 'averageVolume10days': 71712,
+ 'beta': 0.790476,
+ 'beta3Year': None,
+ 'bid': 31.77,
+ 'bidSize': 800,
+ 'bookValue': 22.474,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Rolling Meadows',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 32.75,
+ 'dayLow': 31.75,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.351,
+ 'enterpriseToEbitda': 6.426,
+ 'enterpriseToRevenue': 0.322,
+ 'enterpriseValue': 682880768,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '847-290-1892',
+ 'fiftyDayAverage': 30.775143,
+ 'fiftyTwoWeekHigh': 38.14,
+ 'fiftyTwoWeekLow': 16.33,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 16086781,
+ 'forwardEps': 2.74,
+ 'forwardPE': 11.59854,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04042,
+ 'heldPercentInstitutions': 0.92328,
+ 'industry': 'Engineering & Construction',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/myrgroup.com',
+ 'longBusinessSummary': 'MYR Group Inc., through its subsidiaries, provides '
+                        'electrical construction services in the United States '
+                        'and Canada. It operates in two segments, Transmission '
+                        'and Distribution, and Commercial and Industrial. The '
+                        "company's Transmission and Distribution segment "
+                        'offers a range of services on electric transmission '
+                        'and distribution networks, and substation facilities, '
+                        'including design, engineering, procurement, '
+                        'construction, upgrade, maintenance, and repair '
+                        'services with primary focus on construction, '
+                        'maintenance, and repair to customers in the electric '
+                        'utility industry. Its services include construction '
+                        'and maintenance of high voltage transmission lines, '
+                        'substations, and lower voltage underground and '
+                        'overhead distribution systems, and renewable power '
+                        'facilities; and limited gas construction services, as '
+                        'well as emergency restoration services in response to '
+                        'hurricane, ice, or other storm related damages. This '
+                        'segment serves as a prime contractor to customers, '
+                        'such as investor-owned utilities, cooperatives, '
+                        'private developers, government-funded utilities, '
+                        'independent power producers, independent transmission '
+                        'companies, industrial facility owners, and other '
+                        'contractors. Its Commercial and Industrial segment '
+                        'provides services, such as design, installation, '
+                        'maintenance, and repair of commercial and industrial '
+                        'wiring; and installation of traffic networks, bridge, '
+                        'roadway, and tunnel lighting. This segment offers its '
+                        'services for airports, hospitals, data centers, '
+                        'hotels, stadiums, convention centers, renewable '
+                        'energy projects, manufacturing plants, processing '
+                        'facilities, waste-water treatment facilities, mining '
+                        'facilities, and transportation control and management '
+                        'systems. It serves general contractors, commercial '
+                        'and industrial facility owners, governmental '
+                        'agencies, and developers. MYR Group Inc. was founded '
+                        'in 1891 and is headquartered in Rolling Meadows, '
+                        'Illinois.',
+ 'longName': 'MYR Group Inc.',
+ 'market': 'us_market',
+ 'marketCap': 530274720,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_290202',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 40269000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 32.67,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.67,
+ 'phone': '847-290-1891',
+ 'previousClose': 32.67,
+ 'priceHint': 2,
+ 'priceToBook': 1.4140785,
+ 'priceToSalesTrailing12Months': 0.2499486,
+ 'profitMargins': 0.01898,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 32.75,
+ 'regularMarketDayLow': 31.75,
+ 'regularMarketOpen': 32.67,
+ 'regularMarketPreviousClose': 32.67,
+ 'regularMarketPrice': 32.67,
+ 'regularMarketVolume': 44298,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 16685800,
+ 'sharesPercentSharesOut': 0.0242,
+ 'sharesShort': 403117,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 298928,
+ 'shortName': 'MYR Group, Inc.',
+ 'shortPercentOfFloat': 0.030299999,
+ 'shortRatio': 4.17,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'MYRG',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.41,
+ 'trailingPE': 13.186722,
+ 'twoHundredDayAverage': 28.059137,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '3fd9c904-a984-3322-85d9-239a533139f4',
+ 'volume': 44298,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.myrgroup.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60008'}

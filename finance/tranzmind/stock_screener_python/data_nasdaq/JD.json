@@ -1,0 +1,161 @@
+{'52WeekChange': 0.91822505,
+ 'SandP52WeekChange': None,
+ 'address1': 'Building A',
+ 'address2': '20th Floor No. 18 Kechuang 11 Street Yizhuang Eco & Tech Dev Zn, '
+             'Daxing Dist.',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 60.71,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 10371125,
+ 'averageVolume': 15294725,
+ 'averageVolume10days': 10371125,
+ 'beta': 0.983193,
+ 'beta3Year': None,
+ 'bid': 60.75,
+ 'bidSize': 1000,
+ 'bookValue': 6.719,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Beijing',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 61.29,
+ 'dayLow': 58.76,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.853,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 89077530624,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 61.096573,
+ 'fiftyTwoWeekHigh': 69.18,
+ 'fiftyTwoWeekLow': 25.77,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 862536203,
+ 'forwardEps': 2,
+ 'forwardPE': 30.44,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 220000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.076,
+ 'heldPercentInstitutions': 0.50209,
+ 'industry': 'Internet Retail',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/jd.com',
+ 'longBusinessSummary': 'JD.com, Inc., through its subsidiaries, operates as '
+                        'an e-commerce company and retail infrastructure '
+                        "service provider in the People's Republic of China. "
+                        'It operates in two segments, JD Retail and New '
+                        'Businesses. The company offers home appliances; '
+                        'mobile handsets and other digital products; desktop, '
+                        'laptop, and other computers, as well as printers and '
+                        'other office equipment; furniture and household '
+                        'goods; apparel; cosmetics, personal care items, and '
+                        "pet products; women's shoes, bags, jewelry, and "
+                        "luxury goods; men's shoes, sports gears, and fitness "
+                        'equipment; automobiles and accessories; maternal and '
+                        'childcare products, toys, and musical instruments; '
+                        'and food, beverage, and fresh produce. It also '
+                        'provides gifts, flowers, and plants; nutritional '
+                        'supplements, healthcare services, and other '
+                        'healthcare equipment; books, e-books, music, movie, '
+                        'and other media products; and virtual goods, such as '
+                        'online travel agency, attraction tickets, and prepaid '
+                        'phone and game cards, as well as industrial products '
+                        'and installation and maintenance services. In '
+                        'addition, the company offers an online marketplace '
+                        'for third-party merchants to sell products to '
+                        'customers; and transaction processing and billing and '
+                        'other services. Further, it provides online marketing '
+                        'services for suppliers, third-party merchants, and '
+                        'other business partners; supply chain and logistics '
+                        'services for various industries; and consumer '
+                        'financing services to individual customers, as well '
+                        'as online-to-offline solutions. JD.com, Inc. offers '
+                        'its products through its website jd.com and mobile '
+                        'apps, as well as directly to customers. As of '
+                        'December 31, 2019, JD.com, Inc. operated fulfillment '
+                        'centers in seven cities; and 700 warehouses in 89 '
+                        'cities covering various counties and districts. The '
+                        'company has strategic cooperation agreement with '
+                        'Tencent Holdings Limited. JD.com, Inc. is '
+                        'headquartered in Beijing, China.',
+ 'longName': 'JD.com, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 97495670784,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_36273923',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 59.34,
+ 'openInterest': 0,
+ 'payoutRatio': 0,
+ 'pegRatio': 59.92,
+ 'previousClose': 60.52,
+ 'priceHint': 2,
+ 'priceToBook': 9.060872,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.00986,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 61.29,
+ 'regularMarketDayLow': 58.76,
+ 'regularMarketOpen': 59.34,
+ 'regularMarketPreviousClose': 60.52,
+ 'regularMarketPrice': 59.34,
+ 'regularMarketVolume': 11540538,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 1555139968,
+ 'sharesPercentSharesOut': 0.024400001,
+ 'sharesShort': 38188075,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 36091130,
+ 'shortName': 'JD.com, Inc.',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 2.53,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'JD',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.147,
+ 'trailingPE': 414.14966,
+ 'twoHundredDayAverage': 47.61043,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '2ecd214d-b016-30ad-a345-2ae4236e065d',
+ 'volume': 11540538,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.jd.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '101111'}

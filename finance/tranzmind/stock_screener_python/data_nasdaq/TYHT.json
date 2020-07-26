@@ -1,0 +1,152 @@
+{'52WeekChange': -0.37565446,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Building T5, DaZu Square',
+ 'address2': 'Room 1001 Daxing District',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 0.49,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 98787,
+ 'averageVolume': 199733,
+ 'averageVolume10days': 98787,
+ 'beta': 1.265486,
+ 'beta3Year': None,
+ 'bid': 0.47,
+ 'bidSize': 1000,
+ 'bookValue': 2.425,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Beijing',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 0.488,
+ 'dayLow': 0.4695,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.179,
+ 'enterpriseToRevenue': -0.907,
+ 'enterpriseValue': -23764322,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 0.5323714,
+ 'fiftyTwoWeekHigh': 1.07,
+ 'fiftyTwoWeekLow': 0.35,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 20048523,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 425,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.22993,
+ 'heldPercentInstitutions': 0.03455,
+ 'industry': 'Drug Manufacturers—Specialty & Generic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/tianyiluobuma.com',
+ 'longBusinessSummary': 'Shineco, Inc., through its subsidiaries, produces, '
+                        'distributes, and sells health and well-being focused '
+                        'plant-based products in China. It processes and '
+                        'distributes traditional Chinese herbal medicine '
+                        'products, as well as other pharmaceutical products '
+                        'directly to individual customers. The company also '
+                        'plants, processes, and distributes green and organic '
+                        'vegetables and fruits; and grows, cultivates, and '
+                        'sells yew trees that are used for the production of '
+                        'anti-cancer medication, as well as ornamental bonsai '
+                        'trees for purifying indoor air quality. In addition, '
+                        'it offers domestic and international logistics '
+                        'services for agricultural products. Further, the '
+                        'company develops and distributes specialized fabrics, '
+                        'textiles, health supplements, and other byproducts '
+                        'derived from an indigenous Chinese plant Apocynum '
+                        'Venetum. The company sells its Chinese medicinal '
+                        'products and western medicines through wholesale '
+                        'customers; and its 13 Ankang retail pharmacies '
+                        'operating under the Sunsimiao Pharmacies name, as '
+                        'well as 66 pharmacies operated by third parties. '
+                        'Shineco, Inc. sells its decoction pieces on the Anhui '
+                        'Bozhou Chinese medicine transaction market to medical '
+                        'materials companies and Chinese patent medicine '
+                        'factories. The company sells its Luobuma textile '
+                        'products online through third party e-commerce '
+                        'Websites; and yew trees and agricultural products '
+                        'primarily through its sales personnel, and group and '
+                        'institutional sales. The company was formerly known '
+                        'as Beijing Tenet Jove Technological Development Co., '
+                        'Ltd. and changed its name to Shineco, Inc. in June '
+                        '2005. Shineco, Inc. was founded in 1997 and is based '
+                        'in Beijing, China.',
+ 'longName': 'Shineco, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 13029832,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_11439473',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -4976636,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 0.4703,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '86 10 8722 7366',
+ 'previousClose': 0.479,
+ 'priceHint': 4,
+ 'priceToBook': 0.19657733,
+ 'priceToSalesTrailing12Months': 0.49739504,
+ 'profitMargins': -0.18997,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 0.488,
+ 'regularMarketDayLow': 0.4695,
+ 'regularMarketOpen': 0.4703,
+ 'regularMarketPreviousClose': 0.479,
+ 'regularMarketPrice': 0.4703,
+ 'regularMarketVolume': 37774,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 27333400,
+ 'sharesPercentSharesOut': 0.0032,
+ 'sharesShort': 86628,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 40253,
+ 'shortName': 'Shineco, Inc.',
+ 'shortPercentOfFloat': 0.0034999999,
+ 'shortRatio': 0.31,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'TYHT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.196,
+ 'twoHundredDayAverage': 0.505482,
+ 'volume': 37774,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.tianyiluobuma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '100176'}

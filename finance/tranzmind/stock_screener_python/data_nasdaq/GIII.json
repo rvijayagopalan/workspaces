@@ -1,0 +1,156 @@
+{'52WeekChange': -0.5898857,
+ 'SandP52WeekChange': None,
+ 'address1': '512 Seventh Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 12.09,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 1211375,
+ 'averageVolume': 1547647,
+ 'averageVolume10days': 1211375,
+ 'beta': 2.596078,
+ 'beta3Year': None,
+ 'bid': 11.05,
+ 'bidSize': 800,
+ 'bookValue': 26.681,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.96,
+ 'dayLow': 11.13,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 4.973,
+ 'enterpriseToRevenue': 0.375,
+ 'enterpriseValue': 1100769536,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '212 403 0551',
+ 'fiftyDayAverage': 13.064,
+ 'fiftyTwoWeekHigh': 34.42,
+ 'fiftyTwoWeekLow': 2.96,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 41684365,
+ 'forwardEps': 2.36,
+ 'forwardPE': 4.7245765,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.10875,
+ 'heldPercentInstitutions': 1.0044,
+ 'industry': 'Apparel Retail',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1430697600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/giii.com',
+ 'longBusinessSummary': 'G-III Apparel Group, Ltd. designs, sources, and '
+                        "markets women's and men's apparel in the United "
+                        'States and internationally. The company operates in '
+                        'two segments, Wholesale Operations and Retail '
+                        'Operations. Its products include outerwear, dresses, '
+                        "sportswear, swimwear, women's suits, and women's "
+                        "performance wear; and women's handbags, footwear, "
+                        'small leather goods, cold weather accessories, and '
+                        'luggage. The company markets apparel and other '
+                        'products under the proprietary brand names, including '
+                        'DKNY, Donna Karan, Vilebrequin, G.H. Bass, Eliza J, '
+                        'Jessica Howard, Andrew Marc, Marc New York, Black '
+                        'Rivet, Wilsons, G-III Sports by Carl Banks, and G-III '
+                        'for Her; and licensed brands, such as Calvin Klein, '
+                        'Tommy Hilfiger, Karl Lagerfeld Paris, Guess?, Kenneth '
+                        "Cole, Cole Haan, Levi's, Vince Camuto, Kensie, and "
+                        'Dockers. It has licenses with the National Football '
+                        'League, Major League Baseball, National Basketball '
+                        'Association, and National Hockey League, as well as '
+                        'approximately 150 U.S. colleges and universities. The '
+                        'company offers its products to department, specialty, '
+                        'and mass merchant retail stores. As of January 31, '
+                        '2020, it operated 282 leased retail stores, which '
+                        'include 124 stores under Wilsons Leather name, 99 '
+                        'stores under G.H. Bass brand, 43 stores under DKNY '
+                        'brand, 12 stores under licensed Karl Lagerfeld Paris '
+                        'brand, and 4 stores under licensed Calvin Klein '
+                        'Performance brand. The company also operates Wilsons '
+                        'Leather, G.H. Bass, DKNY, Donna Karan, Andrew Marc, '
+                        'and Karl Lagerfeld Paris online stores. G-III Apparel '
+                        'Group, Ltd. was founded in 1956 and is headquartered '
+                        'in New York, New York.',
+ 'longName': 'G-III Apparel Group, Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 535788704,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_274166',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 92499000,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 11.72,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 34.62,
+ 'phone': '212 403 0500',
+ 'previousClose': 11.84,
+ 'priceHint': 2,
+ 'priceToBook': 0.41790035,
+ 'priceToSalesTrailing12Months': 0.18273562,
+ 'profitMargins': 0.03155,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.96,
+ 'regularMarketDayLow': 11.13,
+ 'regularMarketOpen': 11.72,
+ 'regularMarketPreviousClose': 11.84,
+ 'regularMarketPrice': 11.72,
+ 'regularMarketVolume': 734360,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 48052800,
+ 'sharesPercentSharesOut': 0.1666,
+ 'sharesShort': 8005155,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 8824405,
+ 'shortName': 'G-III Apparel Group, LTD.',
+ 'shortPercentOfFloat': 0.2187,
+ 'shortRatio': 4.67,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'GIII',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.907,
+ 'trailingPE': 5.84688,
+ 'twoHundredDayAverage': 15.879065,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '6ceecb1f-4964-3941-b28e-b99beffb03c4',
+ 'volume': 734360,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.giii.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10018'}

@@ -1,0 +1,163 @@
+{'52WeekChange': 0.094386935,
+ 'SandP52WeekChange': None,
+ 'address1': '8401 McClure Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 30.62,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 210962,
+ 'averageVolume': 214446,
+ 'averageVolume10days': 210962,
+ 'beta': 1.593277,
+ 'beta3Year': None,
+ 'bid': 30.55,
+ 'bidSize': 800,
+ 'bookValue': 30.053,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Fort Smith',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 31.01,
+ 'dayLow': 30.42,
+ 'dividendRate': 0.32,
+ 'dividendYield': 0.0105,
+ 'earningsQuarterlyGrowth': -0.611,
+ 'enterpriseToEbitda': 4.497,
+ 'enterpriseToRevenue': 0.287,
+ 'enterpriseValue': 854631360,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 26.65943,
+ 'fiftyTwoWeekHigh': 32.46,
+ 'fiftyTwoWeekLow': 13.54,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.15,
+ 'floatShares': 24413146,
+ 'forwardEps': 2.27,
+ 'forwardPE': 13.471366,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 13000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01666,
+ 'heldPercentInstitutions': 0.92127,
+ 'industry': 'Trucking',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/arcb.com',
+ 'longBusinessSummary': 'ArcBest Corporation provides freight transportation '
+                        'services and integrated logistics solutions '
+                        'worldwide. It operates through three segments: '
+                        'Asset-Based, ArcBest, and FleetNet. The Asset-Based '
+                        'segment transports general commodities, such as food, '
+                        'textiles, apparel, furniture, appliances, chemicals, '
+                        'nonbulk petroleum products, rubber, plastics, metal '
+                        'and metal products, wood, glass, automotive parts, '
+                        'machinery, and miscellaneous manufactured products '
+                        'through less-than-truckload services. It also offers '
+                        'motor carrier freight transportation services to '
+                        'customers in Mexico through arrangements with '
+                        'trucking companies. The ArcBest segment provides '
+                        'expedite freight transportation services to '
+                        'commercial and government customers; premium '
+                        'logistics services, such as deployment of specialized '
+                        'equipment to meet linehaul requirements; and '
+                        'international freight transportation with air, ocean, '
+                        'and ground services. It also offers third-party '
+                        'transportation brokerage services by sourcing various '
+                        'capacity solutions, including dry van over the road '
+                        'and intermodal, temperature-controlled and '
+                        'refrigerated, flatbed, intermodal or container '
+                        'shipping, and specialized equipment; full-container '
+                        'and less-than-container load ocean transportation '
+                        'services; warehousing and distribution services; '
+                        'managed transportation services; and moving services '
+                        "to Â\x91do-it-yourself' consumer and corporate "
+                        'account employee relocations, as well as provides '
+                        'final mile, time critical, product launch, '
+                        'warehousing, retail logistics, supply chain '
+                        'optimization, and trade show shipping services. The '
+                        'FleetNet segment provides roadside assistance and '
+                        'maintenance management services for commercial '
+                        'vehicles through third-party service providers. The '
+                        'company was formerly known as Arkansas Best '
+                        'Corporation and changed its name to ArcBest '
+                        'Corporation in May 2014. ArcBest Corporation was '
+                        'founded in 1923 and is headquartered in Fort Smith, '
+                        'Arkansas.',
+ 'longName': 'ArcBest Corporation',
+ 'market': 'us_market',
+ 'marketCap': 772527232,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_25063',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 36985000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 30.6,
+ 'openInterest': None,
+ 'payoutRatio': 0.22860001,
+ 'pegRatio': -4.07,
+ 'phone': '479 785 6000',
+ 'previousClose': 30.61,
+ 'priceHint': 2,
+ 'priceToBook': 1.0175357,
+ 'priceToSalesTrailing12Months': 0.25942275,
+ 'profitMargins': 0.01242,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 31.01,
+ 'regularMarketDayLow': 30.42,
+ 'regularMarketOpen': 30.6,
+ 'regularMarketPreviousClose': 30.61,
+ 'regularMarketPrice': 30.6,
+ 'regularMarketVolume': 114762,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 25262500,
+ 'sharesPercentSharesOut': 0.0403,
+ 'sharesShort': 1018892,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 943329,
+ 'shortName': 'ArcBest Corporation',
+ 'shortPercentOfFloat': 0.0575,
+ 'shortRatio': 4.33,
+ 'startDate': None,
+ 'state': 'AR',
+ 'strikePrice': None,
+ 'symbol': 'ARCB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.32,
+ 'trailingAnnualDividendYield': 0.0104541,
+ 'trailingEps': 1.403,
+ 'trailingPE': 21.79615,
+ 'twoHundredDayAverage': 22.888777,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '3c6ca3cc-e1b6-3272-8792-06c7f8318187',
+ 'volume': 114762,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.arcb.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '72916'}

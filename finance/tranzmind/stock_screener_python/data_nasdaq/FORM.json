@@ -1,0 +1,160 @@
+{'52WeekChange': 0.897032,
+ 'SandP52WeekChange': None,
+ 'address1': '7005 Southfront Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 31.7,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 526375,
+ 'averageVolume': 624844,
+ 'averageVolume10days': 526375,
+ 'beta': 1.391596,
+ 'beta3Year': None,
+ 'bid': 29.51,
+ 'bidSize': 1300,
+ 'bookValue': 8.75,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Livermore',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 30.57,
+ 'dayLow': 29.5,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 1.898,
+ 'enterpriseToEbitda': 19.762,
+ 'enterpriseToRevenue': 3.424,
+ 'enterpriseValue': 2116276864,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 29.691143,
+ 'fiftyTwoWeekHigh': 33.07,
+ 'fiftyTwoWeekLow': 16.25,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 75575396,
+ 'forwardEps': 1.32,
+ 'forwardPE': 22.575756,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1836,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01214,
+ 'heldPercentInstitutions': 0.96192,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/formfactor.com',
+ 'longBusinessSummary': 'FormFactor, Inc. designs, manufactures, and sells '
+                        'probe cards, analytical probes, probe stations, '
+                        'metrology systems, and thermal sub-systems. It '
+                        'operates in two segments, Probe Cards and Systems. '
+                        'The company offers probe cards to test various '
+                        'semiconductor device types, including systems on a '
+                        'chip, mobile application processors, microprocessors, '
+                        'microcontrollers, graphic processors, radio '
+                        'frequency, analog, mixed signal, image sensors, '
+                        'electro-optical, DRAM memory, NAND flash memory and '
+                        'NOR flash memory devices; and analytical probes, '
+                        'which are used for a range of applications, including '
+                        'device characterization, electrical simulation model '
+                        'development, failure analysis, and prototype design '
+                        'debugging for universities, research institutions, '
+                        'semiconductor integrated device manufacturers, '
+                        'semiconductor foundries, and fabless semiconductor '
+                        'companies. It also provides probing stations for '
+                        'semiconductor design engineers to capture and analyze '
+                        'data and integrated measurement systems that include '
+                        'test instrumentation, probe, cabling configurations, '
+                        'and software to enable fast, accurate, and on-wafer '
+                        'data collection for complex application and '
+                        'measurement needs; metrology systems for various '
+                        'applications including the development, production, '
+                        'and quality control of semiconductor products; and '
+                        'thermal subsystems that produce thermal chucks and '
+                        'other test systems used in probe stations. In '
+                        'addition, the company offers on-site probe card '
+                        'maintenance and service training, seminars, and '
+                        'telephone support services. FormFactor, Inc. markets '
+                        'and sells its products through direct sales force, '
+                        "manufacturers' representatives, and distributors in "
+                        'the United States, Taiwan, South Korea, China, Japan, '
+                        'Europe, the Asia-Pacific, and internationally. The '
+                        'company was founded in 1993 and is headquartered in '
+                        'Livermore, California.',
+ 'longName': 'FormFactor, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2269621504,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_28648',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 49753000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 30.56,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.33,
+ 'phone': '925 290 4000',
+ 'previousClose': 31.32,
+ 'priceHint': 2,
+ 'priceToBook': 3.4057143,
+ 'priceToSalesTrailing12Months': 3.6725032,
+ 'profitMargins': 0.0805,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 30.57,
+ 'regularMarketDayLow': 29.5,
+ 'regularMarketOpen': 30.56,
+ 'regularMarketPreviousClose': 31.32,
+ 'regularMarketPrice': 30.56,
+ 'regularMarketVolume': 661359,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 76158200,
+ 'sharesPercentSharesOut': 0.015800001,
+ 'sharesShort': 1205202,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1103083,
+ 'shortName': 'FormFactor, Inc.',
+ 'shortPercentOfFloat': 0.0216,
+ 'shortRatio': 1.61,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'FORM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.639,
+ 'trailingPE': 46.63537,
+ 'twoHundredDayAverage': 25.072733,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '03c37111-e264-3ee4-a3ad-a395dd6474aa',
+ 'volume': 661359,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.formfactor.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94551'}

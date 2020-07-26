@@ -1,0 +1,163 @@
+{'52WeekChange': -0.49745387,
+ 'SandP52WeekChange': None,
+ 'address1': '6065 Parkland Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 18.6,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 31662,
+ 'averageVolume': 57807,
+ 'averageVolume10days': 31662,
+ 'beta': 1.749579,
+ 'beta3Year': None,
+ 'bid': 15.49,
+ 'bidSize': 900,
+ 'bookValue': 26.564,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cleveland',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 15.86,
+ 'dayLow': 15.37,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.893,
+ 'enterpriseToEbitda': 6.496,
+ 'enterpriseToRevenue': 0.498,
+ 'enterpriseValue': 779483968,
+ 'exDividendDate': 1581552000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '440 947 2099',
+ 'fiftyDayAverage': 16.042858,
+ 'fiftyTwoWeekHigh': 36.11,
+ 'fiftyTwoWeekLow': 10.78,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.51,
+ 'floatShares': 7876745,
+ 'forwardEps': 2.4,
+ 'forwardPE': 6.4416666,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.31682,
+ 'heldPercentInstitutions': 0.56119,
+ 'industry': 'Industrial Distribution',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pkoh.com',
+ 'longBusinessSummary': 'Park-Ohio Holdings Corp. provides supply chain '
+                        'management outsourcing services, capital equipment, '
+                        'and manufactured components in the United States, '
+                        'Europe, Asia, Mexico, Canada, and internationally. It '
+                        'operates through three segments: Supply Technologies, '
+                        'Assembly Components, and Engineered Products. The '
+                        'Supply Technologies segment offers Total Supply '
+                        'Management solution, including engineering and design '
+                        'support, part usage and cost analysis, supplier '
+                        'selection, quality assurance, bar coding, product '
+                        'packaging and tracking, just-in-time and point-of-use '
+                        'delivery, electronic billing, and ongoing technical '
+                        'support services, as well as provides spare parts and '
+                        'aftermarket products; and production components, '
+                        'including valves, fuel hose assemblies, '
+                        'electro-mechanical hardware, labels, fittings, '
+                        'steering components, and other products. It also '
+                        'engineers and manufactures precision cold-formed and '
+                        'cold-extruded fasteners and other products, including '
+                        'locknuts, SPAC nuts, and wheel hardware. The Assembly '
+                        'Components segment manufactures aluminum products, '
+                        'direct fuel injection fuel rails and pipes, fuel '
+                        'filler pipes, and flexible multi-layer plastic and '
+                        'rubber assemblies; turbo charging and coolant hoses; '
+                        'and fluid handling systems. It also offers machining '
+                        'services, as well as value-added services, such as '
+                        'design engineering, machining, and part assembly. The '
+                        'Engineered Products segment designs and manufactures '
+                        'engineered products, including induction heating and '
+                        'melting systems, pipe threading systems, and forged '
+                        'and machined products primarily for ferrous and '
+                        'non-ferrous metals, silicon, coatings, forging, '
+                        'foundry, automotive, and construction equipment '
+                        'industries; engineers and installs mechanical forging '
+                        'presses; sells spare parts; provides field services; '
+                        'and offers aerospace and defense structural '
+                        'components, and rail products, such as railcar center '
+                        'plates and draft lugs. The company was founded in '
+                        '1907 and is headquartered in Cleveland, Ohio.',
+ 'longName': 'Park-Ohio Holdings Corp.',
+ 'market': 'us_market',
+ 'marketCap': 192622320,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_294994',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 28600000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 15.86,
+ 'openInterest': None,
+ 'payoutRatio': 0.2155,
+ 'pegRatio': -1.76,
+ 'phone': '440 947 2000',
+ 'previousClose': 15.79,
+ 'priceHint': 2,
+ 'priceToBook': 0.58199066,
+ 'priceToSalesTrailing12Months': 0.123120695,
+ 'profitMargins': 0.01828,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 15.86,
+ 'regularMarketDayLow': 15.37,
+ 'regularMarketOpen': 15.86,
+ 'regularMarketPreviousClose': 15.79,
+ 'regularMarketPrice': 15.86,
+ 'regularMarketVolume': 14036,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 12459400,
+ 'sharesPercentSharesOut': 0.0305,
+ 'sharesShort': 380267,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 310453,
+ 'shortName': 'Park-Ohio Holdings Corp.',
+ 'shortPercentOfFloat': 0.0531,
+ 'shortRatio': 5.53,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'PKOH',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.5,
+ 'trailingAnnualDividendYield': 0.031665612,
+ 'trailingEps': 2.323,
+ 'trailingPE': 6.6551876,
+ 'twoHundredDayAverage': 20.05187,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '22e954d6-6ac6-372b-8108-71d80c4a54f9',
+ 'volume': 14036,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pkoh.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '44124'}

@@ -1,0 +1,150 @@
+{'52WeekChange': -0.26903337,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '375 Phillips Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 156.8,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 305562,
+ 'averageVolume': 442203,
+ 'averageVolume10days': 305562,
+ 'beta': 1.540056,
+ 'beta3Year': None,
+ 'bid': 150,
+ 'bidSize': 1000,
+ 'bookValue': 17.808,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Ewing',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 157.9497,
+ 'dayLow': 152,
+ 'dividendRate': 0.6,
+ 'dividendYield': 0.0038,
+ 'earningsQuarterlyGrowth': 0.212,
+ 'enterpriseToEbitda': 33.122,
+ 'enterpriseToRevenue': 15.707,
+ 'enterpriseValue': 6749185024,
+ 'exDividendDate': 1591920000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '609 671 0995',
+ 'fiftyDayAverage': 154.80829,
+ 'fiftyTwoWeekHigh': 230.32,
+ 'fiftyTwoWeekLow': 105.11,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 42855915,
+ 'forwardEps': 4.2,
+ 'forwardPE': 37.307144,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 309,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.09561,
+ 'heldPercentInstitutions': 0.68619,
+ 'industry': 'Semiconductor Equipment & Materials',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/oled.com',
+ 'longBusinessSummary': 'Universal Display Corporation engages in the '
+                        'research, development, and commercialization of '
+                        'organic light emitting diode (OLED) technologies and '
+                        'materials for use in display and solid-state lighting '
+                        'applications. As of February 20, 2020, it owned, '
+                        'exclusively licenses, or had sole rights to '
+                        'sublicense approximately 5,000 issued and pending '
+                        'patents worldwide. The company licenses and supplies '
+                        'its proprietary UniversalPHOLED materials to display '
+                        'and lighting manufacturers, and others. It is also '
+                        'involved in the research, development, and '
+                        'commercialization of other OLED device and '
+                        'manufacturing technologies, including FOLED that are '
+                        'flexible OLEDs for the fabrication of OLEDs on '
+                        'flexible substrates; OVJP, an organic vapor jet '
+                        'printing technology; thin-film encapsulation '
+                        'technology for the packaging of flexible OLEDs and '
+                        'other thin-film devices, as well as for use as a '
+                        'barrier film for plastic substrates; and '
+                        'UniversalP2OLED, which are printable phosphorescent '
+                        'OLEDs. In addition, the company provides technology '
+                        'development and support services, including '
+                        'third-party collaboration and support to third '
+                        'parties for the commercialization of their OLED '
+                        'products. Further, it provides contract research '
+                        'services in the areas of chemical materials synthesis '
+                        'research, development, and commercialization for '
+                        'non-OLED applications. The company was founded in '
+                        '1985 and is headquartered in Ewing, New Jersey.',
+ 'longName': 'Universal Display Corporation',
+ 'market': 'us_market',
+ 'marketCap': 7381007872,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_391070',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 143864992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 155,
+ 'openInterest': None,
+ 'payoutRatio': 0.1471,
+ 'pegRatio': 2.08,
+ 'phone': '609 671 0980',
+ 'previousClose': 156.7,
+ 'priceHint': 2,
+ 'priceToBook': 8.798854,
+ 'priceToSalesTrailing12Months': 17.177559,
+ 'profitMargins': 0.33742002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 157.9497,
+ 'regularMarketDayLow': 152,
+ 'regularMarketOpen': 155,
+ 'regularMarketPreviousClose': 156.7,
+ 'regularMarketPrice': 155,
+ 'regularMarketVolume': 368414,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 47105800,
+ 'sharesPercentSharesOut': 0.0299,
+ 'sharesShort': 1410657,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1389649,
+ 'shortName': 'Universal Display Corporation',
+ 'shortPercentOfFloat': 0.0354,
+ 'shortRatio': 3.26,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'OLED',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.45,
+ 'trailingAnnualDividendYield': 0.0028717294,
+ 'trailingEps': 3.06,
+ 'trailingPE': 51.205883,
+ 'twoHundredDayAverage': 157.58792,
+ 'volume': 368414,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://oled.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '08618'}

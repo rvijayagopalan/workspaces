@@ -1,0 +1,157 @@
+{'52WeekChange': -0.21108395,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '100 North Market Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 26.5,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 10400,
+ 'averageVolume': 24190,
+ 'averageVolume10days': 10400,
+ 'beta': 0.810644,
+ 'beta3Year': None,
+ 'bid': 19.36,
+ 'bidSize': 1400,
+ 'bookValue': 28.093,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Carmichaels',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 19.7,
+ 'dayLow': 19.36,
+ 'dividendRate': 0.96,
+ 'dividendYield': 0.048299998,
+ 'earningsQuarterlyGrowth': -0.736,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.494,
+ 'enterpriseValue': 73498264,
+ 'exDividendDate': 1591228800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '724-966-7867',
+ 'fiftyDayAverage': 22.220858,
+ 'fiftyTwoWeekHigh': 30.95,
+ 'fiftyTwoWeekLow': 16.25,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.53,
+ 'floatShares': 4902129,
+ 'forwardEps': 1.5,
+ 'forwardPE': 12.906667,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 266,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.10037,
+ 'heldPercentInstitutions': 0.27323,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 926380800,
+ 'lastSplitFactor': '3:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/communitybank.tv',
+ 'longBusinessSummary': 'CB Financial Services, Inc. operates as the bank '
+                        'holding company for Community Bank that provides '
+                        'various banking products and services for individuals '
+                        'and businesses southwestern Pennsylvania, West '
+                        "Virginia, and Ohio. The company's primary deposit "
+                        'products include demand deposits, NOW accounts, money '
+                        'market accounts, and savings accounts. Its loan '
+                        'products comprise residential real estate loans, such '
+                        'as one-to four-family mortgage loans, multifamily '
+                        'mortgage loans, home equity installment loans, and '
+                        'home equity lines of credit; commercial real estate '
+                        'loans that are secured primarily by improved '
+                        'properties, such as retail facilities, office '
+                        'buildings, and other non-residential buildings; '
+                        'construction loans to individuals to finance the '
+                        'construction of residential dwellings, as well as for '
+                        'the construction of commercial properties, including '
+                        'hotels, apartment buildings, housing developments, '
+                        'and owner-occupied properties used for businesses; '
+                        'commercial and industrial loans, and lines of credit; '
+                        'consumer loans consisting of indirect auto loans, '
+                        'secured and unsecured loans, and lines of credit; and '
+                        'other loans. In addition, the company provides sweep '
+                        'and insured money sweep, remote electronic deposit, '
+                        'online banking with bill pay, mobile banking, and '
+                        'automated clearing house services; and conducts '
+                        'insurance agency activities by offering property and '
+                        'casualty, commercial liability, surety, and other '
+                        'insurance products. As of December 31, 2019, it '
+                        'operated its main office and 23 branches in Greene, '
+                        'Allegheny, Washington, Fayette, and Westmoreland '
+                        'counties in southwestern Pennsylvania; Brooke, '
+                        'Marshall, Ohio, Upshur, and Wetzel counties in West '
+                        'Virginia; and Belmont County in Ohio. The company was '
+                        'founded in 1901 and is headquartered in Carmichaels, '
+                        'Pennsylvania.',
+ 'longName': 'CB Financial Services, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 104422232,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_9531797',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 12175000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 19.46,
+ 'openInterest': None,
+ 'payoutRatio': 0.4305,
+ 'pegRatio': 2.03,
+ 'phone': '724-966-5041',
+ 'previousClose': 19.87,
+ 'priceHint': 2,
+ 'priceToBook': 0.68913966,
+ 'priceToSalesTrailing12Months': 2.1224463,
+ 'profitMargins': 0.24746001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 19.7,
+ 'regularMarketDayLow': 19.36,
+ 'regularMarketOpen': 19.46,
+ 'regularMarketPreviousClose': 19.87,
+ 'regularMarketPrice': 19.46,
+ 'regularMarketVolume': 4836,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 5393710,
+ 'sharesPercentSharesOut': 0.0081,
+ 'sharesShort': 43443,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3332,
+ 'shortName': 'CB Financial Services, Inc.',
+ 'shortPercentOfFloat': 0.0089,
+ 'shortRatio': 0.95,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'CBFV',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.96,
+ 'trailingAnnualDividendYield': 0.04831404,
+ 'trailingEps': 2.229,
+ 'trailingPE': 8.685509,
+ 'twoHundredDayAverage': 23.910215,
+ 'volume': 4836,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.communitybank.tv',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '15320'}

@@ -1,0 +1,159 @@
+{'52WeekChange': -0.15605092,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '777 Post Oak Boulevard',
+ 'address2': '7th Floor Suite 730',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 6.64,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 174300,
+ 'averageVolume': 199428,
+ 'averageVolume10days': 174300,
+ 'beta': 0.848068,
+ 'beta3Year': None,
+ 'bid': 6.62,
+ 'bidSize': 900,
+ 'bookValue': 10.281,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Houston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.8966,
+ 'dayLow': 6.61,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.137,
+ 'enterpriseToEbitda': 5.604,
+ 'enterpriseToRevenue': 1.341,
+ 'enterpriseValue': 946949632,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 6.398143,
+ 'fiftyTwoWeekHigh': 9.53,
+ 'fiftyTwoWeekLow': 4.04,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 33227934,
+ 'forwardEps': 0.58,
+ 'forwardPE': 11.422414,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4500,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.62264,
+ 'heldPercentInstitutions': 0.33631,
+ 'industry': 'Oil & Gas Equipment & Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/nesr.com',
+ 'longBusinessSummary': 'National Energy Services Reunited Corp., through its '
+                        'subsidiaries, provides oilfield services to oil and '
+                        'gas companies in the Middle East, North Africa, and '
+                        'the Asia Pacific regions. It operates through two '
+                        'segments: Production Services; and Drilling and '
+                        'Evaluation Services. The Production Services segment '
+                        'offers coiled tubing services, including nitrogen '
+                        'lifting, fishing, milling, clean-out, scale removal, '
+                        'and other well applications; hydraulic fracturing '
+                        'services; stimulation and pumping services; nitrogen '
+                        'services; pipeline services, such as water filling '
+                        'and hydro testing, nitrogen purging, and de-gassing '
+                        'and pressure testing, as well as cutting/welding and '
+                        'cooling down piping/vessels systems; and primary and '
+                        'remedial cementing services. This segment also '
+                        'provides laboratory services; filtration services, as '
+                        'well as frac tanks and pumping units; artificial lift '
+                        'services; production assurance chemicals; and surface '
+                        'and subsurface safety systems, high-pressure packer '
+                        'systems, flow controls, service tools, expandable '
+                        'liner technology, vacuum insulated tubing technology, '
+                        'and engineering capabilities with manufacturing '
+                        'capacity and testing facilities, as well as sources, '
+                        'treats, and disposes water for oil and gas, '
+                        'municipal, and industrial use. Its Drilling and '
+                        'Evaluation Services segment provides drilling and '
+                        'workover rigs; rig services; fishing and remedial '
+                        'solutions; directional and turbines drilling '
+                        'services; drilling fluid systems and related '
+                        'technologies; wireline logging services; slickline '
+                        'services for removal of scale, wax and sand build-up, '
+                        'setting plugs, changing out gas lift valves, and '
+                        'fishing and other well applications; and well testing '
+                        'services to measure solids, gas, and oil and water '
+                        'produced from a well, as well as rents drilling '
+                        'tools. National Energy Services Reunited Corp. was '
+                        'founded in 2017 and is headquartered in Houston, '
+                        'Texas.',
+ 'longName': 'National Energy Services Reunited Corp.',
+ 'market': 'us_market',
+ 'marketCap': 579655680,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_421015703',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 37557000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 6.8,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '832 925 3777',
+ 'previousClose': 6.75,
+ 'priceHint': 2,
+ 'priceToBook': 0.64439255,
+ 'priceToSalesTrailing12Months': 0.82106525,
+ 'profitMargins': 0.053200003,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.8966,
+ 'regularMarketDayLow': 6.61,
+ 'regularMarketOpen': 6.8,
+ 'regularMarketPreviousClose': 6.75,
+ 'regularMarketPrice': 6.8,
+ 'regularMarketVolume': 95432,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Energy',
+ 'sharesOutstanding': 87495200,
+ 'sharesPercentSharesOut': 0.0317,
+ 'sharesShort': 2777198,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2195353,
+ 'shortName': 'National Energy Services Reunit',
+ 'shortPercentOfFloat': 0.1066,
+ 'shortRatio': 14.37,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'NESR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.43,
+ 'trailingPE': 15.406977,
+ 'twoHundredDayAverage': 6.28018,
+ 'volume': 95432,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.nesr.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '77056'}

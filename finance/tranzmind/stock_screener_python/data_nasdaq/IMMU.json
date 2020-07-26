@@ -1,0 +1,154 @@
+{'52WeekChange': 1.7643981,
+ 'SandP52WeekChange': None,
+ 'address1': '300 The American Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 41.18,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 1812350,
+ 'averageVolume': 3703423,
+ 'averageVolume10days': 1812350,
+ 'beta': 3.349019,
+ 'beta3Year': None,
+ 'bid': 41.21,
+ 'bidSize': 1100,
+ 'bookValue': 0.87,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Morris Plains',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 42.0299,
+ 'dayLow': 40.23,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -27.799,
+ 'enterpriseToRevenue': 30454,
+ 'enterpriseValue': 8983929856,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '973 605 8282',
+ 'fiftyDayAverage': 37.295143,
+ 'fiftyTwoWeekHigh': 44.48,
+ 'fiftyTwoWeekLow': 8.8,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 204552064,
+ 'forwardEps': -0.9,
+ 'forwardPE': -45.78889,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 366,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00137,
+ 'heldPercentInstitutions': 0.81313,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 488419200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/immunomedics.com',
+ 'longBusinessSummary': 'Immunomedics, Inc., a clinical-stage '
+                        'biopharmaceutical company, develops monoclonal '
+                        'antibody-based products for the targeted treatment of '
+                        'cancer. Its advanced antibody-drug conjugates are '
+                        'sacituzumab govitecan and labetuzumab govitecan, '
+                        'which are in advanced trials for various solid tumors '
+                        'and metastatic colorectal cancer, respectively. The '
+                        'company focuses on commercializing sacituzumab '
+                        'govitecan as a third-line therapy for patients with '
+                        'metastatic triple-negative breast cancer in the '
+                        'United States. It also develops IMMU-140, a humanized '
+                        'antibody directed against an immune response target. '
+                        'Its other product candidates include products for the '
+                        'treatment of cancer and autoimmune diseases, '
+                        'including epratuzumab, an anti-CD22 antibody; '
+                        'veltuzumab, an anti-CD20 antibody; milatuzumab, an '
+                        'anti-CD74 antibody; and IMMU-114, a humanized '
+                        'anti-HLA-DR antibody. The company has clinical '
+                        'collaboration with AstraZeneca, MedImmune, and Roche; '
+                        'collaboration agreement with The Bayer Group; '
+                        'clinical and preclinical collaborations with academic '
+                        'cancer institutions; and research collaboration with '
+                        'the Memorial Sloan Kettering Cancer Center. It also '
+                        'has a partnership agreement with the Samsung '
+                        'BioLogics Co., Ltd. to manufacture hRS7, an '
+                        'Immunomedics proprietary humanized antibody; and a '
+                        'collaboration and license agreement with pH Pharma '
+                        'Co. Ltd. for the development and commercialization of '
+                        'multiple novel antibody-drug conjugates in oncology. '
+                        'The company was founded in 1982 and is headquartered '
+                        'in Morris Plains, New Jersey.',
+ 'longName': 'Immunomedics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 9515388928,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_279328',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -362900000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 41.26,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.46,
+ 'phone': '973 605 8200',
+ 'previousClose': 42.24,
+ 'priceHint': 2,
+ 'priceToBook': 47.367813,
+ 'priceToSalesTrailing12Months': 32255.557,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 42.0299,
+ 'regularMarketDayLow': 40.23,
+ 'regularMarketOpen': 41.26,
+ 'regularMarketPreviousClose': 42.24,
+ 'regularMarketPrice': 41.26,
+ 'regularMarketVolume': 3215541,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 230900000,
+ 'sharesPercentSharesOut': 0.1145,
+ 'sharesShort': 26440305,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 28924512,
+ 'shortName': 'Immunomedics, Inc.',
+ 'shortPercentOfFloat': 0.1282,
+ 'shortRatio': 6.12,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'IMMU',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.822,
+ 'twoHundredDayAverage': 25.362158,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '2f709bcc-d532-3fde-b3fb-238fd607894c',
+ 'volume': 3215541,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.immunomedics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07950'}

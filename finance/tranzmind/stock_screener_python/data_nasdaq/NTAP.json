@@ -1,0 +1,156 @@
+{'52WeekChange': -0.24395198,
+ 'SandP52WeekChange': None,
+ 'address1': '1395 Crossman Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 43.47,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 1978525,
+ 'averageVolume': 2409733,
+ 'averageVolume10days': 1978525,
+ 'beta': 1.269467,
+ 'beta3Year': None,
+ 'bid': 42.02,
+ 'bidSize': 1100,
+ 'bookValue': 1.105,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Sunnyvale',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 44.67,
+ 'dayLow': 43.06,
+ 'dividendRate': 1.92,
+ 'dividendYield': 0.043,
+ 'earningsQuarterlyGrowth': -0.505,
+ 'enterpriseToEbitda': 7.84,
+ 'enterpriseToRevenue': 1.572,
+ 'enterpriseValue': 8506464256,
+ 'exDividendDate': 1594252800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 43.974,
+ 'fiftyTwoWeekHigh': 65.38,
+ 'fiftyTwoWeekLow': 34.66,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.31,
+ 'floatShares': 220875799,
+ 'forwardEps': 4.03,
+ 'forwardPE': 10.719603,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 10800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00308,
+ 'heldPercentInstitutions': 0.98985,
+ 'industry': 'Computer Hardware',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1587686400,
+ 'lastMarket': None,
+ 'lastSplitDate': 953769600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/netapp.com',
+ 'longBusinessSummary': 'NetApp, Inc. provides software, systems, and services '
+                        'to manage and share data on-premises, and private and '
+                        'public clouds worldwide. The company offers cloud '
+                        'data services, including NetApp Cloud Volumes Service '
+                        'for AWS, NetApp Cloud Sync, NetApp Cloud Tiering, '
+                        'NetApp Global File Cache, NetApp SaaS Backup, NetApp '
+                        'Cloud Manager, NetApp Fabric Orchestrator, and NetApp '
+                        'Cloud Insights. It also provides hybrid cloud '
+                        'solutions, such as NetApp ONTAP Storage Operating '
+                        'System, NetApp AFF A-series, NetApp AFF C190, NetApp '
+                        'FAS Series, FlexPod, NetApp ONTAP Select, NetApp MAX '
+                        'Data, NetApp Data Availability Services, NetApp '
+                        'SnapCenter Backup Management Software, NetApp '
+                        'SnapMirror Data Replication Software, NetApp SnapLock '
+                        'Data Compliance Software, NetApp StorageGRID Object '
+                        'Storage Software, NetApp Element Operating System, '
+                        'NetApp SolidFire, NetApp HCI, NetApp SANtricity '
+                        'Storage Operating System, NetApp EF-Series, NetApp '
+                        'E-Series, NetApp Active IQ Predictive Analytics and '
+                        'Support, NetApp OnCommand Insight, and NetApp '
+                        'OnCommand Workflow Automation. Further, it provides '
+                        'software maintenance, hardware maintenance, and other '
+                        'services, including professional services, global '
+                        'support solutions, and customer education and '
+                        'training. It serves the energy, financial services, '
+                        'government, high technology, internet, life sciences, '
+                        'healthcare services, manufacturing, media, '
+                        'entertainment, animation, video postproduction, and '
+                        'telecommunications through a direct sales force and '
+                        'an ecosystem of partners. NetApp has strategic '
+                        'partnership with Fujitsu for data management '
+                        'infrastructure. NetApp, Inc. was founded in 1992 and '
+                        'is headquartered in Sunnyvale, California.',
+ 'longName': 'NetApp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 9582451712,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_32052',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1587686400,
+ 'navPrice': None,
+ 'netIncomeToCommon': 819000000,
+ 'nextFiscalYearEnd': 1650758400,
+ 'open': 44.65,
+ 'openInterest': None,
+ 'payoutRatio': 0.5455,
+ 'pegRatio': 2.23,
+ 'phone': '408 822 6000',
+ 'previousClose': 44.69,
+ 'priceHint': 2,
+ 'priceToBook': 39.095024,
+ 'priceToSalesTrailing12Months': 1.7705935,
+ 'profitMargins': 0.15133001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 44.67,
+ 'regularMarketDayLow': 43.06,
+ 'regularMarketOpen': 44.65,
+ 'regularMarketPreviousClose': 44.69,
+ 'regularMarketPrice': 44.65,
+ 'regularMarketVolume': 1989767,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 221176992,
+ 'sharesPercentSharesOut': 0.0675,
+ 'sharesShort': 14968181,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 11630940,
+ 'shortName': 'NetApp, Inc.',
+ 'shortPercentOfFloat': 0.1041,
+ 'shortRatio': 5.05,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'NTAP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.92,
+ 'trailingAnnualDividendYield': 0.042962633,
+ 'trailingEps': 3.52,
+ 'trailingPE': 12.272728,
+ 'twoHundredDayAverage': 46.578632,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '952796c7-d003-394d-86b5-16b92eb94ed5',
+ 'volume': 1989767,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.netapp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94089'}

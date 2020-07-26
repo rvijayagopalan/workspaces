@@ -1,0 +1,155 @@
+{'52WeekChange': -0.13941854,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '39870 Eureka Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27.56,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 183862,
+ 'averageVolume': 198546,
+ 'averageVolume10days': 183862,
+ 'beta': 1.085097,
+ 'beta3Year': None,
+ 'bid': 20.02,
+ 'bidSize': 1200,
+ 'bookValue': 10.956,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Newark',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 27.9,
+ 'dayLow': 27.38,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.576,
+ 'enterpriseToEbitda': 10.488,
+ 'enterpriseToRevenue': 0.684,
+ 'enterpriseValue': 754626944,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '510-623-1434',
+ 'fiftyDayAverage': 27.303429,
+ 'fiftyTwoWeekHigh': 39.08,
+ 'fiftyTwoWeekLow': 16.42,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 13802216,
+ 'forwardEps': 3.2,
+ 'forwardPE': 8.603125,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1712,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.04203,
+ 'heldPercentInstitutions': 0.95412004,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1567123200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/smartm.com',
+ 'longBusinessSummary': 'SMART Global Holdings, Inc. designs and manufactures '
+                        'electronic products focused in memory and computing '
+                        'technology areas. It offers dynamic random access '
+                        'memory (DRAM) modules for desktops, notebooks, and '
+                        'servers; and embedded and removable flash memory '
+                        'products; and flash component products, such as '
+                        'embedded multimedia controllers, and embedded and '
+                        'removal products in USB, CompactFlash and SD/microSD '
+                        'card configurations. The company also provides supply '
+                        'chain services, including procurement, logistics, '
+                        'inventory management, temporary warehousing, '
+                        'programming, kitting, and packaging. In addition, it '
+                        'offers specialty compute and storage system solutions '
+                        'to customers various verticals, including financial '
+                        'services, energy, government, social media, and '
+                        'education end markets; and offers hardware and '
+                        'software products, including solutions based on the '
+                        'Open Compute Project. Further it provides servers, '
+                        'software, integrated turn-key clusters, '
+                        'enterprise-grade storage, and bare metal HPC in '
+                        'hardware or cloud-based solutions through Penguin '
+                        'Computing On-Demand; Open Compute Tundra Extreme '
+                        'Scale products; turn-key storage solutions based upon '
+                        'its Frostbyte storage platform; and rackmount servers '
+                        'and GPU accelerated computing platforms. The company '
+                        'sells its products directly to original equipment '
+                        'manufacturers, enterprise, government and other end '
+                        'customers through direct sales force, customer '
+                        'service representatives, on-site field application '
+                        'engineers, independent sales representatives, '
+                        'distributors, integrators, and resellers. The company '
+                        'was formerly known as Saleen Holdings, Inc. and '
+                        'changed its name to SMART Global Holdings, Inc. in '
+                        'August 2014. SMART Global Holdings, Inc. was founded '
+                        'in 1988 and is headquartered in Newark, California.',
+ 'longName': 'SMART Global Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 665105536,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_429150870',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1590710400,
+ 'navPrice': None,
+ 'netIncomeToCommon': -3046000,
+ 'nextFiscalYearEnd': 1630281600,
+ 'open': 27.66,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.03,
+ 'phone': '510-623-1231',
+ 'previousClose': 27.92,
+ 'priceHint': 2,
+ 'priceToBook': 2.5127783,
+ 'priceToSalesTrailing12Months': 0.6025888,
+ 'profitMargins': -0.0027599998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 27.9,
+ 'regularMarketDayLow': 27.38,
+ 'regularMarketOpen': 27.66,
+ 'regularMarketPreviousClose': 27.92,
+ 'regularMarketPrice': 27.66,
+ 'regularMarketVolume': 123577,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 24159300,
+ 'sharesPercentSharesOut': 0.070300005,
+ 'sharesShort': 1699291,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1673255,
+ 'shortName': 'SMART Global Holdings, Inc.',
+ 'shortPercentOfFloat': 0.098400004,
+ 'shortRatio': 7.87,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'SGH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.128,
+ 'twoHundredDayAverage': 27.178381,
+ 'volume': 123577,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.smartm.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94560'}

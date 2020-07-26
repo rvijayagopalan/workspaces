@@ -1,0 +1,152 @@
+{'52WeekChange': -0.2152617,
+ 'SandP52WeekChange': None,
+ 'address1': '14375 Northwest Science Park Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 95,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 267725,
+ 'averageVolume': 354528,
+ 'averageVolume10days': 267725,
+ 'beta': 0.67619,
+ 'beta3Year': None,
+ 'bid': 80.34,
+ 'bidSize': 900,
+ 'bookValue': 25.661,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Portland',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 82.57,
+ 'dayLow': 80.225,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.997,
+ 'enterpriseToEbitda': 14.116,
+ 'enterpriseToRevenue': 1.776,
+ 'enterpriseValue': 5248723968,
+ 'exDividendDate': 1583712000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 79.61028,
+ 'fiftyTwoWeekHigh': 109.44,
+ 'fiftyTwoWeekLow': 51.82,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.08,
+ 'floatShares': 29672908,
+ 'forwardEps': 4.2,
+ 'forwardPE': 19.14524,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 8900,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.53833,
+ 'heldPercentInstitutions': 0.43223998,
+ 'industry': 'Apparel Manufacturing',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/columbia.com',
+ 'longBusinessSummary': 'Columbia Sportswear Company, together with its '
+                        'subsidiaries, designs, sources, markets, and '
+                        'distributes outdoor, active, and everyday lifestyle '
+                        'apparel, footwear, accessories, and equipment in the '
+                        'United States, Latin America, the Asia Pacific, '
+                        'Europe, the Middle East, Africa, and Canada. The '
+                        'company provides apparel, accessories, and equipment '
+                        'that are used in various activities, such as skiing, '
+                        'snowboarding, hiking, climbing, mountaineering, '
+                        'camping, hunting, fishing, trail running, water '
+                        'sports, yoga, golf, and adventure travel. It also '
+                        'offers footwear products that include lightweight '
+                        'hiking boots, trail running shoes, rugged cold '
+                        'weather boots for activities on snow and ice, sandals '
+                        'and shoes for use in water activities, and '
+                        'function-first fashion footwear and casual shoes for '
+                        'everyday use. The company sells its products under '
+                        'the Columbia, Mountain Hard Wear, SOREL, and prAna '
+                        'brand names through the company owned network of '
+                        'branded and outlet retail stores, brand-specific '
+                        'e-commerce sites, and concession-based arrangements '
+                        'with third-parties at branded outlet and shop-in-shop '
+                        'retail locations, as well as through independently '
+                        'operated specialty outdoor and sporting goods stores, '
+                        'sporting goods chains, department store chains, '
+                        'Internet retailers, and international distributors. '
+                        'As of December 31, 2019, it operated 143 retail '
+                        'stores. The company was founded in 1938 and is '
+                        'headquartered in Portland, Oregon.',
+ 'longName': 'Columbia Sportswear Company',
+ 'market': 'us_market',
+ 'marketCap': 5316637184,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_384300',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 256524992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 81.5,
+ 'openInterest': None,
+ 'payoutRatio': 0.2604,
+ 'pegRatio': 5.18,
+ 'phone': '503 985 4000',
+ 'previousClose': 81.55,
+ 'priceHint': 2,
+ 'priceToBook': 3.1335492,
+ 'priceToSalesTrailing12Months': 1.7985321,
+ 'profitMargins': 0.086780004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 82.57,
+ 'regularMarketDayLow': 80.225,
+ 'regularMarketOpen': 81.5,
+ 'regularMarketPreviousClose': 81.55,
+ 'regularMarketPrice': 81.5,
+ 'regularMarketVolume': 241682,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 66117800,
+ 'sharesPercentSharesOut': 0.0346,
+ 'sharesShort': 2284561,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2800476,
+ 'shortName': 'Columbia Sportswear Company',
+ 'shortPercentOfFloat': 0.0796,
+ 'shortRatio': 6.2,
+ 'startDate': None,
+ 'state': 'OR',
+ 'strikePrice': None,
+ 'symbol': 'COLM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.98,
+ 'trailingAnnualDividendYield': 0.012017167,
+ 'trailingEps': 3.777,
+ 'trailingPE': 21.289385,
+ 'twoHundredDayAverage': 78.35727,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e8fbd1df-fd12-36d5-b710-1ea21b347639',
+ 'volume': 241682,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.columbia.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '97229'}

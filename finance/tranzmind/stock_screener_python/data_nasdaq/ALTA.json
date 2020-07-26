@@ -1,0 +1,148 @@
+{'52WeekChange': -0.315,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1 East Main Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 20.57,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 26325,
+ 'averageVolume': 30870,
+ 'averageVolume10days': 26325,
+ 'beta': 0.903641,
+ 'beta3Year': None,
+ 'bid': 20.43,
+ 'bidSize': 1000,
+ 'bookValue': 18.104,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'American Fork',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1592179200,
+ 'dayHigh': 20.65,
+ 'dayLow': 20.26,
+ 'dividendRate': 0.56,
+ 'dividendYield': 0.0273,
+ 'earningsQuarterlyGrowth': 0.026,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.908,
+ 'enterpriseValue': 228465776,
+ 'exDividendDate': 1588291200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 20.867647,
+ 'fiftyTwoWeekHigh': 30.15,
+ 'fiftyTwoWeekLow': 18.76,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.32,
+ 'floatShares': 13125088,
+ 'forwardEps': 1.8,
+ 'forwardPE': 11.416667,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 490,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.1684,
+ 'heldPercentInstitutions': 0.40502,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/peoplesutah.com',
+ 'longBusinessSummary': 'Altabancorp operates as the bank holding company for '
+                        'Altabank, a state-chartered bank that provides retail '
+                        'and commercial banking products and services. The '
+                        'company accepts various deposits, such as checking, '
+                        'rewards checking, savings, and money market deposit '
+                        'accounts, as well as individual retirement accounts '
+                        'and certificates of deposit. Its loan products '
+                        'include commercial and residential real estate '
+                        'lending comprising acquisition and development loans, '
+                        'construction loans, and mortgage financing; '
+                        'commercial and industrial loans; consumer loans '
+                        'consisting of home equity loans, home improvement '
+                        'loans, automobile loans, debt consolidation loans, '
+                        'and general consumer lending; and SBA loans. The '
+                        'company also offers credit and debit cards; '
+                        'investment securities, such as U.S. Agency issues, '
+                        'mortgage-backed securities, and municipal bonds; and '
+                        'mobile and Internet banking, automatic teller '
+                        'machine, treasury management, remote deposit capture, '
+                        "bill pay, cashier's checks, money orders, and safe "
+                        'deposit services. It serves real estate developers '
+                        'and contractors, small to medium sized businesses, '
+                        'individuals, and professionals and professional firms '
+                        'through 26 retail branches located in Utah and '
+                        'southern Idaho. The company was formerly known as '
+                        "People's Utah Bancorp and changed its name to "
+                        'Altabancorp in July 2020. Altabancorp was founded in '
+                        '1905 and is headquartered in American Fork, Utah.',
+ 'longName': 'Altabancorp',
+ 'market': 'us_market',
+ 'marketCap': 386093376,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_47416993',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 44592000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 20.62,
+ 'openInterest': None,
+ 'payoutRatio': 0.22129999,
+ 'pegRatio': 1.26,
+ 'phone': '801-642-3998',
+ 'previousClose': 20.5,
+ 'priceHint': 2,
+ 'priceToBook': 1.1351082,
+ 'priceToSalesTrailing12Months': 3.2250774,
+ 'profitMargins': 0.37248,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 20.65,
+ 'regularMarketDayLow': 20.26,
+ 'regularMarketOpen': 20.62,
+ 'regularMarketPreviousClose': 20.5,
+ 'regularMarketPrice': 20.62,
+ 'regularMarketVolume': 12676,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 18788000,
+ 'sharesPercentSharesOut': 0.0091,
+ 'sharesShort': 171343,
+ 'sharesShortPreviousMonthDate': 1589500800,
+ 'sharesShortPriorMonth': 142403,
+ 'shortName': 'Altabancorp',
+ 'shortPercentOfFloat': 0.0104,
+ 'shortRatio': 4.02,
+ 'startDate': None,
+ 'state': 'UT',
+ 'strikePrice': None,
+ 'symbol': 'ALTA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.54,
+ 'trailingAnnualDividendYield': 0.026341464,
+ 'trailingEps': 2.35,
+ 'trailingPE': 8.74468,
+ 'twoHundredDayAverage': 24.525,
+ 'volume': 12676,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.peoplesutah.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '84003'}

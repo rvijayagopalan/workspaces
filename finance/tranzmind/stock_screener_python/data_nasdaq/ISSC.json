@@ -1,0 +1,163 @@
+{'52WeekChange': -0.087499976,
+ 'SandP52WeekChange': None,
+ 'address1': '720 Pennsylvania Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 5.07,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 9562,
+ 'averageVolume': 23082,
+ 'averageVolume10days': 9562,
+ 'beta': 0.966386,
+ 'beta3Year': None,
+ 'bid': 4.5,
+ 'bidSize': 1100,
+ 'bookValue': 2.187,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Exton',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 5.2399,
+ 'dayLow': 5.02,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 1.163,
+ 'enterpriseToEbitda': 31.915,
+ 'enterpriseToRevenue': 3.346,
+ 'enterpriseValue': 62705316,
+ 'exDividendDate': 1356652800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '610 646 0149',
+ 'fiftyDayAverage': 5.0445714,
+ 'fiftyTwoWeekHigh': 7.11,
+ 'fiftyTwoWeekLow': 1.2,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 10546309,
+ 'forwardEps': 0,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 71,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.32355,
+ 'heldPercentInstitutions': 0.30718002,
+ 'industry': 'Aerospace & Defense',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/innovative-ss.com',
+ 'longBusinessSummary': 'Innovative Solutions and Support, Inc., a systems '
+                        'integrator, designs, develops, manufactures, sells, '
+                        'and services flight guidance, autothrottle, and '
+                        'cockpit display system in the United States and '
+                        'internationally. It offers flat panel display systems '
+                        'that replicates the display of analog or digital '
+                        'displays on one screen and replace existing displays '
+                        'in legacy aircraft, as well as used for security '
+                        'monitoring on-board aircraft and as tactical '
+                        'workstations on military aircraft; and flight '
+                        'management systems that complement the flat panel '
+                        'display system upgrade for commercial air transport '
+                        'aircraft. The company also provides integrated '
+                        'standby units, which incorporate the measurement and '
+                        'display of attitude, altitude, airspeed, and '
+                        'navigation data into a single standby/backup '
+                        'navigation instrument for military, commercial air '
+                        'transport, and corporate/general aviation '
+                        'applications. In addition, it offers digital air data '
+                        'computers that calculate various air data parameters, '
+                        'such as altitude, airspeed, vertical speed, angle of '
+                        'attack, and other information; integrated air data '
+                        'computers and display units, which calculate and '
+                        'convey air data information; altitude displays that '
+                        'convey aircraft altitude measurements; airspeed '
+                        'displays that convey various airspeed measurements; '
+                        'and altitude alerters. Further, the company offers '
+                        'engine and fuel displays that convey information '
+                        'related to fuel and oil levels, and engine activity, '
+                        'including oil and hydraulic pressure and temperature; '
+                        'integrated global navigation systems; ThrustSense, a '
+                        'full regime autothrottle; and utilities management '
+                        'systems. It serves commercial air transport carriers '
+                        'and corporate/general aviation companies, Department '
+                        'of Defense and its commercial contractors, aircraft '
+                        'operators, aircraft modification centers, government '
+                        'agencies, foreign militaries, and original equipment '
+                        'manufacturers. The company was founded in 1988 and is '
+                        'based in Exton, Pennsylvania.',
+ 'longName': 'Innovative Solutions and Support, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 85261688,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_29957',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 2274389,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 5.1,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.02,
+ 'phone': '610 646 9800',
+ 'previousClose': 5.11,
+ 'priceHint': 2,
+ 'priceToBook': 2.2953818,
+ 'priceToSalesTrailing12Months': 4.5501285,
+ 'profitMargins': 0.121379994,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 5.2399,
+ 'regularMarketDayLow': 5.02,
+ 'regularMarketOpen': 5.1,
+ 'regularMarketPreviousClose': 5.11,
+ 'regularMarketPrice': 5.1,
+ 'regularMarketVolume': 5771,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 16984400,
+ 'sharesPercentSharesOut': 0.0014,
+ 'sharesShort': 24305,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 27251,
+ 'shortName': 'Innovative Solutions and Suppor',
+ 'shortPercentOfFloat': 0.002,
+ 'shortRatio': 1.17,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'ISSC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.13,
+ 'trailingPE': 38.615387,
+ 'twoHundredDayAverage': 4.756475,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '3ed0209c-d0bf-3f38-b5dc-f8059430fad4',
+ 'volume': 5771,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://innovative-ss.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '19341'}

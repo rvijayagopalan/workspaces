@@ -1,0 +1,227 @@
+{'52WeekChange': 0.16266036,
+ 'SandP52WeekChange': None,
+ 'address1': '1001 Pennsylvania Avenue, NW',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 29.84,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 727325,
+ 'averageVolume': 2552877,
+ 'averageVolume10days': 727325,
+ 'beta': 1.681792,
+ 'beta3Year': None,
+ 'bid': 27.57,
+ 'bidSize': 900,
+ 'bookValue': 5.355,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Washington',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 28.95,
+ 'dayLow': 28.52,
+ 'dividendRate': 1,
+ 'dividendYield': 0.0345,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 43.758,
+ 'enterpriseToRevenue': 10.121,
+ 'enterpriseValue': 15630275584,
+ 'exDividendDate': 1589155200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '202 347 1818',
+ 'fiftyDayAverage': 28.918858,
+ 'fiftyTwoWeekHigh': 34.98,
+ 'fiftyTwoWeekLow': 15.21,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 8.62,
+ 'floatShares': 183846263,
+ 'forwardEps': 2.04,
+ 'forwardPE': 14.073529,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1775,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 1.0581,
+ 'heldPercentInstitutions': 0.17653,
+ 'industry': 'Asset Management',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/carlyle.com',
+ 'longBusinessSummary': 'The Carlyle Group Inc. is an investment firm '
+                        'specializing in direct and fund of fund investments. '
+                        'Within direct investments, it specializes in '
+                        'management-led/ Leveraged buyouts, privatizations, '
+                        'divestitures, strategic minority equity investments, '
+                        'structured credit, global distressed and corporate '
+                        'opportunities, small and middle market, equity '
+                        'private placements, consolidations and buildups, '
+                        'senior debt, mezzanine and leveraged finance, and '
+                        'venture and growth capital financings, seed/startup, '
+                        'early venture, emerging growth, turnaround, mid '
+                        'venture, late venture, PIPES. The firm invests across '
+                        'four segments which include Corporate Private Equity, '
+                        'Real Assets, Global Market Strategies, and Solutions. '
+                        'The firm typically invests in industrial, '
+                        'agribusiness, ecological sector, fintech, airports, '
+                        'parking, Plastics, Rubber, diversified natural '
+                        'resources, minerals, farming, aerospace, defense, '
+                        'automotive, consumer, retail, industrial, '
+                        'infrastructure, energy, power, healthcare, software, '
+                        'software enabled services, semiconductors, '
+                        'communications infrastructure, financial technology, '
+                        'utilities, gaming, systems and related supply chain, '
+                        'electronic systems, systems, oil and gas, processing '
+                        'facilities, power generation assets, technology, '
+                        'systems, real estate, financial services, '
+                        'transportation, business services, '
+                        'telecommunications, media, and logistics sectors. '
+                        'Within the industrial sector, the firm invests in '
+                        'manufacturing, building products, packaging, '
+                        'chemicals, metals and mining, forestry and paper '
+                        'products, and industrial consumables and services. In '
+                        'consumer and retail sectors, it invests in food and '
+                        'beverage, retail, restaurants, consumer products, '
+                        'domestic consumption, consumer services, personal '
+                        'care products, direct marketing, and education. '
+                        'Within aerospace, defense, business services, and '
+                        'government services sectors, it seeks to invest in '
+                        'defense electronics, manufacturing and services, '
+                        'government contracting and services, information '
+                        'technology, distribution companies. In '
+                        'telecommunication and media sectors, it invests in '
+                        'cable TV, directories, publishing, entertainment and '
+                        'content delivery services, wireless '
+                        'infrastructure/services, fixed line networks, '
+                        'satellite services, broadband and Internet, and '
+                        'infrastructure. Within real estate, the firm invests '
+                        'in office, hotel, industrial, retail, for sale '
+                        'residential, student housing, hospitality, '
+                        'multifamily residential, homebuilding and building '
+                        'products, and senior living sectors. The firm seeks '
+                        'to make investments in growing business including '
+                        'those with overleveraged balance sheets. The firm '
+                        'seeks to hold its investments for four to six years. '
+                        'In the healthcare sector, it invests in healthcare '
+                        'services, outsourcing services, companies running '
+                        'clinical trials for pharmaceutical companies, managed '
+                        'care, pharmaceuticals, pharmaceutical related '
+                        'services, healthcare IT, medical, products, and '
+                        'devices. It seeks to invest in companies based in '
+                        'Sub-Saharan focusing on Ghana, Kenya, Mozambique, '
+                        'Botswana, Nigeria, Uganda, West Africa, North Africa '
+                        'and South Africa focusing on Tanzania and Zambia; '
+                        'Asia focusing on Pakistan, India, South East Asia, '
+                        'Indonesia, Philippines, Vietnam, Korea, and Japan; '
+                        'Australia; New Zealand; Europe focusing on France, '
+                        'Italy, Denmark, United Kingdom, Germany, Austria, '
+                        'Belgium, Finland, Iceland, Ireland, Netherlands, '
+                        'Norway, Portugal, Spain, Benelux , Sweden, '
+                        'Switzerland, Hungary, Poland, and Russia; Middle East '
+                        'focusing on Bahrain, Jordan, Kuwait, Lebanon, Oman, '
+                        'Qatar, Saudi Arabia, Turkey, and UAE; North America '
+                        'focusing on United States which further invest in '
+                        'Southeastern United States, Texas, Boston, San '
+                        'Francisco Bay Area and Pacific Northwest; Asia '
+                        'Pacific; Soviet Union, Central-Eastern Europe, and '
+                        'Israel; Nordic region; and South America focusing on '
+                        'Mexico, Argentina, Brazil, Chile, and Peru. The firm '
+                        'seeks to invest in food, financial, and healthcare '
+                        'industries in Western China. In the real estate '
+                        'sector, the firm seeks to invest in various locations '
+                        'across Europe focusing on France and Central Europe, '
+                        'United States, Asia focusing on China, and Latin '
+                        'America. It typically invests between $1 million and '
+                        '$50 million for venture investments and between $20 '
+                        'million and $1 billion for buyouts in companies with '
+                        'enterprise value of between $31.57 million and $1000 '
+                        'million and sales value of $10 million and $500 '
+                        'million. It seeks to invest in companies with market '
+                        'capitalization greater than $50 million and EBITDA '
+                        'between $5 million to $25 million. It prefers to take '
+                        'a majority stake. It typically holds its investments '
+                        'for three to five years. Within automotive and '
+                        'transportation sectors, the firm seeks to hold its '
+                        'investments in for four to six years. While investing '
+                        'in Japan, it does not invest in companies with more '
+                        "than 1,000 employees and prefers companies' worth "
+                        'between $100 million and $150 million. The firm '
+                        'originates, structures, and acts as lead equity '
+                        'investor in the transactions. The Carlyle Group Inc. '
+                        'was founded in 1987 and is based in Washington, '
+                        'District of Columbia with additional offices in 21 '
+                        'countries across six continents (North America, South '
+                        'America, Asia, Australia, Europe, and Africa).',
+ 'longName': 'The Carlyle Group Inc.',
+ 'market': 'us_market',
+ 'marketCap': 10011004928,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_23333',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -403700000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 28.81,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 1.31,
+ 'phone': '202 729 5626',
+ 'previousClose': 29.02,
+ 'priceHint': 2,
+ 'priceToBook': 5.3613443,
+ 'priceToSalesTrailing12Months': 6.4825516,
+ 'profitMargins': -0.24218,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 28.95,
+ 'regularMarketDayLow': 28.52,
+ 'regularMarketOpen': 28.81,
+ 'regularMarketPreviousClose': 29.02,
+ 'regularMarketPrice': 28.81,
+ 'regularMarketVolume': 453720,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 348694016,
+ 'sharesPercentSharesOut': 0.0403,
+ 'sharesShort': 14041414,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 9015196,
+ 'shortName': 'The Carlyle Group Inc.',
+ 'shortPercentOfFloat': 0.0714,
+ 'shortRatio': 3.69,
+ 'startDate': None,
+ 'state': 'DC',
+ 'strikePrice': None,
+ 'symbol': 'CG',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.24,
+ 'trailingAnnualDividendYield': 0.04272915,
+ 'trailingEps': -2.336,
+ 'twoHundredDayAverage': 27.306114,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '5202c658-6cac-3bee-868e-86d1ff854231',
+ 'volume': 453720,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.carlyle.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20004-2505'}

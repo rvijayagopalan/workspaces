@@ -1,0 +1,155 @@
+{'52WeekChange': 0.026052952,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2700 Coast Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 288.69,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 1152200,
+ 'averageVolume': 1247690,
+ 'averageVolume10days': 1152200,
+ 'beta': 1.035294,
+ 'beta3Year': None,
+ 'bid': 287.3,
+ 'bidSize': 800,
+ 'bookValue': 18.178,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Mountain View',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 291.11,
+ 'dayLow': 286.35,
+ 'dividendRate': 2.12,
+ 'dividendYield': 0.0073,
+ 'earningsQuarterlyGrowth': -0.213,
+ 'enterpriseToEbitda': 41.244,
+ 'enterpriseToRevenue': 10.496,
+ 'enterpriseValue': 71971471360,
+ 'exDividendDate': 1594252800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 293.27344,
+ 'fiftyTwoWeekHigh': 314.73,
+ 'fiftyTwoWeekLow': 187.68,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.9,
+ 'floatShares': 251782552,
+ 'forwardEps': 8.15,
+ 'forwardPE': 35.42086,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 9400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03492,
+ 'heldPercentInstitutions': 0.89805,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1564531200,
+ 'lastMarket': None,
+ 'lastSplitDate': 1152230400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/intuit.com',
+ 'longBusinessSummary': 'Intuit Inc. provides financial management and '
+                        'compliance products and services for consumers, small '
+                        'businesses, self-employed, and accounting '
+                        'professionals in the United States, Canada, and '
+                        'internationally. The company operates in three '
+                        'segments: Small Business & Self-Employed, Consumer, '
+                        'and Strategic Partner. The Small Business & '
+                        'Self-Employed segment provides QuickBooks online '
+                        'services and desktop software solutions comprising '
+                        'QuickBooks Enterprise, a hosted solution; QuickBooks '
+                        'Online Advanced, an online enterprise solution; '
+                        'QuickBooks Self-Employed solution; and QuickBooks '
+                        'Online Accountant and QuickBooks Accountant Desktop '
+                        'Plus solutions; payroll solutions, such as online '
+                        'payroll processing, direct deposit of employee '
+                        'paychecks, payroll reports, electronic payment of '
+                        'federal and state payroll taxes, and electronic '
+                        'filing of federal and state payroll tax forms. This '
+                        'segment also offers payment-processing solutions, '
+                        'including credit and debit cards, and ACH payment '
+                        'services; and financial supplies and financing for '
+                        'small businesses. Its Consumer segment provides '
+                        'TurboTax income tax preparation products and '
+                        "services; and personal finance. The company's "
+                        'Strategic Partner segment offers Lacerte, ProSeries, '
+                        'and ProFile desktop tax-preparation software '
+                        'products; and ProConnect Tax Online tax products, '
+                        'electronic tax filing service, and bank products and '
+                        'related services. It sells products and services '
+                        'through various sales and distribution channels, '
+                        'including multi-channel shop-and-buy experiences, '
+                        'Websites and call centers, mobile application stores, '
+                        'and retail and other channels. Intuit Inc. was '
+                        'founded in 1983 and is headquartered in Mountain '
+                        'View, California.',
+ 'longName': 'Intuit Inc.',
+ 'market': 'us_market',
+ 'marketCap': 75279376384,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_21171',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1336999936,
+ 'nextFiscalYearEnd': 1627689600,
+ 'open': 290.45,
+ 'openInterest': None,
+ 'payoutRatio': 0.4063,
+ 'pegRatio': 4.05,
+ 'phone': '650-944-6000',
+ 'previousClose': 291.55,
+ 'priceHint': 2,
+ 'priceToBook': 15.880735,
+ 'priceToSalesTrailing12Months': 10.978471,
+ 'profitMargins': 0.19498,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 291.11,
+ 'regularMarketDayLow': 286.35,
+ 'regularMarketOpen': 290.45,
+ 'regularMarketPreviousClose': 291.55,
+ 'regularMarketPrice': 290.45,
+ 'regularMarketVolume': 1193362,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 260771008,
+ 'sharesPercentSharesOut': 0.0091,
+ 'sharesShort': 2380825,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2293376,
+ 'shortName': 'Intuit Inc.',
+ 'shortPercentOfFloat': 0.0095,
+ 'shortRatio': 1.88,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'INTU',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.06,
+ 'trailingAnnualDividendYield': 0.0070656836,
+ 'trailingEps': 5.07,
+ 'trailingPE': 56.938854,
+ 'twoHundredDayAverage': 275.86877,
+ 'volume': 1193362,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.intuit.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94043'}

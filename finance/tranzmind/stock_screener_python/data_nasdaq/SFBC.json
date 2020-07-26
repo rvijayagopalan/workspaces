@@ -1,0 +1,150 @@
+{'52WeekChange': -0.22636104,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2400 3rd Avenue',
+ 'address2': 'Suite 150',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 29.24,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 1525,
+ 'averageVolume': 1141,
+ 'averageVolume10days': 1525,
+ 'beta': 0.960224,
+ 'beta3Year': None,
+ 'bid': 23.89,
+ 'bidSize': 1400,
+ 'bookValue': 30.55,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Seattle',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 28.125,
+ 'dayLow': 25.3,
+ 'dividendRate': 0.6,
+ 'dividendYield': 0.0238,
+ 'earningsQuarterlyGrowth': -0.321,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 0.748,
+ 'enterpriseValue': 22508476,
+ 'exDividendDate': 1588809600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 24.394571,
+ 'fiftyTwoWeekHigh': 38,
+ 'fiftyTwoWeekLow': 17,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.34,
+ 'floatShares': 1696061,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 117,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.15946999,
+ 'heldPercentInstitutions': 0.39828,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/soundcb.com',
+ 'longBusinessSummary': 'Sound Financial Bancorp, Inc. operates as the bank '
+                        'holding company for Sound Community Bank that '
+                        'provides commercial banking and other financial '
+                        'services for consumers and businesses. It accepts '
+                        'various deposits products comprising savings '
+                        'accounts, money market deposit accounts, NOW '
+                        'accounts, demand accounts, and certificates of '
+                        'deposit. The company also offers various loan '
+                        'products, such as loans secured by first and second '
+                        'mortgages on one-to four-family residences; home '
+                        'equity loans comprising fixed-rate loans and '
+                        'variable-rate lines of credit; commercial and '
+                        'multifamily real estate loans; construction loans '
+                        'secured by single-family residences, and commercial '
+                        'and multifamily real estate; land loans; secured and '
+                        'unsecured consumer loans, including new and used '
+                        'manufactured home loans, floating home loans, '
+                        'automobile loans, boat loans, and recreational '
+                        'vehicle loans, and loans secured by deposit accounts; '
+                        'and commercial business loans to finance commercial '
+                        'vehicles and equipment, as well as loans secured by '
+                        'accounts receivable and/or inventory. It operates '
+                        'eight branch offices, which include five in Seattle '
+                        'Metropolitan Statistical Area, two in Clallam County, '
+                        'and one in Jefferson County; and two loan production '
+                        'offices in the Madison Park neighborhood of Seattle '
+                        'and Sequim. Sound Financial Bancorp, Inc. was '
+                        'incorporated in 2008 and is headquartered in Seattle, '
+                        'Washington.',
+ 'longName': 'Sound Financial Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 70054736,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_6926827',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 6216000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 25.3,
+ 'openInterest': None,
+ 'payoutRatio': 0.2385,
+ 'pegRatio': None,
+ 'phone': '206-448-0884',
+ 'previousClose': 25.2168,
+ 'priceHint': 2,
+ 'priceToBook': 0.88379705,
+ 'priceToSalesTrailing12Months': 2.3270133,
+ 'profitMargins': 0.20648001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 28.125,
+ 'regularMarketDayLow': 25.3,
+ 'regularMarketOpen': 25.3,
+ 'regularMarketPreviousClose': 25.2168,
+ 'regularMarketPrice': 25.3,
+ 'regularMarketVolume': 2437,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 2594620,
+ 'sharesPercentSharesOut': 0.0008,
+ 'sharesShort': 2117,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2100,
+ 'shortName': 'Sound Financial Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.00090000004,
+ 'shortRatio': 1.65,
+ 'startDate': None,
+ 'state': 'WA',
+ 'strikePrice': None,
+ 'symbol': 'SFBC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.57,
+ 'trailingAnnualDividendYield': 0.022603977,
+ 'trailingEps': 2.405,
+ 'trailingPE': 11.226611,
+ 'twoHundredDayAverage': 27.749208,
+ 'volume': 2437,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.soundcb.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '98121'}

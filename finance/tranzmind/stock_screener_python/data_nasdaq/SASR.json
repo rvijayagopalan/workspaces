@@ -1,0 +1,151 @@
+{'52WeekChange': -0.33435327,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '17801 Georgia Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.96,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 233175,
+ 'averageVolume': 267074,
+ 'averageVolume10days': 233175,
+ 'beta': 1.120448,
+ 'beta3Year': None,
+ 'bid': 23.94,
+ 'bidSize': 1000,
+ 'bookValue': 29.576,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Olney',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 24.08,
+ 'dayLow': 23.2,
+ 'dividendRate': 1.2,
+ 'dividendYield': 0.0513,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 6.757,
+ 'enterpriseValue': 1960761472,
+ 'exDividendDate': 1589241600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '410-312-0652',
+ 'fiftyDayAverage': 24.496286,
+ 'fiftyTwoWeekHigh': 38.45,
+ 'fiftyTwoWeekLow': 18,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.13,
+ 'floatShares': 45620132,
+ 'forwardEps': 2.94,
+ 'forwardPE': 8.139456,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 932,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02891,
+ 'heldPercentInstitutions': 0.5949,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1008892800,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sandyspringbank.com',
+ 'longBusinessSummary': 'Sandy Spring Bancorp, Inc. operates as the bank '
+                        'holding company for Sandy Spring Bank that provides '
+                        'commercial and retail banking, mortgage, private '
+                        'banking, and trust services to individuals and '
+                        'businesses in central Maryland, Northern Virginia, '
+                        'and Washington D.C. The company operates in three '
+                        'segments: Community Banking, Insurance, and '
+                        'Investment Management. The Community Banking segment '
+                        'provides financial products and services, including '
+                        'various loan and deposit products. This segment '
+                        'accepts deposits, such as demand, money market '
+                        'savings, regular savings, and time deposits. Its loan '
+                        'products include residential real estate loans; '
+                        'commercial real estate loans, commercial construction '
+                        'loans, and other commercial loans; and consumer loans '
+                        'comprising home equity loans and lines, installment '
+                        'loans, and personal lines of credit. The Insurance '
+                        'segment provides general insurance agency services '
+                        'and annuities. The Investment Management segment '
+                        'provides investment management and financial '
+                        'planning, including cash flow analysis, investment '
+                        'review, tax and retirement planning, insurance '
+                        'analysis, and estate planning to individuals, '
+                        'families, small businesses, and associations. The '
+                        'company also provides equipment leasing, personal '
+                        'trust, and wealth management services. It serves '
+                        'customers through a network of 50 community offices '
+                        'and six financial centers. Sandy Spring Bancorp, Inc. '
+                        'was founded in 1868 and is headquartered in Olney, '
+                        'Maryland.',
+ 'longName': 'Sandy Spring Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1124233856,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_356061',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 53489000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 23.2,
+ 'openInterest': None,
+ 'payoutRatio': 0.44779998,
+ 'pegRatio': 4.47,
+ 'phone': '301-774-6400',
+ 'previousClose': 23.41,
+ 'priceHint': 2,
+ 'priceToBook': 0.809102,
+ 'priceToSalesTrailing12Months': 3.8743172,
+ 'profitMargins': 0.18433,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 24.08,
+ 'regularMarketDayLow': 23.2,
+ 'regularMarketOpen': 23.2,
+ 'regularMarketPreviousClose': 23.41,
+ 'regularMarketPrice': 23.2,
+ 'regularMarketVolume': 283883,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 46980100,
+ 'sharesPercentSharesOut': 0.0324,
+ 'sharesShort': 1522320,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 544840,
+ 'shortName': 'Sandy Spring Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0335,
+ 'shortRatio': 4.01,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'SASR',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.2,
+ 'trailingAnnualDividendYield': 0.051260147,
+ 'trailingEps': 1.397,
+ 'trailingPE': 17.129564,
+ 'twoHundredDayAverage': 26.97705,
+ 'volume': 283883,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sandyspringbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20832'}

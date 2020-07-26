@@ -1,0 +1,157 @@
+{'52WeekChange': -0.21573907,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '557 Broadway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 26.23,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 190237,
+ 'averageVolume': 152714,
+ 'averageVolume10days': 190237,
+ 'beta': 0.999439,
+ 'beta3Year': None,
+ 'bid': 26.21,
+ 'bidSize': 800,
+ 'bookValue': 34.954,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 29.15,
+ 'dayLow': 25.03,
+ 'dividendRate': 0.6,
+ 'dividendYield': 0.021,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 24.194,
+ 'enterpriseToRevenue': 0.497,
+ 'enterpriseValue': 738735424,
+ 'exDividendDate': 1598572800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 29.581142,
+ 'fiftyTwoWeekHigh': 45.8,
+ 'fiftyTwoWeekLow': 20.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.55,
+ 'floatShares': 30020804,
+ 'forwardEps': 0.35,
+ 'forwardPE': 74.88571,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.15877,
+ 'heldPercentInstitutions': 0.85554004,
+ 'industry': 'Publishing',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1590883200,
+ 'lastMarket': None,
+ 'lastSplitDate': 979689600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/scholastic.com',
+ 'longBusinessSummary': 'Scholastic Corporation publishes and distributes '
+                        "children's books worldwide. It operates in three "
+                        "segments: Children's Book Publishing and "
+                        'Distribution, Education, and International. The '
+                        "Children's Book Publishing and Distribution segment "
+                        "publishes and distributes children's books, e-books, "
+                        'media, and interactive products through its school '
+                        'book club and school book fair channels, as well as '
+                        'through its trade channel. Its original publications '
+                        'include Harry Potter, The Hunger Games, The 39 Clues, '
+                        'Spirit Animals, The Magic School Bus, I Spy, Captain '
+                        'Underpants, Dog Man, Goosebumps, and Clifford The Big '
+                        'Red Dog; and licensed properties comprise Star Wars, '
+                        'Lego, Pokemon, and Geronimo Stilton. In addition, '
+                        'this segment publishes and creates books plus '
+                        'products for children, including titles, such as Sew '
+                        'Mini Treats, Lego Chain Reactions, and Make Your Own '
+                        'Bath Bombs under the Klutz name. The Education '
+                        'segment publishes and distributes classroom magazines '
+                        "under the Scholastic News, Scope, Storyworks, Let's "
+                        'Find Out, and Junior Scholastic names; non-fiction '
+                        "books under the Children's Press and Franklin Watts "
+                        'names; and literacy curriculum products under the '
+                        'Scholastic Literacy name, as well as provides '
+                        "children's books, other print and online references, "
+                        'fiction focused products, classroom materials, and '
+                        'consulting services. The International segment offers '
+                        'original trade and educational publishing programs; '
+                        "distributes children's books, digital educational "
+                        'resources, and other materials through school-based '
+                        'book clubs, school-based book fairs, and trade '
+                        'channels; produces and distributes magazines; and '
+                        'offers online subscription services. This segment has '
+                        'operations in approximately 165 countries. The '
+                        'company distributes its products and services '
+                        'directly to schools and libraries through retail '
+                        'stores and the Internet. Scholastic Corporation was '
+                        'founded in 1920 and is headquartered in New York, New '
+                        'York.',
+ 'longName': 'Scholastic Corporation',
+ 'market': 'us_market',
+ 'marketCap': 898235008,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_37870',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1590883200,
+ 'navPrice': None,
+ 'netIncomeToCommon': -43800000,
+ 'nextFiscalYearEnd': 1653955200,
+ 'open': 29.15,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 8.97,
+ 'phone': '212-343-6100',
+ 'previousClose': 28.58,
+ 'priceHint': 2,
+ 'priceToBook': 0.74984264,
+ 'priceToSalesTrailing12Months': 0.60401785,
+ 'profitMargins': -0.02945,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 29.15,
+ 'regularMarketDayLow': 25.03,
+ 'regularMarketOpen': 29.15,
+ 'regularMarketPreviousClose': 28.58,
+ 'regularMarketPrice': 29.15,
+ 'regularMarketVolume': 419075,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 32614500,
+ 'sharesPercentSharesOut': 0.013099999,
+ 'sharesShort': 447637,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 452996,
+ 'shortName': 'Scholastic Corporation',
+ 'shortPercentOfFloat': 0.0173,
+ 'shortRatio': 2.95,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'SCHL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.6,
+ 'trailingAnnualDividendYield': 0.020993702,
+ 'trailingEps': -1.27,
+ 'twoHundredDayAverage': 30.20223,
+ 'volume': 419075,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.scholastic.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10012'}

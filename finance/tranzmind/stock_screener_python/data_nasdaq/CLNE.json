@@ -1,0 +1,159 @@
+{'52WeekChange': -0.052238822,
+ 'SandP52WeekChange': None,
+ 'address1': '4675 MacArthur Court',
+ 'address2': 'Suite 800',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.49,
+ 'askSize': 3100,
+ 'averageDailyVolume10Day': 2152100,
+ 'averageVolume': 2674534,
+ 'averageVolume10days': 2152100,
+ 'beta': 1.463865,
+ 'beta3Year': None,
+ 'bid': 2.48,
+ 'bidSize': 800,
+ 'bookValue': 2.608,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Newport Beach',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.57,
+ 'dayLow': 2.46,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 7.65,
+ 'enterpriseToRevenue': 1.504,
+ 'enterpriseValue': 530070688,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '949 724 1397',
+ 'fiftyDayAverage': 2.334,
+ 'fiftyTwoWeekHigh': 3.75,
+ 'fiftyTwoWeekLow': 1.05,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 132711513,
+ 'forwardEps': -0.06,
+ 'forwardPE': -41.416664,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 412,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.33326998,
+ 'heldPercentInstitutions': 0.2901,
+ 'industry': 'Oil & Gas Refining & Marketing',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cleanenergyfuels.com',
+ 'longBusinessSummary': 'Clean Energy Fuels Corp. provides natural gas as an '
+                        'alternative fuel for vehicle fleets, primarily in the '
+                        'United States and Canada. The company supplies '
+                        'renewable natural gas (RNG), compressed natural gas '
+                        '(CNG), and liquefied natural gas (LNG) for light, '
+                        'medium, and heavy-duty vehicles; and offers operation '
+                        'and maintenance services for public and private '
+                        'vehicle fleet customer stations. It also designs, '
+                        'builds, operates, and maintains fueling stations; '
+                        'sells and services natural gas fueling compressors '
+                        'and other equipment that are used in CNG and LNG '
+                        'stations; and provides assessment, design, and '
+                        'modification solutions to offer operators with '
+                        'code-compliant service and maintenance facilities for '
+                        'natural gas vehicle fleets. In addition, the company '
+                        'transports and sells CNG and LNG through virtual '
+                        'natural gas pipelines and interconnects; procures and '
+                        'sells RNG; sells tradable credits, such as RNG and '
+                        'conventional natural gas as a vehicle fuel comprising '
+                        'Renewable Identification Numbers and Low Carbon Fuel '
+                        'Standards credits; enables its customers to acquire '
+                        'and finance natural gas vehicles; and obtains '
+                        'federal, state and local credits, grants, and '
+                        'incentives. It serves heavy-duty trucking, airports, '
+                        'refuse, public transit, industrial, and institutional '
+                        'energy users, as well as government fleets. As of '
+                        'December 31, 2019, the company served approximately '
+                        '1,000 fleet customers operating approximately 48,000 '
+                        'natural gas vehicles; and owned, operated, or '
+                        'supplied approximately 550 natural gas fueling '
+                        'stations in 41 states in the United States and four '
+                        'provinces in Canada. Clean Energy Fuels Corp. was '
+                        'incorporated in 2001 and is headquartered in Newport '
+                        'Beach, California.',
+ 'longName': 'Clean Energy Fuels Corp.',
+ 'market': 'us_market',
+ 'marketCap': 499301088,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1543272',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 33071000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.5,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -5.64,
+ 'phone': '949 437 1000',
+ 'previousClose': 2.54,
+ 'priceHint': 4,
+ 'priceToBook': 0.95283735,
+ 'priceToSalesTrailing12Months': 1.4169675,
+ 'profitMargins': 0.09385,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.57,
+ 'regularMarketDayLow': 2.46,
+ 'regularMarketOpen': 2.5,
+ 'regularMarketPreviousClose': 2.54,
+ 'regularMarketPrice': 2.5,
+ 'regularMarketVolume': 1344686,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Energy',
+ 'sharesOutstanding': 200926000,
+ 'sharesPercentSharesOut': 0.0076,
+ 'sharesShort': 1535629,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1111181,
+ 'shortName': 'Clean Energy Fuels Corp.',
+ 'shortPercentOfFloat': 0.0119,
+ 'shortRatio': 1.56,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'CLNE',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.159,
+ 'trailingPE': 15.628931,
+ 'twoHundredDayAverage': 2.168705,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b189cf18-c75f-3dbb-88f6-e703c1a77841',
+ 'volume': 1344686,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cleanenergyfuels.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92660'}

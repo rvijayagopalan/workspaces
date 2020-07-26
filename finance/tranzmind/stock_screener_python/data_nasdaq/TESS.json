@@ -1,0 +1,159 @@
+{'52WeekChange': -0.5945578,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '11126 McCormick Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 6.5,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 39237,
+ 'averageVolume': 99563,
+ 'averageVolume10days': 39237,
+ 'beta': 1.272268,
+ 'beta3Year': None,
+ 'bid': 5.97,
+ 'bidSize': 2200,
+ 'bookValue': 9.758,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Hunt Valley',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.206,
+ 'dayLow': 5.95,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -6.543,
+ 'enterpriseToRevenue': 0.169,
+ 'enterpriseValue': 91078736,
+ 'exDividendDate': 1581379200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 5.4305716,
+ 'fiftyTwoWeekHigh': 16.38,
+ 'fiftyTwoWeekLow': 4.12,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 5.82,
+ 'floatShares': 5237994,
+ 'forwardEps': 0.02,
+ 'forwardPE': 298,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 678,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.24158001,
+ 'heldPercentInstitutions': 0.73218,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585440000,
+ 'lastMarket': None,
+ 'lastSplitDate': 1274918400,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/tessco.com',
+ 'longBusinessSummary': 'TESSCO Technologies Incorporated architects and '
+                        'delivers product and value chain solutions to support '
+                        'wireless systems in the United States. The company '
+                        'offers base station infrastructure products, '
+                        'including base station antennas, cable and '
+                        'transmission lines, small towers, lightning '
+                        'protection devices, connectors, power systems, '
+                        'enclosures, grounding products, jumpers, '
+                        'miscellaneous hardware products, and mobile antennas '
+                        'to build, repair, and upgrade wireless broadband '
+                        'systems, as well as connector installation, custom '
+                        'jumper assembly, site kitting, and logistics '
+                        'integration services. It also provides network '
+                        'systems products, such as fixed and mobile broadband '
+                        'radio equipment, wireless networking filtering and '
+                        'distributed antenna systems, two-way radios, and '
+                        'security and surveillance products, as well as '
+                        'training classes, technical support, and engineering '
+                        'design services. In addition, the company offers '
+                        'installation, test, and maintenance products '
+                        'comprising analysis equipment; and various frequency, '
+                        'voltage, and power-measuring devices, as well as '
+                        'tools, hardware, GPS and safety products, and '
+                        'replacement and component parts and supplies to '
+                        'install, tune, and maintain wireless communications '
+                        'equipment. Further, it provides mobile devices, such '
+                        'as cellular and smart phones; and data device '
+                        'accessories, including power supplies, cases, screen '
+                        'protectors, speakers, mobile amplifiers, bluetooth '
+                        'and corded headsets, mounts, car antennas, music '
+                        'accessories, and data and memory cards. The company '
+                        'sells its products to carrier and public network '
+                        'operators, tower owners, program managers, '
+                        'contractors and integrators, private system '
+                        'operators, federal governments, state and local '
+                        'governments, manufacturers, value-added resellers, '
+                        'retail carrier stores and their independent agents, '
+                        'and other retailers under the Ventev brand. TESSCO '
+                        'Technologies Incorporated was founded in 1982 and is '
+                        'headquartered in Hunt Valley, Maryland.',
+ 'longName': 'TESSCO Technologies Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 51504532,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_94354',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585440000,
+ 'navPrice': None,
+ 'netIncomeToCommon': -21568900,
+ 'nextFiscalYearEnd': 1648512000,
+ 'open': 6.05,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': -0.39,
+ 'phone': '410 229 1000',
+ 'previousClose': 6.24,
+ 'priceHint': 2,
+ 'priceToBook': 0.6107809,
+ 'priceToSalesTrailing12Months': 0.0953261,
+ 'profitMargins': -0.039920002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.206,
+ 'regularMarketDayLow': 5.95,
+ 'regularMarketOpen': 6.05,
+ 'regularMarketPreviousClose': 6.24,
+ 'regularMarketPrice': 6.05,
+ 'regularMarketVolume': 20514,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 8641700,
+ 'sharesPercentSharesOut': 0.0254,
+ 'sharesShort': 219365,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 294151,
+ 'shortName': 'TESSCO Technologies Incorporate',
+ 'shortPercentOfFloat': 0.0398,
+ 'shortRatio': 1.41,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'TESS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.42,
+ 'trailingAnnualDividendYield': 0.067307696,
+ 'trailingEps': -2.53,
+ 'twoHundredDayAverage': 6.1543164,
+ 'volume': 20514,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.tessco.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '21031'}

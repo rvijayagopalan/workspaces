@@ -1,0 +1,155 @@
+{'52WeekChange': 0.6,
+ 'SandP52WeekChange': None,
+ 'address1': '10000 Alliance Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 5.96,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 114400,
+ 'averageVolume': 180874,
+ 'averageVolume10days': 114400,
+ 'beta': 2.161344,
+ 'beta3Year': None,
+ 'bid': 5.87,
+ 'bidSize': 800,
+ 'bookValue': 4.767,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cincinnati',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.06,
+ 'dayLow': 5.91,
+ 'dividendRate': 0.2,
+ 'dividendYield': 0.033299997,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 12.05,
+ 'enterpriseToRevenue': 0.538,
+ 'enterpriseValue': 174058688,
+ 'exDividendDate': 1588291200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 6.1934285,
+ 'fiftyTwoWeekHigh': 7.3,
+ 'fiftyTwoWeekLow': 2.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.07,
+ 'floatShares': 23908662,
+ 'forwardEps': 0.2,
+ 'forwardPE': 29.55,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.11218,
+ 'heldPercentInstitutions': 0.64357,
+ 'industry': 'Electronic Components',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1069027200,
+ 'lastSplitFactor': '5:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/lsi-industries.com',
+ 'longBusinessSummary': 'LSI Industries Inc. provides corporate visual image '
+                        'solutions in the United States, Canada, Mexico, '
+                        'Australia, and Latin America. It operates through '
+                        'Lighting and Graphics segments. The Lighting segment '
+                        'manufactures and markets outdoor and indoor lighting '
+                        'and lighting controls for the commercial, industrial, '
+                        'and multi-site retail markets, including the '
+                        'petroleum/convenience store, quick-service, and '
+                        'automotive markets. It primarily offers exterior '
+                        'area, interior, canopy, and landscape lightings, as '
+                        'well as light poles and photometric layouts; lighting '
+                        'system design services; and solid-state LED '
+                        'solutions. This segment also designs, engineers, and '
+                        'manufactures electronic circuit boards, assemblies, '
+                        'and sub-assemblies for the manufacturing of LED light '
+                        'fixtures. The Graphics segment manufactures and sells '
+                        'exterior and interior visual image elements used in '
+                        'graphics displays and visual image programs in '
+                        'various markets that include the '
+                        'petroleum/convenience store market, quick-service '
+                        'restaurant, grocery, and multi-site retail '
+                        'operations. Its products comprise signage and canopy '
+                        'graphics, pump dispenser graphics, building fascia '
+                        'graphics, electrical signage, decals, interior '
+                        'signage and marketing graphics, aisle markers, wall '
+                        'mural graphics, fleet graphics, video boards, menu '
+                        'boards, and digital signage and media content '
+                        'management products. This segment also provides '
+                        'installation management services for the installation '
+                        'of interior or exterior products. LSI Industries Inc. '
+                        'was founded in 1976 and is headquartered in '
+                        'Cincinnati, Ohio.',
+ 'longName': 'LSI Industries Inc.',
+ 'market': 'us_market',
+ 'marketCap': 154800032,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_283721',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 8941000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 5.95,
+ 'openInterest': None,
+ 'payoutRatio': 0.5882,
+ 'pegRatio': 3,
+ 'phone': '513-793-3200',
+ 'previousClose': 6,
+ 'priceHint': 2,
+ 'priceToBook': 1.2397734,
+ 'priceToSalesTrailing12Months': 0.4783537,
+ 'profitMargins': 0.02763,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.06,
+ 'regularMarketDayLow': 5.91,
+ 'regularMarketOpen': 5.95,
+ 'regularMarketPreviousClose': 6,
+ 'regularMarketPrice': 5.95,
+ 'regularMarketVolume': 93334,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 26192900,
+ 'sharesPercentSharesOut': 0.0346,
+ 'sharesShort': 905999,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 285397,
+ 'shortName': 'LSI Industries Inc.',
+ 'shortPercentOfFloat': 0.0357,
+ 'shortRatio': 3.32,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'LYTS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.2,
+ 'trailingAnnualDividendYield': 0.033333335,
+ 'trailingEps': 0.34,
+ 'trailingPE': 17.382353,
+ 'twoHundredDayAverage': 5.7654676,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '95fb74f1-0f40-38fa-8b7f-57face20df4f',
+ 'volume': 93334,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.lsi-industries.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '45242'}

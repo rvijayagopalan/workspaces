@@ -1,0 +1,153 @@
+{'52WeekChange': -0.40714812,
+ 'SandP52WeekChange': None,
+ 'address1': '1770 Promontory Circle',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 15.99,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 924962,
+ 'averageVolume': 1309314,
+ 'averageVolume10days': 924962,
+ 'beta': 0.959663,
+ 'beta3Year': None,
+ 'bid': 15.83,
+ 'bidSize': 4000,
+ 'bookValue': 9.936,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Greeley',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 16.16,
+ 'dayLow': 15.725,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.199,
+ 'enterpriseToEbitda': 6.766,
+ 'enterpriseToRevenue': 0.539,
+ 'enterpriseValue': 6334927872,
+ 'exDividendDate': 1462492800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 17.186857,
+ 'fiftyTwoWeekHigh': 33.67,
+ 'fiftyTwoWeekLow': 15.55,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 50235829,
+ 'forwardEps': 1.88,
+ 'forwardPE': 8.417553,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 53300,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.79691005,
+ 'heldPercentInstitutions': 0.21583,
+ 'industry': 'Packaged Foods',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577577600,
+ 'lastMarket': None,
+ 'lastSplitDate': 933552000,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pilgrims.com',
+ 'longBusinessSummary': "Pilgrim's Pride Corporation produces, processes, "
+                        'markets, and distributes fresh, frozen, and '
+                        'value-added chicken and pork products in the United '
+                        'States, the United Kingdom, Mexico, France, Puerto '
+                        'Rico, the Netherlands, rest of Europe, the Middle '
+                        'East, Asia, and internationally. The company offers '
+                        'fresh chicken and pork products, including '
+                        'pre-marinated or non-marinated refrigerated '
+                        '(nonfrozen) whole or cut-up chickens; frozen whole '
+                        'chickens; breast fillets; pork cuts; added value pork '
+                        'and pork ribs; mini breast fillets; and prepackaged '
+                        'case-ready chickens, such as whole chickens and '
+                        'chicken parts. It also provides prepared chicken '
+                        'products comprising portion-controlled breast '
+                        'fillets, tenderloins and strips, delicatessen '
+                        'products, salads, formed nuggets and patties, and '
+                        'bone-in chicken parts. The company offers its '
+                        "products under the Pilgrim's, Just BARE, Gold'n Pump, "
+                        'Gold Kist, County Pride Chicken, Pierce Chicken, '
+                        "Pilgrim's Mexico, County Post, Savoro, To-Ricos, Del "
+                        "Dia, Moy Park, and O'Kane brands. Pilgrim's Pride "
+                        'Corporation sells its products to the foodservice '
+                        'market that includes chain restaurants, food '
+                        'processors, broad-line distributors, and other '
+                        'institutions; and retail market, which comprises '
+                        'primarily grocery store chains, wholesale clubs, and '
+                        'other retail distributors. The company was founded in '
+                        '1946 and is headquartered in Greeley, Colorado. '
+                        "Pilgrim's Pride Corporation is a subsidiary of JBS "
+                        'S.A.',
+ 'longName': "Pilgrim's Pride Corporation",
+ 'market': 'us_market',
+ 'marketCap': 3904628736,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_296917',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585440000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 439180992,
+ 'nextFiscalYearEnd': 1640736000,
+ 'open': 16.05,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.5,
+ 'phone': '970 506 8000',
+ 'previousClose': 16.09,
+ 'priceHint': 2,
+ 'priceToBook': 1.5926932,
+ 'priceToSalesTrailing12Months': 0.33204117,
+ 'profitMargins': 0.03735,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 16.16,
+ 'regularMarketDayLow': 15.725,
+ 'regularMarketOpen': 16.05,
+ 'regularMarketPreviousClose': 16.09,
+ 'regularMarketPrice': 16.05,
+ 'regularMarketVolume': 557115,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 246738000,
+ 'sharesPercentSharesOut': 0.0089,
+ 'sharesShort': 2198753,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2930562,
+ 'shortName': "Pilgrim's Pride Corporation",
+ 'shortPercentOfFloat': 0.0434,
+ 'shortRatio': 1.19,
+ 'startDate': None,
+ 'state': 'CO',
+ 'strikePrice': None,
+ 'symbol': 'PPC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.76,
+ 'trailingPE': 8.991477,
+ 'twoHundredDayAverage': 21.011942,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e854a621-7ff1-3494-93ff-a5353f124c64',
+ 'volume': 557115,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pilgrims.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '80634-9038'}

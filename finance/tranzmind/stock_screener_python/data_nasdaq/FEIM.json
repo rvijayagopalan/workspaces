@@ -1,0 +1,151 @@
+{'52WeekChange': -0.13886541,
+ 'SandP52WeekChange': None,
+ 'address1': '55 Charles Lindbergh Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 10.35,
+ 'askSize': 3000,
+ 'averageDailyVolume10Day': 10275,
+ 'averageVolume': 15017,
+ 'averageVolume10days': 10275,
+ 'beta': 0.574229,
+ 'beta3Year': None,
+ 'bid': 8,
+ 'bidSize': 1000,
+ 'bookValue': 5.952,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Mitchel Field',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 10.18,
+ 'dayLow': 10.03,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -11.098,
+ 'enterpriseToRevenue': 2.161,
+ 'enterpriseValue': 89713160,
+ 'exDividendDate': 1355961600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '516-794-4340',
+ 'fiftyDayAverage': 9.229143,
+ 'fiftyTwoWeekHigh': 12.19,
+ 'fiftyTwoWeekLow': 5.95,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 5556204,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.25346002,
+ 'heldPercentInstitutions': 0.64552003,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1588204800,
+ 'lastMarket': None,
+ 'lastSplitDate': 881020800,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/freqelec.com',
+ 'longBusinessSummary': 'Frequency Electronics, Inc. designs, develops, '
+                        'manufactures, and sells precision time and frequency '
+                        'control products and components for microwave '
+                        'integrated circuit applications. It operates through '
+                        'two segments, FEI-NY and FEI-Zyfer. The FEI-NY '
+                        'segment offers precision time, frequency generation, '
+                        'and synchronization products and subsystems used in '
+                        'communication satellites, terrestrial cellular '
+                        'telephone, or other ground-based telecommunication '
+                        'stations; and other components and systems for the '
+                        'United States military. The FEI-Zyfer segment '
+                        'designs, develops, and manufactures products for '
+                        'precision navigation and timing primarily '
+                        'incorporating global positioning system technologies '
+                        'into radar systems, airborne SIGINT/COMINT platforms, '
+                        'information networks, test equipment, military '
+                        'command and control terminals, and satellite ground '
+                        "stations. The company's products are used in "
+                        'commercial, government satellite payload systems, '
+                        'secure communications, command, control, '
+                        'communication, computer, intelligence, security and '
+                        'reconnaissance, counter measures, and electronic '
+                        'warfare applications for the United States government '
+                        'on land, sea, and air-borne platforms. It markets its '
+                        'products directly and through independent sales '
+                        'representative organizations located in the United '
+                        'States, Europe, and Asia. Frequency Electronics, Inc. '
+                        'was founded in 1961 and is headquartered in Mitchel '
+                        'Field, New York.',
+ 'longName': 'Frequency Electronics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 91348824,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_273673',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -9990000,
+ 'nextFiscalYearEnd': 1651276800,
+ 'open': 10.1,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '516-794-4500',
+ 'previousClose': 10.17,
+ 'priceHint': 2,
+ 'priceToBook': 1.6851478,
+ 'priceToSalesTrailing12Months': 2.2008052,
+ 'profitMargins': -0.24068001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 10.18,
+ 'regularMarketDayLow': 10.03,
+ 'regularMarketOpen': 10.1,
+ 'regularMarketPreviousClose': 10.17,
+ 'regularMarketPrice': 10.1,
+ 'regularMarketVolume': 2455,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 9107560,
+ 'sharesPercentSharesOut': 0.00059999997,
+ 'sharesShort': 5614,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 12220,
+ 'shortName': 'Frequency Electronics, Inc.',
+ 'shortPercentOfFloat': 0.001,
+ 'shortRatio': 0.7,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'FEIM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.101,
+ 'twoHundredDayAverage': 9.088705,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'c4e54802-e345-31ad-a18a-c486eb0bb523',
+ 'volume': 2455,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://freqelec.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '11553'}

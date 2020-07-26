@@ -1,0 +1,157 @@
+{'52WeekChange': 1.1060605,
+ 'SandP52WeekChange': None,
+ 'address1': '9605 Scranton Road',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 2539737,
+ 'averageVolume': 4298212,
+ 'averageVolume10days': 2539737,
+ 'beta': 1.767507,
+ 'beta3Year': None,
+ 'bid': 10.88,
+ 'bidSize': 1100,
+ 'bookValue': 0.29,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Diego',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 10.965,
+ 'dayLow': 10.53,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -118.004,
+ 'enterpriseToRevenue': 4.857,
+ 'enterpriseValue': 1106401792,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.85,
+ 'fiftyTwoWeekHigh': 15.15,
+ 'fiftyTwoWeekLow': 3.61,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 73611144,
+ 'forwardEps': 0.31,
+ 'forwardPE': 34.870968,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 938,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00629,
+ 'heldPercentInstitutions': 0.45816,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/inseego.com',
+ 'longBusinessSummary': 'Inseego Corp. engages in the design and development '
+                        'of mobile, Internet of Things (IoT), and cloud '
+                        'solutions for large enterprise verticals, service '
+                        'providers, and small and medium-sized businesses '
+                        'worldwide. The company provides wireless 3G, 4G, and '
+                        '5G hardware products for vertical markets, including '
+                        'private LTE/5G networks, First responders network '
+                        'authority/Firstnet, SD-WAN, telematics, remote '
+                        'monitoring and surveillance, and fixed wireless '
+                        'access and mobile broadband devices. Its products '
+                        'include 4G and 5G fixed wireless routers and '
+                        'gateways, and mobile hotspots, and wireless gateways '
+                        'and routers for IIoT applications, Gb speed 4G LTE '
+                        'hotspots and USB modems, integrated telematics, and '
+                        'mobile tracking hardware devices, which are supported '
+                        'by applications software and cloud services designed '
+                        'to enable customers to analyze data insights and '
+                        'configure/manage their hardware remotely. The company '
+                        'also sells software-as-a-service (SaaS), software, '
+                        'and services solutions in various mobile and '
+                        'industrial IoT vertical markets comprising fleet '
+                        'management, vehicle telematics, aviation telematics, '
+                        'usage-based insurance, stolen vehicle recovery, asset '
+                        'tracking, monitoring, business connectivity, and '
+                        'subscription management. Its SaaS delivery platforms '
+                        'include Ctrack platforms, which provide fleet, '
+                        'vehicle, aviation, asset, and other telematics '
+                        'applications; and Device Management Solutions, a '
+                        'hosted SaaS platform that helps organizations in '
+                        'managing the selection, deployment, and spend of '
+                        'their wireless assets by helping them to save money '
+                        'on personnel and telecom expenses. Inseego Corp. was '
+                        'founded in 1996 and is headquartered in San Diego, '
+                        'California.',
+ 'longName': 'Inseego Corp.',
+ 'market': 'us_market',
+ 'marketCap': 1048768960,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_32261',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -51591000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 10.9,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -18.53,
+ 'phone': '858 812 3400',
+ 'previousClose': 11.12,
+ 'priceHint': 2,
+ 'priceToBook': 37.275864,
+ 'priceToSalesTrailing12Months': 4.6043067,
+ 'profitMargins': -0.22319001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 10.965,
+ 'regularMarketDayLow': 10.53,
+ 'regularMarketOpen': 10.9,
+ 'regularMarketPreviousClose': 11.12,
+ 'regularMarketPrice': 10.9,
+ 'regularMarketVolume': 2485078,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 97018400,
+ 'sharesPercentSharesOut': 0.2756,
+ 'sharesShort': 26740598,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 24969080,
+ 'shortName': 'Inseego Corp.',
+ 'shortPercentOfFloat': 0.4587,
+ 'shortRatio': 6.81,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'INSG',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.626,
+ 'twoHundredDayAverage': 9.222446,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'a94dcc89-48a1-3dad-8b60-5d2c23afc6c6',
+ 'volume': 2485078,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.inseego.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92121'}

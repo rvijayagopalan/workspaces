@@ -1,0 +1,153 @@
+{'52WeekChange': 0.7529975,
+ 'SandP52WeekChange': None,
+ 'address1': '5555 NE Moore Court',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 29.58,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 1358775,
+ 'averageVolume': 1498503,
+ 'averageVolume10days': 1358775,
+ 'beta': 1.254901,
+ 'beta3Year': None,
+ 'bid': 29.57,
+ 'bidSize': 800,
+ 'bookValue': 2.55,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Hillsboro',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 30.02,
+ 'dayLow': 28.105,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.102,
+ 'enterpriseToEbitda': 42.941,
+ 'enterpriseToRevenue': 9.86,
+ 'enterpriseValue': 3976816128,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 28.588572,
+ 'fiftyTwoWeekHigh': 31.33,
+ 'fiftyTwoWeekLow': 13.54,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 133548730,
+ 'forwardEps': 0.75,
+ 'forwardPE': 39.493336,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 747,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01158,
+ 'heldPercentInstitutions': 1.04744,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 971308800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/latticesemi.com',
+ 'longBusinessSummary': 'Lattice Semiconductor Corporation, together with its '
+                        'subsidiaries, develops and sells semiconductor '
+                        'technologies in Asia, Europe, and the Americas. The '
+                        'company offers field programmable gate arrays that '
+                        'consist of five product family lines, including the '
+                        'ECP, MachXO, iCE40, and CrossLink, as well as power '
+                        'and thermal management products; and development kits '
+                        'and boards. It also provides video connectivity '
+                        'application specific standard products, such as port '
+                        'processors, port controllers, video processors, '
+                        'transmitters, receivers, bridges, and converters for '
+                        'use in mobile devices, set-top-boxes, UHD TVs, home '
+                        'theater systems, PCs, projectors, and monitors; and '
+                        'various software tools, such as Lattice Diamond '
+                        'design software, radiant software, iCEcube2 design '
+                        'software, ispLEVER classic software, neural network '
+                        'compiler, LatticeMico system development tools, '
+                        'PAC-designer, programmer and deployment tools, and '
+                        'ORCAstra, a PC-based graphical user interface. In '
+                        'addition, the company licenses its technology '
+                        'portfolio through standard IP and IP core licensing, '
+                        'patent monetization, and IP services. It sells its '
+                        'products directly to end customers, and indirectly '
+                        "through a network of independent manufacturers' "
+                        'representatives and independent distributors. The '
+                        'company primarily serves original equipment '
+                        'manufacturers in the communications and computing, '
+                        'consumer, and industrial and automotive end markets. '
+                        'Lattice Semiconductor Corporation was founded in 1983 '
+                        'and is headquartered in Hillsboro, Oregon.',
+ 'longName': 'Lattice Semiconductor Corporation',
+ 'market': 'us_market',
+ 'marketCap': 3987533568,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_284137',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 44252000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 28.72,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.25,
+ 'phone': '503 268 8000',
+ 'previousClose': 29.24,
+ 'priceHint': 2,
+ 'priceToBook': 11.615686,
+ 'priceToSalesTrailing12Months': 9.886823,
+ 'profitMargins': 0.10972,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 30.02,
+ 'regularMarketDayLow': 28.105,
+ 'regularMarketOpen': 28.72,
+ 'regularMarketPreviousClose': 29.24,
+ 'regularMarketPrice': 28.72,
+ 'regularMarketVolume': 1991102,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 134424992,
+ 'sharesPercentSharesOut': 0.0801,
+ 'sharesShort': 10778044,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 9744087,
+ 'shortName': 'Lattice Semiconductor Corporati',
+ 'shortPercentOfFloat': 0.092,
+ 'shortRatio': 6.97,
+ 'startDate': None,
+ 'state': 'OR',
+ 'strikePrice': None,
+ 'symbol': 'LSCC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.329,
+ 'trailingPE': 90.030396,
+ 'twoHundredDayAverage': 22.25777,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '265a31a8-f210-37fd-a285-4558465aac34',
+ 'volume': 1991102,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.latticesemi.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '97124-6421'}

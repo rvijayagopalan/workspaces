@@ -1,0 +1,160 @@
+{'52WeekChange': 0.5349301,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '26462 Corporate Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.06,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 244425,
+ 'averageVolume': 502331,
+ 'averageVolume10days': 244425,
+ 'beta': 1.695798,
+ 'beta3Year': None,
+ 'bid': 23.06,
+ 'bidSize': 800,
+ 'bookValue': 11.175,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Hayward',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.84,
+ 'dayLow': 22.91,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 14.667,
+ 'enterpriseToEbitda': 10.643,
+ 'enterpriseToRevenue': 0.979,
+ 'enterpriseValue': 1103693056,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 22.907143,
+ 'fiftyTwoWeekHigh': 30,
+ 'fiftyTwoWeekLow': 11.2,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 38803548,
+ 'forwardEps': 1.93,
+ 'forwardPE': 11.953368,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3940,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.032509997,
+ 'heldPercentInstitutions': 0.95533997,
+ 'industry': 'Semiconductor Equipment & Materials',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577404800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/uct.com',
+ 'longBusinessSummary': 'Ultra Clean Holdings, Inc. designs, develops, '
+                        'prototypes, engineers, manufactures, and tests '
+                        'production tools, modules, and subsystems for the '
+                        'semiconductor and display capital equipment '
+                        'industries in the United States and internationally. '
+                        'The company provides subsystems, such as wafer '
+                        'cleaning modules; chemical delivery modules that '
+                        'deliver gases and reactive chemicals in a liquid or '
+                        'gaseous form from a centralized subsystem to the '
+                        'reaction chamber; frame assemblies, a support '
+                        'structures fabricated from steel tubing or folded '
+                        'sheet metal; process modules, a subsystems of '
+                        'semiconductor manufacturing tools that process '
+                        'integrated circuits onto wafers; and top-plate '
+                        'assemblies. It also offers various industrial and '
+                        'automation production equipment products; gas '
+                        'delivery systems, which include one or more gas '
+                        'lines, such as weldments, filters, mass flow '
+                        'controllers, regulators, pressure transducers and '
+                        'valves, component heaters, and an integrated '
+                        'electronic and/or pneumatic control system; fluid '
+                        'delivery systems consists of one or more chemical '
+                        'delivery units, including PFA tubing, filters, flow '
+                        'controllers, regulators, component heaters, and an '
+                        'integrated electronic and/or pneumatic control '
+                        'system; precision robotic systems that are used when '
+                        'accurate controlled motion is required; and other '
+                        'high level assemblies. In addition, the company '
+                        'provides tool chamber parts cleaning and coating '
+                        'services; micro-contamination analysis services for '
+                        'tool parts, wafers and depositions, chemicals, '
+                        'cleanroom materials, deionized water, and airborne '
+                        'molecular contamination; and analytical verification '
+                        'services for process tool chamber part cleaning. It '
+                        'primarily serves original equipment manufacturing '
+                        'customers in the semiconductor capital equipment and '
+                        'semiconductor integrated device manufacturing '
+                        'industries, as well as display, consumer, medical, '
+                        'energy, industrial, and research equipment '
+                        'industries. The company was founded in 1991 and is '
+                        'headquartered in Hayward, California.',
+ 'longName': 'Ultra Clean Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 920492992,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3720301',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585267200,
+ 'navPrice': None,
+ 'netIncomeToCommon': -600000,
+ 'nextFiscalYearEnd': 1640563200,
+ 'open': 23.84,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.69,
+ 'phone': '510 576 4400',
+ 'previousClose': 24.19,
+ 'priceHint': 2,
+ 'priceToBook': 2.0644295,
+ 'priceToSalesTrailing12Months': 0.81676394,
+ 'profitMargins': -0.00053,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.84,
+ 'regularMarketDayLow': 22.91,
+ 'regularMarketOpen': 23.84,
+ 'regularMarketPreviousClose': 24.19,
+ 'regularMarketPrice': 23.84,
+ 'regularMarketVolume': 265680,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 39900000,
+ 'sharesPercentSharesOut': 0.0744,
+ 'sharesShort': 2970360,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2878685,
+ 'shortName': 'Ultra Clean Holdings, Inc.',
+ 'shortPercentOfFloat': 0.0896,
+ 'shortRatio': 5.43,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'UCTT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.023,
+ 'twoHundredDayAverage': 20.467985,
+ 'volume': 265680,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.uct.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94545'}

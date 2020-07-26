@@ -1,0 +1,157 @@
+{'52WeekChange': -0.13063067,
+ 'SandP52WeekChange': None,
+ 'address1': '27601 Bella Vista Parkway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 0.9799,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 144125,
+ 'averageVolume': 1342250,
+ 'averageVolume10days': 144125,
+ 'beta': 1.836974,
+ 'beta3Year': None,
+ 'bid': 0.9315,
+ 'bidSize': 1200,
+ 'bookValue': 0.952,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Warrenville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1,
+ 'dayLow': 0.9304,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -1.877,
+ 'enterpriseToRevenue': 0.665,
+ 'enterpriseValue': 16023797,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '630 845 4501',
+ 'fiftyDayAverage': 0.88857144,
+ 'fiftyTwoWeekHigh': 1.49,
+ 'fiftyTwoWeekLow': 0.3,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 17076714,
+ 'forwardEps': 0.1,
+ 'forwardPE': 9.315,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 82,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.29459,
+ 'heldPercentInstitutions': 0.2587,
+ 'industry': 'Pollution & Treatment Controls',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ftek.com',
+ 'longBusinessSummary': 'Fuel Tech, Inc. provides boiler optimization, '
+                        'efficiency improvement, and air pollution reduction '
+                        'and control solutions to utility and industrial '
+                        'customers worldwide. It operates through Air '
+                        'Pollution Control Technology and FUEL CHEM Technology '
+                        'segments. The Air Pollution Control Technology '
+                        'segment offers technologies to reduce nitrogen oxide '
+                        '(NOx) emissions in flue gas from boilers, '
+                        'incinerators, furnaces, and other stationary '
+                        'combustion sources, which includes low and ultra-low '
+                        'NOx burners; over-fire air systems; NOxOUT and HERT '
+                        'selective non-catalytic reduction systems; advanced '
+                        'selective catalytic reduction systems comprising '
+                        'ULNB, OFA, and SNCR components, as well as downsized '
+                        'SCR catalyst, Ammonia Injection Grid, and Graduated '
+                        'Straightening Grid systems; NOxOUT CASCADE and '
+                        'NOxOUT-SCR processes; ULTRA technology; and flue gas '
+                        'conditioning systems. The FUEL CHEM Technology '
+                        'segment provides programs to improve the efficiency, '
+                        'reliability, fuel flexibility, boiler heat rate, and '
+                        'environmental status of combustion units by '
+                        'controlling slagging, fouling, corrosion, opacity, '
+                        'and acid plume, as well as the formation of sulfur '
+                        'trioxide, ammonium bisulfate, particulate matter, '
+                        'sulfur dioxide, and carbon dioxide through the '
+                        'addition of chemicals into the furnace using TIFI '
+                        'targeted in-furnace injection technology. This '
+                        'segment offers its FUEL CHEM program for plants '
+                        'operating in the electric utility, industrial, pulp '
+                        'and paper, waste-to-energy, university, and district '
+                        'heating markets, as well as to the owners of boilers, '
+                        'furnaces, and other combustion units. The company was '
+                        'founded in 1987 and is headquartered in Warrenville, '
+                        'Illinois.',
+ 'longName': 'Fuel Tech, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 22948808,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_407290',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -9139000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 1,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.44,
+ 'phone': '630 845 4500',
+ 'previousClose': 0.965,
+ 'priceHint': 4,
+ 'priceToBook': 0.9784664,
+ 'priceToSalesTrailing12Months': 0.95262796,
+ 'profitMargins': -0.379,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1,
+ 'regularMarketDayLow': 0.9304,
+ 'regularMarketOpen': 1,
+ 'regularMarketPreviousClose': 0.965,
+ 'regularMarketPrice': 1,
+ 'regularMarketVolume': 80527,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 24636400,
+ 'sharesPercentSharesOut': 0.0022,
+ 'sharesShort': 53964,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 496886,
+ 'shortName': 'Fuel Tech, Inc.',
+ 'shortPercentOfFloat': 0.0029,
+ 'shortRatio': 0.09,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'FTEK',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.376,
+ 'twoHundredDayAverage': 0.75395685,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '67270eea-e17a-3c42-8736-3053703ad296',
+ 'volume': 80527,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ftek.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60555-1617'}

@@ -1,0 +1,161 @@
+{'52WeekChange': -0.19713658,
+ 'SandP52WeekChange': None,
+ 'address1': '2 North Broadway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 20.65,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 15162,
+ 'averageVolume': 26020,
+ 'averageVolume10days': 15162,
+ 'beta': 0.834173,
+ 'beta3Year': None,
+ 'bid': 14.45,
+ 'bidSize': 800,
+ 'bookValue': 18.268,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lebanon',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.81,
+ 'dayLow': 14.44,
+ 'dividendRate': 0.72,
+ 'dividendYield': 0.0494,
+ 'earningsQuarterlyGrowth': 0.07,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.74,
+ 'enterpriseValue': 186008320,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '513-933-5262',
+ 'fiftyDayAverage': 14.781428,
+ 'fiftyTwoWeekHigh': 19.5,
+ 'fiftyTwoWeekLow': 10.03,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.68,
+ 'floatShares': 11409431,
+ 'forwardEps': 1.55,
+ 'forwardPE': 9.316129,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 332,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.065560006,
+ 'heldPercentInstitutions': 0.37283,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1178841600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/lcnb.com',
+ 'longBusinessSummary': 'LCNB Corp. operates as the financial holding company '
+                        'for LCNB National Bank that provides commercial and '
+                        "personal banking services in Ohio. The company's "
+                        'deposit products include checking, NOW, savings, '
+                        'Christmas and vacation club, money market deposit, '
+                        'lifetime checking, and individual retirement '
+                        'accounts, as well as certificates of deposit. Its '
+                        'loan portfolio comprises commercial and industrial, '
+                        'commercial and residential real estate, agricultural, '
+                        'construction, small business administration, and '
+                        'residential mortgage loans. The company also offers '
+                        'consumer loans, such as automobile, recreational '
+                        'vehicles, boat, home improvement, and personal loans. '
+                        'In addition, it provides trust administration, estate '
+                        'settlement, and fiduciary services; and investment '
+                        'management services for trusts, agency accounts, '
+                        'individual retirement accounts, and '
+                        'foundations/endowments. Further, the company offers '
+                        'investment services and products, including financial '
+                        'needs analysis, mutual funds, securities trading, '
+                        'annuities, and life insurance; and security brokerage '
+                        'services. Additionally, it provides safe deposit '
+                        "boxes, night depositories, cashier's checks, "
+                        'bank-by-mail, ATMs, cash and transaction services, '
+                        'debit cards, wire transfers, electronic funds '
+                        'transfer, utility bill collections, notary public '
+                        'service, personal computer-based cash management '
+                        'services, telephone banking, PC Internet banking, '
+                        'mobile banking, and other services for individuals '
+                        'and businesses. As of December 31, 2019, the company '
+                        'operated 35 offices, including a main office in '
+                        'Warren County; branch offices in Warren, Butler, '
+                        'Clinton, Clermont, Fayette, Franklin, Hamilton, '
+                        'Montgomery, Preble, and Ross Counties; and an '
+                        'operations center in Warren County, Ohio, as well as '
+                        '38 ATMs. LCNB Corp. was founded in 1877 and is '
+                        'headquartered in Lebanon, Ohio.',
+ 'longName': 'LCNB Corp.',
+ 'market': 'us_market',
+ 'marketCap': 187371984,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_415866',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 19609000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.58,
+ 'openInterest': None,
+ 'payoutRatio': 0.4702,
+ 'pegRatio': 7.19,
+ 'phone': '513-932-1414',
+ 'previousClose': 14.58,
+ 'priceHint': 2,
+ 'priceToBook': 0.79045326,
+ 'priceToSalesTrailing12Months': 2.7598944,
+ 'profitMargins': 0.28929,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.81,
+ 'regularMarketDayLow': 14.44,
+ 'regularMarketOpen': 14.58,
+ 'regularMarketPreviousClose': 14.58,
+ 'regularMarketPrice': 14.58,
+ 'regularMarketVolume': 7883,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 12969800,
+ 'sharesPercentSharesOut': 0.0111,
+ 'sharesShort': 144560,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 86932,
+ 'shortName': 'LCNB Corporation',
+ 'shortPercentOfFloat': 0.012,
+ 'shortRatio': 4.47,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'LCNB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.71,
+ 'trailingAnnualDividendYield': 0.048696842,
+ 'trailingEps': 1.51,
+ 'trailingPE': 9.562914,
+ 'twoHundredDayAverage': 14.935468,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '14eb14c1-70a2-35fd-81d4-a7f47feb08b8',
+ 'volume': 7883,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.lcnb.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '45036'}

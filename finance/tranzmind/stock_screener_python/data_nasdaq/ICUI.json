@@ -1,0 +1,162 @@
+{'52WeekChange': -0.24123788,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '951 Calle Amanecer',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 192.77,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 72712,
+ 'averageVolume': 161793,
+ 'averageVolume10days': 72712,
+ 'beta': 0.535014,
+ 'beta3Year': None,
+ 'bid': 157.07,
+ 'bidSize': 900,
+ 'bookValue': 66.069,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Clemente',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 193.57,
+ 'dayLow': 189.03,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.457,
+ 'enterpriseToEbitda': 16.408,
+ 'enterpriseToRevenue': 2.984,
+ 'enterpriseValue': 3771915520,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '949 366 8368',
+ 'fiftyDayAverage': 184.58543,
+ 'fiftyTwoWeekHigh': 259.72,
+ 'fiftyTwoWeekLow': 148.89,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 19365386,
+ 'forwardEps': 7.46,
+ 'forwardPE': 25.79893,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 8000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.07103,
+ 'heldPercentInstitutions': 0.96422,
+ 'industry': 'Medical Instruments & Supplies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1016409600,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/icumed.com',
+ 'longBusinessSummary': 'ICU Medical, Inc., together with its subsidiaries, '
+                        'develops, manufactures, and sells medical devices '
+                        'used in vascular therapy and critical care '
+                        "applications worldwide. The company's infusion "
+                        'therapy products include needlefree connector '
+                        'products under the MicroClave, MicroClave Clear, and '
+                        'NanoClave brands; Neutron catheter patency '
+                        'connectors; SwabCap disinfecting caps; Tego '
+                        'hemodialysis connectors; NovaCath and SuperCath '
+                        'peripheral intravenous (IV) catheters; ClearGuard HD, '
+                        'an antimicrobial barrier cap for hemodialysis '
+                        'catheters; and ChemoLock and ChemoClave closed system '
+                        'transfer devices, as well as Diana hazardous drug '
+                        'compounding system for the preparation of hazardous '
+                        'drugs. It also provides IV therapy and diluents, '
+                        'including sodium chloride, dextrose, balanced '
+                        "electrolyte solutions, lactated ringer's, ringer's, "
+                        'mannitol, sodium chloride/dextrose, and sterile '
+                        'water; and irrigation, such as sodium chloride '
+                        'irrigation, sterile water irrigation, physiologic '
+                        "solutions, ringer's irrigation, acetic acid "
+                        'irrigation, glycine irrigation, sorbitol-mannitol '
+                        'irrigation, flexible containers, and pour bottle '
+                        'options. In addition, the company offers infusion '
+                        'pumps under the Plum 360 and LifeCare PCA brands; '
+                        'Cogent 2-in-1 and CardioFlo hemodynamic monitoring '
+                        'systems; TDQ and OptiQ cardiac output monitoring '
+                        'catheters; TriOx venous oximetry catheters; Transpac '
+                        'blood pressure transducers; and SafeSet closed blood '
+                        'sampling and conservation systems. Further, it '
+                        'provides ICU Medical Mednet, an enterprise medication '
+                        'management platform that connects smart pumps to '
+                        "hospital's electronic health records, asset tracking "
+                        'systems, and alarm notification platforms, as well as '
+                        'related professional services. The company sells its '
+                        'products to acute care hospitals, wholesalers, '
+                        'ambulatory clinics, and alternate site facilities, '
+                        'such as clinics, home health care providers, and '
+                        'long-term care facilities. ICU Medical, Inc. was '
+                        'founded in 1984 and is headquartered in San Clemente, '
+                        'California.',
+ 'longName': 'ICU Medical, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4009403904,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_317440',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 86871000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 193.57,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.96,
+ 'phone': '949 366 2183',
+ 'previousClose': 193.5,
+ 'priceHint': 2,
+ 'priceToBook': 2.9130154,
+ 'priceToSalesTrailing12Months': 3.1722903,
+ 'profitMargins': 0.068730004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 193.57,
+ 'regularMarketDayLow': 189.03,
+ 'regularMarketOpen': 193.57,
+ 'regularMarketPreviousClose': 193.5,
+ 'regularMarketPrice': 193.57,
+ 'regularMarketVolume': 49544,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 20832400,
+ 'sharesPercentSharesOut': 0.0148,
+ 'sharesShort': 308257,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 318092,
+ 'shortName': 'ICU Medical, Inc.',
+ 'shortPercentOfFloat': 0.0221,
+ 'shortRatio': 1.67,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'ICUI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 4.03,
+ 'trailingPE': 47.756824,
+ 'twoHundredDayAverage': 194.7795,
+ 'volume': 49544,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.icumed.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92673'}

@@ -1,0 +1,156 @@
+{'52WeekChange': -0.11453837,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1 Finsbury Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 43.28,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 621975,
+ 'averageVolume': 992560,
+ 'averageVolume10days': 621975,
+ 'beta': 1.233082,
+ 'beta3Year': None,
+ 'bid': 43.09,
+ 'bidSize': 1200,
+ 'bookValue': 3.696,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'London',
+ 'companyOfficers': [],
+ 'country': 'United Kingdom',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 43.12,
+ 'dayLow': 41.47,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 72.799,
+ 'enterpriseToRevenue': 6.481,
+ 'enterpriseValue': 2767236608,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 42.813572,
+ 'fiftyTwoWeekHigh': 54.4,
+ 'fiftyTwoWeekLow': 25.14,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 54080201,
+ 'forwardEps': 0.83,
+ 'forwardPE': 51.87952,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.09513,
+ 'heldPercentInstitutions': 0.79296994,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/mimecast.com',
+ 'longBusinessSummary': 'Mimecast Limited provides cloud security and risk '
+                        'management services for corporate information and '
+                        'email. The company offers Mimecast Email Security '
+                        'solution, which protects against the delivery of '
+                        'malware, malicious URLs and attachments, spam, '
+                        'viruses, impersonation attacks, phishing, and '
+                        'spear-phishing attacks, including business email '
+                        'compromise, identity theft, extortion, fraud, and '
+                        'other attacks, while also preventing data leaks and '
+                        'other internal threats, as well as provides awareness '
+                        'training services. It also provides Cyber Resilience '
+                        'Extensions, including Mimecast Enterprise Information '
+                        'Archiving that unifies email data to support '
+                        'e-discovery, forensic analysis, and compliance '
+                        'initiatives; Mimecast Mailbox Continuity, which '
+                        'protects email and data against the threat of '
+                        'downtime as a result of system failure, natural '
+                        'disasters, planned maintenance, system upgrades, and '
+                        'migrations; and Mimecast Web Security service that '
+                        'protects against malicious web activity initiated by '
+                        'user action or malware and blocks access to '
+                        'inappropriate websites based on acceptable use '
+                        "policies. In addition, the company's Cyber Resilience "
+                        'Extensions also comprise Mimecast Secure Messaging, a '
+                        'secure and private channel to share sensitive '
+                        'information; Mimecast Privacy Pack, which prevents '
+                        'breaches and protects against data exfiltration '
+                        'transmissions; and Large File Send that enables '
+                        'employees to create security and compliance risks '
+                        'when they turn to file sharing services. Further, it '
+                        'provides Threat Intelligence Dashboard, which '
+                        'displays cyber threat data specific to an '
+                        'organization by identifying users who pose the '
+                        'greatest cyber risk; and Mimecast Mobile and Desktop '
+                        'Apps for mobile, PC, and Mac users. The company sells '
+                        'its services through direct sales and channel '
+                        'partners. Mimecast Limited was founded in 2003 and is '
+                        'headquartered in London, the United Kingdom.',
+ 'longName': 'Mimecast Limited',
+ 'market': 'us_market',
+ 'marketCap': 2711281664,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_50985792',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -2200000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 42.76,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.67,
+ 'phone': '44 78 1996 5340',
+ 'previousClose': 43.1,
+ 'priceHint': 2,
+ 'priceToBook': 11.650433,
+ 'priceToSalesTrailing12Months': 6.350156,
+ 'profitMargins': -0.0051499996,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 43.12,
+ 'regularMarketDayLow': 41.47,
+ 'regularMarketOpen': 42.76,
+ 'regularMarketPreviousClose': 43.1,
+ 'regularMarketPrice': 42.76,
+ 'regularMarketVolume': 722992,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 62791700,
+ 'sharesPercentSharesOut': 0.052800003,
+ 'sharesShort': 3326815,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1115304,
+ 'shortName': 'Mimecast Limited',
+ 'shortPercentOfFloat': 0.059,
+ 'shortRatio': 2.63,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'MIME',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.035,
+ 'twoHundredDayAverage': 41.340755,
+ 'volume': 722992,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.mimecast.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'EC2M 2PF'}

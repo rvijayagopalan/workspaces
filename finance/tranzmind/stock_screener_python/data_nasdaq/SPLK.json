@@ -1,0 +1,160 @@
+{'52WeekChange': 0.44385767,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '270 Brannan Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 200.22,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 972662,
+ 'averageVolume': 1907793,
+ 'averageVolume10days': 972662,
+ 'beta': 1.621848,
+ 'beta3Year': None,
+ 'bid': 196.56,
+ 'bidSize': 1100,
+ 'bookValue': 11.395,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Francisco',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 202.05,
+ 'dayLow': 197.19,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -96.613,
+ 'enterpriseToRevenue': 13.558,
+ 'enterpriseValue': 32106473472,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '415 568 4259',
+ 'fiftyDayAverage': 194.59914,
+ 'fiftyTwoWeekHigh': 213.26,
+ 'fiftyTwoWeekLow': 93.92,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 157834718,
+ 'forwardEps': 0.99,
+ 'forwardPE': 201.58586,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00543,
+ 'heldPercentInstitutions': 0.95402,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/splunk.com',
+ 'longBusinessSummary': 'Splunk Inc. develops and markets software solutions '
+                        'that enable organizations to gain real-time '
+                        'operational intelligence in the United States and '
+                        'internationally. The company offers Splunk '
+                        'Enterprise, a real-time data platform, which include '
+                        'collection, indexing, search, reporting, analysis, '
+                        'alerting, monitoring, and data management '
+                        'capabilities; and Splunk Cloud, a cloud service for '
+                        'machine data. It also provides Splunk Enterprise '
+                        'Security that addresses security threats and '
+                        'information, and event management use cases; '
+                        'SignalFx, which provide real-time observability and '
+                        'troubleshooting for cloud infrastructure and '
+                        'applications; Splunk IT Service Intelligence that '
+                        'monitors health and key performance indicators of '
+                        'critical IT and business services; Splunk Phantom '
+                        'that automates and orchestrates incident response '
+                        'workflows; VictorOps for collaboration and IT issue '
+                        'resolution; Splunk Data Stream Processor, which '
+                        'collects, process, and distribute data with real-time '
+                        'stream processing; and Splunk Data Fabric Search that '
+                        'enables highly complex and high-performance searches '
+                        'of massive datasets. In addition, the company '
+                        'provides Splunk App for Amazon Web Services that '
+                        'collects and analyzes data from amazon web services '
+                        'data sources; Cisco Firepower App for Splunk that '
+                        'Incorporates advanced visualizations and '
+                        'investigative capabilities for Cisco Firepower and '
+                        'Firepower Management Console; Splunk Machine Learning '
+                        'Toolkit, which Includes custom visualizations and '
+                        'guided workflows; Splunk Connected Experiences that '
+                        'provides access to data, alerts, and actions on '
+                        'mobile and connected devices; and Splunk apps and '
+                        'add-ons. Further, the company offers application '
+                        'programming interfaces and software development kits; '
+                        'and maintenance and customer support, training, and '
+                        'consulting and implementation services, as well as '
+                        'operates Splunkbase and Splunk Answers Websites. '
+                        'Splunk Inc. was incorporated in 2003 and is '
+                        'headquartered in San Francisco, California.',
+ 'longName': 'Splunk Inc.',
+ 'market': 'us_market',
+ 'marketCap': 31705485312,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_13289149',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -486817984,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 199.89,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -51.5,
+ 'phone': '415 848 8400',
+ 'previousClose': 201.93,
+ 'priceHint': 2,
+ 'priceToBook': 17.513823,
+ 'priceToSalesTrailing12Months': 13.388275,
+ 'profitMargins': -0.20557,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 202.05,
+ 'regularMarketDayLow': 197.19,
+ 'regularMarketOpen': 199.89,
+ 'regularMarketPreviousClose': 201.93,
+ 'regularMarketPrice': 199.89,
+ 'regularMarketVolume': 790535,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 158868992,
+ 'sharesPercentSharesOut': 0.0494,
+ 'sharesShort': 7853492,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 8098918,
+ 'shortName': 'Splunk Inc.',
+ 'shortPercentOfFloat': 0.059499998,
+ 'shortRatio': 4.15,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'SPLK',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -3.16,
+ 'twoHundredDayAverage': 158.72856,
+ 'volume': 790535,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.splunk.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94107'}

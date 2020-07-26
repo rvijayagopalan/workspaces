@@ -1,0 +1,152 @@
+{'52WeekChange': 0.7243674,
+ 'SandP52WeekChange': None,
+ 'address1': '210 Sylvan Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.1,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 7525,
+ 'averageVolume': 14071,
+ 'averageVolume10days': 7525,
+ 'beta': 0.764145,
+ 'beta3Year': None,
+ 'bid': 10.87,
+ 'bidSize': 1000,
+ 'bookValue': 13.706,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Englewood Cliffs',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.97,
+ 'dayLow': 12.94,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 9.859,
+ 'enterpriseToRevenue': 3.774,
+ 'enterpriseValue': 76556880,
+ 'exDividendDate': 1519862400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 12.22,
+ 'fiftyTwoWeekHigh': 12.97,
+ 'fiftyTwoWeekLow': 6.51,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 1876082,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 56,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.62143004,
+ 'heldPercentInstitutions': 0.17368999,
+ 'industry': 'Credit Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1080086400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/astafunding.com',
+ 'longBusinessSummary': 'Asta Funding, Inc., together with its subsidiaries, '
+                        'primarily engages in the consumer receivables '
+                        'business in the United States, Puerto Rico, and South '
+                        'America. It operates through three segments: Consumer '
+                        'Receivables, Personal Injury Claims, and Social '
+                        'Security Disability Advocacy. The Consumer '
+                        'Receivables segment is involved in purchasing, '
+                        'managing, and servicing distressed consumer '
+                        'receivables, including judgment receivables, which '
+                        'are accounts where outside attorneys secure judgments '
+                        'directly against the consumer; charged-off '
+                        'receivables consisting of accounts that have been '
+                        'written-off by the originators and might have been '
+                        'previously serviced by collection agencies; and '
+                        'semi-performing receivables that are accounts where '
+                        'the debtor is currently making partial or irregular '
+                        'monthly payments, but the accounts might have been '
+                        'written-off by the originators. Its distressed '
+                        'consumer receivables include MasterCard, Visa, and '
+                        'other credit card accounts, which were charged-off by '
+                        'the issuers or providers for non-payment. The '
+                        'Personal Injury Claims segment funds personal injury '
+                        'settlement claims. The Social Security Disability '
+                        'Advocacy segment represents individuals in their '
+                        'claims for social security disability and '
+                        'supplemental security income benefits from the social '
+                        'security administration. Asta Funding, Inc. was '
+                        'founded in 1994 and is headquartered in Englewood '
+                        'Cliffs, New Jersey.',
+ 'longName': 'Asta Funding, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 85085328,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_349220',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 5100000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 12.95,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '201-567-5648',
+ 'previousClose': 12.95,
+ 'priceHint': 2,
+ 'priceToBook': 0.94520646,
+ 'priceToSalesTrailing12Months': 4.1947017,
+ 'profitMargins': 0.25143,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.97,
+ 'regularMarketDayLow': 12.94,
+ 'regularMarketOpen': 12.95,
+ 'regularMarketPreviousClose': 12.95,
+ 'regularMarketPrice': 12.95,
+ 'regularMarketVolume': 1291,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 6567760,
+ 'sharesPercentSharesOut': 0.00059999997,
+ 'sharesShort': 4215,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4135,
+ 'shortName': 'Asta Funding, Inc.',
+ 'shortPercentOfFloat': 0.0021,
+ 'shortRatio': 0.2,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'ASFI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.77,
+ 'trailingPE': 16.824677,
+ 'twoHundredDayAverage': 10.792158,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b8885a2f-bb78-3ea1-b4ed-8d11d5df040c',
+ 'volume': 1291,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.astafunding.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07632'}

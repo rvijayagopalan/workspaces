@@ -1,0 +1,159 @@
+{'52WeekChange': 0.7550268,
+ 'SandP52WeekChange': None,
+ 'address1': 'No.30 Science Park Road',
+ 'address2': 'Zhong-Guan-Cun Life Science Park Changping District',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 241,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 392375,
+ 'averageVolume': 280257,
+ 'averageVolume10days': 392375,
+ 'beta': 1.295871,
+ 'beta3Year': None,
+ 'bid': 224.44,
+ 'bidSize': 1200,
+ 'bookValue': 36.272,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Beijing',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 226.33,
+ 'dayLow': 217.343,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -12.616,
+ 'enterpriseToRevenue': 35.642,
+ 'enterpriseValue': 14343569408,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 198.97,
+ 'fiftyTwoWeekHigh': 256.01,
+ 'fiftyTwoWeekLow': 114.41,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 37782159,
+ 'forwardEps': -13.8,
+ 'forwardPE': -16.263767,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3600,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.2053,
+ 'heldPercentInstitutions': 0.65331,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/beigene.com',
+ 'longBusinessSummary': 'BeiGene, Ltd., a commercial-stage biotechnology '
+                        'company, develops and commercializes '
+                        'molecularly-targeted and immuno-oncology cancer '
+                        "therapeutics in the People's Republic of China, the "
+                        'United States, and internationally. Its commercial '
+                        'products include BRUKINSA to treat R/R mantle cell '
+                        'lymphoma; Tislelizumab to treat R/R classical '
+                        "Hodgkin's lymphoma; ABRAXANE to treat breast cancer; "
+                        'REVLIMID to treat multiple myeloma; VIDAZA to treat '
+                        'myelodysplastic syndromes, chronic myelomonocyte '
+                        'leukemia, and acute myeloid leukemia; XGEVA to treat '
+                        'giant cell tumor of bone; KYPROLIS to treat multiple '
+                        'myeloma; BLINCYTO to treat acute lymphocytic '
+                        'leukemia; SYLVANT to treat idiopathic multicentric '
+                        'castleman disease; and QARZIBA to treat '
+                        "neuroblastoma. The company's clinical stage drug "
+                        'candidates comprise Zanubrutinib, a BTK inhibitor to '
+                        'treat various lymphomas; Tislelizumab, an anti-PD-1 '
+                        'antibody to treat various solid and hematological '
+                        'cancers; Pamiparib, an inhibitor of PARP1 and PARP2 '
+                        'to treat various solid tumors; Lifirafenib and '
+                        'BGB-3245 to treat various malignancies, such as '
+                        'melanoma, NSCLC, and endometrial cancer; and '
+                        'Sitravatinib, a multi-kinase inhibitor to treat '
+                        'NSCLC, melanoma, and other solid tumor. In addition, '
+                        'its clinical stage drug candidates include BGB-A333, '
+                        'a PD-L1 inhibitor to treat various solid tumors; '
+                        'BGB-A1217, a TIGIT inhibitor to treat various solid '
+                        'tumors; BGB-11417, a small molecule Bcl-2 inhibitor '
+                        'to treat mature B-cell malignancies; and BGB-A445, an '
+                        'OX40 agonist antibody to treat solid tumors. The '
+                        'company has collaborations with Celgene Corporation; '
+                        'Merck KGaA; Mirati Therapeutics, Inc.; BioAtla, LLC; '
+                        'Zymeworks, Inc.; Ambrx, Inc.; Atreca Inc.; IGM '
+                        'Biosciences, Inc.; and Hutchison China MediTech '
+                        'Limited. BeiGene, Ltd. was founded in 2010 and is '
+                        "based in Beijing, the People's Republic of China.",
+ 'longName': 'BeiGene, Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 20751722496,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_115205344',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -1144722944,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 226.06,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.57,
+ 'phone': '86 10 5895 8000',
+ 'previousClose': 233.05,
+ 'priceHint': 2,
+ 'priceToBook': 6.187693,
+ 'priceToSalesTrailing12Months': 51.565014,
+ 'profitMargins': -2.84447,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 226.33,
+ 'regularMarketDayLow': 217.343,
+ 'regularMarketOpen': 226.06,
+ 'regularMarketPreviousClose': 233.05,
+ 'regularMarketPrice': 226.06,
+ 'regularMarketVolume': 231105,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 89493504,
+ 'sharesPercentSharesOut': 0.035,
+ 'sharesShort': 2639011,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2868261,
+ 'shortName': 'BeiGene, Ltd.',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 13.48,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'BGNE',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -17.751,
+ 'twoHundredDayAverage': 166.91573,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'fa34b256-867c-3115-a0ac-dc5f85107a4b',
+ 'volume': 231105,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.beigene.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '102206'}

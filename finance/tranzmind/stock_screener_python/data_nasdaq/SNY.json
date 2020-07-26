@@ -1,0 +1,159 @@
+{'52WeekChange': 0.18870568,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '54, Rue La Boetie',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 52.8,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 849037,
+ 'averageVolume': 1442649,
+ 'averageVolume10days': 849037,
+ 'beta': 0.49186,
+ 'beta3Year': None,
+ 'bid': 50.51,
+ 'bidSize': 1100,
+ 'bookValue': 26.249,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Paris',
+ 'companyOfficers': [],
+ 'country': 'France',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 51.78,
+ 'dayLow': 51.09,
+ 'dividendRate': 1.7,
+ 'dividendYield': 0.0326,
+ 'earningsQuarterlyGrowth': 0.48,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 127973220352,
+ 'exDividendDate': 1588204800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 51.616856,
+ 'fiftyTwoWeekHigh': 55,
+ 'fiftyTwoWeekLow': 37.62,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.89,
+ 'floatShares': 2225082822,
+ 'forwardEps': 3.7,
+ 'forwardPE': 13.824325,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 100409,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 1.0000001e-05,
+ 'heldPercentInstitutions': 0.08091,
+ 'industry': 'Drug Manufacturers—General',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sanofi.com',
+ 'longBusinessSummary': 'Sanofi provides therapeutic solutions worldwide. It '
+                        'offers Cerezyme and Cerdelga for Gaucher, Myozyme and '
+                        'Lumizyme for Pompe, Fabrazyme for Fabry, and '
+                        'Aldurazyme for mucopolysaccharidosis Type 1; and '
+                        'Aubagio and Lemtrada for multiple sclerosis. It also '
+                        'provides Dupixent for atopic dermatitis; Kevzara for '
+                        'rheumatoid arthritis; Eloctate and Alprolix to treat '
+                        'hemophilia; and Cablivi to treat acquired thrombotic '
+                        'thrombocytopenic purpura. In addition, it offers '
+                        'Libtayo for metastatic cutaneous squamous cell '
+                        'carcinoma; Jevtana and Taxotere taxane for cancers; '
+                        'Eloxatin for colon cancer; Thymoglobulin, an '
+                        'immunosuppressive and immunomodulating agent; Mozobil '
+                        'for hematologic malignancies; and Zaltrap for '
+                        'metastatic colorectal cancer. Further, it provides '
+                        'Lantus, Toujeo, Apidra, and Insuman insulins; Amaryl '
+                        'sulfonylurea; Adlyxin/Lyxumia, a GLP-1 receptor '
+                        'agonist; Soliqua 100/33/Suliqua, an insulin glargine '
+                        'and lixisenatide combination to treat diabetes; '
+                        'Admelog/Insulin lispro insulin; Praluent, a '
+                        'cholesterol-lowering drug; and Multaq, an '
+                        'anti-arrhythmic drug for atrial fibrillation. '
+                        'Additionally, it offers Plavix for atherothrombotic '
+                        'conditions; Lovenox for the prophylaxis, venous '
+                        'thromboembolism, and acute coronary syndrome; Aprovel '
+                        'and CoAprovel anti-hypertensives; Renagel and Renvela '
+                        'for patients undergoing dialysis; Synvisc and '
+                        'Synvisc-One viscosupplements for osteoarthritis; '
+                        'Stilnox for insomnia; Allegra for seasonal allergic '
+                        'rhinitis and uncomplicated hives; and Depakine for '
+                        'epilepsy. It also provides generic products; and '
+                        'products for allergy, cough, cold, pain, nutrition, '
+                        'digestion, pediatrics, influenza, meningitis, travel, '
+                        'and endemic vaccines; and adult and adolescent '
+                        'boosters. Sanofi has collaborations with Verily Life '
+                        'Sciences LLC; Happify Health; GlaxoSmithKline Plc; '
+                        'and Kymera Therapeutics. The company was formerly '
+                        'known as Sanofi-Aventis and changed its name to '
+                        'Sanofi in May 2011. Sanofi was incorporated in 1994 '
+                        'and is headquartered in Paris, France.',
+ 'longName': 'Sanofi',
+ 'market': 'us_market',
+ 'marketCap': 129589035008,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_687130',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 51.77,
+ 'openInterest': None,
+ 'payoutRatio': 1.1332,
+ 'pegRatio': 1.71,
+ 'phone': '33 1 53 77 40 00',
+ 'previousClose': 52.13,
+ 'priceHint': 2,
+ 'priceToBook': 1.9486457,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.08767,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 51.78,
+ 'regularMarketDayLow': 51.09,
+ 'regularMarketOpen': 51.77,
+ 'regularMarketPreviousClose': 52.13,
+ 'regularMarketPrice': 51.77,
+ 'regularMarketVolume': 1467722,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 2507190016,
+ 'sharesPercentSharesOut': 0.0015,
+ 'sharesShort': 3116238,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1588490,
+ 'shortName': 'Sanofi',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 2.17,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'SNY',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 3.53,
+ 'trailingAnnualDividendYield': 0.067715324,
+ 'trailingEps': 1.94,
+ 'trailingPE': 26.36598,
+ 'twoHundredDayAverage': 48.63784,
+ 'volume': 1467722,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sanofi.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75008'}

@@ -1,0 +1,150 @@
+{'52WeekChange': -0.54875004,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '4510 Cox Road',
+ 'address2': 'Suite 201',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 7.75,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 13950,
+ 'averageVolume': 49371,
+ 'averageVolume10days': 13950,
+ 'beta': 0.410644,
+ 'beta3Year': None,
+ 'bid': 7.14,
+ 'bidSize': 800,
+ 'bookValue': 11.546,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Richmond',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 7.26,
+ 'dayLow': 7.1,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 20.321,
+ 'enterpriseToRevenue': 0.603,
+ 'enterpriseValue': 177934048,
+ 'exDividendDate': 1543449600,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '804 822 3270',
+ 'fiftyDayAverage': 7.9017143,
+ 'fiftyTwoWeekHigh': 17.17,
+ 'fiftyTwoWeekLow': 6.51,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 5862726,
+ 'forwardEps': 0.36,
+ 'forwardPE': 20.055553,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 606,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.15689999,
+ 'heldPercentInstitutions': 0.59713,
+ 'industry': 'Steel',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 803001600,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/synalloy.com',
+ 'longBusinessSummary': 'Synalloy Corporation manufactures and sells metals '
+                        'and specialty chemicals in the United States and '
+                        "internationally. The company's Metals segment offers "
+                        'stainless steel, galvanized, and other alloy pipes '
+                        'and tubes under the BRISMET trade name; liquid '
+                        'storage solutions and separation equipment; and '
+                        'ornamental stainless steel tubes under the ASTI trade '
+                        'name, as well as distributes seamless carbon pipes '
+                        'and tubes. It serves oil and gas, chemical, '
+                        'petrochemical, pulp and paper, mining, power '
+                        'generation, water and waste water treatment, liquid '
+                        'natural gas, brewery, food processing, petroleum, '
+                        'pharmaceutical, automotive and commercial '
+                        'transportation, appliance, architectural, and other '
+                        "heavy industries. The company's Specialty Chemicals "
+                        'segment produces lubricants, surfactants, defoamers, '
+                        'reaction intermediaries, and sulfated fats and oils '
+                        'for the chemical, paper, metals, mining, '
+                        'agricultural, fiber, paint, textile, automotive, '
+                        'petroleum, cosmetics, mattress, furniture, '
+                        'janitorial, and other industries. It also provides '
+                        'chemical tolling manufacturing resources to chemical '
+                        'companies; and contracts with other chemical '
+                        'companies to manufacture pre-defined products. The '
+                        'company was formerly known as Blackman Uhler '
+                        'Industries, Inc. and changed its name to Synalloy '
+                        'Corporation in July 1967. Synalloy Corporation was '
+                        'founded in 1945 and is headquartered in Richmond, '
+                        'Virginia.',
+ 'longName': 'Synalloy Corporation',
+ 'market': 'us_market',
+ 'marketCap': 65399048,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_306302',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -3287000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 7.1,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '804 822 3260',
+ 'previousClose': 7.25,
+ 'priceHint': 2,
+ 'priceToBook': 0.6253248,
+ 'priceToSalesTrailing12Months': 0.22164586,
+ 'profitMargins': -0.01114,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 7.26,
+ 'regularMarketDayLow': 7.1,
+ 'regularMarketOpen': 7.1,
+ 'regularMarketPreviousClose': 7.25,
+ 'regularMarketPrice': 7.1,
+ 'regularMarketVolume': 1181,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Basic Materials',
+ 'sharesOutstanding': 9058040,
+ 'sharesPercentSharesOut': 0.023599999,
+ 'sharesShort': 213520,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 250283,
+ 'shortName': 'Synalloy Corporation',
+ 'shortPercentOfFloat': 0.037100002,
+ 'shortRatio': 2.21,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'SYNL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0,
+ 'trailingAnnualDividendYield': 0,
+ 'trailingEps': -0.37,
+ 'twoHundredDayAverage': 9.9461155,
+ 'volume': 1181,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.synalloy.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '23060'}

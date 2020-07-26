@@ -1,0 +1,153 @@
+{'52WeekChange': -0.20799136,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1500 West University Parkway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 36.57,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 59875,
+ 'averageVolume': 178609,
+ 'averageVolume10days': 59875,
+ 'beta': 1.212324,
+ 'beta3Year': None,
+ 'bid': 36.56,
+ 'bidSize': 900,
+ 'bookValue': 17.434,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Sarasota',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 37.13,
+ 'dayLow': 36.52,
+ 'dividendRate': 0.36,
+ 'dividendYield': 0.0097,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 11.661,
+ 'enterpriseToRevenue': 2.726,
+ 'enterpriseValue': 1464424576,
+ 'exDividendDate': 1593561600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '941 355 4497',
+ 'fiftyDayAverage': 36.271713,
+ 'fiftyTwoWeekHigh': 49.49,
+ 'fiftyTwoWeekLow': 29.03,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.91,
+ 'floatShares': 29463599,
+ 'forwardEps': 2.14,
+ 'forwardPE': 17.135511,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1960,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.09269,
+ 'heldPercentInstitutions': 0.87768996,
+ 'industry': 'Specialty Industrial Machinery',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 1310947200,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/heliostechnologies.com',
+ 'longBusinessSummary': 'Helios Technologies, Inc. develops, manufactures, and '
+                        'sells solutions for the hydraulics and electronics '
+                        'markets in the Americas, Europe, the Middle East, '
+                        'Africa, and the Asia Pacific. The company operates in '
+                        'two segments, Hydraulics and Electronics. The '
+                        'Hydraulics segment offers cartridge valve technology '
+                        'products to control rates and direction of fluid '
+                        'flow, and to regulate and control pressures for '
+                        'industrial and mobile applications; quick release '
+                        'hydraulic coupling solutions for the agriculture, '
+                        'construction equipment, and industrial markets; and '
+                        'hydraulic system design that provides engineered '
+                        'solutions for machine users, manufacturers, or '
+                        'designers. This segment sells its products under the '
+                        'Sun Hydraulics, Faster, and Custom Fluidpower brands. '
+                        'The Electronics segment offers displays, controls, '
+                        'and instrumentation products for off-highway, '
+                        'recreational and commercial marine, power sports and '
+                        'specialty vehicles, agriculture and water pumping, '
+                        'power generation, and engine-driven industrial '
+                        'equipment markets. This segment sells its products '
+                        'under the Enovation Controls and Murphy brands. '
+                        'Helios Technologies, Inc. sells its hydraulic '
+                        'products primarily through value-add distributors and '
+                        'integrators, as well as directly to original '
+                        'equipment manufacturer customers; and electronic '
+                        'products to original equipment manufacturer '
+                        'customers. The company was formerly known as Sun '
+                        'Hydraulics Corporation and changed its name to Helios '
+                        'Technologies, Inc. in June 2019. Helios Technologies, '
+                        'Inc. was founded in 1970 and is headquartered in '
+                        'Sarasota, Florida.',
+ 'longName': 'Helios Technologies, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1176424832,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_354502',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 26641000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 37.05,
+ 'openInterest': None,
+ 'payoutRatio': 0.4337,
+ 'pegRatio': 10.23,
+ 'phone': '941 362 1200',
+ 'previousClose': 37.19,
+ 'priceHint': 2,
+ 'priceToBook': 2.1033611,
+ 'priceToSalesTrailing12Months': 2.1895242,
+ 'profitMargins': 0.04958,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 37.13,
+ 'regularMarketDayLow': 36.52,
+ 'regularMarketOpen': 37.05,
+ 'regularMarketPreviousClose': 37.19,
+ 'regularMarketPrice': 37.05,
+ 'regularMarketVolume': 43922,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 32081400,
+ 'sharesPercentSharesOut': 0.0201,
+ 'sharesShort': 644747,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 542914,
+ 'shortName': 'Helios Technologies, Inc.',
+ 'shortPercentOfFloat': 0.0298,
+ 'shortRatio': 3.74,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'HLIO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.36,
+ 'trailingAnnualDividendYield': 0.0096800225,
+ 'trailingEps': 1.966,
+ 'trailingPE': 18.652084,
+ 'twoHundredDayAverage': 37.81072,
+ 'volume': 43922,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.heliostechnologies.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '34243'}

@@ -1,0 +1,156 @@
+{'52WeekChange': -0.28181046,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '590 Madison Avenue',
+ 'address2': '15th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 8.46,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 161500,
+ 'averageVolume': 247373,
+ 'averageVolume10days': 161500,
+ 'beta': 1.823529,
+ 'beta3Year': None,
+ 'bid': 8.35,
+ 'bidSize': 1100,
+ 'bookValue': 12.118,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 8.52,
+ 'dayLow': 8.38,
+ 'dividendRate': 1.14,
+ 'dividendYield': 0.1346,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 10.57,
+ 'enterpriseValue': 1032959744,
+ 'exDividendDate': 1594771200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '212-905-1075',
+ 'fiftyDayAverage': 8.479428,
+ 'fiftyTwoWeekHigh': 12.67,
+ 'fiftyTwoWeekLow': 3.34,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 9.04,
+ 'floatShares': None,
+ 'forwardEps': 1.14,
+ 'forwardPE': 7.377193,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01559,
+ 'heldPercentInstitutions': 0.37258998,
+ 'industry': 'Asset Management',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pennantpark.com',
+ 'longBusinessSummary': 'PennantPark Floating Rate Capital Ltd. is a business '
+                        'development company. It seeks to make secondary '
+                        'direct, debt, equity, and loan investments. The fund '
+                        'seeks to invest through floating rate loans in '
+                        'private or thinly traded or small market-cap, public '
+                        'middle market companies. It primarily invests in the '
+                        'United States and to a limited extent non-U.S. '
+                        'companies. The fund typically invests between $2 '
+                        'million and $20 million. The fund also invests in '
+                        'equity securities, such as preferred stock, common '
+                        'stock, warrants or options received in connection '
+                        'with debt investments or through direct investments. '
+                        'It primarily invests between $10 million and $50 '
+                        'million in investments in senior secured loans and '
+                        'mezzanine debt. It seeks to invest in companies not '
+                        'rated by national rating agencies. The companies if '
+                        'rated would be between BB and CCC under the Standard '
+                        "& Poor's system. The fund invests 30% is invested in "
+                        'non-qualifying assets like investments in public '
+                        'companies whose securities are not thinly traded or '
+                        'do not have a market capitalization of less than $250 '
+                        'million, securities of middle-market companies '
+                        'located outside of the United States, high-yield '
+                        'bonds, distressed debt, private equity, securities of '
+                        'public companies that are not thinly traded, and '
+                        'investment companies as defined in the 1940 Act. '
+                        'Under normal conditions, the fund expects atleast 80 '
+                        'percent of its net assets plus any borrowings for '
+                        'investment purposes to be invested in Floating Rate '
+                        'Loans and investments with similar economic '
+                        'characteristics, including cash equivalents invested '
+                        'in money market funds. It expects to represent 65 '
+                        'percent of its portfolio through senior secured '
+                        'loans. In case of floating rate loans, it holds '
+                        'investments for a period of three to ten years.',
+ 'longName': 'PennantPark Floating Rate Capital Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 326073344,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_129679481',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 764481,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 8.48,
+ 'openInterest': None,
+ 'payoutRatio': 114,
+ 'pegRatio': None,
+ 'phone': '212-905-1000',
+ 'previousClose': 8.47,
+ 'priceHint': 2,
+ 'priceToBook': 0.6940089,
+ 'priceToSalesTrailing12Months': 3.33672,
+ 'profitMargins': 0.00782,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 8.52,
+ 'regularMarketDayLow': 8.38,
+ 'regularMarketOpen': 8.48,
+ 'regularMarketPreviousClose': 8.47,
+ 'regularMarketPrice': 8.48,
+ 'regularMarketVolume': 111759,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 38772100,
+ 'sharesPercentSharesOut': 0.0047,
+ 'sharesShort': 182653,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 297215,
+ 'shortName': 'PennantPark Floating Rate Capit',
+ 'shortPercentOfFloat': 0.0047999998,
+ 'shortRatio': 0.77,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'PFLT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.14,
+ 'trailingAnnualDividendYield': 0.13459267,
+ 'trailingEps': 0.02,
+ 'trailingPE': 420.5,
+ 'twoHundredDayAverage': 8.754604,
+ 'volume': 111759,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pennantpark.com/pflt/about/index.php',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10022'}

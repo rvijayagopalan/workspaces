@@ -1,0 +1,161 @@
+{'52WeekChange': 0.3378831,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '145 Broadway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 111.57,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1306337,
+ 'averageVolume': 2090919,
+ 'averageVolume10days': 1306337,
+ 'beta': 0.338375,
+ 'beta3Year': None,
+ 'bid': 110.01,
+ 'bidSize': 800,
+ 'bookValue': 22.643,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 112.838,
+ 'dayLow': 110.31,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.149,
+ 'enterpriseToEbitda': 22.437,
+ 'enterpriseToRevenue': 6.625,
+ 'enterpriseValue': 19554469888,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '617-444-3001',
+ 'fiftyDayAverage': 107.06086,
+ 'fiftyTwoWeekHigh': 116.39,
+ 'fiftyTwoWeekLow': 75.18,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 158620051,
+ 'forwardEps': 5.35,
+ 'forwardPE': 20.88598,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7742,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0247,
+ 'heldPercentInstitutions': 0.92941004,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/akamai.com',
+ 'longBusinessSummary': 'Akamai Technologies, Inc. provides cloud services for '
+                        'delivering, optimizing, and securing content and '
+                        'business applications over the Internet in the United '
+                        'States and internationally. It provides Web '
+                        'Application Protector to safeguard web assets from '
+                        'web application and distributed denial of service; '
+                        'Kona Site Defender, a cloud security solution; Bot '
+                        'Manager to identify bots and categorize bots based on '
+                        'business or IT impact; Edge DNS, which translates '
+                        'human-readable domain names into numerical IP '
+                        'addresses; Site Shield that prevents attacker from '
+                        'directly targeting the application origin and forces '
+                        'traffic to go through its network, where attack can '
+                        'be better detected and mitigated; identity Cloud, a '
+                        'customer identity access management solution; '
+                        'Prolexic Routed to protect web- and IP-based '
+                        'application; and Client Reputation that assigns risk '
+                        'scores to malicious IP address and enables customers '
+                        'to take action on individual clients. It also offers '
+                        'Enterprise Application Access that enables adaptive '
+                        'access to application; Enterprise Threat Protector to '
+                        'enable enterprise security teams to identify, block, '
+                        'and mitigate targeted attack; Ion, a suite of '
+                        'intelligent performance optimization tool and '
+                        'control; Dynamic Site Accelerator to accelerate and '
+                        'secure interactive website; Image Manager that '
+                        'automatically optimizes online images; CloudTest to '
+                        'conduct load testing and other analysis of website in '
+                        'a pre-production environment; and mPulse that '
+                        'provides real-time website performance data for '
+                        'customers to enhance their digital experiences. In '
+                        'addition, the company provides Aura Managed CDN, DNS '
+                        'Infrastructure, and security and personalization '
+                        'service; and adaptive delivery, download delivery, '
+                        'media service live, and media analytic solutions, as '
+                        'well as NetStorage, a cloud storage solution. It '
+                        'sells its solutions through direct sales and service '
+                        'organizations; and various channel partners. The '
+                        'company was founded in 1998 and is headquartered in '
+                        'Cambridge, Massachusetts.',
+ 'longName': 'Akamai Technologies, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 18132496384,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_24522',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 494051008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 111.4,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.03,
+ 'phone': '617-444-3000',
+ 'previousClose': 112.69,
+ 'priceHint': 2,
+ 'priceToBook': 4.9348583,
+ 'priceToSalesTrailing12Months': 6.1436706,
+ 'profitMargins': 0.16739,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 112.838,
+ 'regularMarketDayLow': 110.31,
+ 'regularMarketOpen': 111.4,
+ 'regularMarketPreviousClose': 112.69,
+ 'regularMarketPrice': 111.4,
+ 'regularMarketVolume': 998130,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 162274000,
+ 'sharesPercentSharesOut': 0.0535,
+ 'sharesShort': 8687670,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5749692,
+ 'shortName': 'Akamai Technologies, Inc.',
+ 'shortPercentOfFloat': 0.0612,
+ 'shortRatio': 4.45,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'AKAM',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3,
+ 'trailingPE': 37.246666,
+ 'twoHundredDayAverage': 98.77511,
+ 'volume': 998130,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.akamai.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02142'}

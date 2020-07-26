@@ -1,0 +1,164 @@
+{'52WeekChange': -0.2823891,
+ 'SandP52WeekChange': None,
+ 'address1': '331 Treble Cove Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 15.83,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 592887,
+ 'averageVolume': 656101,
+ 'averageVolume10days': 592887,
+ 'beta': 1.240336,
+ 'beta3Year': None,
+ 'bid': 15.8,
+ 'bidSize': 1800,
+ 'bookValue': 2.979,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'North Billerica',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 16.47,
+ 'dayLow': 15.56,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.665,
+ 'enterpriseToEbitda': 11.385,
+ 'enterpriseToRevenue': 2.062,
+ 'enterpriseValue': 725000960,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 14.549,
+ 'fiftyTwoWeekHigh': 27.12,
+ 'fiftyTwoWeekLow': 8.67,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 39000993,
+ 'forwardEps': 1.19,
+ 'forwardPE': 13.268907,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 508,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04168,
+ 'heldPercentInstitutions': 1.0579901,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/lantheus.com',
+ 'longBusinessSummary': 'Lantheus Holdings, Inc. develops, manufactures, and '
+                        'commercializes diagnostic medical imaging agents and '
+                        'products that assist clinicians in the diagnosis and '
+                        'treatment of cardiovascular and other diseases '
+                        'worldwide. Its principal products include DEFINITY, a '
+                        'microbubble contrast agent used in ultrasound exams '
+                        'of the heart; and TechneLite, a technetium generator '
+                        'that provides the nuclear material used in nuclear '
+                        'medicine procedures. The company also offers Xenon, a '
+                        'radiopharmaceutical gas used to assess pulmonary '
+                        'function, and to image cerebral blood flow; '
+                        'Neurolite, an injectable to identify the area within '
+                        'the brain where blood flow has been blocked or '
+                        'reduced due to stroke; Cardiolite, an injectable '
+                        'technetium-labeled imaging agent used in myocardial '
+                        'perfusion imaging (MPI) procedures; FDG, a '
+                        'fluorine-18-radiolabeled imaging agent to identify '
+                        'and characterize tumors in patients undergoing '
+                        'oncologic diagnostic procedures; and Cobalt (Co 57), '
+                        'a non-pharmaceutical radiochemical. In addition, it '
+                        'provides injectable radiopharmaceutical imaging '
+                        'agents, such as Thallium TI 201, which is used in MPI '
+                        'studies to detect cardiovascular disease; Gallium Ga '
+                        '67 that is used to detect various infections and '
+                        'cancerous tumors; and Quadramet, a therapeutic '
+                        'product, which is used to treat severe bone pain '
+                        'associated with metastatic bone lesions. Further, the '
+                        'company is developing Flurpiridaz F 18, which is in '
+                        'Phase III clinical trials to assess blood flow to the '
+                        'heart; and LMI 1195 that is in Phase III clinical '
+                        'trials for the diagnosis and treatment follow-up of '
+                        'neuroendocrine tumors. It sells its products to '
+                        'radiopharmacies, integrated delivery networks, '
+                        'hospitals, clinics, and group practices. The company '
+                        'has a strategic collaboration and license agreement '
+                        'with NanoMab Technology Limited to provide an imaging '
+                        'biomarker research tool to pharmaceutical companies '
+                        'and academic centers conducting research and '
+                        'development on PD-L1 immuno-oncology treatments. The '
+                        'company was founded in 1956 and is headquartered in '
+                        'North Billerica, Massachusetts.',
+ 'longName': 'Lantheus Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1054549376,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_8285048',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 25055000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 16.22,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.66,
+ 'phone': '978 671 8001',
+ 'previousClose': 16.34,
+ 'priceHint': 2,
+ 'priceToBook': 5.300436,
+ 'priceToSalesTrailing12Months': 2.9998758,
+ 'profitMargins': 0.07127,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 16.47,
+ 'regularMarketDayLow': 15.56,
+ 'regularMarketOpen': 16.22,
+ 'regularMarketPreviousClose': 16.34,
+ 'regularMarketPrice': 16.22,
+ 'regularMarketVolume': 427168,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 39941000,
+ 'sharesPercentSharesOut': 0.0476,
+ 'sharesShort': 3177824,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2168792,
+ 'shortName': 'Lantheus Holdings, Inc.',
+ 'shortPercentOfFloat': 0.053000003,
+ 'shortRatio': 3.12,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'LNTH',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.621,
+ 'trailingPE': 25.426731,
+ 'twoHundredDayAverage': 14.547518,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e854c3fb-8328-3f4c-9161-58b3c91379f7',
+ 'volume': 427168,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.lantheus.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01862'}

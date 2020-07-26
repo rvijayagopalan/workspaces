@@ -1,0 +1,155 @@
+{'52WeekChange': 'Infinity',
+ 'SandP52WeekChange': None,
+ 'address1': '1261 Liberty Way',
+ 'address2': 'Suite C',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 22.99,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 17700,
+ 'averageVolume': 35155,
+ 'averageVolume10days': 17700,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 11.16,
+ 'bidSize': 1000,
+ 'bookValue': 4.67,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Vista',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.8,
+ 'dayLow': 11.12,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -8.559,
+ 'enterpriseToRevenue': 2.504,
+ 'enterpriseValue': 101943264,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 12.036285,
+ 'fiftyTwoWeekHigh': 29.858,
+ 'fiftyTwoWeekLow': 10.29,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 2669614,
+ 'forwardEps': -1.48,
+ 'forwardPE': -7.682432,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 153,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.34021,
+ 'heldPercentInstitutions': 0.57799,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/avisetest.com',
+ 'longBusinessSummary': 'Exagen Inc. develops and commercializes testing '
+                        'products for the diagnosis, prognosis, and monitoring '
+                        'of complex autoimmune and autoimmune-related diseases '
+                        'under the AVISE brand. It offers AVISE CTD, a '
+                        'comprehensive test that aids in the differential '
+                        'diagnosis of Systemic Lupus Erythematosus (SLE) '
+                        'versus other common connective tissue diseases '
+                        '(CTDs); AVISE Lupus testing product that measures '
+                        'activation of the complement system by quantifying '
+                        "the level of BC4d and EC4d in the patient's blood; "
+                        'and AVISE APS, which consists of a panel of eight '
+                        'autoantibody tests that aids in the diagnosis and '
+                        'management of APS. The company also provides AVISE '
+                        'SLE Prognostic, which comprise a ten-biomarker panel '
+                        'of autoantibodies that have established predictive '
+                        'value for assessing the potential for complications '
+                        'affecting the kidney, brain, and cardiovascular '
+                        'system; AVISE Anti-CarP test, which identifies '
+                        'rheumatoid arthritis (RA) patients with more severe '
+                        'disease requiring more aggressive therapy, such as '
+                        'anti-TNF biologics; and AVISE PC4d, a cell-bound '
+                        'complement activation product biomarker that measures '
+                        'platelet- bound C4d, or PC4d. In addition, it offers '
+                        'AVISE SLE Monitor, a six-biomarker blood test; AVISE '
+                        'MTX, a patented and validated blood test that '
+                        'measures levels of MTXPG; and AVISE HCQ, a blood test '
+                        'designed to help rheumatologists objectively monitor '
+                        'levels of hydroxychloroquine. The company was '
+                        'formerly known as Exagen Diagnostics, Inc. and '
+                        'changed its name to Exagen Inc. in January 2019. '
+                        'Exagen Inc. was incorporated in 2002 and is '
+                        'headquartered in Vista, California.',
+ 'longName': 'Exagen Inc.',
+ 'market': 'us_market',
+ 'marketCap': 143719072,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_8444750',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -31024000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 12.8,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '760-560-1501',
+ 'previousClose': 11.83,
+ 'priceHint': 2,
+ 'priceToBook': 2.4346895,
+ 'priceToSalesTrailing12Months': 3.530227,
+ 'profitMargins': -0.36591998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.8,
+ 'regularMarketDayLow': 11.12,
+ 'regularMarketOpen': 12.8,
+ 'regularMarketPreviousClose': 11.83,
+ 'regularMarketPrice': 12.8,
+ 'regularMarketVolume': 39300,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 12640200,
+ 'sharesPercentSharesOut': 0.0172,
+ 'sharesShort': 217722,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 113018,
+ 'shortName': 'Exagen Inc.',
+ 'shortPercentOfFloat': 0.0417,
+ 'shortRatio': 5.61,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'XGN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -72.271,
+ 'twoHundredDayAverage': 15.865288,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f7ab59e9-d9f4-3c5d-832f-b0d9d20e8d13',
+ 'volume': 39300,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://avisetest.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92081'}

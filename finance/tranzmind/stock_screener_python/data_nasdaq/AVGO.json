@@ -1,0 +1,163 @@
+{'52WeekChange': 0.02907753,
+ 'SandP52WeekChange': None,
+ 'address1': '1320 Ridder Park Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 305.7,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 1495737,
+ 'averageVolume': 2288449,
+ 'averageVolume10days': 1495737,
+ 'beta': 0.917647,
+ 'beta3Year': None,
+ 'bid': 305.3,
+ 'bidSize': 800,
+ 'bookValue': 59.557,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Jose',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 310.9,
+ 'dayLow': 304.21,
+ 'dividendRate': 13,
+ 'dividendYield': 0.042,
+ 'earningsQuarterlyGrowth': -0.185,
+ 'enterpriseToEbitda': 15.86,
+ 'enterpriseToRevenue': 7.003,
+ 'enterpriseValue': 160316243968,
+ 'exDividendDate': 1592524800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 312.22058,
+ 'fiftyTwoWeekHigh': 331.58,
+ 'fiftyTwoWeekLow': 155.67,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.24,
+ 'floatShares': 389210786,
+ 'forwardEps': 23.97,
+ 'forwardPE': 12.757197,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 19000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.025320001,
+ 'heldPercentInstitutions': 0.84853995,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1572739200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/broadcom.com',
+ 'longBusinessSummary': 'Broadcom Inc. designs, develops, and supplies a range '
+                        'of semiconductor devices with a focus on complex '
+                        'digital and mixed signal complementary metal oxide '
+                        'semiconductor based devices and analog III-V based '
+                        'products worldwide. The company operates through '
+                        'three segments: Semiconductor Solutions, '
+                        'Infrastructure Software, and Intellectual Property '
+                        'licensing. It provides set-top box system-on-chips '
+                        '(SoCs); cable, digital subscriber line, and passive '
+                        'optical networking central office/consumer premise '
+                        'equipment SoCs; Wireless local area network access '
+                        'point SoCs; Ethernet switching and routing '
+                        'application specific standard products; embedded '
+                        'processors and controllers; serializer/deserializer '
+                        'application specific integrated circuits; optical and '
+                        'copper, and physical layers; and fiber optic laser '
+                        'and receiver components. The company also offers RF '
+                        'front end modules, filters, and power amplifiers; '
+                        'Wi-Fi, Bluetooth, and global positioning '
+                        'system/global navigation satellite system SoCs; '
+                        'custom touch controllers; serial attached small '
+                        'computer system interface, and redundant array of '
+                        'independent disks controllers and adapters; '
+                        'peripheral component interconnect express switches; '
+                        'fiber channel host bus adapters; read channel based '
+                        'SoCs; custom flash controllers; preamplifiers; and '
+                        'optocouplers, industrial fiber optics, motion control '
+                        'encoders and subsystems, and light emitting diodes. '
+                        'In addition, it provides mainframe and enterprise '
+                        'software solution and cybersecurity solutions. Its '
+                        'products are used in various applications, including '
+                        'enterprise and data center networking, home '
+                        'connectivity, set-top boxes, broadband access, '
+                        'telecommunication equipment, smartphones and base '
+                        'stations, data center servers and storage systems, '
+                        'factory automation, power generation and alternative '
+                        'energy systems, and electronic displays. The company '
+                        'has a collaboration agreement with Liqid Inc. '
+                        'Broadcom Inc. was incorporated in 2018 and is '
+                        'headquartered in San Jose, California.',
+ 'longName': 'Broadcom Inc.',
+ 'market': 'us_market',
+ 'marketCap': 122984153088,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_25016048',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588464000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 2332000000,
+ 'nextFiscalYearEnd': 1635897600,
+ 'open': 306.59,
+ 'openInterest': None,
+ 'payoutRatio': 2.1185,
+ 'pegRatio': 1.11,
+ 'phone': '408 433 8000',
+ 'previousClose': 309.67,
+ 'priceHint': 2,
+ 'priceToBook': 5.1344094,
+ 'priceToSalesTrailing12Months': 5.3725986,
+ 'profitMargins': 0.10965,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 310.9,
+ 'regularMarketDayLow': 304.21,
+ 'regularMarketOpen': 306.59,
+ 'regularMarketPreviousClose': 309.67,
+ 'regularMarketPrice': 306.59,
+ 'regularMarketVolume': 1563403,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 402184992,
+ 'sharesPercentSharesOut': 0.0115,
+ 'sharesShort': 4610653,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5336105,
+ 'shortName': 'Broadcom Inc.',
+ 'shortPercentOfFloat': 0.0161,
+ 'shortRatio': 1.55,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'AVGO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 12.4,
+ 'trailingAnnualDividendYield': 0.040042624,
+ 'trailingEps': 5.57,
+ 'trailingPE': 54.89946,
+ 'twoHundredDayAverage': 284.12567,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '605f428a-c23f-303d-9bec-7b1a647c1b84',
+ 'volume': 1563403,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.broadcom.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95131'}

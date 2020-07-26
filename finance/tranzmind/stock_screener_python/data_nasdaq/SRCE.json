@@ -1,0 +1,159 @@
+{'52WeekChange': -0.25787103,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '100 North Michigan Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 34.69,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 54762,
+ 'averageVolume': 78107,
+ 'averageVolume10days': 54762,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 34.61,
+ 'bidSize': 1400,
+ 'bookValue': 33.867,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'South Bend',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 35.45,
+ 'dayLow': 34.4,
+ 'dividendRate': 1.12,
+ 'dividendYield': 0.0319,
+ 'earningsQuarterlyGrowth': -0.209,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.585,
+ 'enterpriseValue': 1058955648,
+ 'exDividendDate': 1588550400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '574-239-4388',
+ 'fiftyDayAverage': 34.546,
+ 'fiftyTwoWeekHigh': 53.42,
+ 'fiftyTwoWeekLow': 26.07,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.01,
+ 'floatShares': 14273762,
+ 'forwardEps': 2.38,
+ 'forwardPE': 14.558824,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1175,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.1179,
+ 'heldPercentInstitutions': 0.73058,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1438560000,
+ 'lastSplitFactor': '110:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/1stsource.com',
+ 'longBusinessSummary': '1st Source Corporation operates as the holding '
+                        'company for 1st Source Bank that provides commercial '
+                        'and consumer banking services, trust and wealth '
+                        'advisory services, and insurance to individual and '
+                        'business clients. Its consumer banking services '
+                        'include checking and savings accounts; certificates '
+                        'of deposit; individual retirement accounts; online '
+                        'and mobile banking products; consumer loans, real '
+                        'estate loans, and lines of credit; and financial '
+                        'planning, financial literacy, and other consultative '
+                        'services, as well as debit and credit cards. The '
+                        'company also offers commercial, small business, '
+                        'agricultural, and real estate loans for general '
+                        'corporate purposes, including financing for '
+                        'industrial and commercial properties, equipment, '
+                        'inventories, accounts receivables, and renewable '
+                        'energy and acquisition financing; and commercial '
+                        'leasing, treasury management, and retirement planning '
+                        'services. In addition, it provides a range of trust, '
+                        'investment, agency, and custodial services comprising '
+                        'administration of estates and personal trusts, as '
+                        'well as management of investment accounts for '
+                        'individuals, employee benefit plans, and charitable '
+                        'foundations. Further, the company offers equipment '
+                        'loan and lease products for new and used aircraft, '
+                        'auto and light trucks, construction equipment, and '
+                        'medium and heavy duty trucks; and leases construction '
+                        'equipment, various types of trucks, vans, '
+                        'automobiles, motor coaches, shuttle buses, and other '
+                        'equipment. Additionally, it provides corporate and '
+                        'personal property, casualty, and individual and group '
+                        'health and life insurance products and services; and '
+                        'investment advisory services to trust and investment '
+                        'clients. As of December 31, 2019, the company '
+                        'operated through 80 banking centers in 17 counties in '
+                        'Indiana and Michigan, and Sarasota County in Florida. '
+                        '1st Source Corporation was founded in 1863 and is '
+                        'headquartered in South Bend, Indiana.',
+ 'longName': '1st Source Corporation',
+ 'market': 'us_market',
+ 'marketCap': 884808576,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_176404',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 80776000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 35.21,
+ 'openInterest': None,
+ 'payoutRatio': 0.3343,
+ 'pegRatio': 1.4,
+ 'phone': '574-235-2000',
+ 'previousClose': 35.06,
+ 'priceHint': 2,
+ 'priceToBook': 1.0231199,
+ 'priceToSalesTrailing12Months': 2.9953303,
+ 'profitMargins': 0.2752,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 35.45,
+ 'regularMarketDayLow': 34.4,
+ 'regularMarketOpen': 35.21,
+ 'regularMarketPreviousClose': 35.06,
+ 'regularMarketPrice': 35.21,
+ 'regularMarketVolume': 42880,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 25535600,
+ 'sharesPercentSharesOut': 0.0188,
+ 'sharesShort': 479712,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 316295,
+ 'shortName': '1st Source Corporation',
+ 'shortPercentOfFloat': 0.03,
+ 'shortRatio': 4.64,
+ 'startDate': None,
+ 'state': 'IN',
+ 'strikePrice': None,
+ 'symbol': 'SRCE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.15,
+ 'trailingAnnualDividendYield': 0.03280091,
+ 'trailingEps': 3.165,
+ 'trailingPE': 10.947868,
+ 'twoHundredDayAverage': 37.35295,
+ 'volume': 42880,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.1stsource.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '46601'}

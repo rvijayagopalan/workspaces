@@ -1,0 +1,150 @@
+{'52WeekChange': -0.4898926,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1678 South Pioneer Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 16.19,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 512287,
+ 'averageVolume': 666111,
+ 'averageVolume10days': 512287,
+ 'beta': 1.219052,
+ 'beta3Year': None,
+ 'bid': 16.19,
+ 'bidSize': 900,
+ 'bookValue': 11.67,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Salt Lake City',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 16.52,
+ 'dayLow': 16.02,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 13.298,
+ 'enterpriseToRevenue': 1.303,
+ 'enterpriseValue': 1037265024,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 15.768572,
+ 'fiftyTwoWeekHigh': 33,
+ 'fiftyTwoWeekLow': 14.27,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 38902154,
+ 'forwardEps': 1.06,
+ 'forwardPE': 15.235849,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0047299997,
+ 'heldPercentInstitutions': 0.96432996,
+ 'industry': 'Medical Devices',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569542400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/vareximaging.com',
+ 'longBusinessSummary': 'Varex Imaging Corporation designs and manufactures '
+                        'X-ray imaging components. The company operates in two '
+                        'segments, Medical and Industrial. The Medical segment '
+                        'designs, manufactures, sells, and services X-ray '
+                        'imaging components comprising X-ray tubes, digital '
+                        'detectors, high voltage connectors, image-processing '
+                        'software and workstations, computer-aided diagnostic '
+                        'software, collimators, automatic exposure control '
+                        'devices, generators, heat exchangers, ionization '
+                        "chambers, and buckys. This segment's products are "
+                        'used in a range of applications, including '
+                        'radiographic and fluoroscopic imaging, mammography, '
+                        'computed tomography, radiation therapy, oncology, '
+                        'cardiac, surgery, dental, and computer-aided '
+                        'detection. The Industrial segment designs, '
+                        'manufactures, sells, and services Linatron X-ray '
+                        'accelerators, X-ray tubes, digital detectors, high '
+                        'voltage connectors, and image-processing software for '
+                        'use in security and industrial inspection '
+                        'applications, such as airport security, cargo '
+                        'screening at ports and borders, and nondestructive '
+                        'examination in various applications. Varex Imaging '
+                        'Corporation sells its products through imaging system '
+                        'original equipment manufacturers, independent service '
+                        'companies, and distributors, as well as directly to '
+                        'end-users. The company has operations in North '
+                        'America, Latin America, Europe, Russia, the Middle '
+                        'East, India, Africa, Asia, and Australia. Varex '
+                        'Imaging Corporation is headquartered in Salt Lake '
+                        'City, Utah.',
+ 'longName': 'Varex Imaging Corporation',
+ 'market': 'us_market',
+ 'marketCap': 631464960,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_379834366',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585872000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 3500000,
+ 'nextFiscalYearEnd': 1632700800,
+ 'open': 16.52,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 8.47,
+ 'phone': '801-972-5000',
+ 'previousClose': 16.52,
+ 'priceHint': 2,
+ 'priceToBook': 1.3838903,
+ 'priceToSalesTrailing12Months': 0.7930984,
+ 'profitMargins': 0.0044,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 16.52,
+ 'regularMarketDayLow': 16.02,
+ 'regularMarketOpen': 16.52,
+ 'regularMarketPreviousClose': 16.52,
+ 'regularMarketPrice': 16.52,
+ 'regularMarketVolume': 261790,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 39100000,
+ 'sharesPercentSharesOut': 0.1095,
+ 'sharesShort': 4283254,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1106754,
+ 'shortName': 'Varex Imaging Corporation',
+ 'shortPercentOfFloat': 0.14739999,
+ 'shortRatio': 4.18,
+ 'startDate': None,
+ 'state': 'UT',
+ 'strikePrice': None,
+ 'symbol': 'VREX',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.091,
+ 'trailingPE': 177.47253,
+ 'twoHundredDayAverage': 21.8968,
+ 'volume': 261790,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.vareximaging.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '84104'}

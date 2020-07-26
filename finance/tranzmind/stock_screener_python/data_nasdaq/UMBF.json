@@ -1,0 +1,160 @@
+{'52WeekChange': -0.2766875,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1010 Grand Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 48.69,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 190787,
+ 'averageVolume': 308276,
+ 'averageVolume10days': 190787,
+ 'beta': 1.043137,
+ 'beta3Year': None,
+ 'bid': 48.66,
+ 'bidSize': 800,
+ 'bookValue': 55.333,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Kansas City',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 49.575,
+ 'dayLow': 48.6,
+ 'dividendRate': 1.24,
+ 'dividendYield': 0.0253,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.047,
+ 'enterpriseValue': 3017417216,
+ 'exDividendDate': 1591660800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 50.686855,
+ 'fiftyTwoWeekHigh': 70.26,
+ 'fiftyTwoWeekLow': 39.47,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.7,
+ 'floatShares': 44363951,
+ 'forwardEps': 3.6,
+ 'forwardPE': 13.513889,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3670,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.103690006,
+ 'heldPercentInstitutions': 0.88367,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1149033600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/umb.com',
+ 'longBusinessSummary': 'UMB Financial Corporation operates as the bank '
+                        'holding company for the UMB Bank that provides '
+                        'various banking and other financial services. The '
+                        'company operates through four segments: Commercial '
+                        'Banking, Institutional Banking, Personal Banking, and '
+                        'Healthcare Services. The Commercial Banking segment '
+                        'provides commercial loans and credit cards, letters '
+                        'of credit; loan syndication, consultative services, '
+                        'and various financial options; capital markets '
+                        'services, including asset-based financing, asset '
+                        'securitization, equity and mezzanine financing, '
+                        'factoring, and private and public placement of senior '
+                        'debt, as well as merger and acquisition consulting; '
+                        'and depository, account reconciliation, electronic '
+                        'fund transfer, controlled disbursements, lockbox, and '
+                        'remote deposit capture services. The Institutional '
+                        'Banking segment offers bond trading transactions, '
+                        'cash letter collections, investment portfolio '
+                        'accounting and safekeeping, asset/liability '
+                        'management reporting, and federal funds transactions; '
+                        'and fund administration and accounting, investor '
+                        'services and transfer agency, marketing and '
+                        'distribution, custody, and alternative investment '
+                        'services. The Personal Banking segment provides '
+                        'deposit accounts, retail credit cards, installment '
+                        'loans, home equity lines of credit, residential '
+                        'mortgages, and small business loans, as well as call '
+                        'center, internet banking and ATM network, private '
+                        'banking, brokerage, insurance, investment advisory, '
+                        'trust, and custody services. The Healthcare Services '
+                        'segment offers healthcare payment solutions '
+                        'comprising custodial services for health savings '
+                        'accounts, as well as private label and multipurpose '
+                        'debit cards. The company operates through a network '
+                        'of branches and offices in the states of Missouri, '
+                        'Kansas, Colorado, Illinois, Oklahoma, Texas, Arizona, '
+                        'Nebraska, Iowa, Pennsylvania, South Dakota, Indiana, '
+                        'Utah, Minnesota, California, and Wisconsin. UMB '
+                        'Financial Corporation was founded in 1913 and is '
+                        'headquartered in Kansas City, Missouri.',
+ 'longName': 'UMB Financial Corporation',
+ 'market': 'us_market',
+ 'marketCap': 2341860352,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_310364',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 182416992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 49.21,
+ 'openInterest': None,
+ 'payoutRatio': 0.32880002,
+ 'pegRatio': -0.88,
+ 'phone': '816-860-7000',
+ 'previousClose': 49.03,
+ 'priceHint': 2,
+ 'priceToBook': 0.8792222,
+ 'priceToSalesTrailing12Months': 2.3648229,
+ 'profitMargins': 0.18421,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 49.575,
+ 'regularMarketDayLow': 48.6,
+ 'regularMarketOpen': 49.21,
+ 'regularMarketPreviousClose': 49.03,
+ 'regularMarketPrice': 49.21,
+ 'regularMarketVolume': 178621,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 48136900,
+ 'sharesPercentSharesOut': 0.0222,
+ 'sharesShort': 1068287,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1012361,
+ 'shortName': 'UMB Financial Corporation',
+ 'shortPercentOfFloat': 0.027999999,
+ 'shortRatio': 3.26,
+ 'startDate': None,
+ 'state': 'MO',
+ 'strikePrice': None,
+ 'symbol': 'UMBF',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.22,
+ 'trailingAnnualDividendYield': 0.024882726,
+ 'trailingEps': 3.719,
+ 'trailingPE': 13.081473,
+ 'twoHundredDayAverage': 53.68475,
+ 'volume': 178621,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.umb.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '64106'}

@@ -1,0 +1,161 @@
+{'52WeekChange': 0.46518373,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '4 Nahal Harif Street',
+ 'address2': 'Northen Industrial Zone',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 15.15,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 4612,
+ 'averageVolume': 5109,
+ 'averageVolume10days': 4612,
+ 'beta': 0.529411,
+ 'beta3Year': None,
+ 'bid': 6.5,
+ 'bidSize': 1400,
+ 'bookValue': 9.114,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Yavne',
+ 'companyOfficers': [],
+ 'country': 'Israel',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 16.01,
+ 'dayLow': 15.1,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.925,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 206304416,
+ 'exDividendDate': 1480982400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '972 8 932 1001',
+ 'fiftyDayAverage': 15.474857,
+ 'fiftyTwoWeekHigh': 16.8,
+ 'fiftyTwoWeekLow': 8.75,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 1879592,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 162,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.74753,
+ 'heldPercentInstitutions': 0.14445,
+ 'industry': 'Food Distribution',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1103760000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/willi-food.com',
+ 'longBusinessSummary': 'G. Willi-Food International Ltd. develops, imports, '
+                        'exports, markets, and distributes food products '
+                        'worldwide. It offers mushroom, artichoke, bean, '
+                        'asparagu, caper, corn kernel, baby corn, palm heart, '
+                        'vine leave, sour pickle, mixed pickled vegetable, '
+                        'pickled pepper, an assortment of olives, garlic, '
+                        'roasted eggplant sun, and dried tomato products; and '
+                        'canned fish comprising tuna, sardine, anchovie, '
+                        'smoked and pressed cod liver, herring, fish paste, '
+                        'and salmon products. The company also provides '
+                        'pineapple, peach, apricot, pear, mango, cherry, '
+                        'litchi, and fruit cocktail products; edible oils '
+                        'comprising olive, sunflower, soybean, corn, and '
+                        'rapeseed oils; dairy and dairy substitutes consisting '
+                        'of cheese, feta, Bulgarian cubes, goat cheese, '
+                        'fetina, butter, butter spread, margarine, melted '
+                        'cheese, cheese alternative, condensed milk, whipped '
+                        'cream, and other products; and dried fruits, nuts, '
+                        'and beans, such as figs, apricots and organic '
+                        'apricots, organic chestnuts, sunflower and sesame '
+                        'seeds, walnuts, pine nuts, cashews, banana chips, '
+                        'pistachios, and peanuts. In addition, it offers '
+                        'instant noodle soup, frozen edamame soybean, freeze '
+                        'dried instant coffee, bagel, breadstick, coffee '
+                        'creamer, lemon juice, halva, Turkish delight, cookie, '
+                        'vinegar, sweet pastry and cracker, sauce, corn flour, '
+                        'rice, rice stick, pasta, spaghetti and noodle, '
+                        'breakfast cereal, corn flake, rusk, tortilla, dried '
+                        'apples snack, desert, and light and alcoholic '
+                        'beverage products. G. Willi-Food International Ltd. '
+                        'markets its products under the Willi-Food, Donna '
+                        'Rozza, Manchow, Gold Frost, Tifeeret, the Chef Dish, '
+                        'Art Coffe, Mr Chang, Muchi, Euro Butter, Euro Spread, '
+                        'Euro Cheese, Euro Cream, Euro Dessert, and Emma brand '
+                        'names. The company was formerly known as G. '
+                        'Willi-Food Ltd. and changed its name to G. Willi-Food '
+                        'International Ltd. in June 1996. The company was '
+                        'incorporated in 1994 and is headquartered in Yavne, '
+                        'Israel. G. Willi-Food International Ltd. is a '
+                        'subsidiary of Willi-Food Investments Ltd.',
+ 'longName': 'G. Willi-Food International Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 200237552,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_377123',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 16.01,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '972 8 932 1000',
+ 'previousClose': 15.27,
+ 'priceHint': 2,
+ 'priceToBook': 1.6622777,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.0865,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 16.01,
+ 'regularMarketDayLow': 15.1,
+ 'regularMarketOpen': 16.01,
+ 'regularMarketPreviousClose': 15.27,
+ 'regularMarketPrice': 16.01,
+ 'regularMarketVolume': 4837,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 13217000,
+ 'sharesPercentSharesOut': 0.0001,
+ 'sharesShort': 1739,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2460,
+ 'shortName': 'G. Willi-Food International,  L',
+ 'shortPercentOfFloat': 0.0005,
+ 'shortRatio': 0.33,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'WILC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.725,
+ 'trailingPE': 20.896551,
+ 'twoHundredDayAverage': 13.023885,
+ 'volume': 4837,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.willi-food.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '81106'}

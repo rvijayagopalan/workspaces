@@ -1,0 +1,159 @@
+{'52WeekChange': -0.4165498,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '8750 West Bryn Mawr Avenue',
+ 'address2': 'Suite 1300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 12.48,
+ 'askSize': 3000,
+ 'averageDailyVolume10Day': 533062,
+ 'averageVolume': 689496,
+ 'averageVolume10days': 533062,
+ 'beta': 1.30084,
+ 'beta3Year': None,
+ 'bid': 12.47,
+ 'bidSize': 3200,
+ 'bookValue': 23.244,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chicago',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.91,
+ 'dayLow': 12.42,
+ 'dividendRate': 0.56,
+ 'dividendYield': 0.0442,
+ 'earningsQuarterlyGrowth': -0.595,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.619,
+ 'enterpriseValue': 3023416576,
+ 'exDividendDate': 1593043200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 13.243714,
+ 'fiftyTwoWeekHigh': 23.64,
+ 'fiftyTwoWeekLow': 10.31,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.06,
+ 'floatShares': 112919544,
+ 'forwardEps': 0.96,
+ 'forwardPE': 13,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2122,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0086199995,
+ 'heldPercentInstitutions': 0.87722,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1008547200,
+ 'lastSplitFactor': '5:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/firstmidwest.com',
+ 'longBusinessSummary': 'First Midwest Bancorp, Inc. operates as the bank '
+                        'holding company for First Midwest Bank that provides '
+                        'various banking products and services. The company '
+                        'accepts checking, NOW, money market, and savings '
+                        'accounts, as well as various types of short-term and '
+                        'long-term certificates of deposit. Its loan products '
+                        'include working capital loans; accounts receivable '
+                        'financing; inventory and equipment financing; '
+                        'sector-based lending, including healthcare, '
+                        'asset-based lending, structured finance, and '
+                        'syndications; agricultural loans; and mortgages, home '
+                        'equity lines and loans, personal loans, specialty '
+                        'loans, and consumer secured and unsecured loans, as '
+                        'well as funding for the construction, purchase, '
+                        'refinance, or improvement of commercial real estate '
+                        'properties. In addition, the company offers treasury '
+                        'management products and services comprising automated '
+                        'clearing house collection, lockbox, remote deposit '
+                        'capture, and financial electronic data interchange; '
+                        'wire transfer, account reconciliation, controlled '
+                        'disbursement, direct deposit, and positive pay '
+                        'services; information reporting services; corporate '
+                        'credit cards; and liquidity management, fraud '
+                        'prevention, and merchant services. Further, it '
+                        'provides fiduciary and executor, financial planning, '
+                        'investment advisory, employee benefit plan, and '
+                        'private banking services to corporate and public '
+                        'retirement plans, foundations and endowments, high '
+                        'net worth individuals, and multi-employer trust '
+                        'funds. Additionally, the company offers debit and '
+                        'automated teller machine, and credit cards; Internet '
+                        'and mobile, and telephone banking services; and '
+                        'financial education services. The company operates '
+                        '127 locations and 178 automated teller machines in '
+                        'metropolitan Chicago, southeast Wisconsin, northwest '
+                        'Indiana, central and western Illinois, and eastern '
+                        'Iowa. First Midwest Bancorp, Inc. was incorporated in '
+                        '1982 and is headquartered in Chicago, Illinois.',
+ 'longName': 'First Midwest Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1426164480,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_272255',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 143031008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 12.7,
+ 'openInterest': None,
+ 'payoutRatio': 0.4341,
+ 'pegRatio': 1.9,
+ 'phone': '708-831-7483',
+ 'previousClose': 12.66,
+ 'priceHint': 2,
+ 'priceToBook': 0.53691274,
+ 'priceToSalesTrailing12Months': 2.178671,
+ 'profitMargins': 0.22202,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.91,
+ 'regularMarketDayLow': 12.42,
+ 'regularMarketOpen': 12.7,
+ 'regularMarketPreviousClose': 12.66,
+ 'regularMarketPrice': 12.7,
+ 'regularMarketVolume': 472002,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 114276000,
+ 'sharesPercentSharesOut': 0.0304,
+ 'sharesShort': 3472450,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3381017,
+ 'shortName': 'First Midwest Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0403,
+ 'shortRatio': 4.13,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'FMBI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.56,
+ 'trailingAnnualDividendYield': 0.044233806,
+ 'trailingEps': 1.283,
+ 'trailingPE': 9.727201,
+ 'twoHundredDayAverage': 15.4733095,
+ 'volume': 472002,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.firstmidwest.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60631-3655'}

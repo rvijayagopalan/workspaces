@@ -1,0 +1,163 @@
+{'52WeekChange': 0.10148835,
+ 'SandP52WeekChange': None,
+ 'address1': '1331 L Street, NW',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 714,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 417862,
+ 'averageVolume': 331003,
+ 'averageVolume10days': 417862,
+ 'beta': 1.094677,
+ 'beta3Year': None,
+ 'bid': 703.25,
+ 'bidSize': 1400,
+ 'bookValue': 94.252,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Washington',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 705.6,
+ 'dayLow': 683.08,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.145,
+ 'enterpriseToEbitda': 57.47,
+ 'enterpriseToRevenue': 16.956,
+ 'enterpriseValue': 24808511488,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '877-739-0486',
+ 'fiftyDayAverage': 699.7126,
+ 'fiftyTwoWeekHigh': 747.11,
+ 'fiftyTwoWeekLow': 500.24,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 36291235,
+ 'forwardEps': 11.5,
+ 'forwardPE': 61.19739,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01632,
+ 'heldPercentInstitutions': 0.96957,
+ 'industry': 'Real Estate Services',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/costargroup.com',
+ 'longBusinessSummary': 'CoStar Group, Inc. provides information, analytics, '
+                        'and online marketplaces to the commercial real estate '
+                        'industry in the United States and the United Kingdom. '
+                        'The company offers CoStar Property Professional '
+                        'service that offers inventory of office, industrial, '
+                        'retail, and multifamily, and student housing '
+                        'properties and land. It also provides CoStar COMPS '
+                        'Professional that covers comparable commercial real '
+                        'estate sales information; CoStar Market Analytics to '
+                        'view and report on aggregated market and submarket '
+                        'trends; CoStar Tenant, an online business-to-business '
+                        'prospecting and analytical tool; CoStar Lease Comps, '
+                        'a solution to capture, manage, and maintain lease '
+                        'data; CoStar Lease Analysis, a workflow tool; and '
+                        'CoStar Public Record, a searchable database of '
+                        'commercially-zoned parcels. In addition, the company '
+                        'offers CoStar Real Estate Manager, a real estate and '
+                        'asset management, and lease accounting software; '
+                        'CoStar Risk Analytics, a commercial real estate risk '
+                        'management tool; and CoStar Investment Analysis that '
+                        'provides market research, consulting and analysis, '
+                        'portfolio and debt analysis, and management and '
+                        'reporting services, as well as STAR Report that '
+                        'offers benchmarking and analytics for the hospitality '
+                        'industry. Further, it provides apartment marketing '
+                        'sites, such as Apartments.com, ApartmentFinder.com, '
+                        'ForRent.com, ApartmentHomeLiving.com, '
+                        'Apartamentos.com, WestsideRentals.com, AFTER55.com, '
+                        'CorporateHousing.com and ForRentUniversity.com; '
+                        'LoopNet Premium Lister and LoopNet Signature Ads for '
+                        'commercial real estate professionals; Realla, a '
+                        'commercial property listings and data management '
+                        'platform; LandsofAmerica, LandAndFarm, and LandWatch '
+                        'online marketplaces for rural land for sale; and '
+                        'BizBuySell, BizQuest, FindaFranchise online '
+                        'marketplaces for operating businesses for sale. '
+                        'CoStar Group, Inc. was founded in 1987 and is '
+                        'headquartered in Washington, the District of '
+                        'Columbia.',
+ 'longName': 'CoStar Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 27700387840,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_387127',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 302587008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 695.78,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.83,
+ 'phone': '202-346-6500',
+ 'previousClose': 698.63,
+ 'priceHint': 2,
+ 'priceToBook': 7.4668975,
+ 'priceToSalesTrailing12Months': 18.932138,
+ 'profitMargins': 0.20681,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 705.6,
+ 'regularMarketDayLow': 683.08,
+ 'regularMarketOpen': 695.78,
+ 'regularMarketPreviousClose': 698.63,
+ 'regularMarketPrice': 695.78,
+ 'regularMarketVolume': 326446,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Real Estate',
+ 'sharesOutstanding': 39360000,
+ 'sharesPercentSharesOut': 0.026400002,
+ 'sharesShort': 1039834,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 835642,
+ 'shortName': 'CoStar Group, Inc.',
+ 'shortPercentOfFloat': 0.0301,
+ 'shortRatio': 3.94,
+ 'startDate': None,
+ 'state': 'DC',
+ 'strikePrice': None,
+ 'symbol': 'CSGP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 8.25,
+ 'trailingPE': 85.30546,
+ 'twoHundredDayAverage': 656.90405,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'da59ed25-e789-336a-9fc0-7ecfc2b9c395',
+ 'volume': 326446,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.costargroup.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20005'}

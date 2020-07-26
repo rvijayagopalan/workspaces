@@ -1,0 +1,156 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '1851 Harbor Bay Parkway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 25,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 1935312,
+ 'averageVolume': 2864201,
+ 'averageVolume10days': 1935312,
+ 'beta': 1.52549,
+ 'beta3Year': None,
+ 'bid': 24.34,
+ 'bidSize': 1800,
+ 'bookValue': 5.715,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Alameda',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 24.737,
+ 'dayLow': 24.09,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.358,
+ 'enterpriseToEbitda': 19.087,
+ 'enterpriseToRevenue': 6.775,
+ 'enterpriseValue': 6634254848,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '650 837 8300',
+ 'fiftyDayAverage': 23.62457,
+ 'fiftyTwoWeekHigh': 27.8,
+ 'fiftyTwoWeekLow': 13.67,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 276290374,
+ 'forwardEps': 0.88,
+ 'forwardPE': 27.943182,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 617,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.030199999,
+ 'heldPercentInstitutions': 0.78894997,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/exelixis.com',
+ 'longBusinessSummary': 'Exelixis, Inc., an oncology-focused biotechnology '
+                        'company, focuses on the discovery, development, and '
+                        'commercialization of new medicines to treat cancers '
+                        "in the United States. The company's products include "
+                        'CABOMETYX tablets for the treatment of patients with '
+                        'advanced renal cell carcinoma who received prior '
+                        'anti-angiogenic therapy; and COMETRIQ capsules for '
+                        'the treatment of patients with progressive and '
+                        'metastatic medullary thyroid cancer. Its CABOMETYX '
+                        'and COMETRIQ are derived from cabozantinib, an '
+                        'inhibitor of multiple tyrosine kinases, including '
+                        'MET, AXL, RET, and VEGF receptors. The company also '
+                        'offers COTELLIC, an inhibitor of MEK as a combination '
+                        'regimen to treat advanced melanoma; and MINNEBRO, an '
+                        'oral non-steroidal selective blocker of the '
+                        'mineralocorticoid receptor for the treatment of '
+                        'hypertension in Japan. In addition, Exelixis, Inc. is '
+                        'developing XL092, an oral tyrosine kinase inhibitor '
+                        'that targets VEGF receptors, MET, and other kinases '
+                        'implicated in growth and spread of cancer. It has '
+                        'collaboration and license agreement with Ipsen Pharma '
+                        'SAS, Takeda Pharmaceutical Company Ltd., Roche, '
+                        'Aurigene Discovery Technologies Limited, Iconic '
+                        'Therapeutics, Inc., Invenra, Inc., StemSynergy '
+                        'Therapeutics, Inc., Genentech, Inc., GlaxoSmithKline, '
+                        'Bristol-Myers Squibb Company, Merck, Daiichi Sankyo '
+                        'Company, Limited, and clinical collaboration with '
+                        'Ipsen. The company was formerly known as Exelixis '
+                        'Pharmaceuticals, Inc. and changed its name to '
+                        'Exelixis, Inc. in February 2000. Exelixis, Inc. was '
+                        'founded in 1994 and is headquartered in Alameda, '
+                        'California.',
+ 'longName': 'Exelixis, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 7540745216,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_28338',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 293848992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 24.73,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.16,
+ 'phone': '650 837 7000',
+ 'previousClose': 24.98,
+ 'priceHint': 2,
+ 'priceToBook': 4.302712,
+ 'priceToSalesTrailing12Months': 7.7009006,
+ 'profitMargins': 0.30009001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 24.737,
+ 'regularMarketDayLow': 24.09,
+ 'regularMarketOpen': 24.73,
+ 'regularMarketPreviousClose': 24.98,
+ 'regularMarketPrice': 24.73,
+ 'regularMarketVolume': 1763739,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 306659008,
+ 'sharesPercentSharesOut': 0.0438,
+ 'sharesShort': 13426653,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 14884532,
+ 'shortName': 'Exelixis, Inc.',
+ 'shortPercentOfFloat': 0.0496,
+ 'shortRatio': 5.07,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'EXEL',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.93,
+ 'trailingPE': 26.44086,
+ 'twoHundredDayAverage': 21.251726,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '3d2b06c7-e4e4-3c4b-a972-6c6bfa8d57a3',
+ 'volume': 1763739,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.exelixis.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94502'}

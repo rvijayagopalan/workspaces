@@ -1,0 +1,160 @@
+{'52WeekChange': -0.0010752678,
+ 'SandP52WeekChange': None,
+ 'address1': '255 Fiserv Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 100.94,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 3887225,
+ 'averageVolume': 4691303,
+ 'averageVolume10days': 3887225,
+ 'beta': 0.831932,
+ 'beta3Year': None,
+ 'bid': 100.01,
+ 'bidSize': 1000,
+ 'bookValue': 47.245,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Brookfield',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 102.16,
+ 'dayLow': 99.88,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.742,
+ 'enterpriseToEbitda': 22.508,
+ 'enterpriseToRevenue': 7.238,
+ 'enterpriseValue': 90145202176,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 100.31828,
+ 'fiftyTwoWeekHigh': 125.05,
+ 'fiftyTwoWeekLow': 73.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 556448555,
+ 'forwardEps': 5.34,
+ 'forwardPE': 18.844568,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 44000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00461,
+ 'heldPercentInstitutions': 0.94655997,
+ 'industry': 'Information Technology Services',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1521504000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/fiserv.com',
+ 'longBusinessSummary': 'Fiserv, Inc., together with its subsidiaries, '
+                        'provides financial services technology worldwide. Its '
+                        'First Data segment provides merchant acquiring, '
+                        'e-commerce, mobile commerce, and other business '
+                        'solutions; credit card and loan account processing, '
+                        'commercial payments, customer communications, '
+                        'plastics solutions, customer service, and other '
+                        'products; and various network solutions and security, '
+                        'and risk and fraud management solutions. The '
+                        "company's Payments and Industry Products segment "
+                        'offers electronic bill payment and presentment '
+                        'services; internet and mobile banking software and '
+                        'services; account-to-account transfers; '
+                        'person-to-person payment services; debit and credit '
+                        'card processing and services; payments infrastructure '
+                        'services; and other electronic payments software and '
+                        'services. This segment also offers card and print '
+                        'personalization services; investment account '
+                        'processing services for separately managed accounts; '
+                        'and fraud and risk management products and services. '
+                        'Its Financial Institution Services segment offers '
+                        'account processing, item processing and source '
+                        'capture, loan origination and servicing products, '
+                        'cash management and consulting services, and other '
+                        'products and services that support various types of '
+                        'financial transactions. This segment also provides '
+                        'ACH and treasury management, case management and '
+                        'resolution, and source capture optimization services '
+                        'to the financial services industry. The company also '
+                        'offers bank payment and liquidity management '
+                        'solutions, as well as Internet based mortgage '
+                        'software and mortgage lending technology solutions. '
+                        'It serves business, banks, governments, processors, '
+                        'credit unions, other financial institutions, '
+                        'merchants, and other clients. The company was founded '
+                        'in 1984 and is headquartered in Brookfield, '
+                        'Wisconsin.',
+ 'longName': 'Fiserv, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 67370176512,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_128209',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1060000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 101.79,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.35,
+ 'phone': '262-879-5000',
+ 'previousClose': 102.19,
+ 'priceHint': 2,
+ 'priceToBook': 2.1299608,
+ 'priceToSalesTrailing12Months': 5.409521,
+ 'profitMargins': 0.085109994,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 102.16,
+ 'regularMarketDayLow': 99.88,
+ 'regularMarketOpen': 101.79,
+ 'regularMarketPreviousClose': 102.19,
+ 'regularMarketPrice': 101.79,
+ 'regularMarketVolume': 2042313,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 669484032,
+ 'sharesPercentSharesOut': 0.020399999,
+ 'sharesShort': 13626813,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 13841184,
+ 'shortName': 'Fiserv, Inc.',
+ 'shortPercentOfFloat': 0.024500001,
+ 'shortRatio': 2.55,
+ 'startDate': None,
+ 'state': 'WI',
+ 'strikePrice': None,
+ 'symbol': 'FISV',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.787,
+ 'trailingPE': 56.312256,
+ 'twoHundredDayAverage': 104.78475,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '65deb02a-5e11-3c5e-9eee-dab769045f47',
+ 'volume': 2042313,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.fiserv.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '53045'}

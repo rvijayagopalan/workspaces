@@ -1,0 +1,154 @@
+{'52WeekChange': 0.32504284,
+ 'SandP52WeekChange': None,
+ 'address1': '817 Maxwell Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 15.29,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 47000,
+ 'averageVolume': 49576,
+ 'averageVolume10days': 47000,
+ 'beta': 1.195518,
+ 'beta3Year': None,
+ 'bid': 12.5,
+ 'bidSize': 1000,
+ 'bookValue': 8.879,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Evansville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 15.47,
+ 'dayLow': 15.1403,
+ 'dividendRate': 0.5,
+ 'dividendYield': 0.0324,
+ 'earningsQuarterlyGrowth': 6.307,
+ 'enterpriseToEbitda': 13.681,
+ 'enterpriseToRevenue': 1.129,
+ 'enterpriseValue': 209702480,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '812 467 1303',
+ 'fiftyDayAverage': 13.144286,
+ 'fiftyTwoWeekHigh': 15.69,
+ 'fiftyTwoWeekLow': 4.69,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.93,
+ 'floatShares': 8655199,
+ 'forwardEps': 0.86,
+ 'forwardPE': 17.674417,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 468,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.34837002,
+ 'heldPercentInstitutions': 0.28605,
+ 'industry': 'Leisure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 1085529600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/escaladeinc.com',
+ 'longBusinessSummary': 'Escalade, Incorporated, together with its '
+                        'subsidiaries, manufactures and sells sporting goods '
+                        'in North America, Europe, and internationally. The '
+                        'company manufactures, imports, and distributes '
+                        'various sporting goods brands in basketball goals, '
+                        'archery, indoor and outdoor game recreation, and '
+                        'fitness products. It offers archery products under '
+                        'the Bear Archery, Trophy Ridge, Whisker Biscuit, '
+                        'Cajun Bowfishing, Karnage, Fletcher, SIK, BearX, and '
+                        'Rocket brand names; table tennis products under the '
+                        'STIGA and Ping-Pong brands; basketball goals under '
+                        'the Goalrilla, Goaliath, Silverback, Hoopstar, and '
+                        'Goalsetter brand names; and trampoline under the Vuly '
+                        'brand. The company also provides play systems under '
+                        'the Woodplay and Childlife brands; fitness products '
+                        'under the USWeight, The STEP, Lifeline, Kettleworx, '
+                        'Natural Fitness, and PER4M brand names; hockey and '
+                        'soccer game tables under the Atomic, American Legend, '
+                        'Redline, and Triumph brands; and billiard accessories '
+                        'under the Mizerak, Minnesota Fats, Lucasi, PureX, '
+                        'Rage, and Players brand names. In addition, it offers '
+                        'darting products under the Unicorn, Accudart, '
+                        'Arachnid, Nodor, and Winmau brands; and outdoor game '
+                        'products under the Zume Games, Pickleball Now, Onix, '
+                        'Viva Sol, Triumph Sports, and Victory Tailgate brand '
+                        'names. The company provides its products through '
+                        'sporting goods retailers, specialty dealers, online '
+                        'retailers, traditional department stores, and mass '
+                        'merchants. Escalade, Incorporated was founded in 1922 '
+                        'and is headquartered in Evansville, Indiana.',
+ 'longName': 'Escalade, Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 214272880,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_175643',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1584748800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 8942000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 15.47,
+ 'openInterest': None,
+ 'payoutRatio': 0.8065,
+ 'pegRatio': None,
+ 'phone': '812 467 1358',
+ 'previousClose': 15.45,
+ 'priceHint': 2,
+ 'priceToBook': 1.7119045,
+ 'priceToSalesTrailing12Months': 1.1536919,
+ 'profitMargins': 0.04814,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 15.47,
+ 'regularMarketDayLow': 15.1403,
+ 'regularMarketOpen': 15.47,
+ 'regularMarketPreviousClose': 15.45,
+ 'regularMarketPrice': 15.47,
+ 'regularMarketVolume': 34310,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 14096900,
+ 'sharesPercentSharesOut': 0.0135,
+ 'sharesShort': 189983,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 187334,
+ 'shortName': 'Escalade, Incorporated',
+ 'shortPercentOfFloat': 0.0186,
+ 'shortRatio': 3.08,
+ 'startDate': None,
+ 'state': 'IN',
+ 'strikePrice': None,
+ 'symbol': 'ESCA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.5,
+ 'trailingAnnualDividendYield': 0.03236246,
+ 'trailingEps': 0.621,
+ 'trailingPE': 24.47665,
+ 'twoHundredDayAverage': 9.38259,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '48a60f7b-44e7-3e1d-ae07-26762e84e144',
+ 'volume': 34310,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://escaladeinc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '47711'}

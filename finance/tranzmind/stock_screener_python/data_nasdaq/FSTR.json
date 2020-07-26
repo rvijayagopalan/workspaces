@@ -1,0 +1,163 @@
+{'52WeekChange': -0.5107033,
+ 'SandP52WeekChange': None,
+ 'address1': '415 Holiday Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.31,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 26287,
+ 'averageVolume': 35933,
+ 'averageVolume10days': 26287,
+ 'beta': 1.590476,
+ 'beta3Year': None,
+ 'bid': 13.05,
+ 'bidSize': 2200,
+ 'bookValue': 15.399,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Pittsburgh',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.29,
+ 'dayLow': 12.83,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.207,
+ 'enterpriseToRevenue': 0.345,
+ 'enterpriseValue': 218794224,
+ 'exDividendDate': 1473206400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 12.907143,
+ 'fiftyTwoWeekHigh': 27.8,
+ 'fiftyTwoWeekLow': 7.96,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 8142424,
+ 'forwardEps': 0.86,
+ 'forwardPE': 15.325582,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1330,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.07247,
+ 'heldPercentInstitutions': 0.72944,
+ 'industry': 'Railroads',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/lbfoster.com',
+ 'longBusinessSummary': 'L.B. Foster Company manufactures and distributes '
+                        'products and services for the transportation and '
+                        'energy infrastructure worldwide. Its Rail Products '
+                        'and Services segment offers new rail to passenger and '
+                        'short line freight railroads, industrial companies, '
+                        'and rail contractors; used rails; rail accessories, '
+                        'including track spikes, bolts, angle bars, and other '
+                        'products; power rail, direct fixation fasteners, '
+                        'coverboards, and other accessories; and trackwork '
+                        'products, as well as engineers and fabricates '
+                        'insulated rail joints and related accessories. This '
+                        'segment also provides friction management products '
+                        'and application systems, railroad condition '
+                        'monitoring systems and equipment, wheel impact load '
+                        'detection, fire protection systems, rail anchors and '
+                        'spikes, wayside data collection and management '
+                        'systems, epoxy and nylon-encapsulated insulated rail '
+                        'joints, and track fasteners; and aftermarket services '
+                        "and engineered concrete railroad ties. The company's "
+                        'Construction Products segment sells and rents steel '
+                        'sheet piling, H-bearing pile, and other piling '
+                        'products; and bridge decking, bridge railing, '
+                        'structural steel fabrications, expansion joints, '
+                        'bridge forms, and other products for highway '
+                        'construction and repair. It also produces precast '
+                        'concrete buildings and various specialty precast '
+                        'concrete products; and fabricated steel and aluminum '
+                        'products. Its Tubular and Energy Services segment '
+                        'provides pipe coatings for natural gas pipelines and '
+                        'utilities; solutions for metering and injection '
+                        'systems for the oil and gas market; upstream test and '
+                        'inspection services; and precision measurement '
+                        'systems, and inspection and tubular integrity '
+                        'management services for the oil and gas market, as '
+                        'well as threaded pipe products for the oil and gas, '
+                        'industrial water well, and irrigation markets. The '
+                        'company markets its products directly, as well as '
+                        'through a network of agents. L.B. Foster Company was '
+                        'founded in 1902 and is headquartered in Pittsburgh, '
+                        'Pennsylvania.',
+ 'longName': 'L.B. Foster Company',
+ 'market': 'us_market',
+ 'marketCap': 141110352,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_130863',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 37012000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 12.98,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 5.33,
+ 'phone': '412 928 3400',
+ 'previousClose': 12.8,
+ 'priceHint': 2,
+ 'priceToBook': 0.85589975,
+ 'priceToSalesTrailing12Months': 0.22279538,
+ 'profitMargins': 0.05844,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.29,
+ 'regularMarketDayLow': 12.83,
+ 'regularMarketOpen': 12.98,
+ 'regularMarketPreviousClose': 12.8,
+ 'regularMarketPrice': 12.98,
+ 'regularMarketVolume': 18862,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 10706400,
+ 'sharesPercentSharesOut': 0.0153,
+ 'sharesShort': 163612,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 141186,
+ 'shortName': 'L.B. Foster Company',
+ 'shortPercentOfFloat': 0.0164,
+ 'shortRatio': 4.29,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'FSTR',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0,
+ 'trailingAnnualDividendYield': 0,
+ 'trailingEps': 3.477,
+ 'trailingPE': 3.7906241,
+ 'twoHundredDayAverage': 14.227338,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '5a4dcccc-7c2a-3b58-b915-6cde6c762c9e',
+ 'volume': 18862,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.lbfoster.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '15220'}

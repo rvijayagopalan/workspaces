@@ -1,0 +1,163 @@
+{'52WeekChange': -0.28140706,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '132 Turnpike Road',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 36.96,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 241775,
+ 'averageVolume': 300787,
+ 'averageVolume10days': 241775,
+ 'beta': 1.373669,
+ 'beta3Year': None,
+ 'bid': 28.01,
+ 'bidSize': 900,
+ 'bookValue': 13.272,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Southborough',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 33.93,
+ 'dayLow': 32.59,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 1.661,
+ 'enterpriseToEbitda': 12.184,
+ 'enterpriseToRevenue': 1.03,
+ 'enterpriseValue': 1352210432,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '508-366-9901',
+ 'fiftyDayAverage': 31.884,
+ 'fiftyTwoWeekHigh': 52.81,
+ 'fiftyTwoWeekLow': 19.48,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 25695620,
+ 'forwardEps': 2.36,
+ 'forwardPE': 13.936441,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 22830,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.07043,
+ 'heldPercentInstitutions': 0.92955,
+ 'industry': 'Information Technology Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/virtusa.com',
+ 'longBusinessSummary': 'Virtusa Corporation provides digital engineering and '
+                        'information technology (IT) outsourcing services '
+                        'primarily in North America, Europe, and Asia. The '
+                        'company offers business and IT consulting services, '
+                        'including advisory/target operating model, business '
+                        'process re-engineering/business process management, '
+                        'application portfolio rationalization, and '
+                        'business/technology alignment analysis; digital '
+                        'transformation services, such as digital strategy '
+                        'user experience and design, application and platform '
+                        'engineering analytics, intelligent automation content '
+                        'and customer experience, and cyber security; and '
+                        'cloud transformation services comprising cloud '
+                        'strategy and migration, cloud native applications, '
+                        'and capex to opex models. It also provides '
+                        'application development, software product '
+                        'engineering, CRM and SAP implementation, content '
+                        'management, enterprise mobility, cloud computing, '
+                        'social media, and cloud engineering solutions; '
+                        'systems consolidation and rationalization, technology '
+                        'migration and porting, and Web-enablement of legacy '
+                        'applications; data management, business intelligence, '
+                        'reporting and decision support, master data '
+                        'management, data integration, big data analytics, '
+                        'data lake, and data on the cloud services; and '
+                        'software quality assurance and managed testing '
+                        'services. In addition, the company offers application '
+                        'enhancement, maintenance, and support, and '
+                        'cloud-environment management and support; managed '
+                        'infrastructure, and remote application monitoring and '
+                        'support services; and IT efficiency improvement '
+                        'services. Further, it offers digital engineering and '
+                        'operational excellence services-based, and '
+                        'transformational solutions. Virtusa Corporation '
+                        'serves communications and technology; banking, '
+                        'financial services, and insurance; and media and '
+                        'information industries. The company was formerly '
+                        'known as eRunway, Inc. and changed its name to '
+                        'Virtusa Corporation in April 2002. Virtusa '
+                        'Corporation was founded in 1996 and is headquartered '
+                        'in Southborough, Massachusetts.',
+ 'longName': 'Virtusa Corporation',
+ 'market': 'us_market',
+ 'marketCap': 991067776,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_424735',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 43552000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 33.55,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.15,
+ 'phone': '508-389-7300',
+ 'previousClose': 33.91,
+ 'priceHint': 2,
+ 'priceToBook': 2.4781494,
+ 'priceToSalesTrailing12Months': 0.7552241,
+ 'profitMargins': 0.0365,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 33.93,
+ 'regularMarketDayLow': 32.59,
+ 'regularMarketOpen': 33.55,
+ 'regularMarketPreviousClose': 33.91,
+ 'regularMarketPrice': 33.55,
+ 'regularMarketVolume': 208943,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 29860500,
+ 'sharesPercentSharesOut': 0.044299997,
+ 'sharesShort': 1334449,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1058650,
+ 'shortName': 'Virtusa Corporation',
+ 'shortPercentOfFloat': 0.0541,
+ 'shortRatio': 4.14,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'VRTU',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.42,
+ 'trailingPE': 23.161972,
+ 'twoHundredDayAverage': 35.15813,
+ 'volume': 208943,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.virtusa.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01772'}

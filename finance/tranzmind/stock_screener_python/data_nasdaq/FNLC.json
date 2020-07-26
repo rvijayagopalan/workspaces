@@ -1,0 +1,161 @@
+{'52WeekChange': -0.16237015,
+ 'SandP52WeekChange': None,
+ 'address1': '223 Main Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 22.68,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 20462,
+ 'averageVolume': 22709,
+ 'averageVolume10days': 20462,
+ 'beta': 0.692436,
+ 'beta3Year': None,
+ 'bid': 20,
+ 'bidSize': 4000,
+ 'bookValue': 19.809,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Damariscotta',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 21.83,
+ 'dayLow': 20.9454,
+ 'dividendRate': 1.24,
+ 'dividendYield': 0.056999996,
+ 'earningsQuarterlyGrowth': 0.027,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 6.793,
+ 'enterpriseValue': 468293024,
+ 'exDividendDate': 1593993600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 20.854286,
+ 'fiftyTwoWeekHigh': 30.64,
+ 'fiftyTwoWeekLow': 17.62,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.98,
+ 'floatShares': 9915963,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 240,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.05588,
+ 'heldPercentInstitutions': 0.40441,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1086134400,
+ 'lastSplitFactor': '3:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/thefirst.com',
+ 'longBusinessSummary': 'The First Bancorp, Inc. operates as the holding '
+                        'company for First National Bank that provides a range '
+                        'of banking products and services to individual and '
+                        'corporate customers. The company offers various '
+                        'deposit products, including demand, NOW, savings, '
+                        'money market, and certificates of deposit accounts. '
+                        'It also provides commercial loan products, such as '
+                        'mortgage loans to finance investments in real '
+                        'property comprising multi-family residential, '
+                        'commercial/retail, office, industrial, hotel, '
+                        'educational, and other specific or mixed use '
+                        'properties; loans to finance construction of owner- '
+                        'and non-owner occupied commercial real estate '
+                        'properties; and revolving and term loan obligations '
+                        'to business and corporate enterprises for the purpose '
+                        'of financing working capital or capital investment. '
+                        'In addition, the company offers municipal loans for '
+                        'capitalized expenditures, construction projects, or '
+                        'tax-anticipation notes; residential term loans that '
+                        'include amortizing home mortgages and construction '
+                        'loans, which include loans for owner-occupied '
+                        'residential construction; home equity loans and lines '
+                        'of credit; and consumer loans, which are amortizing '
+                        'loans to individuals collateralized by automobiles, '
+                        'pleasure crafts, and recreation vehicles, as well as '
+                        'unsecured short-term time notes. Further, it provides '
+                        'private banking, financial planning, investment '
+                        'management, and trust services to individuals, '
+                        'businesses, non-profit organizations, and '
+                        'municipalities, as well as ATM processing services. '
+                        'The company operates through 16 full-service banking '
+                        'offices in Lincoln, Knox, Hancock, Washington, and '
+                        'Penobscot counties in the Mid-Coast, Eastern, and '
+                        'Down East regions of Maine. The company was formerly '
+                        'known as First National Lincoln Corporation and '
+                        'changed its name to The First Bancorp, Inc. in April '
+                        '2008. The First Bancorp, Inc. was founded in 1864 and '
+                        'is based in Damariscotta, Maine.',
+ 'longName': 'The First Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 233379360,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_405561',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 26038000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 21.83,
+ 'openInterest': None,
+ 'payoutRatio': 0.5021,
+ 'pegRatio': None,
+ 'phone': '207-563-3195',
+ 'previousClose': 21.77,
+ 'priceHint': 2,
+ 'priceToBook': 1.0782977,
+ 'priceToSalesTrailing12Months': 3.3852532,
+ 'profitMargins': 0.37769002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 21.83,
+ 'regularMarketDayLow': 20.9454,
+ 'regularMarketOpen': 21.83,
+ 'regularMarketPreviousClose': 21.77,
+ 'regularMarketPrice': 21.83,
+ 'regularMarketVolume': 6206,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 10926000,
+ 'sharesPercentSharesOut': 0.013099999,
+ 'sharesShort': 143652,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 135907,
+ 'shortName': 'First Bancorp, Inc (ME)',
+ 'shortPercentOfFloat': 0.0143,
+ 'shortRatio': 5.64,
+ 'startDate': None,
+ 'state': 'ME',
+ 'strikePrice': None,
+ 'symbol': 'FNLC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.21,
+ 'trailingAnnualDividendYield': 0.055581074,
+ 'trailingEps': 2.39,
+ 'trailingPE': 8.937239,
+ 'twoHundredDayAverage': 23.063885,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '4f4a011a-083f-3f46-86ad-ece2f05bcd3c',
+ 'volume': 6206,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.thefirst.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '04543'}

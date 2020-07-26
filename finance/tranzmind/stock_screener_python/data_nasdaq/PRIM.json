@@ -1,0 +1,162 @@
+{'52WeekChange': -0.17156863,
+ 'SandP52WeekChange': None,
+ 'address1': '2300 North Field Street',
+ 'address2': 'Suite 1900',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 19.99,
+ 'askSize': 3100,
+ 'averageDailyVolume10Day': 260600,
+ 'averageVolume': 299033,
+ 'averageVolume10days': 260600,
+ 'beta': 1.114845,
+ 'beta3Year': None,
+ 'bid': 15.81,
+ 'bidSize': 1100,
+ 'bookValue': 12.733,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Dallas',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 16.98,
+ 'dayLow': 16.42,
+ 'dividendRate': 0.24,
+ 'dividendYield': 0.014199999,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.007,
+ 'enterpriseToRevenue': 0.411,
+ 'enterpriseValue': 1311147008,
+ 'exDividendDate': 1593388800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 16.94457,
+ 'fiftyTwoWeekHigh': 23.73,
+ 'fiftyTwoWeekLow': 9.42,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.03,
+ 'floatShares': 44696403,
+ 'forwardEps': 1.52,
+ 'forwardPE': 10.809211,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 9700,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.07298,
+ 'heldPercentInstitutions': 0.89577,
+ 'industry': 'Engineering & Construction',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/primoriscorp.com',
+ 'longBusinessSummary': 'Primoris Services Corporation, a specialty contractor '
+                        'and infrastructure company, provides a range of '
+                        'construction, fabrication, maintenance, replacement, '
+                        'and engineering services in the United States and '
+                        'Canada. The company operates through five segments: '
+                        'Power, Industrial, and Engineering; Pipeline and '
+                        'Underground; Utilities and Distribution; Transmission '
+                        'and Distribution; and Civil. The Power, Industrial, '
+                        'and Engineering segment offer a range of services, '
+                        'such as engineering, procurement, and construction '
+                        'project delivery, turnkey construction, retrofit, '
+                        'upgrade, repair, outage, and maintenance for entities '
+                        'in the petroleum and petrochemical industries. The '
+                        'Pipeline and Underground segment provides a range of '
+                        'services comprising pipeline construction, pipeline '
+                        'maintenance, pipeline facility work, compressor '
+                        'station, pump station, metering facility, and other '
+                        'pipeline related services for entities in the '
+                        'petroleum and petrochemical industries. The Utilities '
+                        'and Distribution segment offers utility line '
+                        'installation and maintenance, gas and electric '
+                        'distribution, streetlight construction, substation '
+                        'work, and fiber optic cable installation services. '
+                        'The Transmission and Distribution segment provides '
+                        'services in electric and gas transmission and '
+                        'distribution that include comprehensive engineering, '
+                        'procurement, maintenance and construction, repair, '
+                        'and restoration of utility infrastructure. The Civil '
+                        'segment undertakes highway and bridge construction, '
+                        'airport runway and taxiway construction, demolition, '
+                        'heavy earthwork, soil stabilization, flood control, '
+                        'mass excavation, and drainage projects. The company '
+                        'also offers process and product engineering services. '
+                        'It serves utility, refining, petrochemical, power, '
+                        'midstream, engineering companies, state departments '
+                        'of transportation, and other customers. Primoris '
+                        'Services Corporation is headquartered in Dallas, '
+                        'Texas.',
+ 'longName': 'Primoris Services Corporation',
+ 'market': 'us_market',
+ 'marketCap': 792918400,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4236188',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 76643000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 16.87,
+ 'openInterest': None,
+ 'payoutRatio': 0.1611,
+ 'pegRatio': 1.35,
+ 'phone': '214 740 5600',
+ 'previousClose': 16.9,
+ 'priceHint': 2,
+ 'priceToBook': 1.2903479,
+ 'priceToSalesTrailing12Months': 0.2487186,
+ 'profitMargins': 0.02404,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 16.98,
+ 'regularMarketDayLow': 16.42,
+ 'regularMarketOpen': 16.87,
+ 'regularMarketPreviousClose': 16.9,
+ 'regularMarketPrice': 16.87,
+ 'regularMarketVolume': 174847,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 48260400,
+ 'sharesPercentSharesOut': 0.0121,
+ 'sharesShort': 583665,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 343903,
+ 'shortName': 'Primoris Services Corporation',
+ 'shortPercentOfFloat': 0.0123000005,
+ 'shortRatio': 1.58,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'PRIM',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.24,
+ 'trailingAnnualDividendYield': 0.014201184,
+ 'trailingEps': 1.513,
+ 'trailingPE': 10.8592205,
+ 'twoHundredDayAverage': 17.400503,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '954b965b-c053-3f07-ab30-90129a0d4b2d',
+ 'volume': 174847,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.primoriscorp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75201'}

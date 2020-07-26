@@ -1,0 +1,161 @@
+{'52WeekChange': 0.19672132,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '21255 Burbank Boulevard',
+ 'address2': 'Suite 400',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 22.67,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 58962,
+ 'averageVolume': 119188,
+ 'averageVolume10days': 58962,
+ 'beta': 0.858263,
+ 'beta3Year': None,
+ 'bid': 22.66,
+ 'bidSize': 900,
+ 'bookValue': 9.181,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Woodland Hills',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.05,
+ 'dayLow': 22.3195,
+ 'dividendRate': 1,
+ 'dividendYield': 0.0433,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.795,
+ 'enterpriseValue': 1176375168,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '818-884-2976',
+ 'fiftyDayAverage': 21.991428,
+ 'fiftyTwoWeekHigh': 30.17,
+ 'fiftyTwoWeekLow': 12.94,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.08,
+ 'floatShares': 14994311,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 982,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.41631,
+ 'heldPercentInstitutions': 0.48132,
+ 'industry': 'Financial Conglomerates',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1480032000,
+ 'lastSplitFactor': '101:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/brileyfin.com',
+ 'longBusinessSummary': 'B. Riley Financial, Inc., through its subsidiaries, '
+                        'provides collaborative financial services and '
+                        'solutions in North America, Australia, and Europe. '
+                        'The Capital Markets segments offers range of '
+                        'investment banking, corporate finance, consulting, '
+                        'financial advisory, research, securities lending, '
+                        'wealth management, and sales and trading services to '
+                        'corporate, institutional, and high net worth clients. '
+                        'This segment also provides merger and acquisitions, '
+                        'restructuring advisory, initial and secondary public '
+                        'offerings, and institutional private placements '
+                        'services; asset management services; manages various '
+                        'private and public funds for institutional and '
+                        'individual investors; and trades in equity '
+                        'securities. The Auction and Liquidation Segment '
+                        'offers retail store liquidation, and wholesale and '
+                        'industrial assets disposition services. The Valuation '
+                        'and Appraisal segment provides valuation and '
+                        'appraisal services, which include valuation of assets '
+                        'to financial institutions, lenders, private equity '
+                        'firms, and other capital provider. The Principal '
+                        'Investments - United Online and magicJack segment '
+                        'provides consumer subscription services consisting of '
+                        'Internet access services and devices under the '
+                        'NetZero and Juno brands, as well as voice over IP '
+                        'cloud-based technology and communication services. '
+                        'The Brands segments provides licensing of a brand '
+                        'investment portfolio, including Catherine Malandrino, '
+                        'English Laundry, Joan Vass, Kensie Girl, Limited Too, '
+                        'and Nanette Lepore. In addition, it offers advisory '
+                        'services to private funds, and institutional and high '
+                        'net worth investors; brokerage services; senior '
+                        'secured and second lien secured loans to middle '
+                        'market public and the private U.S. companies; and '
+                        'consulting services to shareholders, creditors, and '
+                        'companies. The company was formerly known as Great '
+                        'American Group, Inc. and changed its name to B. Riley '
+                        'Financial, Inc. in November 2014. B. Riley Financial, '
+                        'Inc. was founded in 1973 and is headquartered in Los '
+                        'Angeles, California.',
+ 'longName': 'B. Riley Financial, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 584471808,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4439094',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -26396000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 23.05,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '818-884-3737',
+ 'previousClose': 23.1,
+ 'priceHint': 2,
+ 'priceToBook': 2.464873,
+ 'priceToSalesTrailing12Months': 1.3887031,
+ 'profitMargins': -0.059580002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.05,
+ 'regularMarketDayLow': 22.3195,
+ 'regularMarketOpen': 23.05,
+ 'regularMarketPreviousClose': 23.1,
+ 'regularMarketPrice': 23.05,
+ 'regularMarketVolume': 44592,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 25827300,
+ 'sharesPercentSharesOut': 0.0431,
+ 'sharesShort': 1112881,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 862773,
+ 'shortName': 'B. Riley Financial, Inc.',
+ 'shortPercentOfFloat': 0.0584,
+ 'shortRatio': 7.86,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'RILY',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.68,
+ 'trailingAnnualDividendYield': 0.029437229,
+ 'trailingEps': -1.005,
+ 'twoHundredDayAverage': 21.353094,
+ 'volume': 44592,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.brileyfin.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '91367'}

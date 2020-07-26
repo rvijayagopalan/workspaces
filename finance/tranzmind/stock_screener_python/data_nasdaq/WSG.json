@@ -1,0 +1,153 @@
+{'52WeekChange': -0.5988372,
+ 'SandP52WeekChange': None,
+ 'address1': 'Wanda Plaza',
+ 'address2': 'Tower B, 9th Floor 93 Jianguo Road Chaoyang District',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.06,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 67650,
+ 'averageVolume': 121344,
+ 'averageVolume10days': 67650,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 2.01,
+ 'bidSize': 1000,
+ 'bookValue': None,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Beijing',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.08,
+ 'dayLow': 2,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 281520000,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 2.2602572,
+ 'fiftyTwoWeekHigh': 5.55,
+ 'fiftyTwoWeekLow': 1.36,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 28029180,
+ 'forwardEps': 0.39,
+ 'forwardPE': 5.230769,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.18536,
+ 'industry': 'Entertainment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1427328000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/wsg.cn',
+ 'longBusinessSummary': 'Wanda Sports Group Company Limited operates as a '
+                        'sports events, media, and marketing platform '
+                        'worldwide. It operates through Spectator Sports; '
+                        'Digital, Production, Sports Solutions (DPSS); and '
+                        'Mass Participation. The Spectator Sports segment '
+                        'monetizes rights acquired from rights owners under '
+                        'contractual arrangements through media distribution, '
+                        'sponsorship, and marketing activities; and provides '
+                        'services to its rights-in partners and rights-out '
+                        'clients covering event operation and support, media '
+                        'production, digital solutions, and ancillary '
+                        'services. This segment includes a portfolio of '
+                        'sports, such as football, and winter and summer '
+                        'sports. The DPSS segment offers a suite of '
+                        'specialized sports-related services, including '
+                        'digital media solutions, media and program '
+                        'production, host broadcasting, marketing, event '
+                        'operations, brand development, and advertising '
+                        'solutions. The Mass Participation segment organizes, '
+                        'operates, and monetizes a range of mass participation '
+                        'sports, including triathlon, running, mountain '
+                        'biking, road cycling, obstacle course racing, and '
+                        'trail running through a portfolio of brands and other '
+                        'intellectual property. It also engages in the rights '
+                        'distribution, broadcast hosting, digital media and '
+                        'entertainment, program production, event operations '
+                        'and licensing, and brand development and sponsorship '
+                        'activities. The company was founded in 2018 and is '
+                        "headquartered in Beijing, the People's Republic of "
+                        'China. Wanda Sports Group Company Limited operates as '
+                        'a subsidiary of Wanda Sports & Media (Hong Kong) '
+                        'Holding Co. Ltd.',
+ 'longName': 'Wanda Sports Group Company Limited',
+ 'market': 'us_market',
+ 'marketCap': 281393504,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_607760510',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.05,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.22,
+ 'phone': '86 10 8558 8813',
+ 'previousClose': 2.07,
+ 'priceHint': 4,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': -0.29825002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.08,
+ 'regularMarketDayLow': 2,
+ 'regularMarketOpen': 2.05,
+ 'regularMarketPreviousClose': 2.07,
+ 'regularMarketPrice': 2.05,
+ 'regularMarketVolume': 132095,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 137938000,
+ 'sharesPercentSharesOut': 0.0008,
+ 'sharesShort': 113754,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 127476,
+ 'shortName': 'Wanda Sports Group Company Limi',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 0.74,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'WSG',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': None,
+ 'twoHundredDayAverage': 2.6381583,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'd5f47128-5231-37c6-9fc0-639b15e47a45',
+ 'volume': 132095,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.wsg.cn',
+ 'yield': None,
+ 'ytdReturn': None}

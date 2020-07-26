@@ -1,0 +1,157 @@
+{'52WeekChange': -0.21814853,
+ 'SandP52WeekChange': None,
+ 'address1': '101 Crain Highway, S.E.',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 9,
+ 'askSize': 2900,
+ 'averageDailyVolume10Day': 687,
+ 'averageVolume': 758,
+ 'averageVolume10days': 687,
+ 'beta': 0.742857,
+ 'beta3Year': None,
+ 'bid': 8.31,
+ 'bidSize': 900,
+ 'bookValue': 12.669,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Glen Burnie',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9,
+ 'dayLow': 8.65,
+ 'dividendRate': 0.4,
+ 'dividendYield': 0.0478,
+ 'earningsQuarterlyGrowth': 0.985,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.869,
+ 'enterpriseValue': 26408956,
+ 'exDividendDate': 1594944000,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 8.960286,
+ 'fiftyTwoWeekHigh': 11.8,
+ 'fiftyTwoWeekLow': 7.05,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.57,
+ 'floatShares': 2244587,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 102,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.20992,
+ 'heldPercentInstitutions': 0.03215,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1199923200,
+ 'lastSplitFactor': '120:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/thebankofglenburnie.com',
+ 'longBusinessSummary': 'Glen Burnie Bancorp operates as the bank holding '
+                        'company for The Bank of Glen Burnie that provides '
+                        'commercial and retail banking services to '
+                        'individuals, associations, partnerships, and '
+                        'corporations. The company accepts various deposits, '
+                        'including savings accounts, money market deposit '
+                        'accounts, demand deposit accounts, NOW checking '
+                        'accounts, IRA and SEP accounts, and certificates of '
+                        'deposit. It also provides residential and commercial '
+                        'real estate, construction, land acquisition and '
+                        'development, and secured and unsecured commercial '
+                        'loans, as well as consumer installment lending, such '
+                        'as indirect automobile lending services; and '
+                        'residential first and second mortgage loans, home '
+                        'equity lines of credit, and commercial mortgage '
+                        'loans. In addition, the company offers ancillary '
+                        'products and services comprising safe deposit boxes, '
+                        'money orders, night depositories, automated '
+                        'clearinghouse transactions, automated teller machine '
+                        'services, and telephone and Internet banking '
+                        'services. Further, it provides treasury services, '
+                        'including wire transfer and ACH services, and debit '
+                        'cards; and telephone, mobile, and Internet banking '
+                        'services, as well as Internet bill paying services. '
+                        'Additionally, the company engages in the business of '
+                        'acquiring, holding, and disposing of real property. '
+                        'It serves customers in northern Anne Arundel county '
+                        'and surrounding areas from its main office and branch '
+                        'in Glen Burnie, Maryland; and branch offices in '
+                        'Odenton, Riviera Beach, Crownsville, Severn, '
+                        'Linthicum, and Severna Park, Maryland. The company '
+                        'also has a remote ATM located in Pasadena, Maryland. '
+                        'Glen Burnie Bancorp was founded in 1949 and is based '
+                        'in Glen Burnie, Maryland.',
+ 'longName': 'Glen Burnie Bancorp',
+ 'market': 'us_market',
+ 'marketCap': 24516866,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_415918',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1732000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 8.92,
+ 'openInterest': None,
+ 'payoutRatio': 0.65569997,
+ 'pegRatio': None,
+ 'phone': '410-766-3300',
+ 'previousClose': 8.53,
+ 'priceHint': 2,
+ 'priceToBook': 0.68276894,
+ 'priceToSalesTrailing12Months': 1.7348475,
+ 'profitMargins': 0.122559994,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9,
+ 'regularMarketDayLow': 8.65,
+ 'regularMarketOpen': 8.92,
+ 'regularMarketPreviousClose': 8.53,
+ 'regularMarketPrice': 8.92,
+ 'regularMarketVolume': 14,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 2834320,
+ 'sharesPercentSharesOut': 0.0002,
+ 'sharesShort': 637,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 562,
+ 'shortName': 'Glen Burnie Bancorp',
+ 'shortPercentOfFloat': 0.00029999999,
+ 'shortRatio': 0.73,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'GLBZ',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.4,
+ 'trailingAnnualDividendYield': 0.04689332,
+ 'trailingEps': 0.613,
+ 'trailingPE': 14.1109295,
+ 'twoHundredDayAverage': 9.469641,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'eee2eb31-7ddf-32e9-b229-42fbc7792270',
+ 'volume': 14,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.thebankofglenburnie.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '21061'}

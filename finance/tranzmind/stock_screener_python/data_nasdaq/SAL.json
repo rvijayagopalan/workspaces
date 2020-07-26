@@ -1,0 +1,154 @@
+{'52WeekChange': -0.092846274,
+ 'SandP52WeekChange': None,
+ 'address1': '5 Bissell Street',
+ 'address2': 'PO Box 1868',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 37.99,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 2200,
+ 'averageVolume': 12000,
+ 'averageVolume10days': 2200,
+ 'beta': 0.770308,
+ 'beta3Year': None,
+ 'bid': 35.2,
+ 'bidSize': 800,
+ 'bookValue': 41.637,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lakeville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 36.56,
+ 'dayLow': 35.9,
+ 'dividendRate': 1.16,
+ 'dividendYield': 0.0324,
+ 'earningsQuarterlyGrowth': -0.159,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.865,
+ 'enterpriseValue': 119082008,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 39.565144,
+ 'fiftyTwoWeekHigh': 49.85,
+ 'fiftyTwoWeekLow': 24.58,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3,
+ 'floatShares': 2486927,
+ 'forwardEps': 3.49,
+ 'forwardPE': 10.286533,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.13044,
+ 'heldPercentInstitutions': 0.13727,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/salisburybank.com',
+ 'longBusinessSummary': 'Salisbury Bancorp, Inc. operates as the bank holding '
+                        'company for Salisbury Bank and Trust Company that '
+                        'provides commercial banking, consumer financing, '
+                        'retail banking, and trust and wealth advisory '
+                        'services. It offers various retail and commercial '
+                        'deposit products. The company also provides loans, '
+                        'such as residential and commercial real estate loans; '
+                        'construction loans; commercial loans; and consumer '
+                        'loans, including home equity loans and lines of '
+                        'credit, and auto and personal installment loans. In '
+                        'addition, it offers a range of fiduciary services, '
+                        'including trust and estate administration, wealth '
+                        'advisory, and investment management services to '
+                        'individuals, families, businesses, and institutions. '
+                        'Further, the company provides additional depositor '
+                        'related services consisting of landlord/tenant lease '
+                        'security accounts and services, merchant services, '
+                        'payroll services, ATM services, bank-by-phone '
+                        'services, Internet banking services, Internet bill '
+                        'pay services, person to person payments, bank to bank '
+                        'transfers, mobile banking services with remote '
+                        'deposit, and Online financial management with account '
+                        'aggregation services, as well as cash management '
+                        'services, including remote deposit capture, ACH '
+                        'origination, wire transfers, and positive pay '
+                        'services. It operates through a network of fourteen '
+                        'banking offices and ten ATMs located in Litchfield '
+                        'County, Connecticut; Dutchess, Orange, and Ulster '
+                        'Counties, New York; and Berkshire County, '
+                        'Massachusetts. Salisbury Bancorp, Inc. was founded in '
+                        '1998 and is headquartered in Lakeville, Connecticut.',
+ 'longName': 'Salisbury Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 101536696,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_391184',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 10581000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 36.55,
+ 'openInterest': None,
+ 'payoutRatio': 0.2982,
+ 'pegRatio': None,
+ 'phone': '860-435-9801',
+ 'previousClose': 35.76,
+ 'priceHint': 2,
+ 'priceToBook': 0.8622139,
+ 'priceToSalesTrailing12Months': 2.4429588,
+ 'profitMargins': 0.25862,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 36.56,
+ 'regularMarketDayLow': 35.9,
+ 'regularMarketOpen': 36.55,
+ 'regularMarketPreviousClose': 35.76,
+ 'regularMarketPrice': 36.55,
+ 'regularMarketVolume': 1559,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 2828320,
+ 'sharesPercentSharesOut': 0.0189,
+ 'sharesShort': 53431,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1576,
+ 'shortName': 'Salisbury Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.021300001,
+ 'shortRatio': 1.94,
+ 'startDate': None,
+ 'state': 'CT',
+ 'strikePrice': None,
+ 'symbol': 'SAL',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.14,
+ 'trailingAnnualDividendYield': 0.031879194,
+ 'trailingEps': 3.79,
+ 'trailingPE': 9.472296,
+ 'twoHundredDayAverage': 38.187843,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'a9fbf652-584d-3904-a8bf-8246e7b3387c',
+ 'volume': 1559,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.salisburybank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '06039'}

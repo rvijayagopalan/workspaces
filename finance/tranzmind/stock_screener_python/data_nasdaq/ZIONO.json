@@ -1,0 +1,150 @@
+{'52WeekChange': -0.056081533,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'One South Main Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 26.3,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 5512,
+ 'averageVolume': 7342,
+ 'averageVolume10days': 5512,
+ 'beta': 1.703081,
+ 'beta3Year': None,
+ 'bid': 25.75,
+ 'bidSize': 800,
+ 'bookValue': None,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Salt Lake City',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': None,
+ 'dayHigh': 26.54,
+ 'dayLow': 25.9176,
+ 'dividendRate': 1.58,
+ 'dividendYield': 0.0602,
+ 'earningsQuarterlyGrowth': -0.667,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.879,
+ 'enterpriseValue': 4454309888,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 26.652,
+ 'fiftyTwoWeekHigh': 29.42,
+ 'fiftyTwoWeekLow': 16.68,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 5.68,
+ 'floatShares': 161442900,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 9859,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.10373,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/zionsbancorporation.com',
+ 'longBusinessSummary': 'Zions Bancorporation, National Association provides '
+                        'various banking and related services primarily in '
+                        'Arizona, California, Colorado, Idaho, Nevada, New '
+                        'Mexico, Oregon, Texas, Utah, Washington, and Wyoming. '
+                        'The company offers community banking services, such '
+                        'as small and medium-sized business and corporate '
+                        'banking; commercial and residential development, '
+                        'construction, and term lending; retail banking; '
+                        'treasury cash management and related products and '
+                        'services; residential mortgage servicing and lending '
+                        'services; trust and wealth management services; '
+                        'capital markets services, including municipal finance '
+                        'advisory and underwriting; and investment services. '
+                        'It also offers personal banking services to '
+                        'individuals, including home mortgages, bankcards, '
+                        'other installment loans, home equity lines of credit, '
+                        'checking accounts, savings accounts, certificates of '
+                        'deposit of various types and maturities, trust '
+                        'services, safe deposit facilities, and internet and '
+                        'mobile banking services. In addition, the company '
+                        'provides self-directed brokerage services; small '
+                        'business administration lending and secondary market '
+                        'agricultural real estate mortgage loans; corporate '
+                        'trust services for municipalities; and bond transfer, '
+                        'stock transfer, and escrow services. As of December '
+                        '31, 2019, it operated 434 branches. The company was '
+                        'formerly known as ZB, National Association and '
+                        'changed its name to Zions Bancorporation, National '
+                        'Association in September 2018. Zions Bancorporation, '
+                        'National Association was founded in 1873 and is '
+                        'headquartered in Salt Lake City, Utah.',
+ 'longName': 'Zions Bancorporation, National Association',
+ 'market': 'us_market',
+ 'marketCap': None,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_315476',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 448000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 26.32,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '801-844-7637',
+ 'previousClose': 26.34,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.20456,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 26.54,
+ 'regularMarketDayLow': 25.9176,
+ 'regularMarketOpen': 26.32,
+ 'regularMarketPreviousClose': 26.34,
+ 'regularMarketPrice': 26.32,
+ 'regularMarketVolume': 2851,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': None,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': None,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'Zions Bancorporation N.A. - Dep',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': None,
+ 'startDate': None,
+ 'state': 'UT',
+ 'strikePrice': None,
+ 'symbol': 'ZIONO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': None,
+ 'twoHundredDayAverage': 26.272158,
+ 'volume': 2851,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.zionsbancorporation.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '84133-1109'}

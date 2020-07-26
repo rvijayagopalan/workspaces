@@ -1,0 +1,150 @@
+{'52WeekChange': -0.52408755,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3430 East Global Loop',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 0.6577,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 4981950,
+ 'averageVolume': 5602495,
+ 'averageVolume10days': 4981950,
+ 'beta': 1.762464,
+ 'beta3Year': None,
+ 'bid': 0.6526,
+ 'bidSize': 800,
+ 'bookValue': 0.325,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Tucson',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 0.67,
+ 'dayLow': 0.62,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -1.309,
+ 'enterpriseToRevenue': 1.27,
+ 'enterpriseValue': 23153436,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '520-547-2837',
+ 'fiftyDayAverage': 0.67062855,
+ 'fiftyTwoWeekHigh': 1.42,
+ 'fiftyTwoWeekLow': 0.267,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 48949965,
+ 'forwardEps': -0.24,
+ 'forwardPE': -2.7270834,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 108,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.07872,
+ 'heldPercentInstitutions': 0.58102,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/htgmolecular.com',
+ 'longBusinessSummary': 'HTG Molecular Diagnostics, Inc. a commercial stage '
+                        'life sciences company, focuses on the precision '
+                        'medicine. The company offers instrumentation; '
+                        'consumables comprising assay kits; and software that '
+                        'automate sample processing and profiles various '
+                        'molecular targets. Its platforms generate a molecular '
+                        'profiling library for detection using next-generation '
+                        "sequencing. The company's marketed panels include HTG "
+                        'EdgeSeq oncology biomarker panel; HTG EdgeSeq '
+                        'immuno-oncology assay; HTG EdgeSeq DLBCL cell of '
+                        'origin assay; HTG EdgeSeq path assay; HTG EdgeSeq '
+                        'miRNA whole-transcriptome assay; HTG EdgeSeq DLBCL '
+                        'cell of origin assay EU; HTG EdgeSeq ALKPlus assay '
+                        'EU;HTG EdgeSeq precision immuno-oncology panel; HTG '
+                        'lung fusions assay; HTG autoimmune panel; and HTG '
+                        'mouse mRNA tumor response panel. It serves '
+                        'biopharmaceutical companies, academic research '
+                        'centers, and molecular testing laboratories. HTG '
+                        'Molecular Diagnostics, Inc. distributes its '
+                        'instruments and consumables directly in the United '
+                        'States and Europe; and through distributors in parts '
+                        'of Europe and internationally. The company has a '
+                        'governing agreement with QIAGEN Manchester Limited; '
+                        'and an agreement with Illumina, Inc. for the '
+                        'development of nuclease-protection-based RNA or DNA '
+                        'profiling tests. The company was formerly known as '
+                        'HTG, Inc. and changed its name to HTG Molecular '
+                        'Diagnostics, Inc. in March 2011. HTG Molecular '
+                        'Diagnostics, Inc. was incorporated in 1997 and is '
+                        'based in Tucson, Arizona.',
+ 'longName': 'HTG Molecular Diagnostics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 43912828,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1519732',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -19384716,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 0.658,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '877-289-2615',
+ 'previousClose': 0.7012,
+ 'priceHint': 4,
+ 'priceToBook': 2.0138462,
+ 'priceToSalesTrailing12Months': 2.40928,
+ 'profitMargins': -1.06354,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 0.67,
+ 'regularMarketDayLow': 0.62,
+ 'regularMarketOpen': 0.658,
+ 'regularMarketPreviousClose': 0.7012,
+ 'regularMarketPrice': 0.658,
+ 'regularMarketVolume': 3094086,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 67093700,
+ 'sharesPercentSharesOut': 0.015700001,
+ 'sharesShort': 1055163,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 702840,
+ 'shortName': 'HTG Molecular Diagnostics, Inc.',
+ 'shortPercentOfFloat': 0.0159,
+ 'shortRatio': 0.15,
+ 'startDate': None,
+ 'state': 'AZ',
+ 'strikePrice': None,
+ 'symbol': 'HTGM',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.412,
+ 'twoHundredDayAverage': 0.5257842,
+ 'volume': 3094086,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.htgmolecular.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '85706'}

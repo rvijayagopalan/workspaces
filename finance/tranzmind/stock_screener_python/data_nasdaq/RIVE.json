@@ -1,0 +1,160 @@
+{'52WeekChange': -0.3704762,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3901 North Front Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 6.74,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 7925,
+ 'averageVolume': 10001,
+ 'averageVolume10days': 7925,
+ 'beta': 0.856022,
+ 'beta3Year': None,
+ 'bid': 6.11,
+ 'bidSize': 800,
+ 'bookValue': 12.824,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Harrisburg',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.61,
+ 'dayLow': 6.585,
+ 'dividendRate': 0.3,
+ 'dividendYield': 0.045500003,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 0.404,
+ 'enterpriseValue': 18559652,
+ 'exDividendDate': 1591920000,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 6.2848573,
+ 'fiftyTwoWeekHigh': 13.6,
+ 'fiftyTwoWeekLow': 4,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 4.05,
+ 'floatShares': 5908740,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 276,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03379,
+ 'heldPercentInstitutions': 0.38261002,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/riverviewbankpa.com',
+ 'longBusinessSummary': 'Riverview Financial Corporation operates as the bank '
+                        'holding company for Riverview Bank that provides '
+                        'various consumer and commercial banking products and '
+                        'services to individuals, municipalities, small to '
+                        'medium sized businesses, and nonprofit entities in '
+                        'the United States. It accepts money market, NOW, '
+                        'savings, individual retirement, and investment '
+                        'accounts; demand and time deposits, certificates of '
+                        'deposit, and noninterest bearing deposits; and '
+                        'provides remote deposit capture, automatic clearing '
+                        'house transaction, cash management, automated teller '
+                        'machine, point of sale transaction, night depository, '
+                        'direct deposit, and official check services, as well '
+                        'as safe deposit boxes. It offers one-to-four family '
+                        'residential mortgages, consumer, automobile, home '
+                        'equity, educational, lines of credit, residential and '
+                        'commercial real estate, manufactured housing, '
+                        'personal, student, home equity, working capital, '
+                        'construction, and agricultural loans; and loans for '
+                        'equipment and other commercial needs, and mineral '
+                        'rights. In addition, it provides mortgage banking and '
+                        'financial advisory services; and trust and investment '
+                        'services comprising investment management, IRA '
+                        'trustee, estate administration, living trust, trustee '
+                        'under will, guardianship, life insurance trust, '
+                        'custodial/IRA custodial, and corporate trust '
+                        'services, as well as pension and profit sharing '
+                        'plans. Further, it offers wealth management products '
+                        'and services, such as investment portfolio '
+                        'management, brokerage, annuities, business succession '
+                        'planning, insurance, education funding strategies, '
+                        'and estate and tax planning assistance; and '
+                        'securities, stocks, bonds, and mutual funds. As of '
+                        'March 18, 2019, it operated through 28 community '
+                        'banking offices and 4 limited purpose offices in the '
+                        'Berks, Blair, Centre, Clearfield, Dauphin, '
+                        'Huntingdon, Lebanon, Lycoming, Northumberland, Perry, '
+                        'Schuylkill, and Somerset counties of Pennsylvania. '
+                        'The company was founded in 1900 and is headquartered '
+                        'in Harrisburg, Pennsylvania.',
+ 'longName': 'Riverview Financial Corporation',
+ 'market': 'us_market',
+ 'marketCap': 60848628,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3784778',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 5606000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 6.475,
+ 'openInterest': None,
+ 'payoutRatio': 0.52419996,
+ 'pegRatio': None,
+ 'phone': '717-957-2196',
+ 'previousClose': 6.6,
+ 'priceHint': 2,
+ 'priceToBook': 0.5134903,
+ 'priceToSalesTrailing12Months': 1.323458,
+ 'profitMargins': 0.121929996,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.61,
+ 'regularMarketDayLow': 6.585,
+ 'regularMarketOpen': 6.475,
+ 'regularMarketPreviousClose': 6.6,
+ 'regularMarketPrice': 6.475,
+ 'regularMarketVolume': 226,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 9240490,
+ 'sharesPercentSharesOut': 0.0004,
+ 'sharesShort': 3236,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 473,
+ 'shortName': 'Riverview Financial Corporation',
+ 'shortPercentOfFloat': 0.0004,
+ 'shortRatio': 0.56,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'RIVE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.325,
+ 'trailingAnnualDividendYield': 0.049242422,
+ 'trailingEps': 0.61,
+ 'trailingPE': 10.795082,
+ 'twoHundredDayAverage': 8.0745325,
+ 'volume': 226,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.riverviewbankpa.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '17110'}

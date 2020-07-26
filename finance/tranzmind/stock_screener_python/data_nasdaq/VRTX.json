@@ -1,0 +1,151 @@
+{'52WeekChange': 0.6753293,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '50 Northern Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 278.51,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 1233362,
+ 'averageVolume': 1822080,
+ 'averageVolume10days': 1233362,
+ 'beta': 0.937815,
+ 'beta3Year': None,
+ 'bid': 276.5,
+ 'bidSize': 800,
+ 'bookValue': 24.941,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Boston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 282.63,
+ 'dayLow': 276.5001,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 1.244,
+ 'enterpriseToEbitda': 39.089,
+ 'enterpriseToRevenue': 14.223,
+ 'enterpriseValue': 68548526080,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 285.72687,
+ 'fiftyTwoWeekHigh': 306.08,
+ 'fiftyTwoWeekLow': 165.23,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 258882608,
+ 'forwardEps': 10.93,
+ 'forwardPE': 25.479412,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0013600001,
+ 'heldPercentInstitutions': 0.97827005,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 967075200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/vrtx.com',
+ 'longBusinessSummary': 'Vertex Pharmaceuticals Incorporated engages in '
+                        'developing and commercializing therapies for treating '
+                        'cystic fibrosis. The company markets SYMDEKO/SYMKEVI, '
+                        'ORKAMBI, and KALYDECO to treat patients with cystic '
+                        'fibrosis who have specific mutations in their cystic '
+                        'fibrosis transmembrane conductance regulator gene; '
+                        'and TRIKAFTA for the treatment of patients with CF 12 '
+                        'years of age or older who have at least one F508del '
+                        'mutation in the cystic fibrosis transmembrane '
+                        'conductance regulator, or CFTR, gene. Its pipeline '
+                        'includes Pipeline for Alpha-1 antitrypsin deficiency '
+                        'that is in Phase 2 clinical trial; VX-864, a second '
+                        'investigational small molecule corrector for the '
+                        'treatment of AAT deficiency, which is in Phase 1 '
+                        'clinical trial; and VX-147 that completed a Phase 1 '
+                        'clinical trial for the treatment of APOL1-mediated '
+                        'focal segmental glomerulosclerosis, or FSGS, and '
+                        'other serious kidney diseases. The company sells its '
+                        'products primarily to specialty pharmacy and '
+                        'specialty distributors in the United States, as well '
+                        'as specialty distributors and retail chains, and '
+                        'hospitals and clinics internationally. Vertex '
+                        'Pharmaceuticals Incorporated has collaborations with '
+                        'CRISPR Therapeutics AG; Arbor Biotechnologies, Inc.; '
+                        'Moderna Therapeutics, Inc.; Genomics plc; Merck KGaA; '
+                        'Darmstadt, Germany; X-Chem, Inc.; Janssen '
+                        'Pharmaceuticals, Inc.; Merck KGaA; Kymera '
+                        'Therapeutics; Ribometrix, Inc.; Molecular Templates, '
+                        'Inc.; and Affinia Therapeutics. The company was '
+                        'founded in 1989 and is headquartered in Boston, '
+                        'Massachusetts.',
+ 'longName': 'Vertex Pharmaceuticals Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 72206049280,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_36235',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1510931968,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 281.78,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.13,
+ 'phone': '617 341 6100',
+ 'previousClose': 284.46,
+ 'priceHint': 2,
+ 'priceToBook': 11.165952,
+ 'priceToSalesTrailing12Months': 14.982084,
+ 'profitMargins': 0.31350002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 282.63,
+ 'regularMarketDayLow': 276.5001,
+ 'regularMarketOpen': 281.78,
+ 'regularMarketPreviousClose': 284.46,
+ 'regularMarketPrice': 281.78,
+ 'regularMarketVolume': 1775729,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 259276992,
+ 'sharesPercentSharesOut': 0.0167,
+ 'sharesShort': 4332159,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3908632,
+ 'shortName': 'Vertex Pharmaceuticals Incorpor',
+ 'shortPercentOfFloat': 0.0167,
+ 'shortRatio': 2.33,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'VRTX',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 5.778,
+ 'trailingPE': 48.198338,
+ 'twoHundredDayAverage': 256.13138,
+ 'volume': 1775729,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.vrtx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02210'}

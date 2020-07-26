@@ -1,0 +1,153 @@
+{'52WeekChange': -0.6933333,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2001 Westside Parkway',
+ 'address2': 'Suite 155',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.3,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 66200,
+ 'averageVolume': 46222,
+ 'averageVolume10days': 66200,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 2.29,
+ 'bidSize': 4000,
+ 'bookValue': -1.966,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Alpharetta',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.65,
+ 'dayLow': 2.25,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 14.311,
+ 'enterpriseToRevenue': 1.701,
+ 'enterpriseValue': 648343488,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 2.4242857,
+ 'fiftyTwoWeekHigh': 8,
+ 'fiftyTwoWeekLow': 1.328,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 7102018,
+ 'forwardEps': -0.6,
+ 'forwardPE': -3.833333,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 580,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.84769994,
+ 'heldPercentInstitutions': 0.08031999,
+ 'industry': 'Information Technology Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/prth.com',
+ 'longBusinessSummary': 'Priority Technology Holdings, Inc. provides merchant '
+                        'acquiring and commercial payment solutions in the '
+                        'United States. It operates through three segments: '
+                        'Consumer Payments, Commercial Payments, and '
+                        'Integrated Partners. The company offers MX product '
+                        'suite, including MX ISO/Agent and VIMAS reseller '
+                        'technology systems, and MX Merchant products, which '
+                        'provide resellers and merchant clients a customizable '
+                        'set of business applications that enable business '
+                        'work functions and revenue performance management. It '
+                        'also offers CPX, a turnkey commercial payments '
+                        'platform comprising CPX Access, CPX Gateway, CPX '
+                        'Commercial Acceptance, and CPX Payments solutions, '
+                        'which automate the AP payment process between buyers '
+                        'and suppliers to enhance financial rebates and '
+                        'automate the vendor payments. In addition, the '
+                        'company provides curated managed services and a suite '
+                        'of integrated automated payment solutions to various '
+                        'financial institutions and card networks; and '
+                        'payment-adjacent technologies to facilitate the '
+                        'acceptance of electronic payments from customers in '
+                        'the rental real estate, rental storage, medical, and '
+                        'hospitality industries. Further, it offers managed '
+                        'and integrated partners services that provide '
+                        'audience-specific programs for institutional partners '
+                        'and other third parties; and consulting and '
+                        'development solutions. The company serves small and '
+                        'medium size businesses, and enterprises, as well as '
+                        'distribution partners, including retail and wholesale '
+                        'independent sales organizations, financial '
+                        'institutions, and independent software vendors. '
+                        'Priority Technology Holdings, Inc. was founded in '
+                        '2005 and is headquartered in Alpharetta, Georgia.',
+ 'longName': 'Priority Technology Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 154362416,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_409550498',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -33012000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.49,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '404 952 2149',
+ 'previousClose': 2.33,
+ 'priceHint': 4,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 0.40500084,
+ 'profitMargins': -0.086610004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.65,
+ 'regularMarketDayLow': 2.25,
+ 'regularMarketOpen': 2.49,
+ 'regularMarketPreviousClose': 2.33,
+ 'regularMarketPrice': 2.49,
+ 'regularMarketVolume': 63312,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 67114096,
+ 'sharesPercentSharesOut': 0.0027,
+ 'sharesShort': 182044,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 122827,
+ 'shortName': 'Priority Technology Holdings, I',
+ 'shortPercentOfFloat': 0.0239,
+ 'shortRatio': 2.3,
+ 'startDate': None,
+ 'state': 'GA',
+ 'strikePrice': None,
+ 'symbol': 'PRTH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.492,
+ 'twoHundredDayAverage': 2.185072,
+ 'volume': 63312,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.prth.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '30004'}

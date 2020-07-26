@@ -1,0 +1,153 @@
+{'52WeekChange': -0.60683763,
+ 'SandP52WeekChange': None,
+ 'address1': '4200 Stone Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.44,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 487375,
+ 'averageVolume': 458636,
+ 'averageVolume10days': 487375,
+ 'beta': 3.193837,
+ 'beta3Year': None,
+ 'bid': 2.39,
+ 'bidSize': 2900,
+ 'bookValue': -0.818,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Kilgore',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.47,
+ 'dayLow': 2.305,
+ 'dividendRate': 0.25,
+ 'dividendYield': 0.1087,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.179,
+ 'enterpriseToRevenue': 0.817,
+ 'enterpriseValue': 658868672,
+ 'exDividendDate': 1588809600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 2.1622858,
+ 'fiftyTwoWeekHigh': 6.27,
+ 'fiftyTwoWeekLow': 0.91,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 19.81,
+ 'floatShares': 31859444,
+ 'forwardEps': -0.4,
+ 'forwardPE': -6.125,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.17884001,
+ 'heldPercentInstitutions': 0.26375,
+ 'industry': 'Oil & Gas Midstream',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/martinmidstream.com',
+ 'longBusinessSummary': 'Martin Midstream Partners L.P. engages in the '
+                        'terminalling, processing, storage, and packaging of '
+                        'petroleum products and by-products in the United '
+                        "States Gulf Coast region. The company's Terminalling "
+                        'and Storage segment owns or operates 19 marine '
+                        'shore-based terminal facilities and 12 specialty '
+                        'terminal facilities that provide storage, refining, '
+                        'blending, packaging, and handling services for '
+                        'producers and suppliers of petroleum products and '
+                        'by-products. This segment also offers land rental '
+                        'services to oil and gas companies, as well as storage '
+                        'and handling services for lubricants and fuels. Its '
+                        'Transportation segment operates a fleet of 540 tank '
+                        'trucks and 1,275 trailers; and 33 inland marine tank '
+                        'barges, 19 inland push boats, and 1 articulated '
+                        'offshore tug and barge unit to transport petroleum '
+                        'products and by-products, petrochemicals, and '
+                        "chemicals. The company's Sulfur Services segment "
+                        'processes molten sulfur into prilled or pelletized '
+                        'sulfur, which is used in the production of '
+                        'fertilizers and industrial chemicals. This segment '
+                        'also owns 23 railcars and leases 41 railcars to '
+                        'transport molten sulfur; and leases 132 railcars to '
+                        'transport fertilizer products. Its Natural Gas '
+                        'Liquids segment stores, distributes, and transports '
+                        'natural gas liquids for wholesale deliveries to '
+                        'refineries, industrial NGL users, and propane '
+                        'retailers, as well as owns approximately 2.1 million '
+                        'barrels of underground storage capacity for NGLs. '
+                        'Martin Midstream GP LLC serves as a general partner '
+                        'of the company. Martin Midstream Partners L.P. was '
+                        'founded in 2002 and is based in Kilgore, Texas.',
+ 'longName': 'Martin Midstream Partners L.P.',
+ 'market': 'us_market',
+ 'marketCap': 95188624,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2557643',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 21245000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.33,
+ 'openInterest': None,
+ 'payoutRatio': 1.8055999,
+ 'pegRatio': -2.78,
+ 'phone': '903-983-6200',
+ 'previousClose': 2.3,
+ 'priceHint': 4,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 0.11810472,
+ 'profitMargins': -0.19756001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.47,
+ 'regularMarketDayLow': 2.305,
+ 'regularMarketOpen': 2.33,
+ 'regularMarketPreviousClose': 2.3,
+ 'regularMarketPrice': 2.33,
+ 'regularMarketVolume': 344128,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Energy',
+ 'sharesOutstanding': 38852500,
+ 'sharesPercentSharesOut': 0.0252,
+ 'sharesShort': 980745,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1271200,
+ 'shortName': 'Martin Midstream Partners L.P.',
+ 'shortPercentOfFloat': 0.0414,
+ 'shortRatio': 3.32,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'MMLP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.625,
+ 'trailingAnnualDividendYield': 0.27173913,
+ 'trailingEps': -4.13,
+ 'twoHundredDayAverage': 2.3256834,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'c191a166-c26a-362e-869c-5491c135af50',
+ 'volume': 344128,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.martinmidstream.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75662'}

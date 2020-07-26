@@ -1,0 +1,150 @@
+{'52WeekChange': -0.29759812,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '8847 West Sam Houston Parkway, North',
+ 'address2': 'Suite 200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24.06,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 46575,
+ 'averageVolume': 94003,
+ 'averageVolume10days': 46575,
+ 'beta': 1.342352,
+ 'beta3Year': None,
+ 'bid': 24,
+ 'bidSize': 900,
+ 'bookValue': 34.713,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Houston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 24.33,
+ 'dayLow': 23.97,
+ 'dividendRate': 0.4,
+ 'dividendYield': 0.0165,
+ 'earningsQuarterlyGrowth': -0.723,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.526,
+ 'enterpriseValue': 623641088,
+ 'exDividendDate': 1590624000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 24.561714,
+ 'fiftyTwoWeekHigh': 38.95,
+ 'fiftyTwoWeekLow': 20.88,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 18529769,
+ 'forwardEps': 1.46,
+ 'forwardPE': 16.424656,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 587,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.08357,
+ 'heldPercentInstitutions': 0.51931,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/allegiancebank.com',
+ 'longBusinessSummary': 'Allegiance Bancshares, Inc. operates as the bank '
+                        'holding company for Allegiance Bank that provides a '
+                        'range of commercial banking services primarily to '
+                        'small and medium-sized businesses, professionals, and '
+                        'individual customers. It accepts deposit products, '
+                        'including checking accounts, commercial accounts, and '
+                        'savings accounts, as well as other time deposits '
+                        'comprising money market accounts and certificates of '
+                        'deposit. The company also grants various loan '
+                        'products, which include commercial and industrial '
+                        'loans; mortgage warehouse loans; commercial real '
+                        'estate loans, including multi-family residential '
+                        'loans; commercial real estate construction and land '
+                        'development loans; residential real estate loans, '
+                        'such as 1-4 family residential mortgage loans; '
+                        'residential construction loans; and consumer and '
+                        'other loans. In addition, it offers automated teller '
+                        'machines, drive-through services, and depository '
+                        'facilities; mobile banking services; and telephone, '
+                        'mail, and Internet banking services. Further, the '
+                        'company provides safe deposit boxes, debit cards, '
+                        'cash management and wire transfer services, night '
+                        "depository services, direct deposits, cashier's "
+                        'checks, and letters of credit. As of December 31, '
+                        '2018, it operated 27 bank offices and 1 loan '
+                        'production office in the Houston metropolitan area, '
+                        'as well as 1 bank office location in Beaumont. The '
+                        'company was founded in 2007 and is headquartered in '
+                        'Houston, Texas.',
+ 'longName': 'Allegiance Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 489263936,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_51660646',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 43797000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 24.21,
+ 'openInterest': None,
+ 'payoutRatio': 0.048499998,
+ 'pegRatio': None,
+ 'phone': '281-894-3200',
+ 'previousClose': 24.19,
+ 'priceHint': 2,
+ 'priceToBook': 0.69080746,
+ 'priceToSalesTrailing12Months': 2.765906,
+ 'profitMargins': 0.24759,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 24.33,
+ 'regularMarketDayLow': 23.97,
+ 'regularMarketOpen': 24.21,
+ 'regularMarketPreviousClose': 24.19,
+ 'regularMarketPrice': 24.21,
+ 'regularMarketVolume': 26486,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 20403000,
+ 'sharesPercentSharesOut': 0.033800002,
+ 'sharesShort': 689162,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 810976,
+ 'shortName': 'Allegiance Bancshares, Inc.',
+ 'shortPercentOfFloat': 0.0438,
+ 'shortRatio': 7.73,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'ABTX',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.1,
+ 'trailingAnnualDividendYield': 0.0041339397,
+ 'trailingEps': 2.07,
+ 'trailingPE': 11.584541,
+ 'twoHundredDayAverage': 28.15313,
+ 'volume': 26486,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.allegiancebank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '77040'}

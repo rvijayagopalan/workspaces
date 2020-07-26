@@ -1,0 +1,158 @@
+{'52WeekChange': 0.11023617,
+ 'SandP52WeekChange': None,
+ 'address1': '6060 American Plaza',
+ 'address2': 'Suite 600',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1.48,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 106725,
+ 'averageVolume': 165539,
+ 'averageVolume10days': 106725,
+ 'beta': 2.244257,
+ 'beta3Year': None,
+ 'bid': 1.4,
+ 'bidSize': 900,
+ 'bookValue': 8.505,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Tulsa',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1.41,
+ 'dayLow': 1.39,
+ 'dividendRate': 0.16,
+ 'dividendYield': 0.11350001,
+ 'earningsQuarterlyGrowth': -1,
+ 'enterpriseToEbitda': -0.637,
+ 'enterpriseToRevenue': -0.11,
+ 'enterpriseValue': -39385332,
+ 'exDividendDate': 1596412800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 1.4134285,
+ 'fiftyTwoWeekHigh': 1.55,
+ 'fiftyTwoWeekLow': 0.53,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 14.96,
+ 'floatShares': 34917301,
+ 'forwardEps': 0.06,
+ 'forwardPE': 23.333334,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 270,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.098780006,
+ 'heldPercentInstitutions': 0.21645,
+ 'industry': 'Oil & Gas Midstream',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bkep.com',
+ 'longBusinessSummary': 'Blueknight Energy Partners, L.P. provides integrated '
+                        'terminalling, gathering, and transportation services '
+                        'for companies engaged in the production, '
+                        'distribution, and marketing of liquid asphalt and '
+                        'crude oil products in the United States. The company '
+                        'operates through four segments: Asphalt Terminalling '
+                        'Services, Crude Oil Terminalling Services, Crude Oil '
+                        'Pipeline Services, and Crude Oil Trucking Services. '
+                        "The company's Asphalt Terminalling Services segment "
+                        'offers asphalt terminalling services, including '
+                        'storage, blending, processing, and throughput '
+                        'services for liquid asphalt product and residual fuel '
+                        'oil. As of March 23, 2020, this segment had 53 '
+                        'terminals located in 26 states. Its Crude Oil '
+                        'Terminalling Services segment provides terminalling '
+                        'services, including storage, blending, processing, '
+                        'and throughput services for crude oil. This segment '
+                        'owns and operates 34 crude oil storage tanks with '
+                        'approximately 6.6 million barrels of storage '
+                        "capacity. The company's Crude Oil Pipeline Services "
+                        'segment owns and operates crude oil transportation '
+                        'system with a combined length of approximately 611 '
+                        'miles; and purchases crude oil from production leases '
+                        'in Oklahoma and markets those barrels at the Cushing '
+                        'Interchange. Its Crude Oil Trucking Services segment '
+                        'owns and leases tanker trucks for gathering crude oil '
+                        'for its customers at remote wellhead locations. This '
+                        'segment owns or leases approximately 63 tanker '
+                        'trucks. Blueknight Energy Partners G.P., L.L.C. '
+                        'operates as a general partner of the company. The '
+                        'company was formerly known as SemGroup Energy '
+                        'Partners, L.P. and changed its name to Blueknight '
+                        'Energy Partners, L.P. in December 2009. Blueknight '
+                        'Energy Partners, L.P. was founded in 2007 and is '
+                        'headquartered in Tulsa, Oklahoma.',
+ 'longName': 'Blueknight Energy Partners, L.P.',
+ 'market': 'us_market',
+ 'marketCap': 57448720,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_33136011',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -10692000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 1.39,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': -3.52,
+ 'phone': '918-237-4000',
+ 'previousClose': 1.41,
+ 'priceHint': 4,
+ 'priceToBook': 0.16460904,
+ 'priceToSalesTrailing12Months': 0.16116999,
+ 'profitMargins': 0.04046,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.41,
+ 'regularMarketDayLow': 1.39,
+ 'regularMarketOpen': 1.39,
+ 'regularMarketPreviousClose': 1.41,
+ 'regularMarketPrice': 1.39,
+ 'regularMarketVolume': 33307,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Energy',
+ 'sharesOutstanding': 41034800,
+ 'sharesPercentSharesOut': 0.00090000004,
+ 'sharesShort': 36414,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 116252,
+ 'shortName': 'Blueknight Energy Partners L.P.',
+ 'shortPercentOfFloat': 0.001,
+ 'shortRatio': 0.22,
+ 'startDate': None,
+ 'state': 'OK',
+ 'strikePrice': None,
+ 'symbol': 'BKEP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.16,
+ 'trailingAnnualDividendYield': 0.11347518,
+ 'trailingEps': -0.262,
+ 'twoHundredDayAverage': 1.2044604,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '930e54c9-bf7f-3e79-88b9-7d5911c009bc',
+ 'volume': 33307,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bkep.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '74135'}

@@ -1,0 +1,152 @@
+{'52WeekChange': 0.036438465,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '8403 Colesville Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 38.5,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 487,
+ 'averageVolume': 6550,
+ 'averageVolume10days': 487,
+ 'beta': 1.514845,
+ 'beta3Year': None,
+ 'bid': 37.83,
+ 'bidSize': 800,
+ 'bookValue': 14.05,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Silver Spring',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 37.83,
+ 'dayLow': 37.83,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.018,
+ 'enterpriseToEbitda': 9.159,
+ 'enterpriseToRevenue': 3.782,
+ 'enterpriseValue': 42057539584,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 38.390285,
+ 'fiftyTwoWeekHigh': 103,
+ 'fiftyTwoWeekLow': 24.8,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 469776845,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 9200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.95083,
+ 'heldPercentInstitutions': 0.12748,
+ 'industry': 'Entertainment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1407369600,
+ 'lastSplitFactor': '195:100',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/corporate.discovery.com',
+ 'longBusinessSummary': 'Discovery, Inc. operates as a media company in the '
+                        'United States and internationally. The company '
+                        'operates in two segments, U.S. Networks and '
+                        'International Networks. The company owns and operates '
+                        'various television networks under the Discovery '
+                        'Channel, TLC, Animal Planet, Investigation Discovery, '
+                        'Science Channel, MotorTrend, Food Network, HGTV, '
+                        'Travel Channel, TVN, DIY Network, Cooking Channel, '
+                        'Discovery Family Channel, American Heroes Channel, '
+                        'Destination America, Discovery Life, Discovery en '
+                        'Espanol, Discovery Familia, Great American Country, '
+                        'ID, the Oprah Winfrey Network, Eurosport, Discovery '
+                        'Kids, DMAX, and Discovery Home & Health brands, as '
+                        'well as other regional television networks. Its '
+                        'content spans genres, including survival, '
+                        'exploration, sports, lifestyle, general '
+                        'entertainment, home, food and travel, heroes, '
+                        'adventure, crime and investigation, health, and kids. '
+                        'The company also operates production studios that '
+                        'develop and produce content; and digital products and '
+                        'Websites. It provides content through various '
+                        'distribution platforms comprising pay-television, '
+                        'free-to-air and broadcast television, authenticated '
+                        'GO applications, digital distribution arrangements, '
+                        'and content licensing agreements, as well as various '
+                        'platforms that include brand-aligned Websites, online '
+                        'streaming, mobile devices, video on demand, and '
+                        'broadband channels. As of February 27, 2020, the '
+                        'company delivered approximately 8,000 hours of '
+                        'original programming each year in approximately 50 '
+                        'languages worldwide. Discovery, Inc. was founded in '
+                        '1985 and is headquartered in Silver Spring, Maryland.',
+ 'longName': 'Discovery, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 9949555712,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_22666093',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1842000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 37.83,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '240-662-2000',
+ 'previousClose': 38.29,
+ 'priceHint': 2,
+ 'priceToBook': 2.6925268,
+ 'priceToSalesTrailing12Months': 0.8947442,
+ 'profitMargins': 0.18542999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 37.83,
+ 'regularMarketDayLow': 37.83,
+ 'regularMarketOpen': 37.83,
+ 'regularMarketPreviousClose': 38.29,
+ 'regularMarketPrice': 37.83,
+ 'regularMarketVolume': 244,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 6512380,
+ 'sharesPercentSharesOut': 0,
+ 'sharesShort': 7022,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 12577,
+ 'shortName': 'Discovery, Inc. - Series B',
+ 'shortPercentOfFloat': 0.0219,
+ 'shortRatio': 3.59,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'DISCB',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.511,
+ 'trailingPE': 15.065712,
+ 'twoHundredDayAverage': 35.72187,
+ 'volume': 244,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://corporate.discovery.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20910'}

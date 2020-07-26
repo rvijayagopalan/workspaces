@@ -1,0 +1,159 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '2855 Gazelle Court',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 58.98,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 561700,
+ 'averageVolume': 803061,
+ 'averageVolume10days': 561700,
+ 'beta': 1.636974,
+ 'beta3Year': None,
+ 'bid': 58.91,
+ 'bidSize': 800,
+ 'bookValue': 9.766,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Carlsbad',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 59.695,
+ 'dayLow': 58.08,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 34.17,
+ 'enterpriseToRevenue': 7.13,
+ 'enterpriseValue': 6835756544,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 59.770287,
+ 'fiftyTwoWeekHigh': 73.09,
+ 'fiftyTwoWeekLow': 39.32,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 132296480,
+ 'forwardEps': -0.2,
+ 'forwardPE': -294.75,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 817,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.050100002,
+ 'heldPercentInstitutions': 0.8793,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ionispharma.com',
+ 'longBusinessSummary': 'Ionis Pharmaceuticals, Inc. discovers and develops '
+                        'RNA-targeted therapeutics in the United States. The '
+                        'company offers SPINRAZA for spinal muscular atrophy '
+                        '(SMA) in pediatric and adult patients; and TEGSEDI, '
+                        'an injection for the treatment of polyneuropathy of '
+                        'hereditary transthyretin-mediated amyloidosis in '
+                        'adults. It is involved in developing neurology '
+                        "products that include IONIS-HTTRx for Huntington's "
+                        'diseases; and IONIS-SOD1Rx and IONIS-C9Rx for '
+                        'amyotrophic lateral sclerosis and IONIS-MAPTRx for '
+                        "Alzheimer's diseases. The company is also developing "
+                        'severe and rare disease products, such as WAYLIVRA, a '
+                        'treatment for familial chylomicronemia syndrome; '
+                        'WAYLIVRA, a treatment for familial partial '
+                        'lipodystrophy; AKCEA-TTR-LRx for transthyretin '
+                        'amyloidosis and IONIS-GHR-LRx for acromegaly; and '
+                        'IONIS-TMPRSS6-LRx for beta-thalassemia and iron '
+                        'toxicity, IONIS-PKKRx/IONIS-PKK-LRx for hereditary '
+                        'angioedema, and IONIS-ENAC-2.5Rx for cystic fibrosis. '
+                        'In addition, its cardio metabolic and renal drugs '
+                        'include AKCEA-ANGPTL3-LRx for cardio metabolic '
+                        'disorders, IONIS-FXIRx for clotting disorders, '
+                        'AKCEA-APO(a)-LRx and AKCEA-APOCIII-LRx for '
+                        'cardiovascular diseases, and IONIS-DGAT2Rx for '
+                        'nonalcoholic steatohepatitis; IONIS-AGT-LRX for the '
+                        'treatment of resistant hyper tension; and '
+                        'IONIS-FXI-LRx for clotting disorders and '
+                        'IONIS-AZ4-2.5-LRx for cardiovascular diseases. '
+                        'Further, the company develops products for oncology '
+                        'that include IONIS-AR-2.5Rx and danvatirsen for '
+                        'cancers; and IONIS-HBVRx and IONIS-HBV-LRx for '
+                        'hepatitis b virus infection, and IONIS-FB-LRx for '
+                        'compliment meditated disease, and IONIS-JBI1-2.5Rx '
+                        'for gastrointestinal autoimmune diseases. Ionis '
+                        'Pharmaceuticals, Inc. was founded in 1989 and is '
+                        'based in Carlsbad, California.',
+ 'longName': 'Ionis Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 8212972544,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_30300',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 160794000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 59.28,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -2.26,
+ 'phone': '760-931-9200',
+ 'previousClose': 59.7,
+ 'priceHint': 2,
+ 'priceToBook': 6.036248,
+ 'priceToSalesTrailing12Months': 8.566316,
+ 'profitMargins': 0.16841999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 59.695,
+ 'regularMarketDayLow': 58.08,
+ 'regularMarketOpen': 59.28,
+ 'regularMarketPreviousClose': 59.7,
+ 'regularMarketPrice': 59.28,
+ 'regularMarketVolume': 469176,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 139320992,
+ 'sharesPercentSharesOut': 0.062,
+ 'sharesShort': 8631831,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 8808012,
+ 'shortName': 'Ionis Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.073699996,
+ 'shortRatio': 9.82,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'IONS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.128,
+ 'trailingPE': 52.26064,
+ 'twoHundredDayAverage': 56.240288,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e2f8b663-1b31-3cee-8363-06c9dcf00fd4',
+ 'volume': 469176,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ionispharma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92010'}

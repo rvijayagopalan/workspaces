@@ -1,0 +1,153 @@
+{'52WeekChange': 0.4290657,
+ 'SandP52WeekChange': None,
+ 'address1': '2210 Woodland Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.14,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 428925,
+ 'averageVolume': 464711,
+ 'averageVolume10days': 428925,
+ 'beta': 1.992717,
+ 'beta3Year': None,
+ 'bid': 4.09,
+ 'bidSize': 1000,
+ 'bookValue': 1.025,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Manitowoc',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.19,
+ 'dayLow': 4.02,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 7.366,
+ 'enterpriseToRevenue': 0.731,
+ 'enterpriseValue': 110202776,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '866 678 7020',
+ 'fiftyDayAverage': 3.6451428,
+ 'fiftyTwoWeekHigh': 6.4,
+ 'fiftyTwoWeekLow': 2.35,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 23092782,
+ 'forwardEps': 0.43,
+ 'forwardPE': 9.627907,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 176,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.17083,
+ 'heldPercentInstitutions': 0.45373002,
+ 'industry': 'Electrical Equipment & Parts',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/orionlighting.com',
+ 'longBusinessSummary': 'Orion Energy Systems, Inc. researches, designs, '
+                        'develops, manufactures, implements, markets, and '
+                        'sells energy management systems for the commercial '
+                        'office and retail, area lighting, and industrial '
+                        'markets in North America. The company operates in '
+                        'three segments: Orion U.S. Markets Division, Orion '
+                        'Engineered Systems Division, and Orion Distribution '
+                        'Services Division. It offers interior light emitting '
+                        'diode (LED) high bay fixtures; smart building control '
+                        'systems, which provide lighting control options and '
+                        'data intelligence capabilities for building managers; '
+                        'and LED troffer door retrofit for use in office or '
+                        'retail grid ceilings. The company also offers various '
+                        'other LED, HIF, and induction fixtures for lighting '
+                        'and energy management needs comprising fixtures for '
+                        'agribusinesses, parking lots, roadways, retail, '
+                        'mezzanine, outdoor applications, and private label '
+                        'resale. In addition, it provides lighting-related '
+                        'energy management services, such as site assessment, '
+                        'site field verification, utility incentive and '
+                        'government subsidy management, engineering design, '
+                        'project management, and installation; and sells and '
+                        'distributes replacement lamps and fixture components '
+                        'into the after-market. The company serves customers '
+                        'directly; and through independent sales agencies and '
+                        'distributors, and energy contractors and electrical '
+                        'service companies. Orion Energy Systems, Inc. was '
+                        'founded in 1996 and is headquartered in Manitowoc, '
+                        'Wisconsin.',
+ 'longName': 'Orion Energy Systems, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 125937552,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_28544611',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 12462000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 4.15,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.06,
+ 'phone': '920 892 9340',
+ 'previousClose': 4.13,
+ 'priceHint': 4,
+ 'priceToBook': 4.0390244,
+ 'priceToSalesTrailing12Months': 0.8349027,
+ 'profitMargins': 0.08262,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.19,
+ 'regularMarketDayLow': 4.02,
+ 'regularMarketOpen': 4.15,
+ 'regularMarketPreviousClose': 4.13,
+ 'regularMarketPrice': 4.15,
+ 'regularMarketVolume': 448288,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 30419700,
+ 'sharesPercentSharesOut': 0.0548,
+ 'sharesShort': 1667374,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 575553,
+ 'shortName': 'Orion Energy Systems, Inc.',
+ 'shortPercentOfFloat': 0.0699,
+ 'shortRatio': 2.34,
+ 'startDate': None,
+ 'state': 'WI',
+ 'strikePrice': None,
+ 'symbol': 'OESX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.4,
+ 'trailingPE': 10.349999,
+ 'twoHundredDayAverage': 4.196043,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '7a1d51e9-854e-3d0a-8a7f-ffbc5435c2f6',
+ 'volume': 448288,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.orionlighting.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '54220'}

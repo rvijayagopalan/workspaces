@@ -1,0 +1,153 @@
+{'52WeekChange': -0.7602682,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '180 North LaSalle Street',
+ 'address2': 'Suite 1810',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.86,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 2342500,
+ 'averageVolume': 1981255,
+ 'averageVolume10days': 2342500,
+ 'beta': 2.035859,
+ 'beta3Year': None,
+ 'bid': 2.86,
+ 'bidSize': 2900,
+ 'bookValue': 0.721,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chicago',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3,
+ 'dayLow': 2.75,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -0.557,
+ 'enterpriseToRevenue': 16.2,
+ 'enterpriseValue': 69045784,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.6877143,
+ 'fiftyTwoWeekHigh': 12.5,
+ 'fiftyTwoWeekLow': 1.42,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 27273381,
+ 'forwardEps': -1.78,
+ 'forwardPE': -1.6067415,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 199,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.025710002,
+ 'heldPercentInstitutions': 0.58022,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/xerispharma.com',
+ 'longBusinessSummary': 'Xeris Pharmaceuticals, Inc., a specialty '
+                        'pharmaceutical company, develops and commercializes '
+                        'ready-to-use injectable and infusible drug '
+                        'formulations. Its proprietary XeriSol and XeriJect '
+                        'formulation technologies allow for the subcutaneous '
+                        'and intramuscular delivery of highly-concentrated, '
+                        'ready-to-use formulations of peptides, proteins, '
+                        'antibodies, and small molecules using commercially '
+                        'available syringes, auto-injectors, multi-dose pens, '
+                        "and infusion pumps. The company's lead product "
+                        'candidate is Gvoke HypoPen, which has completed Phase '
+                        'III clinical trials for the treatment of severe '
+                        'hypoglycemia, a potentially life-threatening '
+                        'condition in people with diabetes. Its product '
+                        'candidates also comprise ready-to-use glucagon that '
+                        'is in Phase II clinical trials for the treatment of '
+                        'congenital hyperinsulinism, post-bariatric '
+                        'hypoglycemia, exercise-induced hypoglycemia in '
+                        'diabetes, and hypoglycemia-associated autonomic '
+                        'failure, as well as for treating hypoglycemia '
+                        'associated with intermittent and chronic conditions, '
+                        'and bi-hormonal artificial pancreas closed-loop '
+                        'systems. In addition, it develops continuous '
+                        'subcutaneous glucagon infusion system of ready-to-use '
+                        'glucagon; ready-to-use diazepam formulation, which is '
+                        'in Phase I clinical trial for the treatment of acute '
+                        'repetitive seizures in patients with epilepsy; and '
+                        'Pramlintide-Insulin co-formulation that is in '
+                        'pre-clinical stage for treating type 1 and 2 '
+                        'diabetes. Xeris Pharmaceuticals, Inc. serves '
+                        'patients, caregivers, and health practitioners. The '
+                        'company was founded in 2005 and is based in Chicago, '
+                        'Illinois.',
+ 'longName': 'Xeris Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 107526848,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_105901792',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -129487000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.82,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '844-445-5704',
+ 'previousClose': 2.84,
+ 'priceHint': 4,
+ 'priceToBook': 3.9667127,
+ 'priceToSalesTrailing12Months': 25.2292,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3,
+ 'regularMarketDayLow': 2.75,
+ 'regularMarketOpen': 2.82,
+ 'regularMarketPreviousClose': 2.84,
+ 'regularMarketPrice': 2.82,
+ 'regularMarketVolume': 2585667,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 37596800,
+ 'sharesPercentSharesOut': 0.168,
+ 'sharesShort': 6315203,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1397794,
+ 'shortName': 'Xeris Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.1707,
+ 'shortRatio': 3.64,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'XERS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -4.557,
+ 'twoHundredDayAverage': 3.7038848,
+ 'volume': 2585667,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.xerispharma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60601'}

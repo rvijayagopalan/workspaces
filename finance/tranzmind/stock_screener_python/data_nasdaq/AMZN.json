@@ -1,0 +1,151 @@
+{'52WeekChange': 0.5733274,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '410 Terry Avenue North',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3003,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 5758075,
+ 'averageVolume': 4735898,
+ 'averageVolume10days': 5758075,
+ 'beta': 1.323809,
+ 'beta3Year': None,
+ 'bid': 3003,
+ 'bidSize': 1800,
+ 'bookValue': 130.806,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Seattle',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3031.58,
+ 'dayLow': 2888,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.288,
+ 'enterpriseToEbitda': 42.173,
+ 'enterpriseToRevenue': 5.163,
+ 'enterpriseValue': 1529631211520,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 2842.7053,
+ 'fiftyTwoWeekHigh': 3344.29,
+ 'fiftyTwoWeekLow': 1626.03,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 423016940,
+ 'forwardEps': 37.6,
+ 'forwardPE': 80.0242,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 840400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.15122,
+ 'heldPercentInstitutions': 0.57689,
+ 'industry': 'Internet Retail',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 936230400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/amazon.com',
+ 'longBusinessSummary': 'Amazon.com, Inc. engages in the retail sale of '
+                        'consumer products and subscriptions in North America '
+                        'and internationally. The company operates through '
+                        'three segments: North America, International, and '
+                        'Amazon Web Services (AWS). It sells merchandise and '
+                        'content purchased for resale from third-party sellers '
+                        'through physical and online stores. The company also '
+                        'manufactures and sells electronic devices, including '
+                        'Kindle, Fire tablets, Fire TVs, Rings, and Echo and '
+                        'other devices; provides Kindle Direct Publishing, an '
+                        'online service that allows independent authors and '
+                        'publishers to make their books available in the '
+                        'Kindle Store; and develops and produces media '
+                        'content. In addition, it offers programs that enable '
+                        'sellers to sell their products on its Websites, as '
+                        'well as its stores; and programs that allow authors, '
+                        'musicians, filmmakers, skill and app developers, and '
+                        'others to publish and sell content. Further, the '
+                        'company provides compute, storage, database, and '
+                        'other AWS services, as well as fulfillment, '
+                        'advertising, publishing, and digital content '
+                        'subscriptions. Additionally, it offers Amazon Prime, '
+                        'a membership program, which provides free shipping of '
+                        'various items; access to streaming of movies and TV '
+                        'episodes; and other services. The company also '
+                        'operates in the food delivery business in Bengaluru, '
+                        'India. It serves consumers, sellers, developers, '
+                        'enterprises, and content creators. The company also '
+                        'has utility-scale solar projects in China, Australia, '
+                        'and the United States. Amazon.com, Inc. was founded '
+                        'in 1994 and is headquartered in Seattle, Washington.',
+ 'longName': 'Amazon.com, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1500772040704,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_18749',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 10561999872,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2930,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 5.18,
+ 'phone': '206-266-1000',
+ 'previousClose': 2986.55,
+ 'priceHint': 2,
+ 'priceToBook': 23.002844,
+ 'priceToSalesTrailing12Months': 5.065487,
+ 'profitMargins': 0.03565,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3031.58,
+ 'regularMarketDayLow': 2888,
+ 'regularMarketOpen': 2930,
+ 'regularMarketPreviousClose': 2986.55,
+ 'regularMarketPrice': 2930,
+ 'regularMarketVolume': 5632413,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 498776000,
+ 'sharesPercentSharesOut': 0.0077,
+ 'sharesShort': 3850771,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3553105,
+ 'shortName': 'Amazon.com, Inc.',
+ 'shortPercentOfFloat': 0.0091,
+ 'shortRatio': 0.96,
+ 'startDate': None,
+ 'state': 'WA',
+ 'strikePrice': None,
+ 'symbol': 'AMZN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 20.936,
+ 'trailingPE': 143.71942,
+ 'twoHundredDayAverage': 2290.6829,
+ 'volume': 5632413,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.amazon.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '98109-5210'}

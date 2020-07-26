@@ -1,0 +1,159 @@
+{'52WeekChange': 0.5877551,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '100 Domino Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.9,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 251037,
+ 'averageVolume': 104061,
+ 'averageVolume10days': 251037,
+ 'beta': 1.988235,
+ 'beta3Year': None,
+ 'bid': 3.78,
+ 'bidSize': 1000,
+ 'bookValue': 0.759,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Concord',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.9,
+ 'dayLow': 3.7502,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -62.197,
+ 'enterpriseToRevenue': 1.345,
+ 'enterpriseValue': 7223690,
+ 'exDividendDate': 1355788800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.499143,
+ 'fiftyTwoWeekHigh': 10.49,
+ 'fiftyTwoWeekLow': 1.72,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 1467407,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 22,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.20698,
+ 'heldPercentInstitutions': 0.025969999,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569628800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/tccsecure.com',
+ 'longBusinessSummary': 'Technical Communications Corporation designs, '
+                        'develops, manufactures, distributes, markets, and '
+                        'sells communications security devices, systems, and '
+                        'services worldwide. The company primarily provides '
+                        'video, data, fax, and voice networks. Its products '
+                        'include government systems, such as CSD 3324 SE '
+                        'secure telephone, fax and data system; CSD 3324 SP '
+                        'telephone and fax system; DSD 72A-SP military bulk '
+                        'ciphering system; and DSP 9000 radio encryption '
+                        'system, as well as the HSE 6000 squad radio headset '
+                        'and telephone encryptor for public safety special '
+                        'operations, land mobile radio applications, and for '
+                        'military applications. The company also provides '
+                        'network security systems comprising network '
+                        'encryption systems with centralized key and device '
+                        'management for IP, SONET/SDH, and frame relay '
+                        'networks to secure data in transit from local area '
+                        'network to local area network and across wide area '
+                        'networks. In addition, it offers secure office '
+                        'systems, such as CSD 4100 executive secure telephone '
+                        'and CipherTalk 8500 Internet protocol (IP)-based '
+                        "secure wireless phone. The company's products are "
+                        'used to protect confidentiality in communications '
+                        'between radios, landline telephones, mobile phones, '
+                        'facsimile machines, data network equipment over '
+                        'wires, fiber optic cables, radio waves, and microwave '
+                        'and satellite links. Further, it offers funded '
+                        'research and development, and technology development '
+                        'services. The company serves various markets, '
+                        'including foreign and domestic governmental agencies, '
+                        'law enforcement and military agencies, '
+                        'telecommunications carriers, financial institutions, '
+                        'and multinational companies requiring protection of '
+                        'mission-critical information. It sells directly to '
+                        'customers, original equipment manufacturers, and '
+                        'value-added resellers using its in-house sales force, '
+                        'as well as domestic and international '
+                        'representatives, consultants, and distributors. '
+                        'Technical Communications Corporation was founded in '
+                        '1961 and is based in Concord, Massachusetts.',
+ 'longName': 'Technical Communications Corporation',
+ 'market': 'us_market',
+ 'marketCap': 7198056,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_307326',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': -135331,
+ 'nextFiscalYearEnd': 1632787200,
+ 'open': 3.88,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '978-287-5100',
+ 'previousClose': 3.985,
+ 'priceHint': 4,
+ 'priceToBook': 5.125165,
+ 'priceToSalesTrailing12Months': 1.3399246,
+ 'profitMargins': -0.025190001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.9,
+ 'regularMarketDayLow': 3.7502,
+ 'regularMarketOpen': 3.88,
+ 'regularMarketPreviousClose': 3.985,
+ 'regularMarketPrice': 3.88,
+ 'regularMarketVolume': 13775,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 1850400,
+ 'sharesPercentSharesOut': 0.0025,
+ 'sharesShort': 4672,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7458,
+ 'shortName': 'Technical Communications Corpor',
+ 'shortPercentOfFloat': 0.0032,
+ 'shortRatio': 0.06,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'TCCO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.08,
+ 'twoHundredDayAverage': 3.169784,
+ 'volume': 13775,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.tccsecure.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01742-2892'}

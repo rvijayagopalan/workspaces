@@ -1,0 +1,155 @@
+{'52WeekChange': -0.01563096,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1000 Walnut',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 25.87,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 3712,
+ 'averageVolume': 4374,
+ 'averageVolume10days': 3712,
+ 'beta': 1.030812,
+ 'beta3Year': None,
+ 'bid': 25,
+ 'bidSize': 1100,
+ 'bookValue': 28.808,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Kansas City',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1408060800,
+ 'dayHigh': 26.128,
+ 'dayLow': 25.815,
+ 'dividendRate': 1.5,
+ 'dividendYield': 0.0577,
+ 'earningsQuarterlyGrowth': -0.631,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.818,
+ 'enterpriseValue': 2091182464,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 25.856285,
+ 'fiftyTwoWeekHigh': 28.11,
+ 'fiftyTwoWeekLow': 22.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 5.7,
+ 'floatShares': 100046499,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4856,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.12809,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/commercebank.com',
+ 'longBusinessSummary': 'Commerce Bancshares, Inc. operates as the bank '
+                        'holding company for Commerce Bank that provides '
+                        'retail, mortgage banking, corporate, investment, '
+                        'trust, and asset management products and services to '
+                        'individuals and businesses. It operates through three '
+                        'segments: Consumer, Commercial, and Wealth. The '
+                        'Consumer segment offers various banking products and '
+                        'services, including consumer deposits; consumer '
+                        'loans, such as automobile, motorcycle, marine, '
+                        'tractor/trailer, recreational vehicle, fixed rate and '
+                        'revolving home equity, and other consumer loans; '
+                        'patient health care financing; real estate loans; '
+                        'indirect and other consumer financing; personal '
+                        'mortgage banking; consumer installment lending; and '
+                        'consumer debit and credit bank cards, as well as '
+                        'provides online banking services. The Commercial '
+                        'segment provides corporate lending, merchant and '
+                        'commercial bank card, leasing, international, and '
+                        'investment safekeeping and bond accounting services; '
+                        'and business products, government deposits, and '
+                        'related commercial cash management services, as well '
+                        'as sells fixed-income securities to individuals, '
+                        'corporations, correspondent banks, public '
+                        'institutions, and municipalities. The Wealth segment '
+                        'provides traditional trust and estate planning '
+                        'services, brokerage services, and advisory and '
+                        'discretionary investment management services, as well '
+                        'as private banking accounts. The company also offers '
+                        'private equity investment, securities brokerage, and '
+                        'insurance agency services. It operates through a '
+                        'network of 316 locations in Missouri, Kansas, '
+                        'Illinois, Oklahoma, and Colorado, as well as '
+                        'commercial offices. Commerce Bancshares, Inc. was '
+                        'founded in 1865 and is headquartered in Kansas City, '
+                        'Missouri.',
+ 'longName': 'Commerce Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 6307245056,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_262144',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 294823008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 25.99,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '816-234-2000',
+ 'previousClose': 26.22,
+ 'priceHint': 2,
+ 'priceToBook': 0.8973202,
+ 'priceToSalesTrailing12Months': 5.4833927,
+ 'profitMargins': 0.26763,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 26.128,
+ 'regularMarketDayLow': 25.815,
+ 'regularMarketOpen': 25.99,
+ 'regularMarketPreviousClose': 26.22,
+ 'regularMarketPrice': 25.99,
+ 'regularMarketVolume': 1092,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 111539000,
+ 'sharesPercentSharesOut': None,
+ 'sharesShort': 36464,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'Commerce Bancshares, Inc. - Dep',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 0.57,
+ 'startDate': None,
+ 'state': 'MO',
+ 'strikePrice': None,
+ 'symbol': 'CBSHP',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.034,
+ 'trailingAnnualDividendYield': 0.039435547,
+ 'trailingEps': 2.647,
+ 'trailingPE': 9.765773,
+ 'twoHundredDayAverage': 25.795755,
+ 'volume': 1092,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.commercebank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '64106'}

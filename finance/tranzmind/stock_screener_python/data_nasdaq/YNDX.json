@@ -1,0 +1,160 @@
+{'52WeekChange': 0.4290799,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Schiphol Boulevard 165',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 56.26,
+ 'askSize': 4000,
+ 'averageDailyVolume10Day': 2470875,
+ 'averageVolume': 2469260,
+ 'averageVolume10days': 2470875,
+ 'beta': 1.623529,
+ 'beta3Year': None,
+ 'bid': 56.23,
+ 'bidSize': 2200,
+ 'bookValue': 17.712,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Schiphol',
+ 'companyOfficers': [],
+ 'country': 'Netherlands',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 56.44,
+ 'dayLow': 55.19,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.985,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 18422294528,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 49.122288,
+ 'fiftyTwoWeekHigh': 56.97,
+ 'fiftyTwoWeekLow': 27.93,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 284614948,
+ 'forwardEps': 1.73,
+ 'forwardPE': 32.49711,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 10425,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03427,
+ 'heldPercentInstitutions': 0.84035003,
+ 'industry': 'Internet Content & Information',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ir.yandex.com',
+ 'longBusinessSummary': 'Yandex N.V., an Internet and technology company, '
+                        'provides Internet search engine in Russia and '
+                        'internationally. The company offers search, '
+                        'location-based, personalized, and mobile services '
+                        'that enable users to find information, and '
+                        'communicate and connect over the Internet from '
+                        'desktops and mobile devices. It provides geolocation '
+                        'services, such as Yandex.Maps, Yandex.Navigator, '
+                        'Yandex.Auto, and Yandex.Routing; Yandex.Mail that '
+                        'provides access to email accounts; Yandex.Disk, a '
+                        'cloud-based storage service; Yandex.News, an online '
+                        'news aggregation service; Yandex.Weather hyperlocal '
+                        'weather information services; Yandex Browser for '
+                        'desktops and mobile platforms; and Yandex Search '
+                        'Apps. The company also provides Yandex.Direct, an '
+                        'auction-based advertising placement platform; Yandex '
+                        'Advertising Network service; Yandex.Radar, a market '
+                        'analytics tool; mobile advertising products; '
+                        'Yandex.Metrica, a web analytics system; '
+                        'Yandex.Market, an e-commerce gateway service; '
+                        'Yandex.Station, a smart speaker; Alice, an assistant. '
+                        'It offers Yandex.Taxi, a ride-sharing service; '
+                        'Auto.ru for used and new cars, commercial vehicles, '
+                        'and spare parts; Yandex.Realty, a real estate '
+                        'classifieds platform; Yandex.Jobs, a job search '
+                        'Website; and Yandex.Travel, a travel aggregator '
+                        'service. Further, it offers KinoPoisk, a Russian '
+                        'language source for movies, TV series, celebrity '
+                        'content, and entertainment news; Yandex.Music, a '
+                        'music streaming service; Yandex.Afisha to buy tickets '
+                        'to cinemas, theaters, and concerts online; Yandex '
+                        'Plus; Yandex.Studio; and Yandex.TV Program that '
+                        'provides up to date schedule of broadcast, cable and '
+                        'digital TV channels, as well as an option to view '
+                        'certain TV channels online. Additionally, it offers '
+                        'Yandex Zen, a personal recommendation service; '
+                        'Yandex.Cloud that allows companies to host and '
+                        'develop apps and services, and store and manage data; '
+                        'and Yandex.Drive, a free-floating car-sharing '
+                        'service. The company was incorporated in 2004 and is '
+                        'based in Schiphol, the Netherlands.',
+ 'longName': 'Yandex N.V.',
+ 'market': 'us_market',
+ 'marketCap': 18643451904,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_52034495',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 55.54,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 8811.65,
+ 'phone': '31 20 206 6970',
+ 'previousClose': 56.21,
+ 'priceHint': 2,
+ 'priceToBook': 3.1741192,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.085,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 56.44,
+ 'regularMarketDayLow': 55.19,
+ 'regularMarketOpen': 55.54,
+ 'regularMarketPreviousClose': 56.21,
+ 'regularMarketPrice': 55.54,
+ 'regularMarketVolume': 1905090,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 295902016,
+ 'sharesPercentSharesOut': 0.026500002,
+ 'sharesShort': 8799575,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6905119,
+ 'shortName': 'Yandex N.V.',
+ 'shortPercentOfFloat': 0.0298,
+ 'shortRatio': 3.34,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'YNDX',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 4.331,
+ 'trailingPE': 12.980837,
+ 'twoHundredDayAverage': 42.10525,
+ 'volume': 1905090,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://ir.yandex.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '1118 BG'}

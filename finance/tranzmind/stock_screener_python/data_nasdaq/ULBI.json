@@ -1,0 +1,161 @@
+{'52WeekChange': -0.25743705,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2000 Technology Parkway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 8,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 17737,
+ 'averageVolume': 55607,
+ 'averageVolume10days': 17737,
+ 'beta': 1.359103,
+ 'beta3Year': None,
+ 'bid': 6.11,
+ 'bidSize': 1200,
+ 'bookValue': 6.942,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Newark',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.75,
+ 'dayLow': 6.49,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 1.492,
+ 'enterpriseToEbitda': 10.041,
+ 'enterpriseToRevenue': 1.016,
+ 'enterpriseValue': 115500552,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '315 331 7800',
+ 'fiftyDayAverage': 6.9805713,
+ 'fiftyTwoWeekHigh': 10,
+ 'fiftyTwoWeekLow': 4.85,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 9784974,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 573,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.04652,
+ 'heldPercentInstitutions': 0.7393,
+ 'industry': 'Specialty Industrial Machinery',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ultralifecorporation.com',
+ 'longBusinessSummary': 'Ultralife Corporation, together with its '
+                        'subsidiaries, designs, manufactures, installs, and '
+                        'maintains power, and communication and electronics '
+                        'systems worldwide. The company serves government, '
+                        'defense, and commercial sectors. The company operates '
+                        'in two segments, Battery & Energy Products and '
+                        'Communications Systems. The Battery & Energy Products '
+                        'segment offers lithium 9-volt, cylindrical, thin '
+                        'lithium manganese dioxide, rechargeable, and other '
+                        'non-rechargeable batteries; lithium ion cells, '
+                        'multi-kilowatt module lithium ion battery systems, '
+                        'and uninterruptable power supplies; and rugged '
+                        'military and commercial battery charging systems and '
+                        'accessories, including smart chargers, multi-bay '
+                        'charging systems, and various cables. The '
+                        'Communications Systems segment provides '
+                        'communications systems and accessories to support '
+                        'military communications systems, such as radio '
+                        'frequency amplifiers, power supplies and cables, '
+                        'connector assemblies, amplified speakers, equipment '
+                        'mounts, case equipment, man-portable systems, and '
+                        'integrated communication systems for fixed or vehicle '
+                        'applications comprising vehicle adapters, vehicle '
+                        'installed power enhanced rifleman appliqué systems, '
+                        "and SATCOM systems. This segment's military "
+                        'communications systems and accessories are designed '
+                        'to enhance and extend the operation of communications '
+                        'equipment, such as vehicle-mounted, manpack, and '
+                        'handheld transceivers. It sells its products under '
+                        'the Ultralife, Lithium Power, McDowell Research, '
+                        'AMTI, ABLE, ACCUTRONICS, ACCUPRO, ENTELLION, SWE '
+                        'DRILL-DATA, and SWE SEASAFE brands through original '
+                        'equipment manufacturers, and industrial and defense '
+                        'supply distributors, as well as directly to the '
+                        'United States and international defense departments. '
+                        'In addition, the company sells its 9-volt battery to '
+                        'the broader consumer market through national and '
+                        'regional retail chains and Internet retailers. '
+                        'Ultralife Corporation was founded in 1990 and is '
+                        'headquartered in Newark, New York.',
+ 'longName': 'Ultralife Corporation',
+ 'market': 'us_market',
+ 'marketCap': 103104032,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_322457',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 5839000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 6.69,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '315 332 7100',
+ 'previousClose': 6.72,
+ 'priceHint': 2,
+ 'priceToBook': 0.9348891,
+ 'priceToSalesTrailing12Months': 0.90659237,
+ 'profitMargins': 0.05134,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.75,
+ 'regularMarketDayLow': 6.49,
+ 'regularMarketOpen': 6.69,
+ 'regularMarketPreviousClose': 6.72,
+ 'regularMarketPrice': 6.69,
+ 'regularMarketVolume': 14649,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 15886600,
+ 'sharesPercentSharesOut': 0.0128,
+ 'sharesShort': 202856,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 104242,
+ 'shortName': 'Ultralife Corporation',
+ 'shortPercentOfFloat': 0.0207,
+ 'shortRatio': 2.07,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'ULBI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.36,
+ 'trailingPE': 18.027777,
+ 'twoHundredDayAverage': 7.007194,
+ 'volume': 14649,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ultralifecorporation.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '14513'}

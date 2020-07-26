@@ -1,0 +1,154 @@
+{'52WeekChange': -0.14818335,
+ 'SandP52WeekChange': None,
+ 'address1': 'Building D',
+ 'address2': 'Xerox Technology Park A91 H9N9',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 79.21,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 157025,
+ 'averageVolume': 269144,
+ 'averageVolume10days': 157025,
+ 'beta': 1.230252,
+ 'beta3Year': None,
+ 'bid': 79.31,
+ 'bidSize': 800,
+ 'bookValue': -15.624,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Dundalk',
+ 'companyOfficers': [],
+ 'country': 'Ireland',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 81.09,
+ 'dayLow': 78.54,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 10.39,
+ 'enterpriseToRevenue': 1.379,
+ 'enterpriseValue': 3760914688,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 79.40914,
+ 'fiftyTwoWeekHigh': 145.09,
+ 'fiftyTwoWeekLow': 40.8,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 13847034,
+ 'forwardEps': 1.39,
+ 'forwardPE': 56.96403,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 12000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.14499,
+ 'heldPercentInstitutions': 1.02132,
+ 'industry': 'Advertising Agencies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cimpress.com',
+ 'longBusinessSummary': 'Cimpress plc provides various mass customization '
+                        'services in North America, Europe, Australia/New '
+                        'Zealand, South America, and the Asia Pacific regions. '
+                        'The company operates through five segments: '
+                        'Vistaprint, PrintBrothers, The Print Group, National '
+                        'Pen, and All Other Businesses. It provides printed '
+                        'and digital marketing products; Internet-based '
+                        'canvas-print wall décor, business signage, and other '
+                        'printed products; Web-to print products, including '
+                        'multi-page brochures, folders, flyers, business '
+                        'cards, signs, leaflets, booklets, posters, '
+                        'letterheads, and banners, as well as customized '
+                        'beverage cans; and printed materials, such as '
+                        'signage, print, advertising materials, '
+                        'corporate-wear, and promotional gifts. The company '
+                        'also offers finishing options on business cards, '
+                        'flyers, brochures, banners, posters, roll-ups, and '
+                        'rigid signage; custom writing instruments, as well as '
+                        'other promotional products comprising travel mugs, '
+                        'water bottles, tech gadgets, and trade show items; '
+                        'and mass customization solutions that supports '
+                        'various channels consisting of retail stores, '
+                        'Websites, and e-commerce platforms. In addition, it '
+                        'operates e-commerce platform, which offers apparel, '
+                        'accessories, and home decor products. Further, the '
+                        'company provides Website design and hosting, and '
+                        'email marketing services, as well as order referral '
+                        'and other third-party offerings. It serves graphic '
+                        'designers, resellers, and printers, as well as home '
+                        'and family consumers, and businesses. The company was '
+                        'incorporated in 2009 and is based in Dundalk, '
+                        'Ireland.',
+ 'longName': 'Cimpress plc',
+ 'market': 'us_market',
+ 'marketCap': 2049051776,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_21009761',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 159516992,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 80.71,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.21,
+ 'phone': '353 42 938 8500',
+ 'previousClose': 80.65,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 0.7514035,
+ 'profitMargins': 0.0585,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 81.09,
+ 'regularMarketDayLow': 78.54,
+ 'regularMarketOpen': 80.71,
+ 'regularMarketPreviousClose': 80.65,
+ 'regularMarketPrice': 80.71,
+ 'regularMarketVolume': 116377,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 25878400,
+ 'sharesPercentSharesOut': 0.0753,
+ 'sharesShort': 1949894,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2608344,
+ 'shortName': 'Cimpress PLC',
+ 'shortPercentOfFloat': 0.1476,
+ 'shortRatio': 6.83,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'CMPR',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 5.485,
+ 'trailingPE': 14.435734,
+ 'twoHundredDayAverage': 84.389206,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '314ed16a-5245-3ded-ad86-190eacefd5c3',
+ 'volume': 116377,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cimpress.com',
+ 'yield': None,
+ 'ytdReturn': None}

@@ -1,0 +1,155 @@
+{'52WeekChange': 0.061646104,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '22 Cherry Hill Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 293.4,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 359337,
+ 'averageVolume': 516180,
+ 'averageVolume10days': 359337,
+ 'beta': 0.933333,
+ 'beta3Year': None,
+ 'bid': 292.93,
+ 'bidSize': 1200,
+ 'bookValue': 23.672,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Danvers',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 294.87,
+ 'dayLow': 286.85,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.57,
+ 'enterpriseToEbitda': 47.343,
+ 'enterpriseToRevenue': 15.149,
+ 'enterpriseValue': 12738795520,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '978 777 8411',
+ 'fiftyDayAverage': 260.92087,
+ 'fiftyTwoWeekHigh': 301.11,
+ 'fiftyTwoWeekLow': 119.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 43935537,
+ 'forwardEps': 4.77,
+ 'forwardPE': 61.413,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1536,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.020350002,
+ 'heldPercentInstitutions': 1.0137,
+ 'industry': 'Medical Devices',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': 970444800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/abiomed.com',
+ 'longBusinessSummary': 'Abiomed, Inc. engages in the research, development, '
+                        'and sale of medical devices to assist or replace the '
+                        'pumping function of the failing heart. It also '
+                        'provides a continuum of care to heart failure '
+                        'patients. The company offers Impella 2.5 catheter, a '
+                        'percutaneous micro heart pump with integrated motor '
+                        'and sensors for use in interventional cardiology; and '
+                        'Impella CP, a device used by interventional '
+                        'cardiologists to support patients in the cath lab and '
+                        'cardiac surgeons in the heart surgery suite. It also '
+                        'provides Impella 5.0 and Impella LD, which are '
+                        'percutaneous micro heart pumps with integrated motors '
+                        'and sensors for use primarily in the heart surgery '
+                        'suite; Impella RP, a percutaneous catheter-based '
+                        'axial flow pump; Impella SmartAssist platform that '
+                        'includes optical sensor technology for improved pump '
+                        'positioning and the use of algorithms that enable '
+                        'improved native heart assessment during the weaning '
+                        'process; and Impella Connect, a cloud-based '
+                        'technology that enables secure, cloud-based, and '
+                        'remote viewing of the Automated Impella Controller '
+                        'for physicians and hospital staffs. In addition, the '
+                        'company engages in the development of Impella XR '
+                        'Sheath, a sheath designed to expand and recoil to all '
+                        'for ease of use upon insertion of an Impella heart '
+                        'pump and minimize the size of the arteriotomy; '
+                        'Impella BTR, a percutaneous micro heart pumps with '
+                        'integrated motors and sensors; and Impella ECP pump '
+                        'that is designed for blood flow of greater than three '
+                        'liters per minute. It sells its products through '
+                        'direct sales and clinical support personnel in the '
+                        'United States, Canada, Europe, and Asia. The company '
+                        'was founded in 1981 and is headquartered in Danvers, '
+                        'Massachusetts.',
+ 'longName': 'Abiomed, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 13195218944,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_247589',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 203008992,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 293.2,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.66,
+ 'phone': '978 646 1400',
+ 'previousClose': 294.57,
+ 'priceHint': 2,
+ 'priceToBook': 12.374957,
+ 'priceToSalesTrailing12Months': 15.692099,
+ 'profitMargins': 0.24142,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 294.87,
+ 'regularMarketDayLow': 286.85,
+ 'regularMarketOpen': 293.2,
+ 'regularMarketPreviousClose': 294.57,
+ 'regularMarketPrice': 293.2,
+ 'regularMarketVolume': 184348,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 45044100,
+ 'sharesPercentSharesOut': 0.0546,
+ 'sharesShort': 2458373,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2726854,
+ 'shortName': 'ABIOMED, Inc.',
+ 'shortPercentOfFloat': 0.0626,
+ 'shortRatio': 5.16,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'ABMD',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 4.43,
+ 'trailingPE': 66.12641,
+ 'twoHundredDayAverage': 195.03928,
+ 'volume': 184348,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.abiomed.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01923'}

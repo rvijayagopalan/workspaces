@@ -1,0 +1,161 @@
+{'52WeekChange': 1.0218341,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3471 River Hills Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.15,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 392750,
+ 'averageVolume': 877768,
+ 'averageVolume10days': 392750,
+ 'beta': 0.92549,
+ 'beta3Year': None,
+ 'bid': 20,
+ 'bidSize': 900,
+ 'bookValue': 4.775,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cincinnati',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.57,
+ 'dayLow': 22.63,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.319,
+ 'enterpriseToEbitda': 21.043,
+ 'enterpriseToRevenue': 4.885,
+ 'enterpriseValue': 996628672,
+ 'exDividendDate': 1548979200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '513-271-3702',
+ 'fiftyDayAverage': 21.255428,
+ 'fiftyTwoWeekHigh': 25.88,
+ 'fiftyTwoWeekLow': 5.51,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 39202346,
+ 'forwardEps': 1.01,
+ 'forwardPE': 22.920792,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 660,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.011670001,
+ 'heldPercentInstitutions': 0.87157,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': 1179100800,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/meridianbioscience.com',
+ 'longBusinessSummary': 'Meridian Bioscience, Inc., a life science company, '
+                        'develops, manufactures, distributes, and sells '
+                        'diagnostic test kits primarily for various '
+                        'gastrointestinal and respiratory infectious diseases, '
+                        'and elevated blood lead levels worldwide. The company '
+                        'operates through Diagnostics and Life Science '
+                        'segments. The Diagnostics segment offers testing '
+                        'platforms and technologies, including real-time PCR '
+                        'amplification under the Revogene brand; isothermal '
+                        'DNA amplification under the Alethia brand; rapid '
+                        'fluorescence-based immunoassay platform under the '
+                        'Curian brand; rapid single-use immunoassays under the '
+                        'ImmunoCard and ImmunoCard STAT! brand names; '
+                        'enzyme-linked immunoassays under the PREMIER brand; '
+                        'and anodic stripping voltammetry, an electrical '
+                        'chemical sensor platform for quantitative '
+                        'determination under the LeadCare and PediaStat '
+                        "brands. This segment's products are primarily used in "
+                        'the detection of infectious diseases caused by '
+                        'various bacteria, viruses, parasites, and pathogens. '
+                        'Its products consists of gastrointestinal assays, '
+                        'including tests for C. difficile, Enterohemorrhagic '
+                        'E. coli, Campylobacter jejuni, H. pylori, '
+                        'Cryptosporidium, giardia lamblia, and calprotectin; '
+                        'respiratory illness assays, such as tests for Group A '
+                        'Streptococcus, Influenza, M. pneumoniae, Bordetella '
+                        'pertussis, and respiratory syncytial virus; blood '
+                        'chemistry assays; and tests for Group B '
+                        'Streptococcus, Chlamydia trachomatis, Neisseria '
+                        'gonorrhea, Herpes Simplex Virus Type 1 and Type 2, '
+                        'and Malaria. This segment sells its products through '
+                        'direct sales force and independent distributors to '
+                        'acute care hospitals, reference laboratories, '
+                        'outpatient clinics, and physician office '
+                        'laboratories. The Life Science segment offers bulk '
+                        'antigens, antibodies, PCR/qPCR reagents, nucleotides, '
+                        'and bioresearch reagents used by researchers, '
+                        'agri-bio companies, and IVD manufacturing companies. '
+                        'Meridian Bioscience, Inc. was incorporated in 1976 '
+                        'and is headquartered in Cincinnati, Ohio.',
+ 'longName': 'Meridian Bioscience, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 991581632,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_287401',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 21368000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 23.38,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.83,
+ 'phone': '513-271-3700',
+ 'previousClose': 23.63,
+ 'priceHint': 2,
+ 'priceToBook': 4.8481674,
+ 'priceToSalesTrailing12Months': 4.8606224,
+ 'profitMargins': 0.10474,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.57,
+ 'regularMarketDayLow': 22.63,
+ 'regularMarketOpen': 23.38,
+ 'regularMarketPreviousClose': 23.63,
+ 'regularMarketPrice': 23.38,
+ 'regularMarketVolume': 347447,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 42832900,
+ 'sharesPercentSharesOut': 0.0725,
+ 'sharesShort': 3104765,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2664340,
+ 'shortName': 'Meridian Bioscience Inc.',
+ 'shortPercentOfFloat': 0.097600006,
+ 'shortRatio': 3.98,
+ 'startDate': None,
+ 'state': 'OH',
+ 'strikePrice': None,
+ 'symbol': 'VIVO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0,
+ 'trailingAnnualDividendYield': 0,
+ 'trailingEps': 0.5,
+ 'trailingPE': 46.3,
+ 'twoHundredDayAverage': 13.048705,
+ 'volume': 347447,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.meridianbioscience.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '45244'}

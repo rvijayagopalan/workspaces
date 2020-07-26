@@ -1,0 +1,152 @@
+{'52WeekChange': 0.07665622,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '11115 Rushmore Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 425,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 273500,
+ 'averageVolume': 170923,
+ 'averageVolume10days': 273500,
+ 'beta': 2.206722,
+ 'beta3Year': None,
+ 'bid': 353.92,
+ 'bidSize': 800,
+ 'bookValue': 32.425,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Charlotte',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 359,
+ 'dayLow': 343.65,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 35.855,
+ 'enterpriseToRevenue': 4.435,
+ 'enterpriseValue': 4999897600,
+ 'exDividendDate': 1355356800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 299.26028,
+ 'fiftyTwoWeekHigh': 392.74,
+ 'fiftyTwoWeekLow': 135.72,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 7873890,
+ 'forwardEps': 4.98,
+ 'forwardPE': 71.044174,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.39701998,
+ 'heldPercentInstitutions': 0.76465,
+ 'industry': 'Mortgage Finance',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/lendingtree.com',
+ 'longBusinessSummary': 'LendingTree, Inc., through its subsidiary, '
+                        'LendingTree, LLC, operates online consumer platform '
+                        'in the United States. It operates through Home, '
+                        "Consumer, and Insurance segments. The company's Home "
+                        'segment offers purchase mortgage, refinance mortgage, '
+                        'reverse mortgage, and home equity loans; lines of '
+                        'credit; and real estate brokerage services. Its '
+                        'Consumer segment provides credit cards; personal, '
+                        'small business, student, and auto loans; deposit '
+                        'accounts; and other credit products, such as credit '
+                        "repair and debt settlement services. The company's "
+                        'Insurance segment includes information, tools, and '
+                        'access to insurance quote products, including home '
+                        'and automobile, through which consumers are matched '
+                        'with insurance lead aggregators to obtain insurance '
+                        'offers. It also operates CompareCards, an online '
+                        'source for side-by-side credit card comparison '
+                        'shopping; SimpleTuition, an online marketing platform '
+                        'for student loans; MagnifyMoney, a consumer facing '
+                        'media property that offers editorial content, expert '
+                        'commentary, tools, and resources; SnapCap, an online '
+                        'platform, which connects business owners with '
+                        'lenders; ValuePenguin, a personal finance website '
+                        'that offers consumers objective analysis; '
+                        'QuoteWizard.com, a marketplace for insurance '
+                        'comparison; and Student Loan Hero, a personal finance '
+                        'website dedicated to helping student loan borrowers '
+                        'manage their student debt. The company was formerly '
+                        'known as Tree.com, Inc. and changed its name to '
+                        'LendingTree, Inc. in January 2015. LendingTree, Inc. '
+                        'was founded in 1996 and is headquartered in '
+                        'Charlotte, North Carolina.',
+ 'longName': 'LendingTree, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 4622007808,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_91183',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 57886000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 351.79,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 6.42,
+ 'phone': '704-541-5351',
+ 'previousClose': 355.42,
+ 'priceHint': 2,
+ 'priceToBook': 10.911334,
+ 'priceToSalesTrailing12Months': 4.10008,
+ 'profitMargins': 0.029040001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 359,
+ 'regularMarketDayLow': 343.65,
+ 'regularMarketOpen': 351.79,
+ 'regularMarketPreviousClose': 355.42,
+ 'regularMarketPrice': 351.79,
+ 'regularMarketVolume': 151864,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 13063900,
+ 'sharesPercentSharesOut': 0.16350001,
+ 'sharesShort': 2136568,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2282922,
+ 'shortName': 'LendingTree, Inc.',
+ 'shortPercentOfFloat': 0.32779998,
+ 'shortRatio': 15.66,
+ 'startDate': None,
+ 'state': 'NC',
+ 'strikePrice': None,
+ 'symbol': 'TREE',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.24,
+ 'trailingPE': 157.94643,
+ 'twoHundredDayAverage': 267.8741,
+ 'volume': 151864,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.lendingtree.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '28277'}

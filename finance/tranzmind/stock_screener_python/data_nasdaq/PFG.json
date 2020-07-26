@@ -1,0 +1,162 @@
+{'52WeekChange': -0.25807512,
+ 'SandP52WeekChange': None,
+ 'address1': '711 High Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 45.44,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 1206425,
+ 'averageVolume': 1783744,
+ 'averageVolume10days': 1206425,
+ 'beta': 1.638095,
+ 'beta3Year': None,
+ 'bid': 44.11,
+ 'bidSize': 1800,
+ 'bookValue': 47.211,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Des Moines',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 45.28,
+ 'dayLow': 44.46,
+ 'dividendRate': 2.24,
+ 'dividendYield': 0.0498,
+ 'earningsQuarterlyGrowth': -0.328,
+ 'enterpriseToEbitda': 6.901,
+ 'enterpriseToRevenue': 0.7,
+ 'enterpriseValue': 11924759552,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 42.770855,
+ 'fiftyTwoWeekHigh': 60.58,
+ 'fiftyTwoWeekLow': 23.31,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.57,
+ 'floatShares': 272640842,
+ 'forwardEps': 5.87,
+ 'forwardPE': 7.626917,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 17601,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0032600001,
+ 'heldPercentInstitutions': 0.74512,
+ 'industry': 'Insurance—Diversified',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/principal.com',
+ 'longBusinessSummary': 'Principal Financial Group, Inc. provides retirement, '
+                        'asset management, and insurance products and services '
+                        'to businesses, individuals, and institutional clients '
+                        'worldwide. The company operates through Retirement '
+                        'and Income Solutions, Principal Global Investors, '
+                        'Principal International, and U.S. Insurance Solutions '
+                        'segments. The Retirement and Income Solutions segment '
+                        'provides a portfolio of asset accumulation products '
+                        'and services for retirement savings and income. It '
+                        'offers products and services for defined contribution '
+                        'plans, including 401(k) and 403(b) plans, defined '
+                        'benefit pension plans, nonqualified executive benefit '
+                        'plans, employee stock ownership plans, and pension '
+                        'risk transfer services; individual retirement '
+                        'accounts and payroll deduction plans; investment only '
+                        'products; and mutual funds, individual annuities, and '
+                        'bank products. The Principal Global Investors segment '
+                        'provides equity, fixed income, real estate, and other '
+                        'alternative investments, as well as asset allocation, '
+                        'stable value management, and other structured '
+                        'investment strategies. The Principal International '
+                        'segment offers pension accumulation and income '
+                        'annuity products, mutual funds, asset management, and '
+                        'life insurance accumulation products, as well as '
+                        'voluntary savings plans in Brazil, Chile, Mexico, '
+                        'China, Hong Kong Special Administrative Region, '
+                        'India, and Southeast Asia. The U.S. Insurance '
+                        'Solutions segment provides specialty benefits, such '
+                        'as group dental and vision insurance, group life '
+                        'insurance, and group and individual disability '
+                        'insurance, as well as administers group dental, '
+                        'disability, and vision benefits; and individual life '
+                        'insurance products comprising universal, variable '
+                        'universal, indexed universal, and term life insurance '
+                        'products in the United States. It also offers '
+                        'insurance solutions for small and medium-sized '
+                        'businesses and their owners, as well as executives. '
+                        'Principal Financial Group, Inc. was founded in 1879 '
+                        'and is based in Des Moines, Iowa.',
+ 'longName': 'Principal Financial Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 12261070848,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_201105',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1253200000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 44.95,
+ 'openInterest': None,
+ 'payoutRatio': 0.49220002,
+ 'pegRatio': 1.6,
+ 'phone': '515-247-5111',
+ 'previousClose': 45.02,
+ 'priceHint': 2,
+ 'priceToBook': 0.948296,
+ 'priceToSalesTrailing12Months': 0.7199901,
+ 'profitMargins': 0.07359,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 45.28,
+ 'regularMarketDayLow': 44.46,
+ 'regularMarketOpen': 44.95,
+ 'regularMarketPreviousClose': 45.02,
+ 'regularMarketPrice': 44.95,
+ 'regularMarketVolume': 1280977,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 273868000,
+ 'sharesPercentSharesOut': 0.0136,
+ 'sharesShort': 3735639,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3678230,
+ 'shortName': 'Principal Financial Group Inc',
+ 'shortPercentOfFloat': 0.0156,
+ 'shortRatio': 1.97,
+ 'startDate': None,
+ 'state': 'IA',
+ 'strikePrice': None,
+ 'symbol': 'PFG',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.2,
+ 'trailingAnnualDividendYield': 0.04886717,
+ 'trailingEps': 4.471,
+ 'trailingPE': 10.013419,
+ 'twoHundredDayAverage': 41.693455,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '070c5788-dc34-3cbc-b653-cb6187401064',
+ 'volume': 1280977,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.principal.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '50392'}

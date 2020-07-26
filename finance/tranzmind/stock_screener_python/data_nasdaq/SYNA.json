@@ -1,0 +1,157 @@
+{'52WeekChange': 1.3918631,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1251 McKay Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 78.23,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 670562,
+ 'averageVolume': 559484,
+ 'averageVolume10days': 670562,
+ 'beta': 1.017366,
+ 'beta3Year': None,
+ 'bid': 78.12,
+ 'bidSize': 800,
+ 'bookValue': 20.965,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Jose',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 79.43,
+ 'dayLow': 76.19,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.254,
+ 'enterpriseToEbitda': 18.197,
+ 'enterpriseToRevenue': 1.994,
+ 'enterpriseValue': 2694951936,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '408-904-1110',
+ 'fiftyDayAverage': 65.671715,
+ 'fiftyTwoWeekHigh': 84.75,
+ 'fiftyTwoWeekLow': 28.8,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 33499984,
+ 'forwardEps': 5.02,
+ 'forwardPE': 15.575698,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1861,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02408,
+ 'heldPercentInstitutions': 1.0153,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561766400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1220313600,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/synaptics.com',
+ 'longBusinessSummary': 'Synaptics Incorporated develops, markets, and sells '
+                        'intuitive human interface solutions for electronic '
+                        'devices and products worldwide. The company offers '
+                        'ClearPad, which enables users to interact directly '
+                        'with the display on mobile smartphones, tablets, and '
+                        'automobiles; ClearView products that provide advanced '
+                        'image processing and low power technology for '
+                        'displays on electronic devices, including smartphones '
+                        'and tablets; TouchView products, which integrate '
+                        'touch and display technologies to deliver performance '
+                        'and simplified design; and Natural ID, a fingerprint '
+                        'ID product that is used in automobiles, notebook '
+                        'personal computers (PCs), PC peripherals, and other '
+                        'applications. It also provides TouchPad, a '
+                        'touch-sensitive pad that senses the position and '
+                        'movement of one or more fingers on its surface; '
+                        'SecurePad that integrates fingerprint sensor directly '
+                        'into the TouchPad area; ClickPad that offers a '
+                        'clickable mechanical design to the TouchPad solution; '
+                        'ForcePad, a thinner version of its ClickPad; '
+                        'AudioSmart personal voice and audio solutions; '
+                        'VideoSmart single-chip 4K UHD media processors for '
+                        'TVs, set-top boxes, and over-the-top streaming '
+                        'devices; and ImagingSmart solutions. In addition, the '
+                        'company offers TouchPad with a pointing stick in a '
+                        'single notebook computer enabling users to select '
+                        'their interface of choice; TouchStyk, a '
+                        'self-contained pointing stick module; and '
+                        'TouchButtons, which provides capacitive buttons and '
+                        'scrolling controls, as well as display interface '
+                        'products. The company sells its products through '
+                        'direct sales, outside sales representatives, '
+                        'distributors, and resellers. It serves mobile and PC '
+                        'original equipment manufacturers; Internet of Things '
+                        'manufacturers; and consumer electronics '
+                        'manufacturers. The company was founded in 1986 and is '
+                        'headquartered in San Jose, California.',
+ 'longName': 'Synaptics Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 2661251584,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_35013',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -17400000,
+ 'nextFiscalYearEnd': 1624924800,
+ 'open': 77.58,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.33,
+ 'phone': '408-904-1100',
+ 'previousClose': 78.27,
+ 'priceHint': 2,
+ 'priceToBook': 3.7295494,
+ 'priceToSalesTrailing12Months': 1.9692553,
+ 'profitMargins': -0.01288,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 79.43,
+ 'regularMarketDayLow': 76.19,
+ 'regularMarketOpen': 77.58,
+ 'regularMarketPreviousClose': 78.27,
+ 'regularMarketPrice': 77.58,
+ 'regularMarketVolume': 493751,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 34035700,
+ 'sharesPercentSharesOut': 0.1513,
+ 'sharesShort': 5149236,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5549249,
+ 'shortName': 'Synaptics Incorporated',
+ 'shortPercentOfFloat': 0.24700001,
+ 'shortRatio': 9.43,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'SYNA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.523,
+ 'twoHundredDayAverage': 65.5413,
+ 'volume': 493751,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.synaptics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95131'}

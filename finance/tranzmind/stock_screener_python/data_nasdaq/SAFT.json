@@ -1,0 +1,160 @@
+{'52WeekChange': -0.22592366,
+ 'SandP52WeekChange': None,
+ 'address1': '20 Custom House Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 76.02,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 46625,
+ 'averageVolume': 61368,
+ 'averageVolume10days': 46625,
+ 'beta': 0.382633,
+ 'beta3Year': None,
+ 'bid': 74.56,
+ 'bidSize': 800,
+ 'bookValue': 49.78,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Boston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 77.49,
+ 'dayLow': 75.69,
+ 'dividendRate': 3.6,
+ 'dividendYield': 0.0469,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 13.091,
+ 'enterpriseToRevenue': 1.421,
+ 'enterpriseValue': 1188047872,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 76.264854,
+ 'fiftyTwoWeekHigh': 103.96,
+ 'fiftyTwoWeekLow': 65.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 4.06,
+ 'floatShares': 14542491,
+ 'forwardEps': 4.5,
+ 'forwardPE': 16.915556,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 609,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04765,
+ 'heldPercentInstitutions': 0.84335,
+ 'industry': 'Insurance—Property & Casualty',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/safetyinsurance.com',
+ 'longBusinessSummary': 'Safety Insurance Group, Inc. provides private '
+                        'passenger and commercial automobile, and homeowner '
+                        "insurance in the United States. The company's private "
+                        'passenger automobile policies offer coverage for '
+                        'bodily injury and property damage to others, no-fault '
+                        "personal injury coverage for the insured/insured's "
+                        'car occupants, and physical damage coverage for an '
+                        "insured's own vehicle for collision or other perils. "
+                        'It also provides commercial automobile policies that '
+                        'offer insurance for commercial vehicles used for '
+                        'business purposes, including private passenger-type '
+                        'vehicles, trucks, tractors and trailers, insure '
+                        'individual vehicles, and commercial fleets; and '
+                        'homeowners policies, which provide coverage for '
+                        'homes, condominiums, and apartments for losses to a '
+                        'dwelling and its contents from various perils, and '
+                        'coverage for liability to others arising from '
+                        'ownership or occupancy. In addition, the company '
+                        'offers business owners policies that cover apartments '
+                        'and residential condominiums, restaurants, office '
+                        'condominiums, processing and services businesses, '
+                        'special trade contractors, and wholesalers. Further, '
+                        'it provides personal umbrella policies, which provide '
+                        'personal excess liability coverage over and above the '
+                        'limits of individual automobile, watercraft, and '
+                        "homeowner's insurance policies; and commercial "
+                        'umbrella policies, as well as underwrites dwelling '
+                        'fire insurance for non-owner occupied residences. '
+                        'Additionally, the company offers inland marine '
+                        'coverage for homeowners and business owner policies; '
+                        'and watercraft coverage for small and medium sized '
+                        'pleasure crafts. It distributes its products through '
+                        'independent agents. The company was formerly known as '
+                        'Safety Holdings Inc and changed its name to Safety '
+                        'Insurance Group, Inc. in April 2002. Safety Insurance '
+                        'Group, Inc. was founded in 1979 and is based in '
+                        'Boston, Massachusetts.',
+ 'longName': 'Safety Insurance Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1165359232,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_968928',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 67319000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 76.79,
+ 'openInterest': None,
+ 'payoutRatio': 0.79910004,
+ 'pegRatio': 0.79,
+ 'phone': '617-951-0600',
+ 'previousClose': 76.68,
+ 'priceHint': 2,
+ 'priceToBook': 1.5291283,
+ 'priceToSalesTrailing12Months': 1.393607,
+ 'profitMargins': 0.08092,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 77.49,
+ 'regularMarketDayLow': 75.69,
+ 'regularMarketOpen': 76.79,
+ 'regularMarketPreviousClose': 76.68,
+ 'regularMarketPrice': 76.79,
+ 'regularMarketVolume': 28056,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 15309500,
+ 'sharesPercentSharesOut': 0.012999999,
+ 'sharesShort': 199600,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 152027,
+ 'shortName': 'Safety Insurance Group, Inc.',
+ 'shortPercentOfFloat': 0.0218,
+ 'shortRatio': 2.94,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'SAFT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 3.5,
+ 'trailingAnnualDividendYield': 0.045644235,
+ 'trailingEps': 4.381,
+ 'trailingPE': 17.375029,
+ 'twoHundredDayAverage': 81.72813,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e12d0d49-5b8a-3989-a59b-d2dce7617c8f',
+ 'volume': 28056,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.safetyinsurance.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02110'}

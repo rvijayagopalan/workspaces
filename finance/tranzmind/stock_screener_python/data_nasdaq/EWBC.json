@@ -1,0 +1,150 @@
+{'52WeekChange': -0.25951338,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '135 North Los Robles Avenue',
+ 'address2': '7th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 36.69,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 863412,
+ 'averageVolume': 1205707,
+ 'averageVolume10days': 863412,
+ 'beta': 2.016806,
+ 'beta3Year': None,
+ 'bid': 34.46,
+ 'bidSize': 800,
+ 'bookValue': 35.249,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Pasadena',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 36.19,
+ 'dayLow': 35.38,
+ 'dividendRate': 1.1,
+ 'dividendYield': 0.0312,
+ 'earningsQuarterlyGrowth': -0.339,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.187,
+ 'enterpriseValue': 1605983488,
+ 'exDividendDate': 1588291200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 36.200287,
+ 'fiftyTwoWeekHigh': 51.88,
+ 'fiftyTwoWeekLow': 22.55,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.92,
+ 'floatShares': 140403632,
+ 'forwardEps': 3.65,
+ 'forwardPE': 9.756165,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3294,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0071799997,
+ 'heldPercentInstitutions': 0.94277,
+ 'industry': 'Banks—Diversified',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1087862400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/eastwestbank.com',
+ 'longBusinessSummary': 'East West Bancorp, Inc. operates as the bank holding '
+                        'company for East West Bank that provides a range of '
+                        'personal and commercial banking services to '
+                        'businesses and individuals in the United States and '
+                        'Greater China. It operates in three segments: '
+                        'Consumer and Business Banking, Commercial Banking, '
+                        'and Other. The company accepts various deposit '
+                        'products, such as personal and business checking and '
+                        'savings accounts, money market, time deposits, and '
+                        'individual retirement accounts. Its loan products '
+                        'include commercial and residential real estate, lines '
+                        'of credit, construction, trade finance, letters of '
+                        'credit, commercial business, housing loans, '
+                        'asset-based lending, and equipment financing, as well '
+                        'as financing to clients needing a financial bridge to '
+                        'facilitate their business transactions between the '
+                        'United States and Greater China. The company also '
+                        'provides various wealth management, treasury '
+                        'management, foreign exchange, and interest rate and '
+                        'commodity hedging risk management services; and '
+                        'Internet-based services comprising online banking '
+                        'services. As of January 24, 2019, it operated '
+                        'approximately 130 locations in California, Georgia, '
+                        'Massachusetts, Nevada, New York, Texas, and '
+                        'Washington; full service branches in Hong Kong, '
+                        'Shanghai, Shantou, and Shenzhen; and representative '
+                        'offices in Beijing, Chongqing, Guangzhou, Taipei, and '
+                        'Xiamen. East West Bancorp, Inc. was founded in 1998 '
+                        'and is headquartered in Pasadena, California.',
+ 'longName': 'East West Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 5038316544,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_396680',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 603806976,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 35.74,
+ 'openInterest': None,
+ 'payoutRatio': 0.245,
+ 'pegRatio': 1.2,
+ 'phone': '626-768-6000',
+ 'previousClose': 35.3,
+ 'priceHint': 2,
+ 'priceToBook': 1.0102414,
+ 'priceToSalesTrailing12Months': 3.7250447,
+ 'profitMargins': 0.44641998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 36.19,
+ 'regularMarketDayLow': 35.38,
+ 'regularMarketOpen': 35.74,
+ 'regularMarketPreviousClose': 35.3,
+ 'regularMarketPrice': 35.74,
+ 'regularMarketVolume': 643924,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 141486000,
+ 'sharesPercentSharesOut': 0.0276,
+ 'sharesShort': 3905577,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3584763,
+ 'shortName': 'East West Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0315,
+ 'shortRatio': 2.87,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'EWBC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.1,
+ 'trailingAnnualDividendYield': 0.031161474,
+ 'trailingEps': 4.167,
+ 'trailingPE': 8.545717,
+ 'twoHundredDayAverage': 36.888275,
+ 'volume': 643924,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.eastwestbank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '91101'}

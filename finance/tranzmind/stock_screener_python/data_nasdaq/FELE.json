@@ -1,0 +1,160 @@
+{'52WeekChange': 0.13722157,
+ 'SandP52WeekChange': None,
+ 'address1': '9255 Coverdale Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 53.49,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 191725,
+ 'averageVolume': 182147,
+ 'averageVolume10days': 191725,
+ 'beta': 1.071148,
+ 'beta3Year': None,
+ 'bid': 53.48,
+ 'bidSize': 900,
+ 'bookValue': 16.279,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Fort Wayne',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 53.84,
+ 'dayLow': 53.12,
+ 'dividendRate': 0.62,
+ 'dividendYield': 0.0116,
+ 'earningsQuarterlyGrowth': 0.175,
+ 'enterpriseToEbitda': 15.305,
+ 'enterpriseToRevenue': 2.007,
+ 'enterpriseValue': 2590397952,
+ 'exDividendDate': 1588723200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '260 824 2909',
+ 'fiftyDayAverage': 51.82857,
+ 'fiftyTwoWeekHigh': 61.49,
+ 'fiftyTwoWeekLow': 41.25,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.08,
+ 'floatShares': 38525849,
+ 'forwardEps': 2,
+ 'forwardPE': 26.725,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.1691,
+ 'heldPercentInstitutions': 0.80934,
+ 'industry': 'Specialty Industrial Machinery',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1363651200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/franklin-electric.com',
+ 'longBusinessSummary': 'Franklin Electric Co., Inc., together with its '
+                        'subsidiaries, designs, manufactures, and distributes '
+                        'water and fuel pumping systems worldwide. It operates '
+                        'in three segments: Water Systems, Fueling Systems, '
+                        'and Distribution. The Water Systems segment offers '
+                        'submersible motors, pumps, drives, electronic '
+                        'controls, monitoring devices, and related parts and '
+                        'equipment. Its motors and pumps are used principally '
+                        'for pumping clean water and wastewater in various '
+                        'residential, agricultural, and industrial '
+                        'applications; and manufactures electronic drives and '
+                        'controls that are used in motors for controlling '
+                        'functionality, as well as provides protection from '
+                        'various hazards, such as electrical surges, '
+                        'over-heating, and dry wells or tanks. The Fueling '
+                        'Systems segment provides pumps, pipes, sumps, '
+                        'fittings, vapor recovery components, electronic '
+                        'controls, monitoring devices, and related parts and '
+                        'equipment primarily for use in submersible fueling '
+                        'system applications. This segment serves other energy '
+                        'markets, such as power reliability systems, as well '
+                        'as includes intelligent electronic devices for online '
+                        'monitoring of the power utility, hydroelectric, and '
+                        'telecommunication and data center infrastructure. The '
+                        'Distribution segment sells to and provides presale '
+                        'support and specifications to the installing '
+                        'contractors. It sells products produced by the Water '
+                        'Systems segment and other brands. The company sells '
+                        'its products to wholesale and retail distributors, '
+                        'specialty distributors, original equipment '
+                        'manufacturers, industrial and petroleum equipment '
+                        'distributors, and oil and utility companies through '
+                        'its employee sales force and independent '
+                        'manufacturing representatives. Franklin Electric Co., '
+                        'Inc. was founded in 1944 and is headquartered in Fort '
+                        'Wayne, Indiana.',
+ 'longName': 'Franklin Electric Co., Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2467476480,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_273729',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 96470000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 53.43,
+ 'openInterest': None,
+ 'payoutRatio': 0.285,
+ 'pegRatio': 2.55,
+ 'phone': '260 824 2900',
+ 'previousClose': 53.62,
+ 'priceHint': 2,
+ 'priceToBook': 3.2833714,
+ 'priceToSalesTrailing12Months': 1.9118581,
+ 'profitMargins': 0.07521,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 53.84,
+ 'regularMarketDayLow': 53.12,
+ 'regularMarketOpen': 53.43,
+ 'regularMarketPreviousClose': 53.62,
+ 'regularMarketPrice': 53.43,
+ 'regularMarketVolume': 119761,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 46164200,
+ 'sharesPercentSharesOut': 0.013300001,
+ 'sharesShort': 611951,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 619279,
+ 'shortName': 'Franklin Electric Co., Inc.',
+ 'shortPercentOfFloat': 0.0156,
+ 'shortRatio': 3.73,
+ 'startDate': None,
+ 'state': 'IN',
+ 'strikePrice': None,
+ 'symbol': 'FELE',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.59,
+ 'trailingAnnualDividendYield': 0.011003356,
+ 'trailingEps': 2.069,
+ 'trailingPE': 25.833736,
+ 'twoHundredDayAverage': 52.168633,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '0e6e4ff0-8b2b-3a58-9741-fc42f72ef891',
+ 'volume': 119761,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.franklin-electric.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '46809'}

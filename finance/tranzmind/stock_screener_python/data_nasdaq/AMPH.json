@@ -1,0 +1,160 @@
+{'52WeekChange': 0.0035158396,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '11570 6th Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 20.68,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 225400,
+ 'averageVolume': 351752,
+ 'averageVolume10days': 225400,
+ 'beta': 1.178151,
+ 'beta3Year': None,
+ 'bid': 19.25,
+ 'bidSize': 800,
+ 'bookValue': 8.153,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Rancho Cucamonga',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 20.39,
+ 'dayLow': 19.9,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 3.55,
+ 'enterpriseToEbitda': 33.087,
+ 'enterpriseToRevenue': 2.959,
+ 'enterpriseValue': 968432128,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 20.83743,
+ 'fiftyTwoWeekHigh': 22.85,
+ 'fiftyTwoWeekLow': 12.33,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 35057583,
+ 'forwardEps': 1.26,
+ 'forwardPE': 15.857142,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2027,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.23798999,
+ 'heldPercentInstitutions': 0.53595,
+ 'industry': 'Drug Manufacturers—Specialty & Generic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/amphastar.com',
+ 'longBusinessSummary': 'Amphastar Pharmaceuticals, Inc., a specialty '
+                        'pharmaceutical company, develops, manufactures, '
+                        'markets, and sells generic and proprietary '
+                        'injectable, inhalation, and intranasal products in '
+                        'the United States, China, and France. The company '
+                        'operates through two segments, Finished '
+                        'Pharmaceutical Products and API. It offers '
+                        'enoxaparin, a low molecular weight heparin to prevent '
+                        'and treat deep vein thrombosis; naloxone for opioid '
+                        'overdose; Primatene Mist, an over-the-counter '
+                        'epinephrine inhalation product for the temporary '
+                        'relief of mild symptoms of intermittent asthma; and '
+                        'Cortrosyn, a lyophilized powder use as a diagnostic '
+                        'agent in the screening of patients with '
+                        'adrenocortical insufficiency. The company also '
+                        'provides Amphadase, a bovine-sourced hyaluronidase '
+                        'injection to absorb and disperse other injected '
+                        'drugs; lidocaine jelly, a local anesthetic product '
+                        'for urological procedures; lidocaine topical solution '
+                        'for various procedures; phytonadione injection for '
+                        'newborn babies; atropine, calcium chloride, dextrose, '
+                        'epinephrine, lidocaine, and sodium bicarbonate for '
+                        'emergency use in hospital settings; morphine '
+                        'injection; and lorazepam injection for surgery and '
+                        'medical procedures. In addition, it offers '
+                        'procainamide for documented ventricular arrhythmias; '
+                        'neostigmine methylsulfate injection to treat '
+                        'myasthenia gravis and to reverse the effects of '
+                        'muscle relaxants; medroxyprogesterone acetate '
+                        'injectable suspension for the prevention of '
+                        'pregnancy; and Isoproterenol hydrochloride injection '
+                        'for mild or transient episodes of heart block, as '
+                        'well as recombinant human insulin API (active '
+                        'pharmaceutical ingredients) and porcine insulin API. '
+                        'Further, the company has a pipeline of 20 product '
+                        'candidates in various stages of development for '
+                        'various indications. It serves hospitals, care '
+                        'facilities, alternate care sites, clinics, and '
+                        "doctors' offices. The company was founded in 1996 and "
+                        'is headquartered in Rancho Cucamonga, California.',
+ 'longName': 'Amphastar Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 923041984,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2003650',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 52020000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 20.39,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.32,
+ 'phone': '909-980-9484',
+ 'previousClose': 20.39,
+ 'priceHint': 2,
+ 'priceToBook': 2.4506316,
+ 'priceToSalesTrailing12Months': 2.8205588,
+ 'profitMargins': 0.15896,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 20.39,
+ 'regularMarketDayLow': 19.9,
+ 'regularMarketOpen': 20.39,
+ 'regularMarketPreviousClose': 20.39,
+ 'regularMarketPrice': 20.39,
+ 'regularMarketVolume': 109002,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 46198300,
+ 'sharesPercentSharesOut': 0.061100002,
+ 'sharesShort': 2822458,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3198676,
+ 'shortName': 'Amphastar Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.097399995,
+ 'shortRatio': 7.62,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'AMPH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.049,
+ 'trailingPE': 19.046711,
+ 'twoHundredDayAverage': 18.21518,
+ 'volume': 109002,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.amphastar.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '91730'}

@@ -1,0 +1,162 @@
+{'52WeekChange': 0.34221458,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2801 East Beltline Avenue, NE',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 54.9,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 341662,
+ 'averageVolume': 314007,
+ 'averageVolume10days': 341662,
+ 'beta': 1.6,
+ 'beta3Year': None,
+ 'bid': 54.88,
+ 'bidSize': 800,
+ 'bookValue': 21.764,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Grand Rapids',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 55.26,
+ 'dayLow': 54.05,
+ 'dividendRate': 0.5,
+ 'dividendYield': 0.0091,
+ 'earningsQuarterlyGrowth': 0.219,
+ 'enterpriseToEbitda': 9.663,
+ 'enterpriseToRevenue': 0.749,
+ 'enterpriseValue': 3323253248,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '616 361 7534',
+ 'fiftyDayAverage': 48.91686,
+ 'fiftyTwoWeekHigh': 58.1,
+ 'fiftyTwoWeekLow': 29.17,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.02,
+ 'floatShares': 60077013,
+ 'forwardEps': 3.25,
+ 'forwardPE': 16.895384,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 12000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.025799999,
+ 'heldPercentInstitutions': 0.83419997,
+ 'industry': 'Lumber & Wood Production',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 1510704000,
+ 'lastSplitFactor': '3:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ufpi.com',
+ 'longBusinessSummary': 'UFP Industries, Inc., through its subsidiaries, '
+                        'designs, manufactures, and markets wood and '
+                        'wood-alternative products in North America, Europe, '
+                        'Asia, and Australia. The company offers preserved and '
+                        'unpreserved dimensional lumber; outdoor living '
+                        'products, including wood and wood composite decking '
+                        'and related accessories, and decorative lawn and '
+                        'garden products; and engineered wood components, '
+                        'which include roof and floor trusses, wall panels, '
+                        'engineered floor systems, I-joists, and lumber '
+                        'packages. It also provides pallets, specialty crates, '
+                        'wooden boxes, and other containers and products that '
+                        'are used for packaging, shipping, and material '
+                        'handling applications; designs, manufactures, and '
+                        'installs interior fixtures that are used in retail '
+                        'and commercial structures; and provides lumber cut '
+                        'and shaped, plywood, oriented strand board, and '
+                        'dimensional lumber products for use in the '
+                        'construction of manufactured housings. In addition, '
+                        'the company supplies siding, electrical, and plumbing '
+                        'products to manufactured housing and recreational '
+                        'vehicle customers; and wood forms and related '
+                        'products to set or form concrete for various '
+                        'structures, such as parking garages, stadiums, and '
+                        'bridges. Further, it provides framing services; and '
+                        'specialty wood packaging, components, and packing '
+                        'materials for various industries. The company '
+                        'primarily sells its products under the roWood, '
+                        'Deckorators, UFP-Edge, Outdoor Essentials, '
+                        'Dimensions, and ProWood FR trademarks. It serves '
+                        'retail market comprising home center retailers, '
+                        'retail-oriented regional lumberyards, and '
+                        'contractor-oriented lumberyards; industrial market, '
+                        'including manufacturers and agricultural customers; '
+                        'and construction market, such as manufactured '
+                        'housing, residential construction, and commercial '
+                        'construction markets. The company was formerly known '
+                        'as Universal Forest Products, Inc. and changed its '
+                        'name to UFP Industries, Inc. in April 2020. UFP '
+                        'Industries, Inc. was founded in 1955 and is '
+                        'headquartered in Grand Rapids, Michigan.',
+ 'longName': 'UFP Industries, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3355138304,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_328243',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 191720992,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 54.05,
+ 'openInterest': None,
+ 'payoutRatio': 0.1762,
+ 'pegRatio': 1.11,
+ 'phone': '616 364 6161',
+ 'previousClose': 54.68,
+ 'priceHint': 2,
+ 'priceToBook': 2.5229738,
+ 'priceToSalesTrailing12Months': 0.7564917,
+ 'profitMargins': 0.044239998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 55.26,
+ 'regularMarketDayLow': 54.05,
+ 'regularMarketOpen': 54.05,
+ 'regularMarketPreviousClose': 54.68,
+ 'regularMarketPrice': 54.05,
+ 'regularMarketVolume': 375572,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Basic Materials',
+ 'sharesOutstanding': 61102500,
+ 'sharesPercentSharesOut': 0.0159,
+ 'sharesShort': 972283,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 803135,
+ 'shortName': 'UFP Industries, Inc.',
+ 'shortPercentOfFloat': 0.0221,
+ 'shortRatio': 2.89,
+ 'startDate': None,
+ 'state': 'MI',
+ 'strikePrice': None,
+ 'symbol': 'UFPI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.45,
+ 'trailingAnnualDividendYield': 0.0082297,
+ 'trailingEps': 3.187,
+ 'trailingPE': 17.229368,
+ 'twoHundredDayAverage': 44.86633,
+ 'volume': 375572,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ufpi.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '49525'}

@@ -1,0 +1,156 @@
+{'52WeekChange': 1.1210878,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1 Hayarden Street',
+ 'address2': 'Airport City',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 41.58,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 1120337,
+ 'averageVolume': 743082,
+ 'averageVolume10days': 1120337,
+ 'beta': 0.615126,
+ 'beta3Year': None,
+ 'bid': 41.35,
+ 'bidSize': 1800,
+ 'bookValue': 3.276,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lod',
+ 'companyOfficers': [],
+ 'country': 'Israel',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 42.33,
+ 'dayLow': 39.07,
+ 'dividendRate': 0.26,
+ 'dividendYield': 0.006,
+ 'earningsQuarterlyGrowth': 0.726,
+ 'enterpriseToEbitda': 44.623,
+ 'enterpriseToRevenue': 5.728,
+ 'enterpriseValue': 1178401536,
+ 'exDividendDate': 1581638400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '972 3 976 4040',
+ 'fiftyDayAverage': 33.672573,
+ 'fiftyTwoWeekHigh': 44.9,
+ 'fiftyTwoWeekLow': 9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 22508298,
+ 'forwardEps': 1.32,
+ 'forwardPE': 31.31818,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 728,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.30859,
+ 'heldPercentInstitutions': 0.36565,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 971136000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/audiocodes.com',
+ 'longBusinessSummary': 'AudioCodes Ltd. designs, develops, and sells voice '
+                        'over IP (VoIP), converged VoIP, and data networking '
+                        'solutions, products, and applications for enterprise '
+                        'unified communications, contact centers, service '
+                        'provider business services, mobile VoIP, and cloud '
+                        "virtualized data centers. The company's products "
+                        'include IP phones, session border controllers (SBC), '
+                        'media gateways, multi-service business routers, '
+                        'managed IP phones, residential gateways, media '
+                        'servers, mobile communications solutions, value added '
+                        'applications, life cycle management solutions, '
+                        'professional services, and survivable branch '
+                        'appliances; device manager; CloudBond 365, an '
+                        'adaptable solution for the data center, customer '
+                        'premises or the branch; CloudBond 365 CCE appliances; '
+                        'User Management Pack 365, a software management '
+                        'application; and VoIP management and routing, a suite '
+                        'of lifecycle applications for large scale cloud or '
+                        'premises-based unified communications deployments. It '
+                        'also provides VocaNOM call routing products; SmartTAP '
+                        'call recording products; Auto Attendant, a tool for '
+                        'managing inbound calls and delivery services; signal '
+                        'processor chips; communications boards; and voice and '
+                        'data logging hardware integration board products. In '
+                        'addition, the company offers planning, '
+                        'implementation, operations, and support services, as '
+                        'well as consulting and training services. It '
+                        'primarily markets and sells its products through a '
+                        'direct sales force and sales representatives to '
+                        'original equipment manufacturers, system integrators '
+                        'and distributors, and network equipment providers in '
+                        'the telecommunication and networking industries. The '
+                        'company operates in the Americas, Europe, the Far '
+                        'East, and Israel. AudioCodes Ltd. was incorporated in '
+                        '1992 and is headquartered in Lod, Israel.',
+ 'longName': 'AudioCodes Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 1261279232,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_25238',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 6192000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 41.93,
+ 'openInterest': None,
+ 'payoutRatio': 1.25,
+ 'pegRatio': 1.86,
+ 'phone': '972 3 976 4099',
+ 'previousClose': 42.86,
+ 'priceHint': 2,
+ 'priceToBook': 12.619047,
+ 'priceToSalesTrailing12Months': 6.13075,
+ 'profitMargins': 0.0301,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 42.33,
+ 'regularMarketDayLow': 39.07,
+ 'regularMarketOpen': 41.93,
+ 'regularMarketPreviousClose': 42.86,
+ 'regularMarketPrice': 41.93,
+ 'regularMarketVolume': 1025293,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 29953400,
+ 'sharesPercentSharesOut': 0.0106,
+ 'sharesShort': 316382,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 276477,
+ 'shortName': 'AudioCodes Ltd.',
+ 'shortPercentOfFloat': 0.0136,
+ 'shortRatio': 0.42,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'AUDC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.25,
+ 'trailingAnnualDividendYield': 0.0058329445,
+ 'trailingEps': 0.201,
+ 'trailingPE': 205.67163,
+ 'twoHundredDayAverage': 28.022806,
+ 'volume': 1025293,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.audiocodes.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '7019900'}

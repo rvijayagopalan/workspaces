@@ -1,0 +1,151 @@
+{'52WeekChange': 0.40547943,
+ 'SandP52WeekChange': None,
+ 'address1': '30 Technology Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 5.21,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 641725,
+ 'averageVolume': 1073931,
+ 'averageVolume10days': 641725,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 5.08,
+ 'bidSize': 1000,
+ 'bookValue': -0.62,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Warren',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 5.16,
+ 'dayLow': 4.92,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -3.993,
+ 'enterpriseToRevenue': 4.122,
+ 'enterpriseValue': 200873664,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 4.9407144,
+ 'fiftyTwoWeekHigh': 10,
+ 'fiftyTwoWeekLow': 1.41,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 27646954,
+ 'forwardEps': -1.36,
+ 'forwardPE': -3.7536764,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 232,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.13683,
+ 'heldPercentInstitutions': 0.57502,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/aquestive.com',
+ 'longBusinessSummary': 'Aquestive Therapeutics, Inc., a specialty '
+                        'pharmaceutical company, focuses on identifying, '
+                        'developing, and commercializing various products to '
+                        'address unmet medical needs. The company markets '
+                        'Sympazan, an oral soluble film formulation of '
+                        'clobazam for the treatment of lennox-gastaut '
+                        'syndrome; Suboxone, a sublingual film formulation of '
+                        'buprenorphine and naloxone for the treatment of '
+                        'opioid dependence; and Zuplenz, an oral soluble film '
+                        'formulation of ondansetron for the treatment of '
+                        'nausea and vomiting associated with chemotherapy and '
+                        'post-operative recovery in the United States and '
+                        'internationally. Its proprietary product candidates '
+                        'comprise Libervant, a buccal soluble film formulation '
+                        'of diazepam for the treatment of recurrent epileptic '
+                        'seizures; and Exservan, an oral soluble film '
+                        'formulation of riluzole for the treatment of '
+                        "Amyotrophic Lateral Sclerosis. The company's "
+                        'proprietary pipeline of complex molecule products '
+                        'include AQST-108, a sublingual film formulation of '
+                        'epinephrine for the treatment of anaphylaxis; and '
+                        'AQST-305, a sublingual film formulation of octreotide '
+                        'for the treatment of acromegaly and neuroendocrine '
+                        'tumors. It also develops AQST-119, an oral soluble '
+                        'film formulation of tadalafil for the treatment of '
+                        'erectile dysfunction; and APL-130277, a sublingual '
+                        "film using apomorphine to treat parkinson's disease. "
+                        'Aquestive Therapeutics, Inc. was founded in 2004 and '
+                        'is headquartered in Warren, New Jersey.',
+ 'longName': 'Aquestive Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 171439680,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_8142504',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -68050000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 5.11,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '908-941-1900',
+ 'previousClose': 5.13,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 3.5180826,
+ 'profitMargins': -1.39644,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 5.16,
+ 'regularMarketDayLow': 4.92,
+ 'regularMarketOpen': 5.11,
+ 'regularMarketPreviousClose': 5.13,
+ 'regularMarketPrice': 5.11,
+ 'regularMarketVolume': 578430,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 33582700,
+ 'sharesPercentSharesOut': 0.051,
+ 'sharesShort': 1713560,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1321520,
+ 'shortName': 'Aquestive Therapeutics, Inc.',
+ 'shortPercentOfFloat': 0.088199995,
+ 'shortRatio': 1.95,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'AQST',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.474,
+ 'twoHundredDayAverage': 4.225288,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '22956725-87cb-39ad-9e8b-1bc1480b8337',
+ 'volume': 578430,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.aquestive.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07059'}

@@ -1,0 +1,155 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '777 North Broadway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 25.46,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 332950,
+ 'averageVolume': 436888,
+ 'averageVolume10days': 332950,
+ 'beta': 1.506442,
+ 'beta3Year': None,
+ 'bid': 25.44,
+ 'bidSize': 800,
+ 'bookValue': 29.124,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Los Angeles',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 25.97,
+ 'dayLow': 25.42,
+ 'dividendRate': 1.24,
+ 'dividendYield': 0.048299998,
+ 'earningsQuarterlyGrowth': -0.297,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.823,
+ 'enterpriseValue': 2239544576,
+ 'exDividendDate': 1590969600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 25.966572,
+ 'fiftyTwoWeekHigh': 38.91,
+ 'fiftyTwoWeekLow': 17.58,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.59,
+ 'floatShares': 75170425,
+ 'forwardEps': 2.7,
+ 'forwardPE': 9.414815,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1219,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.056599997,
+ 'heldPercentInstitutions': 0.73173,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1096416000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cathaygeneralbancorp.com',
+ 'longBusinessSummary': 'Cathay General Bancorp operates as the holding '
+                        'company for Cathay Bank that offers various '
+                        'commercial banking products and services to '
+                        'individuals, professionals, and small to medium-sized '
+                        'businesses in the United States. The company offers '
+                        'various deposit products, including passbook '
+                        'accounts, checking accounts, money market deposit '
+                        'accounts, certificates of deposit, individual '
+                        'retirement accounts, and public funds deposits. It '
+                        'also provides loan products, such as commercial '
+                        'mortgage loans, commercial loans, small business '
+                        'administration loans, residential mortgage loans, '
+                        'real estate construction loans, and home equity lines '
+                        'of credit, as well as installment loans to '
+                        'individuals for automobile, household, and other '
+                        'consumer expenditures. In addition, the company '
+                        'offers letter of credit, wire transfer, forward '
+                        "currency spot and forward contract, traveler's check, "
+                        'safe deposit, night deposit, social security payment '
+                        'deposit, collection, bank-by-mail, drive-up and '
+                        'walk-up window, automatic teller machine, Internet '
+                        'banking, trade financing, and other customary bank '
+                        'services, as well as securities and insurance '
+                        'products. As of December 31, 2018, it operated 26 '
+                        'branches in Southern California; 14 branches in '
+                        'Northern California; 11 branches in New York; 3 '
+                        'branches in Illinois area; 4 branches in Washington; '
+                        '2 branches in Texas; and 1 each branch in Maryland, '
+                        'Massachusetts, Nevada, New Jersey, and Hong Kong, as '
+                        'well as 1 representative office in Taipei and '
+                        'Shanghai. The company was founded in 1962 and is '
+                        'headquartered in Los Angeles, California.',
+ 'longName': 'Cathay General Bancorp',
+ 'market': 'us_market',
+ 'marketCap': 2022300928,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_316405',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 259308000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 25.79,
+ 'openInterest': None,
+ 'payoutRatio': 0.3827,
+ 'pegRatio': 1.3,
+ 'phone': '213-625-4700',
+ 'previousClose': 25.68,
+ 'priceHint': 2,
+ 'priceToBook': 0.87281966,
+ 'priceToSalesTrailing12Months': 3.4523158,
+ 'profitMargins': 0.44267,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.97,
+ 'regularMarketDayLow': 25.42,
+ 'regularMarketOpen': 25.79,
+ 'regularMarketPreviousClose': 25.68,
+ 'regularMarketPrice': 25.79,
+ 'regularMarketVolume': 203093,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 79420304,
+ 'sharesPercentSharesOut': 0.0254,
+ 'sharesShort': 2019045,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1695107,
+ 'shortName': 'Cathay General Bancorp',
+ 'shortPercentOfFloat': 0.0309,
+ 'shortRatio': 3.94,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'CATY',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.24,
+ 'trailingAnnualDividendYield': 0.048286606,
+ 'trailingEps': 3.241,
+ 'trailingPE': 7.8432584,
+ 'twoHundredDayAverage': 28.053165,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'bcc93567-0417-3b40-879e-3b13125a3c21',
+ 'volume': 203093,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cathaygeneralbancorp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '90012'}

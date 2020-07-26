@@ -1,0 +1,159 @@
+{'52WeekChange': -0.2650581,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '108 Wilmot Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 40.51,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 4750025,
+ 'averageVolume': 6953090,
+ 'averageVolume10days': 4750025,
+ 'beta': 0.554621,
+ 'beta3Year': None,
+ 'bid': 40.42,
+ 'bidSize': 1400,
+ 'bookValue': 23.83,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Deerfield',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 41.285,
+ 'dayLow': 40.3,
+ 'dividendRate': 1.87,
+ 'dividendYield': 0.0464,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 15.29,
+ 'enterpriseToRevenue': 0.553,
+ 'enterpriseValue': 76696297472,
+ 'exDividendDate': 1597708800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 41.89514,
+ 'fiftyTwoWeekHigh': 64.5,
+ 'fiftyTwoWeekLow': 36.65,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.38,
+ 'floatShares': 717533552,
+ 'forwardEps': 5.32,
+ 'forwardPE': 7.614661,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 232000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.22248,
+ 'heldPercentInstitutions': 0.60613996,
+ 'industry': 'Pharmaceutical Retailers',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1567209600,
+ 'lastMarket': None,
+ 'lastSplitDate': 919123200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/walgreensbootsalliance.com',
+ 'longBusinessSummary': 'Walgreens Boots Alliance, Inc. operates as a '
+                        'pharmacy-led health and wellbeing company. It '
+                        'operates through three segments: Retail Pharmacy USA, '
+                        'Retail Pharmacy International, and Pharmaceutical '
+                        'Wholesale. The Retail Pharmacy USA segment sells '
+                        'prescription drugs and an assortment of retail '
+                        'products, including health, wellness, beauty, '
+                        'personal care, consumable, and general merchandise '
+                        'products through its retail drugstores and convenient '
+                        'care clinics. It also provides specialty pharmacy '
+                        'services and mail services; and manages in-store '
+                        'clinics. As of August 31, 2019, this segment operated '
+                        '9,277 retail stores under the Walgreens and Duane '
+                        'Reade brands in the United States; and 6 specialty '
+                        'pharmacies. The Retail Pharmacy International segment '
+                        'sells prescription drugs; and health and wellness, '
+                        'beauty, personal care, and other consumer products '
+                        'through its pharmacy-led health and beauty stores and '
+                        'optical practices, as well as through boots.com and '
+                        'an integrated mobile application. This segment '
+                        'operated 4,605 retail stores under the Boots, '
+                        'Benavides, and Ahumada in the United Kingdom, '
+                        'Thailand, Norway, the Republic of Ireland, the '
+                        'Netherlands, Mexico, and Chile; and 606 optical '
+                        'practices, including 165 on a franchise basis. The '
+                        'Pharmaceutical Wholesale segment engages in the '
+                        'wholesale and distribution of specialty and generic '
+                        'pharmaceuticals, health and beauty products, and home '
+                        'healthcare supplies and equipment, as well as '
+                        'provides related services to pharmacies and other '
+                        'healthcare providers. This segment operates in the '
+                        'United Kingdom, Germany, France, Turkey, Spain, the '
+                        'Netherlands, Egypt, Norway, Romania, the Czech '
+                        'Republic, and Lithuania. Walgreens Boots Alliance, '
+                        'Inc. has a strategic partnership with Microsoft and '
+                        'Adobe to launch second phase of digital '
+                        'transformation at the intersection of health and '
+                        'technology. The company was founded in 1901 and is '
+                        'based in Deerfield, Illinois.',
+ 'longName': 'Walgreens Boots Alliance, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 35103293440,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_93624',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1590883200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 760000000,
+ 'nextFiscalYearEnd': 1630368000,
+ 'open': 40.37,
+ 'openInterest': None,
+ 'payoutRatio': 2.1529,
+ 'pegRatio': 4.41,
+ 'phone': '847 315 2500',
+ 'previousClose': 40.34,
+ 'priceHint': 2,
+ 'priceToBook': 1.699958,
+ 'priceToSalesTrailing12Months': 0.25300583,
+ 'profitMargins': 0.00548,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 41.285,
+ 'regularMarketDayLow': 40.3,
+ 'regularMarketOpen': 40.37,
+ 'regularMarketPreviousClose': 40.34,
+ 'regularMarketPrice': 40.37,
+ 'regularMarketVolume': 3987955,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 866534016,
+ 'sharesPercentSharesOut': 0.0211,
+ 'sharesShort': 18242347,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 15474115,
+ 'shortName': 'Walgreens Boots Alliance, Inc.',
+ 'shortPercentOfFloat': 0.0254,
+ 'shortRatio': 3.08,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'WBA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.83,
+ 'trailingAnnualDividendYield': 0.045364402,
+ 'trailingEps': 0.849,
+ 'trailingPE': 47.71496,
+ 'twoHundredDayAverage': 45.606476,
+ 'volume': 3987955,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.walgreensbootsalliance.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60015'}

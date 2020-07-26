@@ -1,0 +1,154 @@
+{'52WeekChange': 0.35627127,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '8281 Greensboro Drive',
+ 'address2': 'Suite 100',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 67.87,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 352575,
+ 'averageVolume': 650258,
+ 'averageVolume10days': 352575,
+ 'beta': 1.17591,
+ 'beta3Year': None,
+ 'bid': 67.81,
+ 'bidSize': 1400,
+ 'bookValue': 7.526,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Tysons',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 71,
+ 'dayLow': 67.25,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.023,
+ 'enterpriseToEbitda': 38.123,
+ 'enterpriseToRevenue': 6.1,
+ 'enterpriseValue': 3305939712,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 65.56771,
+ 'fiftyTwoWeekHigh': 74.66,
+ 'fiftyTwoWeekLow': 32,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 44253294,
+ 'forwardEps': 1.58,
+ 'forwardPE': 42.911392,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1227,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.093100004,
+ 'heldPercentInstitutions': 1.00812,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/alarm.com',
+ 'longBusinessSummary': 'Alarm.com Holdings, Inc. provides cloud-based '
+                        'software platform solutions for smart residential and '
+                        'commercial properties in the United States and '
+                        'internationally. The company provides interactive '
+                        'security solutions to control and monitor their '
+                        'security systems, as well as connected security '
+                        'devices, including door locks, motion sensors, '
+                        'thermostats, garage doors, and video cameras; and '
+                        'high definition video monitoring solutions, such as '
+                        'live streaming, smart clip capture, secure cloud '
+                        'storage, video alerts, continuous HD recording, and '
+                        'commercial video surveillance solutions. It also '
+                        'offers intelligent automation and energy management '
+                        'solutions, including scenes button, which adjust '
+                        'multiple devices; smart thermostat schedules; '
+                        'responsive savings; precision comfort; energy usage '
+                        'and environmental monitoring; geo-services; and '
+                        'demand response programs. In addition, the company '
+                        'provides commercial solutions, such as daily '
+                        'safeguards, commercial grade video, energy savings, '
+                        'protection for valuables and inventory, access '
+                        'control, operational insights, early problem '
+                        'identification, simple to use, professionally '
+                        'supported, and easy to maintain. Further, it offers '
+                        'service provider solutions, including a '
+                        'permission-based online portal that offers account '
+                        'management, sales, marketing, training, and support '
+                        'tools; installation and support tools; business '
+                        'management services; and sales, marketing, and '
+                        'training services, as well as wellness solutions. The '
+                        'company serves residential and business subscribers. '
+                        'Alarm.com Holdings, Inc. was founded in 2000 and is '
+                        'headquartered in Tysons, Virginia.',
+ 'longName': 'Alarm.com Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3305670400,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_302151977',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 53328000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 71,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 4.3,
+ 'phone': '877 389 4033',
+ 'previousClose': 71.61,
+ 'priceHint': 2,
+ 'priceToBook': 9.00877,
+ 'priceToSalesTrailing12Months': 6.0993943,
+ 'profitMargins': 0.098400004,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 71,
+ 'regularMarketDayLow': 67.25,
+ 'regularMarketOpen': 71,
+ 'regularMarketPreviousClose': 71.61,
+ 'regularMarketPrice': 71,
+ 'regularMarketVolume': 599942,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 48756200,
+ 'sharesPercentSharesOut': 0.1078,
+ 'sharesShort': 5253912,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5872269,
+ 'shortName': 'Alarm.com Holdings, Inc.',
+ 'shortPercentOfFloat': 0.1855,
+ 'shortRatio': 7.09,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'ALRM',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.06,
+ 'trailingPE': 63.96227,
+ 'twoHundredDayAverage': 49.84687,
+ 'volume': 599942,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.alarm.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '22102'}

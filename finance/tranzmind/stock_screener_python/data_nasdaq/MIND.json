@@ -1,0 +1,154 @@
+{'52WeekChange': -0.35175884,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2002 Timberloch Place',
+ 'address2': 'Suite 400',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.6,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 217337,
+ 'averageVolume': 241079,
+ 'averageVolume10days': 217337,
+ 'beta': 1.869467,
+ 'beta3Year': None,
+ 'bid': 2.55,
+ 'bidSize': 800,
+ 'bookValue': 1.516,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'The Woodlands',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.72,
+ 'dayLow': 2.22,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -6.421,
+ 'enterpriseToRevenue': 1.264,
+ 'enterpriseValue': 50786160,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 1.9954286,
+ 'fiftyTwoWeekHigh': 4.42,
+ 'fiftyTwoWeekLow': 0.7,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 11412560,
+ 'forwardEps': -0.15,
+ 'forwardPE': -17.199999,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 232,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.05702,
+ 'heldPercentInstitutions': 0.71685,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/mitchamindustries.com',
+ 'longBusinessSummary': 'Mitcham Industries, Inc., through its subsidiaries, '
+                        'provides technology to the oceanographic, '
+                        'hydrographic, defense, seismic and maritime security '
+                        'industries worldwide. The company operates in two '
+                        'segments, Marine Technology Products, and Equipment '
+                        'Leasing. The Marine Technology Products segment '
+                        'develops, manufactures, and sells proprietary '
+                        'products. Its products include the GunLink seismic '
+                        'source acquisition and control systems that provide '
+                        'operators of marine seismic surveys with precise '
+                        'monitoring and control of energy sources; the '
+                        'BuoyLink RGPS tracking system, which is used to offer '
+                        'precise positioning of marine seismic energy sources '
+                        'and streamers; Digishot energy source controllers; '
+                        'Sleeve Gun energy sources; SeaLink product line of '
+                        'marine sensors and solid streamer systems; and '
+                        'HarborGuard, an integrated waterside surveillance and '
+                        'security system that combines radar, video, and other '
+                        'surveillance technology to provide security for '
+                        'various waterside installations. This segment also '
+                        'provides streamer weight collars, depth and pressure '
+                        'transducers, air control valves, and source array '
+                        'systems; spare and replacement parts; repair and '
+                        'engineering services, training and field service '
+                        'operations, and umbilical termination; and equipment, '
+                        'consumables, systems integration, engineering '
+                        'hardware, and software maintenance support services. '
+                        'The Equipment Leasing segment leases seismic '
+                        'equipment for short-term primarily to seismic data '
+                        'acquisition contractors and oil field service '
+                        'providers. This segment also sells used equipment '
+                        'from its lease pool. Mitcham Industries, Inc. was '
+                        'founded in 1987 and is headquartered in The '
+                        'Woodlands, Texas.',
+ 'longName': 'Mitcham Industries, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 31430076,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_349424',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -17652000,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 2.23,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.14,
+ 'phone': '936-291-2277',
+ 'previousClose': 2.22,
+ 'priceHint': 4,
+ 'priceToBook': 1.7018468,
+ 'priceToSalesTrailing12Months': 0.78197885,
+ 'profitMargins': -0.38599,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.72,
+ 'regularMarketDayLow': 2.22,
+ 'regularMarketOpen': 2.23,
+ 'regularMarketPreviousClose': 2.22,
+ 'regularMarketPrice': 2.23,
+ 'regularMarketVolume': 453400,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 12182200,
+ 'sharesPercentSharesOut': 0.0088,
+ 'sharesShort': 107589,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 132891,
+ 'shortName': 'Mitcham Industries, Inc.',
+ 'shortPercentOfFloat': 0.0124,
+ 'shortRatio': 0.58,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'MIND',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.452,
+ 'twoHundredDayAverage': 1.8532374,
+ 'volume': 453400,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.mitchamindustries.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '77380'}

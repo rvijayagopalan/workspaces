@@ -1,0 +1,162 @@
+{'52WeekChange': -0.44022393,
+ 'SandP52WeekChange': None,
+ 'address1': '500 Laurel Street',
+ 'address2': 'Suite 101',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.1,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 28375,
+ 'averageVolume': 64222,
+ 'averageVolume10days': 28375,
+ 'beta': 0.977425,
+ 'beta3Year': None,
+ 'bid': 13.92,
+ 'bidSize': 800,
+ 'bookValue': 21.582,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Baton Rouge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.265,
+ 'dayLow': 13.87,
+ 'dividendRate': 0.4,
+ 'dividendYield': 0.0286,
+ 'earningsQuarterlyGrowth': -0.205,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.186,
+ 'enterpriseValue': 373138016,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '225-248-7650',
+ 'fiftyDayAverage': 14.769143,
+ 'fiftyTwoWeekHigh': 26.64,
+ 'fiftyTwoWeekLow': 9.17,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 19318819,
+ 'forwardEps': 1.63,
+ 'forwardPE': 8.515338,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 367,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.1001,
+ 'heldPercentInstitutions': 0.45378,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/b1bank.com',
+ 'longBusinessSummary': 'Business First Bancshares, Inc. operates as the bank '
+                        'holding company for Business First Bank that provides '
+                        'various banking products and services. It offers '
+                        'various deposit products and services, including a '
+                        'range of checking, demand, money market, time, and '
+                        'savings accounts, as well as certificates of deposit; '
+                        'and remote deposit capture and direct deposit '
+                        'services. The company also provides commercial and '
+                        'industrial loans, including commercial lines of '
+                        'credit, working capital loans, term loans, equipment '
+                        'financing, asset acquisition, expansion and '
+                        'development loans, borrowing base loans, letters of '
+                        'credit, and other loan products; construction and '
+                        'development loans; commercial real estate loans; '
+                        'residential real estate loans comprising first and '
+                        'second lien one-to-four family mortgage loans, and '
+                        'home equity lines of credit; consumer loans, '
+                        'including secured and unsecured installment and term '
+                        'loans; and credit cards. In addition, it offers '
+                        'wealth management products, including mutual funds, '
+                        'annuities, individual retirement accounts, and other '
+                        'financial products. Further, the company provides a '
+                        'range of other financial services comprising '
+                        'drive-through banking facilities, automated teller '
+                        'machines, and employee and payroll benefits '
+                        'solutions; and night depository, personalized checks, '
+                        'treasury and cash management, merchant, automated '
+                        'clearing house, electronic funds transfer, domestic '
+                        "and foreign wire transfer, traveler's checks, vault, "
+                        'loan and deposit sweep accounts, lock-box, '
+                        'international trade finance, international trade, '
+                        'foreign exchange, online and mobile banking, '
+                        'e-statements, and bank-by-mail services. The company '
+                        'operates through 25 banking centers located in the '
+                        'State of Louisiana and in Dallas, Texas. Business '
+                        'First Bancshares, Inc. was founded in 2006 and is '
+                        'headquartered in Baton Rouge, Louisiana.',
+ 'longName': 'Business First Bancshares, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 286860736,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_45842867',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 22612000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.87,
+ 'openInterest': None,
+ 'payoutRatio': 0.2395,
+ 'pegRatio': None,
+ 'phone': '225-248-7600',
+ 'previousClose': 14,
+ 'priceHint': 2,
+ 'priceToBook': 0.6431285,
+ 'priceToSalesTrailing12Months': 3.2177312,
+ 'profitMargins': 0.25364,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.265,
+ 'regularMarketDayLow': 13.87,
+ 'regularMarketOpen': 13.87,
+ 'regularMarketPreviousClose': 14,
+ 'regularMarketPrice': 13.87,
+ 'regularMarketVolume': 10462,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 20667200,
+ 'sharesPercentSharesOut': 0.0081,
+ 'sharesShort': 166394,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 67305,
+ 'shortName': 'Business First Bancshares, Inc.',
+ 'shortPercentOfFloat': 0.0086,
+ 'shortRatio': 1.93,
+ 'startDate': None,
+ 'state': 'LA',
+ 'strikePrice': None,
+ 'symbol': 'BFST',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.4,
+ 'trailingAnnualDividendYield': 0.028571429,
+ 'trailingEps': 1.672,
+ 'trailingPE': 8.301435,
+ 'twoHundredDayAverage': 16.988058,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f77a7894-c701-3a3a-bb8a-1780bfb4468b',
+ 'volume': 10462,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.b1bank.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '70801'}

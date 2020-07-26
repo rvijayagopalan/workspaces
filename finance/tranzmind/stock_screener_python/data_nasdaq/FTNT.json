@@ -1,0 +1,164 @@
+{'52WeekChange': 0.58341146,
+ 'SandP52WeekChange': None,
+ 'address1': '899 Kifer Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 133.99,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 1570250,
+ 'averageVolume': 1731838,
+ 'averageVolume10days': 1570250,
+ 'beta': 1.003361,
+ 'beta3Year': None,
+ 'bid': 132.73,
+ 'bidSize': 900,
+ 'bookValue': 3.298,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Sunnyvale',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 134.32,
+ 'dayLow': 130.35,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.769,
+ 'enterpriseToEbitda': 46.189,
+ 'enterpriseToRevenue': 8.913,
+ 'enterpriseValue': 20147521536,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '408-235-7737',
+ 'fiftyDayAverage': 136.25371,
+ 'fiftyTwoWeekHigh': 151.95,
+ 'fiftyTwoWeekLow': 70.2,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 137090894,
+ 'forwardEps': 3.29,
+ 'forwardPE': 40.437687,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7448,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.16657,
+ 'heldPercentInstitutions': 0.79116994,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1306972800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/fortinet.com',
+ 'longBusinessSummary': 'Fortinet, Inc. provides broad, integrated, and '
+                        'automated cybersecurity solutions worldwide. It '
+                        'offers FortiGate hardware and software licenses that '
+                        'provide various security and networking functions, '
+                        'including firewall, intrusion prevention, '
+                        'anti-malware, virtual private network, application '
+                        'control, Web filtering, anti-spam, and wide area '
+                        'network (WAN) acceleration. The company also provides '
+                        'FortiSwitch product family that offers secure '
+                        'switching solutions for connecting customers end '
+                        'devices; FortiAP product family, which provides '
+                        'secure wireless networking solutions; FortiExtender '
+                        'appliance provides a WAN connection to its FortiGate '
+                        'products; FortiAnalyzer product family, which offers '
+                        'centralized network logging, analyzing, and reporting '
+                        'solutions; and FortiManager product family that '
+                        'provides central and scalable management solution for '
+                        'its FortiGate products. It offers FortiWeb product '
+                        'family provides web application firewall solutions; '
+                        'FortiMail product family that secure email gateway '
+                        'solutions; FortiSandbox technology that delivers '
+                        'proactive detection and mitigation services; and '
+                        'FortiSIEM family of software solutions, which offers '
+                        'a cloud-ready security information and event '
+                        'management solutions, as well as FortiToken and '
+                        'FortiAuthenticator product families for multi-factor '
+                        'authentication to safeguard systems, assets, and '
+                        'data; and FortiNAC product family to implement zero '
+                        'trust network access strategies. The company provides '
+                        'security subscription, technical support, '
+                        'professional, and training services. It sells its '
+                        'security solutions to channel partners and directly '
+                        'to various customers in telecommunications, '
+                        'technology, government, financial services, '
+                        'education, retail, manufacturing, and healthcare '
+                        'industries. Fortinet, Inc. provides its products and '
+                        'services in the Americas, Europe, the Middle East, '
+                        'Africa, and the Asia Pacific. The company was founded '
+                        'in 2000 and is headquartered in Sunnyvale, '
+                        'California.',
+ 'longName': 'Fortinet, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 21505781760,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2689126',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 371700000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 133.08,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.43,
+ 'phone': '408-235-7700',
+ 'previousClose': 135.16,
+ 'priceHint': 2,
+ 'priceToBook': 40.339596,
+ 'priceToSalesTrailing12Months': 9.513728,
+ 'profitMargins': 0.16443,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 134.32,
+ 'regularMarketDayLow': 130.35,
+ 'regularMarketOpen': 133.08,
+ 'regularMarketPreviousClose': 135.16,
+ 'regularMarketPrice': 133.08,
+ 'regularMarketVolume': 915017,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 161648992,
+ 'sharesPercentSharesOut': 0.0305,
+ 'sharesShort': 4938063,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5289558,
+ 'shortName': 'Fortinet, Inc.',
+ 'shortPercentOfFloat': 0.0429,
+ 'shortRatio': 3.18,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'FTNT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.129,
+ 'trailingPE': 62.48943,
+ 'twoHundredDayAverage': 118.98014,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '8fc5534b-9ba8-33ef-872b-7b68698408fd',
+ 'volume': 915017,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.fortinet.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94086'}

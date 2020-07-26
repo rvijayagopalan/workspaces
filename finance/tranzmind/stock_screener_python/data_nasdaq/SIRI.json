@@ -1,0 +1,154 @@
+{'52WeekChange': -0.040584445,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1221 Avenue of the Americas',
+ 'address2': '35th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 5.89,
+ 'askSize': 43500,
+ 'averageDailyVolume10Day': 23165937,
+ 'averageVolume': 31336071,
+ 'averageVolume10days': 23165937,
+ 'beta': 1.193277,
+ 'beta3Year': None,
+ 'bid': 5.88,
+ 'bidSize': 36200,
+ 'bookValue': -0.171,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 5.95,
+ 'dayLow': 5.85,
+ 'dividendRate': 0.05,
+ 'dividendYield': 0.009,
+ 'earningsQuarterlyGrowth': 0.809,
+ 'enterpriseToEbitda': 14.962,
+ 'enterpriseToRevenue': 4.269,
+ 'enterpriseValue': 34158702592,
+ 'exDividendDate': 1596672000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 5.9154286,
+ 'fiftyTwoWeekHigh': 7.4,
+ 'fiftyTwoWeekLow': 4.11,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 1204038997,
+ 'forwardEps': 0.25,
+ 'forwardPE': 23.62,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4534,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.73324996,
+ 'heldPercentInstitutions': 0.17985001,
+ 'industry': 'Broadcasting',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1318204800,
+ 'lastSplitFactor': '1:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/siriusxm.com',
+ 'longBusinessSummary': 'Sirius XM Holdings Inc. provides satellite radio '
+                        'services on a subscription fee basis in the United '
+                        'States. It broadcasts music, sports, entertainment, '
+                        'comedy, talk, news, traffic, and weather channels, '
+                        'including various music genres, such as rock, pop and '
+                        'hip-hop, country, dance, jazz, Latin, and classical; '
+                        'live play-by-play sports from various leagues and '
+                        'colleges; various talk and entertainment channels for '
+                        'a range of audiences; national, international, and '
+                        'financial news; and limited run channels. The company '
+                        'also provides streaming service that includes a range '
+                        'of music and non-music channels, and podcasts, as '
+                        'well as channels that are not available on its '
+                        'satellite radio service; and offers applications to '
+                        'allow consumers to access its streaming service on '
+                        'smartphones, tablets, computers, home devices, and '
+                        'other consumer electronic equipment. In addition, it '
+                        'distributes satellite radios through automakers and '
+                        'retailers, as well as its Website. Further, the '
+                        'company provides location-based services through '
+                        'two-way wireless connectivity, including safety, '
+                        'security, convenience, maintenance and data services, '
+                        'remote vehicles diagnostics, and stolen or parked '
+                        'vehicle locator services. Additionally, it offers '
+                        'satellite television services, which offer music '
+                        'channels on the DISH Network satellite television '
+                        'service as a programming package; Travel Link, a '
+                        'suite of data services that include graphical '
+                        'weather, fuel prices, sports schedule and scores, and '
+                        'movie listings; and real-time traffic and weather '
+                        'services. The company is headquartered in New York, '
+                        'New York. Sirius XM Holdings Inc. operates as a '
+                        'subsidiary of Liberty Media Corporation.',
+ 'longName': 'Sirius XM Holdings Inc.',
+ 'market': 'us_market',
+ 'marketCap': 25858705408,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_94238',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1045000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 5.9,
+ 'openInterest': None,
+ 'payoutRatio': 0.221,
+ 'pegRatio': 1.88,
+ 'phone': '212-584-5100',
+ 'previousClose': 5.89,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 3.2315304,
+ 'profitMargins': 0.13059,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 5.95,
+ 'regularMarketDayLow': 5.85,
+ 'regularMarketOpen': 5.9,
+ 'regularMarketPreviousClose': 5.89,
+ 'regularMarketPrice': 5.9,
+ 'regularMarketVolume': 19196558,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 4379120128,
+ 'sharesPercentSharesOut': 0.0388,
+ 'sharesShort': 169729710,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 186340187,
+ 'shortName': 'Sirius XM Holdings Inc.',
+ 'shortPercentOfFloat': 0.1443,
+ 'shortRatio': 5.23,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'SIRI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.051,
+ 'trailingAnnualDividendYield': 0.008658743,
+ 'trailingEps': 0.23,
+ 'trailingPE': 25.673914,
+ 'twoHundredDayAverage': 6.0163307,
+ 'volume': 19196558,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.siriusxm.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10020'}

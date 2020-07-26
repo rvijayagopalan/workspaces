@@ -1,0 +1,157 @@
+{'52WeekChange': 0.26373625,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Building B',
+ 'address2': 'EPFL Innovation Park',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 6.94,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 6245925,
+ 'averageVolume': 865074,
+ 'averageVolume10days': 6245925,
+ 'beta': 0.503383,
+ 'beta3Year': None,
+ 'bid': 6.91,
+ 'bidSize': 1000,
+ 'bookValue': 2.986,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lausanne',
+ 'companyOfficers': [],
+ 'country': 'Switzerland',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 7.07,
+ 'dayLow': 6.55,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 495830080,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '41 21 345 91 20',
+ 'fiftyDayAverage': 7.044857,
+ 'fiftyTwoWeekHigh': 13,
+ 'fiftyTwoWeekLow': 4.07,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 26861774,
+ 'forwardEps': -0.78,
+ 'forwardPE': -8.846154,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 115,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.47897997,
+ 'heldPercentInstitutions': 0.26783,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/acimmune.com',
+ 'longBusinessSummary': 'AC Immune SA, a clinical stage biopharmaceutical '
+                        'company, discovers, designs, and develops therapeutic '
+                        'and diagnostic products for the prevention, '
+                        'diagnosis, and treatment of neurodegenerative '
+                        'diseases associated with protein misfolding. Its '
+                        'SupraAntigen and Morphomer platforms are designed to '
+                        'generate vaccines, antibodies, and small molecules, '
+                        'which selectively interact with misfolded proteins '
+                        'that are common in a range of neurodegenerative '
+                        "diseases. The company's lead product candidate is "
+                        'crenezumab, a humanized, monoclonal, and '
+                        'conformation-specific anti-Abeta antibody, which is '
+                        'in Phase II clinical prevention trial for the '
+                        "treatment of Alzheimer's disease (AD). It is also "
+                        'developing ACI-24, an anti-Abeta vaccine candidate '
+                        'that is in Phase II clinical study for AD, as well as '
+                        'is in Phase Ib clinical study for Down syndrome; '
+                        'ACI-35, an anti-Tau vaccine candidate that has '
+                        'completed Phase Ib clinical study; RG6100, an '
+                        'anti-Tau antibody candidate, which is in Phase II '
+                        'clinical study for AD patients; and Tau-PET imaging '
+                        'tracer that has completed Phase I clinical study. In '
+                        'addition, the company is researching and developing '
+                        'Tau Morphomer aggregation inhibitor small molecules '
+                        'for AD. Further, it has discovery and pre-clinical '
+                        'stage molecules targeting neurodegenerative diseases, '
+                        'as well as diagnostics targeting Tau, '
+                        'alpha-synuclein, and TDP-43 aggregates. The company '
+                        'has license agreements and collaborations with '
+                        'Genentech, Inc.; Biogen International GmbH; Janssen '
+                        'Pharmaceuticals, Inc.; Life Molecular Imaging SA; Eli '
+                        'Lilly and Company; Essex Bio-Technology Limited; and '
+                        'WuXi Biologics. It also has a research collaboration '
+                        'with University of Pennsylvania to focus on '
+                        'pathogenic protein TDP-43 in neurodegenerative '
+                        'diseases. AC Immune SA was founded in 2003 and is '
+                        'headquartered in Lausanne, Switzerland.',
+ 'longName': 'AC Immune SA',
+ 'market': 'us_market',
+ 'marketCap': 495829856,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_22309440',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 6.67,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '41 21 345 91 21',
+ 'previousClose': 6.66,
+ 'priceHint': 2,
+ 'priceToBook': 2.3107836,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': -0.53355,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 7.07,
+ 'regularMarketDayLow': 6.55,
+ 'regularMarketOpen': 6.67,
+ 'regularMarketPreviousClose': 6.66,
+ 'regularMarketPrice': 6.67,
+ 'regularMarketVolume': 420838,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 71859400,
+ 'sharesPercentSharesOut': 0.0087,
+ 'sharesShort': 627105,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 666860,
+ 'shortName': 'AC Immune SA',
+ 'shortPercentOfFloat': 0.0232,
+ 'shortRatio': 7.58,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'ACIU',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.547,
+ 'twoHundredDayAverage': 7.4744606,
+ 'volume': 420838,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.acimmune.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '1015'}

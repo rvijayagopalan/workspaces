@@ -1,0 +1,151 @@
+{'52WeekChange': 0.24410939,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '600 West Chicago Avenue',
+ 'address2': 'Suite 725',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27.12,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 233525,
+ 'averageVolume': 238004,
+ 'averageVolume10days': 233525,
+ 'beta': 1.384873,
+ 'beta3Year': None,
+ 'bid': 20.12,
+ 'bidSize': 1100,
+ 'bookValue': 15.875,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chicago',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 27.135,
+ 'dayLow': 26.03,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.812,
+ 'enterpriseToEbitda': 18.477,
+ 'enterpriseToRevenue': 0.341,
+ 'enterpriseValue': 736044032,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '312 784 7498',
+ 'fiftyDayAverage': 22.315144,
+ 'fiftyTwoWeekHigh': 27.14,
+ 'fiftyTwoWeekLow': 14.17,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 21867532,
+ 'forwardEps': 1.3,
+ 'forwardPE': 20.307693,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2450,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02596,
+ 'heldPercentInstitutions': 1.0145099,
+ 'industry': 'Integrated Freight & Logistics',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/echo.com',
+ 'longBusinessSummary': 'Echo Global Logistics, Inc. provides '
+                        'technology-enabled transportation and supply chain '
+                        'management solutions in the United States. It '
+                        'utilizes a proprietary technology platform to compile '
+                        'and analyze data from its multi-modal network of '
+                        'transportation providers for the transportation and '
+                        'logistics needs. The company offers services in '
+                        'various transportation modes, such as truckload, '
+                        'less-than truckload, small parcel, domestic air, and '
+                        'expedited and international. It also provides various '
+                        'transportation management and logistics services, '
+                        'which include rate negotiation; procurement of '
+                        'transportation; shipment execution and tracking; '
+                        'carrier management, selection, reporting, and '
+                        'compliance; executive dashboard presentations and '
+                        'detailed shipment reports; freight bill payment and '
+                        'audit; claims processing and service refund '
+                        'management; design and management of inbound client '
+                        'freight programs; individually configured Web portals '
+                        'and self-service data warehouses; enterprise resource '
+                        'planning integration with transactional shipment '
+                        'data; and integration of shipping applications into '
+                        'client e-commerce sites, as well as back-end reports '
+                        'customized to the internal reporting needs of the '
+                        'business. The company serves manufacturing, '
+                        'construction, food and beverage, consumer products, '
+                        'and retail industries. Echo Global Logistics, Inc. '
+                        'was founded in 2005 and is headquartered in Chicago, '
+                        'Illinois.',
+ 'longName': 'Echo Global Logistics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 702628096,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_28610038',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 4301000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 26.49,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -87.39,
+ 'phone': '800 354 7993',
+ 'previousClose': 26.11,
+ 'priceHint': 2,
+ 'priceToBook': 1.6629921,
+ 'priceToSalesTrailing12Months': 0.3254585,
+ 'profitMargins': 0.00199,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 27.135,
+ 'regularMarketDayLow': 26.03,
+ 'regularMarketOpen': 26.49,
+ 'regularMarketPreviousClose': 26.11,
+ 'regularMarketPrice': 26.49,
+ 'regularMarketVolume': 359494,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 26614700,
+ 'sharesPercentSharesOut': 0.044499997,
+ 'sharesShort': 1183708,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1138485,
+ 'shortName': 'Echo Global Logistics, Inc.',
+ 'shortPercentOfFloat': 0.0552,
+ 'shortRatio': 4.56,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'ECHO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.163,
+ 'trailingPE': 161.96318,
+ 'twoHundredDayAverage': 19.606188,
+ 'volume': 359494,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.echo.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60654'}

@@ -1,0 +1,156 @@
+{'52WeekChange': -0.23274541,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '217 North Monroe Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 20.01,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 37937,
+ 'averageVolume': 46804,
+ 'averageVolume10days': 37937,
+ 'beta': 0.921568,
+ 'beta3Year': None,
+ 'bid': 19.97,
+ 'bidSize': 800,
+ 'bookValue': 19.947,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Tallahassee',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 20.15,
+ 'dayLow': 19.8,
+ 'dividendRate': 0.56,
+ 'dividendYield': 0.0278,
+ 'earningsQuarterlyGrowth': 0.249,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': -0.766,
+ 'enterpriseValue': -129892032,
+ 'exDividendDate': 1591315200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 19.838858,
+ 'fiftyTwoWeekHigh': 30.95,
+ 'fiftyTwoWeekLow': 15.61,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.22,
+ 'floatShares': 11385511,
+ 'forwardEps': 1.5,
+ 'forwardPE': 13.34,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 796,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.24114001,
+ 'heldPercentInstitutions': 0.44287997,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1120521600,
+ 'lastSplitFactor': '5:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ccbg.com',
+ 'longBusinessSummary': 'Capital City Bank Group, Inc. operates as the '
+                        'financial holding company for Capital City Bank that '
+                        'provides a range of banking and banking-related '
+                        'services to individual and corporate clients. The '
+                        'company offers financing for commercial business '
+                        'properties, equipment, inventories, and accounts '
+                        'receivable, as well as commercial leasing and letters '
+                        'of credit; treasury management services; and merchant '
+                        'credit card transaction processing services. It also '
+                        'provides commercial and residential real estate '
+                        'lending products, as well as fixed-rate and '
+                        'adjustable rate residential mortgage loans; personal, '
+                        'automobile, boat/RV, and home equity loans; and '
+                        'credit card programs. In addition, the company offers '
+                        'institutional banking services, including customized '
+                        'checking and savings accounts, cash management '
+                        'systems, tax-exempt loans, lines of credit, and term '
+                        'loans to meet the needs of state and local '
+                        'governments, public schools and colleges, charities, '
+                        'membership, and not-for-profit associations. Further, '
+                        'it provides consumer banking services comprising '
+                        'checking accounts, savings programs, automated teller '
+                        'machines, debit/credit cards, night deposit services, '
+                        'safe deposit facilities, and online and mobile '
+                        'banking services. Additionally, the company provides '
+                        'asset management for individuals through agency, '
+                        'personal trust, IRA, and personal investment '
+                        'management accounts; and various retail securities '
+                        'products, such as the U.S. government bonds, tax-free '
+                        'municipal bonds, stocks, mutual funds, unit '
+                        'investment trusts, annuities, life insurance, and '
+                        'long-term health care. As of March 30, 2020, it had '
+                        '57 banking offices and 81 ATMs in Florida, Georgia, '
+                        'and Alabama. Capital City Bank Group, Inc. was '
+                        'founded in 1895 and is headquartered in Tallahassee, '
+                        'Florida.',
+ 'longName': 'Capital City Bank Group, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 335767808,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_361783',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 30479000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 19.86,
+ 'openInterest': None,
+ 'payoutRatio': 0.3,
+ 'pegRatio': 2.15,
+ 'phone': '850-402-7821',
+ 'previousClose': 20.11,
+ 'priceHint': 2,
+ 'priceToBook': 1.0031583,
+ 'priceToSalesTrailing12Months': 1.9811532,
+ 'profitMargins': 0.17984,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 20.15,
+ 'regularMarketDayLow': 19.8,
+ 'regularMarketOpen': 19.86,
+ 'regularMarketPreviousClose': 20.11,
+ 'regularMarketPrice': 19.86,
+ 'regularMarketVolume': 22907,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 16811800,
+ 'sharesPercentSharesOut': 0.039,
+ 'sharesShort': 654933,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 617605,
+ 'shortName': 'Capital City Bank Group',
+ 'shortPercentOfFloat': 0.0493,
+ 'shortRatio': 16,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'CCBG',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.54,
+ 'trailingAnnualDividendYield': 0.026852313,
+ 'trailingEps': 1.81,
+ 'trailingPE': 11.055249,
+ 'twoHundredDayAverage': 22.265469,
+ 'volume': 22907,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ccbg.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '32301'}

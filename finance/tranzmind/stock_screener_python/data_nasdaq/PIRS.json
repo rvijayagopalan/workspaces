@@ -1,0 +1,153 @@
+{'52WeekChange': -0.45215756,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '255 State Street',
+ 'address2': '9th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.99,
+ 'askSize': 3000,
+ 'averageDailyVolume10Day': 646762,
+ 'averageVolume': 408149,
+ 'averageVolume10days': 646762,
+ 'beta': 1.47619,
+ 'beta3Year': None,
+ 'bid': 2.92,
+ 'bidSize': 3000,
+ 'bookValue': 0.902,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Boston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.02,
+ 'dayLow': 2.92,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -4.189,
+ 'enterpriseToRevenue': 1.604,
+ 'enterpriseValue': 81787256,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.1551428,
+ 'fiftyTwoWeekHigh': 6.04,
+ 'fiftyTwoWeekLow': 1.6,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 42721368,
+ 'forwardEps': -0.83,
+ 'forwardPE': -3.5180724,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 114,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0022200001,
+ 'heldPercentInstitutions': 0.71823996,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1417996800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pieris.com',
+ 'longBusinessSummary': 'Pieris Pharmaceuticals, Inc., a clinical-stage '
+                        'biopharmaceutical company, discovers and develops '
+                        'anticalin-based drugs in the United States. The '
+                        'company develops anticalin proteins that are low '
+                        'molecular-weight therapeutic proteins derived from '
+                        'lipocalins, which are naturally occurring '
+                        'low-molecular weight human proteins found in blood '
+                        'plasma and other bodily fluids. Its lead respiratory '
+                        'program includes PRS-060, a drug candidate, which is '
+                        'in Phase I clinical trial that binds to IL-4Ra for '
+                        'the treatment of asthma and other inflammatory '
+                        'diseases; and lead immuno-oncology program comprises '
+                        'PRS-343, a bispecific protein that is in Phase I '
+                        'clinical trial for oncology diseases. The company '
+                        'also develops PRS-344, a bispecific '
+                        'anticalin-antibody fusion protein that is in '
+                        'preclinical stage for oncology diseases; and PRS-080, '
+                        'a polyethylene glycol conjugated anticalin protein '
+                        'that is in Phase IIa clinical trial to target '
+                        'hepcidin for the treatment of functional iron '
+                        'deficiency in anemic patients with chronic kidney '
+                        'disease or in end-stage renal disease patients '
+                        'requiring dialysis, as well as other drugs. It has '
+                        'strategic partnerships with Les Laboratoires Servier '
+                        'and Institut de Recherches Internationales Servier, '
+                        'AstraZeneca AB, and Seattle Genetics Inc.; and '
+                        'license agreements with TUM, Enumeral Biomedical '
+                        'Holdings, Inc., and Sichuan Kelun-Biotech '
+                        'Biopharmaceutical Co. Ltd. The company also has a '
+                        'research collaboration with the laboratories of '
+                        'University of Pittsburgh. Pieris Pharmaceuticals, '
+                        'Inc. was incorporated in 2000 and is headquartered in '
+                        'Boston, Massachusetts.',
+ 'longName': 'Pieris Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 152776160,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_1570613',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -21548000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 2.97,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '857-246-8998',
+ 'previousClose': 2.95,
+ 'priceHint': 4,
+ 'priceToBook': 3.2372506,
+ 'priceToSalesTrailing12Months': 2.9959047,
+ 'profitMargins': -0.36706,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.02,
+ 'regularMarketDayLow': 2.92,
+ 'regularMarketOpen': 2.97,
+ 'regularMarketPreviousClose': 2.95,
+ 'regularMarketPrice': 2.97,
+ 'regularMarketVolume': 232076,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 52320600,
+ 'sharesPercentSharesOut': 0.0433,
+ 'sharesShort': 2263559,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2035866,
+ 'shortName': 'Pieris Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.0479,
+ 'shortRatio': 5.94,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'PIRS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.417,
+ 'twoHundredDayAverage': 3.0352159,
+ 'volume': 232076,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pieris.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02109'}

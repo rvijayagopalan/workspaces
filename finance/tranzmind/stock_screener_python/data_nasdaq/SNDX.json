@@ -1,0 +1,154 @@
+{'52WeekChange': 0.48283505,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '35 Gatehouse Drive',
+ 'address2': 'Building D Floor 3',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.47,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 240500,
+ 'averageVolume': 954600,
+ 'averageVolume10days': 240500,
+ 'beta': 1.83032,
+ 'beta3Year': None,
+ 'bid': 13.11,
+ 'bidSize': 900,
+ 'bookValue': 1.769,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Waltham',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.49,
+ 'dayLow': 13.05,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -6.973,
+ 'enterpriseToRevenue': 265.353,
+ 'enterpriseValue': 402541088,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '781 419 1420',
+ 'fiftyDayAverage': 15.116143,
+ 'fiftyTwoWeekHigh': 21.97,
+ 'fiftyTwoWeekLow': 5.35,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 24218615,
+ 'forwardEps': -1.82,
+ 'forwardPE': -7.357143,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 35,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.08083,
+ 'heldPercentInstitutions': 0.56569,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/syndax.com',
+ 'longBusinessSummary': 'Syndax Pharmaceuticals, Inc., a clinical-stage '
+                        'biopharmaceutical company, develops therapies for the '
+                        "treatment of cancer. The company's lead product "
+                        'candidates are entinostat that is in Phase III '
+                        'clinical trials for the treatment of advanced hormone '
+                        'receptor positive (HR+), human epidermal growth '
+                        'factor receptor 2 negative (HER2-) breast cancer; and '
+                        'SNDX-5613 in Phase I/II clinical trial inhibitor that '
+                        'targets the binding interaction of Menin with mixed '
+                        'lineage leukemia-rearranged and acute myeloid '
+                        'leukemia with a mutated nucleophosmin 1. It also '
+                        'develops entinostat with Keytruda (pembrolizumab) in '
+                        'a Phase Ib/II clinical trials for the treatment of '
+                        'non-small cell lung cancer and melanoma or '
+                        'microsatellite stable colorectal carcinoma; and with '
+                        'Tecentriq (atezolizumab) in Phase Ib/II clinical '
+                        'trials to treat patients with HR+ and HER2- '
+                        'metastatic breast cancer. In addition, the company '
+                        'develops SNDX-6352, a monoclonal antibody that blocks '
+                        'the colony stimulating factor 1 that is in Phase I/II '
+                        'clinical trial in patients with chronic graft versus '
+                        'host disease; and as a monotherapy and in combination '
+                        'with Imfinzi (durvalumab), which is completed Phase '
+                        'Ib dose trials for the treatment of solid tumors. '
+                        'Syndax Pharmaceuticals, Inc. has clinical '
+                        'collaborations with MSD International GmbH; '
+                        'Genentech, Inc.; and Merck KGaA and Pfizer. It also '
+                        'has collaborative research and development agreement '
+                        'with National Cancer Institute; clinical trial '
+                        'agreement with Eastern Cooperative Oncology Group; '
+                        'and license agreement with Kyowa Hakko Kirin Co., '
+                        'Ltd. The company was founded in 2005 and is '
+                        'headquartered in Waltham, Massachusetts.',
+ 'longName': 'Syndax Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 483310720,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_27240138',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -60887000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.41,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '781 419 1400',
+ 'previousClose': 13.55,
+ 'priceHint': 2,
+ 'priceToBook': 7.569248,
+ 'priceToSalesTrailing12Months': 318.59637,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.49,
+ 'regularMarketDayLow': 13.05,
+ 'regularMarketOpen': 13.41,
+ 'regularMarketPreviousClose': 13.55,
+ 'regularMarketPrice': 13.41,
+ 'regularMarketVolume': 186249,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 36094900,
+ 'sharesPercentSharesOut': 0.1058,
+ 'sharesShort': 3818173,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2892408,
+ 'shortName': 'Syndax Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.1177,
+ 'shortRatio': 7.39,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'SNDX',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.884,
+ 'twoHundredDayAverage': 12.667842,
+ 'volume': 186249,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.syndax.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02451'}

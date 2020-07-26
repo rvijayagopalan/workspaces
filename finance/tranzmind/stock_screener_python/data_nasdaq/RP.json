@@ -1,0 +1,164 @@
+{'52WeekChange': 0.0016975403,
+ 'SandP52WeekChange': None,
+ 'address1': '2201 Lakeside Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 63.91,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 837775,
+ 'averageVolume': 885265,
+ 'averageVolume10days': 837775,
+ 'beta': 1.054341,
+ 'beta3Year': None,
+ 'bid': 63.89,
+ 'bidSize': 1100,
+ 'bookValue': 12.659,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Richardson',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 64.83,
+ 'dayLow': 63.02,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.503,
+ 'enterpriseToEbitda': 40.588,
+ 'enterpriseToRevenue': 6.842,
+ 'enterpriseValue': 7050910208,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '972-820-3036',
+ 'fiftyDayAverage': 66.066574,
+ 'fiftyTwoWeekHigh': 69.79,
+ 'fiftyTwoWeekLow': 36.91,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 81476512,
+ 'forwardEps': 2.09,
+ 'forwardPE': 30.574165,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7300,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.14437,
+ 'heldPercentInstitutions': 0.89719003,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/realpage.com',
+ 'longBusinessSummary': 'RealPage, Inc. provides software and data analytics '
+                        'for the real estate industry in the United States. It '
+                        'offers OneSite that generates lease documents, '
+                        'manages service requests, measures acuity of senior '
+                        'residents, enables senior community management, and '
+                        'manages procurement activities; and Propertyware, '
+                        'which offers accounting, maintenance and work order '
+                        'management, marketing, spend management, and portal '
+                        'services, as well as screening and payment solutions. '
+                        'The company also provides Buildium that offers '
+                        'customer support and rapid self-provisioning '
+                        'services; RealPage Financial Services for back office '
+                        'accounting; Kigo, a vacation rental property '
+                        'management system; Spend Management solutions, that '
+                        'enables property owners and managers to control '
+                        'costs; SmartSource IT offers outsourced IT management '
+                        'and support services; and EasyLMS, a learning '
+                        'management system. In addition, it offers Online '
+                        'Leasing, Contact Center, Websites and Syndication, '
+                        'Intelligent Lease Management, LeaseLabs, AI Resident '
+                        'Screening, and MyNewPlace solutions that manage '
+                        'leasing and marketing processes, including Websites '
+                        'and syndication, paid lead generation, organic lead '
+                        'generation, lead management, automated lead closure, '
+                        'lead analytics, real-time unit availability, '
+                        'automated online apartment leasing, applicant '
+                        'screening, and creative content design. Further, the '
+                        'company provides resident services solutions, such as '
+                        'Resident Utility Management, SimpleBills, Resident '
+                        'Payments, ActiveBuilding, Contact Center Maintenance, '
+                        "and Renter's Insurance for utility billing, renter "
+                        'payment processing, service requests, lease renewals, '
+                        "renter's insurance, and consulting and advisory "
+                        'services; asset optimization solutions covering '
+                        'YieldStar Revenue Management, Business Intelligence, '
+                        'And Asset And Investment Management Platforms; and '
+                        'professional services, such as consulting and '
+                        'implementation, as well as training programs. '
+                        'RealPage, Inc. was founded in 1998 and is '
+                        'headquartered in Richardson, Texas.',
+ 'longName': 'RealPage, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 6521250816,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_120406',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 52541000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 64.32,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.53,
+ 'phone': '972-820-3000',
+ 'previousClose': 64.91,
+ 'priceHint': 2,
+ 'priceToBook': 5.047792,
+ 'priceToSalesTrailing12Months': 6.3282213,
+ 'profitMargins': 0.05098,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 64.83,
+ 'regularMarketDayLow': 63.02,
+ 'regularMarketOpen': 64.32,
+ 'regularMarketPreviousClose': 64.91,
+ 'regularMarketPrice': 64.32,
+ 'regularMarketVolume': 1162028,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 102054000,
+ 'sharesPercentSharesOut': 0.0512,
+ 'sharesShort': 5221412,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5555531,
+ 'shortName': 'RealPage, Inc.',
+ 'shortPercentOfFloat': 0.0587,
+ 'shortRatio': 7.44,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'RP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.54,
+ 'trailingPE': 118.33333,
+ 'twoHundredDayAverage': 60.863884,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'c4cb0a6b-cf9b-347b-8e64-7a11ebfacefa',
+ 'volume': 1162028,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.realpage.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75082'}

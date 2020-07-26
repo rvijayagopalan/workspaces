@@ -1,0 +1,162 @@
+{'52WeekChange': 0.039099813,
+ 'SandP52WeekChange': None,
+ 'address1': '555 Maryville University Drive',
+ 'address2': 'Suite 600',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 36.22,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 315987,
+ 'averageVolume': 358544,
+ 'averageVolume10days': 315987,
+ 'beta': 1.389355,
+ 'beta3Year': None,
+ 'bid': 36.2,
+ 'bidSize': 800,
+ 'bookValue': 12.274,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'St. Louis',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 37.24,
+ 'dayLow': 36.13,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.277,
+ 'enterpriseToEbitda': 16.358,
+ 'enterpriseToRevenue': 2.296,
+ 'enterpriseValue': 1325523840,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 35.26257,
+ 'fiftyTwoWeekHigh': 53.76,
+ 'fiftyTwoWeekLow': 18.88,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 32264988,
+ 'forwardEps': 2.41,
+ 'forwardPE': 15.020746,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3454,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.030840002,
+ 'heldPercentInstitutions': 1.00958,
+ 'industry': 'Information Technology Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/perficient.com',
+ 'longBusinessSummary': 'Perficient, Inc. provides digital consultancy '
+                        'services and solutions in the United States. Its '
+                        'solutions include portals and collaboration, such as '
+                        'searchable data systems, collaborative systems for '
+                        'process improvement, transaction processing, unified '
+                        'and extended reporting, commerce, content management, '
+                        'and other services; and platform implementation '
+                        'services, including application server selection, '
+                        'architecture planning, installation and '
+                        'configuration, clustering for availability, '
+                        'performance assessment and issue remediation, '
+                        'security, and technology migrations. The company also '
+                        'offers management consulting services in the areas of '
+                        'organizational change management, business analytics, '
+                        'project management, and process excellence; and cloud '
+                        'infrastructure services comprising architecture, '
+                        'application modernization, business value and health '
+                        'checks assessments, containers, strategy and road '
+                        'maps, and vendor evaluation and selection services. '
+                        'In addition, it provides digital marketing services, '
+                        'including analytics and reporting, email marketing '
+                        'and automation, B2B and B2C marketing automation, '
+                        'media and advertising, paid search, social media, '
+                        'search engine marketing, content marketing, and '
+                        'conversion rate optimization. Further, the company '
+                        'offers business analytics; custom applications; '
+                        'business integration; business process management; '
+                        'customer relationship management; enterprise data and '
+                        'business intelligence; enterprise performance '
+                        'management; DevOps; and enterprise mobile solutions. '
+                        'It serves the healthcare, financial services, '
+                        'manufacturing, automotive and transportation, retail '
+                        'and consumer goods, electronics and computer '
+                        'hardware, telecommunications, business services, and '
+                        'energy and utilities markets, as well as leisure, '
+                        'media, and entertainment markets. Perficient, Inc. '
+                        'was founded in 1997 and is headquartered in St. '
+                        'Louis, Missouri.',
+ 'longName': 'Perficient, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1197586560,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_401591',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 39073000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 36.68,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.51,
+ 'phone': '314-529-3600',
+ 'previousClose': 36.94,
+ 'priceHint': 2,
+ 'priceToBook': 2.949324,
+ 'priceToSalesTrailing12Months': 2.074555,
+ 'profitMargins': 0.06768,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 37.24,
+ 'regularMarketDayLow': 36.13,
+ 'regularMarketOpen': 36.68,
+ 'regularMarketPreviousClose': 36.94,
+ 'regularMarketPrice': 36.68,
+ 'regularMarketVolume': 170936,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 33082500,
+ 'sharesPercentSharesOut': 0.0418,
+ 'sharesShort': 1383136,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1372717,
+ 'shortName': 'Perficient, Inc.',
+ 'shortPercentOfFloat': 0.0511,
+ 'shortRatio': 3.82,
+ 'startDate': None,
+ 'state': 'MO',
+ 'strikePrice': None,
+ 'symbol': 'PRFT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.199,
+ 'trailingPE': 30.191828,
+ 'twoHundredDayAverage': 37.811512,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '76592de3-9eda-34ba-8848-4a8c825371d4',
+ 'volume': 170936,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.perficient.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '63141'}

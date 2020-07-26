@@ -1,0 +1,160 @@
+{'52WeekChange': 0.39328778,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2600 ANSYS Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 293.55,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 413487,
+ 'averageVolume': 500541,
+ 'averageVolume10days': 413487,
+ 'beta': 1.218487,
+ 'beta3Year': None,
+ 'bid': 293.21,
+ 'bidSize': 1400,
+ 'bookValue': 38.468,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Canonsburg',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 297.71,
+ 'dayLow': 291.55,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.466,
+ 'enterpriseToEbitda': 47.427,
+ 'enterpriseToRevenue': 16.595,
+ 'enterpriseValue': 24954423296,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '724 514 9494',
+ 'fiftyDayAverage': 292.18628,
+ 'fiftyTwoWeekHigh': 310.05,
+ 'fiftyTwoWeekLow': 186.81,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 84836206,
+ 'forwardEps': 6.88,
+ 'forwardPE': 42.66134,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00982,
+ 'heldPercentInstitutions': 1.0175,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1181001600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ansys.com',
+ 'longBusinessSummary': 'ANSYS, Inc. develops and markets engineering '
+                        'simulation software and services worldwide. The '
+                        'company offers ANSYS Workbench, a framework upon '
+                        'which its engineering simulation technologies are '
+                        'built; multiphysics software to simulate the '
+                        'interactions between structures, heat transfer, '
+                        'fluids, and electronics in a unified engineering '
+                        'simulation environment; high-performance computing '
+                        'product suite, which delivers cross-physics parallel '
+                        'processing capabilities for simulation software; and '
+                        'structural analysis product suite that provides '
+                        'simulation tools for product design and optimization. '
+                        'It also provides fluids product suite that enables '
+                        'modeling of fluid flow and other related physical '
+                        'phenomena; and electromagnetics product suite that '
+                        'offers field simulation software for designing '
+                        'electronic and electromechanical products. In '
+                        'addition, the company offers power analysis and '
+                        'optimization software suite that manages the power '
+                        'budget, power delivery integrity, and power-induced '
+                        'noise in an electronic design; SCADE product suite, a '
+                        'solution for embedded software simulation, code '
+                        'production, and automated certification; system '
+                        'simulation capability for the design of automated '
+                        'products; and optical sensor and closed-loop, and '
+                        'real-time simulation, as well as safety-certified '
+                        'embedded software solutions. Further, it provides '
+                        'Discovery product family for use in the simulation of '
+                        'product design; Ansys Granta products to give access '
+                        'to material intelligence; and academic product suite '
+                        'with a portfolio of academic products based on '
+                        'associate, research, and teaching. The company serves '
+                        'engineers, designers, researchers, and students in '
+                        'the aerospace and defense, automotive, electronics, '
+                        'semiconductors, energy, materials and chemical '
+                        'processing, turbomachinery, consumer products, '
+                        'healthcare, and sports industries. ANSYS, Inc. was '
+                        'founded in 1970 and is headquartered in Canonsburg, '
+                        'Pennsylvania.',
+ 'longName': 'ANSYS, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 25123106816,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_24893',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 411128992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 297.15,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 7.13,
+ 'phone': '844 462 6797',
+ 'previousClose': 300.15,
+ 'priceHint': 2,
+ 'priceToBook': 7.6299787,
+ 'priceToSalesTrailing12Months': 16.707005,
+ 'profitMargins': 0.2734,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 297.71,
+ 'regularMarketDayLow': 291.55,
+ 'regularMarketOpen': 297.15,
+ 'regularMarketPreviousClose': 300.15,
+ 'regularMarketPrice': 297.15,
+ 'regularMarketVolume': 610901,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 85595400,
+ 'sharesPercentSharesOut': 0.028499998,
+ 'sharesShort': 2441498,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2121761,
+ 'shortName': 'ANSYS, Inc.',
+ 'shortPercentOfFloat': 0.0321,
+ 'shortRatio': 4.58,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'ANSS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 4.758,
+ 'trailingPE': 61.687687,
+ 'twoHundredDayAverage': 266.89432,
+ 'volume': 610901,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ansys.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '15317'}

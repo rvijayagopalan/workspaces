@@ -1,0 +1,158 @@
+{'52WeekChange': -0.44804215,
+ 'SandP52WeekChange': None,
+ 'address1': '1201 Network Centre Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.5,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 118525,
+ 'averageVolume': 124768,
+ 'averageVolume10days': 118525,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 13,
+ 'bidSize': 1000,
+ 'bookValue': 26.717,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Effingham',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 15.06,
+ 'dayLow': 14.28,
+ 'dividendRate': 1.07,
+ 'dividendYield': 0.0754,
+ 'earningsQuarterlyGrowth': -0.231,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.418,
+ 'enterpriseValue': 816483008,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 14.620714,
+ 'fiftyTwoWeekHigh': 29.5,
+ 'fiftyTwoWeekLow': 12.49,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 19703449,
+ 'forwardEps': 1.48,
+ 'forwardPE': 9.891892,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.09984,
+ 'heldPercentInstitutions': 0.5584,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/midlandsb.com',
+ 'longBusinessSummary': 'Midland States Bancorp, Inc. operates as a financial '
+                        'holding company for Midland States Bank that provides '
+                        'various banking products and services to individuals, '
+                        'businesses, municipalities, and other entities. It '
+                        'operates through Banking, Wealth Management, '
+                        'Commercial FHA Origination and Servicing, and Other '
+                        'segments. The company accepts various deposits, such '
+                        'as checking, savings, money market, and sweep '
+                        'accounts, as well as certificates of deposit, '
+                        'noninterest-bearing and interest-bearing demand '
+                        'deposits, and time deposits. It also offers '
+                        'commercial lending products, including owner occupied '
+                        'commercial real estate, commercial real estate '
+                        'investment, real estate construction, and multifamily '
+                        'loans, as well as loans to purchase farmland and '
+                        'finance agricultural production; business term loans, '
+                        'equipment financing, and lines of credit; and '
+                        'consumer installment loans for purchase of cars, '
+                        'boats, and other recreational vehicles, as well as '
+                        'appliances and other home improvement projects. In '
+                        'addition, the company provides residential first and '
+                        'second mortgage loans; home equity lines of credit; '
+                        'and commercial mortgage loans for multifamily and '
+                        'healthcare facilities. Further, it offers commercial '
+                        'equipment leasing, merchant, and treasury management '
+                        'services. Additionally, the company provides trust '
+                        'and wealth management products and services, '
+                        'including financial and estate planning, trustee and '
+                        'custodial services, investment management, tax and '
+                        'insurance planning, business planning, corporate '
+                        'retirement plan consulting and administration, and '
+                        'retail brokerage services. As of December 31, 2019, '
+                        'it operated 67 banking offices in 48 communities. The '
+                        'company was founded in 1881 and is headquartered in '
+                        'Effingham, Illinois.',
+ 'longName': 'Midland States Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 339691936,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_764589',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 39291000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.8,
+ 'openInterest': None,
+ 'payoutRatio': 0.5686,
+ 'pegRatio': 1.77,
+ 'phone': '217-342-7321',
+ 'previousClose': 14.66,
+ 'priceHint': 2,
+ 'priceToBook': 0.54796576,
+ 'priceToSalesTrailing12Months': 1.4220072,
+ 'profitMargins': 0.16562,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 15.06,
+ 'regularMarketDayLow': 14.28,
+ 'regularMarketOpen': 14.8,
+ 'regularMarketPreviousClose': 14.66,
+ 'regularMarketPrice': 14.8,
+ 'regularMarketVolume': 207243,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 23203000,
+ 'sharesPercentSharesOut': 0.0301,
+ 'sharesShort': 699034,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 596341,
+ 'shortName': 'Midland States Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0323,
+ 'shortRatio': 6.19,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'MSBI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.995,
+ 'trailingAnnualDividendYield': 0.067871764,
+ 'trailingEps': 1.61,
+ 'trailingPE': 9.093168,
+ 'twoHundredDayAverage': 18.895792,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '949865fa-66c8-31d5-8008-65f6b7a6e116',
+ 'volume': 207243,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.midlandsb.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '62401'}

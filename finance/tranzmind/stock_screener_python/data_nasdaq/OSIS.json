@@ -1,0 +1,163 @@
+{'52WeekChange': -0.39352506,
+ 'SandP52WeekChange': None,
+ 'address1': '12525 Chadron Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 67.44,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 148025,
+ 'averageVolume': 137598,
+ 'averageVolume10days': 148025,
+ 'beta': 0.831932,
+ 'beta3Year': None,
+ 'bid': 55,
+ 'bidSize': 900,
+ 'bookValue': 30.664,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Hawthorne',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 68.74,
+ 'dayLow': 67.3,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.003,
+ 'enterpriseToEbitda': 9.375,
+ 'enterpriseToRevenue': 1.253,
+ 'enterpriseValue': 1499836928,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 72.41286,
+ 'fiftyTwoWeekHigh': 114.58,
+ 'fiftyTwoWeekLow': 49.96,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 16613743,
+ 'forwardEps': 4.62,
+ 'forwardPE': 14.5822525,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6667,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04769,
+ 'heldPercentInstitutions': 0.99285007,
+ 'industry': 'Electronic Components',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/osi-systems.com',
+ 'longBusinessSummary': 'OSI Systems, Inc. designs, manufactures, and sells '
+                        'electronic systems and components worldwide. The '
+                        'company operates through three segments: Security, '
+                        'Healthcare, and Optoelectronics and Manufacturing. '
+                        'The Security segment offers baggage and parcel '
+                        'inspection, cargo and vehicle inspection, hold '
+                        'baggage and people screening, radiation detection, '
+                        'and explosive and narcotics trace detection systems '
+                        'under the Rapiscan Systems and AS&E names. It also '
+                        'provides site design, installation, training, and '
+                        'technical support services; and security screening '
+                        'solutions under the S2 name. The Healthcare segment '
+                        'offers patient monitoring and diagnostic cardiology '
+                        'systems, and related supplies and accessories under '
+                        'the Spacelabs name for use in critical care, '
+                        'emergency, and perioperative areas within hospitals, '
+                        "as well as physicians' offices, medical clinics, and "
+                        'ambulatory surgery centers. The Optoelectronics and '
+                        'Manufacturing segment provides optoelectronic devices '
+                        'under the OSI Optoelectronics, OSI LaserDiode, and '
+                        'OSI Laserscan names for the aerospace and defense, '
+                        'avionics, medical imaging and diagnostics, '
+                        'biochemistry analysis, pharmaceutical, '
+                        'nanotechnology, telecommunications, construction, and '
+                        'homeland security markets. It also offers electronics '
+                        'manufacturing services to original equipment '
+                        'manufacturers and end users for medical, automotive, '
+                        'defense, aerospace, industrial, and consumer '
+                        'applications under the OSI Electronics, APlus '
+                        'Products, Altaflex, and PFC names; and LCD displays '
+                        'for medical, industrial, and consumer electronics '
+                        'applications, as well as flex circuits and touch '
+                        'panels. In addition, this segment offers laser-based '
+                        'remote sensing devices to detect and classify '
+                        'vehicles in toll and traffic management systems under '
+                        'the OSI Laserscan and Autosense names; and '
+                        'solid-state laser products for aerospace, defense, '
+                        'telecommunication, and medical applications under the '
+                        'OSI LaserDiode name. The company was founded in 1987 '
+                        'and is headquartered in Hawthorne, California.',
+ 'longName': 'OSI Systems, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1213414656,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_366230',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 77948000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 68.41,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.88,
+ 'phone': '310-978-0516',
+ 'previousClose': 68.75,
+ 'priceHint': 2,
+ 'priceToBook': 2.197039,
+ 'priceToSalesTrailing12Months': 1.0133289,
+ 'profitMargins': 0.06509,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 68.74,
+ 'regularMarketDayLow': 67.3,
+ 'regularMarketOpen': 68.41,
+ 'regularMarketPreviousClose': 68.75,
+ 'regularMarketPrice': 68.41,
+ 'regularMarketVolume': 113921,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 18011200,
+ 'sharesPercentSharesOut': 0.041199997,
+ 'sharesShort': 742738,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1056317,
+ 'shortName': 'OSI Systems, Inc.',
+ 'shortPercentOfFloat': 0.052199997,
+ 'shortRatio': 4.99,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'OSIS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 4.159,
+ 'trailingPE': 16.198606,
+ 'twoHundredDayAverage': 77.54885,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'dce6b045-14bb-3855-a90f-d9135b55ac0d',
+ 'volume': 113921,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.osi-systems.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '90250'}

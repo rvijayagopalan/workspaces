@@ -1,0 +1,163 @@
+{'52WeekChange': -0.43191087,
+ 'SandP52WeekChange': None,
+ 'address1': '1 Bank Plaza',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 22.49,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 240637,
+ 'averageVolume': 318874,
+ 'averageVolume10days': 240637,
+ 'beta': 1.02633,
+ 'beta3Year': None,
+ 'bid': 20.61,
+ 'bidSize': 800,
+ 'bookValue': 38.231,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Wheeling',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 21.34,
+ 'dayLow': 20.59,
+ 'dividendRate': 1.28,
+ 'dividendYield': 0.0612,
+ 'earningsQuarterlyGrowth': -0.9,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 4.767,
+ 'enterpriseValue': 2208720896,
+ 'exDividendDate': 1591833600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 20.485428,
+ 'fiftyTwoWeekHigh': 39.33,
+ 'fiftyTwoWeekLow': 17.46,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3,
+ 'floatShares': 63349237,
+ 'forwardEps': 1.92,
+ 'forwardPE': 10.744791,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2676,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.02703,
+ 'heldPercentInstitutions': 0.6025,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 870652800,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/wesbanco.com',
+ 'longBusinessSummary': 'WesBanco, Inc. operates as the bank holding company '
+                        'for WesBanco Bank, Inc. that provides retail banking, '
+                        'corporate banking, personal and corporate trust, '
+                        'brokerage, and mortgage banking and insurance '
+                        'services. It operates in two segments, Community '
+                        'Banking, and Trust and Investment Services. The '
+                        'company offers commercial demand, individual demand, '
+                        'and time deposit accounts; money market accounts; '
+                        'interest bearing and non-interest bearing demand '
+                        'deposits, as well as savings deposits; and '
+                        'certificates of deposit. It also provides commercial '
+                        'real estate loans; commercial and industrial loans; '
+                        'residential real estate loans, including loans to '
+                        "purchase, construct, or refinance borrower's home; "
+                        'home equity lines of credit; installment loans to '
+                        'finance the purchase of automobiles, trucks, '
+                        'motorcycles, boats, and other recreational vehicles, '
+                        'as well as home equity installment loans, unsecured '
+                        'home improvement loans, and revolving lines of '
+                        'credit; and commercial, mortgage, and individual '
+                        'installment loans. In addition, the company offers '
+                        'trust and investment services, as well as various '
+                        'investment products comprising mutual funds and '
+                        'annuities; and securities brokerage services. '
+                        'Further, WesBanco, Inc., through its non-banking '
+                        'subsidiaries, acts as an agency that specializes in '
+                        'property, casualty, life, and title insurance, as '
+                        'well as benefit plan sales and administration to '
+                        'personal and commercial clients; provides broker '
+                        'dealer and discount brokerage services; holds '
+                        'investment securities and loans; and holds and leases '
+                        'commercial real estate properties, as well as acts as '
+                        'an investment adviser to a family of mutual funds. As '
+                        'of December 31, 2019, it operated 236 branches and '
+                        '227 ATMs in West Virginia, Ohio, western '
+                        'Pennsylvania, Kentucky, southern Indiana, and '
+                        'Maryland, as well as six loan production offices in '
+                        'West Virginia, Ohio, western Pennsylvania, and '
+                        'Maryland. WesBanco, Inc. was founded in 1870 and is '
+                        'headquartered in Wheeling, West Virginia.',
+ 'longName': 'WesBanco, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1386567040,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_313313',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 101606000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 20.91,
+ 'openInterest': None,
+ 'payoutRatio': 0.5123,
+ 'pegRatio': 1.18,
+ 'phone': '304-234-9000',
+ 'previousClose': 20.9,
+ 'priceHint': 2,
+ 'priceToBook': 0.53961444,
+ 'priceToSalesTrailing12Months': 2.77233,
+ 'profitMargins': 0.2193,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 21.34,
+ 'regularMarketDayLow': 20.59,
+ 'regularMarketOpen': 20.91,
+ 'regularMarketPreviousClose': 20.9,
+ 'regularMarketPrice': 20.91,
+ 'regularMarketVolume': 150218,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 67211200,
+ 'sharesPercentSharesOut': 0.014099999,
+ 'sharesShort': 948662,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 674284,
+ 'shortName': 'WesBanco, Inc.',
+ 'shortPercentOfFloat': 0.014400001,
+ 'shortRatio': 2.52,
+ 'startDate': None,
+ 'state': 'WV',
+ 'strikePrice': None,
+ 'symbol': 'WSBC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.26,
+ 'trailingAnnualDividendYield': 0.06028708,
+ 'trailingEps': 1.62,
+ 'trailingPE': 12.734568,
+ 'twoHundredDayAverage': 25.456978,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '4125af20-8438-3030-8997-0fca9055190f',
+ 'volume': 150218,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.wesbanco.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '26003'}

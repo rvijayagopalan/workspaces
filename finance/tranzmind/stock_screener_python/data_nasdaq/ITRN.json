@@ -1,0 +1,160 @@
+{'52WeekChange': -0.512016,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3 Hashikma Street',
+ 'address2': 'Azour Industrial Zone POB 163',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.61,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 26250,
+ 'averageVolume': 47149,
+ 'averageVolume10days': 26250,
+ 'beta': 1.335574,
+ 'beta3Year': None,
+ 'bid': 14.55,
+ 'bidSize': 800,
+ 'bookValue': 5.574,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Azor',
+ 'companyOfficers': [],
+ 'country': 'Israel',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.97,
+ 'dayLow': 14.5,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.21,
+ 'enterpriseToEbitda': 4.94,
+ 'enterpriseToRevenue': 1.213,
+ 'enterpriseValue': 332565056,
+ 'exDividendDate': 1584921600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '972 3 557 1327',
+ 'fiftyDayAverage': 16.270857,
+ 'fiftyTwoWeekHigh': 30.27,
+ 'fiftyTwoWeekLow': 11.01,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.49,
+ 'floatShares': 13846889,
+ 'forwardEps': 1.49,
+ 'forwardPE': 9.81208,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.19875,
+ 'heldPercentInstitutions': 0.53972,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1127347200,
+ 'lastSplitFactor': '3:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ituran.com',
+ 'longBusinessSummary': 'Ituran Location and Control Ltd., together with its '
+                        'subsidiaries, provides location-based services and '
+                        "wireless communications products. The company's "
+                        'Location-Based Services segment provides stolen '
+                        'vehicle recovery and tracking services, which locate, '
+                        'track, and recover stolen vehicles for its '
+                        'subscribers; fleet management services that enable '
+                        'corporate and individual customers to track and '
+                        'manage their vehicles in real time; and personal '
+                        'locator services that allow customers to protect '
+                        'valuable merchandise and equipment. It also offers '
+                        'on-demand navigation guidance, information, and '
+                        'assistance, including the provision of traffic '
+                        'reports and directions, as well as information on the '
+                        'location of gas stations, car repair shops, post '
+                        'offices, hospitals, and other facilities; and '
+                        'Connect, an Android platform that provides access to '
+                        'Android applications and various services through '
+                        'manufacturer interface. This segment serves insurance '
+                        'companies and agents, car manufacturers, dealers and '
+                        'importers, cooperative sales channels, and private '
+                        "subscribers. The company's Wireless Communications "
+                        'Products segment provides Base Site, a radio receiver '
+                        'that includes a processor and a data computation unit '
+                        'to collect and send data to and from transponders, '
+                        'and to control centers; Control Center, a center '
+                        'consisting of software used to collect data from '
+                        'various base sites, conduct location calculations, '
+                        'and transmit location data to various customers and '
+                        'law enforcement agencies; navigation and tracking '
+                        'devices installed in vehicles; and SMART, a portable '
+                        'transmitter installed in vehicles that sends a signal '
+                        'to the base site enabling the location of vehicles, '
+                        'equipment, or an individual. As of December 31, 2018, '
+                        'it served approximately 230,000 end-users through '
+                        '40,000 corporate customers in Israel, Brazil, '
+                        'Argentina, Mexico, Ecuador, Colombia, and the United '
+                        'States. The company was founded in 1994 and is '
+                        'headquartered in Azor, Israel.',
+ 'longName': 'Ituran Location and Control Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 343210336,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_23076179',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 5199000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.97,
+ 'openInterest': None,
+ 'payoutRatio': 3.6923,
+ 'pegRatio': 2.33,
+ 'phone': '972 3 557 1333',
+ 'previousClose': 14.97,
+ 'priceHint': 2,
+ 'priceToBook': 2.6228921,
+ 'priceToSalesTrailing12Months': 1.2521262,
+ 'profitMargins': 0.01897,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.97,
+ 'regularMarketDayLow': 14.5,
+ 'regularMarketOpen': 14.97,
+ 'regularMarketPreviousClose': 14.97,
+ 'regularMarketPrice': 14.97,
+ 'regularMarketVolume': 19310,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 23475400,
+ 'sharesPercentSharesOut': 0.0027,
+ 'sharesShort': 62543,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 47030,
+ 'shortName': 'Ituran Location and Control Ltd',
+ 'shortPercentOfFloat': 0.0032,
+ 'shortRatio': 1.23,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'ITRN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.72,
+ 'trailingAnnualDividendYield': 0.048096195,
+ 'trailingEps': 0.248,
+ 'trailingPE': 58.951614,
+ 'twoHundredDayAverage': 18.611078,
+ 'volume': 19310,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ituran.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '58001'}

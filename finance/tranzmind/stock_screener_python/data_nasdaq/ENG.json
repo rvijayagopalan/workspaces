@@ -1,0 +1,156 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '654 North Sam Houston Parkway East',
+ 'address2': 'Suite 400',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 1.2,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 238237,
+ 'averageVolume': 293587,
+ 'averageVolume10days': 238237,
+ 'beta': 1.598879,
+ 'beta3Year': None,
+ 'bid': 1.14,
+ 'bidSize': 1800,
+ 'bookValue': 0.552,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Houston',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1.18,
+ 'dayLow': 1.1443,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 25.475,
+ 'enterpriseToRevenue': 0.438,
+ 'enterpriseValue': 27844670,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '281 878 1010',
+ 'fiftyDayAverage': 1.076,
+ 'fiftyTwoWeekHigh': 1.55,
+ 'fiftyTwoWeekLow': 0.46,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 13841140,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 251,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.43392,
+ 'heldPercentInstitutions': 0.22263001,
+ 'industry': 'Engineering & Construction',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/englobal.com',
+ 'longBusinessSummary': 'ENGlobal Corporation provides engineered modular '
+                        'solutions and professional services primarily to the '
+                        'energy industry worldwide. It operates through '
+                        'Engineering, Procurement and Construction Management '
+                        '(EPCM); and Automation segments. The EPCM segment '
+                        'offers engineering services and fabrication relating '
+                        'to the development, management, and execution of '
+                        'projects requiring professional engineering and '
+                        'related project management services primarily to the '
+                        'energy industry, which include conceptual studies, '
+                        'project definition, cost estimating, engineering '
+                        'design, environmental compliance, material '
+                        'procurement, project management, and construction '
+                        'management. The Automation segment provides services '
+                        'related to the design, integration, and '
+                        'implementation of process distributed control and '
+                        'analyzer systems, advanced automated data gathering '
+                        'systems, information technology, and electrical '
+                        'projects; and designs, assembles, integrates, and '
+                        'services control and instrumentation systems for '
+                        'applications in the energy and processing related '
+                        'industries. It also offers automated fuel handling '
+                        'systems and maintenance services to branches of the '
+                        'U.S. military and public sector entities; and '
+                        'electrical and instrument installation, technical, '
+                        'maintenance and calibration, and repair services. '
+                        'This segment serves petroleum refining, '
+                        'petrochemical, pipeline, production, process, and '
+                        'pulp and paper industries, as well as the United '
+                        'States government. The company was founded in 1985 '
+                        'and is headquartered in Houston, Texas.',
+ 'longName': 'ENGlobal Corporation',
+ 'market': 'us_market',
+ 'marketCap': 31525640,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_385142',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 609000,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 1.18,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '281 878 1000',
+ 'previousClose': 1.15,
+ 'priceHint': 4,
+ 'priceToBook': 2.0833333,
+ 'priceToSalesTrailing12Months': 0.4961308,
+ 'profitMargins': 0.00958,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.18,
+ 'regularMarketDayLow': 1.1443,
+ 'regularMarketOpen': 1.18,
+ 'regularMarketPreviousClose': 1.15,
+ 'regularMarketPrice': 1.18,
+ 'regularMarketVolume': 154655,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 27413600,
+ 'sharesPercentSharesOut': 0.00029999999,
+ 'sharesShort': 6853,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 44320,
+ 'shortName': 'ENGlobal Corporation',
+ 'shortPercentOfFloat': 0.0004,
+ 'shortRatio': 0.02,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'ENG',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.022,
+ 'trailingPE': 52.272728,
+ 'twoHundredDayAverage': 0.9590647,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '6f79eb95-af0d-33bf-a4b4-9b29765a86b3',
+ 'volume': 154655,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.englobal.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '77060-5914'}

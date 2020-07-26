@@ -1,0 +1,151 @@
+{'52WeekChange': 0.7667875,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'One Apple Park Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 369.75,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 31913362,
+ 'averageVolume': 34802709,
+ 'averageVolume10days': 31913362,
+ 'beta': 1.182072,
+ 'beta3Year': None,
+ 'bid': 369.7,
+ 'bidSize': 1100,
+ 'bookValue': 18.137,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cupertino',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 371.88,
+ 'dayLow': 356.58,
+ 'dividendRate': 3.28,
+ 'dividendYield': 0.0088,
+ 'earningsQuarterlyGrowth': -0.027,
+ 'enterpriseToEbitda': 21.091,
+ 'enterpriseToRevenue': 6.084,
+ 'enterpriseValue': 1630407753728,
+ 'exDividendDate': 1588896000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 365.22086,
+ 'fiftyTwoWeekHigh': 399.82,
+ 'fiftyTwoWeekLow': 192.58,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.57,
+ 'floatShares': 4329740605,
+ 'forwardEps': 14.94,
+ 'forwardPE': 24.79652,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 137000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00066,
+ 'heldPercentInstitutions': 0.62115,
+ 'industry': 'Consumer Electronics',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569628800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1402272000,
+ 'lastSplitFactor': '7:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/apple.com',
+ 'longBusinessSummary': 'Apple Inc. designs, manufactures, and markets '
+                        'smartphones, personal computers, tablets, wearables, '
+                        'and accessories worldwide. It also sells various '
+                        'related services. The company offers iPhone, a line '
+                        'of smartphones; Mac, a line of personal computers; '
+                        'iPad, a line of multi-purpose tablets; and wearables, '
+                        'home, and accessories comprising AirPods, Apple TV, '
+                        'Apple Watch, Beats products, HomePod, iPod touch, and '
+                        'other Apple-branded and third-party accessories. It '
+                        'also provides digital content stores and streaming '
+                        'services; AppleCare support services; and iCloud, a '
+                        'cloud service, which stores music, photos, contacts, '
+                        'calendars, mail, documents, and others. In addition, '
+                        'the company offers various service, such as Apple '
+                        'Arcade, a game subscription service; Apple Card, a '
+                        'co-branded credit card; Apple News+, a subscription '
+                        'news and magazine service; and Apple Pay, a cashless '
+                        'payment service, as well as licenses its intellectual '
+                        'property, and provides other related services. The '
+                        'company serves consumers, and small and mid-sized '
+                        'businesses; and the education, enterprise, and '
+                        'government markets. It sells and delivers third-party '
+                        'applications for its products through the App Store, '
+                        'Mac App Store, and Watch App Store. The company also '
+                        'sells its products through its retail and online '
+                        'stores, and direct sales force; and third-party '
+                        'cellular network carriers, wholesalers, retailers, '
+                        'and resellers. Apple Inc. has a collaboration with '
+                        'Google to develop COVID-19 tracking system for '
+                        'Android and iOS devices. Apple Inc. was founded in '
+                        '1977 and is headquartered in Cupertino, California.',
+ 'longName': 'Apple Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1605695832064,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_24937',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 57215000576,
+ 'nextFiscalYearEnd': 1632787200,
+ 'open': 363.95,
+ 'openInterest': None,
+ 'payoutRatio': 0.2408,
+ 'pegRatio': 2.53,
+ 'phone': '408-996-1010',
+ 'previousClose': 371.38,
+ 'priceHint': 2,
+ 'priceToBook': 20.42565,
+ 'priceToSalesTrailing12Months': 5.991827,
+ 'profitMargins': 0.21350001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 371.88,
+ 'regularMarketDayLow': 356.58,
+ 'regularMarketOpen': 363.95,
+ 'regularMarketPreviousClose': 371.38,
+ 'regularMarketPrice': 363.95,
+ 'regularMarketVolume': 46359716,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 4334329856,
+ 'sharesPercentSharesOut': 0.0078,
+ 'sharesShort': 33962851,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 34194077,
+ 'shortName': 'Apple Inc.',
+ 'shortPercentOfFloat': 0.0078,
+ 'shortRatio': 0.92,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'AAPL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 3.08,
+ 'trailingAnnualDividendYield': 0.008293392,
+ 'trailingEps': 12.728,
+ 'trailingPE': 29.105907,
+ 'twoHundredDayAverage': 311.76797,
+ 'volume': 46359716,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.apple.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95014'}

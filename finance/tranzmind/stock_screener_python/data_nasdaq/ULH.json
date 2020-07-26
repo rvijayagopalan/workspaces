@@ -1,0 +1,148 @@
+{'52WeekChange': -0.14102566,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '12755 East Nine Mile Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.42,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 70075,
+ 'averageVolume': 50995,
+ 'averageVolume10days': 70075,
+ 'beta': 1.636974,
+ 'beta3Year': None,
+ 'bid': 17.38,
+ 'bidSize': 2200,
+ 'bookValue': 7.75,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Warren',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 17.98,
+ 'dayLow': 17.37,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.297,
+ 'enterpriseToEbitda': 6.202,
+ 'enterpriseToRevenue': 0.674,
+ 'enterpriseValue': 1022890048,
+ 'exDividendDate': 1582848000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 17.008,
+ 'fiftyTwoWeekHigh': 27.49,
+ 'fiftyTwoWeekLow': 11.02,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.77,
+ 'floatShares': 7285043,
+ 'forwardEps': 2.4,
+ 'forwardPE': 7.258333,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3652,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.72292,
+ 'heldPercentInstitutions': 0.29014,
+ 'industry': 'Trucking',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/universallogistics.com',
+ 'longBusinessSummary': 'Universal Logistics Holdings, Inc. provides '
+                        'transportation and logistics solutions in the United '
+                        'States, Mexico, Canada, and Colombia. It offers '
+                        'truckload services, which include dry van, flatbed, '
+                        'heavy-haul, and refrigerated operations; domestic and '
+                        'international freight forwarding, and customs '
+                        'brokerage services; and final mile and ground '
+                        'expedite services. The company transports various '
+                        'commodities comprising automotive parts, machinery, '
+                        'building materials, paper, food, consumer goods, '
+                        'furniture, steel, and other metals. It also provides '
+                        'value-added services for individual customer '
+                        'requirements, including material handling, '
+                        'consolidation, sequencing, sub-assembly, cross-dock, '
+                        'kitting, repacking, warehousing, and returnable '
+                        'container management; and intermodal support services '
+                        'comprising short-to-medium distance delivery of '
+                        'steamship and rail truck containers between the port '
+                        'or railhead, and the customer and drayage services. '
+                        'Universal Logistics Holdings, Inc. serves automotive, '
+                        'steel, oil and gas, alternative energy, and '
+                        'manufacturing industries, as well as other '
+                        'transportation companies who aggregate loads from '
+                        'various shippers. The company was formerly known as '
+                        'Universal Truckload Services, Inc. and changed its '
+                        'name to Universal Logistics Holdings, Inc. in April '
+                        '2016. Universal Logistics Holdings, Inc. was founded '
+                        'in 1932 and is headquartered in Warren, Michigan.',
+ 'longName': 'Universal Logistics Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 468925504,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_12632379',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585958400,
+ 'navPrice': None,
+ 'netIncomeToCommon': 32452000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 17.81,
+ 'openInterest': None,
+ 'payoutRatio': 0.4449,
+ 'pegRatio': 4.65,
+ 'phone': '586 920 0100',
+ 'previousClose': 17.99,
+ 'priceHint': 2,
+ 'priceToBook': 2.247742,
+ 'priceToSalesTrailing12Months': 0.30916384,
+ 'profitMargins': 0.021389998,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 17.98,
+ 'regularMarketDayLow': 17.37,
+ 'regularMarketOpen': 17.81,
+ 'regularMarketPreviousClose': 17.99,
+ 'regularMarketPrice': 17.81,
+ 'regularMarketVolume': 42467,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 26918800,
+ 'sharesPercentSharesOut': 0.0077,
+ 'sharesShort': 206785,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 240056,
+ 'shortName': 'Universal Logistics Holdings, I',
+ 'shortPercentOfFloat': 0.0279,
+ 'shortRatio': 4.25,
+ 'startDate': None,
+ 'state': 'MI',
+ 'strikePrice': None,
+ 'symbol': 'ULH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.42,
+ 'trailingAnnualDividendYield': 0.023346303,
+ 'trailingEps': 1.168,
+ 'trailingPE': 14.914384,
+ 'twoHundredDayAverage': 15.5405035,
+ 'volume': 42467,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.universallogistics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '48089'}

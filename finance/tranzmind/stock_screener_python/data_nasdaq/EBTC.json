@@ -1,0 +1,157 @@
+{'52WeekChange': -0.2556209,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '222 Merrimack Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 22.57,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 9625,
+ 'averageVolume': 15117,
+ 'averageVolume10days': 9625,
+ 'beta': 0.509243,
+ 'beta3Year': None,
+ 'bid': 21.35,
+ 'bidSize': 1000,
+ 'bookValue': 25.877,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lowell',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 22.7,
+ 'dayLow': 21.43,
+ 'dividendRate': 0.7,
+ 'dividendYield': 0.0315,
+ 'earningsQuarterlyGrowth': -0.538,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 2.353,
+ 'enterpriseValue': 297905344,
+ 'exDividendDate': 1597017600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 22.553143,
+ 'fiftyTwoWeekHigh': 34.75,
+ 'fiftyTwoWeekLow': 19.27,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.89,
+ 'floatShares': 8520083,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 538,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.25133,
+ 'heldPercentInstitutions': 0.22504,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1151884800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/enterprisebanking.com',
+ 'longBusinessSummary': 'Enterprise Bancorp, Inc. operates as the holding '
+                        'company for Enterprise Bank and Trust Company that '
+                        'provides banking products and services primarily in '
+                        'the Greater Merrimack Valley, Nashoba Valley, and '
+                        'North Central regions of Massachusetts and Southern '
+                        'New Hampshire. The company offers commercial and '
+                        'retail deposit products, including transactional '
+                        'checking accounts, non-transactional savings and '
+                        'money market accounts, commercial sweep products, and '
+                        'term certificates of deposit. It also provides '
+                        'commercial real estate mortgage loans, construction '
+                        'and land development loans, secured and unsecured '
+                        'commercial loans and lines of credit, and letters of '
+                        'credit, as well as equipment financing services; and '
+                        'conventional residential mortgage loans, home equity '
+                        'loans and lines, residential construction loans on '
+                        'primary and secondary residences, and secured and '
+                        'unsecured personal loans and lines of credit. In '
+                        'addition, the company offers cash management '
+                        'services; customized investment management and trust '
+                        'services to individuals, family groups, commercial '
+                        'businesses, trusts, foundations, non-profit '
+                        'organizations, and endowments; brokerage and '
+                        'management services to individual investors; and '
+                        'insurance products. Further, it provides card, '
+                        'online, and mobile banking services. As of April 20, '
+                        '2020, it had 25 full-service branches located in the '
+                        'Massachusetts communities of Lowell, Acton, Andover, '
+                        'Billerica, Chelmsford, Dracut, Fitchburg, Lawrence, '
+                        'Leominster, Lexington, Methuen, Tewksbury, '
+                        'Tyngsborough, and Westford; and the New Hampshire '
+                        'communities of Derry, Hudson, Nashua, Pelham, Salem, '
+                        'and Windham. The company primarily serves business '
+                        'entities, non-profit organizations, professional '
+                        'practices, and individuals. Enterprise Bancorp, Inc. '
+                        'was founded in 1989 and is headquartered in Lowell, '
+                        'Massachusetts.',
+ 'longName': 'Enterprise Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 256341936,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3547151',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 29521000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 22.67,
+ 'openInterest': None,
+ 'payoutRatio': 0.2631,
+ 'pegRatio': None,
+ 'phone': '978-459-9000',
+ 'previousClose': 22.2,
+ 'priceHint': 2,
+ 'priceToBook': 0.83162653,
+ 'priceToSalesTrailing12Months': 2.02445,
+ 'profitMargins': 0.23313999,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 22.7,
+ 'regularMarketDayLow': 21.43,
+ 'regularMarketOpen': 22.67,
+ 'regularMarketPreviousClose': 22.2,
+ 'regularMarketPrice': 22.67,
+ 'regularMarketVolume': 8296,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 11911800,
+ 'sharesPercentSharesOut': 0.0050999997,
+ 'sharesShort': 61131,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 40545,
+ 'shortName': 'Enterprise Bancorp Inc',
+ 'shortPercentOfFloat': 0.0062,
+ 'shortRatio': 3.74,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'EBTC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.655,
+ 'trailingAnnualDividendYield': 0.029504502,
+ 'trailingEps': 2.489,
+ 'trailingPE': 8.646043,
+ 'twoHundredDayAverage': 25.658632,
+ 'volume': 8296,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.enterprisebanking.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '01852'}

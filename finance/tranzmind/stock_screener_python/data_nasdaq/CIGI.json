@@ -1,0 +1,156 @@
+{'52WeekChange': -0.28314108,
+ 'SandP52WeekChange': None,
+ 'address1': '1140 Bay Street',
+ 'address2': 'Suite 4000',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 54.75,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 54337,
+ 'averageVolume': 171352,
+ 'averageVolume10days': 54337,
+ 'beta': 1.609137,
+ 'beta3Year': None,
+ 'bid': 54.62,
+ 'bidSize': 800,
+ 'bookValue': 12.362,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Toronto',
+ 'companyOfficers': [],
+ 'country': 'Canada',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 55.09,
+ 'dayLow': 54.075,
+ 'dividendRate': 0.1,
+ 'dividendYield': 0.0018000001,
+ 'earningsQuarterlyGrowth': 2.137,
+ 'enterpriseToEbitda': 9.964,
+ 'enterpriseToRevenue': 1.136,
+ 'enterpriseValue': 3456156416,
+ 'exDividendDate': 1593388800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '416 960 5333',
+ 'fiftyDayAverage': 57.78343,
+ 'fiftyTwoWeekHigh': 92.07,
+ 'fiftyTwoWeekLow': 33.93,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.22,
+ 'floatShares': 28401931,
+ 'forwardEps': 4.84,
+ 'forwardPE': 11.291323,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 15000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04817,
+ 'heldPercentInstitutions': 0.73794,
+ 'industry': 'Real Estate Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/colliers.com',
+ 'longBusinessSummary': 'Colliers International Group Inc. provides commercial '
+                        'real estate services to corporate and institutional '
+                        'clients in the Americas, Europe, the Middle East, '
+                        'Africa, and Asia Pacific. It offers sales brokerage '
+                        'services, which include purchases and sales, debt '
+                        'placement, equity capital raising, market value '
+                        'opinions, acquisition advisory, and transaction '
+                        'management services; and lease brokerage services '
+                        'comprising landlord and tenant representation '
+                        'services. The company also provides outsourcing and '
+                        'advisory services that consist of property '
+                        'management, valuation, property marketing, and '
+                        'research services; and project management services, '
+                        'such as planning and advisory, development '
+                        'management, project and program management, and '
+                        'commissioning and energy services to academic, '
+                        'corporate, cultural and non-profit, healthcare, '
+                        'hospitality, residential, and retail sectors, as well '
+                        'as federal, state, and municipal markets. In '
+                        'addition, it offers capital market services '
+                        'comprising debt and equity finance, investment '
+                        'management, and valuation and appraisal services. '
+                        'Further, the company provides corporate solutions, '
+                        'such as business and portfolio, supply chain and '
+                        'logistics, data center and digital, and workplace '
+                        'consulting services, as well as technology services. '
+                        'Additionally, it offers services for various '
+                        'properties, including office, land, healthcare, '
+                        'industrial, retail, multi-family, hospitality, and '
+                        'special purpose properties. The company was founded '
+                        'in 1972 and is headquartered in Toronto, Canada.',
+ 'longName': 'Colliers International Group Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2178808064,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_369303',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 106027000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 55.03,
+ 'openInterest': None,
+ 'payoutRatio': 0.0379,
+ 'pegRatio': 0.89,
+ 'phone': '416 960 9500',
+ 'previousClose': 55.32,
+ 'priceHint': 2,
+ 'priceToBook': 4.4208055,
+ 'priceToSalesTrailing12Months': 0.716403,
+ 'profitMargins': 0.03486,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 55.09,
+ 'regularMarketDayLow': 54.075,
+ 'regularMarketOpen': 55.03,
+ 'regularMarketPreviousClose': 55.32,
+ 'regularMarketPrice': 55.03,
+ 'regularMarketVolume': 48709,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Real Estate',
+ 'sharesOutstanding': 38673100,
+ 'sharesPercentSharesOut': 0.0066000004,
+ 'sharesShort': 264013,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 354831,
+ 'shortName': 'Colliers International Group In',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 1.23,
+ 'startDate': None,
+ 'state': 'ON',
+ 'strikePrice': None,
+ 'symbol': 'CIGI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.1,
+ 'trailingAnnualDividendYield': 0.0018076645,
+ 'trailingEps': 2.635,
+ 'trailingPE': 20.740038,
+ 'twoHundredDayAverage': 62.814747,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'bdf9fa74-a784-3fb0-a409-d7ef2695dbc0',
+ 'volume': 48709,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.colliers.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'M5S 2B4'}

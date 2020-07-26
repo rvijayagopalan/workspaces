@@ -1,0 +1,157 @@
+{'52WeekChange': -0.5129963,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '200 East Randolph Street',
+ 'address2': 'Suite 7700',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 25.74,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 153737,
+ 'averageVolume': 177977,
+ 'averageVolume10days': 153737,
+ 'beta': 1.27675,
+ 'beta3Year': None,
+ 'bid': 17.01,
+ 'bidSize': 1400,
+ 'bookValue': 13.341,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chicago',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 18.27,
+ 'dayLow': 16.94,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 9.676,
+ 'enterpriseToRevenue': 1.263,
+ 'enterpriseValue': 1165899904,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 19.957428,
+ 'fiftyTwoWeekHigh': 47.33,
+ 'fiftyTwoWeekLow': 14.44,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 22682001,
+ 'forwardEps': 2.32,
+ 'forwardPE': 7.349138,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 14700,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.016590001,
+ 'heldPercentInstitutions': 0.97533,
+ 'industry': 'Specialty Business Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1200614400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/spplus.com',
+ 'longBusinessSummary': 'SP Plus Corporation provides parking management, '
+                        'ground transportation, baggage, and other ancillary '
+                        'services in North America. It provides on-site '
+                        'parking management, valet parking, ground '
+                        'transportation, facility maintenance, event '
+                        'logistics, baggage handling, remote airline check-in, '
+                        'security, municipal meter revenue collection and '
+                        'enforcement, and consulting services. The company '
+                        'also offers shuttle bus vehicles and the drivers; '
+                        'ground transportation services, such as taxi and '
+                        'livery dispatch, concierge-type ground transportation '
+                        'information, and support services for arriving '
+                        'passengers; remote airline check-in services; '
+                        'wheelchair assist services; baggage repair and '
+                        'replacement services; on-street parking meter '
+                        'collection and other forms of parking enforcement '
+                        'services; valet services; and remote parking '
+                        'management services. In addition, it provides '
+                        'facility maintenance services, including power '
+                        'sweeping and washing, painting and general repairs, '
+                        'and cleaning and seasonal services; security services '
+                        'comprising training and hiring of security officers '
+                        'and patrol, as well as customized services and '
+                        'technology; and multi-platform marketing services. '
+                        'The company offers its services primarily under the '
+                        'SP+ and Bags brands. SP Plus Corporation serves '
+                        'private and public owners, municipalities and '
+                        'governments, managers and developers of office '
+                        'buildings, residential properties, commercial '
+                        'properties, shopping centers and other retail '
+                        'properties, healthcare facilities and medical '
+                        'centers, sports and special event complexes, hotels '
+                        'and resorts, and airlines and cruise lines. The '
+                        'company was formerly known as Standard Parking '
+                        'Corporation and changed its name to SP Plus '
+                        'Corporation in December 2013. SP Plus Corporation was '
+                        'founded in 1929 and is based in Chicago, Illinois.',
+ 'longName': 'SP Plus Corporation',
+ 'market': 'us_market',
+ 'marketCap': 392100544,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_120285',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -7900000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 17.64,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.18,
+ 'phone': '312 274 2000',
+ 'previousClose': 17.6,
+ 'priceHint': 2,
+ 'priceToBook': 1.2780151,
+ 'priceToSalesTrailing12Months': 0.42481098,
+ 'profitMargins': -0.00856,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.27,
+ 'regularMarketDayLow': 16.94,
+ 'regularMarketOpen': 17.64,
+ 'regularMarketPreviousClose': 17.6,
+ 'regularMarketPrice': 17.64,
+ 'regularMarketVolume': 114955,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 22997100,
+ 'sharesPercentSharesOut': 0.0311,
+ 'sharesShort': 714286,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 627730,
+ 'shortName': 'SP Plus Corporation',
+ 'shortPercentOfFloat': 0.0313,
+ 'shortRatio': 4.03,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'SP',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.364,
+ 'twoHundredDayAverage': 26.956331,
+ 'volume': 114955,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.spplus.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60601-7702'}

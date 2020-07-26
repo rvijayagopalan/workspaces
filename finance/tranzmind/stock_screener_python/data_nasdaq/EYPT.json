@@ -1,0 +1,155 @@
+{'52WeekChange': -0.48951727,
+ 'SandP52WeekChange': None,
+ 'address1': '480 Pleasant Street',
+ 'address2': 'Suite B300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 0.76,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 394637,
+ 'averageVolume': 870868,
+ 'averageVolume10days': 394637,
+ 'beta': 1.35014,
+ 'beta3Year': None,
+ 'bid': 0.7222,
+ 'bidSize': 1100,
+ 'bookValue': 0.132,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Watertown',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 0.759,
+ 'dayLow': 0.7222,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -2.753,
+ 'enterpriseToRevenue': 4.48,
+ 'enterpriseValue': 115781640,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '617-926-5050',
+ 'fiftyDayAverage': 0.7854286,
+ 'fiftyTwoWeekHigh': 2.69,
+ 'fiftyTwoWeekLow': 0.66,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 81456416,
+ 'forwardEps': 0.12,
+ 'forwardPE': 6.0800004,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 84,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00823,
+ 'heldPercentInstitutions': 0.53744,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1213142400,
+ 'lastSplitFactor': '1:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/eyepointpharma.com',
+ 'longBusinessSummary': 'EyePoint Pharmaceuticals, Inc., a specialty '
+                        'biopharmaceutical company, develops and '
+                        'commercializes ophthalmic products for the treatment '
+                        'of eye diseases in the United States and Europe. The '
+                        'company provides ILUVIEN for the treatment of '
+                        'diabetic macular edema; YUTIQ, a fluocinolone '
+                        'acetonide intravitreal implant for intravitreal '
+                        'injection for the treatment of chronic non-infectious '
+                        'uveitis affecting the posterior segment of the eye; '
+                        'DEXYCU, a dexamethasone intraocular suspension, for '
+                        'the treatment of post-operative ocular inflammation, '
+                        'including treatment following cataract surgery; and '
+                        'Retisert, a sustained-release implant for the '
+                        'treatment of posterior segment uveitis. It is also '
+                        'developing EYP-1901, a 6-month bioerodible Durasert '
+                        'Vorolanib tyrosine kinase inhibitor, for the '
+                        'treatment of wet age-related macular degeneration, '
+                        'diabetic retinopathy, and retinal vein occlusion; and '
+                        'YUTIQ50 for the treatment of chronic non-infectious '
+                        'uveitis affecting the posterior segment of the eye. '
+                        "In addition, the company's development program "
+                        'focuses on developing sustained release products '
+                        'using its Durasert and Verisome technology platforms '
+                        'to deliver drugs to treat chronic diseases. It has '
+                        'strategic collaborations with Alimera Sciences, Inc., '
+                        'Bausch & Lomb, OncoSil Medical UK Limited, Ocumension '
+                        'Therapeutics, and Equinox Science, LLC. The company '
+                        'was formerly known as pSivida Corp. and changed its '
+                        'name to EyePoint Pharmaceuticals, Inc. in March 2018. '
+                        'EyePoint Pharmaceuticals, Inc. was founded in 1987 '
+                        'and is headquartered in Watertown, Massachusetts.',
+ 'longName': 'EyePoint Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 91011768,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4481199',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -50729000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 0.7402,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '617-926-5000',
+ 'previousClose': 0.7402,
+ 'priceHint': 4,
+ 'priceToBook': 5.5272727,
+ 'priceToSalesTrailing12Months': 3.5218546,
+ 'profitMargins': -1.96304,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 0.759,
+ 'regularMarketDayLow': 0.7222,
+ 'regularMarketOpen': 0.7402,
+ 'regularMarketPreviousClose': 0.7402,
+ 'regularMarketPrice': 0.7402,
+ 'regularMarketVolume': 205045,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 124742000,
+ 'sharesPercentSharesOut': 0.0215,
+ 'sharesShort': 2680169,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2853940,
+ 'shortName': 'EyePoint Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.0327,
+ 'shortRatio': 1.55,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'EYPT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.464,
+ 'twoHundredDayAverage': 1.108633,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '564ca7d9-104b-3085-b6a2-17354e99fc88',
+ 'volume': 205045,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://eyepointpharma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02472'}

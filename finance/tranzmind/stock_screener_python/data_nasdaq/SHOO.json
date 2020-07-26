@@ -1,0 +1,160 @@
+{'52WeekChange': -0.33234507,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '52-16 Barnett Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.5,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 676925,
+ 'averageVolume': 865977,
+ 'averageVolume10days': 676925,
+ 'beta': 1.139495,
+ 'beta3Year': None,
+ 'bid': 21.51,
+ 'bidSize': 1800,
+ 'bookValue': 9.166,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Long Island City',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.26,
+ 'dayLow': 22.43,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 10.436,
+ 'enterpriseToRevenue': 1.056,
+ 'enterpriseValue': 1827444864,
+ 'exDividendDate': 1584316800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 23.609715,
+ 'fiftyTwoWeekHigh': 44.8,
+ 'fiftyTwoWeekLow': 16.38,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 76888540,
+ 'forwardEps': 1.49,
+ 'forwardPE': 15.114094,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2500,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.095369995,
+ 'heldPercentInstitutions': 0.9405,
+ 'industry': 'Footwear & Accessories',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1539302400,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/stevemadden.com',
+ 'longBusinessSummary': 'Steven Madden, Ltd. designs, sources, markets, and '
+                        'sells fashion-forward name brand and private label '
+                        'footwear for women, men, and children in the United '
+                        'States and internationally. Its Wholesale Footwear '
+                        'segment provides footwear under the Steve Madden '
+                        "Women's, Madden Girl, Steve Madden Men's, Madden, "
+                        'Madden NYC, Report, Dolce Vita, DV by Dolce Vita, Mad '
+                        'Love, Steven by Steve Madden, Superga, Betsey '
+                        'Johnson, Betseyville, Steve Madden Kids, Stevies, '
+                        'GREATS, Blondo, and Anne Klein brands, as well as '
+                        "private label footwear. The company's Wholesale "
+                        'Accessories segment offers Steve Madden, Steven by '
+                        'Steve Madden, Madden Girl, Betsey Johnson, Madden '
+                        'NYC, Big Buddha, DKNY, Anne Klein, Jocelyn, Luv '
+                        'Betsey, BB Dakota, Cupcakes & Cashmere, and '
+                        'accessories brands; private label fashion handbags '
+                        'and accessories to department stores, mass merchants, '
+                        'value priced retailers, online retailers, and '
+                        'specialty stores; and cold weather accessories, '
+                        'fashion scarves, wraps, and other trend accessories '
+                        'primarily under the Steve Madden, BB Dakota, Cejon, '
+                        'Betsey Johnson, and Big Buddha brand names, as well '
+                        'as private labels to department stores and specialty '
+                        'stores. Its Retail segment operates Steve Madden, '
+                        'Steven, Superga, GREATS, and International retail '
+                        'stores, as well as Steve Madden, Superga, Betsey '
+                        'Johnson, Blondo, Dolce Vita, BB Dakota, and Jocelyn '
+                        "e-commerce websites. The company's Licensing segment "
+                        'licenses its Steve Madden, Steven by Steve Madden, '
+                        'Madden Girl, and FREEBIRD by Steven trademarks. Its '
+                        'First Cost segment operates as a buying agent for '
+                        'footwear products under private labels for '
+                        'mass-market merchandisers, shoe chains, and other '
+                        'mid-tier retailers. As of December 31, 2019, it owned '
+                        'and operated 227 retail stores, including 146 Steve '
+                        'Madden full-price stores, 68 Steve Madden outlet '
+                        'stores, 2 Steven stores, 2 GREATS stores, and 1 '
+                        'Superga store, as well as 8 e-commerce websites. '
+                        'Steven Madden, Ltd. was founded in 1990 and is '
+                        'headquartered in Long Island City, New York.',
+ 'longName': 'Steven Madden, Ltd.',
+ 'market': 'us_market',
+ 'marketCap': 1872632576,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_347145',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 89335000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 23.1,
+ 'openInterest': None,
+ 'payoutRatio': 0.5472,
+ 'pegRatio': 5.23,
+ 'phone': '718 446 1800',
+ 'previousClose': 23,
+ 'priceHint': 2,
+ 'priceToBook': 2.4569058,
+ 'priceToSalesTrailing12Months': 1.0821108,
+ 'profitMargins': 0.051620003,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.26,
+ 'regularMarketDayLow': 22.43,
+ 'regularMarketOpen': 23.1,
+ 'regularMarketPreviousClose': 23,
+ 'regularMarketPrice': 23.1,
+ 'regularMarketVolume': 545552,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 83154200,
+ 'sharesPercentSharesOut': 0.0545,
+ 'sharesShort': 4534806,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2902820,
+ 'shortName': 'Steven Madden, Ltd.',
+ 'shortPercentOfFloat': 0.069299996,
+ 'shortRatio': 4.97,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'SHOO',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.58,
+ 'trailingAnnualDividendYield': 0.02521739,
+ 'trailingEps': 1.087,
+ 'trailingPE': 20.717571,
+ 'twoHundredDayAverage': 27.907625,
+ 'volume': 545552,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.stevemadden.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '11104'}

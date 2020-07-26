@@ -1,0 +1,157 @@
+{'52WeekChange': -0.019099355,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '228 Strawbridge Drive',
+ 'address2': 'Suite 100',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 56,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 204037,
+ 'averageVolume': 319898,
+ 'averageVolume10days': 204037,
+ 'beta': 1.146798,
+ 'beta3Year': None,
+ 'bid': 54.91,
+ 'bidSize': 800,
+ 'bookValue': 8.343,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Moorestown',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 56.99,
+ 'dayLow': 54.43,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 639.984,
+ 'enterpriseToRevenue': 4.832,
+ 'enterpriseValue': 1432923904,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 56.94143,
+ 'fiftyTwoWeekHigh': 69.72,
+ 'fiftyTwoWeekLow': 33.04,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 19679104,
+ 'forwardEps': 0.98,
+ 'forwardPE': 57.122448,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1286,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.090959996,
+ 'heldPercentInstitutions': 1.16137,
+ 'industry': 'Health Information Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/tabularasahealthcare.com',
+ 'longBusinessSummary': 'Tabula Rasa HealthCare, Inc. operates as a healthcare '
+                        'technology company in the field of medication safety '
+                        "in the United States. The company's proprietary "
+                        'Medication Risk Mitigation Matrix delivers a '
+                        'multi-drug review, which identifies '
+                        'medication-related risks. Its cloud-based software '
+                        'applications include EireneRx, a medication '
+                        'decision-support and e-prescribing platform to access '
+                        "patients' medication-related information; and MedWise "
+                        'that provides medication decision support components '
+                        'for clients seeking to manage their medication risk '
+                        'and improve medication outcomes, and patient '
+                        'relationships by enhancing their existing systems. '
+                        "The company's cloud-based software also comprise "
+                        'RxCompanion, an MTM software platform designed to aid '
+                        'in the identification and resolution of medication '
+                        'and other health related problems.; TruChart, an '
+                        'electronic health record (EHR) system for Programs of '
+                        'All-Inclusive Care for the Elderly (PACE) programs; '
+                        'and PACElogic, which deliver real-time sharable '
+                        'workflows comprising EHR, customer relationship '
+                        'management, claims adjudication, electronic data '
+                        'interchange, care management, coordination, planning, '
+                        'integration with community-based providers, and '
+                        'various Federal and State required reporting. Tabula '
+                        'Rasa HealthCare, Inc. also offers clinical pharmacist '
+                        'collaboration, prescription fulfillment and reminder '
+                        'packaging, and pharmacy cost management services, as '
+                        'well as health plan management services, including '
+                        'risk adjustment and third party administrator '
+                        'services. As of December 31, 2019, it served 237 '
+                        'healthcare organizations. The company offers its '
+                        'cloud-based software solutions to prescribers, '
+                        'pharmacists, pharmacies, and healthcare organizations '
+                        'for managing the medication-related needs of '
+                        'patients. Tabula Rasa HealthCare, Inc. was founded in '
+                        '2009 and is headquartered in Moorestown, New Jersey.',
+ 'longName': 'Tabula Rasa HealthCare, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1288710016,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_280866057',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -35894000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 55.97,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.6,
+ 'phone': '866 648 2767',
+ 'previousClose': 56.97,
+ 'priceHint': 2,
+ 'priceToBook': 6.7098165,
+ 'priceToSalesTrailing12Months': 4.345309,
+ 'profitMargins': -0.121029995,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 56.99,
+ 'regularMarketDayLow': 54.43,
+ 'regularMarketOpen': 55.97,
+ 'regularMarketPreviousClose': 56.97,
+ 'regularMarketPrice': 55.97,
+ 'regularMarketVolume': 146519,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 23020900,
+ 'sharesPercentSharesOut': 0.2855,
+ 'sharesShort': 6571318,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5821102,
+ 'shortName': 'Tabula Rasa HealthCare, Inc.',
+ 'shortPercentOfFloat': 0.3675,
+ 'shortRatio': 21.28,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'TRHC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.72,
+ 'twoHundredDayAverage': 56.002483,
+ 'volume': 146519,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.tabularasahealthcare.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '08057'}

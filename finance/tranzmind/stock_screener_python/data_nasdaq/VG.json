@@ -1,0 +1,150 @@
+{'52WeekChange': -0.07320994,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '23 Main Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.71,
+ 'askSize': 4000,
+ 'averageDailyVolume10Day': 2082587,
+ 'averageVolume': 3253806,
+ 'averageVolume10days': 2082587,
+ 'beta': 0.546778,
+ 'beta3Year': None,
+ 'bid': 11.5,
+ 'bidSize': 4000,
+ 'bookValue': 2.197,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Holmdel',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.62,
+ 'dayLow': 11.455,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 34.025,
+ 'enterpriseToRevenue': 2.79,
+ 'enterpriseValue': 3367887360,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.372857,
+ 'fiftyTwoWeekHigh': 13.75,
+ 'fiftyTwoWeekLow': 4.18,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 229294099,
+ 'forwardEps': 0.16,
+ 'forwardPE': 71.96875,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2264,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.052810002,
+ 'heldPercentInstitutions': 0.92019,
+ 'industry': 'Telecom Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/vonage.com',
+ 'longBusinessSummary': 'Vonage Holdings Corp. provides cloud communications '
+                        'services for businesses and consumers. It operates '
+                        'through two segments, Business and Consumer. The '
+                        'Business segment offers cloud-based applications '
+                        'comprising integrated voice, text, video, data, '
+                        'collaboration, and mobile applications over SIP based '
+                        'VoIP network; API solutions designed to enhance the '
+                        'way businesses communicate with their customers by '
+                        'embedding communications into apps, websites, and '
+                        'business processes; and Vonage Business Cloud and '
+                        'Vonage Enterprise services. The Consumer segment '
+                        'provides home telephone services through various '
+                        'service plans with basic features, including '
+                        'voicemail, call waiting, call forwarding, simulring, '
+                        'visual voicemail, and extensions, as well as area '
+                        'code selection, virtual phone number, and Web-enabled '
+                        'voicemail. It also offers Vonage World and Vonage '
+                        'North America consumer plans. In addition, the '
+                        'company provides Vonage-enabled devices, which allow '
+                        'customers to use the Internet connection for their '
+                        'computer and telephones at the same time; and '
+                        'high-speed broadband Internet service that allows '
+                        'calls over the Internet either from a telephone '
+                        'through a Vonage-enabled device, or through soft '
+                        'phone software, or mobile client applications. Vonage '
+                        'Holdings Corp. sells its products through its sales '
+                        'agents, Websites, and toll free numbers for consumers '
+                        'and businesses in the United States, Canada, the '
+                        'United Kingdom, the European Union, and Asia. Vonage '
+                        'Holdings Corp. was incorporated in 2000 and is '
+                        'headquartered in Holmdel, New Jersey.',
+ 'longName': 'Vonage Holdings Corp.',
+ 'market': 'us_market',
+ 'marketCap': 2825412608,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_838923',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -22703000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 11.58,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 7.28,
+ 'phone': '732-528-2600',
+ 'previousClose': 11.65,
+ 'priceHint': 2,
+ 'priceToBook': 5.241238,
+ 'priceToSalesTrailing12Months': 2.3403475,
+ 'profitMargins': -0.01881,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.62,
+ 'regularMarketDayLow': 11.455,
+ 'regularMarketOpen': 11.58,
+ 'regularMarketPreviousClose': 11.65,
+ 'regularMarketPrice': 11.58,
+ 'regularMarketVolume': 1789815,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 245368000,
+ 'sharesPercentSharesOut': 0.059,
+ 'sharesShort': 14478940,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 10388753,
+ 'shortName': 'Vonage Holdings Corp.',
+ 'shortPercentOfFloat': 0.0722,
+ 'shortRatio': 4.16,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'VG',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.094,
+ 'twoHundredDayAverage': 8.881223,
+ 'volume': 1789815,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.vonage.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07733'}

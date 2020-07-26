@@ -1,0 +1,156 @@
+{'52WeekChange': 0.26862133,
+ 'SandP52WeekChange': None,
+ 'address1': '1801 Augustine Cut-Off',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 99.51,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1313612,
+ 'averageVolume': 1540185,
+ 'averageVolume10days': 1313612,
+ 'beta': 1.036414,
+ 'beta3Year': None,
+ 'bid': 99.47,
+ 'bidSize': 800,
+ 'bookValue': 8.932,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Wilmington',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 101.42,
+ 'dayLow': 98.29,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -77.622,
+ 'enterpriseToRevenue': 9.142,
+ 'enterpriseValue': 20380241920,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 101.75686,
+ 'fiftyTwoWeekHigh': 110.37,
+ 'fiftyTwoWeekLow': 62.48,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 183513191,
+ 'forwardEps': 3.86,
+ 'forwardPE': 25.756477,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1456,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00656,
+ 'heldPercentInstitutions': 0.92403,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 967766400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/incyte.com',
+ 'longBusinessSummary': 'Incyte Corporation, a biopharmaceutical company, '
+                        'focuses on the discovery, development, and '
+                        'commercialization of various therapeutics in the '
+                        'United States. The company offers JAKAFI, a drug for '
+                        'the treatment of myelofibrosis and polycythemia vera '
+                        'cancers; and Iclusig, a kinase inhibitor to treat '
+                        'chronic myeloid leukemia and philadelphia-chromosome '
+                        'positive acute lymphoblastic leukemia. Its clinical '
+                        'stage products include ruxolitinib, a drug in Phase '
+                        'III clinical trial for steroid-refractory chronic '
+                        'graft-versus-host-diseases (GVHD); and Phase II trial '
+                        'for the treatment of essential thrombocythemia and '
+                        'refractory myelofibrosis. In addition, the company '
+                        'engages in the development of itacitinib, which is in '
+                        'Phase III clinical trial to treat naïve chronic '
+                        'GVHD; and pemigatinib that is in Phase II clinical '
+                        'trial for treating bladder cancer, '
+                        'cholangiocarcinoma, 8p11 myeloproliferative syndrome, '
+                        'and Tumor agnostic. Further, it is involved in '
+                        'developing Parsaclisib, which is in Phase II clinical '
+                        'trial for follicular lymphoma, marginal zone '
+                        'lymphoma, and mantel cell lymphoma. Additionally, the '
+                        'company develops INCMGA0012 that is in Phase II '
+                        'clinical trials for MSI-high endometrial cancer, '
+                        'merkel cell carcinoma, and anal cancer, as well as in '
+                        'Phase II clinical trials non-small cell lung cancer. '
+                        'It has collaboration agreements with Novartis '
+                        'International Pharmaceutical Ltd.; Eli Lilly and '
+                        'Company; Agenus Inc.; Merus N.V.; Calithera '
+                        'Biosciences, Inc; MacroGenics, Inc.; Merus N.V.; '
+                        'MorphoSys AG; Syros Pharmaceuticals, Inc.; Innovent '
+                        'Biologics, Inc.; and Zai Lab Limited. The company was '
+                        'founded in 1991 and is headquartered in Wilmington, '
+                        'Delaware.',
+ 'longName': 'Incyte Corporation',
+ 'market': 'us_market',
+ 'marketCap': 21611223040,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_332954',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -376048000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 100.72,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -11.86,
+ 'phone': '302 498 6700',
+ 'previousClose': 101.68,
+ 'priceHint': 2,
+ 'priceToBook': 11.130765,
+ 'priceToSalesTrailing12Months': 9.693701,
+ 'profitMargins': -0.16868,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 101.42,
+ 'regularMarketDayLow': 98.29,
+ 'regularMarketOpen': 100.72,
+ 'regularMarketPreviousClose': 101.68,
+ 'regularMarketPrice': 100.72,
+ 'regularMarketVolume': 800414,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 217372992,
+ 'sharesPercentSharesOut': 0.032,
+ 'sharesShort': 6945457,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7017355,
+ 'shortName': 'Incyte Corporation',
+ 'shortPercentOfFloat': 0.0378,
+ 'shortRatio': 4.39,
+ 'startDate': None,
+ 'state': 'DE',
+ 'strikePrice': None,
+ 'symbol': 'INCY',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.751,
+ 'twoHundredDayAverage': 88.47734,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '72960770-e83b-3ec3-92c6-dbd8ced339a4',
+ 'volume': 800414,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.incyte.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '19803'}

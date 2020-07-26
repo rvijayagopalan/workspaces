@@ -1,0 +1,155 @@
+{'52WeekChange': -0.22789669,
+ 'SandP52WeekChange': None,
+ 'address1': '245 Park Avenue',
+ 'address2': '44th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.07,
+ 'askSize': 3200,
+ 'averageDailyVolume10Day': 1879050,
+ 'averageVolume': 2576753,
+ 'averageVolume10days': 1879050,
+ 'beta': 1.203921,
+ 'beta3Year': None,
+ 'bid': 13.77,
+ 'bidSize': 3100,
+ 'bookValue': 15.563,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.14,
+ 'dayLow': 13.76,
+ 'dividendRate': 1.6,
+ 'dividendYield': 0.11350001,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 9.03,
+ 'enterpriseValue': 13761206272,
+ 'exDividendDate': 1591920000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '212-750-1777',
+ 'fiftyDayAverage': 14.532286,
+ 'fiftyTwoWeekHigh': 19.33,
+ 'fiftyTwoWeekLow': 7.9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 9.56,
+ 'floatShares': None,
+ 'forwardEps': 1.67,
+ 'forwardPE': 8.245509,
+ 'fromCurrency': None,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00565,
+ 'heldPercentInstitutions': 0.36163,
+ 'industry': 'Asset Management',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/arescapitalcorp.com',
+ 'longBusinessSummary': 'Ares Capital Corporation is a business development '
+                        'company specializing in acquisition, '
+                        'recapitalization, mezzanine debt, restructurings, '
+                        'rescue financing, and leveraged buyout transactions '
+                        'of middle market companies. It also makes growth '
+                        'capital and general refinancing. It prefers to make '
+                        'investments in companies engaged in the basic and '
+                        'growth manufacturing, business services, consumer '
+                        'products, health care products and services, and '
+                        'information technology service sectors. The fund will '
+                        'also consider investments in industries such as '
+                        'restaurants, retail, oil and gas, and technology '
+                        'sectors. It focuses on investments in Northeast, '
+                        'Mid-Atlantic, Southeast and Southwest regions from '
+                        'its New York office, the Midwest region, from the '
+                        'Chicago office, and the Western region from the Los '
+                        'Angeles office. The fund typically invests between '
+                        '$20 million and $200 million and a maximum of $400 '
+                        'million in companies with an EBITDA between $10 '
+                        'million and $250 million. It makes debt investments '
+                        'between $10 million and $100 million The fund invests '
+                        'through revolvers, first lien loans, warrants, '
+                        'unitranche structures, second lien loans, mezzanine '
+                        'debt, private high yield, junior capital, '
+                        'subordinated debt, and non-control preferred and '
+                        'common equity. The fund also selectively considers '
+                        'third-party-led senior and subordinated debt '
+                        'financings and opportunistically considers the '
+                        'purchase of stressed and discounted debt positions. '
+                        'The fund prefers to be an agent and/or lead the '
+                        'transactions in which it invests. The fund also seeks '
+                        'board representation in its portfolio companies.',
+ 'longName': 'Ares Capital Corporation',
+ 'market': 'us_market',
+ 'marketCap': 5819505152,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_9771238',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -33000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.06,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 2.97,
+ 'phone': '212-750-7300',
+ 'previousClose': 14.06,
+ 'priceHint': 2,
+ 'priceToBook': 0.8847909,
+ 'priceToSalesTrailing12Months': 3.818573,
+ 'profitMargins': -0.02165,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.14,
+ 'regularMarketDayLow': 13.76,
+ 'regularMarketOpen': 14.06,
+ 'regularMarketPreviousClose': 14.06,
+ 'regularMarketPrice': 14.06,
+ 'regularMarketVolume': 1725406,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 422622016,
+ 'sharesPercentSharesOut': 0.0172,
+ 'sharesShort': 7270697,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7165916,
+ 'shortName': 'Ares Capital Corporation - Clos',
+ 'shortPercentOfFloat': 0.0173,
+ 'shortRatio': 2.62,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'ARCC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.6,
+ 'trailingAnnualDividendYield': 0.11379801,
+ 'trailingEps': -0.077,
+ 'twoHundredDayAverage': 14.966115,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b5ecd6c1-82ff-3676-876d-1f35fcecacda',
+ 'volume': 1725406,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.arescapitalcorp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10167'}

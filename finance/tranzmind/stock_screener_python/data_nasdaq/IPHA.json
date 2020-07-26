@@ -1,0 +1,156 @@
+{'52WeekChange': 'Infinity',
+ 'SandP52WeekChange': None,
+ 'address1': '117 Avenue de Luminy',
+ 'address2': 'BP 30191',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 6.53,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 3887,
+ 'averageVolume': 8269,
+ 'averageVolume10days': 3887,
+ 'beta': -0.175581,
+ 'beta3Year': None,
+ 'bid': 6.39,
+ 'bidSize': 1800,
+ 'bookValue': None,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Marseille',
+ 'companyOfficers': [],
+ 'country': 'France',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 6.4,
+ 'dayLow': 6.36,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 501212800,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 6.3546286,
+ 'fiftyTwoWeekHigh': 8.24,
+ 'fiftyTwoWeekLow': 3.3,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 48514406,
+ 'forwardEps': 0.45,
+ 'forwardPE': 14.222223,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 235,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01559,
+ 'heldPercentInstitutions': 0.09909,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/innate-pharma.com',
+ 'longBusinessSummary': 'Innate Pharma S.A., a biotechnology company, '
+                        'discovers and develops therapeutic antibodies for the '
+                        'treatment of oncology indications in France and '
+                        "internationally. The company's products include "
+                        'Monalizumab, an immune checkpoint inhibitor that is '
+                        'in Phase II clinical trial to treat advanced solid '
+                        'tumors comprising colorectal cancer, as well as head '
+                        'and neck cancer; Anti-Siglec-9, checkpoint inhibitor '
+                        'program, which is in preclinical stage for '
+                        'immuno-oncology; Lumoxiti (moxetumomab '
+                        'pasudotox-tdfk), a tumor antigen targeting solution '
+                        'for the treatment of hairy cell leukemia; and '
+                        'Lacutamab (IPH4102), an anti-KIR3DL2 humanized '
+                        'cytotoxicity-inducing antibody, which is in Phase II '
+                        'clinical trial for the treatment of cutaneous T-cell '
+                        'lymphoma. Its products also include IPH61, a '
+                        'bispecific NK cell engager, a preclinical solution '
+                        'for the generation and evaluation of up to two '
+                        'bispecific NK cell engagers; IPH43, a program that is '
+                        'in preclinical trial to develop anti-MICA/B '
+                        'therapeutic antibody in oncology; '
+                        'Avdoralimab/IPH5401, a therapeutic antibody, which is '
+                        'in Phase II clinical trial that binds and blocks C5a '
+                        'receptors expressed on subsets of myeloid-derived '
+                        'suppressor cells and neutrophils; IPH5201, a blocking '
+                        'antibody that is in Phase I clinical trial targeting '
+                        'the CD39 immunosuppressive pathway; and IPH5301, a '
+                        'CD-73-blocking antibody that is in preclinical trial '
+                        'for restoring a pro-inflammatory microenvironment. '
+                        'Innate Pharma S.A. has licensing and collaboration '
+                        'agreements with AstraZeneca, Novo Nordisk A/S, and '
+                        'Sanofi; and co-development and license agreement with '
+                        'MedImmune. The company was founded in 1999 and is '
+                        'headquartered in Marseille, France.',
+ 'longName': 'Innate Pharma S.A.',
+ 'market': 'us_market',
+ 'marketCap': 498737248,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_426137',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1577750400,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 6.3822,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '33 4 30 30 30 30',
+ 'previousClose': 6.42,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': -0.24191,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 6.4,
+ 'regularMarketDayLow': 6.36,
+ 'regularMarketOpen': 6.3822,
+ 'regularMarketPreviousClose': 6.42,
+ 'regularMarketPrice': 6.3822,
+ 'regularMarketVolume': 1527,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 78879696,
+ 'sharesPercentSharesOut': 0.0002,
+ 'sharesShort': 13851,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 18208,
+ 'shortName': 'Innate Pharma S.A.',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 2.25,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'IPHA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': None,
+ 'twoHundredDayAverage': 6.657705,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '95b2a86c-03b1-3402-a4e5-5bdc8b44e164',
+ 'volume': 1527,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.innate-pharma.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '13009'}

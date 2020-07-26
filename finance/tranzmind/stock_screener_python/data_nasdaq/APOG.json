@@ -1,0 +1,158 @@
+{'52WeekChange': -0.4431818,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '4400 West 78th Street',
+ 'address2': 'Suite 520',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 22.52,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 226200,
+ 'averageVolume': 313930,
+ 'averageVolume10days': 226200,
+ 'beta': 1.435294,
+ 'beta3Year': None,
+ 'bid': 22.5,
+ 'bidSize': 1100,
+ 'bookValue': 19.119,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Minneapolis',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.65,
+ 'dayLow': 22.5,
+ 'dividendRate': 0.75,
+ 'dividendYield': 0.0318,
+ 'earningsQuarterlyGrowth': -0.814,
+ 'enterpriseToEbitda': 8.082,
+ 'enterpriseToRevenue': 0.639,
+ 'enterpriseValue': 844619328,
+ 'exDividendDate': 1594598400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 22.79857,
+ 'fiftyTwoWeekHigh': 46.7,
+ 'fiftyTwoWeekLow': 13.77,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.46,
+ 'floatShares': 25507458,
+ 'forwardEps': 2.4,
+ 'forwardPE': 9.391666,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03143,
+ 'heldPercentInstitutions': 0.90662,
+ 'industry': 'Building Products & Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1582934400,
+ 'lastMarket': None,
+ 'lastSplitDate': 856224000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/apog.com',
+ 'longBusinessSummary': 'Apogee Enterprises, Inc. designs and develops glass '
+                        'and metal products and services in the United States, '
+                        'Canada, and Brazil. The company operates in four '
+                        'segments: Architectural Framing Systems, '
+                        'Architectural Glass, Architectural Services, and '
+                        'Large-Scale Optical Technologies (LSO). The '
+                        'Architectural Framing Systems segment designs, '
+                        'engineers, fabricates, and finishes the aluminum '
+                        'frames used in customized aluminum and glass window; '
+                        'curtain wall; storefront; and entrance systems, such '
+                        'as the outside skin and entrances of commercial, '
+                        'institutional, and multi-family residential '
+                        'buildings. The Architectural Glass segment fabricates '
+                        'coated and high-performance glass used in customized '
+                        'window and wall systems, including the outside skin '
+                        'of commercial, institutional, and multi-family '
+                        'residential buildings. The Architectural Services '
+                        'segment offers full-service installation of the walls '
+                        'of glass, windows, and other curtain wall products '
+                        'making up the outside skin of commercial and '
+                        'institutional buildings. The LSO segment manufactures '
+                        'value-added glass and acrylic products for framing '
+                        "and display applications. The company's products and "
+                        'services are primarily used in commercial buildings, '
+                        'such as office towers, hotels, and retail centers; '
+                        'and institutional buildings comprising education '
+                        'facilities, health care facilities, and government '
+                        'buildings, as well as multi-family residential '
+                        'buildings. It markets its architectural products and '
+                        'services through direct sales force, independent '
+                        'sales representatives, and distributors to glazing '
+                        'subcontractors and general contractors; and '
+                        'value-added glass and acrylics through retail chains, '
+                        'picture-framing shops, and independent distributors '
+                        'to museums, shops, and galleries. The company was '
+                        'founded in 1949 and is based in Minneapolis, '
+                        'Minnesota.',
+ 'longName': 'Apogee Enterprises, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 594080064,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_251050',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1590796800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 49347000,
+ 'nextFiscalYearEnd': 1646092800,
+ 'open': 23.53,
+ 'openInterest': None,
+ 'payoutRatio': 0.39189997,
+ 'pegRatio': 0.89,
+ 'phone': '952 835 1874',
+ 'previousClose': 23.56,
+ 'priceHint': 2,
+ 'priceToBook': 1.1789321,
+ 'priceToSalesTrailing12Months': 0.44966242,
+ 'profitMargins': 0.03735,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.65,
+ 'regularMarketDayLow': 22.5,
+ 'regularMarketOpen': 23.53,
+ 'regularMarketPreviousClose': 23.56,
+ 'regularMarketPrice': 23.53,
+ 'regularMarketVolume': 156354,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 26356700,
+ 'sharesPercentSharesOut': 0.0652,
+ 'sharesShort': 1718338,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1220761,
+ 'shortName': 'Apogee Enterprises, Inc.',
+ 'shortPercentOfFloat': 0.092,
+ 'shortRatio': 4.97,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'APOG',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.725,
+ 'trailingAnnualDividendYield': 0.030772498,
+ 'trailingEps': 1.854,
+ 'trailingPE': 12.157498,
+ 'twoHundredDayAverage': 24.355684,
+ 'volume': 156354,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.apog.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '55435'}

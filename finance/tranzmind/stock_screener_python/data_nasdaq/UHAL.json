@@ -1,0 +1,160 @@
+{'52WeekChange': -0.17549431,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '5555 Kietzke Lane',
+ 'address2': 'Suite 100',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 350,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 32575,
+ 'averageVolume': 56887,
+ 'averageVolume10days': 32575,
+ 'beta': 0.638095,
+ 'beta3Year': None,
+ 'bid': 180,
+ 'bidSize': 800,
+ 'bookValue': 223.009,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Reno',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 320.4,
+ 'dayLow': 315,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 146.254,
+ 'enterpriseToEbitda': 8.693,
+ 'enterpriseToRevenue': 2.586,
+ 'enterpriseValue': 10287880192,
+ 'exDividendDate': 1576627200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 309.20572,
+ 'fiftyTwoWeekHigh': 426.5,
+ 'fiftyTwoWeekLow': 222.34,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 8925465,
+ 'forwardEps': 17.9,
+ 'forwardPE': 17.679888,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 14400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.5465,
+ 'heldPercentInstitutions': 0.387,
+ 'industry': 'Rental & Leasing Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/amerco.com',
+ 'longBusinessSummary': 'AMERCO operates as a do-it-yourself moving and '
+                        'storage operator for household and commercial goods '
+                        "in the United States and Canada. The company's Moving "
+                        'and Storage segment rents trucks, trailers, portable '
+                        'moving and storage units, specialty rental items, and '
+                        'self-storage spaces primarily to the household '
+                        'movers; and sells moving supplies, towing '
+                        'accessories, and propane. It also provides uhaul.com, '
+                        'an online marketplace that connects consumers to '
+                        'independent Moving Help service providers and '
+                        'independent self-storage affiliates; auto transport '
+                        'and tow dolly options to transport vehicles; and '
+                        'specialty boxes for dishes, computers, and sensitive '
+                        'electronic equipment, as well as tapes, security '
+                        'locks, and packing supplies. This segment rents its '
+                        'products and services through a network of '
+                        'approximately 2,065 company operated retail moving '
+                        'stores and 20,100 independent U-Haul dealers. As of '
+                        'March 31, 2020, it had a rental fleet of '
+                        'approximately 176,000 trucks, 127,000 trailers, and '
+                        '41,000 towing devices; and 1,745 self-storage '
+                        'locations with approximately 774,000 rentable storage '
+                        "units. The company's Property and Casualty Insurance "
+                        'segment offers loss adjusting and claims handling '
+                        'services. It also provides moving and storage '
+                        'protection packages, such as Safemove and Safetow '
+                        'packages, which offer moving and towing customers '
+                        'with a damage waiver, cargo protection, and medical '
+                        'and life insurance coverage; Safestor that protects '
+                        'storage customers from loss on their goods in '
+                        'storage; Safestor Mobile, which protects customers '
+                        'stored belongings; and Safemove Plus, which provides '
+                        'rental customers with a layer of primary liability '
+                        "protection. The company's Life Insurance segment "
+                        'provides life and health insurance products primarily '
+                        'to the senior market through the direct writing and '
+                        'reinsuring of life insurance, medicare supplement, '
+                        'and annuity policies. AMERCO was founded in 1945 and '
+                        'is based in Reno, Nevada.',
+ 'longName': 'AMERCO',
+ 'market': 'us_market',
+ 'marketCap': 6039576576,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_345588',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 442048000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 317.59,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 5.44,
+ 'phone': '775-688-6300',
+ 'previousClose': 319.87,
+ 'priceHint': 2,
+ 'priceToBook': 1.4190907,
+ 'priceToSalesTrailing12Months': 1.5179133,
+ 'profitMargins': 0.111099996,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 320.4,
+ 'regularMarketDayLow': 315,
+ 'regularMarketOpen': 317.59,
+ 'regularMarketPreviousClose': 319.87,
+ 'regularMarketPrice': 317.59,
+ 'regularMarketVolume': 39586,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 19607800,
+ 'sharesPercentSharesOut': 0.0075,
+ 'sharesShort': 146896,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 198634,
+ 'shortName': 'Amerco',
+ 'shortPercentOfFloat': 0.014400001,
+ 'shortRatio': 2.43,
+ 'startDate': None,
+ 'state': 'NV',
+ 'strikePrice': None,
+ 'symbol': 'UHAL',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 22.549,
+ 'trailingPE': 14.034769,
+ 'twoHundredDayAverage': 312.47684,
+ 'volume': 39586,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.amerco.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '89511'}

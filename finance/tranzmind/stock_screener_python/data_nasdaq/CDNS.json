@@ -1,0 +1,159 @@
+{'52WeekChange': 0.35607958,
+ 'SandP52WeekChange': None,
+ 'address1': '2655 Seely Avenue',
+ 'address2': 'Building 5',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 102.55,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 1836675,
+ 'averageVolume': 2016096,
+ 'averageVolume10days': 1836675,
+ 'beta': 1.098039,
+ 'beta3Year': None,
+ 'bid': 101.95,
+ 'bidSize': 800,
+ 'bookValue': 8.094,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Jose',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 103.35,
+ 'dayLow': 100.63,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.224,
+ 'enterpriseToEbitda': 42.39,
+ 'enterpriseToRevenue': 11.541,
+ 'enterpriseValue': 28108685312,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '408 428 5001',
+ 'fiftyDayAverage': 96.35571,
+ 'fiftyTwoWeekHigh': 106.54,
+ 'fiftyTwoWeekLow': 51.39,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 274547967,
+ 'forwardEps': 2.74,
+ 'forwardPE': 37.441605,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 8100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01423,
+ 'heldPercentInstitutions': 0.97134,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 879724800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cadence.com',
+ 'longBusinessSummary': 'Cadence Design Systems, Inc. provides software, '
+                        'hardware, services, and reusable integrated circuit '
+                        '(IC) design blocks worldwide. The company offers '
+                        'functional verification services, including emulation '
+                        'and prototyping hardware. Its functional verification '
+                        'offering consists of JasperGold, a formal '
+                        'verification platform; Xcelium, a parallel logic '
+                        'simulation platform; Palladium, an emulation '
+                        'platform; and Protium, a prototyping platform for '
+                        'chip verification. The company also provides digital '
+                        'IC design products; physical implementation tools, '
+                        'including place and route, optimization, and multiple '
+                        'patterning preparation; and signoff products to '
+                        'signoff the design as ready for manufacture by a '
+                        'silicon foundry. In addition, it offers custom IC '
+                        'design and simulation products to create schematic '
+                        'and physical representations of circuits down to the '
+                        'transistor level for analog, mixed-signal, custom '
+                        'digital, memory, and radio frequency designs; and '
+                        'system interconnect design products to develop '
+                        'printed circuit boards and IC packages, as well as to '
+                        'analyze electromagnetic, electro-thermal, and other '
+                        'multi-physics effects. Further, the company provides '
+                        'intellectual property (IP) products consisting of '
+                        'pre-verified and customizable functional blocks to '
+                        "integrate into customer's ICs; and verification IP "
+                        'and memory models for use in system-level '
+                        'verification to model correct behavior of full '
+                        'systems interacting with their environments. '
+                        'Additionally, it offers services related to '
+                        'methodology, education, and hosted design solutions, '
+                        'as well as technical support and maintenance '
+                        'services. Cadence Design Systems, Inc. was founded in '
+                        '1988 and is headquartered in San Jose, California.',
+ 'longName': 'Cadence Design Systems, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 28601473024,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_25941',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593216000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1016465024,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 101.99,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.96,
+ 'phone': '408 943 1234',
+ 'previousClose': 102.94,
+ 'priceHint': 2,
+ 'priceToBook': 12.674821,
+ 'priceToSalesTrailing12Months': 11.743414,
+ 'profitMargins': 0.41735,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 103.35,
+ 'regularMarketDayLow': 100.63,
+ 'regularMarketOpen': 101.99,
+ 'regularMarketPreviousClose': 102.94,
+ 'regularMarketPrice': 101.99,
+ 'regularMarketVolume': 1995530,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 278793984,
+ 'sharesPercentSharesOut': 0.0139,
+ 'sharesShort': 3882016,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4156751,
+ 'shortName': 'Cadence Design Systems, Inc.',
+ 'shortPercentOfFloat': 0.0161,
+ 'shortRatio': 1.88,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'CDNS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 3.636,
+ 'trailingPE': 28.21507,
+ 'twoHundredDayAverage': 79.625755,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '9b307be0-911d-321b-ac00-7b96e208b1c9',
+ 'volume': 1995530,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cadence.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95134'}

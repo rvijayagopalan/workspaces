@@ -1,0 +1,154 @@
+{'52WeekChange': -0.2348091,
+ 'SandP52WeekChange': None,
+ 'address1': '4 Stamford Plaza',
+ 'address2': '9th Floor 107 Elm Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.5,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 321712,
+ 'averageVolume': 513780,
+ 'averageVolume10days': 321712,
+ 'beta': 1.943417,
+ 'beta3Year': None,
+ 'bid': 17.13,
+ 'bidSize': 1000,
+ 'bookValue': 3.434,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Stamford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 17.52,
+ 'dayLow': 16.85,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -5.798,
+ 'enterpriseToRevenue': 29.08,
+ 'enterpriseValue': 686209408,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 16.954714,
+ 'fiftyTwoWeekHigh': 26.67,
+ 'fiftyTwoWeekLow': 8.88,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 42518899,
+ 'forwardEps': -2.46,
+ 'forwardPE': -6.9695125,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 67,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.025120001,
+ 'heldPercentInstitutions': 0.68982005,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1389830400,
+ 'lastSplitFactor': '1:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/caratherapeutics.com',
+ 'longBusinessSummary': 'Cara Therapeutics, Inc., a clinical-stage '
+                        'biopharmaceutical company, focuses on developing and '
+                        'commercializing chemical entities with a primary '
+                        'focus on pruritus and pain by selectively targeting '
+                        'kappa opioid receptors in the United States. The '
+                        'company is developing product candidates that target '
+                        "the body's peripheral nervous system and immune "
+                        'cells. Its lead product candidate includes KORSUVA '
+                        '(CR845/ difelikefalin) injection, which is in Phase '
+                        'III clinical trial for the treatment of patients with '
+                        'moderate-to-severe chronic kidney disease-associated '
+                        'pruritus (CKD-aP) undergoing hemodialysis. The '
+                        'company is also developing Oral KORSUVA '
+                        '(CR845/difelikefalin), which has completed Phase II '
+                        'clinical trial for the treatment of pruritus in stage '
+                        'III-V CKD patients; in Phase II clinical trial for '
+                        'treating pruritus chronic liver disease; and in Phase '
+                        'II clinical trial for the treatment of pruritus '
+                        'associated with atopic dermatitis. In addition, it is '
+                        'developing CR845/difelikefalin Injection, which has '
+                        'completed Phase II/III clinical trial for the '
+                        'treatment of acute post-operative pain. The company '
+                        'has license agreements with Maruishi Pharmaceutical '
+                        'Co., Ltd to develop, manufacture, and commercialize '
+                        'drug products containing CR845/difelikefalin for '
+                        'acute pain and uremic pruritus in Japan; and Chong '
+                        'Kun Dang Pharmaceutical Corporation to develop, '
+                        'manufacture, and commercialize drug products '
+                        'containing CR845/difelikefalin in South Korea. Cara '
+                        'Therapeutics, Inc. was founded in 2004 and is '
+                        'headquartered in Stamford, Connecticut.',
+ 'longName': 'Cara Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 802319168,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_23340079',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -113335000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 17.52,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '203 406 3700',
+ 'previousClose': 17.63,
+ 'priceHint': 2,
+ 'priceToBook': 4.99272,
+ 'priceToSalesTrailing12Months': 34.000896,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 17.52,
+ 'regularMarketDayLow': 16.85,
+ 'regularMarketOpen': 17.52,
+ 'regularMarketPreviousClose': 17.63,
+ 'regularMarketPrice': 17.52,
+ 'regularMarketVolume': 380173,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 46796100,
+ 'sharesPercentSharesOut': 0.0857,
+ 'sharesShort': 4011049,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3660403,
+ 'shortName': 'Cara Therapeutics, Inc.',
+ 'shortPercentOfFloat': 0.098000005,
+ 'shortRatio': 7.15,
+ 'startDate': None,
+ 'state': 'CT',
+ 'strikePrice': None,
+ 'symbol': 'CARA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.549,
+ 'twoHundredDayAverage': 15.5133095,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '2959e4f9-c48b-308c-8431-9b84f96c60e5',
+ 'volume': 380173,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.caratherapeutics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '06902'}

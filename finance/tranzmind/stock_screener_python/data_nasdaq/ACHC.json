@@ -1,0 +1,162 @@
+{'52WeekChange': -0.124470055,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '6100 Tower Circle',
+ 'address2': 'Suite 1000',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 28.92,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 467350,
+ 'averageVolume': 726193,
+ 'averageVolume10days': 467350,
+ 'beta': 1.373109,
+ 'beta3Year': None,
+ 'bid': 28.9,
+ 'bidSize': 800,
+ 'bookValue': 28.052,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Franklin',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 29.18,
+ 'dayLow': 28.41,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.135,
+ 'enterpriseToEbitda': 10.976,
+ 'enterpriseToRevenue': 1.987,
+ 'enterpriseValue': 6218610688,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '615-261-9685',
+ 'fiftyDayAverage': 26.683144,
+ 'fiftyTwoWeekHigh': 35.3,
+ 'fiftyTwoWeekLow': 11.09,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 81663445,
+ 'forwardEps': 2.39,
+ 'forwardPE': 12.094142,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 28400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01548,
+ 'heldPercentInstitutions': 1.19206,
+ 'industry': 'Medical Care Facilities',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1320105600,
+ 'lastSplitFactor': '1:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/acadiahealthcare.com',
+ 'longBusinessSummary': 'Acadia Healthcare Company, Inc. develops and operates '
+                        'inpatient psychiatric facilities, residential '
+                        'treatment centers, group homes, substance abuse '
+                        'facilities, and outpatient behavioral healthcare '
+                        'facilities to serve the behavioral health and '
+                        'recovery needs of communities in the United States, '
+                        'the United Kingdom, and Puerto Rico. The company '
+                        'operates acute inpatient psychiatric facilities, '
+                        'which cares to stabilize patients that are either '
+                        'threat to themselves or others by hourly observation, '
+                        'daily intervention, and monitoring by psychiatrists; '
+                        'and specialty treatment facilities, including '
+                        'residential recovery and eating disorder facilities, '
+                        'and comprehensive treatment centers that provide '
+                        'continuum care for adults with addictive disorders '
+                        'and co-occurring mental disorders. It also provides '
+                        'residential treatment centers, which treat patients '
+                        'with behavioral disorders in a non-hospital setting, '
+                        'including outdoor programs; and outpatient '
+                        'community-based services, such as community-based '
+                        'programs that are designed to offer therapeutic '
+                        'treatment to children and adolescents who have a '
+                        'clinically-defined emotional, psychiatric, or '
+                        'chemical dependency disorders. In addition, the '
+                        'company provides mental health rehabilitation '
+                        'services comprising relapse prevention and social '
+                        'integration services, as well as vocational '
+                        'opportunities; acute services for patients at risk to '
+                        'themselves or others, as well as crisis intervention '
+                        'and treatment of behavioral emergencies; and '
+                        'long-term and non-acute care services for adults '
+                        'suffering from mental illness, addiction, learning '
+                        'disability, or brain injury. Further, it provides '
+                        "education and children's services for children and "
+                        'young people with special educational needs; adult '
+                        'care services; and care first services for employees. '
+                        'As of December 31, 2019, the company operated a '
+                        'network of 585 behavioral healthcare facilities with '
+                        '18,200 beds. The company was founded in 2005 and is '
+                        'headquartered in Franklin, Tennessee.',
+ 'longName': 'Acadia Healthcare Company, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2570882816,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_26259736',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 112915000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 28.9,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.86,
+ 'phone': '615-861-6000',
+ 'previousClose': 28.97,
+ 'priceHint': 2,
+ 'priceToBook': 1.0304078,
+ 'priceToSalesTrailing12Months': 0.8214588,
+ 'profitMargins': 0.03608,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 29.18,
+ 'regularMarketDayLow': 28.41,
+ 'regularMarketOpen': 28.9,
+ 'regularMarketPreviousClose': 28.97,
+ 'regularMarketPrice': 28.9,
+ 'regularMarketVolume': 364381,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 88942496,
+ 'sharesPercentSharesOut': 0.096099995,
+ 'sharesShort': 8544493,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 9583860,
+ 'shortName': 'Acadia Healthcare Company, Inc.',
+ 'shortPercentOfFloat': 0.1376,
+ 'shortRatio': 11.77,
+ 'startDate': None,
+ 'state': 'TN',
+ 'strikePrice': None,
+ 'symbol': 'ACHC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.28,
+ 'trailingPE': 22.582033,
+ 'twoHundredDayAverage': 26.616404,
+ 'volume': 364381,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.acadiahealthcare.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '37067'}

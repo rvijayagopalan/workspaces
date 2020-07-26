@@ -1,0 +1,159 @@
+{'52WeekChange': 0.4649061,
+ 'SandP52WeekChange': None,
+ 'address1': '12780 El Camino Real',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 125.25,
+ 'askSize': 3100,
+ 'averageDailyVolume10Day': 611962,
+ 'averageVolume': 861255,
+ 'averageVolume10days': 611962,
+ 'beta': 1.341176,
+ 'beta3Year': None,
+ 'bid': 124.51,
+ 'bidSize': 1000,
+ 'bookValue': 7.546,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Diego',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 127.19,
+ 'dayLow': 124.27,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 40.395,
+ 'enterpriseToRevenue': 12.814,
+ 'enterpriseValue': 11363513344,
+ 'exDividendDate': 820195200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 125.52286,
+ 'fiftyTwoWeekHigh': 136.26,
+ 'fiftyTwoWeekLow': 72.14,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 91650445,
+ 'forwardEps': 5.08,
+ 'forwardPE': 24.64567,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 750,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01043,
+ 'heldPercentInstitutions': 0.99052,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/neurocrine.com',
+ 'longBusinessSummary': 'Neurocrine Biosciences, Inc., a commercial-stage '
+                        'biopharmaceutical company, discovers and develops '
+                        'therapeutics for the treatment of neurological, '
+                        'endocrine, and psychiatric disorders in the United '
+                        'States. The company offers INGREZZA (valbenazine), a '
+                        'vesicular monoamine transporter 2 inhibitor (VMAT2) '
+                        'for the treatment of tardive dyskinesia; and '
+                        'ORILISSA, a gonadotropin-releasing hormone antagonist '
+                        'for use in the treatment of endometriosis. Its '
+                        'product candidates in clinical development include '
+                        'elagolix that has completed Phase III clinical trial '
+                        'for uterine fibroids; opicapone, a '
+                        'catechol-O-methyltransferase inhibitor used as an '
+                        'adjunct therapy to levodopa/DOPA decarboxylase '
+                        "inhibitors for adult patients with Parkinson's "
+                        'disease; and NBI-74788, which is in Phase III '
+                        'clinical trial for the treatment of congenital '
+                        "adrenal hyperplasia. The company's products under "
+                        'development include NBIb-1817, an AADC gene '
+                        'replacement therapy, which is in Phase II clinical '
+                        "trial for the treatment of Parkinson's disease; "
+                        'NBI-921352, a Nav1.6 sodium channel inhibitor for the '
+                        'treatment of pediatric patients with SCN8A-DEE, as '
+                        'well as other indications, such as adult focal '
+                        'epilepsy; ACT-709478, an orally active and brain '
+                        'penetrating T-type calcium channel blocker for use in '
+                        'certain forms of generalized epilepsy; and VMAT2 '
+                        'inhibitor for the treatment of various neurology '
+                        'and/or psychiatry disorders. Neurocrine Biosciences, '
+                        'Inc. has collaborations and agreements with AbbVie '
+                        'Inc.; BIAL Â\x96 Portela & Ca, S.A.; Voyager '
+                        'Therapeutics, Inc.; Xenon Pharmaceuticals Inc.; '
+                        'Mitsubishi Tanabe Pharma Corporation; Idorsia '
+                        'Pharmaceuticals Ltd; and Takeda Pharmaceutical '
+                        'Company Limited. The company was founded in 1992 and '
+                        'is headquartered in San Diego, California.',
+ 'longName': 'Neurocrine Biosciences, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 11626711040,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_32073',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 176512000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 127.03,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.28,
+ 'phone': '858-617-7600',
+ 'previousClose': 128.15,
+ 'priceHint': 2,
+ 'priceToBook': 16.591572,
+ 'priceToSalesTrailing12Months': 13.1110525,
+ 'profitMargins': 0.19905001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 127.19,
+ 'regularMarketDayLow': 124.27,
+ 'regularMarketOpen': 127.03,
+ 'regularMarketPreviousClose': 128.15,
+ 'regularMarketPrice': 127.03,
+ 'regularMarketVolume': 478291,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 92865104,
+ 'sharesPercentSharesOut': 0.0519,
+ 'sharesShort': 4824040,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4723564,
+ 'shortName': 'Neurocrine Biosciences, Inc.',
+ 'shortPercentOfFloat': 0.052600004,
+ 'shortRatio': 5.25,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'NBIX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.823,
+ 'trailingPE': 68.678,
+ 'twoHundredDayAverage': 107.227196,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '2532fb18-868f-3936-991c-d8060c56d55f',
+ 'volume': 478291,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.neurocrine.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92130'}

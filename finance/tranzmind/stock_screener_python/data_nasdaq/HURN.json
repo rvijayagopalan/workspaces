@@ -1,0 +1,158 @@
+{'52WeekChange': -0.19328952,
+ 'SandP52WeekChange': None,
+ 'address1': '550 West Van Buren Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 54.94,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 101612,
+ 'averageVolume': 159346,
+ 'averageVolume10days': 101612,
+ 'beta': 0.62521,
+ 'beta3Year': None,
+ 'bid': 39.02,
+ 'bidSize': 3100,
+ 'bookValue': 24.035,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chicago',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 44.345,
+ 'dayLow': 43.245,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 12.496,
+ 'enterpriseToRevenue': 1.48,
+ 'enterpriseValue': 1324603648,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '312-583-8701',
+ 'fiftyDayAverage': 43.684002,
+ 'fiftyTwoWeekHigh': 70.91,
+ 'fiftyTwoWeekLow': 35.15,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 21398973,
+ 'forwardEps': 2.68,
+ 'forwardPE': 16.164179,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2953,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.021659998,
+ 'heldPercentInstitutions': 0.93489,
+ 'industry': 'Consulting Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/huronconsultinggroup.com',
+ 'longBusinessSummary': 'Huron Consulting Group Inc., a professional services '
+                        'firm, provides advisory, technology, and analytic '
+                        'solutions in the United States and internationally. '
+                        'Its Healthcare segment provides advisory services in '
+                        'financial and operational improvement, care '
+                        'transformation, culture and organizational '
+                        'excellence, strategy, and technology and analytics to '
+                        'national and regional hospitals, integrated health '
+                        'systems, academic medical centers, community '
+                        "hospitals, and medical groups. The company's "
+                        'Education segment offers consulting and technology '
+                        'solutions related to business and technology '
+                        'strategy, financial and operational excellence, '
+                        'student success, research administration, and '
+                        'regulatory compliance for higher education '
+                        'institutions and academic medical centers. Its '
+                        'Business Advisory segment provides capital advisory, '
+                        'transaction advisory, operational improvement, '
+                        'restructuring and turnaround, valuation, and dispute '
+                        'advisory services; technology and analytic solutions '
+                        'that enable organizations to manage their financial '
+                        'performance, operational efficiency, and client or '
+                        'stakeholder experience; and strategic solutions to '
+                        'pharmaceutical, medical device, and biotechnology '
+                        'companies. This segment provides its services to '
+                        'large and middle market organizations, not-for-profit '
+                        'organizations, lending institutions, law firms, '
+                        'investment banks, and private equity firms. The '
+                        'company serves the aerospace, automotive, energy and '
+                        'utilities, financial services, government, life '
+                        'sciences, logistics, manufacturing, metals and '
+                        'mining, retail and consumer products, technology, '
+                        'media, and telecommunications industries. Huron '
+                        'Consulting Group Inc. was founded in 2002 and is '
+                        'headquartered in Chicago, Illinois.',
+ 'longName': 'Huron Consulting Group Inc.',
+ 'market': 'us_market',
+ 'marketCap': 989818688,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2413126',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -3644000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 44.34,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.6,
+ 'phone': '312-583-8700',
+ 'previousClose': 44.24,
+ 'priceHint': 2,
+ 'priceToBook': 1.8023715,
+ 'priceToSalesTrailing12Months': 1.106028,
+ 'profitMargins': -0.0043200003,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 44.345,
+ 'regularMarketDayLow': 43.245,
+ 'regularMarketOpen': 44.34,
+ 'regularMarketPreviousClose': 44.24,
+ 'regularMarketPrice': 44.34,
+ 'regularMarketVolume': 117421,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 22849000,
+ 'sharesPercentSharesOut': 0.0101,
+ 'sharesShort': 229880,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 226904,
+ 'shortName': 'Huron Consulting Group Inc.',
+ 'shortPercentOfFloat': 0.0117999995,
+ 'shortRatio': 1.47,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'HURN',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.176,
+ 'twoHundredDayAverage': 51.204678,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '166430d3-2c9f-3771-a846-c3bdbdfd129f',
+ 'volume': 117421,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.huronconsultinggroup.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60607'}

@@ -1,0 +1,153 @@
+{'52WeekChange': -0.31191224,
+ 'SandP52WeekChange': None,
+ 'address1': '7575 Gateway Boulevard',
+ 'address2': 'Suite 110',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.25,
+ 'askSize': 3000,
+ 'averageDailyVolume10Day': 6717962,
+ 'averageVolume': 4114677,
+ 'averageVolume10days': 6717962,
+ 'beta': 1.40168,
+ 'beta3Year': None,
+ 'bid': 4.2,
+ 'bidSize': 1800,
+ 'bookValue': 2.541,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Newark',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.35,
+ 'dayLow': 4.07,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -1.265,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 116505976,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '510-293-9090',
+ 'fiftyDayAverage': 3.6817143,
+ 'fiftyTwoWeekHigh': 6.56,
+ 'fiftyTwoWeekLow': 1.21,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 55546126,
+ 'forwardEps': -0.98,
+ 'forwardPE': -4.3061223,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 36,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00617,
+ 'heldPercentInstitutions': 0.88007003,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cymabay.com',
+ 'longBusinessSummary': 'CymaBay Therapeutics, Inc., a clinical-stage '
+                        'biopharmaceutical company, focuses on developing and '
+                        'providing therapies to treat liver and other chronic '
+                        'diseases. Its lead product candidate is seladelpar '
+                        '(MBX-8025), a selective agonist of peroxisome '
+                        'proliferator activated receptor delta, which has '
+                        'completed Phase II clinical study for the treatments '
+                        'of primary biliary cholangitis and sclerosing '
+                        'cholangitis, as well as patients with nonalcoholic '
+                        'steatohepatitis. The company also develops MBX-2982, '
+                        'a selective orally-active G protein-coupled receptor '
+                        'agonist that interacts with bioactive lipids known to '
+                        'stimulate glucose-dependent insulin secretion for the '
+                        'treatment of gut/liver disease. Its preclinical stage '
+                        'product candidate is CB-001, a G protein-coupled '
+                        'receptor for omega-3 fatty acids, such as '
+                        'docosahexaenoic acid for the treatment of gut/liver '
+                        'disease. It has development and licensing agreement '
+                        'with Janssen Pharmaceuticals, Inc. to develop and '
+                        'discover undisclosed metabolic disease target '
+                        'agonists for the treatment of type 2 diabetes and '
+                        'other disorders; and a license agreement with DiaTex, '
+                        'Inc. to develop and commercialize therapeutic '
+                        'products comprising halofenate and its enantiomers, '
+                        'derivatives, and analogs for the treatment of '
+                        'diseases. The company was formerly known as '
+                        'Metabolex, Inc. CymaBay Therapeutics, Inc. was '
+                        'incorporated in 1988 and is headquartered in Newark, '
+                        'California.',
+ 'longName': 'CymaBay Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 290684128,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_31424',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -92821000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 4.3098,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '510-293-8800',
+ 'previousClose': 4.39,
+ 'priceHint': 4,
+ 'priceToBook': 1.6607635,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.35,
+ 'regularMarketDayLow': 4.07,
+ 'regularMarketOpen': 4.3098,
+ 'regularMarketPreviousClose': 4.39,
+ 'regularMarketPrice': 4.3098,
+ 'regularMarketVolume': 3835130,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 68882496,
+ 'sharesPercentSharesOut': 0.1173,
+ 'sharesShort': 8077762,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 8876550,
+ 'shortName': 'CymaBay Therapeutics Inc.',
+ 'shortPercentOfFloat': 0.1177,
+ 'shortRatio': 4.69,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'CBAY',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.35,
+ 'twoHundredDayAverage': 2.4555037,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'a8ce2162-5d9e-34db-a343-001f7cebee58',
+ 'volume': 3835130,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cymabay.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94560'}

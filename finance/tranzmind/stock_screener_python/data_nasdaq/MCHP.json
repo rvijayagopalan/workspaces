@@ -1,0 +1,163 @@
+{'52WeekChange': 0.034858823,
+ 'SandP52WeekChange': None,
+ 'address1': '2355 West Chandler Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 103.84,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 2137312,
+ 'averageVolume': 3086323,
+ 'averageVolume10days': 2137312,
+ 'beta': 1.608403,
+ 'beta3Year': None,
+ 'bid': 98.86,
+ 'bidSize': 900,
+ 'bookValue': 22.768,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chandler',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 102.56,
+ 'dayLow': 99.331,
+ 'dividendRate': 1.47,
+ 'dividendYield': 0.0145000005,
+ 'earningsQuarterlyGrowth': -0.428,
+ 'enterpriseToEbitda': 17.719,
+ 'enterpriseToRevenue': 6.409,
+ 'enterpriseValue': 33803169792,
+ 'exDividendDate': 1589932800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 104.351715,
+ 'fiftyTwoWeekHigh': 113.28,
+ 'fiftyTwoWeekLow': 53.15,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.04,
+ 'floatShares': 240048035,
+ 'forwardEps': 6.81,
+ 'forwardPE': 14.715125,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 18000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.021979999,
+ 'heldPercentInstitutions': 1.09961,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1020902400,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/microchip.com',
+ 'longBusinessSummary': 'Microchip Technology Incorporated develops, '
+                        'manufactures, and sells semiconductor products for '
+                        'various embedded control applications in the '
+                        'Americas, Europe, and Asia. The company offers '
+                        'general purpose and specialized 8-bit, 16-bit, and '
+                        '32-bit microcontrollers; 32-bit microprocessors; and '
+                        'microcontrollers for automotive, industrial, '
+                        'computing, communication, lighting, power supplies, '
+                        'motor control, human machine interface, security, and '
+                        'wired and wireless connectivity applications. It also '
+                        'provides development tools that enable system '
+                        'designers to program microcontroller products for '
+                        'specific applications; field-programmable gate array '
+                        '(FPGA) products; and analog, power, interface, mixed '
+                        'signal, and timing products comprising power '
+                        'management, linear, mixed-signal, high-voltage, '
+                        'thermal management, discrete diodes and metal oxide '
+                        'semiconductor field effect transistors (MOSFETS), '
+                        'radio frequency (RF), drivers, safety, security, '
+                        'timing, USB, Ethernet, wireless, and other interface '
+                        'products. In addition, the company offers memory '
+                        'products consisting of serial electrically erasable '
+                        'programmable read-only memory, serial flash memories, '
+                        'parallel flash memories, serial static random access '
+                        'memories, and serial electrically erasable random '
+                        'access memories for the production of very small '
+                        'footprint devices; and licenses its SuperFlash '
+                        'embedded flash and Smartbits one time programmable '
+                        'NVM technologies to foundries, integrated device '
+                        'manufacturers, and design partners for use in the '
+                        'manufacture of microcontroller products, gate array, '
+                        'RF, analog, and neuromorphic compute products that '
+                        'require embedded non-volatile memory, as well as '
+                        'provides engineering services. Further, it offers '
+                        'wafer foundry and assembly and test subcontracting '
+                        'manufacturing services; and aerospace and timing '
+                        'systems products, application specific integrated '
+                        'circuits, and complex programmable logic devices. '
+                        'Microchip Technology Incorporated was founded in 1989 '
+                        'and is headquartered in Chandler, Arizona.',
+ 'longName': 'Microchip Technology Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 25298014208,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_31500',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 570600000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 100.663,
+ 'openInterest': None,
+ 'payoutRatio': 0.65699995,
+ 'pegRatio': 1.96,
+ 'phone': '480 792 7200',
+ 'previousClose': 101.53,
+ 'priceHint': 2,
+ 'priceToBook': 4.401353,
+ 'priceToSalesTrailing12Months': 4.7965593,
+ 'profitMargins': 0.10819,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 102.56,
+ 'regularMarketDayLow': 99.331,
+ 'regularMarketOpen': 100.663,
+ 'regularMarketPreviousClose': 101.53,
+ 'regularMarketPrice': 100.663,
+ 'regularMarketVolume': 2363728,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 252450000,
+ 'sharesPercentSharesOut': 0.078099996,
+ 'sharesShort': 19675740,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 26656179,
+ 'shortName': 'Microchip Technology Incorporat',
+ 'shortPercentOfFloat': 0.104399994,
+ 'shortRatio': 6.2,
+ 'startDate': None,
+ 'state': 'AZ',
+ 'strikePrice': None,
+ 'symbol': 'MCHP',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.465,
+ 'trailingAnnualDividendYield': 0.014429233,
+ 'trailingEps': 2.23,
+ 'trailingPE': 44.937218,
+ 'twoHundredDayAverage': 93.344604,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '8cfbb7ea-d7da-3c80-a924-250bf7239709',
+ 'volume': 2363728,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.microchip.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '85224-6199'}

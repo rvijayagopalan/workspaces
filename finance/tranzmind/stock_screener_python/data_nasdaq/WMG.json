@@ -1,0 +1,159 @@
+{'52WeekChange': -0.059096992,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1633 Broadway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 28.7,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 744875,
+ 'averageVolume': 2900316,
+ 'averageVolume10days': 744875,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 28,
+ 'bidSize': 800,
+ 'bookValue': None,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 28.49,
+ 'dayLow': 27.2,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 36.395,
+ 'enterpriseToRevenue': 3.85,
+ 'enterpriseValue': 17360400384,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 30.375,
+ 'fiftyTwoWeekHigh': 34.76,
+ 'fiftyTwoWeekLow': 26.99,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 86781600,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': None,
+ 'heldPercentInstitutions': None,
+ 'industry': 'Entertainment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/wmg.com',
+ 'longBusinessSummary': 'Warner Music Group Corp. operates as a music-based '
+                        'content company in the United States, the United '
+                        'Kingdom, and internationally. The company operates '
+                        'through Recorded Music and Music Publishing segments. '
+                        'The Recorded Music segment is involved in the '
+                        'discovery and development of recording artists, as '
+                        'well as the related marketing, promotion, '
+                        'distribution, sale, and licensing of recorded music '
+                        'created by such artists. This segment also '
+                        'specializes in marketing its music catalog through '
+                        'compilations and reissuances of previously released '
+                        'music and video titles, as well as previously '
+                        'unreleased materials. It conducts its operation '
+                        'primarily through a collection of record labels, such '
+                        'as Warner Records and Atlantic Records, as well as '
+                        'Asylum, Big Beat, Canvasback, East West, Elektra, '
+                        'Erato, FFRR, Fueled by Ramen, Nonesuch, Parlophone, '
+                        "Reprise, Roadrunner, Sire, Spinnin', Warner Classics, "
+                        'and Warner Music Nashville. This segment markets, '
+                        'sells, and licenses recorded music in various '
+                        'physical formats, including CDs, vinyl, and DVDs; and '
+                        'digital formats, such as downloads and streaming. The '
+                        'Music Publishing segment owns and acquires rights to '
+                        'approximately 1.4 million musical compositions '
+                        'comprising pop hits, American standards, folk songs, '
+                        'and motion picture and theatrical compositions. Its '
+                        'catalog includes approximately 80,000 songwriters and '
+                        'composers; and a range of genres, including pop, '
+                        'rock, jazz, classical, country, R&B, hip-hop, rap, '
+                        'reggae, Latin, folk, blues, symphonic, soul, '
+                        'Broadway, techno, alternative, and gospel. This '
+                        'segment also administers the music and soundtracks of '
+                        'various third-party television and film producers and '
+                        'studios; and operates production music library. In '
+                        'addition, it offers music and video products to '
+                        'retailers and wholesale distributors; and '
+                        'distribution centers and ventures. The company was '
+                        'founded in 1929 and is headquartered in New York, New '
+                        'York. Warner Music Group Corp. is a subsidiary of AI '
+                        'Entertainment Holdings LLC.',
+ 'longName': 'Warner Music Group Corp.',
+ 'market': 'us_market',
+ 'marketCap': 14453400576,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_734078',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 149000000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 28.02,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.31,
+ 'phone': '212-275-2000',
+ 'previousClose': 28.33,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 3.2054558,
+ 'profitMargins': 0.03304,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 28.49,
+ 'regularMarketDayLow': 27.2,
+ 'regularMarketOpen': 28.02,
+ 'regularMarketPreviousClose': 28.33,
+ 'regularMarketPrice': 28.02,
+ 'regularMarketVolume': 439977,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 77000000,
+ 'sharesPercentSharesOut': 0.0053,
+ 'sharesShort': 1847105,
+ 'sharesShortPreviousMonthDate': None,
+ 'sharesShortPriorMonth': None,
+ 'shortName': 'Warner Music Group Corp.',
+ 'shortPercentOfFloat': 0.0349,
+ 'shortRatio': 0.56,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'WMG',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': None,
+ 'twoHundredDayAverage': 30.357973,
+ 'volume': 439977,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.wmg.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10019'}

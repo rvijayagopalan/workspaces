@@ -1,0 +1,154 @@
+{'52WeekChange': 0.17076957,
+ 'SandP52WeekChange': None,
+ 'address1': '2200 Mission College Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 50.76,
+ 'askSize': 4000,
+ 'averageDailyVolume10Day': 41246887,
+ 'averageVolume': 25127441,
+ 'averageVolume10days': 41246887,
+ 'beta': 0.789355,
+ 'beta3Year': None,
+ 'bid': 50.85,
+ 'bidSize': 4000,
+ 'bookValue': 19.315,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Santa Clara',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 52.15,
+ 'dayLow': 49.5,
+ 'dividendRate': 1.32,
+ 'dividendYield': 0.0219,
+ 'earningsQuarterlyGrowth': 0.222,
+ 'enterpriseToEbitda': 7.057,
+ 'enterpriseToRevenue': 3.407,
+ 'enterpriseValue': 268990398464,
+ 'exDividendDate': 1596672000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 59.709145,
+ 'fiftyTwoWeekHigh': 69.29,
+ 'fiftyTwoWeekLow': 43.63,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.62,
+ 'floatShares': 4242178600,
+ 'forwardEps': 4.86,
+ 'forwardPE': 10.409465,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 110800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.00045000002,
+ 'heldPercentInstitutions': 0.69042,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577491200,
+ 'lastMarket': None,
+ 'lastSplitDate': 965001600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/intel.com',
+ 'longBusinessSummary': 'Intel Corporation provides computing, networking, '
+                        'data storage, and communication solutions worldwide. '
+                        'It operates through Data Center Group, Internet of '
+                        'Things Group, Non-Volatile Memory Solutions Group, '
+                        'Programmable Solutions Group, Client Computing Group, '
+                        'and All Other segments. The company offers platform '
+                        'products, such as CPU and chipset, system-on-chip, '
+                        'and multichip package products for cloud, enterprise, '
+                        'and communication infrastructure markets. It also '
+                        'provides NAND flash memory and DC persistent products '
+                        'for enterprise and cloud-based data centers, and '
+                        'users of business and consumer desktops and laptops; '
+                        'programmable semiconductors, such as '
+                        'field-programmable gate arrays, application-specific '
+                        'integrated circuits, and related products for '
+                        'communications, data center, industrial, and military '
+                        'markets; and various processors for notebooks, '
+                        'mobiles, and desktop PCs. In addition, it offers '
+                        'boards and systems, such as server boards and small '
+                        'form factor systems; and connectivity products for '
+                        'cellular modems, Ethernet controllers, silicon '
+                        'photonics, Wi-Fi, and Bluetooth. Further, the company '
+                        'develops computer vision and machine learning- based '
+                        'sensing, data analysis, localization, mapping, and '
+                        'driving policy technologies for advanced driver '
+                        'assistance systems and autonomous driving. It serves '
+                        'original equipment manufacturers, original design '
+                        'manufacturers, industrial and communication equipment '
+                        'manufacturers, and cloud service providers. The '
+                        'company was founded in 1968 and is headquartered in '
+                        'Santa Clara, California.',
+ 'longName': 'Intel Corporation',
+ 'market': 'us_market',
+ 'marketCap': 214198059008,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_21127',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593216000,
+ 'navPrice': None,
+ 'netIncomeToCommon': 23661000704,
+ 'nextFiscalYearEnd': 1640649600,
+ 'open': 52.15,
+ 'openInterest': None,
+ 'payoutRatio': 0.2476,
+ 'pegRatio': 1.38,
+ 'phone': '408 765 8080',
+ 'previousClose': 60.4,
+ 'priceHint': 2,
+ 'priceToBook': 2.6192079,
+ 'priceToSalesTrailing12Months': 2.712913,
+ 'profitMargins': 0.29968,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 52.15,
+ 'regularMarketDayLow': 49.5,
+ 'regularMarketOpen': 52.15,
+ 'regularMarketPreviousClose': 60.4,
+ 'regularMarketPrice': 52.15,
+ 'regularMarketVolume': 180520107,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 4233999872,
+ 'sharesPercentSharesOut': 0.007900001,
+ 'sharesShort': 33600057,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 38636657,
+ 'shortName': 'Intel Corporation',
+ 'shortPercentOfFloat': 0.007900001,
+ 'shortRatio': 1.3,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'INTC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.29,
+ 'trailingAnnualDividendYield': 0.021357615,
+ 'trailingEps': 5.443,
+ 'trailingPE': 9.294507,
+ 'twoHundredDayAverage': 59.396404,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'fc39dab3-4bbe-3356-80d3-0933db783ba0',
+ 'volume': 180520107,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.intel.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95054-1549'}

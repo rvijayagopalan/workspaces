@@ -1,0 +1,149 @@
+{'52WeekChange': 0.6146709,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '100 Washington Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 36.59,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 131950,
+ 'averageVolume': 204098,
+ 'averageVolume10days': 131950,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 36.57,
+ 'bidSize': 800,
+ 'bookValue': 7.802,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Stamford',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 37.46,
+ 'dayLow': 36.04,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -19.87,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 1260528256,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 40.965714,
+ 'fiftyTwoWeekHigh': 49.79,
+ 'fiftyTwoWeekLow': 17.02,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 15701840,
+ 'forwardEps': -1.63,
+ 'forwardPE': -22.41718,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 60,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.15584,
+ 'heldPercentInstitutions': 0.76443,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/springworkstx.com',
+ 'longBusinessSummary': 'SpringWorks Therapeutics, Inc., a clinical-stage '
+                        'biopharmaceutical company, acquires, develops, and '
+                        'commercializes medicines for underserved patient '
+                        'populations suffering from rare diseases and cancer. '
+                        'Its lead product candidate is nirogacestat, an oral '
+                        'small molecule gamma secretase inhibitor that is in '
+                        'Phase III clinical trial for the treatment of desmoid '
+                        'tumors. The company is also developing mirdametinib, '
+                        'an oral small molecule MEK inhibitor that is in Phase '
+                        'IIb clinical trial for the treatment of '
+                        'neurofibromatosis type 1-associated plexiform '
+                        'neurofibromas; Nirogacestat + belantamab mafodotin, '
+                        'which is in Phase Ib clinical trial for the treatment '
+                        'of relapsed or refractory multiple myeloma (RRMM); '
+                        'and Nirogacestat + ALLO-715 that is in preclinical '
+                        'trials for the treatment of RRMM. In addition, it is '
+                        'developing Mirdametinib + lifirafenib, a combination '
+                        'therapy that is in Phase Ib clinical trial in '
+                        'patients with advanced or refractory solid tumors; '
+                        'and BGB-3245, an investigational oral selective small '
+                        'molecule inhibitor of monomeric and dimeric forms of '
+                        'activating BRAF mutations, which is in Phase I '
+                        'clinical trial. SpringWorks Therapeutics, Inc. has '
+                        'collaborations with BeiGene, Ltd., GlaxoSmithKline '
+                        'LLC, and Allogene to develop combination approaches '
+                        'with nirogacestat and mirdametinib, as well as '
+                        'medicines; and license agreements with Pfizer Inc. '
+                        'for nirogacestat and mirdametinib. SpringWorks '
+                        'Therapeutics, Inc. was founded in 2017 and is '
+                        'headquartered in Stamford, Connecticut.',
+ 'longName': 'SpringWorks Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1571603712,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_610391524',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -62191000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 36.75,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '203 883 9490',
+ 'previousClose': 36.86,
+ 'priceHint': 2,
+ 'priceToBook': 4.6834145,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 37.46,
+ 'regularMarketDayLow': 36.04,
+ 'regularMarketOpen': 36.75,
+ 'regularMarketPreviousClose': 36.86,
+ 'regularMarketPrice': 36.75,
+ 'regularMarketVolume': 118764,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 43001400,
+ 'sharesPercentSharesOut': 0.0496,
+ 'sharesShort': 2131988,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1645473,
+ 'shortName': 'SpringWorks Therapeutics, Inc.',
+ 'shortPercentOfFloat': 0.2245,
+ 'shortRatio': 7.13,
+ 'startDate': None,
+ 'state': 'CT',
+ 'strikePrice': None,
+ 'symbol': 'SWTX',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -13.84,
+ 'twoHundredDayAverage': 34.603165,
+ 'volume': 118764,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.springworkstx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '06902'}

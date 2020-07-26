@@ -1,0 +1,152 @@
+{'52WeekChange': -0.30458885,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3035 Leonardtown Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 5462,
+ 'averageVolume': 9853,
+ 'averageVolume10days': 5462,
+ 'beta': 0.738375,
+ 'beta3Year': None,
+ 'bid': 22.4,
+ 'bidSize': 1200,
+ 'bookValue': 31.348,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Waldorf',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 22.58,
+ 'dayLow': 22,
+ 'dividendRate': 0.5,
+ 'dividendYield': 0.0223,
+ 'earningsQuarterlyGrowth': -0.291,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.885,
+ 'enterpriseValue': 217378032,
+ 'exDividendDate': 1593993600,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 23.079428,
+ 'fiftyTwoWeekHigh': 36.23,
+ 'fiftyTwoWeekLow': 17.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.48,
+ 'floatShares': 5143842,
+ 'forwardEps': 2.61,
+ 'forwardPE': 8.651341,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 196,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.12911001,
+ 'heldPercentInstitutions': 0.37327,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1164758400,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cbtc.com',
+ 'longBusinessSummary': 'The Community Financial Corporation operates as the '
+                        'bank holding company for Community Bank of the '
+                        'Chesapeake that provides commercial and retail '
+                        'banking services to individuals and businesses. Its '
+                        'deposit products include savings, money market, '
+                        'demand deposit, IRA, SEP, and time deposit accounts. '
+                        'The company provides loan products, such as '
+                        'commercial real estate and other non-residential real '
+                        'estate, residential first mortgage, residential '
+                        'rental mortgage, construction and land development, '
+                        'home equity and second mortgage, commercial, '
+                        'consumer, and commercial equipment loans. It also '
+                        'offers safe deposit box, night depository, cash '
+                        'vault, automated clearinghouse transaction, wire '
+                        'transfer, automated teller machine (ATM), online and '
+                        'telephone banking, retail and business mobile '
+                        'banking, remote deposit capture, reciprocal deposit, '
+                        'merchant card, credit monitoring, investment, '
+                        'positive pay, payroll, account reconciliation, bill '
+                        'pay, credit card, and lockbox services. As of '
+                        'December 31, 2019, it operated 12 banking centers in '
+                        'Waldorf, Bryans Road, Dunkirk, Leonardtown, La Plata, '
+                        'Charlotte Hall, Prince Frederick, Lusby, and '
+                        'California, Maryland, as well as Fredericksburg, '
+                        'Virginia; four loan production offices in La Plata, '
+                        'Prince Frederick, and Leonardtown, Maryland, as well '
+                        'as Fredericksburg, Virginia; and 15 ATMs. The company '
+                        'was formerly known as Tri-County Financial '
+                        'Corporation and changed its name to The Community '
+                        'Financial Corporation in October 2013. The Community '
+                        'Financial Corporation was founded in 1950 and is '
+                        'headquartered in Waldorf, Maryland.',
+ 'longName': 'The Community Financial Corporation',
+ 'market': 'us_market',
+ 'marketCap': 133487992,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3188536',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 14143000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 22.2,
+ 'openInterest': None,
+ 'payoutRatio': 0.1984,
+ 'pegRatio': 0.91,
+ 'phone': '301-645-5601',
+ 'previousClose': 22.4,
+ 'priceHint': 2,
+ 'priceToBook': 0.72030115,
+ 'priceToSalesTrailing12Months': 2.386015,
+ 'profitMargins': 0.25280002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 22.58,
+ 'regularMarketDayLow': 22,
+ 'regularMarketOpen': 22.2,
+ 'regularMarketPreviousClose': 22.4,
+ 'regularMarketPrice': 22.2,
+ 'regularMarketVolume': 2628,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 5911780,
+ 'sharesPercentSharesOut': 0.008,
+ 'sharesShort': 47183,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 32285,
+ 'shortName': 'The Community Financial Corpora',
+ 'shortPercentOfFloat': 0.0089,
+ 'shortRatio': 4.21,
+ 'startDate': None,
+ 'state': 'MD',
+ 'strikePrice': None,
+ 'symbol': 'TCFC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.5,
+ 'trailingAnnualDividendYield': 0.02232143,
+ 'trailingEps': 2.506,
+ 'trailingPE': 9.010375,
+ 'twoHundredDayAverage': 25.616907,
+ 'volume': 2628,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cbtc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20601'}

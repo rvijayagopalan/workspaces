@@ -1,0 +1,159 @@
+{'52WeekChange': -0.14658082,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '7575 West Jefferson Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 27.84,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 1928762,
+ 'averageVolume': 2000080,
+ 'averageVolume10days': 1928762,
+ 'beta': 1.445378,
+ 'beta3Year': None,
+ 'bid': 27.83,
+ 'bidSize': 2200,
+ 'bookValue': 19.707,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Fort Wayne',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 27.955,
+ 'dayLow': 27.29,
+ 'dividendRate': 1,
+ 'dividendYield': 0.0363,
+ 'earningsQuarterlyGrowth': -0.611,
+ 'enterpriseToEbitda': 6.084,
+ 'enterpriseToRevenue': 0.74,
+ 'enterpriseValue': 7066398720,
+ 'exDividendDate': 1593388800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 26.775429,
+ 'fiftyTwoWeekHigh': 35.78,
+ 'fiftyTwoWeekLow': 14.98,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.3,
+ 'floatShares': 199390440,
+ 'forwardEps': 2.19,
+ 'forwardPE': 12.707762,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 8385,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.05072,
+ 'heldPercentInstitutions': 0.88346,
+ 'industry': 'Steel',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1206921600,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/steeldynamics.com',
+ 'longBusinessSummary': 'Steel Dynamics, Inc., together with its subsidiaries, '
+                        'operates as a steel producer and metal recycler in '
+                        'the United States. It operates through three '
+                        'segments: Steel Operations, Metals Recycling '
+                        'Operations, and Steel Fabrication Operations. The '
+                        'Steel Operations segment offers hot roll, cold roll, '
+                        'and coated steel products; structural steel beams, '
+                        'pilings, and standard and premium grade rail '
+                        'products; engineered special-bar-quality products; '
+                        'and merchant-bar-quality products, including rounds, '
+                        'angles, flats, reinforcing bars, and channels and '
+                        'specialty steel sections. This segment is also '
+                        'involved in the turning, polishing, straightening, '
+                        'chamfering, threading, precision saw-cutting, cold '
+                        'drawing, and heat treating of bar products; and '
+                        'cutting to length, straightening, hole punching, shot '
+                        'blasting, welding, and coating of beams, channels, '
+                        'and specialty steel sections. Its products are used '
+                        'in construction, automotive, manufacturing, '
+                        'transportation, heavy and agriculture equipment, and '
+                        'pipe and tube industry sectors. This segment sells '
+                        'its products directly to end-users, steel '
+                        'fabricators, and service centers. The Metals '
+                        'Recycling Operations segment engages in the purchase, '
+                        'process, and resale of ferrous and nonferrous scrap '
+                        'metals into reusable forms and grades. Its ferrous '
+                        'products include heavy melting steel, busheling, '
+                        'bundled scrap, shredded scrap, steel turnings, and '
+                        'cast iron products; and nonferrous products comprise '
+                        'aluminum, brass, copper, stainless steel, and other '
+                        'nonferrous metals. This segment also provides '
+                        'transportation logistics, marketing, brokerage, and '
+                        'scrap management services. The Steel Fabrication '
+                        'Operations segment produces steel building components '
+                        'comprising steel joists, girders, trusses, and steel '
+                        'deck products for non-residential steel fabricators. '
+                        'The company also exports its products. Steel '
+                        'Dynamics, Inc. was founded in 1993 and is '
+                        'headquartered in Fort Wayne, Indiana.',
+ 'longName': 'Steel Dynamics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 5853539328,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_34768',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 535308992,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 27.63,
+ 'openInterest': None,
+ 'payoutRatio': 0.39200002,
+ 'pegRatio': -2,
+ 'phone': '260 969 3500',
+ 'previousClose': 27.56,
+ 'priceHint': 2,
+ 'priceToBook': 1.4121885,
+ 'priceToSalesTrailing12Months': 0.61316425,
+ 'profitMargins': 0.05607,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 27.955,
+ 'regularMarketDayLow': 27.29,
+ 'regularMarketOpen': 27.63,
+ 'regularMarketPreviousClose': 27.56,
+ 'regularMarketPrice': 27.63,
+ 'regularMarketVolume': 1448326,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Basic Materials',
+ 'sharesOutstanding': 210332000,
+ 'sharesPercentSharesOut': 0.0214,
+ 'sharesShort': 4492190,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5048583,
+ 'shortName': 'Steel Dynamics, Inc.',
+ 'shortPercentOfFloat': 0.0253,
+ 'shortRatio': 2.15,
+ 'startDate': None,
+ 'state': 'IN',
+ 'strikePrice': None,
+ 'symbol': 'STLD',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.98,
+ 'trailingAnnualDividendYield': 0.035558783,
+ 'trailingEps': 2.492,
+ 'trailingPE': 11.167736,
+ 'twoHundredDayAverage': 26.048704,
+ 'volume': 1448326,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.steeldynamics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '46804'}

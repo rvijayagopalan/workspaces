@@ -1,0 +1,156 @@
+{'52WeekChange': 6.961165,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2040 E Mariposa Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 4.17,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 416712,
+ 'averageVolume': 711782,
+ 'averageVolume10days': 416712,
+ 'beta': 1.9978,
+ 'beta3Year': None,
+ 'bid': 4.04,
+ 'bidSize': 800,
+ 'bookValue': -0.304,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'El Segundo',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 4.28,
+ 'dayLow': 4.09,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -41.188,
+ 'enterpriseToRevenue': 6.65,
+ 'enterpriseValue': 624659648,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 4.259286,
+ 'fiftyTwoWeekHigh': 6.39,
+ 'fiftyTwoWeekLow': 0.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 12944715,
+ 'forwardEps': -0.18,
+ 'forwardPE': -22.777777,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 398,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.64338,
+ 'heldPercentInstitutions': 0.1863,
+ 'industry': 'Health Information Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/nanthealth.com',
+ 'longBusinessSummary': 'NantHealth, Inc., together with its subsidiaries, '
+                        'operates as a healthcare technology company in the '
+                        'United States and internationally. The company '
+                        'engages in converging science and technology through '
+                        'an integrated clinical platform to provide health '
+                        'information at the point of care. It develops '
+                        'NantHealth solutions, including molecular profiling '
+                        'solutions, software, and hardware systems '
+                        'infrastructure, which integrates patient data '
+                        'management, bioinformatics, and molecular medicine to '
+                        'enable value-based care and evidence-based clinical '
+                        "practice. The company's products include GPS Cancer, "
+                        'a molecular profile that integrates whole genome '
+                        'sequencing of tumor and normal germline samples, as '
+                        'well as whole transcriptome sequencing; GPS Cancer '
+                        'Report, a GPS cancer solution; GPS in rare diseases '
+                        'and chronic illnesses; Liquid GPS, a blood-based '
+                        'molecular test; and Eviti, a decision support '
+                        'solution. It also provides Web-based and mobile '
+                        'software solutions, such as Device Connectivity '
+                        'Suite, a device connectivity and near real-time '
+                        'biometric software and hardware suite; DeviceConX, a '
+                        'device data normalization software; HBox, an Internet '
+                        'of Medical Things and Internet of Things hardware '
+                        'hub; and VitalsConX, a tablet-optimized application. '
+                        'In addition, NantHealth, Inc. offers NaviNet Open, a '
+                        'payer-provider collaboration platform comprising plan '
+                        'central, eligibility and benefit, claims status '
+                        'inquiry, claims management, referral, authorization, '
+                        'document exchange, and AllPayer services; and '
+                        'cloud-based computing, storage, and transport '
+                        'infrastructure-as-a-service solutions. The company '
+                        'was formerly known as Nant Health, LLC and changed '
+                        'its name to NantHealth, Inc. in June 2016. The '
+                        'company was founded in 2010 and is headquartered in '
+                        'El Segundo, California. NantHealth, Inc. is as a '
+                        'subsidiary of NantWorks, LLC.',
+ 'longName': 'NantHealth, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 453541984,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_222554189',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -51949000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 4.2,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '855-949-6268',
+ 'previousClose': 4.265,
+ 'priceHint': 4,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 4.828408,
+ 'profitMargins': -0.21051,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 4.28,
+ 'regularMarketDayLow': 4.09,
+ 'regularMarketOpen': 4.2,
+ 'regularMarketPreviousClose': 4.265,
+ 'regularMarketPrice': 4.2,
+ 'regularMarketVolume': 184453,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 110620000,
+ 'sharesPercentSharesOut': 0.0123000005,
+ 'sharesShort': 1355214,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 258346,
+ 'shortName': 'NantHealth, Inc.',
+ 'shortPercentOfFloat': 0.0505,
+ 'shortRatio': 1.11,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'NH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.18,
+ 'twoHundredDayAverage': 2.499036,
+ 'volume': 184453,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://nanthealth.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '90245'}

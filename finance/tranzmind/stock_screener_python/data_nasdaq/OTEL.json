@@ -1,0 +1,154 @@
+{'52WeekChange': -0.17405915,
+ 'SandP52WeekChange': None,
+ 'address1': '505 Third Avenue East',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 12.35,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 4037,
+ 'averageVolume': 11280,
+ 'averageVolume10days': 4037,
+ 'beta': 1.908683,
+ 'beta3Year': None,
+ 'bid': 12.26,
+ 'bidSize': 900,
+ 'bookValue': 6.14,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Oneonta',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.45,
+ 'dayLow': 11.73,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.028,
+ 'enterpriseToEbitda': 4.825,
+ 'enterpriseToRevenue': 1.711,
+ 'enterpriseValue': 106795192,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.258857,
+ 'fiftyTwoWeekHigh': 15.13,
+ 'fiftyTwoWeekLow': 2.93,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 1599141,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.57388,
+ 'heldPercentInstitutions': 0.10391,
+ 'industry': 'Telecom Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/otelco.com',
+ 'longBusinessSummary': 'Otelco Inc. provides a range of telecommunications '
+                        'services on a retail and wholesale basis. The company '
+                        'offers local services, including voice lines that '
+                        'provide local dial tone and calling features, such as '
+                        'caller identification, call waiting, call forwarding, '
+                        'and voicemail; long distance services; billing and '
+                        'collection services for other carriers under '
+                        'contract; and directory advertising services. It also '
+                        'provides network access services comprising the '
+                        'origination, transportation, and termination of calls '
+                        'of long distance, wireless, and other interexchange '
+                        'carriers; digital high-speed data lines and ancillary '
+                        'services, such as Web hosting and computer virus '
+                        'protection; and basic, digital, high-definition, '
+                        'digital video recording, video on demand, and pay per '
+                        'view cable television services. In addition, it '
+                        'offers Internet protocol television; wireless '
+                        'security systems and system monitoring services; and '
+                        'private/hybrid cloud hosting services, as well as '
+                        'consulting and professional IT engineering services '
+                        'for mission-critical software applications for small '
+                        'and mid-sized companies. Further, the company rents '
+                        'fiber to transport data and other telecommunications '
+                        'services. It primarily serves business and '
+                        'residential customers residing in and adjacent to the '
+                        'exchanges in Alabama, Maine, Massachusetts, Missouri, '
+                        'Vermont, and West Virginia; and business customers in '
+                        'Maine and New Hampshire. As of March 6, 2019, it '
+                        'operated approximately 99,000 voice and data access '
+                        'lines. The company was founded in 1998 and is based '
+                        'in Oneonta, Alabama.',
+ 'longName': 'Otelco Inc.',
+ 'market': 'us_market',
+ 'marketCap': 41951148,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_7910020',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 7733000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 11.79,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '205-625-3580',
+ 'previousClose': 12.29,
+ 'priceHint': 2,
+ 'priceToBook': 1.9967427,
+ 'priceToSalesTrailing12Months': 0.67193866,
+ 'profitMargins': 0.123859994,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.45,
+ 'regularMarketDayLow': 11.73,
+ 'regularMarketOpen': 11.79,
+ 'regularMarketPreviousClose': 12.29,
+ 'regularMarketPrice': 11.79,
+ 'regularMarketVolume': 10616,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 3421790,
+ 'sharesPercentSharesOut': 0.0052,
+ 'sharesShort': 17747,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 6812,
+ 'shortName': 'Otelco Inc.',
+ 'shortPercentOfFloat': 0.0121,
+ 'shortRatio': 1.02,
+ 'startDate': None,
+ 'state': 'AL',
+ 'strikePrice': None,
+ 'symbol': 'OTEL',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.25,
+ 'trailingPE': 5.448889,
+ 'twoHundredDayAverage': 8.104964,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'cba38b32-923b-3981-95c8-615e6d07b46d',
+ 'volume': 10616,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.otelco.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '35121'}

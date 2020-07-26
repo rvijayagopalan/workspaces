@@ -1,0 +1,155 @@
+{'52WeekChange': -0.3423168,
+ 'SandP52WeekChange': None,
+ 'address1': '3013 Science Park Road',
+ 'address2': 'Suite 200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 15.5,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 686687,
+ 'averageVolume': 735030,
+ 'averageVolume10days': 686687,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 12.42,
+ 'bidSize': 900,
+ 'bookValue': 4.935,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Diego',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.85,
+ 'dayLow': 13.44,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -2.67,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 535525824,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 12.981143,
+ 'fiftyTwoWeekHigh': 27.15,
+ 'fiftyTwoWeekLow': 7.52,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 39180269,
+ 'forwardEps': -3.35,
+ 'forwardPE': -4.0507464,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 171,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.21673,
+ 'heldPercentInstitutions': 0.74359,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/gossamerbio.com',
+ 'longBusinessSummary': 'Gossamer Bio, Inc., a clinical-stage '
+                        'biopharmaceutical company, focuses on discovering, '
+                        'acquiring, developing, and commercializing '
+                        'therapeutics in the disease areas of immunology, '
+                        'inflammation, and oncology in the United States. It '
+                        'is developing GB001, an oral antagonist of '
+                        'prostaglandin D2 receptor 2, which is in Phase IIb '
+                        'clinical trial for the treatment of '
+                        'moderate-to-severe eosinophilic asthma; in Phase II '
+                        'clinical trial to treat patients with chronic '
+                        'rhinosinusitis both with and without nasal polyps; '
+                        'and in translational Phase 2 clinical trial in '
+                        'patients with chronic spontaneous urticarial. The '
+                        'company is also developing GB002, an orally inhaled, '
+                        'small molecule, selective platelet-derived growth '
+                        'factor receptor kinase inhibitor in Phase Ib clinical '
+                        'trial for the treatment of pulmonary arterial '
+                        'hypertension; GB004, a novel, gut-targeted, oral '
+                        'small molecule in Phase Ib clinical trial for the '
+                        'treatment of inflammatory bowel disease, including '
+                        "ulcerative colitis and Crohn's disease; and GB1275, "
+                        'an oral, small molecule, CD11b modulator in Phase 1/2 '
+                        'clinical trial for the treatment of selected solid '
+                        'tumor types. It has license agreements with '
+                        'Pulmokine, Inc. to develop and commercialize GB002 '
+                        'and certain backup compounds; and Aerpio '
+                        'Pharmaceuticals, Inc. to develop and commercialize '
+                        'GB004 and related compounds. The company was formerly '
+                        'known as FSG, Bio, Inc. and changed its name to '
+                        'Gossamer Bio, Inc. in 2017. Gossamer Bio, Inc. was '
+                        'founded in 2015 and is headquartered in San Diego, '
+                        'California.',
+ 'longName': 'Gossamer Bio, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1028502848,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_548541911',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -201770000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.8,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.13,
+ 'phone': '858 684 1300',
+ 'previousClose': 13.91,
+ 'priceHint': 2,
+ 'priceToBook': 2.7497466,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.85,
+ 'regularMarketDayLow': 13.44,
+ 'regularMarketOpen': 13.8,
+ 'regularMarketPreviousClose': 13.91,
+ 'regularMarketPrice': 13.8,
+ 'regularMarketVolume': 291815,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 75792400,
+ 'sharesPercentSharesOut': 0.0765,
+ 'sharesShort': 5801815,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5850416,
+ 'shortName': 'Gossamer Bio, Inc.',
+ 'shortPercentOfFloat': 0.097399995,
+ 'shortRatio': 8.49,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'GOSS',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -3.3,
+ 'twoHundredDayAverage': 12.843993,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b23a77d9-f4eb-3e8f-858d-367c07bb4901',
+ 'volume': 291815,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.gossamerbio.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92121'}

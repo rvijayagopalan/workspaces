@@ -1,0 +1,209 @@
+{'52WeekChange': -0.3322034,
+ 'SandP52WeekChange': None,
+ 'address1': 'Lincoln Center Tower 1',
+ 'address2': 'Suite 1300 5400 Lyndon B Johnson Freeway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.64,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 68237,
+ 'averageVolume': 121879,
+ 'averageVolume10days': 68237,
+ 'beta': 0.453221,
+ 'beta3Year': None,
+ 'bid': 13.49,
+ 'bidSize': 900,
+ 'bookValue': 15.125,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Dallas',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.76,
+ 'dayLow': 13.4757,
+ 'dividendRate': 1.64,
+ 'dividendYield': 0.1189,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 11.009,
+ 'enterpriseToRevenue': 8.612,
+ 'enterpriseValue': 534300192,
+ 'exDividendDate': 1600041600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '214-238-5701',
+ 'fiftyDayAverage': 13.762571,
+ 'fiftyTwoWeekHigh': 22.9,
+ 'fiftyTwoWeekLow': 7.39,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 4.63,
+ 'floatShares': 17145708,
+ 'forwardEps': 1.68,
+ 'forwardPE': 8.077381,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 22,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.06881,
+ 'heldPercentInstitutions': 0.39431,
+ 'industry': 'Asset Management',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1376611200,
+ 'lastSplitFactor': '4:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/capitalsouthwest.com',
+ 'longBusinessSummary': 'Capital Southwest Corporation is a business '
+                        'development company specializing in credit and '
+                        'private equity and venture capital investments in '
+                        'middle market companies, mezzanine, later stage, '
+                        'mature, late venture, emerging growth, buyouts, '
+                        'recapitalizations and growth capital investments. It '
+                        'does not invest in startups, publicly traded '
+                        'companies, real estate developments, project finance '
+                        'opportunities, oil and gas exploration businesses, '
+                        'troubled companies, turnarounds, and companies in '
+                        'which significant senior management is departing. In '
+                        'lower middle market, the firm typically invests in '
+                        'growth financing, bolt-on acquisitions, new platform '
+                        'acquisitions, refinancing, dividend '
+                        'recapitalizations, sponsor-led buyouts, and '
+                        'management buyouts situations. The investment '
+                        'structures are Unitranche debt, subordinated debt, '
+                        'senior debt, first and second lien debt, and '
+                        'preferred and common equity. The firm makes equity '
+                        'co-investments alongside debt investments, up to 20% '
+                        'of total check and only makes non-control '
+                        'investments. It prefers to invest in Industrial '
+                        'manufacturing and services, value-added distribution, '
+                        'healthcare products and services, business services, '
+                        'specialty chemicals, food and beverage, tech-enabled '
+                        'services and SaaS models. The firm seeks to invest in '
+                        'energy services and products, industrial '
+                        'technologies, and specialty chemicals and products. '
+                        'Within energy services and products, the firm seeks '
+                        'to invest in each segment of the industry, including '
+                        'upstream, midstream and downstream, excluding '
+                        'exploration and production with a focus on '
+                        'differentiated products and services, equipment and '
+                        'tool rental, consumable products, and drilling and '
+                        'completion chemicals. Within industrial technologies, '
+                        'it seeks to invest in automation and process '
+                        'controls, handling and packaging equipment, '
+                        'industrial filtration and fluid handling, '
+                        'measurement, monitoring and testing, professional '
+                        'tools, and sensors and instrumentation. Within and '
+                        'specialty chemicals and products, the firm seeks to '
+                        'invest in businesses that develop and manufacture '
+                        'highly differentiated chemicals and products '
+                        'including adhesives, coatings and sealants, catalysts '
+                        'and absorbents, cosmeceuticals, fine chemicals, '
+                        'flavors and fragrances, performance lubricants, '
+                        'polymers, plastics and composites, chemical '
+                        'dispensing and filtration equipment, professional and '
+                        'industrial trade consumables and tools, engineered '
+                        'solutions for HVAC, plumbing, and electrical '
+                        'installations, specified high performance materials '
+                        'for fire protection and oilfield applications. It may '
+                        'also invest in exceptional opportunities in building '
+                        'products. The firm seeks to invest in the United '
+                        'States. The firm seeks to make investments ranging '
+                        'from $5 to $25 million in securities. It seeks to '
+                        'make equity investments up to $5 million and debt '
+                        'investments between $5 million and $20 million and '
+                        'co-invest in transaction size upto $40 million. It '
+                        'prefers to invest in companies with revenues '
+                        'approaching above $10 million, profitable operations, '
+                        'historical growth rate of at least 15 percent per '
+                        'year. . Within the lower middle market, it seeks to '
+                        'invest in with less than $15 million in EBITDA and '
+                        'also opportunistically invests in the upper middle '
+                        'market, generally defined as companies with EBITDA in '
+                        'excess of $50 million. In addition to making direct '
+                        'investments, the firm allocates capital to syndicated '
+                        'first and second lien term loans in the upper middle '
+                        'market. Criteria for Upper Middle Market Syndicated '
+                        '1st Lien is EBITDA Size more than $30 million, '
+                        'Closing Leverage greater than 4 times, investment '
+                        'hold size between $5 million and $7 million, '
+                        'investment yield greater than 6.5%. Criteria for '
+                        'Upper Middle Market Syndicated 2nd Lien is EBITDA '
+                        'Size more than $50 million, Closing Leverage greater '
+                        'than 6 times, investment hold size between $5 million '
+                        'and $7 million, investment yield greater than 9%. It '
+                        'prefers to take a majority and minority stake. The '
+                        'firm has the flexibility to hold investments for very '
+                        'long period in its portfolio companies. It may also '
+                        'invest through warrants. The firm prefers to take '
+                        'Board participation in its portfolio companies. '
+                        'Capital Southwest Corporation was founded on April '
+                        '19, 1961 and is based in Dallas, Texas.',
+ 'longName': 'Capital Southwest Corporation',
+ 'market': 'us_market',
+ 'marketCap': 244234208,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_19477',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -22351000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 13.76,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': None,
+ 'phone': '214-238-5700',
+ 'previousClose': 13.79,
+ 'priceHint': 2,
+ 'priceToBook': 0.89719003,
+ 'priceToSalesTrailing12Months': 3.936785,
+ 'profitMargins': -0.36027,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.76,
+ 'regularMarketDayLow': 13.4757,
+ 'regularMarketOpen': 13.76,
+ 'regularMarketPreviousClose': 13.79,
+ 'regularMarketPrice': 13.76,
+ 'regularMarketVolume': 61981,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 17998100,
+ 'sharesPercentSharesOut': 0.0039,
+ 'sharesShort': 70190,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 93265,
+ 'shortName': 'Capital Southwest Corporation',
+ 'shortPercentOfFloat': 0.0042,
+ 'shortRatio': 0.43,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'CSWC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.6,
+ 'trailingAnnualDividendYield': 0.11602611,
+ 'trailingEps': -1.242,
+ 'twoHundredDayAverage': 15.107338,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '78197d79-bbeb-3753-9846-c626f243e896',
+ 'volume': 61981,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.capitalsouthwest.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75240'}

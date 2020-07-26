@@ -1,0 +1,155 @@
+{'52WeekChange': 0.30494642,
+ 'SandP52WeekChange': None,
+ 'address1': '1031 Mendota Heights Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 25.03,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 1044437,
+ 'averageVolume': 1278628,
+ 'averageVolume10days': 1044437,
+ 'beta': 1.52605,
+ 'beta3Year': None,
+ 'bid': 25.02,
+ 'bidSize': 1100,
+ 'bookValue': 8.83,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Saint Paul',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 25.55,
+ 'dayLow': 24.95,
+ 'dividendRate': 1.04,
+ 'dividendYield': 0.0405,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 11.098,
+ 'enterpriseToRevenue': 0.542,
+ 'enterpriseValue': 2977886464,
+ 'exDividendDate': 1594857600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 21.935429,
+ 'fiftyTwoWeekHigh': 26.3,
+ 'fiftyTwoWeekLow': 12.93,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.51,
+ 'floatShares': 84352677,
+ 'forwardEps': 1.61,
+ 'forwardPE': 15.552795,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 7800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.11914,
+ 'heldPercentInstitutions': 0.94203,
+ 'industry': 'Medical Distribution',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1587772800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1098662400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pattersoncompanies.com',
+ 'longBusinessSummary': 'Patterson Companies, Inc. distributes and sells '
+                        'dental and animal health products in the United '
+                        'States, the United Kingdom, and Canada. It operates '
+                        'through three segments; Dental, Animal Health, and '
+                        'Corporate segments. The Dental segment offers '
+                        'consumable products, including infection control, '
+                        'restorative materials, hand instruments, and '
+                        'sterilization products; basic and advanced technology '
+                        'dental equipment; technology solutions, such as '
+                        'practice management software and e-commerce '
+                        'solutions; patient education systems; and office '
+                        'forms and stationery. It also provides a range of '
+                        'related services comprising software and design '
+                        'services, maintenance and repair, and equipment '
+                        'financing. The Animal Health segment distributes '
+                        'pharmaceuticals, vaccines, parasiticides, '
+                        'diagnostics, prescription and non-prescription diets, '
+                        'nutritionals, consumable supplies, equipment, and '
+                        'software, as well as value-added services. This '
+                        'segment also provides private label portfolio of '
+                        'products to veterinarians, producers, and retailers '
+                        'under the Aspen, First Companion, and Patterson '
+                        'Veterinary brands. The Corporate segment offers '
+                        'customer financing services; and sells other '
+                        'miscellaneous products. It serves dentists, '
+                        'laboratories, institutions, other healthcare '
+                        'professionals, veterinarians, other animal health '
+                        'professionals, production animal operators, and '
+                        'animal health product retailers. The company was '
+                        'formerly known as Patterson Dental Company and '
+                        'changed its name to Patterson Companies, Inc. in June '
+                        '2004. Patterson Companies, Inc. was founded in 1877 '
+                        'and is headquartered in Saint Paul, Minnesota.',
+ 'longName': 'Patterson Companies, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2403214080,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_320186',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1587772800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -588446016,
+ 'nextFiscalYearEnd': 1650844800,
+ 'open': 25.5,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 6.14,
+ 'phone': '651 686 1600',
+ 'previousClose': 25.59,
+ 'priceHint': 2,
+ 'priceToBook': 2.8357873,
+ 'priceToSalesTrailing12Months': 0.43774304,
+ 'profitMargins': -0.10718001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 25.55,
+ 'regularMarketDayLow': 24.95,
+ 'regularMarketOpen': 25.5,
+ 'regularMarketPreviousClose': 25.59,
+ 'regularMarketPrice': 25.5,
+ 'regularMarketVolume': 557710,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 95806000,
+ 'sharesPercentSharesOut': 0.13319999,
+ 'sharesShort': 12786254,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 11230518,
+ 'shortName': 'Patterson Companies, Inc.',
+ 'shortPercentOfFloat': 0.20959999,
+ 'shortRatio': 9.11,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'PDCO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.04,
+ 'trailingAnnualDividendYield': 0.040640872,
+ 'trailingEps': -6.25,
+ 'twoHundredDayAverage': 20.057554,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '933052e1-8611-30d2-b650-f965cb514820',
+ 'volume': 557710,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pattersoncompanies.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '55120'}

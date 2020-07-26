@@ -1,0 +1,157 @@
+{'52WeekChange': 'Infinity',
+ 'SandP52WeekChange': None,
+ 'address1': '401 North Hershey Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 20,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 67412,
+ 'averageVolume': 60107,
+ 'averageVolume10days': 67412,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 12.19,
+ 'bidSize': 3000,
+ 'bookValue': 19.356,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Bloomington',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 12.49,
+ 'dayLow': 12.17,
+ 'dividendRate': 0.6,
+ 'dividendYield': 0.048899997,
+ 'earningsQuarterlyGrowth': -0.668,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 0.979,
+ 'enterpriseValue': 150388848,
+ 'exDividendDate': 1581033600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 12.831572,
+ 'fiftyTwoWeekHigh': 20.71,
+ 'fiftyTwoWeekLow': 9.11,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 9657284,
+ 'forwardEps': 1.8,
+ 'forwardPE': 6.7944446,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 747,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.63897,
+ 'heldPercentInstitutions': 0.35439,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ir.hbtfinancial.com',
+ 'longBusinessSummary': 'HBT Financial, Inc. operates as the bank holding '
+                        'company for Heartland Bank and Trust Company and '
+                        'State Bank of Lincoln that provides business, '
+                        'commercial, and retail banking products and services '
+                        'to individuals, businesses, and municipal entities. '
+                        'It offers money market, savings, checking, HSA, IRA, '
+                        'and interest-bearing transaction accounts; time, '
+                        'brokered, and noninterest-bearing demand deposits; '
+                        'and certificates of deposits. The company also '
+                        'provides commercial real estate (CRE) loans, '
+                        'including non-owner occupied CRE, construction and '
+                        'land development, and multi-family loans; commercial '
+                        'and industrial and owner-occupied CRE loans; '
+                        'agricultural and farmland loans; and one-to-four '
+                        'family residential loans, as well as municipal, '
+                        'consumer, and other loans. In addition, it offers '
+                        'wealth management services, including financial '
+                        'planning to individuals, trusts, and estates; trustee '
+                        'and custodial, investment management, corporate '
+                        'retirement plan consulting and administration, and '
+                        'retail brokerage services; farmland management, '
+                        'farmland sale, and crop insurance services; and '
+                        'treasury management services, as well as originates '
+                        'and sells residential mortgage loans. Further, the '
+                        'company provides digital banking services, such as '
+                        'online banking, mobile banking, and digital payments '
+                        'services, as well as personal financial management '
+                        'tools. It operates through 61 full-service and three '
+                        'limited-service branch locations across 18 counties '
+                        'in Central and Northeastern Illinois. The company was '
+                        'formerly known as Heartland Bancorp, Inc. and changed '
+                        'its name to HBT Financial, Inc. in September 2019. '
+                        'HBT Financial, Inc. was founded in 1920 and is '
+                        'headquartered in Bloomington, Illinois.',
+ 'longName': 'HBT Financial, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 335802752,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_45837603',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 54335000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 12.37,
+ 'openInterest': None,
+ 'payoutRatio': 0.0758,
+ 'pegRatio': None,
+ 'phone': '888-897-2276',
+ 'previousClose': 12.26,
+ 'priceHint': 2,
+ 'priceToBook': 0.63184536,
+ 'priceToSalesTrailing12Months': 2.1870272,
+ 'profitMargins': 0.35397,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 12.49,
+ 'regularMarketDayLow': 12.17,
+ 'regularMarketOpen': 12.37,
+ 'regularMarketPreviousClose': 12.26,
+ 'regularMarketPrice': 12.37,
+ 'regularMarketVolume': 31543,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 27457300,
+ 'sharesPercentSharesOut': 0.0098,
+ 'sharesShort': 269571,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 92939,
+ 'shortName': 'HBT Financial, Inc.',
+ 'shortPercentOfFloat': 0.0278,
+ 'shortRatio': 6.42,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'HBT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.01,
+ 'trailingAnnualDividendYield': 0.00081566063,
+ 'trailingEps': 3.478,
+ 'trailingPE': 3.5163887,
+ 'twoHundredDayAverage': 13.827878,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'af68c3b9-6e37-397e-9268-befb02828bb1',
+ 'volume': 31543,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://ir.hbtfinancial.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '61704'}

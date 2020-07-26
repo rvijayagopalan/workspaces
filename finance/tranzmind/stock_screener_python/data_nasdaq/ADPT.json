@@ -1,0 +1,151 @@
+{'52WeekChange': -0.037870646,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1551 Eastlake Avenue East',
+ 'address2': 'Suite 200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 38,
+ 'askSize': 3200,
+ 'averageDailyVolume10Day': 2032550,
+ 'averageVolume': 1184258,
+ 'averageVolume10days': 2032550,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 35.1,
+ 'bidSize': 900,
+ 'bookValue': 4.356,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Seattle',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 36.55,
+ 'dayLow': 35.74,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -48.161,
+ 'enterpriseToRevenue': 43.859,
+ 'enterpriseValue': 4092700672,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '206 659 0667',
+ 'fiftyDayAverage': 43.710285,
+ 'fiftyTwoWeekHigh': 55.12,
+ 'fiftyTwoWeekLow': 15.19,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 76076733,
+ 'forwardEps': -1.09,
+ 'forwardPE': -33.330276,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 453,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.0547,
+ 'heldPercentInstitutions': 0.73437,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/adaptivebiotech.com',
+ 'longBusinessSummary': 'Adaptive Biotechnologies Corporation, a '
+                        'commercial-stage company, develops an immune medicine '
+                        'platform for the diagnosis and treatment of various '
+                        'diseases. The company offers immunoSEQ research '
+                        'service and kit that is used to answer research '
+                        'questions, as well as to discover new prognostic and '
+                        'diagnostic signals. It also provides clonoSEQ '
+                        'diagnostic tests, which include immunosequencing '
+                        'services for use in the detection and monitoring of '
+                        'minimal residual disease in patients with select '
+                        'blood cancers. In addition, the company offers a '
+                        'pipeline of clinical products and services that are '
+                        'used for the diagnosing, monitoring, and treatment of '
+                        'diseases, such as cancer, autoimmune conditions, and '
+                        'infectious diseases. Adaptive Biotechnologies '
+                        'Corporation has strategic collaborations with '
+                        'Genentech, Inc. for the development, manufacture, and '
+                        'commercialization of neoantigen directed T cell '
+                        'therapies for the treatment of a range of cancers; '
+                        'Microsoft Corporation to develop diagnostic tests for '
+                        'the early detection of various diseases from a single '
+                        'blood test; and Amgen to develop a therapeutic to '
+                        'prevent or treat COVID-19. It serves the life '
+                        'sciences research, clinical diagnostics, and drug '
+                        'discovery customers. The company was formerly known '
+                        'as Adaptive TCR Corporation and changed its name to '
+                        'Adaptive Biotechnologies Corporation in December '
+                        '2011. Adaptive Biotechnologies Corporation was '
+                        'founded in 2009 and is headquartered in Seattle, '
+                        'Washington.',
+ 'longName': 'Adaptive Biotechnologies Corporation',
+ 'market': 'us_market',
+ 'marketCap': 4658741248,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_100147173',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -82333000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 36.4,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -3.96,
+ 'phone': '206 659 0067',
+ 'previousClose': 37.06,
+ 'priceHint': 2,
+ 'priceToBook': 8.34022,
+ 'priceToSalesTrailing12Months': 49.924892,
+ 'profitMargins': -0.8747,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 36.55,
+ 'regularMarketDayLow': 35.74,
+ 'regularMarketOpen': 36.4,
+ 'regularMarketPreviousClose': 37.06,
+ 'regularMarketPrice': 36.4,
+ 'regularMarketVolume': 1181167,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 128234000,
+ 'sharesPercentSharesOut': 0.0225,
+ 'sharesShort': 2859637,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2758762,
+ 'shortName': 'Adaptive Biotechnologies Corpor',
+ 'shortPercentOfFloat': 0.0403,
+ 'shortRatio': 2.48,
+ 'startDate': None,
+ 'state': 'WA',
+ 'strikePrice': None,
+ 'symbol': 'ADPT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.845,
+ 'twoHundredDayAverage': 33.605217,
+ 'volume': 1181167,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.adaptivebiotech.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '98102'}

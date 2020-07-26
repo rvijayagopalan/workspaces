@@ -1,0 +1,151 @@
+{'52WeekChange': 0.095402956,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '600 North Hurstbourne Parkway',
+ 'address2': 'Suite 400',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 133.14,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 236687,
+ 'averageVolume': 388193,
+ 'averageVolume10days': 236687,
+ 'beta': 1.160224,
+ 'beta3Year': None,
+ 'bid': 132.77,
+ 'bidSize': 1000,
+ 'bookValue': 11.154,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Louisville',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 133.62,
+ 'dayLow': 130,
+ 'dividendRate': 0.58,
+ 'dividendYield': 0.0044,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 23.428,
+ 'enterpriseToRevenue': 5.06,
+ 'enterpriseValue': 6665359360,
+ 'exDividendDate': 1575504000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 134.43257,
+ 'fiftyTwoWeekHigh': 167.53,
+ 'fiftyTwoWeekLow': 52.9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.65,
+ 'floatShares': 34319724,
+ 'forwardEps': 4.69,
+ 'forwardPE': 28.349682,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5500,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.119569995,
+ 'heldPercentInstitutions': 0.74775004,
+ 'industry': 'Gambling',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1548633600,
+ 'lastSplitFactor': '3:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/churchilldownsincorporated.com',
+ 'longBusinessSummary': 'Churchill Downs Incorporated operates as a racing, '
+                        'online wagering, and gaming entertainment company in '
+                        'the United States. It operates through three '
+                        'segments: Churchill Downs, Online Wagering, and '
+                        'Gaming. The company owns and operates Derby City '
+                        'Gaming, a historical racing machine in Louisville, '
+                        'Kentucky; online horse racing wagering platform, '
+                        'TwinSpires.com; and offers sports betting and iGaming '
+                        'through BetAmerica platform. It also operates 5 '
+                        'racetracks, including Churchill Downs Racetrack in '
+                        'Louisville, Kentucky; Arlington International Race '
+                        'Course in Arlington Heights with 12 off-track betting '
+                        '(OTB) facilities in Illinois; Fair Grounds Race '
+                        'Course in New Orleans along with 14 OTBs in '
+                        'Louisiana; and Calder Race Course in Miami Gardens, '
+                        'Florida. In addition, the company operates 8 casinos, '
+                        'which provides brick-and-mortar casino gaming '
+                        'services with approximately 11,000 slot machines and '
+                        'video lottery terminals and 200 table games; and '
+                        'operates hotels. Further, it offers streaming video '
+                        'of live horse races, replays, and an assortment of '
+                        'racing and handicapping information; and provides the '
+                        'Bloodstock Research Information Services platform for '
+                        'horse racing statistical data. Additionally, the '
+                        'company manufactures and operates pari-mutuel '
+                        'wagering systems for racetracks, OTBs, and other '
+                        'pari-mutuel wagering businesses; and provides '
+                        'totalizator services. Churchill Downs Incorporated '
+                        'was founded in 1928 and is headquartered in '
+                        'Louisville, Kentucky.',
+ 'longName': 'Churchill Downs Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 5243237888,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_260619',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 105500000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 130.85,
+ 'openInterest': None,
+ 'payoutRatio': 0.22610001,
+ 'pegRatio': 8.25,
+ 'phone': '502-636-4400',
+ 'previousClose': 131.64,
+ 'priceHint': 2,
+ 'priceToBook': 11.920387,
+ 'priceToSalesTrailing12Months': 3.9805937,
+ 'profitMargins': 0.07782,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 133.62,
+ 'regularMarketDayLow': 130,
+ 'regularMarketOpen': 130.85,
+ 'regularMarketPreviousClose': 131.64,
+ 'regularMarketPrice': 130.85,
+ 'regularMarketVolume': 188441,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 39434700,
+ 'sharesPercentSharesOut': 0.0793,
+ 'sharesShort': 3125797,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3449992,
+ 'shortName': 'Churchill Downs, Incorporated',
+ 'shortPercentOfFloat': 0.103,
+ 'shortRatio': 7.59,
+ 'startDate': None,
+ 'state': 'KY',
+ 'strikePrice': None,
+ 'symbol': 'CHDN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.581,
+ 'trailingAnnualDividendYield': 0.004413552,
+ 'trailingEps': 2.523,
+ 'trailingPE': 52.69917,
+ 'twoHundredDayAverage': 122.32065,
+ 'volume': 188441,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.churchilldownsincorporated.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '40222'}

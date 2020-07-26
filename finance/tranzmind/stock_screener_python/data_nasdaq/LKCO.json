@@ -1,0 +1,153 @@
+{'52WeekChange': -0.9213666,
+ 'SandP52WeekChange': None,
+ 'address1': 'SOHO Phase II',
+ 'address2': 'B9-8, Block B No 9, Guanghua Road Chaoyang District',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 0.69,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 4253962,
+ 'averageVolume': 2062942,
+ 'averageVolume10days': 4253962,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 0.6953,
+ 'bidSize': 1800,
+ 'bookValue': 0.259,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Beijing',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 0.719,
+ 'dayLow': 0.65,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -7.143,
+ 'enterpriseToRevenue': 9.725,
+ 'enterpriseValue': 182632720,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 0.67557144,
+ 'fiftyTwoWeekHigh': 10.505,
+ 'fiftyTwoWeekLow': 0.34,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 114622678,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 182,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.37575,
+ 'heldPercentInstitutions': 0.02234,
+ 'industry': 'Internet Content & Information',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/luokung.com',
+ 'longBusinessSummary': 'Luokung Technology Corp., through its subsidiaries, '
+                        'provides location-based services and mobile '
+                        'application products for long distance travelers in '
+                        "the People's Republic of China. It offers Luokuang "
+                        'mobile application, a content and service '
+                        'distribution platform that provides content and '
+                        'services, such as information, entertainment, travel, '
+                        'e-commerce, online to offline, advertisement, and '
+                        'other marketing features. The company also offers '
+                        'software development kits and application-programming '
+                        'interfaces, which provide spatial-temporal big data '
+                        'analysis and customized map to software and mobile '
+                        'application developers; and spatial temporal indexing '
+                        'cloud service, a data-level virtualization '
+                        'technology. In addition, it offers information '
+                        'SuperEngine that includes the server engine, which '
+                        'enables to store, manage, and index the spatial '
+                        'temporal big data on the server side; and Web '
+                        'graphics image engine that supports transmission of '
+                        'graphics images, as well as display and edge '
+                        'computing for multi-terminal and cross-platform. '
+                        'Further, the company provides spatial temporal cloud '
+                        'platform that offers cloud services, including data '
+                        'storage, data resource, and platform support '
+                        'services, as well as supports users to aggregate '
+                        'multi-source spatial data, map services, and Internet '
+                        'of Things streaming data. Luokung Technology Corp. '
+                        'has a strategic partnership with Jiangsu Dianyu '
+                        'Information Technology Co., Ltd. to expand mobile '
+                        'commercial big data services in the 5G era. Luokung '
+                        'Technology Corp. is headquartered in Beijing, China.',
+ 'longName': 'Luokung Technology Corp.',
+ 'market': 'us_market',
+ 'marketCap': 135869520,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_242746781',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1577750400,
+ 'navPrice': None,
+ 'netIncomeToCommon': -31513178,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 0.714,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '86 10 8586 6721',
+ 'previousClose': 0.725,
+ 'priceHint': 4,
+ 'priceToBook': 2.6057916,
+ 'priceToSalesTrailing12Months': 7.235118,
+ 'profitMargins': -1.6780901,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 0.719,
+ 'regularMarketDayLow': 0.65,
+ 'regularMarketOpen': 0.714,
+ 'regularMarketPreviousClose': 0.725,
+ 'regularMarketPrice': 0.714,
+ 'regularMarketVolume': 4094880,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 201318000,
+ 'sharesPercentSharesOut': 0.00029999999,
+ 'sharesShort': 63165,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4236,
+ 'shortName': 'Luokung Technology Corp',
+ 'shortPercentOfFloat': 0.0005,
+ 'shortRatio': 0.09,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'LKCO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.157,
+ 'twoHundredDayAverage': 0.7247842,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '574056d1-c076-3d87-b674-84612569f1d1',
+ 'volume': 4094880,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.luokung.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '100020'}

@@ -1,0 +1,148 @@
+{'52WeekChange': -0.08073199,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '561 Shady Elm Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 76.94,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 174500,
+ 'averageVolume': 170034,
+ 'averageVolume10days': 174500,
+ 'beta': 2.37703,
+ 'beta3Year': None,
+ 'bid': 76.89,
+ 'bidSize': 800,
+ 'bookValue': 41.387,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Winchester',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 78.51,
+ 'dayLow': 76.43,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.409,
+ 'enterpriseToEbitda': 8.688,
+ 'enterpriseToRevenue': 1.172,
+ 'enterpriseValue': 1933633792,
+ 'exDividendDate': 1307577600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 72.609146,
+ 'fiftyTwoWeekHigh': 117.7,
+ 'fiftyTwoWeekLow': 35.3,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 16771957,
+ 'forwardEps': 6.06,
+ 'forwardPE': 12.683168,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 9900,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.074310005,
+ 'heldPercentInstitutions': 1.0051,
+ 'industry': 'Furnishings, Fixtures & Appliances',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1588204800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1096243200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/americanwoodmark.com',
+ 'longBusinessSummary': 'American Woodmark Corporation manufactures and '
+                        'distributes kitchen, bath, and home organization '
+                        'products for the remodelling and new home '
+                        'construction markets in the United States. It offers '
+                        'made-to-order cabinetry in approximately 550 cabinet '
+                        'lines, which include 100 door designs in a range of '
+                        'painted or stained finishes, or engineered finishes '
+                        'under the Duraform name; and fronts made in various '
+                        'wood species, including maple, cherry, and oak, as '
+                        'well as engineered materials. The company also '
+                        'provides value-based assembled cabinet products for '
+                        'stock kitchen and bath; ready-to-assemble cabinetry '
+                        'for home organization; and countertops and '
+                        'accessories. In addition, it offers turnkey '
+                        'installation services to its direct builder customers '
+                        'through a network of eight service centers. The '
+                        'company sells its products under the American '
+                        'Woodmark, Timberlake, Shenandoah Cabinetry, Waypoint '
+                        'Living Spaces, Estate by RSI, Continental Cabinets, '
+                        'VillaBath by RSI, Stor-It-All, and Professional '
+                        'Cabinet Solutions brands, as well as private label '
+                        'brands, such as Hampton Bay, Glacier Bay, Style '
+                        'Selections, Allen + Roth, Home Decorators Collection, '
+                        'and Project Source. It markets its products directly '
+                        'to home centers and builders, as well as through '
+                        'independent dealers and distributors. The company was '
+                        'founded in 1980 and is headquartered in Winchester, '
+                        'Virginia.',
+ 'longName': 'American Woodmark Corporation',
+ 'market': 'us_market',
+ 'marketCap': 1302208256,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_250549',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 74861000,
+ 'nextFiscalYearEnd': 1651276800,
+ 'open': 77.74,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.35,
+ 'phone': '540 665 9100',
+ 'previousClose': 77.54,
+ 'priceHint': 2,
+ 'priceToBook': 1.8571049,
+ 'priceToSalesTrailing12Months': 0.78905785,
+ 'profitMargins': 0.04536,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 78.51,
+ 'regularMarketDayLow': 76.43,
+ 'regularMarketOpen': 77.74,
+ 'regularMarketPreviousClose': 77.54,
+ 'regularMarketPrice': 77.74,
+ 'regularMarketVolume': 92745,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 16925200,
+ 'sharesPercentSharesOut': 0.0249,
+ 'sharesShort': 422626,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 251785,
+ 'shortName': 'American Woodmark Corporation',
+ 'shortPercentOfFloat': 0.039300002,
+ 'shortRatio': 2.41,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'AMWD',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 4.42,
+ 'trailingPE': 17.38914,
+ 'twoHundredDayAverage': 73.96259,
+ 'volume': 92745,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.americanwoodmark.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '22602'}

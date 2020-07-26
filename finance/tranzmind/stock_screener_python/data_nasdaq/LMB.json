@@ -1,0 +1,154 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '1251 Waterfront Place',
+ 'address2': 'Suite 201',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.77,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 11587,
+ 'averageVolume': 17509,
+ 'averageVolume10days': 11587,
+ 'beta': 0.983753,
+ 'beta3Year': None,
+ 'bid': 2.17,
+ 'bidSize': 900,
+ 'bookValue': 6.045,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Pittsburgh',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.75,
+ 'dayLow': 3.71,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.778,
+ 'enterpriseToRevenue': 0.15,
+ 'enterpriseValue': 83523160,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '412 359 2248',
+ 'fiftyDayAverage': 3.6316,
+ 'fiftyTwoWeekHigh': 8.95,
+ 'fiftyTwoWeekLow': 2.37,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 5597494,
+ 'forwardEps': 0.5,
+ 'forwardPE': 7.42,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1900,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.39244998,
+ 'heldPercentInstitutions': 0.31366,
+ 'industry': 'Engineering & Construction',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/limbachinc.com',
+ 'longBusinessSummary': 'Limbach Holdings, Inc. provides commercial specialty '
+                        'contract services in the United States. It operates '
+                        'in two segments, Construction and Service. The '
+                        'company provides services in the areas of heating, '
+                        'ventilation, air-conditioning (HVAC), plumbing, '
+                        'electrical, and building controls through the design '
+                        'and construction of new and renovated buildings; '
+                        'maintenance services; and equipment upgrades. Its '
+                        'facility services comprise mechanical construction, '
+                        'HVAC service and maintenance, energy audits and '
+                        'retrofits, engineering and design build, '
+                        'constructability evaluation, equipment and materials '
+                        'selection, prefabrication of mechanical systems and '
+                        'components, and sustainable building solutions and '
+                        'practices. The company serves healthcare facilities; '
+                        'public and private colleges, universities, research '
+                        'centers and K-12 facilities; sports arenas; '
+                        'entertainment facilities, including casinos, and '
+                        'amusement rides; passenger terminals and maintenance '
+                        'facilities for rail and airports; government '
+                        'facilities comprising federal, state, and local '
+                        'agencies; hotels and resorts; office building and '
+                        'other commercial structures; mission critical '
+                        'facilities, including data centers; and industrial '
+                        'manufacturing facilities. It operates in Florida, '
+                        'California, Massachusetts, New Jersey, Pennsylvania, '
+                        'Delaware, Maryland, Washington DC, Virginia, West '
+                        'Virginia, Ohio, and Michigan. Limbach Holdings, Inc. '
+                        'was founded in 1901 and is headquartered in '
+                        'Pittsburgh, Pennsylvania.',
+ 'longName': 'Limbach Holdings, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 29136040,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_263324968',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -3674000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.72,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.12,
+ 'phone': '412 359 2100',
+ 'previousClose': 3.75,
+ 'priceHint': 4,
+ 'priceToBook': 0.6137304,
+ 'priceToSalesTrailing12Months': 0.05218146,
+ 'profitMargins': -0.00658,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.75,
+ 'regularMarketDayLow': 3.71,
+ 'regularMarketOpen': 3.72,
+ 'regularMarketPreviousClose': 3.75,
+ 'regularMarketPrice': 3.72,
+ 'regularMarketVolume': 2858,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 7853380,
+ 'sharesPercentSharesOut': 0.0039,
+ 'sharesShort': 30412,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 44526,
+ 'shortName': 'Limbach Holdings, Inc.',
+ 'shortPercentOfFloat': 0.0063,
+ 'shortRatio': 1.13,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'LMB',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.478,
+ 'twoHundredDayAverage': 3.5330648,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'fc9f694f-70f3-3f6f-9cfc-f67ff69c87c9',
+ 'volume': 2858,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.limbachinc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '15222'}

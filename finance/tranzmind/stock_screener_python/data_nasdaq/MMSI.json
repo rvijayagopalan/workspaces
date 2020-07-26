@@ -1,0 +1,164 @@
+{'52WeekChange': 0.02317071,
+ 'SandP52WeekChange': None,
+ 'address1': '1600 West Merit Parkway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 42.6,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 448837,
+ 'averageVolume': 423788,
+ 'averageVolume10days': 448837,
+ 'beta': 1.120448,
+ 'beta3Year': None,
+ 'bid': 42.55,
+ 'bidSize': 800,
+ 'bookValue': 16.983,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'South Jordan',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 42.82,
+ 'dayLow': 41.14,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 19.314,
+ 'enterpriseToRevenue': 2.846,
+ 'enterpriseValue': 2845810176,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '801 253 1652',
+ 'fiftyDayAverage': 43.665714,
+ 'fiftyTwoWeekHigh': 46.68,
+ 'fiftyTwoWeekLow': 19.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 43830372,
+ 'forwardEps': 1.63,
+ 'forwardPE': 26.165646,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.03186,
+ 'heldPercentInstitutions': 1.13237,
+ 'industry': 'Medical Instruments & Supplies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1304640000,
+ 'lastSplitFactor': '5:4',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/merit.com',
+ 'longBusinessSummary': 'Merit Medical Systems, Inc. manufactures and markets '
+                        'disposable medical devices for interventional, '
+                        'diagnostic, and therapeutic procedures in cardiology, '
+                        'radiology, oncology, critical care, and endoscopy. '
+                        'The company operates through two segments, '
+                        'Cardiovascular and Endoscopy. It provides peripheral '
+                        'intervention products for the diagnosis and treatment '
+                        'of diseases in peripheral vessels and organs; and '
+                        'cardiac intervention products, such as access, '
+                        'angiography, hemostasis, intervention, interventional '
+                        'fluid management, pressure monitoring, and cardiac '
+                        'rhythm management, as well as thermodilution and '
+                        'pulmonary artery catheters and electrophysiology to '
+                        'treat various heart conditions. It also offers '
+                        'cardiovascular and critical care products to treat '
+                        'patients with life-threatening diseases, and protect '
+                        'healthcare providers from exposure to bloodborne '
+                        'pathogens. In addition, it provides interventional '
+                        'oncology and spine products to treat vertebral '
+                        'compression fractures, metastatic spinal tumors, '
+                        'liver cancer, uterine fibroids, benign prostatic '
+                        'hyperplasia, vertebral compression fractures, and '
+                        'arteriovenous malformations and hemostatic '
+                        'embolization, as well as breast cancer localization '
+                        'and guidance products for the treatment of breast '
+                        'cancer. Further, it offers non-vascular stents to '
+                        'treat pulmonary and gastrointestinal diseases; '
+                        'dilation balloons to endoscopically dilate '
+                        'strictures; and kits and accessories for endoscopy '
+                        'and bronchoscopy procedures. Additionally, it '
+                        'provides coated tubes and wires; '
+                        'microelectromechanical system sensor components; '
+                        'ConvertX nephroureteral stent system; and Fibrovein, '
+                        'a detergent-based sclerosant. The company sells its '
+                        'products to hospitals and clinic-based physicians, '
+                        'technicians, and nurses through direct sales force, '
+                        'distributors, original equipment manufacturer '
+                        'partners, or custom procedure tray manufacturers in '
+                        'the United States and internationally. The company '
+                        'was founded in 1987 and is headquartered in South '
+                        'Jordan, Utah.',
+ 'longName': 'Merit Medical Systems, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2362127616,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_319791',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -3898000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 41.88,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.04,
+ 'phone': '801 253 1600',
+ 'previousClose': 41.95,
+ 'priceHint': 2,
+ 'priceToBook': 2.511335,
+ 'priceToSalesTrailing12Months': 2.3620615,
+ 'profitMargins': -0.0039,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 42.82,
+ 'regularMarketDayLow': 41.14,
+ 'regularMarketOpen': 41.88,
+ 'regularMarketPreviousClose': 41.95,
+ 'regularMarketPrice': 41.88,
+ 'regularMarketVolume': 272140,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 55384000,
+ 'sharesPercentSharesOut': 0.082399994,
+ 'sharesShort': 4565980,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4675425,
+ 'shortName': 'Merit Medical Systems, Inc.',
+ 'shortPercentOfFloat': 0.115,
+ 'shortRatio': 10.49,
+ 'startDate': None,
+ 'state': 'UT',
+ 'strikePrice': None,
+ 'symbol': 'MMSI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.071,
+ 'twoHundredDayAverage': 38.856762,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '3f58fdc3-a038-302a-999e-a92c484e6236',
+ 'volume': 272140,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.merit.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '84095'}

@@ -1,0 +1,154 @@
+{'52WeekChange': -0.37191445,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '5930 Balsom Ridge Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.73,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 600,
+ 'averageVolume': 2477,
+ 'averageVolume10days': 600,
+ 'beta': 1.284033,
+ 'beta3Year': None,
+ 'bid': 11.01,
+ 'bidSize': 1000,
+ 'bookValue': 8.33,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Denver',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.5,
+ 'dayLow': 11.05,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.769,
+ 'enterpriseToEbitda': 9.845,
+ 'enterpriseToRevenue': 0.54,
+ 'enterpriseValue': 127833928,
+ 'exDividendDate': 1370390400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 12.505428,
+ 'fiftyTwoWeekHigh': 24.5,
+ 'fiftyTwoWeekLow': 9.06,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 1042222,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 478,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.44592997,
+ 'heldPercentInstitutions': 0.3204,
+ 'industry': 'Integrated Freight & Logistics',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1560211200,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/airt.net',
+ 'longBusinessSummary': 'Air T, Inc., through its subsidiaries, provides '
+                        'overnight air cargo, ground equipment sale, '
+                        'commercial jet engines and parts, and printing '
+                        'equipment and maintenance services in the United '
+                        "States and internationally. The company's Overnight "
+                        'Air Cargo segment offers air express delivery '
+                        'services. As of March 31, 2020, this segment had 69 '
+                        'aircraft under the dry-lease agreements with FedEx. '
+                        'Its Ground Equipment Sales segment manufactures, '
+                        'sells, and services aircraft deicers, scissor-type '
+                        'lifts, military and civilian decontamination units, '
+                        'flight-line tow tractors, glycol recovery vehicles, '
+                        'and other specialized equipment. This segment sells '
+                        'its products to passenger and cargo airlines, ground '
+                        'handling companies, the United States Air Force, '
+                        'airports, and industrial customers. Its Commercial '
+                        'Jet Engines and Parts segment offers commercial '
+                        'aircraft trading, leasing, and parts solutions; '
+                        'commercial aircraft storage, storage maintenance, and '
+                        'aircraft disassembly/part-out services; commercial '
+                        'aircraft parts sales, exchanges, procurement '
+                        'services, consignment programs, and overhaul and '
+                        'repair services; and aircraft instrumentation, '
+                        'avionics, and a range of electrical accessories for '
+                        'civilian, military transport, regional/commuter and '
+                        'business/commercial jet, and turboprop aircraft. This '
+                        'segment also provides composite aircraft structures, '
+                        'and repair and support services. Its Printing '
+                        'Equipment and Maintenance segment designs, '
+                        'manufactures, and sells digital print production '
+                        'equipment, spare parts, supplies, and consumable '
+                        'items, as well as provides maintenance contracts. Air '
+                        'T, Inc. was founded in 1980 and is based in Denver, '
+                        'North Carolina.',
+ 'longName': 'Air T, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 31844664,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_248130',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -409000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 11.3,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '828 464 8741',
+ 'previousClose': 11.25,
+ 'priceHint': 2,
+ 'priceToBook': 1.3265307,
+ 'priceToSalesTrailing12Months': 0.13448767,
+ 'profitMargins': 0.03233,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.5,
+ 'regularMarketDayLow': 11.05,
+ 'regularMarketOpen': 11.3,
+ 'regularMarketPreviousClose': 11.25,
+ 'regularMarketPrice': 11.3,
+ 'regularMarketVolume': 849,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 2881870,
+ 'sharesPercentSharesOut': 0.0005,
+ 'sharesShort': 1361,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1754,
+ 'shortName': 'Air T, Inc.',
+ 'shortPercentOfFloat': 0.0011,
+ 'shortRatio': 0.39,
+ 'startDate': None,
+ 'state': 'NC',
+ 'strikePrice': None,
+ 'symbol': 'AIRT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 2.732,
+ 'trailingPE': 4.044656,
+ 'twoHundredDayAverage': 14.607914,
+ 'volume': 849,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.airt.net',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '28037'}

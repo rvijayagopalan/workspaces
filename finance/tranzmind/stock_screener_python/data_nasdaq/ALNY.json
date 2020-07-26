@@ -1,0 +1,153 @@
+{'52WeekChange': 1.0243292,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '675 West Kendall Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 158.51,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 505850,
+ 'averageVolume': 815353,
+ 'averageVolume10days': 505850,
+ 'beta': 1.85042,
+ 'beta3Year': None,
+ 'bid': 142,
+ 'bidSize': 900,
+ 'bookValue': 11.927,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 153.47,
+ 'dayLow': 148.59,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -17.6,
+ 'enterpriseToRevenue': 57.851,
+ 'enterpriseValue': 16541433856,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '617 551 8101',
+ 'fiftyDayAverage': 148.11029,
+ 'fiftyTwoWeekHigh': 167.33,
+ 'fiftyTwoWeekLow': 69.11,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 113866152,
+ 'forwardEps': -4.49,
+ 'forwardPE': -34.098,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1323,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00801,
+ 'heldPercentInstitutions': 0.94741,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/alnylam.com',
+ 'longBusinessSummary': 'Alnylam Pharmaceuticals, Inc., a biopharmaceutical '
+                        'company, focuses on discovering, developing, and '
+                        'commercializing RNA interference (RNAi) therapeutics. '
+                        "The company's pipeline of investigational RNAi "
+                        'therapeutics focus on genetic medicines, '
+                        'cardio-metabolic diseases, hepatic infectious '
+                        'diseases, and central nervous system/ocular diseases. '
+                        'Its marketed products include ONPATTRO (patisiran), a '
+                        'lipid complex injection for the treatment of the '
+                        'polyneuropathy of hereditary transthyretin-mediated '
+                        'amyloidosis in adults; and GIVLAARI for the treatment '
+                        'of adults with acute hepatic porphyria (AHP). In '
+                        'addition, the company is developing givosiran for the '
+                        'treatment of patients with AHP; lumasiran for the '
+                        'treatment of primary hyperoxaluria type 1, or PH1; '
+                        'patisiran for the treatment of transthyretin '
+                        'amyloidosis, or ATTR amyloidosis, with '
+                        'cardiomyopathy; and vutrisiran for the treatment of '
+                        'ATTR amyloidosis. Alnylam Pharmaceuticals, Inc. has '
+                        'strategic alliances primarily with Sanofi Genzyme; '
+                        'The Medicines Company; Ionis Pharmaceuticals, Inc.; '
+                        'and Regeneron Pharmaceuticals, Inc., as well as '
+                        'collaboration with Vir Biotechnology, Inc. to advance '
+                        'RNAi therapeutics for the treatment of coronavirus '
+                        'infection, including COVID-19. It also has a '
+                        'collaboration and license agreement with Dicerna '
+                        'Pharmaceuticals, Inc. to develop and commercialize '
+                        'investigational ribonucleic acid interference '
+                        'therapeutics for the treatment of alpha-1 antitrypsin '
+                        'deficiency-associated liver disease, as well as Vir '
+                        'Biotechnology, Inc. to develop and commercialize RNAi '
+                        'therapeutics. The company was founded in 2002 and is '
+                        'headquartered in Cambridge, Massachusetts.',
+ 'longName': 'Alnylam Pharmaceuticals, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 17578788864,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2796659',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -886422016,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 152.41,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.53,
+ 'phone': '617 551 8200',
+ 'previousClose': 154.61,
+ 'priceHint': 2,
+ 'priceToBook': 12.836422,
+ 'priceToSalesTrailing12Months': 61.478912,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 153.47,
+ 'regularMarketDayLow': 148.59,
+ 'regularMarketOpen': 152.41,
+ 'regularMarketPreviousClose': 154.61,
+ 'regularMarketPrice': 152.41,
+ 'regularMarketVolume': 226760,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 114819000,
+ 'sharesPercentSharesOut': 0.047399998,
+ 'sharesShort': 5439744,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5234769,
+ 'shortName': 'Alnylam Pharmaceuticals, Inc.',
+ 'shortPercentOfFloat': 0.0656,
+ 'shortRatio': 5.68,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'ALNY',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -7.979,
+ 'twoHundredDayAverage': 129.25562,
+ 'volume': 226760,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.alnylam.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02142'}

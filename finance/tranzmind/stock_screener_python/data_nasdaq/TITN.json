@@ -1,0 +1,152 @@
+{'52WeekChange': -0.4819672,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '644 East Beaton Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 12.14,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 100462,
+ 'averageVolume': 139249,
+ 'averageVolume10days': 100462,
+ 'beta': 1.947899,
+ 'beta3Year': None,
+ 'bid': 11.06,
+ 'bidSize': 900,
+ 'bookValue': 15.81,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'West Fargo',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.47,
+ 'dayLow': 11.025,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 12.851,
+ 'enterpriseToRevenue': 0.543,
+ 'enterpriseValue': 725854976,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 10.752857,
+ 'fiftyTwoWeekHigh': 21.88,
+ 'fiftyTwoWeekLow': 6.96,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 18387085,
+ 'forwardEps': 0.7,
+ 'forwardPE': 15.800001,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1612,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.15597,
+ 'heldPercentInstitutions': 0.80231005,
+ 'industry': 'Industrial Distribution',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/titanmachinery.com',
+ 'longBusinessSummary': 'Titan Machinery Inc. owns and operates a network of '
+                        'full-service agricultural and construction equipment '
+                        'stores. It operates through three segments: '
+                        'Agriculture, Construction, and International. The '
+                        'company sells new and used equipment, including '
+                        'agricultural and construction equipment manufactured '
+                        'under the CNH Industrial family of brands, as well as '
+                        'equipment from various other manufacturers. Its '
+                        'agricultural equipment includes machinery and '
+                        'attachments for use in the production of food, fiber, '
+                        'feed grain, and renewable energy; and home and garden '
+                        'applications, as well as maintenance of commercial, '
+                        "residential, and government properties. The company's "
+                        'construction equipment comprise heavy construction '
+                        'machinery, light industrial machinery for commercial '
+                        'and residential construction, road and highway '
+                        'construction machinery, and mining operations '
+                        'equipment. It also sells maintenance and replacement '
+                        'parts. In addition, the company offers repair and '
+                        'maintenance services that include warranty repairs, '
+                        'off-site and on-site repair services, scheduling '
+                        'off-season maintenance services, and notifying '
+                        'customers of periodic service requirements; and '
+                        'training programs to customers. Further, it rents '
+                        'equipment; and provides ancillary equipment support '
+                        'services. The company operates in Arizona, Colorado, '
+                        'Iowa, Minnesota, Montana, Nebraska, North Dakota, '
+                        'South Dakota, Wisconsin, and Wyoming, the United '
+                        'States; and Bulgaria, Germany, Romania, Serbia, and '
+                        'Ukraine, Europe. Titan Machinery Inc. was founded in '
+                        '1980 and is headquartered in West Fargo, North '
+                        'Dakota.',
+ 'longName': 'Titan Machinery Inc.',
+ 'market': 'us_market',
+ 'marketCap': 246791744,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4497349',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 16407000,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 11.44,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.35,
+ 'phone': '701 356 0130',
+ 'previousClose': 11.45,
+ 'priceHint': 2,
+ 'priceToBook': 0.69955724,
+ 'priceToSalesTrailing12Months': 0.18457419,
+ 'profitMargins': 0.012460001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.47,
+ 'regularMarketDayLow': 11.025,
+ 'regularMarketOpen': 11.44,
+ 'regularMarketPreviousClose': 11.45,
+ 'regularMarketPrice': 11.44,
+ 'regularMarketVolume': 61365,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 22313900,
+ 'sharesPercentSharesOut': 0.0201,
+ 'sharesShort': 448774,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 479857,
+ 'shortName': 'Titan Machinery Inc.',
+ 'shortPercentOfFloat': 0.0238,
+ 'shortRatio': 2.96,
+ 'startDate': None,
+ 'state': 'ND',
+ 'strikePrice': None,
+ 'symbol': 'TITN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.746,
+ 'trailingPE': 14.825738,
+ 'twoHundredDayAverage': 10.42259,
+ 'volume': 61365,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.titanmachinery.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '58078-2648'}

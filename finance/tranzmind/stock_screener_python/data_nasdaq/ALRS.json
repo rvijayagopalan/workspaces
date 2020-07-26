@@ -1,0 +1,157 @@
+{'52WeekChange': 0.009693861,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '401 Demers Avenue',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 19.84,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 25887,
+ 'averageVolume': 54961,
+ 'averageVolume10days': 25887,
+ 'beta': 0.692436,
+ 'beta3Year': None,
+ 'bid': 19.67,
+ 'bidSize': 800,
+ 'bookValue': 17.164,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Grand Forks',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 19.92,
+ 'dayLow': 19.67,
+ 'dividendRate': 0.6,
+ 'dividendYield': 0.0305,
+ 'earningsQuarterlyGrowth': -0.167,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.129,
+ 'enterpriseValue': 206556176,
+ 'exDividendDate': 1591920000,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 19.817715,
+ 'fiftyTwoWeekHigh': 24,
+ 'fiftyTwoWeekLow': 15.05,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.45,
+ 'floatShares': 12910503,
+ 'forwardEps': 1.07,
+ 'forwardPE': 18.495327,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 789,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.14657,
+ 'heldPercentInstitutions': 0.3179,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1410739200,
+ 'lastSplitFactor': '3:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/alerus.com',
+ 'longBusinessSummary': 'Alerus Financial Corporation, through its subsidiary '
+                        'Alerus Financial, National Association, provides '
+                        'various financial services to businesses and '
+                        'consumers in the United States. The company operates '
+                        'through four segments: Banking, Retirement and '
+                        'Benefit Services, Wealth Management, and Mortgage. It '
+                        'offers various deposit products and services, '
+                        'including demand deposits, checking, interest-bearing '
+                        'transaction accounts, money market accounts, time and '
+                        'savings deposits, and certificates of deposit; and '
+                        'treasury management products, including electronic '
+                        'receivables management, remote deposit capture, cash '
+                        'vault services, merchant services, and other cash '
+                        'management services. The company also provides '
+                        'commercial lending products, such as commercial '
+                        'loans, business term loans, lines of credit, and '
+                        'commercial real estate loans, as well as construction '
+                        'and land development loans; consumer lending '
+                        'products, including residential first mortgage loans; '
+                        'and installment loans and lines of credit. In '
+                        'addition, it offers retirement plan administration '
+                        'and investment advisory services, employee stock '
+                        'ownership plan, fiduciary services, payroll, health '
+                        'savings accounts, and other benefit services; and '
+                        'wealth management services, such as financial '
+                        'planning, investment management, personal and '
+                        'corporate trust services, estate administration, and '
+                        'custody services. Further, the company provides debit '
+                        'and credit cards, online banking, mobile '
+                        'banking/wallet, private banking, payroll accounts, '
+                        'flex spending accounts, administration, and '
+                        'government health insurance program services. The '
+                        'company was formerly known as First National Bank '
+                        'North Dakota and changed its name to Alerus Financial '
+                        'Corporation in 2000. Alerus Financial Corporation was '
+                        'founded in 1879 and is headquartered in Grand Forks, '
+                        'North Dakota.',
+ 'longName': 'Alerus Financial Corporation',
+ 'market': 'us_market',
+ 'marketCap': 338521824,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_2954861',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 27738000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 19.69,
+ 'openInterest': None,
+ 'payoutRatio': 0.3314,
+ 'pegRatio': None,
+ 'phone': '701-795-3200',
+ 'previousClose': 19.69,
+ 'priceHint': 2,
+ 'priceToBook': 1.1529948,
+ 'priceToSalesTrailing12Months': 1.8499978,
+ 'profitMargins': 0.15557,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 19.92,
+ 'regularMarketDayLow': 19.67,
+ 'regularMarketOpen': 19.69,
+ 'regularMarketPreviousClose': 19.69,
+ 'regularMarketPrice': 19.69,
+ 'regularMarketVolume': 18256,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 17105700,
+ 'sharesPercentSharesOut': 0.0242,
+ 'sharesShort': 413301,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 38467,
+ 'shortName': 'Alerus Financial Corporation',
+ 'shortPercentOfFloat': 0.028299998,
+ 'shortRatio': 3.67,
+ 'startDate': None,
+ 'state': 'ND',
+ 'strikePrice': None,
+ 'symbol': 'ALRS',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.58,
+ 'trailingAnnualDividendYield': 0.029456574,
+ 'trailingEps': 1.731,
+ 'trailingPE': 11.432699,
+ 'twoHundredDayAverage': 18.964317,
+ 'volume': 18256,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.alerus.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '58201'}

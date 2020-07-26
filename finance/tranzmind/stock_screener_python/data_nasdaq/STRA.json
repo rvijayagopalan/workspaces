@@ -1,0 +1,155 @@
+{'52WeekChange': -0.11605698,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2303 Dulles Station Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 164.32,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 86725,
+ 'averageVolume': 206295,
+ 'averageVolume10days': 86725,
+ 'beta': 0.629131,
+ 'beta3Year': None,
+ 'bid': 164.12,
+ 'bidSize': 800,
+ 'bookValue': 66.338,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Herndon',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 173.65,
+ 'dayLow': 162.33,
+ 'dividendRate': 2.4,
+ 'dividendYield': 0.014400001,
+ 'earningsQuarterlyGrowth': 2.064,
+ 'enterpriseToEbitda': 13.182,
+ 'enterpriseToRevenue': 3.187,
+ 'enterpriseValue': 3237431040,
+ 'exDividendDate': 1590710400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 159.46428,
+ 'fiftyTwoWeekHigh': 188.66,
+ 'fiftyTwoWeekLow': 108.9,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 21583450,
+ 'forwardEps': 8.17,
+ 'forwardPE': 20.052631,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3076,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01852,
+ 'heldPercentInstitutions': 0.99609,
+ 'industry': 'Education & Training Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 879897600,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/strategiceducation.com',
+ 'longBusinessSummary': 'Strategic Education, Inc., through its subsidiaries, '
+                        'provides a range of post-secondary education and '
+                        'non-degree programs in the United States. The company '
+                        'operates through three segments: Strayer University, '
+                        'Capella University, and Non-Degree Programs. It '
+                        'operates Strayer University that provides '
+                        'undergraduate and graduate degree programs in '
+                        'business administration, accounting, information '
+                        'technology, education, health services '
+                        'administration, public administration, and criminal '
+                        'justice for working adult students through its 77 '
+                        'physical campuses located in the eastern United '
+                        'States, as well as through online; and an executive '
+                        'MBA online through its Jack Welch Management '
+                        'Institute. The company also operates Capella '
+                        'University, an online post-secondary education '
+                        "company, which offers various bachelor's, master's, "
+                        'and doctoral degree programs in public service '
+                        'leadership, nursing and health sciences, psychology, '
+                        'business and technology, counseling and human '
+                        'services, and education primarily for working adults. '
+                        'In addition, it is involved in the operation of a '
+                        'software development school that provides Web '
+                        'Development, iOS development, and UX design programs '
+                        'in person at classrooms in Lehi, Utah, Dallas, Texas; '
+                        'and Phoenix, Arizona, as well as through online. '
+                        'Further, the company operates a software engineering '
+                        'school for women, which offers software development '
+                        'programs in person through classrooms in the San '
+                        'Francisco Bay area; and provides non-degree Web and '
+                        'application software development courses, as well as '
+                        'self-paced online learning courses. It offers its '
+                        'non-degree programs primarily for workers and their '
+                        'employers. Strategic Education, Inc. was founded in '
+                        '1892 and is headquartered in Herndon, Virginia.',
+ 'longName': 'Strategic Education, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 3639417856,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_361761',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 104877000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 165.98,
+ 'openInterest': None,
+ 'payoutRatio': 0.4632,
+ 'pegRatio': 1.5,
+ 'phone': '703 247 2500',
+ 'previousClose': 166.92,
+ 'priceHint': 2,
+ 'priceToBook': 2.4696255,
+ 'priceToSalesTrailing12Months': 3.5823474,
+ 'profitMargins': 0.10323,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 173.65,
+ 'regularMarketDayLow': 162.33,
+ 'regularMarketOpen': 165.98,
+ 'regularMarketPreviousClose': 166.92,
+ 'regularMarketPrice': 165.98,
+ 'regularMarketVolume': 34896,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Defensive',
+ 'sharesOutstanding': 22214600,
+ 'sharesPercentSharesOut': 0.041500002,
+ 'sharesShort': 921168,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 897977,
+ 'shortName': 'Strategic Education, Inc.',
+ 'shortPercentOfFloat': 0.0587,
+ 'shortRatio': 2.58,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'STRA',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.2,
+ 'trailingAnnualDividendYield': 0.013179967,
+ 'trailingEps': 4.748,
+ 'trailingPE': 34.505054,
+ 'twoHundredDayAverage': 154.96878,
+ 'volume': 34896,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.strategiceducation.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '20171'}

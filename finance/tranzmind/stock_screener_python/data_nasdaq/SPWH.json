@@ -1,0 +1,154 @@
+{'52WeekChange': 2.8501172,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1475 West 9000 South',
+ 'address2': 'Suite A',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 16.65,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 913287,
+ 'averageVolume': 884430,
+ 'averageVolume10days': 913287,
+ 'beta': 0.748459,
+ 'beta3Year': None,
+ 'bid': 16.52,
+ 'bidSize': 1300,
+ 'bookValue': 2.507,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'West Jordan',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 16.51,
+ 'dayLow': 15.78,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 17.976,
+ 'enterpriseToRevenue': 1.143,
+ 'enterpriseValue': 1096175744,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 14.062715,
+ 'fiftyTwoWeekHigh': 16.84,
+ 'fiftyTwoWeekLow': 3.5,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 37167576,
+ 'forwardEps': 0.84,
+ 'forwardPE': 19.57143,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2350,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03928,
+ 'heldPercentInstitutions': 1.07602,
+ 'industry': 'Leisure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580515200,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/sportsmans.com',
+ 'longBusinessSummary': "Sportsman's Warehouse Holdings, Inc., together with "
+                        'its subsidiaries, operates as an outdoor sporting '
+                        'goods retailer in the United States. It offers '
+                        'camping products, such as backpacks, camp essentials, '
+                        'canoes and kayaks, coolers, outdoor cooking '
+                        'equipment, sleeping bags, tents, and tools; and '
+                        'clothing products, including camouflage, jackets, '
+                        'hats, outerwear, sportswear, technical gear, and work '
+                        'wear. The company also provides fishing products '
+                        'comprising bait, electronics, fishing rods, flotation '
+                        'items, fly fishing products, lines, lures, reels, '
+                        'tackles, and small boats; and foot wear products '
+                        'consisting of hiking and work boots, socks, sport '
+                        'sandals, technical footwear, trial and casual shoes, '
+                        'and waders. In addition, it offers hunting and '
+                        'shooting products, such as ammunition, archery items, '
+                        'ATV accessories, blinds and tree stands, decoys, '
+                        'firearms, firearms safety and storage products, '
+                        'reloading equipment, and shooting gear products; and '
+                        'optics, electronics, and accessories, including gift '
+                        'items, GPS devices, knives, lighting, optics, and '
+                        "two-way radios. Further, the company's stores provide "
+                        'archery technician services, fishing-reel line '
+                        'winding, gun bore sighting and scope mounting, and '
+                        'cleaning services, as well as issues hunting and '
+                        'fishing licenses. Additionally, it offers various '
+                        'private label offerings under the Rustic Ridge, '
+                        'Killik, Vital Impact, Yukon Gold, Lost Creek, and '
+                        "Sportsman's Warehouse brands. As of February 01, "
+                        '2020, the company operated through 103 stores in 27 '
+                        "states. Sportsman's Warehouse Holdings, Inc. was "
+                        'founded in 1986 and is headquartered in West Jordan, '
+                        'Utah.',
+ 'longName': "Sportsman's Warehouse Holdings, Inc.",
+ 'market': 'us_market',
+ 'marketCap': 714401856,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_23037669',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588377600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 24544000,
+ 'nextFiscalYearEnd': 1643673600,
+ 'open': 16,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.94,
+ 'phone': '801 566 6681',
+ 'previousClose': 16.16,
+ 'priceHint': 2,
+ 'priceToBook': 6.557639,
+ 'priceToSalesTrailing12Months': 0.7447745,
+ 'profitMargins': 0.02559,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 16.51,
+ 'regularMarketDayLow': 15.78,
+ 'regularMarketOpen': 16,
+ 'regularMarketPreviousClose': 16.16,
+ 'regularMarketPrice': 16,
+ 'regularMarketVolume': 656923,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 43455100,
+ 'sharesPercentSharesOut': 0.114300005,
+ 'sharesShort': 4966611,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4556335,
+ 'shortName': "Sportsman's Warehouse Holdings,",
+ 'shortPercentOfFloat': 0.1336,
+ 'shortRatio': 4.05,
+ 'startDate': None,
+ 'state': 'UT',
+ 'strikePrice': None,
+ 'symbol': 'SPWH',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.557,
+ 'trailingPE': 29.515263,
+ 'twoHundredDayAverage': 8.734784,
+ 'volume': 656923,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.sportsmans.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '84088'}

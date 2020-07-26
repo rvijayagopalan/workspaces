@@ -1,0 +1,153 @@
+{'52WeekChange': -0.3134266,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '27422 Portola Parkway',
+ 'address2': 'Suite 200',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 66.07,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 152500,
+ 'averageVolume': 120688,
+ 'averageVolume10days': 152500,
+ 'beta': 1.105322,
+ 'beta3Year': None,
+ 'bid': 65.59,
+ 'bidSize': 1000,
+ 'bookValue': 45.688,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Foothill Ranch',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 68.27,
+ 'dayLow': 65.58,
+ 'dividendRate': 2.68,
+ 'dividendYield': 0.0395,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 6.654,
+ 'enterpriseToRevenue': 0.88,
+ 'enterpriseValue': 1221602048,
+ 'exDividendDate': 1595462400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 72.31143,
+ 'fiftyTwoWeekHigh': 117.06,
+ 'fiftyTwoWeekLow': 54.54,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.23,
+ 'floatShares': 15427617,
+ 'forwardEps': 4.58,
+ 'forwardPE': 14.458516,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2820,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.020280002,
+ 'heldPercentInstitutions': 1.0362,
+ 'industry': 'Aluminum',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/kaiseraluminum.com',
+ 'longBusinessSummary': 'Kaiser Aluminum Corporation manufactures and sells '
+                        'semi-fabricated specialty aluminum mill products. The '
+                        'company offers rolled, extruded, and drawn aluminum '
+                        'products used principally for aerospace and defense, '
+                        'automotive, consumer durables, electronics, '
+                        'electrical, and machinery and equipment applications. '
+                        'Its aerospace and high strength products include heat '
+                        'treat plates and sheets, hard alloy extruded shapes, '
+                        'cold finish rods and bars, seamless drawn tubes, and '
+                        'billets for aerospace and defense industries. The '
+                        "company's automotive extrusions include extruded "
+                        'aluminum products for structural components, crash '
+                        'management systems, anti-lock braking systems, and '
+                        'drawn tubes for drive shafts, as well as offers '
+                        'fabrication services, including sawing and cutting to '
+                        'length. Its general engineering products comprise '
+                        'alloy plate, sheet, rod, bar, tube, wire, and '
+                        'standard extrusion shapes used in various '
+                        'applications, including the production of military '
+                        'vehicles, ordnances, semiconductor manufacturing '
+                        'cells, electronic devices, after-market motor sport '
+                        'parts, tooling plates, parts for machinery and '
+                        'equipment, bolts, screws, nails, and rivets. The '
+                        'company also offers extruded, drawn, and cast billet '
+                        'aluminum products for industrial end uses. It sells '
+                        'its products directly to customers through sales '
+                        'personnel located in the United States, Canada, '
+                        'Western Europe, and China, as well as through '
+                        'independent sales agents in other regions of Asia, '
+                        'Latin America, and the Middle East. Kaiser Aluminum '
+                        'Corporation was founded in 1946 and is based in '
+                        'Foothill Ranch, California.',
+ 'longName': 'Kaiser Aluminum Corporation',
+ 'market': 'us_market',
+ 'marketCap': 1047083904,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_319334',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 37300000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 67.96,
+ 'openInterest': None,
+ 'payoutRatio': 0.6285,
+ 'pegRatio': 4.3,
+ 'phone': '949 614 1740',
+ 'previousClose': 67.89,
+ 'priceHint': 2,
+ 'priceToBook': 1.4493959,
+ 'priceToSalesTrailing12Months': 0.7540572,
+ 'profitMargins': 0.02686,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 68.27,
+ 'regularMarketDayLow': 65.58,
+ 'regularMarketOpen': 67.96,
+ 'regularMarketPreviousClose': 67.89,
+ 'regularMarketPrice': 67.96,
+ 'regularMarketVolume': 124521,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Basic Materials',
+ 'sharesOutstanding': 15812200,
+ 'sharesPercentSharesOut': 0.0421,
+ 'sharesShort': 664591,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 733251,
+ 'shortName': 'Kaiser Aluminum Corporation',
+ 'shortPercentOfFloat': 0.0589,
+ 'shortRatio': 5.88,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'KALU',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.61,
+ 'trailingAnnualDividendYield': 0.03844454,
+ 'trailingEps': 2.336,
+ 'trailingPE': 28.347603,
+ 'twoHundredDayAverage': 80.310356,
+ 'volume': 124521,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.kaiseraluminum.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92610-2831'}

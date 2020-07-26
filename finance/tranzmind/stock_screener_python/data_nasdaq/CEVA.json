@@ -1,0 +1,160 @@
+{'52WeekChange': 0.36744845,
+ 'SandP52WeekChange': None,
+ 'address1': '1174 Castro Street',
+ 'address2': 'Suite 210',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 38.32,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 101437,
+ 'averageVolume': 150252,
+ 'averageVolume10days': 101437,
+ 'beta': 1.37535,
+ 'beta3Year': None,
+ 'bid': 38.32,
+ 'bidSize': 3100,
+ 'bookValue': 11.331,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Mountain View',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 38.735,
+ 'dayLow': 37.38,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 127.167,
+ 'enterpriseToRevenue': 7.52,
+ 'enterpriseValue': 705395200,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '650-417-7995',
+ 'fiftyDayAverage': 36.45457,
+ 'fiftyTwoWeekHigh': 40,
+ 'fiftyTwoWeekLow': 20.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 21451556,
+ 'forwardEps': 0.69,
+ 'forwardPE': 55.62319,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 382,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0124699995,
+ 'heldPercentInstitutions': 0.83191,
+ 'industry': 'Semiconductors',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ceva-dsp.com',
+ 'longBusinessSummary': 'CEVA, Inc. operates as a licensor of wireless '
+                        'connectivity and smart sensing platforms to '
+                        'semiconductor and original equipment manufacturer '
+                        '(OEM) companies worldwide. It designs and licenses '
+                        'various digital signal processors, AI processors, '
+                        'wireless platforms, and complementary software for '
+                        'sensor fusion, image enhancement, computer vision, '
+                        'voice input, and artificial intelligence (AI). The '
+                        'company licenses a family of signal processing '
+                        'intellectual properties (IPs), including DSP-based '
+                        'platforms for 5G baseband processing in mobile and '
+                        'infrastructure; imaging and computer vision for any '
+                        'camera-enabled device; audio/voice/speech and '
+                        'ultra-low power always-on/sensing applications for '
+                        'multiple IoT markets; sensor fusion software and IMU '
+                        'solutions for AR/VR, robotics, remote controls, and '
+                        'IoT; AI processors capable of handling the gamut of '
+                        'neural network workload and on-device; IPs for '
+                        'Bluetooth, Wi-Fi 4/5/6, and NB-IoT. Its technologies '
+                        'are licensed to companies, which design, manufacture, '
+                        'market, and sell application-specific integrated '
+                        'circuits and application-specific standard products '
+                        'to wireless, consumer electronics, and automotive '
+                        'companies for incorporation into various end '
+                        'products. The company delivers its DSP cores, '
+                        'platforms, and AI processors in the form of a '
+                        'hardware description language definition; and offers '
+                        'development platforms, software development kits, and '
+                        'software debug tools that facilitate system design, '
+                        'debug, and software development. CEVA, Inc. licenses '
+                        'its technology through a direct sales force. The '
+                        'company was formerly known as ParthusCeva, Inc. and '
+                        'changed its name to CEVA, Inc. in December 2003. '
+                        'CEVA, Inc. was founded in 1999 and is headquartered '
+                        'in Mountain View, California.',
+ 'longName': 'CEVA, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 844525056,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_3597563',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 1140000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 37.86,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 2.35,
+ 'phone': '650-417-7900',
+ 'previousClose': 38.48,
+ 'priceHint': 2,
+ 'priceToBook': 3.387168,
+ 'priceToSalesTrailing12Months': 9.003657,
+ 'profitMargins': 0.012150001,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 38.735,
+ 'regularMarketDayLow': 37.38,
+ 'regularMarketOpen': 37.86,
+ 'regularMarketPreviousClose': 38.48,
+ 'regularMarketPrice': 37.86,
+ 'regularMarketVolume': 97910,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 22004300,
+ 'sharesPercentSharesOut': 0.0251,
+ 'sharesShort': 552633,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 318169,
+ 'shortName': 'CEVA, Inc.',
+ 'shortPercentOfFloat': 0.0358,
+ 'shortRatio': 2.84,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'CEVA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.049,
+ 'trailingPE': 783.2653,
+ 'twoHundredDayAverage': 30.94115,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '497682c3-7275-3cec-81c4-5c42cd1d1a14',
+ 'volume': 97910,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ceva-dsp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94040'}

@@ -1,0 +1,154 @@
+{'52WeekChange': -0.37265104,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2991 Oak Grove Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 22.21,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 8875,
+ 'averageVolume': 16922,
+ 'averageVolume10days': 8875,
+ 'beta': 0.80056,
+ 'beta3Year': None,
+ 'bid': 21.7,
+ 'bidSize': 900,
+ 'bookValue': 27.371,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Poplar Bluff',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 22.07,
+ 'dayLow': 21.7,
+ 'dividendRate': 0.6,
+ 'dividendYield': 0.0274,
+ 'earningsQuarterlyGrowth': -0.281,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 3.232,
+ 'enterpriseValue': 284464896,
+ 'exDividendDate': 1589414400,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 23.138,
+ 'fiftyTwoWeekHigh': 39.05,
+ 'fiftyTwoWeekLow': 17.3,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.44,
+ 'floatShares': 6337680,
+ 'forwardEps': 2.33,
+ 'forwardPE': 9.313305,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 438,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.15376,
+ 'heldPercentInstitutions': 0.53177,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1422835200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bankwithsouthern.com',
+ 'longBusinessSummary': 'Southern Missouri Bancorp, Inc. operates as the bank '
+                        'holding company for Southern Bank that provides '
+                        'banking and financial services to individuals and '
+                        'corporate customers in the United States. It offers '
+                        'various deposit instruments, including demand deposit '
+                        'accounts, negotiable order of withdrawal accounts, '
+                        'money market deposit accounts, saving accounts, '
+                        'certificates of deposit, and retirement savings '
+                        'plans. The company also provides loans for the '
+                        'acquisition or refinance of one-to four-family '
+                        'residences; loans secured by commercial real estate, '
+                        'including land, shopping centers, retail '
+                        'establishments, nursing homes and other healthcare '
+                        'related facilities, and other businesses; '
+                        'construction loans; and various secured consumer '
+                        'loans comprising home equity, direct and indirect '
+                        'automobile loans, second mortgages, mobile home '
+                        'loans, and loans secured by deposits. In addition, it '
+                        'offers commercial business loans, such as loans to '
+                        'finance accounts receivable, inventory, equipment, '
+                        'and operating lines of credit. As of June 30, 2019, '
+                        'the company operated 44 full-service branch offices, '
+                        'and 2 limited-service branch offices located in '
+                        'Poplar Bluff, Van Buren, Dexter, Kennett, Doniphan, '
+                        'Sikeston, Qulin, Matthews, Springfield, Thayer, West '
+                        'Plains, Alton, Clever, Forsyth, Fremont Hills, '
+                        'Kimberling City, Ozark, Nixa, Rogersville, '
+                        'Marshfield, Cape Girardeau, Jackson, Gideon, Chaffee, '
+                        'Benton, Advance, Bloomfield, and Essex Missouri; '
+                        'Jonesboro, Paragould, Batesville, Searcy, Bald Knob, '
+                        'and Bradford, Arkansas; and Anna, Cairo, and Tamms, '
+                        'Illinois. Southern Missouri Bancorp, Inc. was founded '
+                        'in 1887 and is headquartered in Poplar Bluff, '
+                        'Missouri.',
+ 'longName': 'Southern Missouri Bancorp, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 198083904,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_349262',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 28200000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 21.97,
+ 'openInterest': None,
+ 'payoutRatio': 0.1902,
+ 'pegRatio': None,
+ 'phone': '573-778-1800',
+ 'previousClose': 21.9,
+ 'priceHint': 2,
+ 'priceToBook': 0.7928099,
+ 'priceToSalesTrailing12Months': 2.2502885,
+ 'profitMargins': 0.32036,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 22.07,
+ 'regularMarketDayLow': 21.7,
+ 'regularMarketOpen': 21.97,
+ 'regularMarketPreviousClose': 21.9,
+ 'regularMarketPrice': 21.97,
+ 'regularMarketVolume': 16357,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 9128290,
+ 'sharesPercentSharesOut': 0.0117,
+ 'sharesShort': 106613,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 104994,
+ 'shortName': 'Southern Missouri Bancorp, Inc.',
+ 'shortPercentOfFloat': 0.0139999995,
+ 'shortRatio': 5.72,
+ 'startDate': None,
+ 'state': 'MO',
+ 'strikePrice': None,
+ 'symbol': 'SMBC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.58,
+ 'trailingAnnualDividendYield': 0.026484018,
+ 'trailingEps': 3.05,
+ 'trailingPE': 7.1147547,
+ 'twoHundredDayAverage': 27.464172,
+ 'volume': 16357,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bankwithsouthern.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '63901'}

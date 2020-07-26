@@ -1,0 +1,164 @@
+{'52WeekChange': 0.46032774,
+ 'SandP52WeekChange': None,
+ 'address1': '59 Maiden Lane',
+ 'address2': '38th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 33.95,
+ 'askSize': 1800,
+ 'averageDailyVolume10Day': 1001675,
+ 'averageVolume': 1172665,
+ 'averageVolume10days': 1001675,
+ 'beta': 0.862745,
+ 'beta3Year': None,
+ 'bid': 33.82,
+ 'bidSize': 800,
+ 'bookValue': 19.836,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'New York',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 33.97,
+ 'dayLow': 33.79,
+ 'dividendRate': 0.2,
+ 'dividendYield': 0.0058999998,
+ 'earningsQuarterlyGrowth': 0.098,
+ 'enterpriseToEbitda': 8.457,
+ 'enterpriseToRevenue': 0.87,
+ 'enterpriseValue': 4564089856,
+ 'exDividendDate': 1593475200,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 25.857286,
+ 'fiftyTwoWeekHigh': 34.48,
+ 'fiftyTwoWeekLow': 11.82,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.65,
+ 'floatShares': 60747119,
+ 'forwardEps': 3.16,
+ 'forwardPE': 10.693038,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 9200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.40588,
+ 'heldPercentInstitutions': 0.56176,
+ 'industry': 'Insurance—Property & Casualty',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/nationalgeneral.com',
+ 'longBusinessSummary': 'National General Holdings Corp., a specialty personal '
+                        'lines insurance holding company, provides various '
+                        'insurance products and services in the United States, '
+                        "Bermuda, Luxembourg, and Sweden. The company's "
+                        'Property and Casualty segment offers standard, '
+                        'preferred, and nonstandard automobile insurance '
+                        'products; recreational vehicle (RV) insurance '
+                        'products that carry RV-specific endorsements '
+                        'comprising automatic personal effects coverage, '
+                        'optional replacement cost coverage, RV storage '
+                        'coverage, and full-time liability coverage; and '
+                        'homeowners insurance products consisting of property '
+                        'and liability coverages for one-and two-family, and '
+                        'owner-occupied residences; and additional personal '
+                        'umbrella coverage to the homeowners. It also provides '
+                        'small business automobile insurance products, which '
+                        'covers liability and physical damage caused by '
+                        'light-to-medium duty commercial vehicles; motorcycle '
+                        'insurance products for various types of motorcycles, '
+                        'golf carts, and all-terrain vehicles; and '
+                        'lender-placed insurance products, including fire, '
+                        'home, and flood products, as well as collateral '
+                        'protection insurance and guaranteed asset protection '
+                        'products for automobiles. It sells its products '
+                        'through retail store fronts, web/mobile, phone '
+                        'contact centers, and kiosks; and agents and affinity '
+                        "partners. The company's Accident and Health segment "
+                        'provides accident and non-major medical health '
+                        'insurance products, such as accident/AD&D coverage in '
+                        'the event of bodily injury or death due to accidental '
+                        'means; hospital indemnity; short-term medical plans; '
+                        'cancer/critical illness policies; stop loss programs; '
+                        'medicare supplement insurance policies; basic dental '
+                        'coverage; and life insurance products for '
+                        'individuals. It sells its products through agents, '
+                        'managing general underwriters, employers, Internet; '
+                        'and directly. The company was formerly known as '
+                        'American Capital Acquisition Corporation. National '
+                        'General Holdings Corp. was founded in 1939 and is '
+                        'headquartered in New York, New York.',
+ 'longName': 'National General Holdings Corp.',
+ 'market': 'us_market',
+ 'marketCap': 3831853568,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_240824094',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 323470016,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 33.9,
+ 'openInterest': None,
+ 'payoutRatio': 0.067600004,
+ 'pegRatio': None,
+ 'phone': '212-380-9500',
+ 'previousClose': 33.865,
+ 'priceHint': 2,
+ 'priceToBook': 1.7034684,
+ 'priceToSalesTrailing12Months': 0.7300389,
+ 'profitMargins': 0.06803,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 33.97,
+ 'regularMarketDayLow': 33.79,
+ 'regularMarketOpen': 33.9,
+ 'regularMarketPreviousClose': 33.865,
+ 'regularMarketPrice': 33.9,
+ 'regularMarketVolume': 578658,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 113402000,
+ 'sharesPercentSharesOut': 0.0073,
+ 'sharesShort': 833389,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 435874,
+ 'shortName': 'National General Holdings Corp',
+ 'shortPercentOfFloat': 0.0123000005,
+ 'shortRatio': 2.74,
+ 'startDate': None,
+ 'state': 'NY',
+ 'strikePrice': None,
+ 'symbol': 'NGHC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.19,
+ 'trailingAnnualDividendYield': 0.005610512,
+ 'trailingEps': 2.807,
+ 'trailingPE': 12.037764,
+ 'twoHundredDayAverage': 20.742123,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e7b078db-8d2f-3758-9d1e-00f38c8baaa6',
+ 'volume': 578658,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.nationalgeneral.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '10038'}

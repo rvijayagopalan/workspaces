@@ -1,0 +1,159 @@
+{'52WeekChange': -0.20843172,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Glenpointe Centre East',
+ 'address2': '3rd Floor Suite 21 300 Frank West Burr Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 23.46,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 97987,
+ 'averageVolume': 138261,
+ 'averageVolume10days': 97987,
+ 'beta': 0.492436,
+ 'beta3Year': None,
+ 'bid': 23.43,
+ 'bidSize': 800,
+ 'bookValue': 4.829,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Teaneck',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 23.94,
+ 'dayLow': 23.265,
+ 'dividendRate': 0.48,
+ 'dividendYield': 0.0201,
+ 'earningsQuarterlyGrowth': -0.091,
+ 'enterpriseToEbitda': 12.695,
+ 'enterpriseToRevenue': 1.545,
+ 'enterpriseValue': 1264604160,
+ 'exDividendDate': 1591056000,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 25.611143,
+ 'fiftyTwoWeekHigh': 33.97,
+ 'fiftyTwoWeekLow': 16.87,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.42,
+ 'floatShares': 20206982,
+ 'forwardEps': 1.2,
+ 'forwardPE': 19.558332,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1600,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00397,
+ 'heldPercentInstitutions': 1.07608,
+ 'industry': 'Drug Manufacturers—Specialty & Generic',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/pahc.com',
+ 'longBusinessSummary': 'Phibro Animal Health Corporation manufactures and '
+                        'supplies a range of animal health and mineral '
+                        'nutrition products for livestock primarily in the '
+                        'United States. It operates through three segments: '
+                        'Animal Health, Mineral Nutrition, and Performance '
+                        'Products. The company develops, manufactures, and '
+                        'markets products for a range of food animals, '
+                        'including poultry, swine, beef and dairy cattle, and '
+                        'aquaculture. Its animal health products also comprise '
+                        'antibacterials that are biological or chemical '
+                        'products used in the animal health industry to treat '
+                        'or to prevent bacterial diseases; anticoccidials '
+                        'primarily used to prevent and control the disease '
+                        'coccidiosis in poultry and cattle; anthelmintics to '
+                        'treat infestations of parasitic intestinal worms; and '
+                        'anti-bloat treatment products for cattle to control '
+                        'bloat in animals grazing on legume or wheat-pasture. '
+                        'In addition, the company offers nutritional specialty '
+                        'products, which enhance nutrition to help improve '
+                        'health and performance; and vaccines to prevent '
+                        'diseases primarily for the poultry and swine markets. '
+                        'Further, it manufactures and markets formulations and '
+                        'concentrations of trace minerals, such as zinc, '
+                        'manganese, copper, iron, and other compounds; and '
+                        'various specialty ingredients for use in the personal '
+                        'care, industrial chemical, and chemical catalyst '
+                        'industries. The company sells its animal health and '
+                        'mineral nutrition products through local sales '
+                        'offices to integrated poultry, swine, and cattle '
+                        'integrators, as well as through commercial animal '
+                        'feed manufacturers, wholesalers, and distributors. It '
+                        'also operates in Latin America, Canada, Europe, the '
+                        'Middle East, Africa, and the Asia Pacific. The '
+                        'company was formerly known as Philipp Brothers '
+                        'Chemicals, Inc. and changed its name to Phibro Animal '
+                        'Health Corporation in July 2003. The company is '
+                        'headquartered in Teaneck, New Jersey. Phibro Animal '
+                        'Health Corporation is a subsidiary of BFI Co., LLC.',
+ 'longName': 'Phibro Animal Health Corporation',
+ 'market': 'us_market',
+ 'marketCap': 949445952,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_528955',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 36712000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 23.91,
+ 'openInterest': None,
+ 'payoutRatio': 0.53330004,
+ 'pegRatio': 11.87,
+ 'phone': '201-329-7300',
+ 'previousClose': 23.93,
+ 'priceHint': 2,
+ 'priceToBook': 4.8602195,
+ 'priceToSalesTrailing12Months': 1.1601899,
+ 'profitMargins': 0.04486,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 23.94,
+ 'regularMarketDayLow': 23.265,
+ 'regularMarketOpen': 23.91,
+ 'regularMarketPreviousClose': 23.93,
+ 'regularMarketPrice': 23.91,
+ 'regularMarketVolume': 81786,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 20287600,
+ 'sharesPercentSharesOut': 0.0167,
+ 'sharesShort': 673737,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 633395,
+ 'shortName': 'Phibro Animal Health Corporatio',
+ 'shortPercentOfFloat': 0.046,
+ 'shortRatio': 5.35,
+ 'startDate': None,
+ 'state': 'NJ',
+ 'strikePrice': None,
+ 'symbol': 'PAHC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.48,
+ 'trailingAnnualDividendYield': 0.020058503,
+ 'trailingEps': 0.907,
+ 'trailingPE': 25.876514,
+ 'twoHundredDayAverage': 24.6918,
+ 'volume': 81786,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.pahc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '07666'}

@@ -1,0 +1,157 @@
+{'52WeekChange': -0.35308844,
+ 'SandP52WeekChange': None,
+ 'address1': 'The Centrium',
+ 'address2': '36th Floor 60 Wyndham Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 15.42,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 2214025,
+ 'averageVolume': 3053628,
+ 'averageVolume10days': 2214025,
+ 'beta': 1.994957,
+ 'beta3Year': None,
+ 'bid': 15.25,
+ 'bidSize': 3200,
+ 'bookValue': 4.02,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Central',
+ 'companyOfficers': [],
+ 'country': 'Hong Kong',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 15.5,
+ 'dayLow': 15.07,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 10.599,
+ 'enterpriseToRevenue': 2.221,
+ 'enterpriseValue': 11473402880,
+ 'exDividendDate': 1582848000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '852 2537 3618',
+ 'fiftyDayAverage': 16.651714,
+ 'fiftyTwoWeekHigh': 25.22,
+ 'fiftyTwoWeekLow': 10.81,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.78,
+ 'floatShares': 201373587,
+ 'forwardEps': 0.57,
+ 'forwardPE': 26.754387,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 23078,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 1.0000001e-05,
+ 'heldPercentInstitutions': 0.37925997,
+ 'industry': 'Resorts & Casinos',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/melco-resorts.com',
+ 'longBusinessSummary': 'Melco Resorts & Entertainment Limited, through its '
+                        'subsidiaries, develops, owns, and operates casino '
+                        'gaming and entertainment casino resort facilities in '
+                        'Asia and Europe. It owns and operates City of Dreams, '
+                        'an integrated casino resort that has approximately '
+                        '516 gaming tables and 822 gaming machines; '
+                        'approximately 2,170 hotel rooms, and suites and '
+                        'villas; a wet stage performance theater with '
+                        'approximately 2,000 seats; approximately 25 '
+                        'restaurants and bars, and 165 retail outlets; and '
+                        'health and fitness clubs, three swimming pools, spa '
+                        'and salons, and banquet and meeting facilities. The '
+                        'company also operates Altira Macau, a casino hotel, '
+                        'which has approximately 103 gaming tables and 178 '
+                        'gaming machines; 230 hotel rooms; various dining and '
+                        'casual restaurants, and recreation and leisure '
+                        'facilities; and various non-gaming amenities '
+                        'comprising a spa, gymnasium, outdoor garden podium, '
+                        'and sky terrace lounge. In addition, it operates '
+                        'Studio City, a cinematically-themed integrated '
+                        'entertainment, retail, and gaming resort that '
+                        'comprises 293 gaming tables and 947 gaming machines '
+                        'in Cotai, Macau. Further, the company owns and '
+                        'operates eight Mocha Clubs with 1,478 gaming '
+                        'machines, as well as Grand Dragon casino in Taipa '
+                        'Island, Macau. Additionally, it operates and manages '
+                        'City of Dreams Manila, a casino, hotel, retail, and '
+                        'entertainment integrated resort in the Entertainment '
+                        'City complex in Manila. The company was formerly '
+                        'known as Melco Crown Entertainment Limited and '
+                        'changed its name to Melco Resorts & Entertainment '
+                        'Limited in April 2017. The company was incorporated '
+                        'in 2004 and is based in Central, Hong Kong. Melco '
+                        'Resorts & Entertainment Limited is a subsidiary of '
+                        'Melco Leisure and Entertainment Group Limited.',
+ 'longName': 'Melco Resorts & Entertainment Limited',
+ 'market': 'us_market',
+ 'marketCap': 7013795328,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_30233904',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -110939000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 15.39,
+ 'openInterest': None,
+ 'payoutRatio': 4.0146,
+ 'pegRatio': -0.51,
+ 'phone': '852 2598 3600',
+ 'previousClose': 15.5,
+ 'priceHint': 2,
+ 'priceToBook': 3.7935324,
+ 'priceToSalesTrailing12Months': 1.3579812,
+ 'profitMargins': -0.02148,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 15.5,
+ 'regularMarketDayLow': 15.07,
+ 'regularMarketOpen': 15.39,
+ 'regularMarketPreviousClose': 15.5,
+ 'regularMarketPrice': 15.39,
+ 'regularMarketVolume': 1233283,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 459920992,
+ 'sharesPercentSharesOut': 0.0074,
+ 'sharesShort': 3548435,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3271368,
+ 'shortName': 'Melco Resorts & Entertainment L',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 1.37,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'MLCO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.495,
+ 'trailingAnnualDividendYield': 0.031935483,
+ 'trailingEps': -0.234,
+ 'twoHundredDayAverage': 17.01813,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '9ae2be7d-b4f0-375b-8891-77418f096f01',
+ 'volume': 1233283,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.melco-resorts.com',
+ 'yield': None,
+ 'ytdReturn': None}

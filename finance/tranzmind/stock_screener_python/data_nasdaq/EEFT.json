@@ -1,0 +1,161 @@
+{'52WeekChange': -0.38438892,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3500 College Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 98.39,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 338450,
+ 'averageVolume': 627568,
+ 'averageVolume10days': 338450,
+ 'beta': 1.219607,
+ 'beta3Year': None,
+ 'bid': 98.2,
+ 'bidSize': 800,
+ 'bookValue': 24.699,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Leawood',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 99.79,
+ 'dayLow': 97.18,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.944,
+ 'enterpriseToEbitda': 9.403,
+ 'enterpriseToRevenue': 1.933,
+ 'enterpriseValue': 5327966208,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '913-327-4120',
+ 'fiftyDayAverage': 99.615715,
+ 'fiftyTwoWeekHigh': 167.64,
+ 'fiftyTwoWeekLow': 61.27,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 49989609,
+ 'forwardEps': 5.28,
+ 'forwardPE': 18.61174,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 8000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.04081,
+ 'heldPercentInstitutions': 0.96985,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/euronetworldwide.com',
+ 'longBusinessSummary': 'Euronet Worldwide, Inc. provides payment and '
+                        'transaction processing and distribution solutions to '
+                        'financial institutions, retailers, service providers, '
+                        "and individual consumers worldwide. The company's "
+                        'Electronic Fund Transfer (EFT) Processing segment '
+                        'provides electronic payment solutions, including '
+                        'automated teller machine (ATM) cash withdrawal and '
+                        'deposit services, ATM network participation, '
+                        'outsourced ATM and point-of-sale (POS) management '
+                        'solutions, credit and debit card outsourcing, card '
+                        'issuing, and merchant acquiring services. This '
+                        'segment also offers ATM and POS currency conversion, '
+                        'surcharge, advertising, customer relationship '
+                        'management, mobile top-up, bill payment, fraud '
+                        'management, foreign remittance and cardless payout, '
+                        'banknote recycling solutions, and tax-refund '
+                        'services; and integrated electronic financial '
+                        'transaction software solutions. As of December 31, '
+                        '2019, it operated a network of 46,070 ATMs; and '
+                        'approximately 330,000 POS terminals. Its epay segment '
+                        'provides distribution and processing of prepaid '
+                        'mobile airtime and other electronic content and '
+                        'payment processing services for various prepaid '
+                        'products, cards, and services; and vouchers and '
+                        'physical gift fulfillment, and gift card distribution '
+                        'and processing services. This segment operated a '
+                        'network of approximately 728,000 POS terminals. The '
+                        "company's Money Transfer segment offers "
+                        'consumer-to-consumer money transfer services '
+                        'primarily under the Ria, AFEX, and IME brands; '
+                        'account-to-account money transfer services under the '
+                        'xe brand; customers bill payment services; payment '
+                        'alternatives, such as money orders; check cashing '
+                        'services; foreign currency exchange and mobile top-up '
+                        'services; and cash management and foreign currency '
+                        'risk management services. The company was formerly '
+                        'known as Euronet Services, Inc. and changed its name '
+                        'to Euronet Worldwide, Inc. in August 2001. Euronet '
+                        'Worldwide, Inc. was founded in 1994 and is '
+                        'headquartered in Leawood, Kansas.',
+ 'longName': 'Euronet Worldwide, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 5130253824,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_28274',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 314127008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 99.55,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 4.2,
+ 'phone': '913-327-4200',
+ 'previousClose': 100.17,
+ 'priceHint': 2,
+ 'priceToBook': 3.9787035,
+ 'priceToSalesTrailing12Months': 1.8611431,
+ 'profitMargins': 0.11396,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 99.79,
+ 'regularMarketDayLow': 97.18,
+ 'regularMarketOpen': 99.55,
+ 'regularMarketPreviousClose': 100.17,
+ 'regularMarketPrice': 99.55,
+ 'regularMarketVolume': 296148,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 52199400,
+ 'sharesPercentSharesOut': 0.0197,
+ 'sharesShort': 1028078,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1824800,
+ 'shortName': 'Euronet Worldwide, Inc.',
+ 'shortPercentOfFloat': 0.020499999,
+ 'shortRatio': 1.35,
+ 'startDate': None,
+ 'state': 'KS',
+ 'strikePrice': None,
+ 'symbol': 'EEFT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 5.743,
+ 'trailingPE': 17.111265,
+ 'twoHundredDayAverage': 109.45144,
+ 'volume': 296148,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.euronetworldwide.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '66211'}

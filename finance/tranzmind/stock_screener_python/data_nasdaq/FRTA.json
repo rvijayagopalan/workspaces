@@ -1,0 +1,164 @@
+{'52WeekChange': 0.93188405,
+ 'SandP52WeekChange': None,
+ 'address1': '511 East John Carpenter Freeway',
+ 'address2': '6th Floor',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 13.18,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 184650,
+ 'averageVolume': 351398,
+ 'averageVolume10days': 184650,
+ 'beta': 2.607712,
+ 'beta3Year': None,
+ 'bid': 13.16,
+ 'bidSize': 1200,
+ 'bookValue': 1.586,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Irving',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 13.26,
+ 'dayLow': 12.78,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 11.323,
+ 'enterpriseToRevenue': 1.378,
+ 'enterpriseValue': 2162113280,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 11.089143,
+ 'fiftyTwoWeekHigh': 15.42,
+ 'fiftyTwoWeekLow': 3.45,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 18746639,
+ 'forwardEps': 0.72,
+ 'forwardPE': 18.305555,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4578,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01314,
+ 'heldPercentInstitutions': 1.01249,
+ 'industry': 'Building Products & Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/forterrabp.com',
+ 'longBusinessSummary': 'Forterra, Inc. manufactures and sells pipe and '
+                        'precast products the United States, Canada, and '
+                        'Mexico. It operates through Drainage Pipe & Products; '
+                        'and Water Pipe & Products segments. The company '
+                        'offers concrete drainage pipes used for storm water '
+                        'applications, residential and non-residential site '
+                        'developments, sanitary sewers, low-pressure sewer '
+                        'force mains, tunneled systems, treatment plant '
+                        'piping, and utility tunnels. It provides box '
+                        'culverts, utility vaults, manholes, drainage inlets, '
+                        'and pipe end sections used for roadway and airport '
+                        'drainage, storm water management, utility '
+                        'construction, and water treatment and filtration '
+                        'systems; and architectural panels for buildings, '
+                        'modular railroad crossings, retaining wall and storm '
+                        'water treatment systems, highway noise barriers, and '
+                        'concrete vaults that are used to house dry or wet '
+                        'utilities. The company offers hollow-core planks, '
+                        'prestressed bridge girders, beams, columns, wall '
+                        'panels, stairs, garage floors, and architectural '
+                        'claddings for infrastructure and non-residential '
+                        'applications; and precast concrete bridge girders for '
+                        'highway projects. It provides precast concrete '
+                        'foundation to support prefabricated shelters or '
+                        'equipment buildings; precast product that '
+                        'consolidates and protects underground electrical and '
+                        'communication cables; and storm water technologies '
+                        'for storm water management market. The company offers '
+                        'ductile iron pipes for transmission and distribution '
+                        'of potable and waste water, and smaller diameter '
+                        'applications; concrete pressure pipes for water '
+                        'transmission and distribution, power plant cooling '
+                        'water lines, sewage force mains for waste and storm '
+                        'water, and other various applications; and '
+                        'prestressed concrete and bar-wrapped concrete pipes. '
+                        'It serves construction contractors, developers, '
+                        'utility companies and contractors, municipalities, '
+                        'and waterworks distributors and contractors through '
+                        'distributors. The company was founded in 1899 and is '
+                        'headquartered in Irving, Texas.',
+ 'longName': 'Forterra, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 858186752,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_23721484',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 3642000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 13.21,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.86,
+ 'phone': '469 458 7973',
+ 'previousClose': 13.33,
+ 'priceHint': 2,
+ 'priceToBook': 8.310215,
+ 'priceToSalesTrailing12Months': 0.54704434,
+ 'profitMargins': 0.00232,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 13.26,
+ 'regularMarketDayLow': 12.78,
+ 'regularMarketOpen': 13.21,
+ 'regularMarketPreviousClose': 13.33,
+ 'regularMarketPrice': 13.21,
+ 'regularMarketVolume': 133930,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 65112800,
+ 'sharesPercentSharesOut': 0.045,
+ 'sharesShort': 2931624,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2824943,
+ 'shortName': 'Forterra, Inc.',
+ 'shortPercentOfFloat': 0.1559,
+ 'shortRatio': 9.32,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'FRTA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.056,
+ 'trailingPE': 235.35715,
+ 'twoHundredDayAverage': 10.106079,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '7d77e1e0-a7e6-3354-a20e-f43bd8270695',
+ 'volume': 133930,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.forterrabp.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '75062'}

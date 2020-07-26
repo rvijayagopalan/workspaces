@@ -1,0 +1,158 @@
+{'52WeekChange': -0.55050504,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '6155 El Camino Real',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 37.4,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 325587,
+ 'averageVolume': 505231,
+ 'averageVolume10days': 325587,
+ 'beta': 1.141736,
+ 'beta3Year': None,
+ 'bid': 37.35,
+ 'bidSize': 800,
+ 'bookValue': 32.629,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Carlsbad',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 38.26,
+ 'dayLow': 37.315,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.369,
+ 'enterpriseToEbitda': 12.885,
+ 'enterpriseToRevenue': 1.828,
+ 'enterpriseValue': 4221253120,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '760-929-3941',
+ 'fiftyDayAverage': 39.23514,
+ 'fiftyTwoWeekHigh': 84.2,
+ 'fiftyTwoWeekLow': 25.1,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 38537442,
+ 'forwardEps': 0.47,
+ 'forwardPE': 79.53191,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 6100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.05145,
+ 'heldPercentInstitutions': 0.88319,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1585612800,
+ 'lastMarket': None,
+ 'lastSplitDate': 967766400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/viasat.com',
+ 'longBusinessSummary': 'Viasat, Inc. provides broadband and communications '
+                        'products and services worldwide. It operates through '
+                        'three segments: Satellite Services, Commercial '
+                        "Networks, and Government Systems. The company's "
+                        'Satellite Services segment offers satellite-based '
+                        'fixed broadband services, including broadband '
+                        'internet access and voice over internet protocol '
+                        'services to consumers and businesses; in-flight '
+                        'entertainment, internet, and aviation software '
+                        'services to commercial airlines; community internet '
+                        'services; and mobile broadband services, including '
+                        'satellite-based internet services to energy offshore '
+                        'vessels, cruise ships, consumer ferries, and yachts. '
+                        'As of March 31, 2020, this segment provided broadband '
+                        'Internet services to approximately 590,000 '
+                        'subscribers. Its Commercial Networks segment offers '
+                        'fixed satellite networks comprising satellite network '
+                        'infrastructure and ground terminals; mobile broadband '
+                        'satellite communication systems; and antenna systems '
+                        'for terrestrial and satellite applications, such as '
+                        'earth imaging, remote sensing, mobile satellite '
+                        'communication, Ka-band earth stations, and other '
+                        'multi-band antennas. This segment also provides '
+                        'design and technology services, including analysis, '
+                        'design, development, and specification of satellites '
+                        'and ground systems; application specific integrated '
+                        'circuit and monolithic microwave integrated circuit '
+                        'design; and network function virtualization. The '
+                        "company's Government Systems segment offers various "
+                        'mobile and fixed broadband modems, terminals, network '
+                        'access control systems, and antenna systems; '
+                        'cybersecurity and information assurance products and '
+                        'services; and tactical radio and information '
+                        'distribution systems to enable voice, and real-time '
+                        'collection and dissemination of video and data using '
+                        'secure, and jam-resistant transmission links. The '
+                        'company was founded in 1986 and is headquartered in '
+                        'Carlsbad, California.',
+ 'longName': 'Viasat, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2323058688,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_359638',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -212000,
+ 'nextFiscalYearEnd': 1648684800,
+ 'open': 38.12,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 7.6,
+ 'phone': '760-476-2200',
+ 'previousClose': 38.05,
+ 'priceHint': 2,
+ 'priceToBook': 1.1456066,
+ 'priceToSalesTrailing12Months': 1.0059849,
+ 'profitMargins': -8.9999994e-05,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 38.26,
+ 'regularMarketDayLow': 37.315,
+ 'regularMarketOpen': 38.12,
+ 'regularMarketPreviousClose': 38.05,
+ 'regularMarketPrice': 38.12,
+ 'regularMarketVolume': 382581,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 62129300,
+ 'sharesPercentSharesOut': 0.078,
+ 'sharesShort': 4848778,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3707897,
+ 'shortName': 'ViaSat, Inc.',
+ 'shortPercentOfFloat': 0.128,
+ 'shortRatio': 8.66,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'VSAT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.003,
+ 'twoHundredDayAverage': 47.145035,
+ 'volume': 382581,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.viasat.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92009'}

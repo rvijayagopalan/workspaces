@@ -1,0 +1,151 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': 'No.1 Building',
+ 'address2': 'No. 195 Huilongguan East Road Changping District',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 18.96,
+ 'askSize': 1400,
+ 'averageDailyVolume10Day': 1165425,
+ 'averageVolume': 785209,
+ 'averageVolume10days': 1165425,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 18.94,
+ 'bidSize': 800,
+ 'bookValue': -2.249,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Beijing',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 19.57,
+ 'dayLow': 18.25,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 1417674880,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 16.93743,
+ 'fiftyTwoWeekHigh': 25.88,
+ 'fiftyTwoWeekLow': 6.08,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 28545116,
+ 'forwardEps': 0.73,
+ 'forwardPE': 25.945206,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 521,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0,
+ 'heldPercentInstitutions': 0.16339001,
+ 'industry': 'Auto Manufacturers',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/niu.com',
+ 'longBusinessSummary': 'Niu Technologies designs, manufactures, and sells '
+                        "smart electric-scooters in the People's Republic of "
+                        'China. The company offers NQi, MQi, UQi, and Gova '
+                        'series e-scooters; RQi and TQi series urban commuter '
+                        'electric motorcycles; and NIU Aero series '
+                        'professional mountain and road bicycles under the NIU '
+                        'brand name. It also provides scooter accessories, '
+                        'such as raincoats, gloves, knee pads, storage baskets '
+                        'and tail boxes, smart phone holders, backrests, and '
+                        'locks; lifestyle accessories, which includes '
+                        'T-shirts, coats, jeans, hats, bags, jewelry, '
+                        'notebook, badges, key chain, and mugs; and '
+                        'performance upgrade components that comprises of '
+                        'upgraded wheels, shock absorbers, brake calipers, and '
+                        'carbon fiber body panels. In addition, the company, '
+                        'through its NIU app, offers online repair request, '
+                        'DIY repairs, service station locator, theft '
+                        'reporting, and smart services, as well as NIU cover, '
+                        'which provides insurance services; and NIU Care that '
+                        'offers maintenance service and reserve service in '
+                        'offline service stations. The company sells and '
+                        'services its products through city partners and '
+                        'franchised stores, and third-party e-commerce '
+                        "platforms and the company's online store. As of "
+                        'December 31, 2019, it operated through 235 city '
+                        'partners and 1,050 franchised stores in approximately '
+                        "180 cities in the People's Republic of China; and 29 "
+                        'distributors in 38 countries internationally. The '
+                        'company was founded in 2014 and is headquartered in '
+                        "Beijing, the People's Republic of China.",
+ 'longName': 'Niu Technologies',
+ 'market': 'us_market',
+ 'marketCap': 1415698688,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_306064547',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 18.37,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 65.27,
+ 'previousClose': 19.66,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0.077649996,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 19.57,
+ 'regularMarketDayLow': 18.25,
+ 'regularMarketOpen': 18.37,
+ 'regularMarketPreviousClose': 19.66,
+ 'regularMarketPrice': 18.37,
+ 'regularMarketVolume': 681023,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 74746496,
+ 'sharesPercentSharesOut': 0.0044,
+ 'sharesShort': 337033,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 324675,
+ 'shortName': 'Niu Technologies',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 0.44,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'NIU',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -2.713,
+ 'twoHundredDayAverage': 10.630936,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'd2c9e8f9-7c21-3296-a6fc-df42856d096c',
+ 'volume': 681023,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.niu.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '102208'}

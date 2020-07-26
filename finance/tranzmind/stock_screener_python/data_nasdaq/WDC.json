@@ -1,0 +1,159 @@
+{'52WeekChange': -0.23194122,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '5601 Great Oaks Parkway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 42.97,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 4993412,
+ 'averageVolume': 5789715,
+ 'averageVolume10days': 4993412,
+ 'beta': 1.602801,
+ 'beta3Year': None,
+ 'bid': 42.8,
+ 'bidSize': 1800,
+ 'bookValue': 30.81,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Jose',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 45.44,
+ 'dayLow': 42.71,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 14.736,
+ 'enterpriseToRevenue': 1.23,
+ 'enterpriseValue': 19776188416,
+ 'exDividendDate': 1585785600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 43.675144,
+ 'fiftyTwoWeekHigh': 72,
+ 'fiftyTwoWeekLow': 27.4,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 3.38,
+ 'floatShares': 298418312,
+ 'forwardEps': 5.84,
+ 'forwardPE': 7.3373284,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 61800,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00361,
+ 'heldPercentInstitutions': 0.86431,
+ 'industry': 'Computer Hardware',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561680000,
+ 'lastMarket': None,
+ 'lastSplitDate': 865382400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/westerndigital.com',
+ 'longBusinessSummary': 'Western Digital Corporation develops, manufactures, '
+                        'and sells data storage devices and solutions '
+                        'worldwide. It offers client devices, including hard '
+                        'disk drives (HDDs) and solid state drives (SSDs) for '
+                        'computing devices, such as desktop and notebook '
+                        'personal computers (PCs), security surveillance '
+                        'systems, gaming consoles, and set top boxes; '
+                        'flash-based embedded storage products for mobile '
+                        'phones, tablets, notebook PCs, and other portable and '
+                        'wearable devices, as well as automotive, Internet of '
+                        'Things, industrial, and connected home applications; '
+                        'flash-based memory wafers; and embedded storage '
+                        'solutions and flash products, such as multi-chip '
+                        'package solutions. The company also provides data '
+                        'center devices and solutions comprising enterprise '
+                        'helium hard drives; enterprise SSDs consisting of '
+                        'flash-based SSDs and software solutions for use in '
+                        'enterprise servers, online transactions, data '
+                        'analysis, and other enterprise applications; data '
+                        'center solutions, including HDDs and drive '
+                        'configurations for use in data storage systems and '
+                        'tiered storage models; system solutions that offer '
+                        'petabyte scalable capacity; and data storage '
+                        'platforms and systems. In addition, it offers client '
+                        'solutions, such as external HDD storage products in '
+                        'mobile and desktop form; client SSDs; removable cards '
+                        'that are used in consumer devices comprising mobile '
+                        'phones, tablets, imaging systems, still and action '
+                        'video cameras, and security surveillance systems; '
+                        'universal serial bus flash drives for use in the '
+                        'computing and consumer markets; and wireless drive '
+                        'products used in-field back up of created content, as '
+                        'well as wireless streaming of high-definition movies, '
+                        'photos, music, and documents to tablets, smartphones, '
+                        'and PCs. The company sells its products under the '
+                        'HGST, SanDisk, and WD brands to original equipment '
+                        'manufacturers, distributors, resellers, cloud '
+                        'infrastructure players, and retailers. Western '
+                        'Digital Corporation was founded in 1970 and is '
+                        'headquartered in San Jose, California.',
+ 'longName': 'Western Digital Corporation',
+ 'market': 'us_market',
+ 'marketCap': 12842186752,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_314057',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585872000,
+ 'navPrice': None,
+ 'netIncomeToCommon': -595000000,
+ 'nextFiscalYearEnd': 1624838400,
+ 'open': 45.36,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': -1.1,
+ 'phone': '408 717 6000',
+ 'previousClose': 46.16,
+ 'priceHint': 2,
+ 'priceToBook': 1.3907822,
+ 'priceToSalesTrailing12Months': 0.79849446,
+ 'profitMargins': -0.037,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 45.44,
+ 'regularMarketDayLow': 42.71,
+ 'regularMarketOpen': 45.36,
+ 'regularMarketPreviousClose': 46.16,
+ 'regularMarketPrice': 45.36,
+ 'regularMarketVolume': 8032813,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 299700992,
+ 'sharesPercentSharesOut': 0.0301,
+ 'sharesShort': 9031307,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 11450856,
+ 'shortName': 'Western Digital Corporation',
+ 'shortPercentOfFloat': 0.033800002,
+ 'shortRatio': 1.55,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'WDC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2,
+ 'trailingAnnualDividendYield': 0.043327555,
+ 'trailingEps': -2.008,
+ 'twoHundredDayAverage': 49.439926,
+ 'volume': 8032813,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.westerndigital.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '95119'}

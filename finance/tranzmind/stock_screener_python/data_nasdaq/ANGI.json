@@ -1,0 +1,153 @@
+{'52WeekChange': 0.055756688,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '3601 Walnut Street',
+ 'address2': 'Suite 700',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 14.58,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 3880512,
+ 'averageVolume': 3628911,
+ 'averageVolume10days': 3880512,
+ 'beta': 2.107142,
+ 'beta3Year': None,
+ 'bid': 14.57,
+ 'bidSize': 3100,
+ 'bookValue': 2.58,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Denver',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.86,
+ 'dayLow': 14.38,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 43.984,
+ 'enterpriseToRevenue': 5.204,
+ 'enterpriseValue': 7110822400,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 13.755714,
+ 'fiftyTwoWeekHigh': 17.05,
+ 'fiftyTwoWeekLow': 4.1,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 69541749,
+ 'forwardEps': 0.1,
+ 'forwardPE': 145.8,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.011039999,
+ 'heldPercentInstitutions': 1.2809399,
+ 'industry': 'Internet Content & Information',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/angihomeservices.com',
+ 'longBusinessSummary': 'ANGI Homeservices Inc. operates a digital marketplace '
+                        'for home services, connecting consumers with home '
+                        'service professionals in the United States and '
+                        'internationally. Its HomeAdvisor digital marketplace '
+                        'service connects consumers with service professionals '
+                        'for home repair, maintenance, and improvement '
+                        'projects; and provides consumers with tools and '
+                        'resources to find local, pre-screened, and '
+                        'customer-rated service professionals, as well as '
+                        'offers online appointment booking. The company also '
+                        "owns and operates Angie's List, which connects "
+                        'consumers with service professionals for local '
+                        'services through an online directory of service '
+                        'professionals in various service categories; and '
+                        'provides consumers with valuable tools, services, and '
+                        'content, including verified reviews, to help them '
+                        'research, shop, and hire for local services. In '
+                        'addition, it operates Handy, a platform for '
+                        'connecting individuals looking for household '
+                        'services, primarily cleaning and handyman services; '
+                        'mHelpDesk and CraftJack service brands; and home '
+                        'services marketplaces under the Travaux, MyHammer, '
+                        'Werkspot, MyBuilder, HomeStars, Instapro, and '
+                        'MyHammer names. Further, the company is involved in '
+                        'home warranty and service business. As of December '
+                        '31, 2019, it had a network of approximately 220,000 '
+                        'service professionals. The company was formerly known '
+                        'as Halo TopCo, Inc. and changed its name to ANGI '
+                        'Homeservices Inc. in May 2017. ANGI Homeservices Inc. '
+                        'was incorporated in 2017 and is headquartered in '
+                        'Denver, Colorado. ANGI Homeservices Inc. is a '
+                        'subsidiary of IAC/InterActiveCorp.',
+ 'longName': 'ANGI Homeservices Inc.',
+ 'market': 'us_market',
+ 'marketCap': 7202855424,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_123844',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 15902000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.77,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -9.4,
+ 'phone': '303-963-7200',
+ 'previousClose': 14.74,
+ 'priceHint': 2,
+ 'priceToBook': 5.651163,
+ 'priceToSalesTrailing12Months': 5.271364,
+ 'profitMargins': 0.01164,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.86,
+ 'regularMarketDayLow': 14.38,
+ 'regularMarketOpen': 14.77,
+ 'regularMarketPreviousClose': 14.74,
+ 'regularMarketPrice': 14.77,
+ 'regularMarketVolume': 4708808,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 72266400,
+ 'sharesPercentSharesOut': 0.08930001,
+ 'sharesShort': 44119891,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 43032122,
+ 'shortName': 'ANGI Homeservices Inc.',
+ 'shortPercentOfFloat': 0.8823,
+ 'shortRatio': 17.26,
+ 'startDate': None,
+ 'state': 'CO',
+ 'strikePrice': None,
+ 'symbol': 'ANGI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.03,
+ 'trailingPE': 486,
+ 'twoHundredDayAverage': 9.119208,
+ 'volume': 4708808,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.angihomeservices.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '80205'}

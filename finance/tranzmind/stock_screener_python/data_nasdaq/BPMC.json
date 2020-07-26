@@ -1,0 +1,151 @@
+{'52WeekChange': -0.23974794,
+ 'SandP52WeekChange': None,
+ 'address1': '45 Sidney Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 95,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 624487,
+ 'averageVolume': 637784,
+ 'averageVolume10days': 624487,
+ 'beta': 1.073389,
+ 'beta3Year': None,
+ 'bid': 70.5,
+ 'bidSize': 1100,
+ 'bookValue': 12.608,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 75.94,
+ 'dayLow': 73.53,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -9.161,
+ 'enterpriseToRevenue': 48.29,
+ 'enterpriseValue': 3474436608,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 76.59029,
+ 'fiftyTwoWeekHigh': 101.76,
+ 'fiftyTwoWeekLow': 43.29,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 53562986,
+ 'forwardEps': -6.62,
+ 'forwardPE': -11.279456,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 394,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01426,
+ 'heldPercentInstitutions': 0.97899,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/blueprintmedicines.com',
+ 'longBusinessSummary': 'Blueprint Medicines Corporation develops drugs of '
+                        'small molecule kinase inhibitors that target genomic '
+                        'drivers in genomically defined cancers, rare '
+                        'diseases, and cancer immunotherapy. The company is '
+                        'developing avapritinib for the treatment of systemic '
+                        'mastocytosis (SM) and gastrointestinal stromal '
+                        'tumors; BLU-263, an orally available, potent, and KIT '
+                        'inhibitor for the treatment of indolent SM and other '
+                        'mast cell disorders; and fisogatinib, an orally '
+                        'available and potent inhibitor, which is in Phase I '
+                        'clinical trials for the treatment of advanced '
+                        'hepatocellular carcinoma. It is also developing '
+                        'pralsetinib, an orally available and potent inhibitor '
+                        'that targets RET, a receptor tyrosine kinase for the '
+                        'treatment of RET-altered non-small cell lung cancer, '
+                        'medullary thyroid carcinoma, and other solid tumors. '
+                        'In addition, the company is developing BLU-782, an '
+                        'oral and investigational activin-like kinase 2 '
+                        'inhibitor, which is in Phase I clinical trials for '
+                        'the treatment of fibrodysplasia ossificans '
+                        'progressive. It has collaboration and license '
+                        'agreements with Clementia Pharmaceuticals, Inc.; '
+                        'CStone Pharmaceuticals; Genentech, Inc.; and F. '
+                        'Hoffmann-La Roche Ltd and Hoffmann-La Roche Inc. The '
+                        'company was formerly known as Hoyle Pharmaceuticals, '
+                        'Inc. and changed its name to Blueprint Medicines '
+                        'Corporation in June 2011. Blueprint Medicines '
+                        'Corporation was founded in 2008 and is headquartered '
+                        'in Cambridge, Massachusetts.',
+ 'longName': 'Blueprint Medicines Corporation',
+ 'market': 'us_market',
+ 'marketCap': 4046367232,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_129802746',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -371241984,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 75.37,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.48,
+ 'phone': '617 374 7580',
+ 'previousClose': 76.01,
+ 'priceHint': 2,
+ 'priceToBook': 5.92243,
+ 'priceToSalesTrailing12Months': 56.23938,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 75.94,
+ 'regularMarketDayLow': 73.53,
+ 'regularMarketOpen': 75.37,
+ 'regularMarketPreviousClose': 76.01,
+ 'regularMarketPrice': 75.37,
+ 'regularMarketVolume': 367318,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 54190000,
+ 'sharesPercentSharesOut': 0.0774,
+ 'sharesShort': 4196389,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3645473,
+ 'shortName': 'Blueprint Medicines Corporation',
+ 'shortPercentOfFloat': 0.090500005,
+ 'shortRatio': 8.47,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'BPMC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -7.43,
+ 'twoHundredDayAverage': 67.15288,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'ff898492-23d6-3cda-8698-a93cfd1e435b',
+ 'volume': 367318,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.blueprintmedicines.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02139'}

@@ -1,0 +1,154 @@
+{'52WeekChange': -0.4504717,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '2027 Harpers Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 2.5,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 16712,
+ 'averageVolume': 9046,
+ 'averageVolume10days': 16712,
+ 'beta': 1.298039,
+ 'beta3Year': None,
+ 'bid': 2.2,
+ 'bidSize': 1400,
+ 'bookValue': 3.228,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Torrance',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 2.36,
+ 'dayLow': 2.24,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 12.018,
+ 'enterpriseToRevenue': 0.473,
+ 'enterpriseValue': 85914568,
+ 'exDividendDate': 1545782400,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '800 258 7367',
+ 'fiftyDayAverage': 2.6394286,
+ 'fiftyTwoWeekHigh': 4.63,
+ 'fiftyTwoWeekLow': 1.82,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 8289997,
+ 'forwardEps': 0.39,
+ 'forwardPE': 5.897436,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 825,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.1478,
+ 'heldPercentInstitutions': 0.22287,
+ 'industry': 'Furnishings, Fixtures & Appliances',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1031097600,
+ 'lastSplitFactor': '11:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/virco.com',
+ 'longBusinessSummary': 'Virco Mfg. Corporation engages in the design, '
+                        'production, and distribution of furniture for the '
+                        'commercial and education markets in the United '
+                        'States. It offers seating products, including 4-leg '
+                        'chairs, cantilever chairs, tablet arm chairs with '
+                        'work surfaces and compact footprints, steel-frame '
+                        'rockers, stools, classroom chairs, stack and folding '
+                        'chairs, hard plastic seating, upholstered stack and '
+                        'ergonomic chairs, and plastic stack chairs. The '
+                        'company also provides folding, activity, office, '
+                        'computer, and mobile tables; and computer furniture, '
+                        'such as keyboard mouse trays, CPU holders, support '
+                        'columns, desks and workstations, specialty tables, '
+                        'instructor media stations and towers, and other '
+                        'products. In addition, it offers chair desks, combo '
+                        'units, and tablet arm and caster units, as well as a '
+                        'returns and credenzas. Additionally, the company '
+                        'provides administrative office furniture, including '
+                        'desks, returns, bookcases, storage cabinets, and '
+                        'other items, as well as wardrobe tower cabinets, file '
+                        'credenzas, and mobile pedestals; laboratory furniture '
+                        'comprising steel-based science tables, table bases, '
+                        'lab stools, and wood-frame science tables; mobile '
+                        'furniture, including mobile tables for cafeterias, '
+                        'mobile cabinets, and mobile chairs for school '
+                        'settings and offices; and handling and storage '
+                        'equipment, as well as manufactures stackable storage '
+                        'trucks. It serves educational institutions, '
+                        'convention centers and arenas, hospitality providers, '
+                        'government facilities, and places of worship through '
+                        'its sales and support teams, and dealer network. '
+                        'Virco Mfg. Corporation was founded in 1950 and is '
+                        'headquartered in Torrance, California.',
+ 'longName': 'Virco Mfg. Corporation',
+ 'market': 'us_market',
+ 'marketCap': 36141048,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_312343',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 751000,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 2.24,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '310 533 0474',
+ 'previousClose': 2.3,
+ 'priceHint': 4,
+ 'priceToBook': 0.7125155,
+ 'priceToSalesTrailing12Months': 0.19882956,
+ 'profitMargins': 0.00413,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 2.36,
+ 'regularMarketDayLow': 2.24,
+ 'regularMarketOpen': 2.24,
+ 'regularMarketPreviousClose': 2.3,
+ 'regularMarketPrice': 2.24,
+ 'regularMarketVolume': 28412,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 15713500,
+ 'sharesPercentSharesOut': 0.0005,
+ 'sharesShort': 7176,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3253,
+ 'shortName': 'Virco Manufacturing Corporation',
+ 'shortPercentOfFloat': 0.0007,
+ 'shortRatio': 0.78,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'VIRC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.015,
+ 'trailingAnnualDividendYield': 0.006521739,
+ 'trailingEps': 0.048,
+ 'trailingPE': 47.916664,
+ 'twoHundredDayAverage': 2.99518,
+ 'volume': 28412,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.virco.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '90501'}

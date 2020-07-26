@@ -1,0 +1,162 @@
+{'52WeekChange': 2.0884616,
+ 'SandP52WeekChange': None,
+ 'address1': '5900 Golden Hills Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 38.67,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 128275,
+ 'averageVolume': 157161,
+ 'averageVolume10days': 128275,
+ 'beta': 1.169187,
+ 'beta3Year': None,
+ 'bid': 37.81,
+ 'bidSize': 1000,
+ 'bookValue': 8.468,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Minneapolis',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 40.19,
+ 'dayLow': 37.77,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 2.519,
+ 'enterpriseToEbitda': 55.624,
+ 'enterpriseToRevenue': 4.294,
+ 'enterpriseValue': 264823584,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '763-542-5100',
+ 'fiftyDayAverage': 35.619427,
+ 'fiftyTwoWeekHigh': 41.03,
+ 'fiftyTwoWeekLow': 12.69,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 6940456,
+ 'forwardEps': 0.56,
+ 'forwardPE': 68.23214,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 173,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.034730002,
+ 'heldPercentInstitutions': 0.55291003,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cyberoptics.com',
+ 'longBusinessSummary': 'CyberOptics Corporation develops and manufactures '
+                        'high precision sensing technology solutions '
+                        'worldwide. Its sensors are being used in surface '
+                        'mount technology (SMT), semiconductor, and metrology '
+                        'markets to improve yields and productivity. The '
+                        'company offers multi-reflection suppression sensors '
+                        'for application in the SMT, semiconductor, and '
+                        'metrology markets; and strobe inspection modules for '
+                        'use in 2D automated optical inspection (AOI) systems. '
+                        'It also provides SMT electronic assembly alignment '
+                        'sensor products, including LaserAlign sensors for '
+                        'incorporation into pick-and-place machines; and '
+                        'InPrinter Inspection Camera, which identifies '
+                        'fiducial markings on a circuit board to ensure '
+                        'accurate board registration prior to placement of '
+                        'solder paste. In addition, the company offers 3D '
+                        'solder paste inspection sensors; inspection system '
+                        'products primarily used in the semiconductor and SMT '
+                        'electronic assembly industries for process control, '
+                        'inspection, and metrology; AOI products to inspect '
+                        'circuit boards after component placement; and 3D '
+                        'solder paste measurement machines. Further, it '
+                        'provides general industrial metrology products and '
+                        'services, such as CyberGage 360, which are used as '
+                        'in-line or offline metrology tools; and sells 3D '
+                        'scanning and metrology equipment manufactured by '
+                        'other suppliers and provides 3D scanning and '
+                        'metrology services, as well as provides WaferSense '
+                        'family of products that provide measurements of '
+                        'critical factors in the semiconductor fabrication '
+                        'process. The company sells its products to SMT '
+                        'electronic assembly circuit board manufacturers, '
+                        'end-user customers manufacturing their own circuit '
+                        'boards, semiconductor manufacturers, and outsourced '
+                        'semiconductor assembly and test companies through '
+                        'independent sales representatives and distributors. '
+                        'CyberOptics Corporation was founded in 1984 and is '
+                        'headquartered in Minneapolis, Minnesota.',
+ 'longName': 'CyberOptics Corporation',
+ 'market': 'us_market',
+ 'marketCap': 274238880,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_265334',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 2292000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 40.19,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 4.23,
+ 'phone': '763-542-5000',
+ 'previousClose': 40.15,
+ 'priceHint': 2,
+ 'priceToBook': 4.5122814,
+ 'priceToSalesTrailing12Months': 4.447021,
+ 'profitMargins': 0.03717,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 40.19,
+ 'regularMarketDayLow': 37.77,
+ 'regularMarketOpen': 40.19,
+ 'regularMarketPreviousClose': 40.15,
+ 'regularMarketPrice': 40.19,
+ 'regularMarketVolume': 110904,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 7177150,
+ 'sharesPercentSharesOut': 0.0341,
+ 'sharesShort': 244861,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 116980,
+ 'shortName': 'CyberOptics Corporation',
+ 'shortPercentOfFloat': 0.0352,
+ 'shortRatio': 1.22,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'CYBE',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.314,
+ 'trailingPE': 121.68789,
+ 'twoHundredDayAverage': 25.877842,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'ee6dba50-fc33-3930-900c-a0fac5f6e4ff',
+ 'volume': 110904,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cyberoptics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '55416'}

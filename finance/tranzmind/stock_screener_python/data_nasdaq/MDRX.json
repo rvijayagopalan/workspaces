@@ -1,0 +1,152 @@
+{'52WeekChange': -0.32542694,
+ 'SandP52WeekChange': None,
+ 'address1': '222 Merchandise Mart Plaza',
+ 'address2': 'Suite 2024',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 7.07,
+ 'askSize': 4000,
+ 'averageDailyVolume10Day': 1358350,
+ 'averageVolume': 2216155,
+ 'averageVolume10days': 1358350,
+ 'beta': 0.981512,
+ 'beta3Year': None,
+ 'bid': 6.98,
+ 'bidSize': 4000,
+ 'bookValue': 7.67,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Chicago',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 7.19,
+ 'dayLow': 6.92,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 25.165,
+ 'enterpriseToRevenue': 1.207,
+ 'enterpriseValue': 2119584256,
+ 'exDividendDate': 1223337600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 6.7814283,
+ 'fiftyTwoWeekHigh': 11.82,
+ 'fiftyTwoWeekLow': 4.56,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 160110509,
+ 'forwardEps': 0.72,
+ 'forwardPE': 9.763888,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 9600,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01444,
+ 'heldPercentInstitutions': 1.13949,
+ 'industry': 'Health Information Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/allscripts.com',
+ 'longBusinessSummary': 'Allscripts Healthcare Solutions, Inc. provides '
+                        'information technology solutions and services to '
+                        'healthcare organizations in the United States, '
+                        'Canada, and internationally. It offers electronic '
+                        'health records (EHR), information connectivity, '
+                        'private cloud hosting, outsourcing, analytics, '
+                        'patient access, and population health management '
+                        'solutions. The company operates in two segments, '
+                        'Provider and Veradigm. The Provider segment provides '
+                        'integrated clinical software applications, financial '
+                        'management, and patient engagement solutions, which '
+                        'primarily include EHR-related software, connectivity '
+                        'and coordinated care solutions, and financial and '
+                        'practice management software solutions, as well as '
+                        'related installation, support and maintenance, '
+                        'outsourcing, private cloud hosting, revenue cycle '
+                        'management, training, and electronic claims '
+                        'administration services. The Veradigm segment offers '
+                        'data-driven clinical insights with actionable tools '
+                        'for clinical workflow, research, analytics, and '
+                        'media. The company serves physicians, hospitals, '
+                        'governments, health systems, health plans, '
+                        'life-sciences companies, retail clinics, retail '
+                        'pharmacies, pharmacy benefit managers, insurance '
+                        'companies, and employer wellness clinics, as well as '
+                        'post-acute organizations, such as home health and '
+                        'hospice agencies. Allscripts Healthcare Solutions, '
+                        'Inc. was founded in 1986 and is headquartered in '
+                        'Chicago, Illinois.',
+ 'longName': 'Allscripts Healthcare Solutions, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 1142726528,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4730973',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -194979008,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 7.04,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.94,
+ 'phone': '800-334-8534',
+ 'previousClose': 7.11,
+ 'priceHint': 2,
+ 'priceToBook': 0.916558,
+ 'priceToSalesTrailing12Months': 0.6506291,
+ 'profitMargins': -0.11101,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 7.19,
+ 'regularMarketDayLow': 6.92,
+ 'regularMarketOpen': 7.04,
+ 'regularMarketPreviousClose': 7.11,
+ 'regularMarketPrice': 7.04,
+ 'regularMarketVolume': 1128838,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 162550000,
+ 'sharesPercentSharesOut': 0.1164,
+ 'sharesShort': 18915000,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 17919028,
+ 'shortName': 'Allscripts Healthcare Solutions',
+ 'shortPercentOfFloat': 0.18879999,
+ 'shortRatio': 5.16,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'MDRX',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.2,
+ 'twoHundredDayAverage': 7.18482,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '75081fd1-7248-34ee-a287-90a0aa1a19ad',
+ 'volume': 1128838,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.allscripts.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60654'}

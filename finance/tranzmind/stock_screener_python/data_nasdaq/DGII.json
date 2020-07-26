@@ -1,0 +1,165 @@
+{'52WeekChange': -0.12226415,
+ 'SandP52WeekChange': None,
+ 'address1': '9350 Excelsior Boulevard',
+ 'address2': 'Suite 700',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 11.39,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 101462,
+ 'averageVolume': 167355,
+ 'averageVolume10days': 101462,
+ 'beta': 1.779831,
+ 'beta3Year': None,
+ 'bid': 11.31,
+ 'bidSize': 800,
+ 'bookValue': 12.377,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Hopkins',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.59,
+ 'dayLow': 11.27,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.493,
+ 'enterpriseToEbitda': 14.599,
+ 'enterpriseToRevenue': 1.51,
+ 'enterpriseValue': 395508832,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '952-912-4952',
+ 'fiftyDayAverage': 11.0908575,
+ 'fiftyTwoWeekHigh': 18.99,
+ 'fiftyTwoWeekLow': 6.18,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 28219689,
+ 'forwardEps': 0.49,
+ 'forwardPE': 23.061224,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 543,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.02347,
+ 'heldPercentInstitutions': 0.85460997,
+ 'industry': 'Communication Equipment',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': 702086400,
+ 'lastSplitFactor': '3:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/digi.com',
+ 'longBusinessSummary': 'Digi International Inc. provides Internet of Things '
+                        'connectivity products, services, and solutions in '
+                        'North America, Europe, the Middle East, Africa, and '
+                        'internationally. The company operates in two '
+                        'segments, IoT Products & Services and IoT Solutions. '
+                        'It offers cellular routers that provide connectivity '
+                        'for devices over a cellular data network; cellular '
+                        'gateway products that enable devices or groups of '
+                        'devices to be networked in locations where there is '
+                        'no existing network or where access to a network is '
+                        'prohibited; radio frequency products that utilize a '
+                        'range of wireless protocols for PC-to-device or '
+                        'device-to-device connectivity; and Connect, Rabbit, '
+                        'and ARM-based embedded systems on module and single '
+                        'board computers for medical, transportation, and '
+                        'industrial device manufacturers. The company also '
+                        'provides console and serial servers, as well as '
+                        'universal serial bus (USB)-to-serial converters, USB '
+                        'over Internet protocol products, and multiport USB '
+                        'hubs. In addition, it offers cellular remote '
+                        'management products that provide cellular router '
+                        'technology and device management solutions; Digi '
+                        'Remote Manager, a centralized remote device '
+                        'management solution to meet service level commitments '
+                        'and stay compliant with payment card industry data '
+                        'security standards, as well as to monitor, diagnose, '
+                        'and fix remote devices; turn-key wireless networking '
+                        'product development, testing, and certification for '
+                        'wireless technology platforms and applications; and '
+                        'implementation planning, application development, '
+                        'on-site support, installation, and customer training '
+                        'services. Further, it provides SmartSense by Digi, a '
+                        'system that enables customers in food service, '
+                        'healthcare, transportation/logistics, and education '
+                        'to monitor the temperature of food and other '
+                        'perishable goods; and to track the completion of '
+                        'operating tasks by employees, as well as to have '
+                        'visibility in the supply chain to product '
+                        'temperature. The company was founded in 1985 and is '
+                        'headquartered in Hopkins, Minnesota.',
+ 'longName': 'Digi International Inc.',
+ 'market': 'us_market',
+ 'marketCap': 327190368,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_266694',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 6146000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 11.52,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 3.6,
+ 'phone': '952-912-3444',
+ 'previousClose': 11.63,
+ 'priceHint': 2,
+ 'priceToBook': 0.9129838,
+ 'priceToSalesTrailing12Months': 1.2493427,
+ 'profitMargins': 0.02347,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.59,
+ 'regularMarketDayLow': 11.27,
+ 'regularMarketOpen': 11.52,
+ 'regularMarketPreviousClose': 11.63,
+ 'regularMarketPrice': 11.52,
+ 'regularMarketVolume': 88263,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 28954900,
+ 'sharesPercentSharesOut': 0.0349,
+ 'sharesShort': 1009890,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1014763,
+ 'shortName': 'Digi International Inc.',
+ 'shortPercentOfFloat': 0.041500002,
+ 'shortRatio': 5.19,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'DGII',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.21,
+ 'trailingPE': 53.809525,
+ 'twoHundredDayAverage': 11.998057,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'e9f95bf2-b9a4-3800-8e96-b7bc2dade952',
+ 'volume': 88263,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.digi.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '55343'}

@@ -1,0 +1,162 @@
+{'52WeekChange': 2.6300294,
+ 'SandP52WeekChange': None,
+ 'address1': '221 Main Street',
+ 'address2': 'Suite 1550',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 190.97,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 3858075,
+ 'averageVolume': 5065796,
+ 'averageVolume10days': 3858075,
+ 'beta': 0.841981,
+ 'beta3Year': None,
+ 'bid': 190.2,
+ 'bidSize': 900,
+ 'bookValue': 2.85,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Francisco',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 194.74,
+ 'dayLow': 186.77,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -241.455,
+ 'enterpriseToRevenue': 33.071,
+ 'enterpriseValue': 34956591104,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 177.908,
+ 'fiftyTwoWeekHigh': 217,
+ 'fiftyTwoWeekLow': 43.13,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 169718165,
+ 'forwardEps': 0.83,
+ 'forwardPE': 230.06024,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3909,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0718,
+ 'heldPercentInstitutions': 0.83857,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/docusign.com',
+ 'longBusinessSummary': 'DocuSign, Inc. provides cloud based software in the '
+                        'United States and internationally. The company '
+                        'provides e-signature solution that enables businesses '
+                        'to digitally prepare, execute, and act on agreements. '
+                        'It also offers DocuSign CLM, which automates '
+                        'workflows across the entire agreement process; '
+                        'Intelligent Insights that use artificial intelligence '
+                        'to search and analyze agreements by legal concepts '
+                        'and clauses; Gen for Salesforce, which allows sales '
+                        'representatives to automatically generate agreements '
+                        'with a few clicks from within Salesforce; and '
+                        'Negotiate for Salesforce that supports for approvals, '
+                        'document comparisons, and version control. In '
+                        'addition, the company provides Guided Forms, which '
+                        'enable complex forms to be filled via an interactive '
+                        'and step-by-step process; Click that supports '
+                        'no-signature-required agreements for standard terms '
+                        'and consents; Identify, a signer-identification '
+                        'option for checking government-issued IDs; '
+                        'Standards-Based Signatures, which support signatures '
+                        'that involve digital certificates; Payments that '
+                        'enables customers to collect signatures and payment; '
+                        'and eNotary, which offers the ability to execute '
+                        'electronic notarial acts. Further, it offers '
+                        'industry-specific cloud offerings, including Rooms '
+                        'for Real Estate that provides a way for brokers and '
+                        'agents to manage the entire real estate transaction '
+                        'digitally; Rooms for Mortgage, which offers digital '
+                        'workspace to create and close mortgages; FedRAMP, an '
+                        'authorized version of DocuSign eSignature for U.S. '
+                        'federal government agencies; and life sciences '
+                        'modules that support compliance with the electronic '
+                        'signature practices. The company sells its products '
+                        'through direct, partner-assisted, and Web-based '
+                        'sales. It serves enterprise, commercial, and small '
+                        'businesses, such as professionals, sole '
+                        'proprietorships, and individuals. The company was '
+                        'founded in 2003 and is headquartered in San '
+                        'Francisco, California.',
+ 'longName': 'DocuSign, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 35041042432,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_9817309',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -210440992,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 193,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 13.25,
+ 'phone': '415 489 4940',
+ 'previousClose': 198.49,
+ 'priceHint': 2,
+ 'priceToBook': 67,
+ 'priceToSalesTrailing12Months': 33.150597,
+ 'profitMargins': -0.19909,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 194.74,
+ 'regularMarketDayLow': 186.77,
+ 'regularMarketOpen': 193,
+ 'regularMarketPreviousClose': 198.49,
+ 'regularMarketPrice': 193,
+ 'regularMarketVolume': 3968395,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 183508992,
+ 'sharesPercentSharesOut': 0.0586,
+ 'sharesShort': 10757772,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 7550447,
+ 'shortName': 'DocuSign, Inc.',
+ 'shortPercentOfFloat': 0.069699995,
+ 'shortRatio': 1.73,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'DOCU',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.173,
+ 'twoHundredDayAverage': 115.46964,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '5e06079f-4384-398e-ac3f-8ccc76c252b4',
+ 'volume': 3968395,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.docusign.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94105'}

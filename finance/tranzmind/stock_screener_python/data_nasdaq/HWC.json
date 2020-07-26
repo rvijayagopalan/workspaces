@@ -1,0 +1,154 @@
+{'52WeekChange': -0.5339782,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': 'Hancock Whitney Plaza',
+ 'address2': '2510 14th Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 19.49,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 650275,
+ 'averageVolume': 692250,
+ 'averageVolume10days': 650275,
+ 'beta': 1.606722,
+ 'beta3Year': None,
+ 'bid': 16.81,
+ 'bidSize': 1000,
+ 'bookValue': 38.407,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Gulfport',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 19.98,
+ 'dayLow': 19.21,
+ 'dividendRate': 1.08,
+ 'dividendYield': 0.056399997,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 5.684,
+ 'enterpriseValue': 3804954368,
+ 'exDividendDate': 1591228800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 21.027714,
+ 'fiftyTwoWeekHigh': 44.42,
+ 'fiftyTwoWeekLow': 14.32,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.81,
+ 'floatShares': 85479443,
+ 'forwardEps': 2.62,
+ 'forwardPE': 7.3549623,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 4196,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.00904,
+ 'heldPercentInstitutions': 0.79082,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1079654400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/hancockwhitney.com',
+ 'longBusinessSummary': 'Hancock Whitney Corporation operates as the bank '
+                        'holding company for Hancock Whitney Bank that '
+                        'provides a range of banking products and services to '
+                        'commercial, small business, and retail customers. The '
+                        'company accepts various deposit products, such as '
+                        'noninterest-bearing demand deposits, interest-bearing '
+                        'transaction accounts, savings accounts, money market '
+                        'deposit accounts, and time deposit accounts. Its loan '
+                        'products include commercial and industrial; '
+                        'commercial real estate; construction and land '
+                        'development; residential mortgages, including fixed '
+                        'and adjustable rate loans; consumer loans comprising '
+                        'second lien mortgage home loans, home equity lines of '
+                        'credit, and nonresidential consumer purpose loans; '
+                        'revolving credit facilities; and letters of credit '
+                        'and financial guarantees. The company also offers '
+                        'investment brokerage services, and annuity and life '
+                        'insurance products; trust and investment management '
+                        'services to retirement plans, corporations, and '
+                        'individuals; and treasury management services, as '
+                        'well as operates and sells foreclosed assets. It '
+                        'operates approximately 217 full service banking and '
+                        'financial services offices and 288 automated teller '
+                        'machines in Gulf south corridor, including south '
+                        'Mississippi; southern and central Alabama; southern, '
+                        'central, and northwest Louisiana; the northern, '
+                        'central, and Panhandle regions of Florida; and east '
+                        'Texas, including Houston, Beaumont, and Dallas, as '
+                        'well as operates a loan production office in '
+                        'Nashville, Tennessee. The company was formerly known '
+                        'as Hancock Holding Company and changed its name to '
+                        'Hancock Whitney Corporation in May 2018. Hancock '
+                        'Whitney Corporation was founded in 1883 and is '
+                        'headquartered in Gulfport, Mississippi.',
+ 'longName': 'Hancock Whitney Corporation',
+ 'market': 'us_market',
+ 'marketCap': 1663810432,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_318929',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': -71722000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 19.68,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 8.5,
+ 'phone': '228-868-4727',
+ 'previousClose': 19.72,
+ 'priceHint': 2,
+ 'priceToBook': 0.50173146,
+ 'priceToSalesTrailing12Months': 2.4854434,
+ 'profitMargins': -0.10183,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 19.98,
+ 'regularMarketDayLow': 19.21,
+ 'regularMarketOpen': 19.68,
+ 'regularMarketPreviousClose': 19.72,
+ 'regularMarketPrice': 19.68,
+ 'regularMarketVolume': 537144,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 86342000,
+ 'sharesPercentSharesOut': 0.019199999,
+ 'sharesShort': 1657428,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 1645183,
+ 'shortName': 'Hancock Whitney Corporation',
+ 'shortPercentOfFloat': 0.0221,
+ 'shortRatio': 2.52,
+ 'startDate': None,
+ 'state': 'MS',
+ 'strikePrice': None,
+ 'symbol': 'HWC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.08,
+ 'trailingAnnualDividendYield': 0.054766737,
+ 'trailingEps': -0.825,
+ 'twoHundredDayAverage': 26.13964,
+ 'volume': 537144,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.hancockwhitney.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '39501'}

@@ -1,0 +1,154 @@
+{'52WeekChange': -0.18507642,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '10055 Seminole Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 16.06,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 26137,
+ 'averageVolume': 38253,
+ 'averageVolume10days': 26137,
+ 'beta': 0.568067,
+ 'beta3Year': None,
+ 'bid': 5.18,
+ 'bidSize': 800,
+ 'bookValue': 10.405,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Seminole',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 14.23,
+ 'dayLow': 13.54,
+ 'dividendRate': 0.4,
+ 'dividendYield': 0.028299998,
+ 'earningsQuarterlyGrowth': 0.417,
+ 'enterpriseToEbitda': 10.462,
+ 'enterpriseToRevenue': 0.806,
+ 'enterpriseValue': 309901024,
+ 'exDividendDate': 1581379200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 12.728857,
+ 'fiftyTwoWeekHigh': 18.08,
+ 'fiftyTwoWeekLow': 6.1,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.11,
+ 'floatShares': 9052831,
+ 'forwardEps': 1.05,
+ 'forwardPE': 13.209524,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.39563,
+ 'heldPercentInstitutions': 0.39569,
+ 'industry': 'Apparel Manufacturing',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1423094400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/superiorgroupofcompanies.com',
+ 'longBusinessSummary': 'Superior Group of Companies, Inc. manufactures and '
+                        'sells apparel and accessories in the United States '
+                        'and internationally. It operates through three '
+                        'segments: Uniforms and Related Products, Remote '
+                        'Staffing Solutions, and Promotional Products. The '
+                        'Uniforms and Related Products segment manufactures '
+                        'and sells a range of uniforms, corporate identity '
+                        'apparel, career apparel, and accessories for '
+                        'personnel of hospitals and health facilities; hotels; '
+                        'food service facilities; retail stores; general and '
+                        'special purpose industrial uses; commercial markets; '
+                        'transportation; public and private safety and '
+                        'security organizations; and miscellaneous service '
+                        'uses. It also provides various products directly '
+                        'related to uniforms and service apparel; industrial '
+                        'laundry bags for linen suppliers and industrial '
+                        'launderers; and promotional and related products for '
+                        'branded marketing programs, event promotions, '
+                        'employee and consumer rewards and incentives, and '
+                        'specialty packaging and displays. This segment sells '
+                        'its products under the Fashion Seal Healthcare, HPI, '
+                        'and WonderWink brand names. The Remote Staffing '
+                        'Solutions segment provides multilingual telemarketing '
+                        'and business process outsourced solutions through the '
+                        'recruitment and employment of qualified '
+                        'English-speaking agents. The Promotional Products '
+                        'segment produces and sells promotional products and '
+                        'branded merchandise under the BAMKO, Public Identity, '
+                        'and Tangerine brands to corporate clients and '
+                        'universities. The company was formerly known as '
+                        'Superior Uniform Group, Inc. and changed its name to '
+                        'Superior Group of Companies, Inc. in May 2018. '
+                        'Superior Group of Companies, Inc. was founded in 1920 '
+                        'and is headquartered in Seminole, Florida.',
+ 'longName': 'Superior Group of Companies, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 212414880,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_306113',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 13057000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 14.19,
+ 'openInterest': None,
+ 'payoutRatio': 0.4706,
+ 'pegRatio': -1.57,
+ 'phone': '727 397 9611',
+ 'previousClose': 14.15,
+ 'priceHint': 2,
+ 'priceToBook': 1.3330129,
+ 'priceToSalesTrailing12Months': 0.5525968,
+ 'profitMargins': 0.033970002,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 14.23,
+ 'regularMarketDayLow': 13.54,
+ 'regularMarketOpen': 14.19,
+ 'regularMarketPreviousClose': 14.15,
+ 'regularMarketPrice': 14.19,
+ 'regularMarketVolume': 21167,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 15314700,
+ 'sharesPercentSharesOut': 0.0113,
+ 'sharesShort': 173483,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 115107,
+ 'shortName': 'Superior Group of Companies, In',
+ 'shortPercentOfFloat': 0.0214,
+ 'shortRatio': 4.6,
+ 'startDate': None,
+ 'state': 'FL',
+ 'strikePrice': None,
+ 'symbol': 'SGC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.4,
+ 'trailingAnnualDividendYield': 0.028268553,
+ 'trailingEps': 0.85,
+ 'trailingPE': 16.317646,
+ 'twoHundredDayAverage': 10.860288,
+ 'volume': 21167,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.superiorgroupofcompanies.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '33772'}

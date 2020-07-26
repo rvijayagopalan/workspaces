@@ -1,0 +1,149 @@
+{'52WeekChange': -0.10607195,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '27 Hospital Road',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 24.08,
+ 'askSize': 2200,
+ 'averageDailyVolume10Day': 13050,
+ 'averageVolume': 29922,
+ 'averageVolume10days': 13050,
+ 'beta': 0.529971,
+ 'beta3Year': None,
+ 'bid': 23.75,
+ 'bidSize': 800,
+ 'bookValue': 47.115,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'George Town',
+ 'companyOfficers': [],
+ 'country': 'Cayman Islands',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 24.06,
+ 'dayLow': 23.55,
+ 'dividendRate': 1,
+ 'dividendYield': 0.0418,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 21.89,
+ 'enterpriseToRevenue': 1.124,
+ 'enterpriseValue': 618940992,
+ 'exDividendDate': 1592784000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 23.442,
+ 'fiftyTwoWeekHigh': 34.65,
+ 'fiftyTwoWeekLow': 21.75,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 5559570,
+ 'forwardEps': 2.5,
+ 'forwardPE': 9.54,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 412,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.15365,
+ 'heldPercentInstitutions': 0.83074,
+ 'industry': 'Insurance—Property & Casualty',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1278374400,
+ 'lastSplitFactor': '1:2',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/global-indemnity.com',
+ 'longBusinessSummary': 'Global Indemnity Limited, through its subsidiaries, '
+                        'provides insurance and reinsurance products and '
+                        'services in the United States. It operates through '
+                        'four segments: Commercial Specialty; Specialty '
+                        'Property; Farm, Ranch, & Stable; and Reinsurance '
+                        'Operations. The Commercial Specialty segment '
+                        'distributes property, general liability, casualty, '
+                        'and professional lines products, as well as products '
+                        'for vacant, and under renovations and construction '
+                        'dwellings. This segment primarily serves small '
+                        'commercial businesses through a network of wholesale '
+                        'general agents, program administrators, brokers, '
+                        'aggregators, and retail agents. The Specialty '
+                        'Property segment provides specialty personal lines '
+                        'property and casualty insurance products, including '
+                        'mobile homes, manufactured homes, homeowners, and '
+                        'collectibles through retail agents, wholesale general '
+                        'agents, and brokers. The Farm, Ranch, & Stable '
+                        'segment offers commercial farm auto and '
+                        'excess/umbrella coverage for the agriculture '
+                        'industry, as well as specialized insurance products '
+                        'for the equine mortality and equine major medical '
+                        'industry on an admitted basis through wholesalers and '
+                        'retail agents. The Reinsurance Operations segment '
+                        'provides third party treaty reinsurance solutions to '
+                        'specialty property and casualty insurance, and '
+                        'reinsurance companies; and professional liability '
+                        'products to companies through brokers, as well as on '
+                        'a direct basis. The company was founded in 2016 and '
+                        'is headquartered in George Town, the Cayman Islands.',
+ 'longName': 'Global Indemnity Limited',
+ 'market': 'us_market',
+ 'marketCap': 341503392,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_4883097',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 5837000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 23.95,
+ 'openInterest': None,
+ 'payoutRatio': 2.6316001,
+ 'pegRatio': 1.26,
+ 'phone': '345-949-0100',
+ 'previousClose': 23.94,
+ 'priceHint': 2,
+ 'priceToBook': 0.5062082,
+ 'priceToSalesTrailing12Months': 0.6199166,
+ 'profitMargins': 0.01059,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 24.06,
+ 'regularMarketDayLow': 23.55,
+ 'regularMarketOpen': 23.95,
+ 'regularMarketPreviousClose': 23.94,
+ 'regularMarketPrice': 23.95,
+ 'regularMarketVolume': 9019,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 10185500,
+ 'sharesPercentSharesOut': 0.0056,
+ 'sharesShort': 79970,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 31313,
+ 'shortName': 'Global Indemnity Limited',
+ 'shortPercentOfFloat': 0.041500002,
+ 'shortRatio': 1.83,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'GBLI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1,
+ 'trailingAnnualDividendYield': 0.041771095,
+ 'trailingEps': 0.401,
+ 'trailingPE': 59.47631,
+ 'twoHundredDayAverage': 26.510792,
+ 'volume': 9019,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.global-indemnity.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '9008'}

@@ -1,0 +1,164 @@
+{'52WeekChange': None,
+ 'SandP52WeekChange': None,
+ 'address1': '615 J.B. Hunt Corporate Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 137.99,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 1205312,
+ 'averageVolume': 840361,
+ 'averageVolume10days': 1205312,
+ 'beta': 0.997759,
+ 'beta3Year': None,
+ 'bid': 130.7,
+ 'bidSize': 800,
+ 'bookValue': 22.661,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lowell',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 132.16,
+ 'dayLow': 130.2,
+ 'dividendRate': 1.08,
+ 'dividendYield': 0.0082,
+ 'earningsQuarterlyGrowth': -0.089,
+ 'enterpriseToEbitda': 11.945,
+ 'enterpriseToRevenue': 1.605,
+ 'enterpriseValue': 14831625216,
+ 'exDividendDate': 1596672000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 122.99571,
+ 'fiftyTwoWeekHigh': 138.76,
+ 'fiftyTwoWeekLow': 75.29,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.96,
+ 'floatShares': 83547828,
+ 'forwardEps': 5.88,
+ 'forwardPE': 22.243196,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 29056,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.20665,
+ 'heldPercentInstitutions': 0.77553004,
+ 'industry': 'Integrated Freight & Logistics',
+ 'isEsgPopulated': True,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/jbhunt.com',
+ 'longBusinessSummary': 'J.B. Hunt Transport Services, Inc., together with its '
+                        'subsidiaries, provides surface transportation and '
+                        'delivery services in the continental United States, '
+                        'Canada, and Mexico. It operates in four segments: '
+                        'Intermodal (JBI), Dedicated Contract Services (DCS), '
+                        'Integrated Capacity Solutions (ICS), and Truckload '
+                        '(JBT). The JBI segment offers intermodal freight '
+                        'solutions, including origin and destination pickup, '
+                        'and delivery services. It operates 96,743 pieces of '
+                        'company-owned trailing equipment; owns and maintains '
+                        'its own chassis fleet of 82,731 units; and manages a '
+                        'fleet of 4,989 company-owned tractors, 570 '
+                        'independent contractor trucks, and 6,376 company '
+                        'drivers. The DCS segment designs, develops, and '
+                        'executes supply-chain solutions that support various '
+                        'transportation networks. As of December 31, 2019, it '
+                        'operated 10,542 company-owned trucks, 505 '
+                        'customer-owned trucks, and 40 independent contractor '
+                        'trucks, as well as 20,860 owned pieces of trailing '
+                        'equipment and 7,258 customer-owned trailers. The ICS '
+                        'segment offers traditional freight brokerage and '
+                        'transportation logistics solutions; and flatbed, '
+                        'refrigerated, expedited, and less-than-truckload '
+                        'solutions, as well as various dry-van and intermodal '
+                        'solutions. It also provides an online multimodal '
+                        'marketplace; and single-source logistics management '
+                        'for customers that desire to outsource their '
+                        'transportation functions. This segment operates 37 '
+                        'remote sales offices or branches. The JBT segment '
+                        'offers full-load and dry-van freight services by '
+                        'utilizing tractors operating over roads and highways. '
+                        'As of December 31, 2019, it operated 845 '
+                        'company-owned tractors. The company also transports '
+                        'or arranges for the transportation of freight, '
+                        'including general merchandise, specialty consumer '
+                        'items, appliances, forest and paper products, food '
+                        'and beverages, building materials, soaps and '
+                        'cosmetics, automotive parts, agricultural products, '
+                        'electronics, and chemicals. J.B. Hunt Transport '
+                        'Services, Inc. was incorporated in 1961 and is '
+                        'headquartered in Lowell, Arkansas.',
+ 'longName': 'J.B. Hunt Transport Services, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 13799260160,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_278576',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 489617984,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 131.05,
+ 'openInterest': None,
+ 'payoutRatio': 0.2319,
+ 'pegRatio': 2.78,
+ 'phone': '479 820 0000',
+ 'previousClose': 131.47,
+ 'priceHint': 2,
+ 'priceToBook': 5.7715898,
+ 'priceToSalesTrailing12Months': 1.4933646,
+ 'profitMargins': 0.052989997,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 132.16,
+ 'regularMarketDayLow': 130.2,
+ 'regularMarketOpen': 131.05,
+ 'regularMarketPreviousClose': 131.47,
+ 'regularMarketPrice': 131.05,
+ 'regularMarketVolume': 907388,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Industrials',
+ 'sharesOutstanding': 105507000,
+ 'sharesPercentSharesOut': 0.0291,
+ 'sharesShort': 3074021,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3826394,
+ 'shortName': 'J.B. Hunt Transport Services, I',
+ 'shortPercentOfFloat': 0.0463,
+ 'shortRatio': 3.78,
+ 'startDate': None,
+ 'state': 'AR',
+ 'strikePrice': None,
+ 'symbol': 'JBHT',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.06,
+ 'trailingAnnualDividendYield': 0.008062676,
+ 'trailingEps': 4.572,
+ 'trailingPE': 28.606735,
+ 'twoHundredDayAverage': 108.35352,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '431e65f3-2920-3b7b-8f7c-1474e825d70f',
+ 'volume': 907388,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.jbhunt.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '72745-0130'}

@@ -1,0 +1,156 @@
+{'52WeekChange': -0.047658145,
+ 'SandP52WeekChange': None,
+ 'address1': '440, Boulevard Armand-Frappier',
+ 'address2': 'Suite 300',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 12.3,
+ 'askSize': 3000,
+ 'averageDailyVolume10Day': 71750,
+ 'averageVolume': 66939,
+ 'averageVolume10days': 71750,
+ 'beta': 1.58013,
+ 'beta3Year': None,
+ 'bid': 10.5,
+ 'bidSize': 1200,
+ 'bookValue': None,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Laval',
+ 'companyOfficers': [],
+ 'country': 'Canada',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 11.39,
+ 'dayLow': 10.79,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': None,
+ 'enterpriseValue': 264415776,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '450-781-4477',
+ 'fiftyDayAverage': 11.826049,
+ 'fiftyTwoWeekHigh': 31.45,
+ 'fiftyTwoWeekLow': 5.25,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 3550525,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 300,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.71387,
+ 'heldPercentInstitutions': 0.14226,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 1562284800,
+ 'lastSplitFactor': '1:1000',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/liminalbiosciences.com',
+ 'longBusinessSummary': 'Liminal BioSciences Inc. operates as a '
+                        'biopharmaceutical company with two drug discovery '
+                        'platforms that focuses on unmet medical needs. It '
+                        'operates through three segments: Small Molecule '
+                        'Therapeutics, Plasma Derived Therapeutics, and '
+                        'Bioseparations. The Small Molecule Therapeutics '
+                        "segment's lead product candidate is PBI-4050, which "
+                        'targets unmet medical needs, such as the treatment of '
+                        'idiopathic pulmonary fibrosis, Alström syndrome, and '
+                        'other fibrotic indications. The Plasma Derived '
+                        'Therapeutics segment provides Plasma Protein '
+                        'Purification System, a multi-product sequential '
+                        'purification process for the extraction and '
+                        'purification of therapeutic proteins from human '
+                        'plasma. It also engages in developing Ryplazim for '
+                        'the treatment of congenital plasminogen deficiency. '
+                        'The Bioseparations segment develops and manufactures '
+                        'affinity absorbents and Mimetic Ligand purification '
+                        'platform that are used by pharmaceutical and medical '
+                        'companies for extraction and purification '
+                        'manufacturing processes. In addition, it develops '
+                        'processes to recover and purify various other '
+                        'proteins from plasma, including intravenous '
+                        'immunoglobulin, inter-alpha-inhibitor-proteins, '
+                        'fibrinogen, alpha1 antitrypsin, and C1 esterase '
+                        'inhibitor. Liminal BioSciences has partnership with '
+                        'CoVIg plasma alliance for the development of COVID-19 '
+                        'therapy. The company was formerly known as Prometic '
+                        'Life Sciences Inc. and changed its name to Liminal '
+                        'BioSciences Inc. in October 2019. Liminal BioSciences '
+                        'Inc. was incorporated in 1994 and is headquartered in '
+                        'Laval, Canada.',
+ 'longName': 'Liminal BioSciences Inc.',
+ 'market': 'us_market',
+ 'marketCap': 254142448,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_882426',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': None,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 11.24,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '450-781-0115',
+ 'previousClose': 11.59,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': None,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 11.39,
+ 'regularMarketDayLow': 10.79,
+ 'regularMarketOpen': 11.24,
+ 'regularMarketPreviousClose': 11.59,
+ 'regularMarketPrice': 11.24,
+ 'regularMarketVolume': 19834,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 23622700,
+ 'sharesPercentSharesOut': 0.0016,
+ 'sharesShort': 38445,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 35995,
+ 'shortName': 'Liminal BioSciences Inc.',
+ 'shortPercentOfFloat': 0.0114,
+ 'shortRatio': 2.06,
+ 'startDate': None,
+ 'state': 'QC',
+ 'strikePrice': None,
+ 'symbol': 'LMNL',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': None,
+ 'twoHundredDayAverage': 9.495891,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'f236eeeb-67d8-3cc6-a9dd-5516ebc191a0',
+ 'volume': 19834,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.liminalbiosciences.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'H7V 4B4'}

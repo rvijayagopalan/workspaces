@@ -1,0 +1,151 @@
+{'52WeekChange': -0.14129758,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '100 Innovation Place',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 30.37,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 412,
+ 'averageVolume': 452,
+ 'averageVolume10days': 412,
+ 'beta': 1.038095,
+ 'beta3Year': None,
+ 'bid': 27.5,
+ 'bidSize': 1200,
+ 'bookValue': 5.573,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Santa Barbara',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 29.01,
+ 'dayLow': 27.62,
+ 'dividendRate': 0.24,
+ 'dividendYield': 0.0087,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 204.864,
+ 'enterpriseToRevenue': 1.477,
+ 'enterpriseValue': 453159776,
+ 'exDividendDate': 1592956800,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 28.915144,
+ 'fiftyTwoWeekHigh': 38.04,
+ 'fiftyTwoWeekLow': 20.53,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 0.91,
+ 'floatShares': 11476525,
+ 'forwardEps': 0.13,
+ 'forwardPE': 223.15385,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1945,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.76453,
+ 'heldPercentInstitutions': 0.11559,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1580428800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1292457600,
+ 'lastSplitFactor': '1:10',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/qad.com',
+ 'longBusinessSummary': 'QAD Inc. provides cloud-based enterprise software '
+                        'solutions in North America, Europe, the Middle East, '
+                        'Africa, the Asia Pacific, and Latin America. It '
+                        'offers various software solutions, such as customer '
+                        'and service management solutions for manufacturers to '
+                        'acquire new customers; manufacturing solutions, which '
+                        'supports manufacturing business processes; enterprise '
+                        'asset management to manage, maintain, and install '
+                        'capital equipment; supply chain execution solutions '
+                        'that provides tools to support inventory and '
+                        'warehouse management; and financials solutions to '
+                        'manage and control finance and accounting processes. '
+                        'The company also provides demand and supply chain '
+                        'planning solutions to manage various procurement, '
+                        'manufacturing, inventory, distribution, and sales '
+                        'activities; global trade and transportation solutions '
+                        'to manage and optimize network of carriers for '
+                        'shipments; embedded analytics and business '
+                        'intelligence that offers data to measure performance; '
+                        'and internationalization, which supports companies '
+                        'that manufacture and distribute their products '
+                        'worldwide. In addition, it offers customer support '
+                        'and product update services, as well as professional '
+                        'services, including consulting, deployment, training, '
+                        'technical, development, and integration. The company '
+                        'markets its products through direct and indirect '
+                        'sales channels; and distributors and sales agents. It '
+                        'serves automotive, life sciences, consumer products, '
+                        'food and beverage, high technology, and industrial '
+                        'products manufacturing companies. QAD Inc. was '
+                        'founded in 1979 and is headquartered in Santa '
+                        'Barbara, California.',
+ 'longName': 'QAD Inc.',
+ 'market': 'us_market',
+ 'marketCap': 816654720,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_370621',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1588204800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -13125000,
+ 'nextFiscalYearEnd': 1643587200,
+ 'open': 27.53,
+ 'openInterest': None,
+ 'payoutRatio': None,
+ 'pegRatio': 34.41,
+ 'phone': '805 566 6000',
+ 'previousClose': 27.53,
+ 'priceHint': 2,
+ 'priceToBook': 5.205455,
+ 'priceToSalesTrailing12Months': 2.6611185,
+ 'profitMargins': -0.04277,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 29.01,
+ 'regularMarketDayLow': 27.62,
+ 'regularMarketOpen': 27.53,
+ 'regularMarketPreviousClose': 27.53,
+ 'regularMarketPrice': 27.53,
+ 'regularMarketVolume': 20,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 3321000,
+ 'sharesPercentSharesOut': 0.0001,
+ 'sharesShort': 1136,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 830,
+ 'shortName': 'QAD Inc.',
+ 'shortPercentOfFloat': 0.0015,
+ 'shortRatio': 1.18,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'QADB',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 0.288,
+ 'trailingAnnualDividendYield': 0.010461315,
+ 'trailingEps': -0.65,
+ 'twoHundredDayAverage': 30.392517,
+ 'volume': 20,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.qad.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '93108'}

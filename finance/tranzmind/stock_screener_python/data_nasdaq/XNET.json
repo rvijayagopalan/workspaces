@@ -1,0 +1,152 @@
+{'52WeekChange': 0.502092,
+ 'SandP52WeekChange': None,
+ 'address1': 'No.18 Shenzhen Bay ECO-Tech Park',
+ 'address2': 'Building No. 12, 21-23/F, Block B Keji South Road, Yuehai Street '
+             'Nanshan District',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 3.5,
+ 'askSize': 3200,
+ 'averageDailyVolume10Day': 472887,
+ 'averageVolume': 562831,
+ 'averageVolume10days': 472887,
+ 'beta': 1.794957,
+ 'beta3Year': None,
+ 'bid': 3.44,
+ 'bidSize': 3000,
+ 'bookValue': 4.264,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Shenzhen',
+ 'companyOfficers': [],
+ 'country': 'China',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 3.56,
+ 'dayLow': 3.38,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 0.085,
+ 'enterpriseToRevenue': -0.02,
+ 'enterpriseValue': -3679061,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 3.6894286,
+ 'fiftyTwoWeekHigh': 7.2,
+ 'fiftyTwoWeekLow': 1.87,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 26517119,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 1070,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.0038299998,
+ 'heldPercentInstitutions': 0.23648001,
+ 'industry': 'Advertising Agencies',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/xunlei.com',
+ 'longBusinessSummary': 'Xunlei Limited operates an Internet platform for '
+                        "digital media content in the People's Republic of "
+                        "China. The company's platform is based on cloud "
+                        'technology that enables users to access, manage, and '
+                        'consume digital media content. It offers Xunlei '
+                        'Accelerator, which enables users to accelerate '
+                        'digital transmission over the Internet; mobile '
+                        'acceleration plug-in, which provides mobile device '
+                        'users with benefits of download speed acceleration '
+                        'and download success rate improvements; and cloud '
+                        'acceleration subscription services that offer users '
+                        'premium services through various products, such as '
+                        'Green Channel. The company also provides Mobile '
+                        'Xunlei, a mobile application that allows users to '
+                        'search, download, and consume digital media content '
+                        'on their mobile devices; Xunlei Media Player, which '
+                        'supports online and offline play of digital media '
+                        'content, as well as simultaneous play of digital '
+                        'media content while it is being transmitted by Xunlei '
+                        'Accelerator; online games through online game Website '
+                        'and mobile app; live video streaming and online '
+                        'advertising services; and cloud computing and other '
+                        'Internet value-added services. As of December 2019, '
+                        'its platform had approximately 88.3 million monthly '
+                        'unique visitors. The company was formerly known as '
+                        'Giganology Limited and changed its name to Xunlei '
+                        'Limited in January 2011. Xunlei Limited was founded '
+                        "in 2003 and is based in Shenzhen, the People's "
+                        'Republic of China.',
+ 'longName': 'Xunlei Limited',
+ 'market': 'us_market',
+ 'marketCap': 235151984,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_134031691',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -50108000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 3.56,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '86 755 8633 8443',
+ 'previousClose': 3.59,
+ 'priceHint': 4,
+ 'priceToBook': 0.8114447,
+ 'priceToSalesTrailing12Months': 1.2519006,
+ 'profitMargins': -0.26676,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 3.56,
+ 'regularMarketDayLow': 3.38,
+ 'regularMarketOpen': 3.56,
+ 'regularMarketPreviousClose': 3.59,
+ 'regularMarketPrice': 3.56,
+ 'regularMarketVolume': 458362,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 67963000,
+ 'sharesPercentSharesOut': 0.032899998,
+ 'sharesShort': 2235641,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 2138382,
+ 'shortName': 'Xunlei Limited',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 4.8,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'XNET',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.753,
+ 'twoHundredDayAverage': 3.757482,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '0d347f29-8ee4-36ef-a49b-75c78846597f',
+ 'volume': 458362,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.xunlei.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '518057'}

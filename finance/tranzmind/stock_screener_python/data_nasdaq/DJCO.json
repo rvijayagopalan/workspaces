@@ -1,0 +1,155 @@
+{'52WeekChange': 0.22240555,
+ 'SandP52WeekChange': None,
+ 'address1': '915 East First Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 304.69,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 1725,
+ 'averageVolume': 2361,
+ 'averageVolume10days': 1725,
+ 'beta': 0.770868,
+ 'beta3Year': None,
+ 'bid': 221,
+ 'bidSize': 1000,
+ 'bookValue': 69.226,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Los Angeles',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 285,
+ 'dayLow': 282,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -1632.587,
+ 'enterpriseToRevenue': 5.479,
+ 'enterpriseValue': 282437600,
+ 'exDividendDate': None,
+ 'exchange': 'NCM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '213-229-5481',
+ 'fiftyDayAverage': 275.39627,
+ 'fiftyTwoWeekHigh': 300.3,
+ 'fiftyTwoWeekLow': 187.53,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 990906,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 375,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.28299,
+ 'heldPercentInstitutions': 0.44182,
+ 'industry': 'Publishing',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/dailyjournal.com',
+ 'longBusinessSummary': 'Daily Journal Corporation publishes newspapers and '
+                        'Websites covering in California, Arizona, Colorado, '
+                        'and Utah. It operates in two segments, Traditional '
+                        'Business and Journal Technologies. The company '
+                        'publishes 10 newspapers of general circulation, '
+                        'including Los Angeles Daily Journal, San Francisco '
+                        'Daily Journal, Daily Commerce, The Daily Recorder, '
+                        'The Inter-City Express, San Jose Post-Record, Orange '
+                        'County Reporter, The Daily Transcript, Business '
+                        'Journal, and The Record Reporter. It also provides '
+                        'specialized information services; and serves as an '
+                        'advertising and newspaper representative for '
+                        'commercial and public notice advertising. In '
+                        'addition, the company offers case management software '
+                        'systems and related products, including eCourt, '
+                        'eProsecutor, eDefender, and eProbation, which are '
+                        'browser-based case processing systems; eFile, a '
+                        'browser-based interface that allows attorneys and the '
+                        'general public to electronically file documents with '
+                        'the court using the Internet; and ePayIt, a service '
+                        'primarily for the online payment of traffic '
+                        'citations. It provides its software systems and '
+                        'related products for courts; prosecutor and public '
+                        'defender offices; probation departments; and other '
+                        'justice agencies, including administrative law '
+                        'organizations, city and county governments, and bar '
+                        'associations to manage cases and information '
+                        'electronically, to interface with other justice '
+                        'partners, and to extend electronic services to bar '
+                        'members and the public in 42 states and '
+                        'internationally. The company was incorporated in 1987 '
+                        'and is based in Los Angeles, California.',
+ 'longName': 'Daily Journal Corporation',
+ 'market': 'us_market',
+ 'marketCap': 393513760,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_265499',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -50817000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 285,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '213-229-5300',
+ 'previousClose': 281.52,
+ 'priceHint': 2,
+ 'priceToBook': 4.1169505,
+ 'priceToSalesTrailing12Months': 7.633929,
+ 'profitMargins': -0.98582,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 285,
+ 'regularMarketDayLow': 282,
+ 'regularMarketOpen': 285,
+ 'regularMarketPreviousClose': 281.52,
+ 'regularMarketPrice': 285,
+ 'regularMarketVolume': 592,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 1380750,
+ 'sharesPercentSharesOut': 0.0538,
+ 'sharesShort': 74265,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 75029,
+ 'shortName': 'Daily Journal Corp. (S.C.)',
+ 'shortPercentOfFloat': 0.1003,
+ 'shortRatio': 22.41,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'DJCO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -36.804,
+ 'twoHundredDayAverage': 265.271,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '6cb1facc-b414-3067-a759-51363a9310a5',
+ 'volume': 592,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.dailyjournal.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '90012'}

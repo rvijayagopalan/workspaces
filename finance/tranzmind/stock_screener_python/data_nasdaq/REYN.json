@@ -1,0 +1,155 @@
+{'52WeekChange': 0.15586698,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '1900 W. Field Court',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 33.99,
+ 'askSize': 1100,
+ 'averageDailyVolume10Day': 358712,
+ 'averageVolume': 616160,
+ 'averageVolume10days': 358712,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 31.26,
+ 'bidSize': 2200,
+ 'bookValue': -5.133,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Lake Forest',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 33.33,
+ 'dayLow': 32.73,
+ 'dividendRate': 0.6,
+ 'dividendYield': 0.0183,
+ 'earningsQuarterlyGrowth': 0.529,
+ 'enterpriseToEbitda': 15.218,
+ 'enterpriseToRevenue': 2.978,
+ 'enterpriseValue': 9222116352,
+ 'exDividendDate': 1584057600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '847 482 7742',
+ 'fiftyDayAverage': 33.623142,
+ 'fiftyTwoWeekHigh': 36,
+ 'fiftyTwoWeekLow': 21.61,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 54226452,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 5100,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.74132,
+ 'heldPercentInstitutions': 0.15073,
+ 'industry': 'Packaging & Containers',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/reynoldsconsumerproducts.com',
+ 'longBusinessSummary': 'Reynolds Consumer Products Inc. produces and sells '
+                        'products in cooking, waste and storage, and tableware '
+                        'product categories in the United States and '
+                        'internationally. It operates through four segments: '
+                        'Reynolds Cooking & Baking, Hefty Waste & Storage, '
+                        'Hefty Tableware, and Presto Products. The Reynolds '
+                        'Cooking & Baking segment produces foil, disposable '
+                        'aluminum pans, parchment paper, freezer paper, wax '
+                        'paper, plastic wrap, baking cups, oven bags, and slow '
+                        'cooker liners under the Reynolds Wrap, Reynolds '
+                        'KITCHENS, and E-Z Foil brands in the United States, '
+                        'as well as under the ALCAN brand in Canada and under '
+                        'the Diamond brand internationally. The Hefty Waste & '
+                        'Storage segment sells trash and food storage bags '
+                        'under the Hefty Ultra Strong, Hefty Strong Trash '
+                        'Bags, Hefty Renew, and Hefty Slider Bags brands. It '
+                        'offers a suite of indoor and outdoor trash bags and '
+                        'contractor bags, including blue and clear recycling '
+                        'bags, compostable bags, bags made from recycled '
+                        'materials, and the Hefty EnergyBag Program. The Hefty '
+                        'Tableware segment provides disposable and compostable '
+                        'plates, bowls, platters, cups, and cutlery under the '
+                        'Hefty brand. The Presto Products segment primarily '
+                        'sells store brand products in food storage bags, '
+                        'trash bags, reusable storage containers, and plastic '
+                        'wrap categories. Reynolds Consumer Products Inc. '
+                        'offers both branded and store brand products to '
+                        'grocery stores, mass merchants, warehouse clubs, '
+                        'discount chains, dollar stores, drug stores, home '
+                        'improvement stores, military outlets, and eCommerce '
+                        'retailers. The company was founded in 1947 and is '
+                        'headquartered in Lake Forest, Illinois. Reynolds '
+                        'Consumer Products Inc. is a subsidiary of Packaging '
+                        'Finance Limited.',
+ 'longName': 'Reynolds Consumer Products Inc.',
+ 'market': 'us_market',
+ 'marketCap': 6920099840,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_13513114',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 234000000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 32.73,
+ 'openInterest': None,
+ 'payoutRatio': 0.1344,
+ 'pegRatio': 2.18,
+ 'phone': '800 879 5067',
+ 'previousClose': 32.98,
+ 'priceHint': 2,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 2.2344527,
+ 'profitMargins': 0.07556,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 33.33,
+ 'regularMarketDayLow': 32.73,
+ 'regularMarketOpen': 32.73,
+ 'regularMarketPreviousClose': 32.98,
+ 'regularMarketPrice': 32.73,
+ 'regularMarketVolume': 252310,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Consumer Cyclical',
+ 'sharesOutstanding': 209700000,
+ 'sharesPercentSharesOut': 0.0077,
+ 'sharesShort': 1607289,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 510853,
+ 'shortName': 'Reynolds Consumer Products Inc.',
+ 'shortPercentOfFloat': 0.0297,
+ 'shortRatio': 1.95,
+ 'startDate': None,
+ 'state': 'IL',
+ 'strikePrice': None,
+ 'symbol': 'REYN',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 1.409,
+ 'trailingPE': 23.420866,
+ 'twoHundredDayAverage': 31.481558,
+ 'volume': 252310,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.reynoldsconsumerproducts.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '60045'}

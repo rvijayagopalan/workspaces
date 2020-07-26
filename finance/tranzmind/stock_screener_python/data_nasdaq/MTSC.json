@@ -1,0 +1,161 @@
+{'52WeekChange': -0.69097954,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '14000 Technology Drive',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 17.55,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 180900,
+ 'averageVolume': 282642,
+ 'averageVolume10days': 180900,
+ 'beta': 1.436414,
+ 'beta3Year': None,
+ 'bid': 17.52,
+ 'bidSize': 800,
+ 'bookValue': 25.103,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Eden Prairie',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 18.055,
+ 'dayLow': 17.36,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 5.93,
+ 'enterpriseToRevenue': 1.023,
+ 'enterpriseValue': 893984448,
+ 'exDividendDate': 1584057600,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '952-937-4515',
+ 'fiftyDayAverage': 17.774,
+ 'fiftyTwoWeekHigh': 63.31,
+ 'fiftyTwoWeekLow': 13.15,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.54,
+ 'floatShares': 18996263,
+ 'forwardEps': 1.78,
+ 'forwardPE': 9.853933,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 3500,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.01329,
+ 'heldPercentInstitutions': 1.0162101,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569628800,
+ 'lastMarket': None,
+ 'lastSplitDate': 886464000,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/mts.com',
+ 'longBusinessSummary': 'MTS Systems Corporation supplies test systems, motion '
+                        'simulators, and sensors in the Americas, Europe, and '
+                        "Asia. The company's Test & Simulation segment offers "
+                        'road simulators and component test systems, vehicle '
+                        'performance test systems, vehicle dynamics '
+                        'simulators, electrical motors and energy recovery '
+                        'systems, tire performance and rolling resistance '
+                        'measurement systems, and moving ground-plane systems '
+                        'and balances. It also provides systems for the '
+                        'physical characterization of material properties; '
+                        'systems to test durability and performance of '
+                        'implants, prostheses, and other medical and dental '
+                        'materials and devices; products, systems, and '
+                        'software to perform static and fatigue testing of '
+                        'aircraft; products for blades, bearings, and wind '
+                        'turbines; structural engineering systems, such as '
+                        'static and dynamic testing; and seismic simulation '
+                        'tables. In addition, this segment offers '
+                        'installation, product life cycle management, '
+                        'professional training, calibration and metrology, '
+                        'technical consulting, and onsite and factory repair '
+                        'and maintenance services, as well as accessories and '
+                        'spare parts. It serves automobile, truck, motorcycle, '
+                        'motorsports vehicles, construction and agricultural '
+                        'equipment, rail and off-road vehicle manufacturers, '
+                        'and their suppliers, as well as the power generation, '
+                        'aerospace, vehicles, biomedical, structural '
+                        'engineering, oil and gas, wind energy, and other '
+                        "industries. The company's Sensors segment offers "
+                        'sensors for measurements of vibration, pressure, '
+                        'position, force, and sound; and piezoelectric sensors '
+                        'and components. It serves the automotive, aerospace, '
+                        'industrial, defense, and research and development '
+                        'markets. The company sells its products through '
+                        'direct sales and service organizations, and '
+                        'independent representatives and distributors, as well '
+                        'as through catalogs, Internet, etc. It has a '
+                        'strategic alliance with Auburn University. The '
+                        'company was founded in 1966 and is headquartered in '
+                        'Eden Prairie, Minnesota.',
+ 'longName': 'MTS Systems Corporation',
+ 'market': 'us_market',
+ 'marketCap': 337397696,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_137411',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585353600,
+ 'navPrice': None,
+ 'netIncomeToCommon': 22641000,
+ 'nextFiscalYearEnd': 1632787200,
+ 'open': 17.75,
+ 'openInterest': None,
+ 'payoutRatio': 1.0345,
+ 'pegRatio': 1.71,
+ 'phone': '952-937-4000',
+ 'previousClose': 17.82,
+ 'priceHint': 2,
+ 'priceToBook': 0.6987213,
+ 'priceToSalesTrailing12Months': 0.38621664,
+ 'profitMargins': 0.02592,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.055,
+ 'regularMarketDayLow': 17.36,
+ 'regularMarketOpen': 17.75,
+ 'regularMarketPreviousClose': 17.82,
+ 'regularMarketPrice': 17.75,
+ 'regularMarketVolume': 145828,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 19235900,
+ 'sharesPercentSharesOut': 0.0185,
+ 'sharesShort': 355542,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 295690,
+ 'shortName': 'MTS Systems Corporation',
+ 'shortPercentOfFloat': 0.0215,
+ 'shortRatio': 1.1,
+ 'startDate': None,
+ 'state': 'MN',
+ 'strikePrice': None,
+ 'symbol': 'MTSC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.2,
+ 'trailingAnnualDividendYield': 0.06734007,
+ 'trailingEps': 1.164,
+ 'trailingPE': 15.068728,
+ 'twoHundredDayAverage': 26.974892,
+ 'volume': 145828,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.mts.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '55344'}

@@ -1,0 +1,164 @@
+{'52WeekChange': 0.1425389,
+ 'SandP52WeekChange': None,
+ 'address1': '375 Saxonburg Boulevard',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 45.59,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 1397037,
+ 'averageVolume': 2122568,
+ 'averageVolume10days': 1397037,
+ 'beta': 1.286274,
+ 'beta3Year': None,
+ 'bid': 43.11,
+ 'bidSize': 800,
+ 'bookValue': 22.132,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Saxonburg',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 45.72,
+ 'dayLow': 44.37,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': -0.76,
+ 'enterpriseToEbitda': 18.302,
+ 'enterpriseToRevenue': 3.061,
+ 'enterpriseValue': 6112128512,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '724 352 5284',
+ 'fiftyDayAverage': 46.828285,
+ 'fiftyTwoWeekHigh': 51.9,
+ 'fiftyTwoWeekLow': 19,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 88171583,
+ 'forwardEps': 2.9,
+ 'forwardPE': 15.41724,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 12487,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.04472,
+ 'heldPercentInstitutions': 0.92127997,
+ 'industry': 'Scientific & Technical Instruments',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': 1309132800,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/ii-vi.com',
+ 'longBusinessSummary': 'II-VI Incorporated develops, manufactures, and '
+                        'markets engineered materials, and optoelectronic '
+                        'components and devices worldwide. The company '
+                        'operates through three segments: II-VI Laser '
+                        'Solutions, II-VI Photonics, and II-VI Performance '
+                        'Products. The II-VI Laser Solutions segment offers '
+                        'optical and electro-optical components and materials '
+                        'used in high-power CO2 lasers; fiber-delivered beam '
+                        'delivery systems, and processing tools and direct '
+                        'diode lasers for industrial lasers; and compound '
+                        'semiconductor epitaxial and gallium arsenide wafers. '
+                        'The II-VI Photonics segment provides crystal '
+                        'materials, optics, microchip lasers, and '
+                        'optoelectronic modules for use in optical '
+                        'communication networks and other consumer, life '
+                        'sciences, and commercial applications. It also offers '
+                        'pump lasers, optical isolators, and optical '
+                        'amplifiers and micro-optics for optical amplifiers '
+                        'for terrestrial and submarine applications; and '
+                        'direct-diode laser modules, subsystems, and systems, '
+                        'as well as super-hard materials processing laser '
+                        'systems. The II-VI Performance Products segment '
+                        'provides infrared optical components and optical '
+                        'assemblies for aerospace and defense, medical, and '
+                        'commercial laser imaging applications; and silicon '
+                        'carbide engineered materials for thermoelectric '
+                        'devices and subsystems for silicon carbide '
+                        'applications. The company serves OEMs, laser '
+                        'end-users, system integrators of high-power lasers, '
+                        'manufacturers of equipment and devices for the '
+                        'industrial, optical communications, aerospace and '
+                        'defense, semiconductor, medical and life science '
+                        'markets, consumers, the U.S. government prime '
+                        'contractors, various U.S. government agencies, and '
+                        'thermoelectric integrators. II-VI Incorporated has a '
+                        'strategic partnership agreement with LITE-ON '
+                        'Technology Corporation to partner in the volume '
+                        'manufacturing and commercialization of packaged '
+                        'semiconductor lasers for mass-market light detection '
+                        'and ranging. The company was founded in 1971 and is '
+                        'headquartered in Saxonburg, Pennsylvania.',
+ 'longName': 'II-VI Incorporated',
+ 'market': 'us_market',
+ 'marketCap': 4602983936,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_309779',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -90262000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 45.57,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.64,
+ 'phone': '724 352 4455',
+ 'previousClose': 46.17,
+ 'priceHint': 2,
+ 'priceToBook': 2.0201519,
+ 'priceToSalesTrailing12Months': 2.3055162,
+ 'profitMargins': -0.04521,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 45.72,
+ 'regularMarketDayLow': 44.37,
+ 'regularMarketOpen': 45.57,
+ 'regularMarketPreviousClose': 46.17,
+ 'regularMarketPrice': 45.57,
+ 'regularMarketVolume': 1073462,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 102952000,
+ 'sharesPercentSharesOut': 0.1265,
+ 'sharesShort': 11666411,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 11996593,
+ 'shortName': 'II-VI Incorporated',
+ 'shortPercentOfFloat': 0.1567,
+ 'shortRatio': 8.1,
+ 'startDate': None,
+ 'state': 'PA',
+ 'strikePrice': None,
+ 'symbol': 'IIVI',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.163,
+ 'twoHundredDayAverage': 37.178272,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '9c9e1544-893b-3fe4-a04e-4ebb783dca1b',
+ 'volume': 1073462,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.ii-vi.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '16056'}

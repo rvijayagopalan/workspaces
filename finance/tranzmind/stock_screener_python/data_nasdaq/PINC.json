@@ -1,0 +1,159 @@
+{'52WeekChange': -0.11916709,
+ 'SandP52WeekChange': None,
+ 'address1': '13034 Ballantyne Corporate Place',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 34.73,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 356787,
+ 'averageVolume': 519634,
+ 'averageVolume10days': 356787,
+ 'beta': 0.224649,
+ 'beta3Year': None,
+ 'bid': 34.7,
+ 'bidSize': 900,
+ 'bookValue': 1.99,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Charlotte',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 35.44,
+ 'dayLow': 34.36,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': 0.255,
+ 'enterpriseToEbitda': 4.586,
+ 'enterpriseToRevenue': 2.017,
+ 'enterpriseValue': 2567199744,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 33.658714,
+ 'fiftyTwoWeekHigh': 40.135,
+ 'fiftyTwoWeekLow': 27.11,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 70589975,
+ 'forwardEps': 2.9,
+ 'forwardPE': 11.968965,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 2200,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.01254,
+ 'heldPercentInstitutions': 1.00736,
+ 'industry': 'Health Information Services',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1561852800,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/premierinc.com',
+ 'longBusinessSummary': 'Premier, Inc., together with its subsidiaries, '
+                        'operates as a healthcare improvement company in the '
+                        'United States. It operates through two segments, '
+                        'Supply Chain Services and Performance Services. The '
+                        'Supply Chain Services segment offers its members with '
+                        'access to a range of products and services, including '
+                        'medical and surgical products, pharmaceuticals, '
+                        'laboratory supplies, capital equipment, information '
+                        'technology, facilities and construction, and food and '
+                        'nutritional products, as well as purchased services, '
+                        'such as clinical engineering and document shredding '
+                        'services. It is also involved in the provision of the '
+                        'ASCEND Collaborative service for members to receive '
+                        'group purchasing programs, tiers, and prices, as well '
+                        'as managed services; SURPASS Collaborative service; '
+                        'STOCKD, an e-commerce platform; and PROVIDEGX '
+                        'program, which identifies supply sources for drugs '
+                        'that are on or may be at risk of being added to the '
+                        'national drug shortage list, or that are vulnerable '
+                        'to pricing volatility, as well as direct sourcing '
+                        'business. The Performance Services segment offers '
+                        'PremierConnect for members to address existing cost '
+                        'and quality imperatives, enable them manage a '
+                        'value-based care reimbursement model, and support '
+                        'their regulatory reporting framework; performance '
+                        'improvement collaborative; and consulting and '
+                        "insurance services. This segment's various "
+                        'PremierConnect domains include PremierConnect Quality '
+                        '& Regulatory, PremierConnect Clinical Surveillance & '
+                        'Safety, PremierConnect Supply Chain & ERP, '
+                        'PremierConnect Operations, PremierConnect Enterprise '
+                        'Analytics, and PREMIERCONNECT Clinical Decision '
+                        'Support domains. Premier, Inc. has a collaboration '
+                        'with GE Healthcare to develop a same-day breast '
+                        'cancer diagnosis and treatment model. The company was '
+                        'incorporated in 2013 and is headquartered in '
+                        'Charlotte, North Carolina.',
+ 'longName': 'Premier, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 2484510720,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_705287',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 355840000,
+ 'nextFiscalYearEnd': 1625011200,
+ 'open': 35,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.73,
+ 'phone': '704-357-0022',
+ 'previousClose': 35.11,
+ 'priceHint': 2,
+ 'priceToBook': 17.442211,
+ 'priceToSalesTrailing12Months': 1.9515854,
+ 'profitMargins': 0.08934,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 35.44,
+ 'regularMarketDayLow': 34.36,
+ 'regularMarketOpen': 35,
+ 'regularMarketPreviousClose': 35.11,
+ 'regularMarketPrice': 35,
+ 'regularMarketVolume': 261669,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 71574096,
+ 'sharesPercentSharesOut': 0.050300002,
+ 'sharesShort': 3602104,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 3907836,
+ 'shortName': 'Premier, Inc.',
+ 'shortPercentOfFloat': 0.0509,
+ 'shortRatio': 7.75,
+ 'startDate': None,
+ 'state': 'NC',
+ 'strikePrice': None,
+ 'symbol': 'PINC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -0.407,
+ 'twoHundredDayAverage': 32.741833,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '38fe0a01-4522-39a9-b56b-7a60da06e08b',
+ 'volume': 261669,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.premierinc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '28277'}

@@ -1,0 +1,152 @@
+{'52WeekChange': -0.4189474,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '20880 Stone Oak Parkway',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 8.28,
+ 'askSize': 2900,
+ 'averageDailyVolume10Day': 1408400,
+ 'averageVolume': 1220482,
+ 'averageVolume10days': 1408400,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 8.27,
+ 'bidSize': 900,
+ 'bookValue': 8.585,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Antonio',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 8.83,
+ 'dayLow': 8.15,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 8.823,
+ 'enterpriseToRevenue': 2.045,
+ 'enterpriseValue': 7501558784,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 8.685714,
+ 'fiftyTwoWeekHigh': 19.69,
+ 'fiftyTwoWeekLow': 4.31,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 138271609,
+ 'forwardEps': 0.39,
+ 'forwardPE': 21.23077,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 11400,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.02695,
+ 'heldPercentInstitutions': 1.6648899,
+ 'industry': 'Broadcasting',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/iheartmedia.com',
+ 'longBusinessSummary': 'iHeartMedia, Inc. operates as a media and '
+                        'entertainment company worldwide. It operates through '
+                        'two segments, Audio, and Audio and Media Services. '
+                        'The Audio segment offers broadcast radio, digital, '
+                        'mobile, podcasts, social, program syndication, '
+                        'traffic, weather, news and sports data distribution, '
+                        'and on-demand entertainment, as well as live events, '
+                        'including mobile platforms and products; and operates '
+                        'Premiere Networks, a national radio network that '
+                        'produces, distributes, or represents approximately '
+                        '120 syndicated radio programs and services to '
+                        'approximately 6,200 radio station affiliates. It also '
+                        'delivers real-time traffic and incident information, '
+                        'and weather updates, sports, and news through '
+                        'approximately 2,100 radio stations and 117 television '
+                        'affiliates, and Internet and mobile partnerships. As '
+                        'of December 31, 2019, this segment owned 856 radio '
+                        'stations, which included 243 AM and 613 FM radio '
+                        'stations. The Audio and Media Services segment '
+                        'engages in the media representation business. This '
+                        'segment also provides broadcast and webcast software, '
+                        'such as radio station automation, music scheduling, '
+                        'HD2 solutions, newsroom software, audio logging and '
+                        'archiving, single station automation, and contest '
+                        'tracking software; and real-time audio recognition '
+                        'technology to approximately 8,800 radio stations, '
+                        'television music channels, cable companies, satellite '
+                        'music networks and Internet stations. The company was '
+                        'formerly known as CC Media Holdings, Inc. and changed '
+                        'its name to iHeartMedia, Inc. in September 2014. '
+                        'iHeartMedia, Inc. was incorporated in 1974 and is '
+                        'headquartered in San Antonio, Texas.',
+ 'longName': 'iHeartMedia, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 553166912,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_92768',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 7867658752,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 8.8,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 0.02,
+ 'phone': '210-822-2828',
+ 'previousClose': 8.65,
+ 'priceHint': 2,
+ 'priceToBook': 0.9644729,
+ 'priceToSalesTrailing12Months': 0.1507939,
+ 'profitMargins': 2.65032,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 8.83,
+ 'regularMarketDayLow': 8.15,
+ 'regularMarketOpen': 8.8,
+ 'regularMarketPreviousClose': 8.65,
+ 'regularMarketPrice': 8.8,
+ 'regularMarketVolume': 538836,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Communication Services',
+ 'sharesOutstanding': 59907400,
+ 'sharesPercentSharesOut': 0.1437,
+ 'sharesShort': 9602440,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 8307095,
+ 'shortName': 'iHeartMedia, Inc.',
+ 'shortPercentOfFloat': 0.1855,
+ 'shortRatio': 6.93,
+ 'startDate': None,
+ 'state': 'TX',
+ 'strikePrice': None,
+ 'symbol': 'IHRT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 68.931,
+ 'trailingPE': 0.120120116,
+ 'twoHundredDayAverage': 10.665755,
+ 'volume': 538836,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.iheartmedia.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '78258'}

@@ -1,0 +1,153 @@
+{'52WeekChange': -0.7170909,
+ 'SandP52WeekChange': None,
+ 'address1': '9540 Towne Centre Drive',
+ 'address2': 'Suite 100',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 0.8491,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 82926912,
+ 'averageVolume': 20433704,
+ 'averageVolume10days': 82926912,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 0.86,
+ 'bidSize': 1200,
+ 'bookValue': -0.112,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Diego',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 1.05,
+ 'dayLow': 0.825,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -2.951,
+ 'enterpriseToRevenue': 8.872,
+ 'enterpriseValue': 83509392,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '858 888 7601',
+ 'fiftyDayAverage': 0.54914284,
+ 'fiftyTwoWeekHigh': 4.7,
+ 'fiftyTwoWeekLow': 0.25,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 81579689,
+ 'forwardEps': -0.25,
+ 'forwardPE': -3.56,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 97,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.10414,
+ 'heldPercentInstitutions': 0.11256,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bionanogenomics.com',
+ 'longBusinessSummary': 'Bionano Genomics, Inc. operates as a life sciences '
+                        'instrumentation company in the genome analysis space. '
+                        'The company develops and markets the Saphyr system, a '
+                        'platform for ultra-sensitive and ultra-specific '
+                        'structural variation detection that enables '
+                        'researchers and clinicians to accelerate the search '
+                        'for new diagnostics and therapeutic targets, and to '
+                        'streamline the study of changes in chromosomes, which '
+                        'is known as cytogenetics. Its Saphyr system includes '
+                        'an instrument, chip consumables, reagents, and a '
+                        "suite of data analysis tools. The company's Bionano "
+                        'prep kits and labeling kits provide the critical '
+                        'reagents and protocols needed to extract and label '
+                        'high molecular weight DNA for use with the Saphyr '
+                        'system; and data solutions offering includes a suite '
+                        'of hardware and software for end-to-end experiment '
+                        'management, algorithms for assembling genome maps, '
+                        'and algorithms and databases for bioinformatics '
+                        'processing. It sells its products for research use '
+                        'applications primarily to laboratories associated '
+                        'with academic and governmental research institutions, '
+                        'as well as to pharmaceutical, biotechnology, and '
+                        'contract research companies in the United States and '
+                        'Canada, Europe, the Middle East, India, Africa, '
+                        'China, Japan, South Korea, Singapore, and Australia. '
+                        'The company was formerly known as BioNano Genomics, '
+                        'Inc. and changed its name to Bionano Genomics, Inc. '
+                        'in July 2018. Bionano Genomics, Inc. was founded in '
+                        '2003 and is headquartered in San Diego, California.',
+ 'longName': 'Bionano Genomics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 74684352,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_5900432',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -32473070,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 0.9009,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '858 888 7600',
+ 'previousClose': 0.778,
+ 'priceHint': 4,
+ 'priceToBook': None,
+ 'priceToSalesTrailing12Months': 7.9345856,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 1.05,
+ 'regularMarketDayLow': 0.825,
+ 'regularMarketOpen': 0.9009,
+ 'regularMarketPreviousClose': 0.778,
+ 'regularMarketPrice': 0.9009,
+ 'regularMarketVolume': 127001610,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 83915000,
+ 'sharesPercentSharesOut': 0.0471,
+ 'sharesShort': 3952943,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 4150389,
+ 'shortName': 'Bionano Genomics, Inc.',
+ 'shortPercentOfFloat': 0.047199998,
+ 'shortRatio': 0.33,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'BNGO',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -1.523,
+ 'twoHundredDayAverage': 0.65633094,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'b62a5cf8-b7ae-336a-8f8b-f6a25125d0d8',
+ 'volume': 127001610,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bionanogenomics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92121'}

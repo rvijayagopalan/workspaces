@@ -1,0 +1,147 @@
+{'52WeekChange': 0.12155807,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '26 Landsdowne Street',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 22.94,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 58187,
+ 'averageVolume': 88223,
+ 'averageVolume10days': 58187,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 16.11,
+ 'bidSize': 1000,
+ 'bookValue': 4.527,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 18.065,
+ 'dayLow': 16.59,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -4.704,
+ 'enterpriseToRevenue': 399.542,
+ 'enterpriseValue': 299656608,
+ 'exDividendDate': None,
+ 'exchange': 'NGM',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 18.752571,
+ 'fiftyTwoWeekHigh': 22.96,
+ 'fiftyTwoWeekLow': 4.37,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 11618889,
+ 'forwardEps': -3.36,
+ 'forwardPE': -4.9702387,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 73,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.16325001,
+ 'heldPercentInstitutions': 0.67190003,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/fulcrumtx.com',
+ 'longBusinessSummary': 'Fulcrum Therapeutics, Inc., a clinical-stage '
+                        'biopharmaceutical company, focuses on developing '
+                        'products for improving the lives of patients with '
+                        'genetically defined diseases in the areas of high '
+                        'unmet medical need in the United States. Its product '
+                        'candidates are losmapimod, a small molecule that is '
+                        'in Phase 2b clinical trial for the treatment of '
+                        'facioscapulohumeral muscular dystrophy, a rare, '
+                        'progressive, and disabling muscle wasting disorder '
+                        'that leads to significant physical impairments and '
+                        'disability; and FTX-6058, a small molecule designed '
+                        'to upregulate fetal hemoglobin in patients with '
+                        'sickle cell disease and Ã\x9f-thalassemia. The '
+                        'company is also discovering drug targets for the '
+                        'treatments of duchenne muscular dystrophy, friedreich '
+                        'ataxia, myotonic dystrophy 1, and '
+                        'a-synucleinopathies, as well as neurological and '
+                        'pulmonary diseases. Fulcrum Therapeutics, Inc. has '
+                        'research and discovery collaboration agreement with '
+                        'Acceleron Pharma Inc. to identify biological targets '
+                        'to modulate specific pathways associated with a '
+                        'targeted indication within the pulmonary disease '
+                        'space; and has a strategic collaboration and license '
+                        'agreement with MyoKardia, Inc. to discover, develop, '
+                        'and commercialize novel targeted therapies for the '
+                        'treatment of genetic cardiomyopathies. Fulcrum '
+                        'Therapeutics, Inc. was founded in 2015 and is '
+                        'headquartered in Cambridge, Massachusetts.',
+ 'longName': 'Fulcrum Therapeutics, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 457623456,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_376267397',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -68373000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 17.62,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -0.9,
+ 'phone': '617 651 8851',
+ 'previousClose': 17.62,
+ 'priceHint': 2,
+ 'priceToBook': 3.6889775,
+ 'priceToSalesTrailing12Months': 610.1646,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.065,
+ 'regularMarketDayLow': 16.59,
+ 'regularMarketOpen': 17.62,
+ 'regularMarketPreviousClose': 17.62,
+ 'regularMarketPrice': 17.62,
+ 'regularMarketVolume': 62773,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 27402600,
+ 'sharesPercentSharesOut': 0.0274,
+ 'sharesShort': 751044,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 542560,
+ 'shortName': 'Fulcrum Therapeutics, Inc.',
+ 'shortPercentOfFloat': 0.041199997,
+ 'shortRatio': 6.18,
+ 'startDate': None,
+ 'state': 'MA',
+ 'strikePrice': None,
+ 'symbol': 'FULC',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -14.919,
+ 'twoHundredDayAverage': 16.139784,
+ 'volume': 62773,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.fulcrumtx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '02139'}

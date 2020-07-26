@@ -1,0 +1,151 @@
+{'52WeekChange': 1.087574,
+ 'SandP52WeekChange': None,
+ 'address1': 'Babraham Research Campus',
+ 'address2': 'Building 900',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 18.26,
+ 'askSize': 800,
+ 'averageDailyVolume10Day': 27712,
+ 'averageVolume': 47846,
+ 'averageVolume10days': 27712,
+ 'beta': None,
+ 'beta3Year': None,
+ 'bid': 16.01,
+ 'bidSize': 800,
+ 'bookValue': 5.325,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Cambridge',
+ 'companyOfficers': [],
+ 'country': 'United Kingdom',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 18.26,
+ 'dayLow': 16.83,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -5.999,
+ 'enterpriseToRevenue': 23.582,
+ 'enterpriseValue': 201534816,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 16.882086,
+ 'fiftyTwoWeekHigh': 20.1,
+ 'fiftyTwoWeekLow': 6.24,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 2893121,
+ 'forwardEps': -2.06,
+ 'forwardPE': -8.305826,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 78,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.35101002,
+ 'heldPercentInstitutions': 0.33096,
+ 'industry': 'Biotechnology',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/bicycletherapeutics.com',
+ 'longBusinessSummary': 'Bicycle Therapeutics plc, a clinical-stage '
+                        'biopharmaceutical company, develops a class of '
+                        'medicines for diseases that are underserved by '
+                        'existing therapeutics. Its lead product candidate is '
+                        'BT1718, a bicycle toxin conjugate (BTC), which is in '
+                        'Phase I/IIa clinical trials targeting tumors that '
+                        'express Membrane Type 1 matrix metalloprotease. The '
+                        "company's oncology product candidates also comprise "
+                        'BT5528, a BTC that is in a Phase I/IIa clinical trial '
+                        'targeting EphA2; BT8009, which is in preclinical '
+                        'studies targeting Nectin-4; and CD137, an immune cell '
+                        'co-stimulatory molecule that is in preclinical stage. '
+                        'In addition, it is developing THR-149, a plasma '
+                        'kallikrein inhibitor that completed Phase I clinical '
+                        'trials for the treatment of diabetic macular edema. '
+                        'Further, the company collaborates with '
+                        'biopharmaceutical companies and organizations to '
+                        'develop programs in therapeutic areas, such as '
+                        'anti-infective, cardiovascular, ophthalmology, and '
+                        'respiratory indications. Bicycle Therapeutics plc has '
+                        'a clinical trial and license agreement with the '
+                        'Cancer Research Technology Limited and CRUK; research '
+                        'collaboration agreements with AstraZeneca, Sanofi, '
+                        'Oxurion, and the Dementia Discovery Fund; and '
+                        'discovery collaboration and license agreement with '
+                        'Genentech for the discovery and development of '
+                        'Bicycle peptides for multiple immuno-oncology '
+                        'targets. The company was incorporated in 2009 and is '
+                        'headquartered in Cambridge, the United Kingdom.',
+ 'longName': 'Bicycle Therapeutics plc',
+ 'market': 'us_market',
+ 'marketCap': 309480544,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_72510621',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -35429000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 18.22,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': None,
+ 'phone': '44 1223 261 503',
+ 'previousClose': 17.64,
+ 'priceHint': 2,
+ 'priceToBook': 3.2131457,
+ 'priceToSalesTrailing12Months': 36.213497,
+ 'profitMargins': 0,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 18.26,
+ 'regularMarketDayLow': 16.83,
+ 'regularMarketOpen': 18.22,
+ 'regularMarketPreviousClose': 17.64,
+ 'regularMarketPrice': 18.22,
+ 'regularMarketVolume': 15817,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 18087700,
+ 'sharesPercentSharesOut': 0.0056,
+ 'sharesShort': 100906,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 104596,
+ 'shortName': 'Bicycle Therapeutics plc',
+ 'shortPercentOfFloat': None,
+ 'shortRatio': 3.28,
+ 'startDate': None,
+ 'strikePrice': None,
+ 'symbol': 'BCYC',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': -4.988,
+ 'twoHundredDayAverage': 14.548259,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': 'ce2103f4-bc89-3b95-8a05-b5941ff8789d',
+ 'volume': 15817,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.bicycletherapeutics.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': 'CB22 3AT'}

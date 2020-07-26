@@ -1,0 +1,162 @@
+{'52WeekChange': 0.03779435,
+ 'SandP52WeekChange': None,
+ 'address1': '1 Tower Place',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 32.58,
+ 'askSize': 900,
+ 'averageDailyVolume10Day': 371800,
+ 'averageVolume': 616123,
+ 'averageVolume10days': 371800,
+ 'beta': 1.048179,
+ 'beta3Year': None,
+ 'bid': 32.01,
+ 'bidSize': 800,
+ 'bookValue': 2.357,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'South San Francisco',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 33.49,
+ 'dayLow': 31.7,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': -77.245,
+ 'enterpriseToRevenue': 10.139,
+ 'enterpriseValue': 1414038272,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fax': '415 287 2450',
+ 'fiftyDayAverage': 33.62,
+ 'fiftyTwoWeekHigh': 38.5,
+ 'fiftyTwoWeekLow': 13.04,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 40523624,
+ 'forwardEps': 0.42,
+ 'forwardPE': 77.59524,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 306,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'headSymbol': None,
+ 'heldPercentInsiders': 0.02495,
+ 'heldPercentInstitutions': 0.97010005,
+ 'industry': 'Diagnostics & Research',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/caredx.com',
+ 'longBusinessSummary': 'CareDx, Inc., a precision medicine company, '
+                        'discovers, develops, and commercializes healthcare '
+                        'solutions for transplant patients and caregivers '
+                        'worldwide. It offers AlloSure Kidney, a donor-derived '
+                        'cell-free DNA (dd-cfDNA) solution for kidney '
+                        'transplant patients; and AlloMap Heart, a gene '
+                        'expression solution for heart transplant patients. '
+                        'The company also develops, manufactures, markets, and '
+                        'sells products that increase the chance of successful '
+                        'transplants by facilitating a match between a donor '
+                        'and a recipient of stem cells and solid organs. In '
+                        'addition, it offers Olerup SSP, which is used to type '
+                        'human leukocyte antigen (HLA) alleles based on '
+                        'sequence specific primer technology; Olerup SBT, a '
+                        'product range for sequence-based typing of HLA '
+                        'alleles; QTYPE that enables precision in HLA typing '
+                        'at a low to intermediate resolution for samples that '
+                        'uses real-time polymerase chain reaction methodology; '
+                        'and TruSight HLA, a solution for use in '
+                        'transplantation diagnostic testing. Further, the '
+                        'company provides AlloSeq Tx, a high-resolution HLA '
+                        'typing solution; AlloSeq cfDNA, a surveillance '
+                        'solution to measure dd-cfDNA in blood; AlloSeq HCT, a '
+                        'solution for chimerism testing for stem cell '
+                        'transplant recipients; Ottr, a transplant patient '
+                        'tracking software; and XynQAPI and Waitlist '
+                        'Management solutions. It offers its products directly '
+                        'to customers, as well as through third-party '
+                        'distributors. The company has a license agreement '
+                        'with Illumina, Inc. for the development, '
+                        'commercialization, and distribution of next '
+                        'generation sequencing product line for use in '
+                        'transplantation diagnostic testing; and Cibiltech SAS '
+                        'to commercialize KidneyCare iBox, a software for the '
+                        'predictive analysis of post-transplantation kidney '
+                        'allograft loss. The company was formerly known as '
+                        'XDx, Inc. and changed its name to CareDx, Inc. in '
+                        'March 2014. CareDx, Inc. was incorporated in 1998 and '
+                        'is headquartered in South San Francisco, California.',
+ 'longName': 'CareDx, Inc',
+ 'market': 'us_market',
+ 'marketCap': 1590730880,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_9985914',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': -20260000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 33.35,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': -83.75,
+ 'phone': '415 287 2300',
+ 'previousClose': 33.5,
+ 'priceHint': 2,
+ 'priceToBook': 13.826898,
+ 'priceToSalesTrailing12Months': 11.405869,
+ 'profitMargins': -0.14527,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 33.49,
+ 'regularMarketDayLow': 31.7,
+ 'regularMarketOpen': 33.35,
+ 'regularMarketPreviousClose': 33.5,
+ 'regularMarketPrice': 33.35,
+ 'regularMarketVolume': 395279,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Healthcare',
+ 'sharesOutstanding': 48810400,
+ 'sharesPercentSharesOut': 0.1074,
+ 'sharesShort': 5177488,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 5594383,
+ 'shortName': 'CareDx, Inc.',
+ 'shortPercentOfFloat': 0.12189999,
+ 'shortRatio': 6.74,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'CDNA',
+ 'threeYearAverageReturn': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.576,
+ 'trailingAnnualDividendYield': 0.047044776,
+ 'trailingEps': -0.481,
+ 'twoHundredDayAverage': 26.67518,
+ 'underlyingExchangeSymbol': None,
+ 'underlyingSymbol': None,
+ 'uuid': '7abb7616-c378-3cca-8114-596dcbc27b1e',
+ 'volume': 395279,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.caredx.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '94080'}

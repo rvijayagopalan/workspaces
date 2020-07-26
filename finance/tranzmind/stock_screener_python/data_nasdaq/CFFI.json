@@ -1,0 +1,160 @@
+{'52WeekChange': -0.4539305,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '802 Main Street',
+ 'address2': 'PO Box 391',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 43.75,
+ 'askSize': 1200,
+ 'averageDailyVolume10Day': 4475,
+ 'averageVolume': 7319,
+ 'averageVolume10days': 4475,
+ 'beta': 0.479551,
+ 'beta3Year': None,
+ 'bid': 22.82,
+ 'bidSize': 900,
+ 'bookValue': 50.245,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'West Point',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 30.15,
+ 'dayLow': 29.87,
+ 'dividendRate': 1.52,
+ 'dividendYield': 0.0512,
+ 'earningsQuarterlyGrowth': -0.359,
+ 'enterpriseToEbitda': None,
+ 'enterpriseToRevenue': 1.284,
+ 'enterpriseValue': 135759248,
+ 'exDividendDate': 1591920000,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 33.499714,
+ 'fiftyTwoWeekHigh': 57.61,
+ 'fiftyTwoWeekLow': 28,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 2.87,
+ 'floatShares': 3435494,
+ 'forwardEps': None,
+ 'forwardPE': None,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 643,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.05863,
+ 'heldPercentInstitutions': 0.34627998,
+ 'industry': 'Banks—Regional',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1577750400,
+ 'lastMarket': None,
+ 'lastSplitDate': 900979200,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/cffc.com',
+ 'longBusinessSummary': 'C&F Financial Corporation operates as a bank holding '
+                        'company for Citizens and Farmers Bank that provides '
+                        'banking services to individuals and businesses. The '
+                        "company's Retail Banking offers various banking "
+                        'services, including checking and savings deposit '
+                        'accounts, as well as business, real estate, '
+                        'development, mortgage, home equity, and installment '
+                        'loans. It also provides ATMs, Internet and mobile '
+                        'banking, and debit and credit cards, as well as safe '
+                        'deposit box rentals, notary public, electronic '
+                        'transfer, and other customary bank services. This '
+                        'segment offers its services through its main office '
+                        'in West Point, Virginia, as well as through 25 '
+                        'Virginia branches located 1 each in Cartersville, '
+                        'Charlottesville, Chester, Cumberland, Hampton, '
+                        'Mechanicsville, Newport News, Norge, Powhatan, '
+                        'Providence Forge, Quinton, Saluda, Sandston, West '
+                        'Point, and Yorktown; 2 in Williamsburg; 4 in '
+                        "Richmond; and 4 in Midlothian. The company's Mortgage "
+                        'Banking segment provides various residential mortgage '
+                        'loans; originates conventional mortgage loans, '
+                        'mortgage loans insured by the Federal Housing '
+                        'Administration, and mortgage loans guaranteed by the '
+                        'United States Department of Agriculture and the '
+                        'Veterans Administration; and ancillary mortgage loan '
+                        'origination services for residential appraisals, as '
+                        'well as various mortgage origination functions to '
+                        'third parties. It provides mortgage loan origination '
+                        'services through 11 offices in Virginia, 2 offices in '
+                        'Maryland, and 2 offices in North Carolina, as well as '
+                        'through 1 each in South Carolina and West Virginia. '
+                        "The company's Consumer Finance segment provides "
+                        'automobile loans through its offices in Richmond and '
+                        'Hampton, Virginia; and Nashville, Tennessee. Its '
+                        'Other segment offers brokerage and wealth management '
+                        'services; and insurance products. The company also '
+                        'provides title and settlement agency, and insurance '
+                        'services. C&F Financial Corporation was founded in '
+                        '1927 and is headquartered in West Point, Virginia.',
+ 'longName': 'C&F Financial Corporation',
+ 'market': 'us_market',
+ 'marketCap': 108955904,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_381942',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 16569000,
+ 'nextFiscalYearEnd': 1640908800,
+ 'open': 30.15,
+ 'openInterest': None,
+ 'payoutRatio': 0.2793,
+ 'pegRatio': None,
+ 'phone': '804-843-2360',
+ 'previousClose': 29.7,
+ 'priceHint': 2,
+ 'priceToBook': 0.5944871,
+ 'priceToSalesTrailing12Months': 1.0301989,
+ 'profitMargins': 0.15666,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 30.15,
+ 'regularMarketDayLow': 29.87,
+ 'regularMarketOpen': 30.15,
+ 'regularMarketPreviousClose': 29.7,
+ 'regularMarketPrice': 30.15,
+ 'regularMarketVolume': 1549,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Financial Services',
+ 'sharesOutstanding': 3647670,
+ 'sharesPercentSharesOut': 0.0072000003,
+ 'sharesShort': 26182,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 19627,
+ 'shortName': 'C&F Financial Corporation',
+ 'shortPercentOfFloat': 0.0076,
+ 'shortRatio': 2.9,
+ 'startDate': None,
+ 'state': 'VA',
+ 'strikePrice': None,
+ 'symbol': 'CFFI',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 1.51,
+ 'trailingAnnualDividendYield': 0.05084175,
+ 'trailingEps': 4.685,
+ 'trailingPE': 6.375667,
+ 'twoHundredDayAverage': 38.88964,
+ 'volume': 1549,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.cffc.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '23181'}

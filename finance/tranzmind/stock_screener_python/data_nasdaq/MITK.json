@@ -1,0 +1,150 @@
+{'52WeekChange': -0.09187621,
+ 'SandP52WeekChange': 0.0644362,
+ 'address1': '600 B Street',
+ 'address2': 'Suite 100',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 9.4,
+ 'askSize': 1000,
+ 'averageDailyVolume10Day': 480750,
+ 'averageVolume': 367858,
+ 'averageVolume10days': 480750,
+ 'beta': 0.246498,
+ 'beta3Year': None,
+ 'bid': 9.38,
+ 'bidSize': 800,
+ 'bookValue': 2.773,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'San Diego',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1593475200,
+ 'dayHigh': 9.6,
+ 'dayLow': 9.35,
+ 'dividendRate': None,
+ 'dividendYield': None,
+ 'earningsQuarterlyGrowth': None,
+ 'enterpriseToEbitda': 17.223,
+ 'enterpriseToRevenue': 3.89,
+ 'enterpriseValue': 358553376,
+ 'exDividendDate': None,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 9.566286,
+ 'fiftyTwoWeekHigh': 10.62,
+ 'fiftyTwoWeekLow': 5.26,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': None,
+ 'floatShares': 37707421,
+ 'forwardEps': 0.59,
+ 'forwardPE': 15.915256,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 272,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.03502,
+ 'heldPercentInstitutions': 0.69153,
+ 'industry': 'Software—Application',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1569801600,
+ 'lastMarket': None,
+ 'lastSplitDate': None,
+ 'lastSplitFactor': None,
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/miteksystems.com',
+ 'longBusinessSummary': 'Mitek Systems, Inc. develops, markets, and sells '
+                        'mobile image capture and digital identity '
+                        'verification solutions in the United States, Europe, '
+                        "Latin America, and internationally. The company's "
+                        'solutions are embedded in native mobile apps and '
+                        'browsers to facilitate online user experiences, fraud '
+                        'detection and reduction, and compliant transactions. '
+                        'It offers Mobile Deposit that enables individuals and '
+                        'businesses to remotely deposit checks using their '
+                        'camera-equipped smartphone or tablet; and Mobile '
+                        'Verify, an identity verification solution that is '
+                        'integrated into mobile apps, mobile Websites, and '
+                        'desktop applications. The company also provides '
+                        'Mobile Fill, an application to prefill forms with '
+                        'user data by snapping a picture of the driver license '
+                        'or other similar identity documents; Mobile Docs, a '
+                        'mobile document scanning solution; and MiSnap, an '
+                        'image capture technology. In addition, it offers '
+                        'CheckReader that enables financial institutions to '
+                        'automatically extract data from checks; XE, a '
+                        'recurrent neural network engine; and ID_CLOUD, an '
+                        'automated identity verification solution that is '
+                        "integrated into a customers' application to read and "
+                        'validate identity documents. The company sells its '
+                        'solutions primarily to banks, credit unions, lenders, '
+                        'payments processers, card issuers, fintech companies, '
+                        'etc. through direct sales teams and channel partners. '
+                        'Mitek Systems, Inc. was founded in 1983 and is based '
+                        'in San Diego, California.',
+ 'longName': 'Mitek Systems, Inc.',
+ 'market': 'us_market',
+ 'marketCap': 386487712,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_288586',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1585612800,
+ 'navPrice': None,
+ 'netIncomeToCommon': 4651000,
+ 'nextFiscalYearEnd': 1632960000,
+ 'open': 9.5,
+ 'openInterest': None,
+ 'payoutRatio': 0,
+ 'pegRatio': 1.33,
+ 'phone': '619-269-6800',
+ 'previousClose': 9.59,
+ 'priceHint': 2,
+ 'priceToBook': 3.3862245,
+ 'priceToSalesTrailing12Months': 4.1926136,
+ 'profitMargins': 0.05045,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 9.6,
+ 'regularMarketDayLow': 9.35,
+ 'regularMarketOpen': 9.5,
+ 'regularMarketPreviousClose': 9.59,
+ 'regularMarketPrice': 9.5,
+ 'regularMarketVolume': 262648,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 41159500,
+ 'sharesPercentSharesOut': 0.0242,
+ 'sharesShort': 995290,
+ 'sharesShortPreviousMonthDate': 1590710400,
+ 'sharesShortPriorMonth': 859680,
+ 'shortName': 'Mitek Systems, Inc.',
+ 'shortPercentOfFloat': 0.024500001,
+ 'shortRatio': 2.54,
+ 'startDate': None,
+ 'state': 'CA',
+ 'strikePrice': None,
+ 'symbol': 'MITK',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': None,
+ 'trailingAnnualDividendYield': None,
+ 'trailingEps': 0.106,
+ 'trailingPE': 88.58491,
+ 'twoHundredDayAverage': 8.855468,
+ 'volume': 262648,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.miteksystems.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '92101'}
