@@ -1,0 +1,40 @@
+Links for the Batch size videos:
+
+Part 1 process URL is: https://vimeo.com/256459905/5a104a61c5
+
+Part 2 process video URL is: https://vimeo.com/256460187/3c08a15bd3
+
+Part 3 process video URL is: https://vimeo.com/256460427/438210fe17
+
+
+https://vimeo.com/339425532/e05c067fbf
+
+https://vimeo.com/320364003/fcc9769bc6
+
+https://player.vimeo.com/video/339425816?app_id=122963
+
+
+Lesson 1:
+Video: Building Incrementally: Economic Advantage
+Video: Designing your Team's Kanban System
+
+Lesson 2:
+-No videos
+
+Lesson 3:
+Video: Implementing Kanban
+
+Lesson 4:
+Video: What is DevOps?
+Video: Continuous Delivery Pipeline
+Video: Backlog Refinement Workshop
+
+Lesson 5:
+Video: Introduction to PI Planning
+Video: Program Board
+
+Lesson 6:
+Becoming a SAFe Certified Professional:
+Video: Welcome to the SAFe Community Platform
+
+
