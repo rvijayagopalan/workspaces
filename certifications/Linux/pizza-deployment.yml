@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: pizza-deployment
+  name: pizza-deployment
+  namespace : pizza
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: pizza
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: pizza
+    spec:
+      containers:
+      - image: linuxacademycontent/pizza-services:1.14.6
+        name: pizza
+        command: ["nginx"]
+        args: ["-g", "daemon off;"]
+        ports:
+        - containerPort: 80
+        livenessProbe:
+         httpGet:
+          path: /healthz
+          port: 8081
+        readinessProbe:
+         httpGet:
+          path: /
+          port: 80
+        resources: {}
+status: {}
