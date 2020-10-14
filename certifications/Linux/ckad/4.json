@@ -1,0 +1,25 @@
+{
+    "kind": "Pod",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "nginx-4",
+        "creationTimestamp": null,
+        "labels": {
+            "run": "nginx-4"
+        }
+    },
+    "spec": {
+        "containers": [
+            {
+                "name": "nginx-4",
+                "image": "nginx",
+                "resources": {},
+		"command": ["/bin/sh"],
+		"args": ["-c", "while true; do echo hello; sleep 10;done"]
+            }
+        ],
+        "restartPolicy": "Always",
+        "dnsPolicy": "ClusterFirst"
+    },
+    "status": {}
+}

@@ -1,0 +1,46 @@
+
+namespace - default, specified namespace
+
+pods - nginx
+pods - command line arguments
+pods - expose ports
+pods - env variables, arguments
+pods - check logs
+pods - labels
+
+service - nodePort, protocol
+service - troubleshoot
+
+resourcequotas - memory, cpu (requests, limits)
+
+cronjob - schedule, logs, commands
+
+deployments - replicas
+deployments - Rolling Updates & Rollbacks
+deployments - labels and selectors
+deployments - configurations (maxSurge, maxUnavailable)
+deployments - troubleshoot
+
+secret - 
+secret - env variables
+
+serviceaccount - 
+
+securityContext - 
+securityContext - runAsUser, runAsGroup, fsGroup
+
+probes - livenessProbe
+probes - readinessProbe
+events 
+
+configMap - from-literal, from-file
+
+persistentVolume
+persistentVolumeClaim
+
+patterns - ambassador
+patterns - adpater
+
+
+
+
